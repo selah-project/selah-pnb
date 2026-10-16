@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 9:4",
+  "book": "ecclesiastes",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "יבחר",
+      "rationale": "בחר دی ہوپھل صورت صرف ایتھے آؤندی اے؛ 'چُنیا گیا\/جُڑیا' — رابطے دی گل، چنانچہ 'جیون والیاں نال رلایا گیا'۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "יבחר",
+      "rationale": "KJV 'joined' بنا رکھدا اے پر جڑ باخ دے مطلب نوں پورا نئیں دسدا؛ 'چُنیا گیا' وی ممکن اے۔"
+    }
+  ],
+  "translation": "کیونکہ جیہڑا جیون والیاں سَب نال جُڑیا اے، اوہدے کول بھروسہ اے؛ کیونکہ جِوندا کتا مرے ہوئے شیر توں چنگا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4cd7115eadb43106d51f68cd3f6c5b4c96fe8f0204e1b497ec13331bc7484705",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ecclesiastes\/9\/1-4.1792117661612.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "جو کوئی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "جُڑیا اے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سَب"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "جیون والیاں"
+    },
+    {
+      "surface": "یש",
+      "gloss": "اے"
+    },
+    {
+      "surface": "בטחון",
+      "gloss": "بھروسہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "کتے لئی"
+    },
+    {
+      "surface": "חי",
+      "gloss": "جِوندے"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "شیر"
+    },
+    {
+      "surface": "המת",
+      "gloss": "مرے ہوئے"
+    }
+  ],
+  "timestamp": "2026-10-16T02:27:41.613505728Z",
+  "model": "glm-5.3"
+}

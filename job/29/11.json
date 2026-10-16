@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 29:11",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "وתאשרני",
+      "rationale": "אשר جڑ 'سِدھا ہونا\/خوش بخت ہونا' اے — 'دعا دینا' نئیں؛ 'خوش بخت آکھیا' اوہدے نیڑے اے۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "کنّ\/اکھ",
+      "rationale": "مزمور دا متواز ڈھانچا: کنّ سنیا — اکھ ویکھی؛ دونواں پنگو آدمی نوں صدق کردیاں نیں۔"
+    }
+  ],
+  "translation": "کیونکہ کنّ نے سنیا تے مینوں خوش祝福 کیتا، تے اکھ نے ویکھیا تے میرے حق وِچ گواہی دتی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "212d995a7bbfa5fb3c2a6c51ca66265eb8bbf9ea6845649296e03e758b484579",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/29\/9-12.1792116114932.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "کنّ"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "سنیا"
+    },
+    {
+      "surface": "ותאשרני",
+      "gloss": "تے مینوں خوش بخت آکھیا"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "تے اکھ"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "ویکھیا"
+    },
+    {
+      "surface": "ותעידני",
+      "gloss": "تے میرے حق وِچ گواہی دتی"
+    }
+  ],
+  "timestamp": "2026-10-16T02:01:54.933737835Z",
+  "model": "glm-5.3"
+}

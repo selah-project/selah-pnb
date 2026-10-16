@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 11:25",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "موٹی ہو جائےگی",
+      "rationale": "תדשן وشال طور تے چربی\/موٹا ہونا اے — خوشحالی دی تصویر، جسمانی موٹاپا۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "יורא",
+      "rationale": "کجھ قاری דشال توں 'مویج' پڑھدے نیں؛ روتھ توں 'سیراب کیتا جائے گا' زیادہ عام اے۔"
+    }
+  ],
+  "translation": "برکت والی جان موٹی ہو جائےگی، تے سیراب کرن والا وی اوہو سیراب کیتا جائے گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d27d585a90bc99d96c8d9dd6edc124656d194a7c8b74ddacd919acd2aaa7e207",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/11\/25-28.1792114668649.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "برکت والی"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "موٹی ہو جائےگی"
+    },
+    {
+      "surface": "ומרוה",
+      "gloss": "تے سیراب کرن والا"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہو"
+    },
+    {
+      "surface": "יורא",
+      "gloss": "سیراب کیتا جائے گا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:37:48.650383458Z",
+  "model": "glm-5.3"
+}

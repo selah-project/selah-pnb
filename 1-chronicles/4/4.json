@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 4:4",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "copula ⟨سی⟩",
+      "rationale": "عبرانی وِچ 'پیو' ناں دے نال بریکتھا اے، فعل نئیں — پنجابی نے سی پائی"
+    },
+    {
+      "kind": "crux",
+      "subject": "אפרתה",
+      "rationale": "افُراتاہ — بیت لِخم دا دوجا ناں، پر ایتھے عورت دے ناں والا پکھ وی ممکن اے (خُور دی ماں\/تینویں)"
+    }
+  ],
+  "translation": "تے پِنُوایل گِدور دا پیو سی، تے عِیزر خُوشاہ دا پیو — ایہہ خُور دے پُتر نیں، افُراتاہ دا پُہلاں جِمایا، جیہڑا بیت لِخم دا پیو سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "df5b14d76c868abd355edfcd8185d8c6682dcf9a789337d3d2a782ae2b237856",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/4\/1-4.1792120329110.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופנואל",
+      "gloss": "تے پِنُوایل"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "دا پیو"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "گِدور"
+    },
+    {
+      "surface": "ועזר",
+      "gloss": "تے عِیزر"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "دا پیو"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "خُوشاہ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "חור",
+      "gloss": "خُور"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "پُہلاں جِمایا"
+    },
+    {
+      "surface": "אפרתה",
+      "gloss": "افُراتاہ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "دے پیو ⟨سی⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لِخم"
+    }
+  ],
+  "timestamp": "2026-10-16T03:12:09.111485203Z",
+  "model": "glm-5.3"
+}

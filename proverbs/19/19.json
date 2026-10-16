@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 19:19",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "גרל",
+      "rationale": "سخت — ایہ لفظ تنخ وِچ صرف ایتھے آیا اے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ועוד תוסף",
+      "rationale": "دوجا پڑھائی: 'تُسیں ہور ہور کروگے' — یعنی بچاؤنا بار بار پویگا، جیویں کیج کہندا اے"
+    }
+  ],
+  "translation": "سخت غصے والا سزا بھریگا، کیوں جو جے تُسیں اوہنوں بچاؤ تاں فیر ہور ⟨بچاؤنا⟩ پویگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bad42d7a68c4700fffe7c247ac07c1e0cb354901859946ed401a490fc0e3ff7c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/19\/17-20.1792114916792.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גרל",
+      "gloss": "سخت"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "غصے والا"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "بھریگا"
+    },
+    {
+      "surface": "ענש",
+      "gloss": "سزا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "بچاؤ"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "فیر ہور"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "⟨بچاؤنا⟩ پویگا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:41:56.793435259Z",
+  "model": "glm-5.3"
+}

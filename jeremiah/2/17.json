@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 2:17",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הלוא זאת תעשה לך",
+      "rationale": "עبرانی سوال: ’کیہ ایہہ تیرے آپ دا کیتا نئیں؟‘ — یعنی ایہہ سزا تیری آپ دی کمائی اے"
+    },
+    {
+      "kind": "you",
+      "subject": "اسرائیل",
+      "rationale": "رمزی صیغہ مؤنث وچ اسرائیل نوں سدّیا گیا"
+    }
+  ],
+  "translation": "کیہ ایہہ تیرے اُتے آپ نئیں آیا، کیوں جو تُوں نے ⟨את⟩ یاہوہ نوں، اپنے ایلوہیم نوں، اس ویلے چھڈّ دِتا جدوں اوہ تینوں راہ وِچ لَے جاندا سی؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "82885541c6f21ed67d46aec70e3efca3f7618696944013cd0cfcb3e6fd9363cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/2\/17-20.1792107297778.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "کیہ … نئیں"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "تیرے اُتے آیا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیرے اُتے"
+    },
+    {
+      "surface": "עזבך",
+      "gloss": "چھڈّ دِتا تیرا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ نوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تیرے ایلوہیم"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "اس ویلے"
+    },
+    {
+      "surface": "מוליכך",
+      "gloss": "تینوں لَے جاندا سی"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "راہ وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T23:34:57.778935685Z",
+  "model": "glm-5.3"
+}

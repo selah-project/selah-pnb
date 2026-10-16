@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 38:30",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "השני",
+      "rationale": "مسورتی نقطہ دے مطابق הַשֵּׁנִי = ‘دوجا’؛ ترجمے KJV\/JPS اوہنوں הַשָּׁנִی ‘سرخی دھاگا’ پڑھدے نیں (38:28 دے شارلت دھاگے دے حوالے نال) — مینوں ‘دوجا’ رکھیا"
+    },
+    {
+      "kind": "addition",
+      "subject": "سرخی دھاگے والا",
+      "rationale": "پنجابی جملے نوں پورا کرن لئی وادھو وضاحت، عبرانی وِچ صرف ‘اوہدے ہتھ اُتے’ اے"
+    }
+  ],
+  "translation": "تے مگروں اوہدا بھرا نِکلیا — ⟨اوہ⟩ جیہڑا اوہدے ہتھ اُتے ⟨سرخی دھاگے⟩ والا سی — تے اوہناں نے اوہدا ناں زراخ رکھیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bb2ebc3c959a2611fe1ba35778edbc2d89a6d61356c989cb55ed55ef78baa227",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/38\/29-30.1792095694984.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "تے مگروں"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "نِکلیا"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "اوہدا بھرا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "اوہدے ہتھ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دوجا"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "تے رکھیا"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اوہدا ناں"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "زراخ"
+    }
+  ],
+  "timestamp": "2026-10-15T20:21:34.985144944Z",
+  "model": "glm-5.3"
+}

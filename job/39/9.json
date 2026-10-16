@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 39:9",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ریم",
+      "rationale": "KJV 'unicorn' غلط اے؛ רְאֵם جنگلی بَھینسا\/سَنگ اے — حرف-نقل رکھیا"
+    },
+    {
+      "kind": "invitation",
+      "subject": "توں ایوب نوں",
+      "rationale": "یاہوہ ایوب توں سوال پُچھدا اے — سِدھا مخاطب"
+    },
+    {
+      "kind": "you",
+      "subject": "ایوب",
+      "rationale": "تمام سوال 'توں' مخاطب نیں"
+    }
+  ],
+  "translation": "کی ریم تیرا اِکھاں وِچ آؤندا اے، تیرے لئی نوںکر لگدا اے؟ کی اوہ رات نوں تیرے <⟩> بِنے دے پاسے ٹِکدا اے؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b5b76b5b81d8d2b096a7d2b06a160bff40d836b6936325fe53518e3aaf8bb93f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/39\/9-12.1792116483770.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היאבה",
+      "gloss": "کی … اِکھاں وِچ آؤندا اے"
+    },
+    {
+      "surface": "רים",
+      "gloss": "ریم ⟨جنگلی سَنگ⟩"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "تیرے لئی نوںکر لگدا اے"
+    },
+    {
+      "surface": "אם",
+      "gloss": "کی"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "رات نوں ٹِکدا اے"
+    },
+    {
+      "surface": "על",
+      "gloss": "دے پاسے"
+    },
+    {
+      "surface": "אבוסך",
+      "gloss": "تیرے بِنے"
+    }
+  ],
+  "timestamp": "2026-10-16T02:08:03.770497219Z",
+  "model": "glm-5.3"
+}

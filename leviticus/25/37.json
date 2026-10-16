@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 25:37",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "سود",
+      "rationale": "בנשך رِبھ\/سود اے — پنجابی 'سود' اوہو مطلب رکھدا اے، پر عبرانی لفظ دا ٹھیک مطلب 'ڈنگ' اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "نفع",
+      "rationale": "מרבית دا مطلب 'وادھا\/گنتی' اے — 'نفع' کردار دا لفظ اے، شکل دا نئیں"
+    }
+  ],
+  "translation": "⟨את⟩ اپنا سونا-چاندی سود اُتے اُس نوں نہ دیں، تے نفع اُتے ⟨את⟩ اپنا کھانا نہ دیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9b5488444a74bbb8c8d044e41b62c3fadae48d4d4ed360c434230f421bb1ea1b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/25\/37-40.1792098100748.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنا سونا-چاندی"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "اپنا سونا-چاندی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "دیں"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اُس نوں"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "سود اُتے"
+    },
+    {
+      "surface": "ובמרבית",
+      "gloss": "تے نفع اُتے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "دیں"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "اپنا کھانا"
+    }
+  ],
+  "timestamp": "2026-10-15T21:01:40.749341406Z",
+  "model": "glm-5.3"
+}

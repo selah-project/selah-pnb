@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 9:12",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על עזבם",
+      "rationale": "عبرانی 'al' ایتھے سبب دسدا اے — 'کیوں جو اوہناں چھڈی'؛ پنجابی وچ 'ایس لئی جو'۔"
+    },
+    {
+      "kind": "alternative",
+      "subject": "تریاں",
+      "rationale": "'تُرے' لہوری ریت وچ تے ویکھیا جا سکدا اے؛ 'تریاں' ٹکسالی بول چال اے۔"
+    }
+  ],
+  "translation": "تے یاہوہ نے آکھیا: اوہناں ایس لئی جو ⟨את⟩ میری تورات چھڈّ دتی، جو میں اوہناں اگے رکھی سی، تے اوہناں میری آواز نئیں سنی، تے اوہ اودے وِچ نئیں تریاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "701b3678bb719311701aff54e5be955aa73e98dd77c779cc44587485922f1345",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/9\/9-12.1792107553999.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ نے"
+    },
+    {
+      "surface": "על",
+      "gloss": "ایس لئی جو"
+    },
+    {
+      "surface": "עזבם",
+      "gloss": "اوہناں چھڈّ دتی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میری تورات"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "میری تورات"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "میں رکھی"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "اوہناں اگے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "سنی"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "میری آواز"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "تریاں"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اودے وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T23:39:14.001074428Z",
+  "model": "glm-5.3"
+}

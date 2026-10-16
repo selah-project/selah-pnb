@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ماپ رہیا",
+      "rationale": "אלם دا مول مطلب 'جُٹھ بن جانا' اے — بولی بجھ جانا، صرف 'چُپ' نئیں۔"
+    },
+    {
+      "kind": "you",
+      "subject": "یاہوہ",
+      "rationale": "مزمور نوں 'تُوں نے کیتا' نال سدھی گل خدا ولّ۔"
+    }
+  ],
+  "translation": "میں ماپ رہیا، میں اپنا مونہہ نئیں کھولیا، کیونجے اَٹھ نوں تُوں نے کیتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a75b9bb1f70f079b5191a2916c300a640baed448ae17c46a93d60859d7c7c9d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/39\/9-12.1792112405686.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "میں ماپ رہیا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "میں کھولیا"
+    },
+    {
+      "surface": "פי",
+      "gloss": "اپنا مونہہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُوں"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "نے کیتا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:00:05.686732509Z",
+  "model": "glm-5.3"
+}

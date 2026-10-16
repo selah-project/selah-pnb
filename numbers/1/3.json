@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 1:3",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "age threshold",
+      "rationale": "Census eligibility set by counting: from twenty years and upward."
+    },
+    {
+      "kind": "invitation",
+      "subject": "to Moshe and Aharon",
+      "rationale": "Imperative 'תפקדו — muster them' addressed to the two."
+    }
+  ],
+  "translation": "ویہں ورھے دے پُتر توں تے اُتے، ہر اوہ جیہڑا یِسرائیل وِچ لشکر وِچ نِکھڑدا اے، اوہناں نوں ⟨את⟩ اوہناں دے لشکراں واسطے گݨو — تُسیں تے اہرون۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6644281be4303ce7a73fdb58cbdaf9eb2f36d97306ae9dd0814bfe6bad26ccf0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/1\/1-4.1792098233854.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "پُتر توں"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ویہں"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ورھے دے"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "نِکھڑدا اے"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "لشکر"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "یِسرائیل وِچ"
+    },
+    {
+      "surface": "תפקדו",
+      "gloss": "گݨو"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "اوہناں (אתם)"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "اوہناں دے لشکراں واسطے"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُسیں"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "تے اہرون"
+    }
+  ],
+  "timestamp": "2026-10-15T21:03:53.855386440Z",
+  "model": "glm-5.3"
+}

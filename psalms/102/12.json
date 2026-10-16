@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 102:12",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נטוי",
+      "rationale": "KJV\/ASV 'ڈھلدا سایہ' (شام ول جھکدا)، JPS 'لمبا ہندا سایہ' — نטוי پھیلیا\/جھکیا دوویں۔"
+    }
+  ],
+  "translation": "میرے دن پھیلا ہویا سایہ وانگ نیں، تے میں سوکھے بوٹے وانگ سوکھ گیا آں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0227110c390adaaa7c5e2a70efd5b076ef0c501814819534098c7735f020551f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/102\/9-12.1792113459179.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "میرے دن"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "سایہ وانگ"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "پھیلا ہویا"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "تے میں"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "بوٹے وانگ"
+    },
+    {
+      "surface": "איבש",
+      "gloss": "سوکھ گیا آں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:17:39.180681851Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 10:5",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אפי",
+      "rationale": "لفظی مطلب 'میری نَکّ\/تُھوں' اے — غصے دی صورت، ایتھے 'میرے اَرے دا' دے طور تے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הוי",
+      "rationale": "ہائے-گاہ (woe-oracle) دا کھلار، نبوت دا سَٹھ"
+    }
+  ],
+  "translation": "ہائے اسور اُتے، جو میرے اَرے دا ڈنڈا اے، تے اوہدا ہتھوں والا سوٹا میرا غصہ اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "72a4b3ba927cd8fca3378ed039270af7912f4756d2bef4ce077f09bd8f6979eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/10\/5-8.1792105964795.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ہائے"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "اسور"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ڈنڈا"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "میرے اَرے دا"
+    },
+    {
+      "surface": "ומטה",
+      "gloss": "تے سوٹا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "اوہناں دے ہتھ"
+    },
+    {
+      "surface": "זעמי",
+      "gloss": "میرا غصہ"
+    }
+  ],
+  "timestamp": "2026-10-15T23:12:44.796448435Z",
+  "model": "glm-5.3"
+}

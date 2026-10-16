@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 118:6",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اے⟩",
+      "rationale": "عبرانی وِچ کوئی کریا نئیں، صرف یاہوہ لי — پنجابی جملہ کوپلا منگدا اے"
+    }
+  ],
+  "translation": "یاہوہ میرے لئی ⟨اے⟩، میں نئیں ڈردا؛ بندہ میرے نال کی کریگا؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d1f158183503e33ea23efd3424494acda8b8320abb90d908340f6dee26a33c78",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/118\/5-8.1792113774899.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرے لئی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "میں ڈردا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کی"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کریگا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرے نال"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "بندہ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:22:54.900177757Z",
+  "model": "glm-5.3"
+}

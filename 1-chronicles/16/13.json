@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 16:13",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "to Israel",
+      "rationale": "Verse vocatively summons the seed of Israel, sons of Jacob, to remember\/praise."
+    },
+    {
+      "kind": "substitution",
+      "subject": "غلام",
+      "rationale": "עבד rendered as غلام; the Hebrew carries bonded-servant status toward یاہوہ."
+    }
+  ],
+  "translation": "اَے یِسرائیل دی نسل، اوہدا غلام، اَے یعقوو دیاں اولاداں، اوہدے چُنے ہوئے!",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "85d1b277e38615a449759ddec93424c8c476295bdbe19ff1c4e119ea62a75441",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/16\/13-16.1792120809287.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "اوہدا غلام"
+    },
+    {
+      "surface": "בני",
+      "gloss": "اولاداں"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "اوہدے چُنے ہوئے"
+    }
+  ],
+  "timestamp": "2026-10-16T03:20:09.288070271Z",
+  "model": "glm-5.3"
+}

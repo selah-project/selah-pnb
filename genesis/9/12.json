@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 9:12",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "پنجابی نوں جملے لئی copula چائییدا، عبرانی وِچ نئیں"
+    },
+    {
+      "kind": "measurement",
+      "subject": "نسلاں تک ہمیشہ",
+      "rationale": "לדרת עולם نسلاں دی گنتی والی حد دسدا اے — عہد دا ویلہ"
+    }
+  ],
+  "translation": "تے ایلوہیم نے آکھیا: ایہہ عہد دا نشان اے جیہڑا میں دے رہیا آں میں تے تُساں وِچکار، تے ہر جیوندی جی جان وِچکار جو ⟨את⟩ تُہاڈے نال اے، ہمیشہ دیاں نسلاں تک۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fb44e1092d1fb740f0e2f3310daf8425a79afdba70c5fbdf1ff70fd622b8241d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/9\/9-12.1792094815977.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم نے"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "אות",
+      "gloss": "نشان"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "عہد دا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دے رہیا آں"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "میں تے"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "تُساں وِچکار"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "تے … وِچکار"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جی جان"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "جیوندی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ تُہاڈے نال"
+    },
+    {
+      "surface": "לדרת",
+      "gloss": "نسلاں تک"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیشہ دیاں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:06:55.979033286Z",
+  "model": "glm-5.3"
+}

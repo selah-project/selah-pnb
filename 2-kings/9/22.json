@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 9:22",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "השלום",
+      "rationale": "عبرانی سوال 'کی سلامتی اے؟' مِلن دی عام وِ survivor віچار اے، جنگ دا اعلان نئیں۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "زِنا کرن",
+      "rationale": "זנוניِ literally زنا\/بھوگَول — ایتھے ایزَبَل دی بتّ پرستی دا چِتر اے۔"
+    }
+  ],
+  "translation": "تے ہویا، یہورام دے ⟨את⟩ یہوآ نُوں ویکھدیاں اوہنے آکھیا: کی سلامتی اے، یہوآ؟ تے اوہنے آکھیا: کہڑی سلامتی، جدوں تک تیری ماں ایزَبَل دے زِنا کرن تے اوہدے وَڈی گنتی دے جادُو نیں؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6e08c13c6eea06220d2fe36fab3f459c0df57f34336b0060fa3f07b1fd67b1ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/9\/21-24.1792105108875.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے ہویا"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "ویکھدیاں"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "یہورام نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یہوآ نُوں"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "یہوآ نُوں"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "کی سلامتی"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "یہوآ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کہڑی"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "سلامتی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "جدوں تک"
+    },
+    {
+      "surface": "זנוני",
+      "gloss": "زِنا کرن"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "ایزَبَل"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "تیری ماں"
+    },
+    {
+      "surface": "וכשפיה",
+      "gloss": "تے اوہدے جادُو"
+    },
+    {
+      "surface": "הרבים",
+      "gloss": "وَڈی گنتی دے"
+    }
+  ],
+  "timestamp": "2026-10-15T22:58:28.876382678Z",
+  "model": "glm-5.3"
+}

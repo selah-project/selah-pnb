@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 1:18",
+  "book": "judges",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "تِن واری اوہدی سرحد",
+      "rationale": "عبرانی دی تِن واری دوہرائی (شہر + سرحد) سِدھی رکھی گئی اے — اِک نال جوڑ کے نئیں گھٹائی"
+    },
+    {
+      "kind": "crux",
+      "subject": "וילכד",
+      "rationale": "بعد دیاں آیتاں (13:3، 16:1) دے الٹ ایہہ آیت آکھدی اے کہ یہودہ نے ایہہ شہر مار لئے؛ ترجمے ‘لے لئے\/قبضہ کیتا’ وی نیں"
+    }
+  ],
+  "translation": "تے یہودہ نے مار لیا ⟨את⟩ عزہ نوں تے ⟨את⟩ اوہدی سرحد نوں، تے ⟨את⟩ اشقلون نوں تے ⟨את⟩ اوہدی سرحد نوں، تے ⟨את⟩ عکرون نوں تے ⟨את⟩ اوہدی سرحد نوں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "290862e9a05af5639074b8211d654953005dcbf5ebb379d23f7a2e84bd7a776f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/judges\/1\/17-20.1792101370735.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "تے نے مار لیا"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہودہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عزہ"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "عزہ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اوہدی سرحد"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "اوہدی سرحد"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اشقلون"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "اشقلون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اوہدی سرحد"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "اوہدی سرحد"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "عکرون"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "عکرون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اوہدی سرحد"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "اوہدی سرحد"
+    }
+  ],
+  "timestamp": "2026-10-15T21:56:10.736428542Z",
+  "model": "glm-5.3"
+}

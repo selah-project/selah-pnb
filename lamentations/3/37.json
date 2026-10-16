@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "lamentations 3:37",
+  "book": "lamentations",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩ ⟨اِس نوں⟩",
+      "rationale": "عبرانی وِچ مفعول دا ضمیر لکھیا نئیں، پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "لُکے ہوئے سوال دا رخ",
+      "rationale": "کئی مترجم ایہنوں منفی سوال منندے نیں (کجھ وی اودوں نئیں ہوندا جد ادونای حکم نئیں کردا)، کجھ سِدھا سوال"
+    }
+  ],
+  "translation": "کون اے جیہنے آکھیا تے ⟨اوہ⟩ ہو گیا، جدوں ادونای ⟨اِس نوں⟩ حکم نئیں دتا؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a3d34480766170bf45fa38dc6a8b2628dd79137f0f017b588ec135423f0b1bab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/lamentations\/3\/37-40.1792117118260.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "تے ہو گیا"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم دتا"
+    }
+  ],
+  "timestamp": "2026-10-16T02:18:38.261276705Z",
+  "model": "glm-5.3"
+}

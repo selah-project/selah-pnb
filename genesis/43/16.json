@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 43:16",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "טבח",
+      "rationale": "اسم دی ایہ صورت سارے تنخ وِچ صرف ایتھے آؤندی اے — فعل טבח نال جوڑ بنی شعری وزن"
+    },
+    {
+      "kind": "elision",
+      "subject": "הביתہ",
+      "rationale": "عرضی حالت 'گھر ول' — پنجابی 'گھر' نال سمت دا معیار رکھیا گیا"
+    },
+    {
+      "kind": "you",
+      "subject": "یوسف دا حکم",
+      "rationale": "سیدھا حکم گھر دے داروغے نوں — 'لَے آ، ذبح کر، تیار کر'"
+    }
+  ],
+  "translation": "تے یوسف نے اوہناں ⟨את⟩ نال ⟨את⟩ بنیامین ⟨نوں⟩ ویکھیا، تے اُس نون آکھیا جیہڑا اُسدے گھر اُتے سی: ایہناں بندیاں ⟨את⟩ نوں گھر لَے آ، تے ذبح کر کے ذبح ⟨کر⟩، تے تیار کر، کیوں جے ایہ بندے دوپہر نوں میرے ⟨את⟩ نال کھان گے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f3cf59480239a9db7dc154829027e9fffeebfd17fc1de920ea78a0b0a93e9c95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/43\/13-16.1792095929348.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "تے ویکھیا"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف نے"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ نال",
+      "marks": "اوہناں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بنیامین نوں"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "بنیامین"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "اُس نون جیہڑا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "اُسدا گھر"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "لَے آ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایہناں بندیاں نوں"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ایہ بندے"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "וטבח",
+      "gloss": "تے ذبح کر"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "ذبح"
+    },
+    {
+      "surface": "והכן",
+      "gloss": "تے تیار کر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جے"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "میرے ⟨את⟩ نال",
+      "marks": "میرے نال"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "کھان گے"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ایہ بندے"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "دوپہر نوں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:25:29.350166912Z",
+  "model": "glm-5.3"
+}

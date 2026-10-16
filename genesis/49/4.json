@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 49:4",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جھاگ",
+      "rationale": "פחז مُکھ روپ 'ابالدا ہویا جھاگ' اے — کجھ ترجمے 'اِستھیر نئیں' دا مطلب دے دیندے نیں"
+    },
+    {
+      "kind": "crux",
+      "subject": "תותר",
+      "rationale": "'ودھیں گا' جاں 'رہ جاوِن گا' — ترجمے ونڈے ہوئے نیں"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨اوہنوں⟩ ⟨اوہ⟩",
+      "rationale": "عبرانی مفعول تے فاعل صیغہ صاف نئیں کردا، پنجابی واضح کردا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "עלה",
+      "rationale": "آخری لفظ تنّیں صورت وِچ اے — 'اوہ چڑھ گیا' — بولن والا بدلدا اے (یعقوو پُتر دے بچن پچھے آپݨے آپ نوں دہروندا اے)"
+    }
+  ],
+  "translation": "جھاگ جِویں پانی — تُوں فروال نئیں پاویں گا، کیونکہ تُوں آپݨے پیو دِیاں بستریاں اُتے چڑھیا؛ اُدوں تُوں ⟨اوہنوں⟩ پلیت کیتا — ⟨اوہ⟩ میڈی بستر اُتے چڑھ گیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "72ca4e87614fbb65035eed2c182194a3c9bc74cb9711d58a04ecc2bd0e4e299d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/49\/1-4.1792096111823.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פחז",
+      "gloss": "جھاگ"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "جِویں پانی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תותר",
+      "gloss": "فروال پاویں گا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "چڑھیا"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "بستریاں"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "آپݨے پیو دِیاں"
+    },
+    {
+      "surface": "אז",
+      "gloss": "اُدوں"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "پلیت کیتا"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "میڈی بستر"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "چڑھ گیا"
+    }
+  ],
+  "timestamp": "2026-10-15T20:28:31.825196934Z",
+  "model": "glm-5.3"
+}

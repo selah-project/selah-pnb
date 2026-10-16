@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 35:30",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ירצח\/הרצח",
+      "rationale": "اِکو جڑ ر-ص-خ دو واری — قاتل قاتل نوں مارے گا؛ پنجابی وِچ دہرایا گیا پر آوازی جوڑ گُم"
+    },
+    {
+      "kind": "substitution",
+      "subject": "نفس = جان",
+      "rationale": "נפש ساہ\/زندگی دی طاقت اے، صرف 'جان' نئیں"
+    }
+  ],
+  "translation": "جو کوئی جان مارے، گواہاں دے مونہوں قاتل ⟨את⟩ قاتل نوں قتل کرے گا؛ تے اِک گواہ اِک جان دے خلاف مرن لئی جواب نہ دے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fc41b4f3b3fe6b8f9417977bfe62ce77c6fc5b92d574ea5e6b197b77cd4e3207",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/35\/29-32.1792099476830.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "جو کوئی"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "مارن والا"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "مونہوں"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "گواہاں"
+    },
+    {
+      "surface": "ירצח",
+      "gloss": "قتل کرے گا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قاتل نوں"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "قاتل"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تے گواہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "اِک"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "جواب دے"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "جان دے خلاف"
+    },
+    {
+      "surface": "למות",
+      "gloss": "مرن لئی"
+    }
+  ],
+  "timestamp": "2026-10-15T21:24:36.831481159Z",
+  "model": "glm-5.3"
+}

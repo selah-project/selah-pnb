@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ויקרא",
+      "rationale": "عبرانی 'اوہ نے سدّیا\/آکھیا' — کریا وِلوں 'ناں رکھیا' دا مطلب اے؛ پنجابی وِچ سِدھا 'رکھیا' آکھیا گیا"
+    }
+  ],
+  "translation": "تے اوہ نے حمل رکھیا تے اِک پُتر جنیا، تے اوہنوں ⟨את⟩ اوہدا ناں عیر رکھیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b2ec8a3f0783383dbf76f05b0576657ea541207c96c2c8a39049f2bbab938dc4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/38\/1-4.1792095730960.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "حمل رکھیا"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "جنیا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "رکھیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہدا ناں"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اوہدا ناں"
+    },
+    {
+      "surface": "ער",
+      "gloss": "عیر"
+    }
+  ],
+  "timestamp": "2026-10-15T20:22:10.961471001Z",
+  "model": "glm-5.3"
+}

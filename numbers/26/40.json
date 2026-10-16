@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 26:40",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לארד",
+      "rationale": "عبرانی 'ארד לئی' وچ لام والا پہلا ٹوکن میتسیوتی اے پر متن وچ صاف لِکھیا نئیں؛ اَرد دی پہلی واری خاندان دا سرناواں اِکو 'اَردی' اے۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "شجرہ نسب",
+      "rationale": "بِلعا دے پُتراں دے خاندان — لسٹ جاری۔"
+    }
+  ],
+  "translation": "تے بِلعا دے پُتر اَرد تے نعمان سن: اَردی خاندان، نعمان لئی نعمانی خاندان۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0322a3e10716f70bbf683998e426cac421e2bdcc62674d8414df09bfcc2b8d6c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/26\/37-40.1792099130319.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "تے … سن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "بِلعا"
+    },
+    {
+      "surface": "ארד",
+      "gloss": "اَرد"
+    },
+    {
+      "surface": "ונעמן",
+      "gloss": "تے نعمان"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خاندان"
+    },
+    {
+      "surface": "הארדי",
+      "gloss": "اَردی"
+    },
+    {
+      "surface": "לנעמן",
+      "gloss": "نعمان لئی"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خاندان"
+    },
+    {
+      "surface": "הנעמי",
+      "gloss": "نعمانی"
+    }
+  ],
+  "timestamp": "2026-10-15T21:18:50.320157167Z",
+  "model": "glm-5.3"
+}

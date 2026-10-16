@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 10:22",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ہی",
+      "rationale": "عبرانی دا 'صرف بقیہ مُڑے گا' والا زور پنجابی وِچ چنگی طرحاں نئیں آؤندا، زور دا لفظ دتا"
+    },
+    {
+      "kind": "crux",
+      "subject": "שוטף צדקה",
+      "rationale": "کس دی انصاف نال واہوٹ اے — بربادی دا انصاف نال ہڑھ آؤنا، یا بربادی انصاف دا پورا ہونا؛ مترجم ونڈے ہوئے نیں"
+    },
+    {
+      "kind": "you",
+      "subject": "اے یِسرائیل",
+      "rationale": "یِسرائیل نوں سدھا مخاطب کیتا گیا اے"
+    }
+  ],
+  "translation": "کیونکہ اگر تیرا قوم، اے یِسرائیل، سمندر دے ریت وانگوں ہووے، اُوہدے وِچوں بقیہ ⟨ہی⟩ واپس مُڑے گا — اک بربادی، طے ہو چکی، انصاف نال واہو دِتی جاوے گی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0edb7d33f5b0366564d447ac0e6df73b27e7c076fd9885fbde12317685757563",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/10\/21-24.1792106031533.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہووے"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تیرا قوم"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "ریت وانگوں"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر دے"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "بقیہ"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "واپس مُڑے گا"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اُوہدے وِچوں"
+    },
+    {
+      "surface": "כליון",
+      "gloss": "بربادی"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "طے ہو چکی"
+    },
+    {
+      "surface": "שוטף",
+      "gloss": "واہو دِتی جاوے گی"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "انصاف نال"
+    }
+  ],
+  "timestamp": "2026-10-15T23:13:51.534066377Z",
+  "model": "glm-5.3"
+}

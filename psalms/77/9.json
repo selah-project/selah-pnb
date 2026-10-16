@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 77:9",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "وعدہ",
+      "rationale": "אמר ׸ਦਾ 'کہیا\/گل' اے — 'وعدہ' سیاق دی دین اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "کی…؟",
+      "rationale": "عبرانی سوال دا نشان ہی پچھدا اے، پنجابی 'کی' منگدا اے"
+    }
+  ],
+  "translation": "کی اوہدا خیسِد ⟨ہمیشہ⟩ لئی مُک گیا؟ اوہدا وعدہ نسل در نسل ⟨لئی⟩ مُک گیا؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d4b3d2e99f2d2b57edd740449bc57f0279cafcba5428c4109c3e96397acfc9a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/77\/9-12.1792112997121.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האפס",
+      "gloss": "مُک گیا"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ہمیشہ لئی"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "اوہدا خیسِد"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "مُک گیا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وعدہ"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "نسل در نسل"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "تے نسل"
+    }
+  ],
+  "timestamp": "2026-10-16T01:09:57.122423524Z",
+  "model": "glm-5.3"
+}

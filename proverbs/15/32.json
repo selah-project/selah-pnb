@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 15:32",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ادھیاپ",
+      "rationale": "موصר = سمجھاؤن\/تادیب؛ 'ادھیاپ' (اصلاح\/تعلیم) کولوں 'سزا' چنگا نئیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש دا مطلب ساہ\/جان\/جی، 'روح' نئیں"
+    },
+    {
+      "kind": "crux",
+      "subject": "دل دا والی",
+      "rationale": "קונה לב — 'دل حاصل کردا اے' (کجھ قوبلے 'پیار حاصل کرنا' پڑھدے نیں)؛ 'دل دا مالک بننا' پنجابی روپ وِچ"
+    }
+  ],
+  "translation": "جیہڑا ادھیاپ نوں ٹالدے، اوہ اپنی جان نوں ہیلا کردا اے، تے جیہڑا جھڑپ سُندا اے، اوہ دل دا والی بندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a48a3aa2832e661bbdea4bf222c5a7e084844425869bfeb5476f4b34fe5dbef3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/15\/29-32.1792114787855.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פורע",
+      "gloss": "ٹالدے"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ادیاپ"
+    },
+    {
+      "surface": "מואס",
+      "gloss": "ہیلا کردا اے"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "اپنی جان نوں"
+    },
+    {
+      "surface": "ושומע",
+      "gloss": "تے سُندا اے"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "جھڑپ"
+    },
+    {
+      "surface": "קונה",
+      "gloss": "والی بندا اے"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل دا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:39:47.856354738Z",
+  "model": "glm-5.3"
+}

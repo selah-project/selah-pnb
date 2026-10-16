@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 18:18",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "دمااد",
+      "rationale": "חתן 'دمااد' (زنانی دے پاسے دا رشتہ) — پنجابی 'دمااد' ای اوہدے نیڑے اے"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מי...ומי",
+      "rationale": "'کون... تے کی' — عبرانی عاجزی دی ترکیب، سوال سوال ای رکھیا"
+    },
+    {
+      "kind": "invitation",
+      "subject": "رِتھیک سوال",
+      "rationale": "داوِد دے رِتھیک سوال پاٹھک نوں جھات پاؤندے نیں"
+    }
+  ],
+  "translation": "تے داوِد نے شاؤل نوں آکھیا: میں کون آں، تے میری جِندگی کی اے، میرے پیو دا ٹبر یِسرائیل وِچ ⟨کیہ⟩ — کہ میں بادشاہ دا دمااد ہوواں؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c0d7ff89ece34cccc17b28f885a6ca4888c97d2209aa8cd33cafc59ec1bc66e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/18\/17-20.1792102735287.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد نے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "تے کی"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "میری جِندگی"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ٹبر"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "میرے پیو دا"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "یِسرائیل وِچ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "میں ہوواں"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "دمااد"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "بادشاہ دا"
+    }
+  ],
+  "timestamp": "2026-10-15T22:18:55.288584361Z",
+  "model": "glm-5.3"
+}

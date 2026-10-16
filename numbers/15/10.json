@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 15:10",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "نویست",
+      "rationale": "נסך لفظی 'ڈھہائی ہوئی' شراب — 'نویست' ریت دا لفظ اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ادھا ہین",
+      "rationale": "شراب دا ناپ دسیا گیا اے"
+    }
+  ],
+  "translation": "تے ادھا ہین شراب نویست دی قربانی وجوں چڑھائیں — اگّ دی قربانی، خُشبُو، سکون دی خوشبو، یاہوہ لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6cc536ac4fdff24196fd86a631f3253c273d4d54a5527620e9f99c20d25b7b24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/15\/9-12.1792098701308.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "شراب"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "چڑھائیں"
+    },
+    {
+      "surface": "לנסך",
+      "gloss": "نویست دی قربانی وجوں"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "ادھا"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "ہین"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "اگّ دی قربانی"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "خُشبُو"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "سکون دی خوشبو"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ لئی"
+    }
+  ],
+  "timestamp": "2026-10-15T21:11:41.309208105Z",
+  "model": "glm-5.3"
+}

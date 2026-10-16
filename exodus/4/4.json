@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 4:4",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ויחזק",
+      "rationale": "חזק 'مضبوط ہونا\/پکڑنا' — 'پکڑیا' تنگ اے، مضبوطی دا رنگ ہے"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨بن کے⟩",
+      "rationale": "למטה 'سوٹی لئی' — پنجابی 'بن گیا' منگدا اے"
+    },
+    {
+      "kind": "you",
+      "subject": "موشے",
+      "rationale": "یاہوہ موشے نوں سدھا حکم دیندا اے: ہتھ پھیلا، پُچھّ پھڑّ"
+    }
+  ],
+  "translation": "تے یاہوہ نے موشے توں آکھیا: اپنا ہتھ پھیلا تے اوہدی پُچھّ پھڑّ لَے۔ تے اوہنے اپنا ہتھ پھیلایا تے اوہنوں پکڑیا، تے اوہ اوہدے ہتھھیڑ وِچ سوٹی بن گیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5b398b7c7d39fe4c6f93be38aab462308cb60fddd77a39b589623fe24e55484a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/4\/1-4.1792096231041.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "توں"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "پھیلا"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "اپنا ہتھ"
+    },
+    {
+      "surface": "ואחז",
+      "gloss": "تے پھڑّ لَے"
+    },
+    {
+      "surface": "בזנבו",
+      "gloss": "اوہدی پُچھّ"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "تے اوہنے پھیلایا"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "اپنا ہتھ"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "تے پکڑیا ⟨مضبوطی نال⟩"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوہنوں"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "تے ہویا"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "سوٹی ⟨بن کے⟩"
+    },
+    {
+      "surface": "בכפו",
+      "gloss": "اوہدے ہتھھیڑ وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T20:30:31.042957959Z",
+  "model": "glm-5.3"
+}

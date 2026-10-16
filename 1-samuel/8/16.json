@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 8:16",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "مُنڈے",
+      "rationale": "عبرانی בחוריכם جوان مُنڈے نیں؛ پنجابی وچ جنس واضح کرن لئی مُنڈے شامل کیتا"
+    }
+  ],
+  "translation": "تے ⟨את⟩ تہاڈے غلام، تے ⟨את⟩ تہاڈیاں غلاماں، تے ⟨את⟩ تہاڈے چنگے نوجوان مُنڈے، تے ⟨את⟩ تہاڈے کھوتے اوہ لے گا، تے اپنے کم وِچ لائے گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "23b143ef79b8b28a06835b93331d0e8cc9f9d5ab43b3fc136c9d9dd7ee694a55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/8\/13-16.1792102220912.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "تہاڈے غلام"
+    },
+    {
+      "surface": "עבדיכם",
+      "gloss": "تہاڈے غلام"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "تہاڈیاں غلاماں"
+    },
+    {
+      "surface": "שפחותיכם",
+      "gloss": "تہاڈیاں غلاماں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "تہاڈے چنگے نوجوان مُنڈے"
+    },
+    {
+      "surface": "בחוריכם",
+      "gloss": "تہاڈے نوجوان مُنڈے"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "چنگے"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "تہاڈے کھوتے"
+    },
+    {
+      "surface": "חמוריכם",
+      "gloss": "تہاڈے کھوتے"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "اوہ لے گا"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "تے لائے گا"
+    },
+    {
+      "surface": "למלאכתו",
+      "gloss": "اپنے کم وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T22:10:20.913021860Z",
+  "model": "glm-5.3"
+}

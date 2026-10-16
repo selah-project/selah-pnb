@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 9:16",
+  "book": "ecclesiastes",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨جانی جاندی اے⟩",
+      "rationale": "בזויה صفت اے، پنجابی لئی مکمل کریا چاہیدی"
+    },
+    {
+      "kind": "crux",
+      "subject": "מגבורה",
+      "rationale": "'زور\/بہادری\/فوجی طاقت' — عبرانی لفظ بہادری تے طاقت دوویں دھاریا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חכמה",
+      "rationale": "دانائی دا لفظ آیت وِچ دو واری، غریب نال جوڑ کے — طاقت دے الٹ دے روپ وِچ"
+    }
+  ],
+  "translation": "تے میں آکھیا: دانائی زور توں چنگی اے، پر غریب دی دانائی حقیر ⟨جانی جاندی اے⟩، تے اوہدے بچن نئیں سنے جاندے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "48c71b762548b48ddb64f054fbfb93b67febd9eb6ee63540abdc6fb0e58bf4be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ecclesiastes\/9\/13-16.1792117606855.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרתי",
+      "gloss": "تے میں آکھیا"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "چنگی"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "دانائی"
+    },
+    {
+      "surface": "מגבורה",
+      "gloss": "زور توں"
+    },
+    {
+      "surface": "וחכמת",
+      "gloss": "تے دانائی"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "غریب دی"
+    },
+    {
+      "surface": "בזויה",
+      "gloss": "حقیر"
+    },
+    {
+      "surface": "ודבריו",
+      "gloss": "تے اوہدے بچن"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "سنے جاندے"
+    }
+  ],
+  "timestamp": "2026-10-16T02:26:46.856469238Z",
+  "model": "glm-5.3"
+}

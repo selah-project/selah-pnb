@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 22:22",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רעיך\/תרעה\/רעתך",
+      "rationale": "اکو جڑ ר-ע: چرواہے، چَرنا، تے برائی — 'تیرے رعے ہوا رَعے گی… تیری رعوت توں' — پنجابی وِچ ایہ کھیڈ گواچ گئی اے۔"
+    },
+    {
+      "kind": "idiom",
+      "subject": "הֵרֹעֶה רוּחַ",
+      "rationale": "مطلب 'ہوا چَرے گی' — یعنی ہوا دُودھا چٹی ہو جائے گی؛ مترجم مکمل فارمولے نال چلدے نیں۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "کہ \/ توں",
+      "rationale": "כי اتے מכل دے پچھوں پنجابی گرامر لئی لفظ ⟨⟩ وِچ پائے گئے۔"
+    }
+  ],
+  "translation": "تیرے سارے چرواہے ہوا چَرے گی، تے تیرے محبتی قید وِچ جان گے؛ اَوں تُوں شرمسان ہوسیں تے سب تیری برائی توں لَجھویں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f30bdfacf814a6fb61166f402ed87f0688a5868da1959a1890c7653e347e5b16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/22\/21-24.1792107832324.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "تیرے چرواہے"
+    },
+    {
+      "surface": "תרעה",
+      "gloss": "چَرے گی"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ہوا"
+    },
+    {
+      "surface": "ומאהביך",
+      "gloss": "تے تیرے محبتی"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "قید وِچ"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "جان گے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "اَوں ⟨کہ⟩"
+    },
+    {
+      "surface": "אז",
+      "gloss": "اَوں"
+    },
+    {
+      "surface": "תבשי",
+      "gloss": "تُوں شرمسان ہوسیں"
+    },
+    {
+      "surface": "ונכלמת",
+      "gloss": "تے لَجھویں"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "سب ⟨توں⟩"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "تیری برائی"
+    }
+  ],
+  "timestamp": "2026-10-15T23:43:52.325353873Z",
+  "model": "glm-5.3"
+}

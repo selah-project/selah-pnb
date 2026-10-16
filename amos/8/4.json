@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 8:4",
+  "book": "amos",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "שמעו זאת",
+      "rationale": "'سُنو ایہہ' — حکری بانگ، سُنن والے نوں سدّیا گیا"
+    },
+    {
+      "kind": "you",
+      "subject": "امیراں واسطے",
+      "rationale": "پکارتے یِسرائیل دے اوہ لوک نیں جیہڑے غریباں دا لُٹ دے نیں"
+    }
+  ],
+  "translation": "سُنو ایہہ، اوہ تسیں جیہڑے محتاج نوں نگل جاندے او، تے دھرتی دے غریباں نوں مُکاؤن لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "10ec73eb39d32b7962da45acc33df79fcc10d9761653ff1086b4565ed91f7928",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/amos\/8\/1-4.1792110902007.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "سُنو"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "השאפים",
+      "gloss": "جیہڑے نگل جاندے او"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "محتاج نوں"
+    },
+    {
+      "surface": "ולשבית",
+      "gloss": "تے مُکاؤن لئی"
+    },
+    {
+      "surface": "ענוי",
+      "gloss": "غریباں نوں"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "دھرتی دے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:35:02.008400409Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 13:14",
+  "book": "hosea",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אהי דבריך מות",
+      "rationale": "سوال 'کِتھے اے تیرا وبا؟' (YLT\/ASV\/JPS) بمقابلہ اعلان 'میت تیرے گلاں ہوواں' (KJV\/Geneva) — متون دی سبھ توں مشہور ٹکر"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שאול",
+      "rationale": "شیول حرف-نقل رکھیا — موت دی تھاں، عدالت نئیں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אפדם \/ אגאלם",
+      "rationale": "دوویں چھڑاون دے کریاواں دی جوڑی — فدیہ تے گوالی-چھڑائی، تے مڑ 'وبا\/تباہی' دی جوڑی الٹی"
+    },
+    {
+      "kind": "alternative",
+      "subject": "נחם",
+      "rationale": "کجھ 'رحم' پڑھدے نیں (JPS 'repentance' توں 'compassion' تیکر)، میں پچھتاوا رکھیا"
+    }
+  ],
+  "translation": "شیول دے ہتھوں میں ⟨اوہناں نوں⟩ فدیہ دیواں گا، موت توں ⟨اوہناں نوں⟩ چھڑاؤاں گا؛ اے موت، تیرا وبا کِتھے اے؟ اے شیول، تیری تباہی کِتھے اے؟ پچھتاوا میریاں اکھاں توں لُکا ہویا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5598ed3bafb309bd18a2ce30f873958ce9d718627ef7bab56bdcdb0c13571ba7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/hosea\/13\/13-15.1792110589345.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מיד",
+      "gloss": "دے ہتھوں"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شیول"
+    },
+    {
+      "surface": "אפדם",
+      "gloss": "فدیہ دیواں گا"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "موت توں"
+    },
+    {
+      "surface": "אגאלם",
+      "gloss": "چھڑاؤاں گا"
+    },
+    {
+      "surface": "אהי",
+      "gloss": "کِتھے"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "تیرا وبا"
+    },
+    {
+      "surface": "מות",
+      "gloss": "اے موت"
+    },
+    {
+      "surface": "אהי",
+      "gloss": "کِتھے"
+    },
+    {
+      "surface": "קטבך",
+      "gloss": "تیری تباہی"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "اے شیول"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "پچھتاوا"
+    },
+    {
+      "surface": "יסתר",
+      "gloss": "لُکا ہویا اے"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "میریاں اکھاں توں"
+    }
+  ],
+  "timestamp": "2026-10-16T00:29:49.346421795Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "lamentations 3:53",
+  "book": "lamentations",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צמתו",
+      "rationale": "کَٹ دتا (cut off) ورگا — کجھ مترجم زندہ سُٹن والے پکھ نوں مندے نیں (BSB)، کجھ کَٹن والے (KJV\/JPS)۔"
+    },
+    {
+      "kind": "alternative",
+      "subject": "חיי",
+      "rationale": "عبرانی 'میری جان' اے؛ 'جیون' رکھیا — 'میری جان' وی جائز اے۔"
+    }
+  ],
+  "translation": "بوری وِچ میرا جیون کَٹ دتا گیا، تے میرے اُتے پتھر سُٹ دتا گیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b1a95eaa7da2d8359f2e549e92b042dcab6a18a9537568d9a8436e45db1a7032",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/lamentations\/3\/53-56.1792117120679.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צמתו",
+      "gloss": "کَٹ دتا گیا"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "بوری وِچ"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "میرا جیون"
+    },
+    {
+      "surface": "וידו",
+      "gloss": "تے سُٹ دتا گیا"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "پتھر"
+    },
+    {
+      "surface": "בי",
+      "gloss": "میرے اُتے"
+    }
+  ],
+  "timestamp": "2026-10-16T02:18:40.680330300Z",
+  "model": "glm-5.3"
+}

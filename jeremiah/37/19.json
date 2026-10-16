@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 37:19",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨نیں⟩",
+      "rationale": "عبرانی جملا فعل-توں-خالی اے؛ پنجابی copula ⟨نیں⟩ منگدا اے۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נביאיכם \/ נבאו",
+      "rationale": "اکو جڑ ن-ب-א دا دہراؤ — نبی تے نبوت — پنجابی وِچ وی ایہو جوڑ رکھیا گیا۔"
+    },
+    {
+      "kind": "you",
+      "subject": "بادشاہ تے اوہدے لوک",
+      "rationale": "جھوٹے نبیاں بارے سِدھا سوال، مخاطب تصدیقیاهو تے اوہدے درباری۔"
+    }
+  ],
+  "translation": "تے کِتھے ⟨نیں⟩ تُہاڈے نبی، جِنھاں تُہاڈے لئی نبوت کیتی، آکھدے: بابل دا بادشاہ تُہاڈے تے تے ایس دھرتی تے نئیں آوے گا؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a5afa1b7765980d84d08d67233e6a4eaa066ba1815bcbcc1c6ac04cb06575291",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/37\/17-20.1792108417802.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיו",
+      "gloss": "تے کِتھے"
+    },
+    {
+      "surface": "נביאיכם",
+      "gloss": "تُہاڈے نبی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جِنھاں"
+    },
+    {
+      "surface": "נבאו",
+      "gloss": "نبوت کیتی"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُہاڈے لئی"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھدے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "آوے گا"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "تُہاڈے تے"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "تے … تے"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "دھرتی"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ایس"
+    }
+  ],
+  "timestamp": "2026-10-15T23:53:37.803387066Z",
+  "model": "glm-5.3"
+}

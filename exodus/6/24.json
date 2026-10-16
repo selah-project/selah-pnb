@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 6:24",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سن \/ نیں",
+      "rationale": "عبرانی وِچ کوپولا نئیں"
+    },
+    {
+      "kind": "measurement",
+      "subject": "نسخ نام",
+      "rationale": "پیڑھیاں دا گنتی والا لڑ — لاوی ٹبراں دی لسٹ"
+    }
+  ],
+  "translation": "تے قورح دے پُتر اسیر، اِلقانہ تے ابیاساف سن؛ ایہے قورحیاں دے ٹبر نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6e4aa2116007e9e3b839b1acc90bbc30aa80774b5703d0654ca0e53ee0cfc1e7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/6\/21-24.1792096180746.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "تے … دے پُتر"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورح"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "اسیر"
+    },
+    {
+      "surface": "ואלקנה",
+      "gloss": "تے اِلقانہ"
+    },
+    {
+      "surface": "ואביאסף",
+      "gloss": "تے ابیاساف"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایہے"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ٹبر"
+    },
+    {
+      "surface": "הקרחי",
+      "gloss": "قورحیاں دے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:29:40.747860370Z",
+  "model": "glm-5.3"
+}

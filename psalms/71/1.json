@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "این",
+      "rationale": "پنجابی فعل پہلی Person لئی ضمیر منگدا اے، عبرانی وِچ فعل دی شکل ای کافی اے"
+    },
+    {
+      "kind": "you",
+      "subject": "to یاہوہ",
+      "rationale": "م的直接 لئی مخاطب پکار"
+    }
+  ],
+  "translation": "تیرے وِچ یاہوہ، میں ⟨این⟩ پناہ لئی اے؛ میں ہمیشہ لئی شرمندہ نہ ہوواں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "38058d90d99057f2165ca77799e41e1aa7540a660bf582d3cd81aac6bf69eb7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/71\/1-4.1792112891758.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "تیرے وِچ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "پناہ لئی اے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "شرمندہ ہوواں"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشہ لئی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:08:11.759198386Z",
+  "model": "glm-5.3"
+}

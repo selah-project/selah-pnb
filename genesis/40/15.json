@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 40:15",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גנב גנבתי",
+      "rationale": "اکو جڑ دوجی واری — چوری ہو کے چوری کیتا گیا — پنجابی وِچ اک ہی لفظ دہرا کے رکھیا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "گڈا",
+      "rationale": "בור گڈا\/بور اے — قید خانہ اوہدی ورتوں توں آئی معنی اے"
+    }
+  ],
+  "translation": "کیوں جو میں عبرانیاں دی زمین توں چوری ہو کے لیاندا گیا آں، تے ایتھے وی میں ایس والی گل نئیں کیتی کہ ⟨את⟩ مینوں گڈے وِچ پا دِتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "39df6fa2df1ffe5b3e1206a49dcb5613fc19ead10ea9e416bc425122b612a1ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/40\/13-16.1792095744855.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "چوری"
+    },
+    {
+      "surface": "گנבתי",
+      "gloss": "میں چوری ہو کے لیاندا گیا آں"
+    },
+    {
+      "surface": "مארץ",
+      "gloss": "زمین توں"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "عبرانیاں دی"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "تے وی"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ایتھے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "میں کیتی"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "کوئی گل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اوہناں پا دِتا"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ مینوں",
+      "marks": "گڈے وِچ"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "گڈے وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T20:22:24.857486097Z",
+  "model": "glm-5.3"
+}

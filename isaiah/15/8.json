@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 15:8",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יללתה ... יללתה",
+      "rationale": "دوہرا 'چیکناں' عبرانی تکرار اے — سرحد دے دووے پاسے واویولا؛ پنجابی وِچ تکرار رکھیا گیا اے۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עגלים \/ עגלת",
+      "rationale": "آیت 5 دی 'لیلا' (עגלה) نال آیت 8 دے تھاں اگلایم دا شبد-جوڑ۔"
+    }
+  ],
+  "translation": "کیوں جو چیک نے ⟨את⟩ موآب دی سرحد دوڑا لا دتی اے؛ اگلایم تک اوہدا چیکناں، تے بیر-ایلیم تک اوہدا چیکناں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3dfbb3397f71939422c7b906dc459b0655c140849e19e5db1379650f6cf01ad8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/15\/5-8.1792106139571.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "הקיפה",
+      "gloss": "دوڑا لا دتی اے"
+    },
+    {
+      "surface": "הזעקה",
+      "gloss": "چیک نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موآب دی سرحد"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب دی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "אגלים",
+      "gloss": "اگلایم"
+    },
+    {
+      "surface": "יללתה",
+      "gloss": "اوہدا چیکناں"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "تے بیر"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "ایلیم"
+    },
+    {
+      "surface": "יללתה",
+      "gloss": "اوہدا چیکناں"
+    }
+  ],
+  "timestamp": "2026-10-15T23:15:39.572795666Z",
+  "model": "glm-5.3"
+}

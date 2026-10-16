@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 12:26",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יתר",
+      "rationale": "متن آدرنا ⟨كتب يَتُور⟩ منگدا اے: کجھ 'بھلا اپنے توں ودھ اے'، کجھ 'بھلا بھالدا اے'، کجھ 'رہنما اے' — قاف دی گنتی نال فیصلہ ہوندا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "عبرانی وِچ کوئی فعل نئیں، پنجابی جملہ ضمیمہ منگدا اے"
+    }
+  ],
+  "translation": "بھلا بندہ اپنے یار لئی رہنما ⟨اے⟩، پر بدکاں دا راہ اوہناں نوں بھٹکا دیندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9136c9714744cef947660639869b61fd6356ef824be8fe041eb9c9a3cf58a2fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/12\/25-28.1792114636439.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יתר",
+      "gloss": "رہنما"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "اپنے یار"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "بھلا بندہ"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "پر راہ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکاں دا"
+    },
+    {
+      "surface": "תתעם",
+      "gloss": "اوہناں نوں بھٹکا دیندا اے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:37:16.440006497Z",
+  "model": "glm-5.3"
+}

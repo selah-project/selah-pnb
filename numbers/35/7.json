@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 35:7",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨دیو⟩",
+      "rationale": "جملہ پورا کرن لئی فعل داہرا؛ عبرانی وِچ اِیتھے کوئی فعل نئیں۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "کل گنتی",
+      "rationale": "چھ + چالی تے دو = چالی اَٹھ شہر دی کل۔"
+    }
+  ],
+  "translation": "سارے شہر جیہڑے تسوں لاویاں نوں دیو، چالی تے اَٹھ شہر — ⟨את⟩ اوہ تے ⟨את⟩ اوہناں دے باہرلے میدان ⟨دیو⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ca2676a78566c18bac3bd56dd920fbae5e8651834e283676d044088c12c380c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/35\/5-8.1792099473186.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑے"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "تسوں دیو"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "لاویاں نوں"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چالی"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "تے اَٹھ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "اوہ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "اوہناں دے باہرلے میدان"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "اوہناں دے باہرلے میدان"
+    }
+  ],
+  "timestamp": "2026-10-15T21:24:33.187538659Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 86:4",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 86,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "جان چُکنا",
+      "rationale": "נשא נפש — جان چُکݨا — دعا تے بھروسے دا عبرانی محاورہ، پنجابی وِچ ایسے ای رکھیا"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נפש...נפשי",
+      "rationale": "اکو لفظ دو واری — نوکر دی جان، میںدی جان — آیت دا کوائف"
+    },
+    {
+      "kind": "you",
+      "subject": "to ادونای",
+      "rationale": "سدھی اپیل جاری"
+    }
+  ],
+  "translation": "اپݨے نوکر دی جان نوں خوش کر، کیوں جو تیرے ول، اے ادونای، میں اپݨی جان چُکدا آں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9bf46ba0d669e77375ecc6311d1ed76a626361b83e9a0d9085bd67760988709b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/86\/1-4.1792113303895.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "خوش کر"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان نوں"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "اپݨے نوکر دی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تیرے ول"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اے ادونای"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "اپݨی جان"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "چُکدا آں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:15:03.896475796Z",
+  "model": "glm-5.3"
+}

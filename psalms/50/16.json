@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 50:16",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to the wicked",
+      "rationale": "سیدھا مخاطبہ — ایلوہیم شریر نال گل کردا اے، کنے نیڑے دا سوال"
+    },
+    {
+      "kind": "substitution",
+      "subject": "نال",
+      "rationale": "עלי پونجھدا 'اُتے' اے — 'میرا عہد اپنے مُں اُتے چُکّݨ' شبیہ پنجابی وِچ 'نال چُکّݨ' بندی اے"
+    }
+  ],
+  "translation": "تے بدکار نوں ایلوہیم نے آکھیا: تیرا کیہ واسطا کہ تُوں میرے قنون بیان کریں، تے اپنے مُں نال میرا عہد چُکیں؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "07170112ac1be4080b316c333880768f590d350f62b387073679a076d49cd4c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/50\/13-16.1792112585505.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולרשע",
+      "gloss": "تے بدکار نوں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم نے"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیرا واسطا"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "کہ بیان کریں"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "میرے قنون"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "تے چُکیں"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "میرا عہد"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "نال"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "اپنے مُں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:03:05.506800905Z",
+  "model": "glm-5.3"
+}

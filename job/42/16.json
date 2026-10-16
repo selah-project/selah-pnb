@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 42:16",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "سو تے چالی ورھے، چار پیڑھیاں",
+      "rationale": "عمر تے پیڑھیاں دی گنتی۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "اپنے",
+      "rationale": "عبرانی وِچ 'اُس دے پُتر' اے؛ 'اپنے' جوڑ دا واضح کرن لئی رکھیا — پہلا ⟨את⟩ مارک نال میل۔"
+    }
+  ],
+  "translation": "تے ایس توں بعد اییووَب سو سال تے چالی ورھے جِیا، تے اُس نے ⟨את⟩ اپنے پُتر ویکھے تے ⟨את⟩ اپنے پُتراں دے پُتر، چار پیڑھیاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4123a94f2e834c0f1e78180901017d69c5eb5a288970270bde1dd52431863bce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/42\/13-16.1792116659357.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "تے…جِیا"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "اییووَب"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "توں بعد"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ایس"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سو"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "تے چالی"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ورھے"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "تے اُس نے…ویکھے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنے پُتر"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "اپنے پُتر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اپنے پُتراں دے پُتر"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں دے"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چار"
+    },
+    {
+      "surface": "דרות",
+      "gloss": "پیڑھیاں"
+    }
+  ],
+  "timestamp": "2026-10-16T02:10:59.358997997Z",
+  "model": "glm-5.3"
+}

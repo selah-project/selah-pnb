@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 8:25",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הטבעו",
+      "rationale": "'ڈُبے سن' (سکن) بمقابلہ 'جَمے سن' (کجھ ترجمے — settled)؛ عبرانی دا مطلب ڈُبنا اے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "חוללתי",
+      "rationale": "لفظ دی مُڈھلی شکل 'مینوں گُھمایا گیا\/کمڑ کے لیاندا گیا' اے — جَمن دا اِک وَنس"
+    },
+    {
+      "kind": "measurement",
+      "subject": "verse",
+      "rationale": "حکمت دے جم دا ویلہ گِنیا جاندا اے — سمندی جگ بنن توں پہلاں"
+    }
+  ],
+  "translation": "جد تک پہاڑ نئیں ڈُبے سن، پہاڑیاں توں پہلاں مینوں جَمّیا گیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9b4ee58613d5a69d9eaaa5c00b9df12beb4182f7ddec1bad396efc9390817e9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/8\/25-28.1792114565412.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "جد تک نئیں"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "הטבעו",
+      "gloss": "ڈُبے سن"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "توں پہلاں"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "پہاڑیاں"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "مینوں جَمّیا گیا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:36:05.412474930Z",
+  "model": "glm-5.3"
+}

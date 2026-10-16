@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 44:19",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "steps",
+      "rationale": "אֲשֻׁרֵינוּ is lit. 'our steps' from the rare noun אָשֻׁר; kept as قدم"
+    }
+  ],
+  "translation": "ساڈا دل پچھے نئیں مُڑیا، تے ساڈے قدم تیرے رستے توں نئیں پھٹکے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "af2857dcbf67f5d8b33fbb5b3f7d7f8f9ff337c25f88568f6bdd8c66d187c799",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/44\/17-20.1792112495693.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "נסוג",
+      "gloss": "مُڑیا"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "پچھے"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "ساڈا دل"
+    },
+    {
+      "surface": "ותט",
+      "gloss": "تے پھٹکے"
+    },
+    {
+      "surface": "אשרינו",
+      "gloss": "ساڈے قدم"
+    },
+    {
+      "surface": "מני",
+      "gloss": "توں"
+    },
+    {
+      "surface": "ארחך",
+      "gloss": "تیرے رستے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:01:35.694496633Z",
+  "model": "glm-5.3"
+}

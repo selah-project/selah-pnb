@@ -1,0 +1,151 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 15:9",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "اسرائیل نوں",
+      "rationale": "آیت سِدھی مخاطب نوں ہدیا کردی اے — اپنے آپ نوں خیال رکھ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שנת השבע שנת השמטה",
+      "rationale": "„سال“ دو واری جُڑ کے آیا اے — ستویں سال، معافی دا سال — پنجابی وِچ دہراؤ رکھیا گیا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "بُری ہووے",
+      "rationale": "עינך רעה „اکھ دا رنج کرنا“ اے — مُڑ جھَکݨ والی نگاہ"
+    }
+  ],
+  "translation": "اپنے آپ نوں خیال رکھ، نہ ہووے کوئی گَل تیرے دل وِچ بِلیعل والی، آکھݨ: نیڑے اے ستویں سال، معافی دا سال؛ تے تیری اکھ تیرے غریب بھرا اُتے بُری ہووے، تے تُوں اوہنوں نہ دے، تے اوہ یاہوہ اُتے تیرے خلاف پُکارے، تے تیرے وِچ پاپ ہووے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fbb08bcabab7bc6f9dae348b1c49d1977f430cc1d972dc1d15d1c7f8e82a9bc6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/15\/9-12.1792099986517.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "خیال رکھ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "اپنے آپ نوں"
+    },
+    {
+      "surface": "פן",
+      "gloss": "نہ ہووے"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہووے"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کوئی گَل"
+    },
+    {
+      "surface": "עם",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "تیرے دل"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "بِلیعل والی"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨ"
+    },
+    {
+      "surface": "קרבה",
+      "gloss": "نیڑے اے"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "سال"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "ستویں"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "سال"
+    },
+    {
+      "surface": "השמטה",
+      "gloss": "معافی دا"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "تے بُری ہووے"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "تیری اکھ"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "تیرے بھرا اُتے"
+    },
+    {
+      "surface": "האביון",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "دے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہنوں"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "تے پُکارے"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تیرے خلاف"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "تے ہووے"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تیرے وِچ"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "پاپ"
+    }
+  ],
+  "timestamp": "2026-10-15T21:33:06.517663997Z",
+  "model": "glm-5.3"
+}

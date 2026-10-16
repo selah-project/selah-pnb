@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 20:8",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "کرییا گواچی",
+      "rationale": "عبرانی صرف آکھدا اے 'ایہہ رتھاں وِچ، تے ایہہ گھوڑیاں وِچ' — بھروسے دی کرییا دوجی سطر توں آندی اے؛ پنجابی نے ⟨⟩ نال جوڑ بنایا"
+    },
+    {
+      "kind": "addition",
+      "subject": "پر",
+      "rationale": "ענחנו دے واو دے الٹ دا احساس دین لئی 'پر' جوڑیا — عبرانی وِچ الٹ لفظ نئیں"
+    }
+  ],
+  "translation": "ایہہ ⟨رتھاں وِچ⟩ نیں، تے ایہہ ⟨گھوڑیاں وِچ⟩ نیں، پر اسیں یاہوہ ساڈے ایلوہیم دے ناں نوں یاد کریے گے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "407b48d910194a22cdae93bf36cd16b5a136ef15bcee0f67f64355c84fbc1ebb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/20\/5-8.1792112106403.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "⟨رتھاں وِچ⟩"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "تے ایہہ"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "⟨گھوڑیاں وِچ⟩"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "پر اسیں"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "… دے ناں نوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ساڈے ایلوہیم"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "یاد کریے گے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:55:06.404462916Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 50:12",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "پنجابی ماضی لئی عبرانی وِچ کوئی معاون فعل نئیں"
+    }
+  ],
+  "translation": "تے اوس دے پتراں نے اوس لئی اوہو کیتا جیویں اوس اوہناں نوں حکم دتا سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5994b1d5c6f11a6e5c9e44b0f8c747146ef9131b518369ef47ce2bf43d4efc34",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/50\/12-12.1792123182827.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "کیتا"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "اوس دے پتراں نے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوس لئی"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اوہو"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "צום",
+      "gloss": "حکم دتا"
+    }
+  ],
+  "timestamp": "2026-10-16T03:59:42.829414176Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 39:4",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "فیر",
+      "rationale": "عبرانی وِچ کوئی جوڑ نئیں، مگر پنجابی وچ 'دبِرتی' دا سوچ توں بولن تک سفر دسنا ضروری اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בהגיגי…אש",
+      "rationale": "ہا-گیگ دے 'گگ' تے ایش (اگّ) دی آواز — ہگِگ وِچ اگّ بھڑکدی اے"
+    }
+  ],
+  "translation": "میرا دل میرے اندر گرم ہویا؛ میری سوچ وِچ اگّ بھڑکی؛ فیر میں اپنی جیبھ نال بولیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7c2ab32a375ff9e54959f3239a0df1553b2b559a7759a3e1daabf1d04a1ed9fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/39\/1-4.1792112446737.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חם",
+      "gloss": "گرم ہویا"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "میرا دل"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "میرے اندر"
+    },
+    {
+      "surface": "בהגיגי",
+      "gloss": "میری سوچ وِچ"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "بھڑکی"
+    },
+    {
+      "surface": "אש",
+      "gloss": "اگّ"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "فیر میں بولیا"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "اپنی جیبھ نال"
+    }
+  ],
+  "timestamp": "2026-10-16T01:00:46.738778867Z",
+  "model": "glm-5.3"
+}

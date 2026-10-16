@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 21:15",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מות יומת",
+      "rationale": "اوہی جڑ دو واری — 'موت نال ماریا جائے'، عبرانی دی دوہرائی والی سنگت"
+    }
+  ],
+  "translation": "تے جیہڑا اپنے پیو نوں یا اپنی ماں نوں مارے، اوہنوں موت دتی جائے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "89af2630d59f9915551a559bf157141f40ff3b9b6406428248f965bc49e9498b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/21\/13-16.1792096733960.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "تے جیہڑا مارے"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "اپنے پیو نوں"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "یا اپنی ماں نوں"
+    },
+    {
+      "surface": "مות",
+      "gloss": "موت"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "اوہنوں موت دتی جائے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:38:53.961499979Z",
+  "model": "glm-5.3"
+}

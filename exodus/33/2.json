@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 33:2",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اِک⟩",
+      "rationale": "پنجابی واحد نام لئی، عبرانی وِچ عدد نئیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "فرشتتےا",
+      "rationale": "מלאך دا مول مطلب 'پیغام بر' اے؛ فرشتتےا عام قرینہ اے"
+    }
+  ],
+  "translation": "تے مَیں تیرے اگے اِک فرشتتےا بھیجاں گا، تے ⟨את⟩ کنعانی، اموری، حِتّی، پِرِزّی، حِوّی تے یِبُسی نوں کَڈھ دیواں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0d2e37adbf7fcef459d792ef55cf27f9fda58bb2b78b2bd66a50665f6acd799a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/33\/1-4.1792097139990.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "تے مَیں بھیجاں گا"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "تیرے اگے"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "فرشتتےا ⟨اِک⟩"
+    },
+    {
+      "surface": "וגרשתי",
+      "gloss": "تے کَڈھ دیواں گا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کنعانی، اموری، حِتّی، پِرِزّی، حِوّی تے یِبُسی نوں"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "کنعانی"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "اموری"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "تے حِتّی"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "تے پِرِزّی"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "حِوّی"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "تے یِبُسی"
+    }
+  ],
+  "timestamp": "2026-10-15T20:45:39.991145925Z",
+  "model": "glm-5.3"
+}

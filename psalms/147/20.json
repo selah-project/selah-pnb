@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "to قومیں قوم",
+      "rationale": "آیت دا انت 'ہللیل یاہ' حکم نال پاڑے نوں سدّدا اے — سبھ توں پہلا سدا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "کسے ہور",
+      "rationale": "לכל گوئی سارے قومیں نوں مطلب اے؛ پنجابی جملے لئی 'کسے ہور' قدرتی اے"
+    }
+  ],
+  "translation": "اوہ کسے ہور قوم نال اِنج نئیں کیتا، تے اوہدے فیصلے اوہناں نئیں جانے۔ ہلائل ⟨کرو⟩ یاہ!",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4589482b212d111c5e480abc4637813234e773414154ac4a2f9cd7ae1bc7d3ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/147\/17-20.1792114283880.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کیتا"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اِنج"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "کسے ہور"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "قوم نال"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "تے اوہدے فیصلے"
+    },
+    {
+      "surface": "בל",
+      "gloss": "بالکل نئیں"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "اوہناں نئیں جانے"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ہلائل کرو"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاہ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:31:23.881139718Z",
+  "model": "glm-5.3"
+}

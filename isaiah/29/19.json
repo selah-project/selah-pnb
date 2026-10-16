@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 29:19",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויספו ענוים... שמחה",
+      "rationale": "'نمر لوک یاہوہ وِچ خُشی ودھاون گے' (KJV\/ASV) بمقابلہ 'نمر لوک یاہوہ وِچ خُشی واپس پا لین گے' — لفظ 'یَسَفُ' ودھݨ وی تے واپس آؤݨ وی ہو سکدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "רَنّھ پاؤن گے",
+      "rationale": "גיל اصل وِچ گھُمنا\/نچنا اے — پرجوش خُشی، پنجابی 'رَنّھ پاؤنا' اوہو جھول رکھدا اے"
+    }
+  ],
+  "translation": "تے نمر لوک یاہوہ وِچ ⟨ہوری⟩ خُشی ودھاون گے، تے بندیاں وِچ غریب یِسرائیل دے پاک وِچ رَنّھ پاؤن گے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0fa3ba169c4828d9fe6cc9d58c64182b03219b57fd327beb266b3669008544d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/29\/18-19.1792123801765.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויספו",
+      "gloss": "تے ودھاون گے"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "نمر لوک"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "یاہوہ وِچ"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "خُشی"
+    },
+    {
+      "surface": "ואביוני",
+      "gloss": "تے غریب"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "بندیاں وِچ"
+    },
+    {
+      "surface": "בקדוש",
+      "gloss": "پاک وِچ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل دے"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "رَنّھ پاؤن گے"
+    }
+  ],
+  "timestamp": "2026-10-16T04:10:01.766392055Z",
+  "model": "glm-5.3"
+}

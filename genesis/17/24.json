@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 17:24",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "چھلّی",
+      "rationale": "ערלה چھلّی\/ پیشَت دی کھلّ اے؛ 'ختنہ' عمل اے، اوہ لفظ نئیں"
+    },
+    {
+      "kind": "idiom",
+      "subject": "بן תשעים שנה",
+      "rationale": "عبرانی 'سالاں دا پُتر' — پنجابی وِچ عمر دا عام بول"
+    },
+    {
+      "kind": "measurement",
+      "subject": "نَوَے تے نَو",
+      "rationale": "عمر دی گنتی — نَیانَوَے سال"
+    }
+  ],
+  "translation": "تے اَوراہام نوں سالاں دے نَیانَوَے ہوۓ، جدوں اوہدی خیسِد ⟨یعنی ختنہ⟩ وِچ اوہدے ماس دی اُلٹݨ ⟨یعنی چھلّی⟩ کٹی گئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "171ca9786d1cd7d808243a12eb0d546cbf126002c2725f9d9eb8848467c0d93f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/17\/24-24.1792123192189.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "تے اَوراہام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…دا پُتر ⟨سالاں دا⟩"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "نَوَے"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "تے نَو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "בהמלו",
+      "gloss": "جدوں…ختنہ ہویا"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ماس"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "اوہدی چھلّی"
+    }
+  ],
+  "timestamp": "2026-10-16T03:59:52.189979239Z",
+  "model": "glm-5.3"
+}

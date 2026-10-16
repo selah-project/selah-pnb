@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 31:3",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "روح",
+      "rationale": "روح دی تھاں 'روح\/ہوا\/ساہ' — سیاق ایلوہیم دی روح دسدا اے۔"
+    }
+  ],
+  "translation": "تے میں اونوں ⟨את⟩ ⟨אותו⟩ ایلوہیم دی روح نال بھریا اے — دانائی وِچ، تے سمجھ وِچ، تے جانکاری وِچ، تے ہر کاریگری وِچ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f6bf04b29791fe11920969691a6ef199183e7df34d81fc743f4f756ced92e8f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/31\/1-4.1792096999339.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמלא",
+      "gloss": "تے میں بھریا اے"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨אותו⟩",
+      "marks": "اونوں (بِتصالایل)"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "دانائی وِچ"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "تے سمجھ وِچ"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "تے جانکاری وِچ"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "تے ہر"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "کاریگری"
+    }
+  ],
+  "timestamp": "2026-10-15T20:43:19.340014367Z",
+  "model": "glm-5.3"
+}

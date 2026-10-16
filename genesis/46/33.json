@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 46:33",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "یوسف توں اپنے بھراواں تک",
+      "rationale": "اوہناں نوں آکھیا جا رہیا اے جو پِرعوہ دے سوال دا جواب کِویں دینا اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "کِہڑا",
+      "rationale": "עبری מה + اسم توں پنجابی سوال جملہ بناؤن لئی زائد لفظ۔"
+    }
+  ],
+  "translation": "تے ایہو ہووےگا، جدوں پِرعوہ تُہاڈوں سدّے گا تے آکھے: تُہاڈا کِہڑا کم اے؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7a7eeaa7969d0de1ffab0635c00cfead3b504550f81fbd36e5b6a2227cbcb167",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/46\/33-34.1792095967941.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "تے ایہو ہووےگا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جدوں"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "سدّے گا"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُہاڈوں"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پِرعوہ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "تے آکھے"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "מעשיכם",
+      "gloss": "تُہاڈے کم"
+    }
+  ],
+  "timestamp": "2026-10-15T20:26:07.942449362Z",
+  "model": "glm-5.3"
+}

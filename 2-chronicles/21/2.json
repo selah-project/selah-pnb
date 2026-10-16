@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 21:2",
+  "book": "2-chronicles",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨سی⟩",
+      "rationale": "عبرانی وِچ جملے وچ کوپلا نئیں، پنجابی چاہیدا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "یِسرائیل دا بادشاہ",
+      "rationale": "متن 'یِسرائیل' لکھدا اے حالانکہ یِہوشافات یہوداہ دا بادشاہ سی؛ کئی مترجم 'یہوداہ' پڑھدے نیں — لکھیا ہویا رکھیا"
+    }
+  ],
+  "translation": "تے اودے اودے بھرا سن، یِہوشافات دیاں پُتراں وِچوں: عزریاہ، تے یِحی ایل، تے زکریاہو، تے عزریاہو، تے میکائیل، تے شفتیاہو — ایہہ سارے یِہوشافات دے پُتر سن، جیہڑا یِسرائیل دا بادشاہ ⟨سی⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5edf2710c0ba3cfebf1a05b84711c0ebac651764a80c40f50841ca305c57bc11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/21\/1-4.1792122368082.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "تے اودے"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "بھرا سن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں وِچوں"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "یِہوشافات دیاں"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "عزریاہ"
+    },
+    {
+      "surface": "ויחיאל",
+      "gloss": "تے یِحی ایل"
+    },
+    {
+      "surface": "וזכריהו",
+      "gloss": "تے زکریاہو"
+    },
+    {
+      "surface": "ועזריהו",
+      "gloss": "تے عزریاہو"
+    },
+    {
+      "surface": "ומיכאל",
+      "gloss": "تے میکائیل"
+    },
+    {
+      "surface": "ושפטיהו",
+      "gloss": "تے شفتیاہو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "یِہوشافات دے"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل دا"
+    }
+  ],
+  "timestamp": "2026-10-16T03:46:08.082918638Z",
+  "model": "glm-5.3"
+}

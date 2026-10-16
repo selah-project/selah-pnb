@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 23:5",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רויה",
+      "rationale": "رویہ مطلب 'سیرابی\/بھرپور' اے — 'لبراک\/اُگلدا ہویا' (KJV) توں ودھ سچّا 'بھریا ہویا، رجّیا ہویا' اے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "دشمن",
+      "rationale": "צררי لفظی روپ وِچ 'میرے تنگ کرن والے' نیں؛ 'دشمن' کردار دا لفظ بن گیا۔"
+    }
+  ],
+  "translation": "توں میرے سامھنے میز لاؤندا ایں، میرے دشمناں دے اگھاڑے؛ توں نے میرے سر نوں تیل نال چکھایا اے؛ میرا پیالہ لبراک اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "437b3805d8dd14efde3cf52258f186cd44e8aaff39de9897338cf7b3111e3449",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/23\/5-6.1792112135730.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תערך",
+      "gloss": "توں لاؤندا ایں"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "میرے سامھنے"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "میز"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "اگھاڑے وِچ"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "میرے دشمناں دے"
+    },
+    {
+      "surface": "דשנת",
+      "gloss": "چکھایا اے"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "تیل نال"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "میرے سر نوں"
+    },
+    {
+      "surface": "כוסי",
+      "gloss": "میرا پیالہ"
+    },
+    {
+      "surface": "רויה",
+      "gloss": "لبراک"
+    }
+  ],
+  "timestamp": "2026-10-16T00:55:35.730744360Z",
+  "model": "glm-5.3"
+}

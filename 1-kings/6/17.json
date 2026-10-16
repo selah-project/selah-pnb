@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 6:17",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "دی گنتی",
+      "rationale": "Hebrew lacks an explicit noun after the number; Punjabi requires one."
+    }
+  ],
+  "translation": "تے چالی اَمّا وا ہمیشہ، بھانویں چالی ہمیشہ دی گنتی وچ آؤندا اے، ایہہ گنتی نہیں بلکہ وعدہ اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7a3262eff569e0b8a13346a08a229aa2c0cb523a307bcba4ff70c2c08f75b7ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/6\/17-20.1792104105697.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וְאַרְבָּעִים",
+      "gloss": "تے چالی"
+    },
+    {
+      "surface": "בָּאַמָּה",
+      "gloss": "اَمہ وچ"
+    },
+    {
+      "surface": "הָיָה",
+      "gloss": "سی"
+    },
+    {
+      "surface": "הַבָּיִת",
+      "gloss": "اوہ گھر"
+    },
+    {
+      "surface": "הוּא",
+      "gloss": "اوہ ای"
+    },
+    {
+      "surface": "הֵיכָל",
+      "gloss": "ہیکل"
+    },
+    {
+      "surface": "לִפְנָי",
+      "gloss": "اگے"
+    }
+  ],
+  "timestamp": "2026-10-15T22:41:45.697857196Z",
+  "model": "glm-5.3"
+}

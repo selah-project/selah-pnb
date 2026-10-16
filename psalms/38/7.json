@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 38:7",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "سوگ وِچ",
+      "rationale": "קדר دا مول 'سواہ وانگوں کالا ہونا' اے — سوگ دا چِٹّا پکڑ کے ترجمہ کیتا"
+    },
+    {
+      "kind": "addition",
+      "subject": "میں",
+      "rationale": "נעויתי তے שחתי پہلی شخص دیاں نشانیاں نیں، پنجابی وِچ ضمیر ⟨نئیں⟩ چاہیدی"
+    }
+  ],
+  "translation": "میں کجھی ہو گئی آں، بہت زیادہ جھک گئی آں، سارا دن سوگ وِچ میں ٹری آں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "557753a1d4ca16b4d383286070cd7fe69b4e0bd227dc7ea98d3c274e1bb881f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/38\/6-7.1792124089721.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נעויתי",
+      "gloss": "کجھی ہو گئی آں"
+    },
+    {
+      "surface": "שחתי",
+      "gloss": "جھک گئی آں"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بہت زیادہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "سوگ وِچ"
+    },
+    {
+      "surface": "הלכתی",
+      "gloss": "میں ٹری آں"
+    }
+  ],
+  "timestamp": "2026-10-16T04:14:49.722226495Z",
+  "model": "glm-5.3"
+}

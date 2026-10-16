@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 3:6",
+  "book": "2-chronicles",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "پَروایم",
+      "rationale": "פרוים تنخ وچ صرف ایتھے آؤندا اے — سونے دی اک دُور دی دِھر، تھاں پکی پتہ نئیں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זהב זהב",
+      "rationale": "'سونا سونا' دوہراؤ — اوہ سونا جیہڑا پَروایم دا سونا اے"
+    }
+  ],
+  "translation": "تے اوہ نے ⟨את⟩ گھر قیمتی پتھر نال جڑایا، سوہنے کمال لئی، تے سونا پَروایم دا سونا سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "cf3895dfc603bd841e587225127fc9daa882cea33c502c4d55eb891c5ba97326",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/3\/5-8.1792121655571.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "جڑایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گھر"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "پتھر"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "قیمتی"
+    },
+    {
+      "surface": "לתפארת",
+      "gloss": "سوہنے کمال لئی"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "تے سونا"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونا"
+    },
+    {
+      "surface": "פרוים",
+      "gloss": "پَروایم"
+    }
+  ],
+  "timestamp": "2026-10-16T03:34:15.572271014Z",
+  "model": "glm-5.3"
+}

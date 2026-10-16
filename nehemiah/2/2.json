@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 2:2",
+  "book": "nehemiah",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "مُکھ",
+      "rationale": "פָּנִים دا صیف ‘چہرہ\/مُکھ’ اے، ‘چال چلن’ نئیں"
+    },
+    {
+      "kind": "addition",
+      "subject": "گیا",
+      "rationale": "پنجانی ماضی لئی فعل معاون دا لوڑ"
+    },
+    {
+      "kind": "you",
+      "subject": "نِہمیاہ",
+      "rationale": "بادشاہ سِدھا نِہمیاہ نال گلاں کردا اے"
+    }
+  ],
+  "translation": "تے بادشاہ نے مینوں آکھیا: کیوں تیرا مُکھ اداس اے، تُوں بیمار نئیں؟ ایہہ کجھ نئیں سگوں دل دا دُکھ اے۔ تے میں بہت ای زیادہ ڈر ⟨گیا⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1fff20561e3c0982a0284b4316db22a810fb13417546ac2fc40d9f75db031073",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/nehemiah\/2\/1-4.1792119412708.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مینوں"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ نے"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "تیرا مُکھ"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "اداس"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "تے تُوں"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "بیمار"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "سگوں"
+    },
+    {
+      "surface": "אם",
+      "gloss": "سِوائے"
+    },
+    {
+      "surface": "רע",
+      "gloss": "دُکھ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل دا"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "تے میں ڈر ⟨گیا⟩"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "بہت"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "زیادہ"
+    }
+  ],
+  "timestamp": "2026-10-16T02:56:52.709521218Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 7:17",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨تو⟩",
+      "rationale": "عبرانی وِچ کرم دار صیغہ اے، وکھری ضمیر نئیں"
+    },
+    {
+      "kind": "crux",
+      "subject": "فانی بندہ",
+      "rationale": "אנוש = فانی بندہ؛ ایہی لفظ زبور 8:5 وِچ تعریف لئی اے، اییتھے ایوب اوہدے اُلٹ سوال وجوں ورتدا اے"
+    },
+    {
+      "kind": "you",
+      "subject": "ایوب دا یاہوہ نال سوال",
+      "rationale": "سدیا خطاب"
+    }
+  ],
+  "translation": "فانی بندہ کیہ اے کہ ⟨تو⟩ اوہنوں وڈا کردا اے، تے کہ ⟨تو⟩ اوہدے ول تیرا دل رکھدا اے؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7bb4cbd637da7111dca8cc10548a5b466616822b235c37ec73482c177a1f2625",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/7\/17-20.1792115527303.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "فانی بندہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "תגדלנו",
+      "gloss": "اوہنوں وڈا کردا اے"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "تے کہ"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "رکھدا اے"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اوہدے ول"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "تیرا دل"
+    }
+  ],
+  "timestamp": "2026-10-16T01:52:07.303570293Z",
+  "model": "glm-5.3"
+}

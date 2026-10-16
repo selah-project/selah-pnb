@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-chronicles 18:30",
+  "book": "2-chronicles",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כי אם",
+      "rationale": "دو حرف اِکو 'سِواے\/صرف' بندے نیں؛ اِکو پنجابی لفظ نال دِتا۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "את (עם والے)",
+      "rationale": "ایہہ את الگ ٹوکن اے (نال دا前置词)، مفعول نشان ⟨את⟩ نئیں — 'نال' کیتا گیا۔"
+    }
+  ],
+  "translation": "تے ارام دے بادشاہ نے ⟨את⟩ اپنے رتھاں دے سرداراں نوں حکم دِتا آکھنا: نہ نِکے نال لڑو نہ وڈے نال، سِواے یِسرائیل دے بادشاہ نال، اوہ اِکلے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c9d1aeb95b3d3d6dcc254840197b793605355f4159f9dc6cb0e54c2316841357",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/18\/29-32.1792122307939.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "تے بادشاہ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ارام"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم دِتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنے رتھاں دے سرداراں نوں"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سرداراں"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "رتھاں دے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدے نیں"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھݨا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "لڑو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ نال"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "نِکے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ نال"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "وڈے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "سِواے"
+    },
+    {
+      "surface": "אם",
+      "gloss": "سِواے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ نال"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "اوہ اِکلے"
+    }
+  ],
+  "timestamp": "2026-10-16T03:45:07.940899074Z",
+  "model": "glm-5.3"
+}

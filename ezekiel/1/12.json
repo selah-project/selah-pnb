@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 1:12",
+  "book": "ezekiel",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הרוח",
+      "rationale": "'روح' — روح\/ہوا\/ساہ دوویں ممکن؛ کجھ مترجم 'آواز' وی کھوجدے نیں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ילכו...ללכת...ילכו...בלכתן",
+      "rationale": "چلن والی جڑ چار واری دُہرائی گئی اے — چلن دا زور پنجابی وِچ پورا نئیں رہندا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מוסबب",
+      "rationale": "'مُڑدے نئیں' — عبرانی 'گھمدے نئیں' (סבב) اے، مُڑن دی تھاں"
+    }
+  ],
+  "translation": "تے اِک اِک اپنے مونہہ دے پاسے ⟨وچ⟩ چلدا سی؛ جتھے روح نوں جانا ہوندا، اوتھے اوہ جاندے، تے اپنے چلدے ویلے اوہ مُڑدے نئیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4873c9592ce087ce1f160a1e488265400abc6635d5014fc2d978451b71f123be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/1\/12-12.1792123918314.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "تے اِک اِک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اپنے پاسے"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "دے پاسے"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "اپنے مونہہ"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "چلدا سی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "جتھے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جتھے"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوندا"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "اوتھے"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "جانا"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "اوہ جاندے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יסבו",
+      "gloss": "مُڑدے"
+    },
+    {
+      "surface": "בלכתן",
+      "gloss": "اپنے چلدے ویلے"
+    }
+  ],
+  "timestamp": "2026-10-16T04:11:58.314631475Z",
+  "model": "glm-5.3"
+}

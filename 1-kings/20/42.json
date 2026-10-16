@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 20:42",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "مُکایا ہویا",
+      "rationale": "חרמי دی پوری وضاحت — 'میرا خیسِد' نوں 'مُکایا ہویا' شامل کیتا گیا اے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש دا مطلب ساہ\/جان-زندگی اے، صرف 'روح' نئیں۔"
+    },
+    {
+      "kind": "you",
+      "subject": "بادشاہ آخاب نوں",
+      "rationale": "نبی یاہوہ دے بچن راہیں بادشاہ نوں سدھا مخاطب کردا اے۔"
+    }
+  ],
+  "translation": "تے اوہنے اوہدے نوں آکھیا: اِویں یاہوہ آکھدا اے، کیوں جے تُوں ⟨את⟩ اُس بندے نوں جیہڑا میرا خیسِد ⟨مُکایا ہویا⟩ اے، اپنے ہتھ توں جان دِتا، اس لئی تیری جان اوہدی جان دی تھاں ہووےگی تے تیرا قوم اوہدے قوم دی تھاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "52dcaee654f511a8f2f1b6f18da77b8427784ef7f9be69612fadaea615fccfb2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/20\/41-43.1792104661800.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے اوہنے آکھیا"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اوہدے نوں"
+    },
+    {
+      "surface": "כה",
+      "gloss": "اِویں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھدا اے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "יען",
+      "gloss": "کیوں جے"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "تُوں جان دِتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اُس بندے نوں"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "חרמי",
+      "gloss": "میرا خیسِد ⟨مُکایا ہویا⟩"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ہتھ توں"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "تے ہووےگی"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "تیری جان"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "دی تھاں"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "اوہدی جان"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "تے تیرا قوم"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "دی تھاں"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "اوہدے قوم"
+    }
+  ],
+  "timestamp": "2026-10-15T22:51:01.801445527Z",
+  "model": "glm-5.3"
+}

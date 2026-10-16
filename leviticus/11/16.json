@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "بث ہیعانہ",
+      "rationale": "لفظی 'شترمرغ دی دھی' — عبرانی شکل رکھی گی، کجھ ترجمے 'الٹ چڑی' کر گئے"
+    },
+    {
+      "kind": "hapax",
+      "subject": "התחמס",
+      "rationale": "ہتخمیس تنخ وِچ صرف ایتھے آؤندا اے — پرچھان پکی نئیں"
+    }
+  ],
+  "translation": "تے ⟨את⟩ شترمرغ دی دھی، تے ⟨את⟩ ہتخمیس، تے ⟨את⟩ ہشخف، تے ⟨את⟩ ہنیس اپنی قسم لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d3d0184346def9ce19653054fc240a4e7c449dba372d5bf4ba2acc167f77440e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/11\/13-16.1792097540403.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "دھی"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دی دھی"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "شترمرغ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ہتخمیس"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "ہتخمیس"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ہشخف"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "ہشخف"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ہنیس"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "ہنیس"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "اپنی قسم لئی"
+    }
+  ],
+  "timestamp": "2026-10-15T20:52:20.405155176Z",
+  "model": "glm-5.3"
+}

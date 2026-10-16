@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ایہہ",
+      "rationale": "عبرانی وِچ فعل دا مفعول لکھیا نئیں؛ پنجابی وِچ ضمیر دی لوڑ"
+    },
+    {
+      "kind": "crux",
+      "subject": "صداقت",
+      "rationale": "לצדקה — 'اوہدے لئی صداقت گِنی گئی'؛ کجھ مترجم 'نیک کم' آکھدے نیں"
+    }
+  ],
+  "translation": "تے اوس نوں ⟨ایہہ⟩ صداقت لئی گِنیا گیا، پیڑھی توں پیڑھی تک، ہمیشہ تک۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9f3419b065176ead4aff283b6c319055849ef011e69e14d1cdca7b6ada534d56",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/106\/29-32.1792113627040.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "تے گِنیا گیا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوس نوں"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "صداقت لئی"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "پیڑھی توں"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "پیڑھی تک"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیشہ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:20:27.040901060Z",
+  "model": "glm-5.3"
+}

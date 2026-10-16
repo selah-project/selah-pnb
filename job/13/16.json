@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 13:16",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ہووےگا \/ سکدا",
+      "rationale": "عبرانی وِچ کوئی معاون فعل نئیں، پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "بے-ایمان",
+      "rationale": "חנפ مطلب 'پلیت\/ناپاک، بے-پرواہ' — 'منافق' ریتاں دا لفظ اے جیہڑا مکمل صورت نئیں"
+    }
+  ],
+  "translation": "ایہہ وی میرا بچاؤ ہووےگا، کیونکہ کوئی بے-ایمان اوہدے ساہمنے نئیں آ سکدا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "28a9d59e20e9fa2f8b6eb4b022750e0e8b03bccd4db98c27e95d5ef6662d1868",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/13\/13-16.1792115695348.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرا"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "بچاؤ ہووےگا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "اوہدے ساہمنے"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "کوئی بے-ایمان"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "آ سکدا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:54:55.349257530Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ecclesiastes 7:29",
+  "book": "ecclesiastes",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "حیلے",
+      "rationale": "חשבנות اصل وچ 'مکر منگݨ والیاں کاڈھاں' اے — من دِیاں چالاں، 'حیلے' نزدیکی پر پورا نئیں۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "חשבנות",
+      "rationale": "'inventions' (KJV), 'devices' (YLJ), 'schemes' (BSB) — سب اکو عبرانی لفظ دیاں وکھریاں جھلکاں نیں۔"
+    }
+  ],
+  "translation": "ویکھو، صرف ایہہ میں لبھیا کہ ایلوہیم نے ⟨את⟩ آدم نوں سیدھا بنایا، پر اوہناں نے بہت سارے حیلے لبھے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6d3dbfea87bdae45d5f239c61b62fa7b348305a3efad2cff969acf5f81b9968d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ecclesiastes\/7\/29-29.1792117475456.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "صرف"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ویکھو"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "میں لبھیا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بنایا"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آدم"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "سیدھا"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "پر اوہناں"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "لبھے"
+    },
+    {
+      "surface": "חשבנות",
+      "gloss": "حیلے"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "بہت سارے"
+    }
+  ],
+  "timestamp": "2026-10-16T02:24:35.456637354Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 4:19",
+  "book": "2-chronicles",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "حضوری دی روٹی",
+      "rationale": "לחם הפנים دا پورا لفظی مطلب 'منہ\/چہرے دی روٹی' اے — یعنی یاہوہ دے ساہمنے رکھی ہوئی روٹی۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "سن",
+      "rationale": "عبرانی وِچ copula نئیں، پنجابی جملہ 'جو... سن' منگدا اے۔"
+    }
+  ],
+  "translation": "تے شلوموہ نے ⟨את⟩ اوہ سارے برتن جو ایلوہیم دے گھر ⟨وِچ⟩ ⟨سن⟩، تے ⟨את⟩ سونے دا قربانی مذبح، تے ⟨את⟩ میز بنائے — تے اوہناں اُتے حضوری دی روٹی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5acb737a7fc1abf950578a72ce9356f2b0ceb64e0951c3547bac25653c5fff75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/4\/17-20.1792121653101.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "تے بنائے"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلوموہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سارے برتن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "برتن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "سونے دا قربانی مذبح"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "قربانی مذبح"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "سونے دا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "میز"
+    },
+    {
+      "surface": "השלחנות",
+      "gloss": "میز"
+    },
+    {
+      "surface": "ועליהם",
+      "gloss": "تے اوہناں اُتے"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "روٹی"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "حضوری دی"
+    }
+  ],
+  "timestamp": "2026-10-16T03:34:13.102422551Z",
+  "model": "glm-5.3"
+}

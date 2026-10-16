@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ਹਨ",
+      "rationale": "ਇਬਰਾਨੀ ਵਿੱਚ ਕ੍ਰਿਆ ਨਹੀਂ, ਪੰਜਾਬੀ ਨੂੰ 'ਹਨ' ਚਾਹੀਦੀ ਹੈ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עיני \/ אזניו",
+      "rationale": "ਅੱਖਾਂ-ਕੰਨ ਸਮਾਨਾਂਤਰ ਜੋੜਾ, ਬਣਤਰ ਦਾ ਵਾਧਾ"
+    }
+  ],
+  "translation": "ਯਾਹੂਹ ਦੀਆਂ ਅੱਖਾਂ ਧਰਮੀਆਂ ਵੱਲ ਹਨ, ਤੇ ਉਸਦੇ ਕੰਨ ਉਹਨਾਂ ਦੀ ਪੁਕਾਰ ਵੱਲ।",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9340de93813714082aaab1a58bdd9d43402dc62fe41600dabae2cb99405cc1f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/34\/13-16.1792112285727.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ਅੱਖਾਂ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ਯਾਹੂਹ ਦੀਆਂ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ਵੱਲ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ਧਰਮੀਆਂ"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "ਤੇ ਉਸਦੇ ਕੰਨ"
+    },
+    {
+      "surface": "ਅਲ",
+      "gloss": "ਵੱਲ"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "ਉਹਨਾਂ ਦੀ ਪੁਕਾਰ"
+    }
+  ],
+  "timestamp": "2026-10-16T00:58:05.728406286Z",
+  "model": "glm-5.3"
+}

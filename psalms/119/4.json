@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 119:4",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨کسی نوں⟩",
+      "rationale": "عبرانی وِچ اوہ بندہ نئیں جِس نوں حکم دتا گیا؛ 'رکھن لئی' بھاوَ کسے آکھیا کیتا گیا تے آیت 5 توں پتہ چلدا اے — واک پورا کرن لئی چھڈ دتا۔"
+    },
+    {
+      "kind": "you",
+      "subject": "توں",
+      "rationale": "ایہ واک سِدھی یاہوہ نال اے — 'توں آکھیا اے'۔"
+    }
+  ],
+  "translation": "توں آکھیا اے اپنیاں ہدایتاں نوں بہُت ٹھیک طریقے نال رکھن لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1ca400a8b5778fa3b05f7856fa7dcb1a3e57f659560ff763287bfb93529aef09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/119\/1-4.1792113827846.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "توں"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "آکھیا اے"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "اپنیاں ہدایتاں نوں"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "رکھن لئی"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بہُت ٹھیک طریقے نال"
+    }
+  ],
+  "timestamp": "2026-10-16T01:23:47.847574732Z",
+  "model": "glm-5.3"
+}

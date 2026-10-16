@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 113:1",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 113,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הללו ×3",
+      "rationale": "تریڑ واری ہلیلُو — ستری دا وار وار، پنجابی وِچ ستیśلو کر یُو دا وار وار۔"
+    },
+    {
+      "kind": "invitation",
+      "subject": "ستیśلو کر یُو",
+      "rationale": "حکم نال سترتی دا سدا — بندیاں نوں سدّیا گیا۔"
+    },
+    {
+      "kind": "you",
+      "subject": "بندیا",
+      "rationale": "پتہ یاہوہ دے بندیاں نیں۔"
+    }
+  ],
+  "translation": "ستیśلو کر یُو یاہ دا، ستیśلو کر یُو یاہوہ دے بندیا، ستیśلو کر یُو ⟨את⟩ یاہوہ دا ناں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c0852a409decb447994df9aa4fc3408b61805740d0bf14922ede1fbd76068fde",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/113\/1-4.1792113672710.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ستیśلو کر یُو"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاہ ⟨دا⟩"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ستیśلو کر یُو"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "بندیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دے"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ستیśلو کر یُو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ دا ناں"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:21:12.711070947Z",
+  "model": "glm-5.3"
+}

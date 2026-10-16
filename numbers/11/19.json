@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 11:19",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "دِناں دی گنتی",
+      "rationale": "آیت چڑھدے ہوئے گنتی اے — اِک، دو ( duel יומים)، پنج، دس، ویہہ — ماس دے عذاب دی لمبائی۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יומים",
+      "rationale": "יומים dual اے 'دو دن'؛ پنجابی وِچ dual وکھرا نئیں دکھدا، 'دو' نال ای دسدا اے۔"
+    }
+  ],
+  "translation": "تُساں اِک دن نئیں کھاؤ گے، تے نہ دو دن، تے نہ پنج دن، تے نہ دس دن، تے نہ ویہہ دن —",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f6b5814ac3e3241e8a8dd0db04a7564fb544f5291eaf45198bd62097c2f5a9ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/11\/17-20.1792098676331.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "اِک"
+    },
+    {
+      "surface": "תאכלון",
+      "gloss": "تُساں کھاؤ گے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "دو دن"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دن"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دس"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دن"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ویہہ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "دن"
+    }
+  ],
+  "timestamp": "2026-10-15T21:11:16.332856024Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 26:24",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ہتھ … نال سی",
+      "rationale": "עברי محاورה 'ہتھ کسے دے نال سی' = اوہدے پچھے\/حمایت وِچ سی۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨دے⟩",
+      "rationale": "عبرانی صرف 'ایلوہیم دا نشان نال' لفظ لفظ نئیں دندا؛ پنجابی جوڑ لئی 'دے' پایا گیا۔"
+    }
+  ],
+  "translation": "پر اخیقام پُتر شافان دا ہتھ ⟨את⟩ یِرمیاہو ⟨دے⟩ نال سی، تاں جے اوہنوں ⟨את⟩ لوکاں دے ہتھ نہ دتا جاوے اوہنوں مارن لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "28c68054f803527cf0f46ee1e578653df8b485e69bed8e4748e33727e67a6965",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/26\/21-24.1792107975174.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "پر"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "اخیقام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "شافان"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "سی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یِرمیاہو"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یِرمیاہو"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "تاں جے نہ"
+    },
+    {
+      "surface": "תת",
+      "gloss": "دتا جاوے"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ اوہنوں",
+      "marks": "لوکاں دے ہتھ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوکاں دے"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "اوہنوں مارن لئی"
+    }
+  ],
+  "timestamp": "2026-10-15T23:46:15.175992025Z",
+  "model": "glm-5.3"
+}

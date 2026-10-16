@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 70:6",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 70,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "آں",
+      "rationale": "عبرانی وِچ ہووے دا فعل نئیں، لازمی تکمیل"
+    },
+    {
+      "kind": "you",
+      "subject": "یاہوہ",
+      "rationale": "سِدھی مخاطبت — دعا وِچ یاہوہ نوں مخاطب"
+    }
+  ],
+  "translation": "تے اَتے میں غریب تے محتاج آں، ایلوہیم، میرے ولّ جلدی کر، توں ای میری مدد تے میرا بچاؤ کرن آلا ایں، یاہوہ، دیر نہ کر۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5472612b7449b7643614afcc20f7d591ddaadc21d2e1b50d1f5b2e14a76832a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/70\/5-6.1792112843762.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "تے اَتے میں"
+    },
+    {
+      "surface": "עני",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "وאביון",
+      "gloss": "تے محتاج"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "جلدی کر"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرے ولّ"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "میری مدد"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "تے میرا بچاؤ کرن آلا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "توں ای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "دیر کر"
+    }
+  ],
+  "timestamp": "2026-10-16T01:07:23.763605258Z",
+  "model": "glm-5.3"
+}

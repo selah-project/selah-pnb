@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 2:19",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "عبرانی وِچ کوئی فعل نئیں، گنتی بنیا ہویا اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "چالی ہزار پنج سو",
+      "rationale": "لشکر دی گنتی"
+    }
+  ],
+  "translation": "تے اُودا لشکر، تے اُنہاں دی گنتی چالی ہزار تے پنج سو ⟨اے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a28691f239bb4cbd9aca30297254d5f490871aa5c5c7c992b2b0e4e75f6c0eae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/2\/17-20.1792098260376.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "تے اُودا لشکر"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "تے اُنہاں دی گنتی"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چالی"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "تے پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    }
+  ],
+  "timestamp": "2026-10-15T21:04:20.377523618Z",
+  "model": "glm-5.3"
+}

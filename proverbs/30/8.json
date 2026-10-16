@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 30:8",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "میرے حصے دا",
+      "rationale": "חקי 'میرا مقرر ہویا حصہ' — KJV 'convenient'، JPS 'my allotted bread'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨دی⟩ گل",
+      "rationale": "پنجابی جوڑ لئی 'دی گل' پایا، عبرانی وِچ صرف 'اتے اک بول'"
+    }
+  ],
+  "translation": "جھوٹ تے فریب دی گل میرے توں دور رکھ؛ غربت تے دولت مینوں نہ دے؛ مینوں میرے حصے دا کھانا کھوا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e1cf376e432d0aa6f16c1746730b119b74a6a3c4ad09995311c8329af21d926a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/30\/5-8.1792115227601.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "جھوٹ"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "تے ⟨دی⟩ گل"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "فریب"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "دور رکھ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "میرے توں"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "غربت"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "تے دولت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "دے"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مینوں"
+    },
+    {
+      "surface": "הטריפני",
+      "gloss": "مینوں کھوا"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "کھانا"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "میرے حصے دا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:47:07.603027154Z",
+  "model": "glm-5.3"
+}

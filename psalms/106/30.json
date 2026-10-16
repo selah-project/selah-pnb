@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 106:30",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "فیصلہ کیتوس",
+      "rationale": "ויפלל دا مول مطلب دعا\/سفارش تے عدالت دوویں؛ 'فیصلہ' دتا"
+    },
+    {
+      "kind": "addition",
+      "subject": "اوہ",
+      "rationale": "ہ Morgannwgמגפہ دے نال عبرانی اضافت دا نشان، پنجابی وِچ ضمیر دی لوڑ"
+    }
+  ],
+  "translation": "تے پِنحاس کھلوتیا تے فیصلہ کیتوس، تے مگِی روک لئی گئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9f3419b065176ead4aff283b6c319055849ef011e69e14d1cdca7b6ada534d56",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/106\/29-32.1792113627040.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "تے کھلوتیا"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "پِنحاس"
+    },
+    {
+      "surface": "ויפלל",
+      "gloss": "تے فیصلہ کیتوس"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "تے روک لئی گئی"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "مگِی ⟨اوہ⟩"
+    }
+  ],
+  "timestamp": "2026-10-16T01:20:27.040725535Z",
+  "model": "glm-5.3"
+}

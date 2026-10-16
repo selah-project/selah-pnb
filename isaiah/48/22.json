@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 48:22",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "کوئی",
+      "rationale": "عبرانی אין مکمل نفی اے، پنجابی جملے لئی لوڑیندے لفظ"
+    },
+    {
+      "kind": "you",
+      "subject": "شریراں",
+      "rationale": "سِدھی گَل شریر لوکاں نوں — عبرانی l-دا پیشہ"
+    }
+  ],
+  "translation": "شریراں لئی کوئی شالوم نئیں، یاہوہ آکھدا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8666b08b1aa6b119c564b64d5c9d0423cb79acd205d160858571bdb52dc137c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/48\/21-22.1792106764138.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "کوئی نئیں"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالوم"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھدا اے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "شریراں لئی"
+    }
+  ],
+  "timestamp": "2026-10-15T23:26:04.139367202Z",
+  "model": "glm-5.3"
+}

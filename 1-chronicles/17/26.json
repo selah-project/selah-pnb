@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 17:26",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "וַתְּדַבֵּר עַל",
+      "rationale": "لفظی 'اُتے آکھیا\/وعدہ کیتا' — 'بارے آکھیا' یعنی وعدہ دا پنجابی روپ۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אתה הוא",
+      "rationale": "زور دا جملہ: 'تُوں — اوہو' — توکید، جیہڑی پنجابی 'تُوں اوہو ایں' نال رکھی گئی۔"
+    },
+    {
+      "kind": "you",
+      "subject": "داوِد دی دعا",
+      "rationale": "یاہوہ نوں سِدھا مخاطب کیتا گیا۔"
+    }
+  ],
+  "translation": "تے ہن اے یاہوہ، تُوں اوہو ایلوہیم ایں، تے تُوں نے اپنے بندے بارے ایہہ چنگائی آکھی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "772674a1de46f0e0db15611cbdbb1ffce08e712ce12218ad5f6fb6f927de9ca4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/17\/25-27.1792121005053.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "تے ہن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُوں"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہو"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "ו= ותדבר",
+      "gloss": "تے تُوں نے آکھیا"
+    },
+    {
+      "surface": "על",
+      "gloss": "بارے"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "اپنے بندے"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "ایہہ چنگائی"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ایہہ"
+    }
+  ],
+  "timestamp": "2026-10-16T03:23:25.054425383Z",
+  "model": "glm-5.3"
+}

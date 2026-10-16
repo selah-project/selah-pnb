@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 73:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בהוללים",
+      "rationale": "‘مورکھ’، ‘ اکھڑ مزاج’، ‘گڑبڑی کرن والے’ — سب موجود نیں؛ مول ‘ہلوریاں’ توں اے۔"
+    }
+  ],
+  "translation": "کیونکہ میں اکھڑ مزاجیاں اُتے جلایا، جد میں ویکھیا بُریاں دا سکون۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "32f836a9178951769eba19d6e1f91a3afb7992f5dc65d6f6d50084340a98bfef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/73\/1-4.1792112957334.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "میں جلایا"
+    },
+    {
+      "surface": "בהוללים",
+      "gloss": "اکھڑ مزاجیاں اُتے"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سکون"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بُریاں دا"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "میں ویکھیا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:09:17.335313435Z",
+  "model": "glm-5.3"
+}

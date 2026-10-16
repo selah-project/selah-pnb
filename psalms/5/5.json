@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יגרך",
+      "rationale": "גור 'sojourn\/dwell as stranger' — کجھ ترجمے 'ٹکنا'، کجھ 'پرچاری بن کے رہنا' لکھدے نیں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רשע\/רע",
+      "rationale": "دووین وچ 'برائی' دی سور ملدی اے — عبرانی جوڑی پنجابی وِچ ہلدی جہی رہندی اے"
+    }
+  ],
+  "translation": "کیونکہ برائی پسند کرن والا ایل تُو نئیں؛ برائی تیرے کول ⟨ٹک سکدی⟩ نئیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c051fc4b02dfeab5281d256f13d2732f51be7285321fe6f50be3567b9473ab6d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/5\/5-8.1792111782510.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "پسند کرن والا"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "تیرے کول ٹکے"
+    },
+    {
+      "surface": "רע",
+      "gloss": "برائی"
+    }
+  ],
+  "timestamp": "2026-10-16T00:49:42.510574389Z",
+  "model": "glm-5.3"
+}

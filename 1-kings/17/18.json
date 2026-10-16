@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 17:18",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "میرا تے تیرا کی واسطہ",
+      "rationale": "מה לי ולך عبرانی پچھاچھ اے — 'میرا تے تیرا کی رلت'، پنجابی وِچ ایہو محاورہ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ایلوہیم عام لفظ",
+      "rationale": "איש האלהים وِچ אלהیم ناں دی تھاں نئیں، عام لفظ اے — 'خدا دا بندہ' جائز"
+    },
+    {
+      "kind": "you",
+      "subject": "اِلیاہو نوں",
+      "rationale": "تریمتی سدھی اِلیاہو نوں مخاطب اے"
+    }
+  ],
+  "translation": "تے اوہنے اِلیاہو نوں آکھیا: میرا تے تیرا کی واسطہ، اے خدا دے بندے؟ تُوں میرے کول آیا ایں کہ ⟨את⟩ میرے قصور نوں یاد کرواویں تے ⟨את⟩ میرے پُتر نوں مار دیویں؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "744ab08d66c907800b2618091885d73085ba4222d1c5ce78cbdcb882656a2117",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/17\/17-20.1792104623216.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "تے اوہنے آکھیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "اِلیاہو"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرا"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "تے تیرا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "خدا دے"
+    },
+    {
+      "surface": "באת",
+      "gloss": "تُوں آیا ایں"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میرے کول"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "کہ یاد کرواویں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میرے قصور نوں"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "میرے قصور"
+    },
+    {
+      "surface": "ולהמית",
+      "gloss": "تے مار دیویں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میرے پُتر نوں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "میرے پُتر"
+    }
+  ],
+  "timestamp": "2026-10-15T22:50:23.217332047Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 124:5",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 124,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ابلدیاں لہراں",
+      "rationale": "הזידונים دا مول مطلب اے 'ابلدا ہویا پانی' — جوشیلے\/فخر والے پانی دی تھاں مورت رکھی گئی اے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "تدوں",
+      "rationale": "אזי دی جگہ 'اوس ویلے' وی ٹھیک سی؛ 'تدوں' پچھلی آیت دے 'تدوں' نال جوڑ دیندا اے"
+    }
+  ],
+  "translation": "تدوں ابلدیاں لہراں ساڈی جان دے اتے لنگھ گئیاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2f3f1ff67fc6c604af6d8a8895cf26968e3b4b6204f95e7d0c1401defac21b66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/124\/5-8.1792114018220.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "تدوں"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "لنگھ گئیاں"
+    },
+    {
+      "surface": "על",
+      "gloss": "دے اتے"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "ساڈی جان"
+    },
+    {
+      "surface": "המים",
+      "gloss": "پانی"
+    },
+    {
+      "surface": "הזידונים",
+      "gloss": "ابلدیاں لہراں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:26:58.220862297Z",
+  "model": "glm-5.3"
+}

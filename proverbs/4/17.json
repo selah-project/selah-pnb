@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 4:17",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לחמו\/לחם",
+      "rationale": "اِکو جڑ ل-ח-م دو واری — فعل 'کھانا' تے ناں 'روٹی' — پنجابی وِچ ایہ دُہراؤ مُک جاندا اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "اوہ",
+      "rationale": "عبرانی وِچ فاعل لُکیا اے (پچھلی آیت دے بدکار)؛ پنجابی نوں اوہ منگدا اے۔"
+    }
+  ],
+  "translation": "کیوں جو اوہ برائی دی روٹی کھاندے نیں تے ظلماں دی شراب پیندے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f247464e99da4c63f87e67767afdfabe67bf5822e6f0e20f739ed98385275892",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/4\/17-20.1792114424420.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "کھاندے نیں"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "روٹی"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "برائی دی"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "تے شراب"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "ظلماں دی"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "پیندے نیں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:33:44.420757502Z",
+  "model": "glm-5.3"
+}

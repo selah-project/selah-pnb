@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "میل دا بیج",
+      "rationale": "שכבת זרע لفظی 'لیٹن دا بیج' اے — پنجابی 'میل دا بیج' اوہو تصویر رکھدا اے، کیوں جو מیل دو جسماں دے رلن دا کم اے"
+    },
+    {
+      "kind": "you",
+      "subject": "اسرائیل نوں",
+      "rationale": "روک دی سِدھی ہدایت، باب دی گواہی نال"
+    }
+  ],
+  "translation": "تے اپنے ساتھی دی بیوی کول اپنا میل دا بیج نہ دے، اوہدے نال نجاست لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6a05889e1099dd6b5e49bc51fd66988a953cdf55fb93ed9cf36eb849d22b92d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/18\/17-20.1792097836107.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "تے … کول"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "… دی بیوی کول"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "اپنے ساتھی دی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "دے"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "اپنا میل"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "دے بیج"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "نجاست لئی"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اوہدے نال"
+    }
+  ],
+  "timestamp": "2026-10-15T20:57:16.108709297Z",
+  "model": "glm-5.3"
+}

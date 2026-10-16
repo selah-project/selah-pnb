@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 15:10",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "سِسے وانگ ڈبّ گئے",
+      "rationale": "עופרת دی تلخ 例 عبرانی وِچ وی اکھاں اے — بھار دا مثال، ٹھیک اے رکھیا"
+    }
+  ],
+  "translation": "توں اپنی ہوا نال پھُونک ماری، سمندر نے اوہناں نوں ڈھک لیا، اوہ سِسے وانگ وڈے پانیاں وِچ ڈبّ گئے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1ab465ffed77a72d930c0577bbcf47ead1e5b3eb2067358ed9b163c5cdf06dbd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/15\/9-12.1792096454098.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשפת",
+      "gloss": "توں نے پھُونک ماری"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "اپنی ہوا نال"
+    },
+    {
+      "surface": "כסמו",
+      "gloss": "ڈھک لیا"
+    },
+    {
+      "surface": "ים",
+      "gloss": "سمندر نے"
+    },
+    {
+      "surface": "צללו",
+      "gloss": "ڈبّ گئے"
+    },
+    {
+      "surface": "כעופרت",
+      "gloss": "سِسے وانگ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "پانیاں وِچ"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "وڈے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:34:14.099594508Z",
+  "model": "glm-5.3"
+}

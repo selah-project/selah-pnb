@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 30:29",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اَوراہام نئیں —",
+      "rationale": "ترجمے دی پہلی لفظ بھُل سی؛ میں اوہ مٹا دتی — صرف عبرانی دا ترجمہ اے"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתי",
+      "rationale": "אִתִּי (H854) 'میرے کول' — ⟨את⟩ ٹبر دا نشان چکیا گیا پر ایہ DO-marker نئیں، 'نال\/کول' اے"
+    }
+  ],
+  "translation": "اَوراہام نئیں — یعقوو نے اوہنوں آکھیا: تُوں جاندا ایں ⟨את⟩ جِہڑا میں تیرے لئی خدمت کیتی، تے ⟨את⟩ جِہڑا تیرا مال مویشی ⟨את⟩ میرے کول رہیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fa57f945753fbbb915c8e78712f474a8732ee2b237c69626914d1d3cf9d0e5e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/30\/29-32.1792095468349.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اوہدوں"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُوں"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "جاندا ایں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جِہڑا میں تیرے لئی خدمت کیتی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جِہڑا"
+    },
+    {
+      "surface": "עבדתיך",
+      "gloss": "میں تیرے لئی خدمت کیتی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "جِہڑا تیرا مال مویشی میرے کول رہیا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جِہڑا"
+    },
+    {
+      "surface": "היה",
+      "gloss": "رہیا"
+    },
+    {
+      "surface": "מקנך",
+      "gloss": "تیرا مال مویشی"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ میرے کول"
+    }
+  ],
+  "timestamp": "2026-10-15T20:17:48.350569724Z",
+  "model": "glm-5.3"
+}

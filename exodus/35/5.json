@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 35:5",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "دین دا چاء",
+      "rationale": "נדיב לבו دی ٹُٹی تعمیر نوں پنجابی جملے لئی پھیلیا گیا"
+    },
+    {
+      "kind": "elision",
+      "subject": "ה תרומה",
+      "rationale": "ایہ گل آیت 5 دی لسانی سِیو اے، آیت دے ٹوکن وِچ نئیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "چڑھاواں",
+      "rationale": "תרומה چُکن والی قربانی اے — 'ہدیہ' یا 'بھیٹا' وی ہو سکدا اے"
+    },
+    {
+      "kind": "you",
+      "subject": "ایسرائیل دی مجلس",
+      "rationale": "حکم دوجی شخص جمع صیغے وِچ — قوم نوں سدّا"
+    },
+    {
+      "kind": "invitation",
+      "subject": "لَوو … لیاوے",
+      "rationale": "رضاکارانہ دین دا سدّا، زبردستی نئیں"
+    }
+  ],
+  "translation": "تُہاڈے وِچوں ⟨את⟩ یاہوہ لئی چڑھاواں لَوو؛ ہر اِک جیہدے دل نوں دین دا چاء اے، اوہ یاہوہ دا چڑھاواں، ⟨את⟩ سونا تے چاندی تے پیتل، لیاوے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "56e13a07e667b611c03bcbd8f747283177c78426151be497987b1d486d02bf7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/35\/5-8.1792097054085.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "لَوو"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "تُہاڈے وِچوں ⟨את⟩"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "چڑھاواں"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ لئی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر اِک"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "دین دا چاء والا"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "اوہدا دل"
+    },
+    {
+      "surface": "יביאה",
+      "gloss": "لیاوے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ دا چڑھاواں — سونا تے چاندی تے پیتل"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "چڑھاواں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دا"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونا"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "تے چاندی"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "تے پیتل"
+    }
+  ],
+  "timestamp": "2026-10-15T20:44:14.085983005Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 107:34",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨بنادندا اے⟩",
+      "rationale": "عبرانی پچھلی آیت دے فعل توں اگلاں گرہن کردی اے، پنجابی لئی فعل دہرایا۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "למלחה",
+      "rationale": "KJV 'barrenness' بنا لیندے نیں، JPS\/ASV 'salt waste' — لفظ نمک نال جڑیا اے، سیدھی بھومی ٹھیک اے۔"
+    }
+  ],
+  "translation": "فرومن والی دھرتی نوں سیدھی بھومی، اوہدے واسیاں دی برائی توں ⟨بنادندا اے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d0c73c4f1f9925a3e7cca95fcea039311e58fb63474b7041fe49065e361f4a26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/107\/33-36.1792113664948.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "دھرتی"
+    },
+    {
+      "surface": "پרי",
+      "gloss": "فرومن والی"
+    },
+    {
+      "surface": "למלחה",
+      "gloss": "سیدھی بھومی نوں"
+    },
+    {
+      "surface": "מרעת",
+      "gloss": "برائی توں"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "واسیاں دی"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اوہدے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:21:04.949522154Z",
+  "model": "glm-5.3"
+}

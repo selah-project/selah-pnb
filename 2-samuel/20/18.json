@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 20:18",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דבר ידברו \/ שאל ישאלו",
+      "rationale": "مصدر مطلق نال جوڑ — 'بول بولدے سی'، 'پُچھ پُچھدے نیں'؛ پنجابی وِچ تکرار دا اثر سہارا نئیں لے سکیا"
+    },
+    {
+      "kind": "crux",
+      "subject": "התמו",
+      "rationale": "'مُک گئے\/پورے ہوئے' — ترجمے وکھرے نیں: 'معاملہ مُکایا' (KJV)، 'ایہو ریت رہی' (گینوا)، 'اوہ مُک گئے'"
+    },
+    {
+      "kind": "addition",
+      "subject": "گل",
+      "rationale": "⟨گل⟩ عبرانی وِچ نئیں، התמו دا مفعول دسن لئی پایا گیا"
+    }
+  ],
+  "translation": "تے اوہنے آکھیا: پرانے ویلے کہیا جاندا سی: آبل وِچ پُچھیا جاندا اے، تے ایویں ⟨گل⟩ مُک جاندی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8ad95de7365608618ac7f9b6c305ba9fc9617bdbae2756e6b10e598fadb78a20",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/20\/17-20.1792103662189.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "تے اوہنے آکھیا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "بول"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "بولیا جاندا سی"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "پرانے ویلے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "پُچھ"
+    },
+    {
+      "surface": "ישאלו",
+      "gloss": "پُچھیا جاندا اے"
+    },
+    {
+      "surface": "באבל",
+      "gloss": "آبل وِچ"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "تے ایویں"
+    },
+    {
+      "surface": "התמו",
+      "gloss": "مُک جاندی اے"
+    }
+  ],
+  "timestamp": "2026-10-15T22:34:22.190400140Z",
+  "model": "glm-5.3"
+}

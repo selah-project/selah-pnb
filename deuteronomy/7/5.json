@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 7:5",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כי אם",
+      "rationale": "جوش دا جوڑا، پنجابی وِچ اِک 'سگوں' ای کافی۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אשרה",
+      "rationale": "اشراہ کنیت دیوت‏ی دا ناں اے، 'جنگل' (KJV groves) غلط۔"
+    },
+    {
+      "kind": "you",
+      "subject": "اسرائیل",
+      "rationale": "حکم فریحت قوم اسرائیل نوں سدھا مخاطب اے۔"
+    }
+  ],
+  "translation": "سگوں ایہو اوہناں نال کرو: اوہناں دیاں قربانی گاہاں ڈھاہو، اوہناں دے ستون توڑ سُٹو، اوہناں دیاں اشراہ دیاں لکڑیاں کٹو، تے اوہناں دے تراشے ہوئے بت اگّ وِچ ساڑو۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8c90cbfc7db9154d1a9d1b9db95e9d9682cc03fee1fbc150201a00ad101bbcbe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/7\/5-8.1792099716348.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "سگوں"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "כה",
+      "gloss": "ایہو"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "کرو"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اوہناں نال"
+    },
+    {
+      "surface": "מזבחתיהם",
+      "gloss": "اوہناں دیاں قربانی گاہاں"
+    },
+    {
+      "surface": "תתצו",
+      "gloss": "ڈھاہو"
+    },
+    {
+      "surface": "ומצבתם",
+      "gloss": "اوہناں دے ستون"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "توڑ سُٹو"
+    },
+    {
+      "surface": "ואשירהם",
+      "gloss": "اوہناں دیاں اشراہ دیاں لکڑیاں"
+    },
+    {
+      "surface": "תגדעון",
+      "gloss": "کٹو"
+    },
+    {
+      "surface": "ופסיליהם",
+      "gloss": "اوہناں دے تراشے ہوئے بت"
+    },
+    {
+      "surface": "תשרפון",
+      "gloss": "ساڑو"
+    },
+    {
+      "surface": "באש",
+      "gloss": "اگّ وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T21:28:36.349183085Z",
+  "model": "glm-5.3"
+}

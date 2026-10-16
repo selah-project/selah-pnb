@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 21:3",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חלחלה",
+      "rationale": "بچے دی پیدائش دا کَوڑ تے کاہلی — 'کَوڑ' اوہدے سبھ توں نیڑے اے پر اِک لفظ نئیں ڈھکدا"
+    },
+    {
+      "kind": "alternative",
+      "subject": "میں جُکھ گئیاں",
+      "rationale": "کجھ مترجم 'اتوں جُکھیاں کہ سُن نئیں سکدا' پڑھدے نیں؛ پنجابی وِچ سادہ سُن کے رکھیا"
+    }
+  ],
+  "translation": "ایس لئی میریاں کمراں کَوڑ نال بھر گئیاں؛ درد مینوں پھڑ لیا، جیویں جُوانی کرن والی زنانہ دے درد؛ سُن کے میں جُکھ گئیاں، ویکھ کے میں گھبرا گئیاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "75ad1e40dba5f69429b035087f8bd8929945858256804858b38a0d6746d47e1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/21\/1-4.1792106187368.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ایس"
+    },
+    {
+      "surface": "כן",
+      "gloss": "لئی"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "بھر گئیاں"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "میریاں کمراں"
+    },
+    {
+      "surface": "חלחלה",
+      "gloss": "کَوڑ"
+    },
+    {
+      "surface": "צירים",
+      "gloss": "درد"
+    },
+    {
+      "surface": "אחזוני",
+      "gloss": "مینوں پھڑ لیا"
+    },
+    {
+      "surface": "כצירי",
+      "gloss": "جیویں … دے درد"
+    },
+    {
+      "surface": "יולדה",
+      "gloss": "جُوانی کرن والی زنانہ"
+    },
+    {
+      "surface": "נעויתי",
+      "gloss": "میں جُکھ گئیاں"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "سُن کے"
+    },
+    {
+      "surface": "נבהלתי",
+      "gloss": "میں گھبرا گئیاں"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "ویکھ کے"
+    }
+  ],
+  "timestamp": "2026-10-15T23:16:27.369921638Z",
+  "model": "glm-5.3"
+}

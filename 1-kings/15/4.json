@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 15:4",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "چراغ",
+      "rationale": "ניר 'چراغ' — راج گھرانیوں دے قائم رہن دا عبرانی نشان؛ شبدیلی پنجابی 'چراغ' رکھیا۔"
+    },
+    {
+      "kind": "alternative",
+      "subject": "להקים",
+      "rationale": "'کھلواؤن لئی' یا 'اُٹھاؤن لئی' — دونوں قیام دے معنے دسدیاں نیں۔"
+    }
+  ],
+  "translation": "کیونجے داوِد لئی یاہوہ اوہدے ایلوہیم نے اوہنوں یروشلایم وِچ اِک چراغ دِتا — ⟨את⟩ اوہدے پُتر نوں اوہدے بعد کھلواؤن لئی تے ⟨את⟩ یروشلایم نوں قائم رکھن لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c0f4239ded6e08c0e1169d925b23011f5dee3cf3e75656d8b60d0865aa02fa4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/15\/1-4.1792104627308.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "למען",
+      "gloss": "لئی"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دِتا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "اوہدے ایلوہیم"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہنوں"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "چراغ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "یروشلایم وِچ"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "کھلواؤن لئی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہدے پُتر نوں"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اوہدے پُتر"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "اوہدے بعد"
+    },
+    {
+      "surface": "ולהעמיד",
+      "gloss": "تے قائم رکھن لئی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یروشلایم نوں"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم"
+    }
+  ],
+  "timestamp": "2026-10-15T22:50:27.309827029Z",
+  "model": "glm-5.3"
+}

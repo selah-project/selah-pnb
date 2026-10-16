@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 22:9",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "גֹל",
+      "rationale": "مول لفظ 'رول کر' اے؛ 'سپرد کر' (ASV\/JPS) کھلار اے — مول تصویر رکھی گئی۔"
+    },
+    {
+      "kind": "you",
+      "subject": "مذاق کرن والے",
+      "rationale": "ایہہ آیت طعنے دے بچن نیں جو تکلیف وِچلے بندے ولّ اِٹھدے نیں۔"
+    }
+  ],
+  "translation": "رول کر یاہوہ ولّی! اوہ اوہنوں چھڑا لے، اوہ اوہنوں بچا لے، کیوں جے اوہ اوہدے نال خوش اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "47a0de3be98c730c1580e429d33f1946bf0c6d0015ef3530c8c85d945dbaba10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/22\/9-12.1792112063650.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "رول کر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ولّی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "יפלטהו",
+      "gloss": "اوہنوں چھڑا لے"
+    },
+    {
+      "surface": "יצילהו",
+      "gloss": "اوہنوں بچا لے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جے"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "خوش اے"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوہدے نال"
+    }
+  ],
+  "timestamp": "2026-10-16T00:54:23.650907608Z",
+  "model": "glm-5.3"
+}

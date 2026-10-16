@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 21:4",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בעל בעמיו",
+      "rationale": "KJV 'قوم دا وڈا' کہندا اے، Rashi 'قوم وچوں کسے شوہر لئی' — عبرانی 'مالک\/شوہر اپنی قوم وچ' اے"
+    },
+    {
+      "kind": "elision",
+      "subject": "להחלו",
+      "gloss": "مقصد دا لفظ 'تاں جو' نال دتا، عبرانی دا توڑ' پہلو"
+    }
+  ],
+  "translation": "بادشاہ ⟨دے لئی⟩ اوہ اپنی قوم وِچ میلا نہ ہووے، تاں جو اپنے آپ نوں پلیت نہ کرے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a6508db9da17225b0f10434f35683c180c6502314d0992536520fa4b7174f560",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/21\/1-4.1792097972922.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "میلا ہووے"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "مالک"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "اپنی قوم وِچ"
+    },
+    {
+      "surface": "להחלו",
+      "gloss": "اپنے آپ نوں پلیت کرن لئی"
+    }
+  ],
+  "timestamp": "2026-10-15T20:59:32.923278022Z",
+  "model": "glm-5.3"
+}

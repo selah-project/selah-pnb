@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 59:15",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "יהמו",
+      "rationale": "'ہمنا' — بلند آواز کرنا؛ کُتے دے بھونکن دی تصویر، سِدھا 'بھونکنا' کیتا"
+    },
+    {
+      "kind": "elision",
+      "subject": "دوجی واری 'اوہ'",
+      "rationale": "عبرانی ضمیر پہلے فعل نال جُڑی، پنجابی سطر واسطے وکھ"
+    }
+  ],
+  "translation": "تے اوہ شام نوں مُڑ آؤن، کُتیاں وانگ بھونکدے نیں، تے ⟨شہر⟩ دوآلے پھردے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e03e5fa4b70d4e07c8c3106023c1b168d6f78f5a300c5a8f807041aaf89399e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/59\/13-16.1792112742676.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "تے اوہ مُڑ آؤن"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "شام نوں"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "بھونکدے نیں"
+    },
+    {
+      "surface": "کککلב",
+      "gloss": "کُتیاں وانگ"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "تے پھردے نیں"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہر دوآلے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:05:42.677925718Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 32:2",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "نَکّ",
+      "rationale": "אף شبدی نَکّ\/ناس اے، عبرانی غصے دا برتا اے — 'غصہ' کردار دا لفظ اے، شکل گئی"
+    },
+    {
+      "kind": "crux",
+      "subject": "ایلوہیم توں ودھکے",
+      "rationale": "מאלהیם: 'خدا توں ودھکے آپ نوں نیاں آکھنا' (KJV) بناام 'خدا دے ساہمنے' — پربل ودھیکے درست اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "نفسو",
+      "rationale": "נפש آپ-جان دا مطلب اے، پنجابی وِچّ 'آپ نوں' قافئے نال آیا"
+    }
+  ],
+  "translation": "تے الِیہو بن براکایل ہابوزی، رام دے خاندان توں، دا غصہ بھڑکا — اوہدا نَکّ ایہووُب اُتے تَپّیا، ایس لئی جو اوہ ایلوہیم توں ودھکے آپ نوں نیاں آکھدا سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "248a0e1a6fd045eb593ee89aabfc8b866c8706840283e7d6315c8921448ac9b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/32\/1-4.1792116270578.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "بھڑکا"
+    },
+    {
+      "surface": "אף",
+      "gloss": "نَکّ (غصہ)"
+    },
+    {
+      "surface": "אליהוא",
+      "gloss": "الِیہو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن (پُتر)"
+    },
+    {
+      "surface": "ברכאל",
+      "gloss": "براکایل"
+    },
+    {
+      "surface": "הבוזי",
+      "gloss": "ہابوزی"
+    },
+    {
+      "surface": "ממשפחת",
+      "gloss": "خاندان توں"
+    },
+    {
+      "surface": "רם",
+      "gloss": "رام"
+    },
+    {
+      "surface": "באיוב",
+      "gloss": "ایہووُب اُتے"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "تَپّیا"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "اوہدا نَکّ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ایس لئی جو"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "نیاں آکھدا سی"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "آپ نوں ⟨اپنی جان⟩"
+    },
+    {
+      "surface": "מאלהים",
+      "gloss": "ایلوہیم توں ودھکے"
+    }
+  ],
+  "timestamp": "2026-10-16T02:04:30.579304735Z",
+  "model": "glm-5.3"
+}

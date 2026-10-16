@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 3:26",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "بھروسہ",
+      "rationale": "כסל مطلب 'چربی\/کمر' — کمر تے سہارا دین والی تھاں، 'بھروسہ' شکل دا ترجمہ اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩",
+      "rationale": "ושמר دا فاعل عبرانی وِچ نئیں"
+    }
+  ],
+  "translation": "کیونکہ یاہوہ ⟨تیرا⟩ بھروسہ ہووےگا، تے ⟨اوہ⟩ تیرا پیر پھسݨ توں بچاویگا।",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0c2e9554bbf6365b297f5c3177d32bd650b4985fcba4a58c168db6864d96bc5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/3\/25-28.1792114416992.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہووےگا"
+    },
+    {
+      "surface": "בכסלך",
+      "gloss": "تیرا بھروسہ"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "تے بچاویگا"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "تیرا پیر"
+    },
+    {
+      "surface": "מלכד",
+      "gloss": "پھسݨ توں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:33:36.993338145Z",
+  "model": "glm-5.3"
+}

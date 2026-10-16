@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 20:18",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עצר עצר",
+      "rationale": "لاحقہ کریا دہراؤ — 'بند بند کر دتا' — پوری طاقت والا بند ہونا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "رِیم",
+      "rationale": "רחم مطلب 'پیند\/بچہ دانی' — پنجابی وِچ 'رِیم' رکھیا، 'تیند' وی جائز اے"
+    }
+  ],
+  "translation": "کیونجے یاہوہ نے اَبیمالیکھ دے گھر دے ہر رِیم نوں بند بند کر دتا سی، سارے دی گل تے، جیہڑی اَوراہام دی تیویں اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ebc5c3d80dd8765d16dd74f8b1a42fea020ec3ae3785531958dae86e04273230",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/20\/17-18.1792095085390.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "עצר",
+      "gloss": "بند"
+    },
+    {
+      "surface": "עצר",
+      "gloss": "کر دتا سی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "رِیم"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "دے گھر"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "اَبیمالیکھ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تے"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گل"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "دی تیویں"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراہام"
+    }
+  ],
+  "timestamp": "2026-10-15T20:11:25.391502110Z",
+  "model": "glm-5.3"
+}

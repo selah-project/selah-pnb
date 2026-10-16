@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 38:5",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "گھر",
+      "rationale": "בתים پورے طور تے ’گھر‘ اے؛ قافلے دے ترجمے ’تھانواں‘ یا ’ڈھانچے‘ لکھدے نیں — شکل گھر ای رکھی۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "چار کُنڈیاں چار کونیاں وِچ",
+      "rationale": "گنتی تے ناپ — چار تے چار دی دہرائی۔"
+    }
+  ],
+  "translation": "تے اوہنے چار کُنڈیاں ڈھالیاں، تانبے دے جالے دے چارے کونیاں وِچ، بادیاں لئی گھر۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "12a9bc8583a3bf3c4878ad03268f07e26cea04d1d60ebec1f64fa625719f671e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/38\/5-8.1792097222151.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "تے اوہنے ڈھالیاں"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "کُنڈیاں"
+    },
+    {
+      "surface": "בארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "הקצות",
+      "gloss": "کونیاں"
+    },
+    {
+      "surface": "למכבר",
+      "gloss": "جالے لئی"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "تانبے دے"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "بادیاں لئی"
+    }
+  ],
+  "timestamp": "2026-10-15T20:47:02.151836604Z",
+  "model": "glm-5.3"
+}

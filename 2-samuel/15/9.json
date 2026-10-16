@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 15:9",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לך בשלום",
+      "rationale": "عبرانی وِچ ”سلامت وِچ جا” — وداع دا کہاوہ، پنجابی وِچ ”سلامت نال جا”"
+    },
+    {
+      "kind": "you",
+      "subject": "بادشاہ دا حکم",
+      "rationale": "داؤد اَوشالوم نوں سدھا مخاطب کردا اے"
+    }
+  ],
+  "translation": "تے بادشاہ نے اوہدے نوں آکھیا: سلامت نال جا۔ تے اوہ اُٹھیا تے حِورون نوں گیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2f9b65b202d8697f061b683cabc6f35670a5f11505bf6137667edfca4e58158c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/15\/9-12.1792103506612.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدے نوں"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ نے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "جا"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "سلامت نال"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "تے اُٹھیا"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "تے گیا"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "حِورون نوں"
+    }
+  ],
+  "timestamp": "2026-10-15T22:31:46.613407577Z",
+  "model": "glm-5.3"
+}

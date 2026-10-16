@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 40:25",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "میں",
+      "rationale": "عبرانی وِچ ضمیر فعل دی صیغے وِچ اے، وکھرا نئیں"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "سوال بنی اسرائیل ولّ اے، مقدّس دا سوال"
+    },
+    {
+      "kind": "invitation",
+      "subject": "رٹن والا",
+      "rationale": "سوال نال قاری نوں سوچن لئی سدیا گیا"
+    }
+  ],
+  "translation": "تے فیر کِسے نال میں تدھے موازنہ کراں تے میں اوہدے برابر ہوواں؟ قدُوس آکھدا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4ed5a8a75c1138f24818ae728454db3d6ffed338b7444420449e6176c4be466c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/40\/25-28.1792106671364.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "تے فیر"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کِسے"
+    },
+    {
+      "surface": "תדמיוני",
+      "gloss": "میں تدھے موازنہ کراں"
+    },
+    {
+      "surface": "ואשוה",
+      "gloss": "تے میں برابر ہوواں"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "آکھدا اے"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "قدُوس"
+    }
+  ],
+  "timestamp": "2026-10-15T23:24:31.365015917Z",
+  "model": "glm-5.3"
+}

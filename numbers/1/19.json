@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 1:19",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوہناں دی",
+      "rationale": "عبرانی ויפקדם وِچ مفعول لاحق اے؛ پنجابی وچ وکھ لفظ چاہید"
+    }
+  ],
+  "translation": "جویں یاہوہ نے ⟨את⟩ موشے نوں حکم دتا، اویں اوہناں دی گنتی سینا دے بیابان وِچ کیتی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5838d805e1730833b235a238c4f25a536657472b152ade4d3e2413dec3bff45d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/1\/17-20.1792098249741.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "جویں"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم دتا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشے نوں"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "اویں اوہناں دی گنتی کیتی"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "بیابان وِچ"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "سینا"
+    }
+  ],
+  "timestamp": "2026-10-15T21:04:09.742133844Z",
+  "model": "glm-5.3"
+}

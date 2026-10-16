@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 2:27",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לבית פרעה",
+      "rationale": "literal 'to the house of Pharaoh'; JPS\/ASV render 'in bondage to Pharaoh's house', a supplied interpretation."
+    },
+    {
+      "kind": "addition",
+      "subject": "دی خدمت وِچ",
+      "rationale": "Hebrew has only the lamed preposition; the servitude gloss is bracketed, not the text's own word."
+    },
+    {
+      "kind": "you",
+      "subject": "عیلی کول",
+      "rationale": "the man of God addresses Eli directly with YHWH's rhetorical question."
+    }
+  ],
+  "translation": "تے ایلوہیم دا اِک بندہ عیلی کول آیا تے اوہنوں آکھیا: ایوں یاہوہ آکھدا اے: کی میں اپنے آپ نوں تیرے پیو دے گھر اُتے ظاہر نئیں کیتا، جدوں اوہ مِتصرایم وِچ، فرعون دے گھر ⟨دی خدمت وِچ⟩ سن؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4715785d3e8b4e896664cbf2250500a2dc7aff8f309b11bc1824431f7d31d106",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/2\/25-28.1792102202440.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "تے آیا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "اِک بندہ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "عیلی"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اوہنوں"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ایوں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھدا اے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہוה"
+    },
+    {
+      "surface": "הנגלה",
+      "gloss": "کی … نئیں"
+    },
+    {
+      "surface": "נגליתי",
+      "gloss": "اپنے آپ نوں ظاہر کیتا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "تیرے پیو دے"
+    },
+    {
+      "surface": "בהיותם",
+      "gloss": "جدوں اوہ سن"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "مِتصرایم وِچ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "فرعون دے گھر ⟨دی خدمت وِچ⟩"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    }
+  ],
+  "timestamp": "2026-10-15T22:10:02.441124104Z",
+  "model": "glm-5.3"
+}

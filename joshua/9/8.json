@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 9:8",
+  "book": "joshua",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "او",
+      "rationale": "پنجابی جملے لئی کوپُلہ دا روپ چاہیدا اے جیہڑا عبرانی وِچ نئیں"
+    },
+    {
+      "kind": "you",
+      "subject": "یہوشوا دا گبونیئناں نوں سوال",
+      "rationale": "پچھاچھا سِدھا مخاطب نیں — 'تُسیں کون او تے کتھوں توں آئے او؟'"
+    }
+  ],
+  "translation": "تے اُنہاں نے یہوشوا نوں آکھیا: “اسیں تیرے غلام آں۔” تے یہوشوا نے اُنہاں نوں آکھیا: “تُسیں کون او تے کتھوں آئے او؟”",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "13a945607580002e073b48087e4f52cea151529219177e00709f44a7a29a85c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joshua\/9\/5-8.1792100846418.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "تے اُنہاں نے آکھیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یہوشوا"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "تیرے غلام"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "اسیں"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے … نے آکھیا"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "اُنہاں نوں"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یہوشوا"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تُسیں"
+    },
+    {
+      "surface": "ומאין",
+      "gloss": "تے کتھوں"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "آئے او"
+    }
+  ],
+  "timestamp": "2026-10-15T21:47:26.419897286Z",
+  "model": "glm-5.3"
+}

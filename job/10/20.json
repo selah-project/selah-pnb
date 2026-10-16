@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 10:20",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יחדל ישית",
+      "rationale": "متن بناں سوّر اے — کون رکے؟ 'توں رک جا' (KJV\/BSB) بمقابلہ 'اوہ رکے' (Geneva)؛ پنجابی نے 'توں' لیا، ⟨⟩ وِچ۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "تاں جو",
+      "rationale": "ואבליגہ مقصد دا صیغہ اے — پنجابی نوں 'تاں جو' جوڑ چاہیدا اے۔"
+    }
+  ],
+  "translation": "کیا میرے دن تھوڑے نئیں؟ ⟨توں⟩ رک جا، مینوں چھڈّ دے، تاں جو میں تھوڑا چمک سکاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "369b000957795c8fab06e2a94e16ab01c6a3fff6b29b261c8b987703cace53a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/10\/17-20.1792115658974.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "کیا...نئیں"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "تھوڑے"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "میرے دن"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "رک جا"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "چھڈّ دے"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "مینوں"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "تاں جو میں چمک سکاں"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "تھوڑا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:54:18.975033963Z",
+  "model": "glm-5.3"
+}

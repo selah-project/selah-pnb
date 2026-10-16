@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 24:22",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Second-person plural address: remember you were slaves — the motive clause for the gleaning law."
+    },
+    {
+      "kind": "addition",
+      "subject": "تُسیں",
+      "rationale": "Hebrew היית is second-person singular; Punjabi plural pronoun added as the address is collective."
+    }
+  ],
+  "translation": "تے یاد رکھویں گے کہ تُسیں مِتصرایم دے دیس وِچ غلام سن؛ اِسی لئی اَنّوں میں تہاڈے تُوں اِس گل دا حکم کردا واں کہ ⟨את⟩ ایہہ کم کرو۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "54f27ec52a52efc26e7dbccea8931f2ea49373bd2da1bf30f54911b64667de07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/24\/21-22.1792100249813.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "تے یاد رکھویں گے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "غلام"
+    },
+    {
+      "surface": "היית",
+      "gloss": "سن"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "دیس وِچ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم"
+    },
+    {
+      "surface": "על",
+      "gloss": "اِسی"
+    },
+    {
+      "surface": "כן",
+      "gloss": "لئی"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "اَنّوں میں"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "حکم کردا واں"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "کہ کرو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایہہ کم"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "کم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایہہ"
+    }
+  ],
+  "timestamp": "2026-10-15T21:37:29.814844253Z",
+  "model": "glm-5.3"
+}

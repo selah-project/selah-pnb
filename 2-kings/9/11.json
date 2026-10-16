@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 9:11",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "השלום",
+      "rationale": "عبرانی اِدام 'شانت اے؟' — خیرخیال پچھن دا راگ، 'کی سب ٹھیک اے'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨اِک نے⟩",
+      "rationale": "عبرانی وِچ آکھن ہار دا کوئی نشان نئیں، پنجابی جملہ فاعل منگدا اے"
+    },
+    {
+      "kind": "elision",
+      "subject": "המשגע",
+      "rationale": "'رَوَن والا\/پاگل' — عبرانی دا شدّت والا مطلب پنجابی وِچ پاگل نال پورا نئیں اُتردا"
+    }
+  ],
+  "translation": "تے یِہُو اپنے سائیں دے نَوکریاں کول نِکلیا، تے ⟨اِک نے⟩ اوہنوں آکھیا: کی سب شانت اے؟ اِہوجا پاگل تیرے کول کیوں آیا؟ تے اوہنے اوہناں نوں آکھیا: تسیں ⟨את⟩ اوہ بندے نوں جانو ہو تے ⟨את⟩ اوہدیاں گلاں نوں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6d5a247054c90c870d6ea2a632a05ef82067d1c9f75167975567efe211bf34b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/9\/9-12.1792105164739.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוא",
+      "gloss": "تے یِہُو"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "نِکلیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "نَوکریاں"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "اپنے سائیں دے"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہنوں"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "کی سب شانت اے؟"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "המשגע",
+      "gloss": "پاگل"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اِہوجا"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تیرے کول"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "اوہناں نوں"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تسیں"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "جانو ہو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہ بندے"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "اوہ بندہ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "اوہدیاں گلاں"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "اوہدیاں گلاں"
+    }
+  ],
+  "timestamp": "2026-10-15T22:59:24.741057213Z",
+  "model": "glm-5.3"
+}

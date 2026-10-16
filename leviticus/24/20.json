@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "شکست... اکھ... دند",
+      "rationale": "שבר\/עין\/שן دی تن جوڑی دہرائی — lex talionis دی تلخین، پنجابی وِچ بدلے نال رکھی اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "تالین دا انصاف",
+      "rationale": "ہر نقص دا برابر بدلہ ناپیا گیا اے — نپے تُلی انصاف دی فہرست"
+    }
+  ],
+  "translation": "شکست دے بدلے شکست، اکھ دے بدلے اکھ، دند دے بدلے دند — جیویں اوہ بندے نوں نقص دیندا اے، اوہدے نال اوویں دتا جائوے گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "eb6af1bfa56ffa5d9cb8971dfa10b84923673b11e7455c74754d0018e56990da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/24\/17-20.1792098067391.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "شکست"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "دے بدلے"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "شکست"
+    },
+    {
+      "surface": "עין",
+      "gloss": "اکھ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "دے بدلے"
+    },
+    {
+      "surface": "עין",
+      "gloss": "اکھ"
+    },
+    {
+      "surface": "שן",
+      "gloss": "دند"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "دے بدلے"
+    },
+    {
+      "surface": "שן",
+      "gloss": "دند"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دیندا اے"
+    },
+    {
+      "surface": "מום",
+      "gloss": "نقص"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "بندے نوں"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اوویں"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "دتا جائوے گا"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوہدے نال"
+    }
+  ],
+  "timestamp": "2026-10-15T21:01:07.392401683Z",
+  "model": "glm-5.3"
+}

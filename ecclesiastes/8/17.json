@@ -1,0 +1,165 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 8:17",
+  "book": "ecclesiastes",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "mystery",
+      "subject": "poem",
+      "rationale": "Verse's theme: God's work under the sun is unfindable — deliberate opacity sealed even for the wise."
+    },
+    {
+      "kind": "crux",
+      "subject": "בשל אשר",
+      "rationale": "'اِس لئی کہ جتنا' vs 'جس لئی' — Hebrew 'inasmuch as \/ however much'; KJV reads causal, YLT concessive-proportional."
+    },
+    {
+      "kind": "crux",
+      "subject": "יאמר החכם לדעת",
+      "rationale": "'آکھے کہ جاندا' vs 'سوچے جانن نوں' — whether the wise man claims to know or resolves to know."
+    }
+  ],
+  "translation": "تے میں ویکھیا ⟨את⟩ ایلوہیم دا سارا کم، کیونجے آدمی نئیں لبھ سکدا ⟨את⟩ اوس کم نوں جیہڑا سورج ہیٹھ کیتا گیا؛ اِس لئی کہ آدمی جتنا کھوجن لئی محنت کردا اے، اوتنا نئیں ملدا؛ تے اُگاتاں جے سیانا بندہ آکھے کہ ⟨میں⟩ جاندا آں، تے اوہ لبھن نوں نئیں سکدا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d00bdb759115331f7f1163ca1680c2a459a6f1fde915cacd13f444bac29ca15d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ecclesiastes\/8\/17-17.1792117507515.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "تے میں ویکھیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایلوہیم دا سارا کم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کم"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم دا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "سکدا"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "למצוא",
+      "gloss": "لبھن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوس کم نوں"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "اوس کم نوں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "کیتا گیا"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ہیٹھ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سورج"
+    },
+    {
+      "surface": "בשל",
+      "gloss": "اِس لئی کہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جتنا"
+    },
+    {
+      "surface": "יעמל",
+      "gloss": "محنت کردا"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "کھوجن لئی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اوتنا نئیں"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ملدا"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "تے اُگاتاں"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "آکھے"
+    },
+    {
+      "surface": "החכם",
+      "gloss": "سیانا بندہ"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "کہ جاندا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "سکدا"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "لبھن"
+    }
+  ],
+  "timestamp": "2026-10-16T02:25:07.516297247Z",
+  "model": "glm-5.3"
+}

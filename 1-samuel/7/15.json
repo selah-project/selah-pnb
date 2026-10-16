@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 7:15",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "کل یמی حیيو",
+      "rationale": "عبرانی 'اپنی جیون دے سارے دن' — پنجابی وِچ 'ساری عمر' قدرتی اے، دناں دی گنتی گوا ئی گئی۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ساری عمر",
+      "rationale": "شموایل دے عدالت کرن دا ویلہ ناپیا گیا اے — جیون بھر۔"
+    }
+  ],
+  "translation": "تے شموایل نے ⟨את⟩ یِسرائیل نوں اپنی ساری عمر انصاف نال فیصلے کردا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d7ba5618153603c80591f57bd8a20d787ab9b0133268f423b001891309d6d4d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/7\/15-16.1792123655919.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "تے انصاف کردا"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموایل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یِسرائیل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "عمر"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "اپنی"
+    }
+  ],
+  "timestamp": "2026-10-16T04:07:35.920386370Z",
+  "model": "glm-5.3"
+}

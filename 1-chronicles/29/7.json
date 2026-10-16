@@ -1,0 +1,131 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 29:7",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "دس ہزار",
+      "rationale": "רבו مطلب میریڈ (وڈی گنتی) — 'دس ہزار' متعین گنتی اے، لفظ دی کھلی شکل گویّا ہو گئی"
+    },
+    {
+      "kind": "hapax",
+      "subject": "אדרכנים",
+      "rationale": "دَرِک — فارسی سونے دا سِکّہ، تنخ وِچ ایسے تھاں ای"
+    },
+    {
+      "kind": "measurement",
+      "subject": "کنتڑ",
+      "rationale": "سونا، چاندی، تانبا، لوہا — سب کنتڑ (ככר) وِچ تولے گئے نیں"
+    }
+  ],
+  "translation": "تے اوہناں نے ایلوہیم دے گھر دی سیوا لئی دِتّا: سونا — پنج ہزار کنتڑ تے دَرِک ⟨فارسی سونے دا سِکّہ⟩ دس ہزار؛ تے چاندی — کنتڑ دس ہزار؛ تے تانبا — دس ہزار تے اٹھ ہزار کنتڑ؛ تے لوہا — اک لکھ کنتڑ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c1dd2fd9052f4609bd8a8c6bcf8848f234a84f8a6740b153767c1fedcd4e035a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/29\/6-7.1792124456108.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "تے اوہناں نے دِتّا"
+    },
+    {
+      "surface": "לעבודת",
+      "gloss": "سیوا لئی"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم دے"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونا"
+    },
+    {
+      "surface": "ככרים",
+      "gloss": "کنتڑ"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ואדרכנים",
+      "gloss": "تے دَرِک"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "دس ہزار ⟨میریڈ⟩"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "تے چاندی"
+    },
+    {
+      "surface": "ככרים",
+      "gloss": "کنتڑ"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "دس"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "تے تانبا"
+    },
+    {
+      "surface": "رבו",
+      "gloss": "دس ہزار ⟨میریڈ⟩"
+    },
+    {
+      "surface": "ושמונת",
+      "gloss": "تے اٹھ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ככרים",
+      "gloss": "کنتڑ"
+    },
+    {
+      "surface": "וברزל",
+      "gloss": "تے لوہا"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "اک لکھ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ככרים",
+      "gloss": "کنتڑ"
+    }
+  ],
+  "timestamp": "2026-10-16T04:20:56.109575940Z",
+  "model": "glm-5.3"
+}

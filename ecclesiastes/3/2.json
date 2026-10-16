@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לטעת\/נטוע",
+      "rationale": "وہو جڑ لاؤن تے لائے ہوئے — اِکو جڑ دا وارووار، پنجابی وِچ لاؤن\/لائے نال جزوے کیتا"
+    }
+  ],
+  "translation": "جَمّن دا ویلہ، تے مرن دا ویلہ؛ لاؤن دا ویلہ، تے لائے ہوئے نوں پٹّھیوں پُٹن دا ویلہ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "35d3cdeff773c389dec489fb2675c08a0708dc3dd42488493c2848219efeaa0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ecclesiastes\/3\/1-4.1792117413487.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ویلہ"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "جَمّن دا"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "تے مرن دا ویلہ"
+    },
+    {
+      "surface": "למות",
+      "gloss": "مرن دا"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ویلہ"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "لاؤن دا"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "تے پُٹن دا ویلہ"
+    },
+    {
+      "surface": "לעקو_ר",
+      "gloss": "پٹّھیوں پُٹن دا"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "لائے ہوئے نوں"
+    }
+  ],
+  "timestamp": "2026-10-16T02:23:33.488506241Z",
+  "model": "glm-5.3"
+}

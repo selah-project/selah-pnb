@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ہے",
+      "rationale": "عبرانی وِچ کوئی فعل نئیں، پنجابی جملے لئی 'اے' دا وادھا۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "מאור",
+      "rationale": "'چانن' یا 'چن' — کجھ ترجمے چن منگدے نیں، لفظ روشنی دے سوتے دا عام مطلب اے۔"
+    }
+  ],
+  "translation": "دن تیرا اے، رات وی تیری اے؛ توں نے چانن تے سورج نوں تیار کیتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e380654d7fe66c6dd0049f625c92bb1a533cbbc6c38bf76f3da97a9022af5cab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/74\/13-16.1792113005614.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "تیرا"
+    },
+    {
+      "surface": "יום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "אף",
+      "gloss": "وی"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیری"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "رات"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "توں"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "تیار کیتا"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "چانن"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "تے سورج"
+    }
+  ],
+  "timestamp": "2026-10-16T01:10:05.615648560Z",
+  "model": "glm-5.3"
+}

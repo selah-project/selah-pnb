@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "سہارا دیندا اے",
+      "rationale": "יסמכדی چِیز اے جس تے دھر لی جاوے — سہارا دینا، سٹھنا"
+    }
+  ],
+  "translation": "میں لَتا تے سو گیا، چَکیا تے جاگ پیا، کیونکہ یاہوہ مینوں سہارا دیندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a43733b68e64b37b82cce4fb8d247cd92049b1681b3861b9c48a700223ad8bb1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/3\/5-8.1792111819026.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "میں لَتا"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "تے سو گیا"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "میں چَکیا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "مینوں سہارا دیندا اے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:50:19.027135320Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 25:6",
+  "book": "2-chronicles",
+  "lang": "pnb",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "hire",
+      "rationale": "سَو ہزار سپاہی سَو کنٹر چاندی دے — دوہری گِنتی۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "دے بدلے",
+      "rationale": "عبرانی وِچ صرف בْمِآہ (سَو وِچ)، پنجابی نوں بدلے دا لفظ چاہیدا۔"
+    }
+  ],
+  "translation": "تے اوہنے یِسرائیل توں سَو ہزار بہادر جنگی سپاہی سَو کنٹر چاندی دے بدلے کرائے اُتے لئے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5681a1be4c246aa526f9d1c2fd7594b1bf1623433f96e5a00bbd222a22b251bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/25\/5-8.1792122578754.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכר",
+      "gloss": "تے کرائے اُتے لئے"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "یِسرائیل توں"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "بہادر"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "جنگی سپاہی"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "کنٹر"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندی"
+    }
+  ],
+  "timestamp": "2026-10-16T03:49:38.755362842Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 2:11",
+  "book": "judges",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "یاہوہ دیاں اکھیں وِچ",
+      "rationale": "בעיני יהוה — عبرانی محاورہ 'اوہدیاں نظراں وِچ'، سِدھا رکھیا گیا"
+    },
+    {
+      "kind": "addition",
+      "subject": "اِیماں",
+      "rationale": "הבעלים جمع اے — 'بعل' نانہہ صفتی اے، جمع دی ہندسی 'اِیماں' پنجابی لئی ودھائی گئی"
+    }
+  ],
+  "translation": "تے یِسرائیل دے پُتراں نے یاہوہ دیاں اکھیں وِچ ⟨את⟩ برائی کیتی، تے ⟨את⟩ بعل اِیماں دی سیوا کیتی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "75e02dcdbb430d8c4d2e9f22d8d535ab897b6bf23b6bd1ccc9c282f3864efbf7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/judges\/2\/9-12.1792101346035.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "کیتی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں نے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "برائی"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "اکھیں وِچ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دیاں"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "سیوا کیتی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بعل اِیماں نوں"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "بعل اِیماں"
+    }
+  ],
+  "timestamp": "2026-10-15T21:55:46.036982962Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 21:1",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פקד",
+      "rationale": "یاد کیتا \/ پرکھیا \/ دید کیتی — پنجابی وِچ اِک لفظ نئیں؛ پہلے پہلو ’یاد کرنا‘ رکھیا۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אמר\/דבר",
+      "rationale": "دو کردار فعل اکو کم نال — جوڑی دی سُر پنجابی وِچ ہلکی رہندی اے۔"
+    }
+  ],
+  "translation": "تے یاہوہ نے ⟨את⟩ سارہ نوں اودوں یاد کیتا جیویں اوہنے آکھیا سی، تے یاہوہ نے سارہ لئی اوہو کیتا جیویں اوہنے بولیا سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "cd8243c2b20d6e3a961189ee6c25caf43fcc61abdb85e6ece7cf86bd398351e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/21\/1-4.1792095119368.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "تے یاہوہ"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "یاد کیتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سارہ"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "سارہ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا سی"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "تے کیتا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "سارہ لئی"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "بولیا سی"
+    }
+  ],
+  "timestamp": "2026-10-15T20:11:59.369433967Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 45:12",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "کیونکہ … اے",
+      "rationale": "عبرانی جملہ سازواری نئیں دیندا؛ پنجانی copula چاہیدا اے۔"
+    }
+  ],
+  "translation": "تے بادشاہ تیری خوبصورتی نوں چاہے گا، کیونکہ اوہ تیرا سائیں اے — اوہنوں سجدہ کر۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "15bd46efc475de8ce0b91834e51b08724dc0458c8621ee8945062f58d2a616a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/45\/9-12.1792112535140.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתאו",
+      "gloss": "تے چاہے گا"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "יפיך",
+      "gloss": "تیری خوبصورتی نوں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "تیرا سائیں"
+    },
+    {
+      "surface": "והשתחוי",
+      "gloss": "تے سجدہ کر"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہنوں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:02:15.141859774Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,158 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 11:2",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גם תמול גם שלשום גם",
+      "rationale": "גם دی تِن واری دوہرائی — ماضی دی تِن پدھری دہرائی، پنجابی وِچ 'وی…وی…تے' نال دسی اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "چراؤ گے",
+      "rationale": "תרעה دا مول چوپایاں چرانا اے؛ بادشاہی لئی 'رعایت کرنا' نئیں — چرن والا ای رکھیا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "נגיד",
+      "rationale": "'سردار\/امیر\/پیشوا' — اگے کھلوون والا؛ ریتی ترجمے 'شہزادہ' وی کردے نیں"
+    }
+  ],
+  "translation": "کل وی، پرسوں وی، تے جد شاؤل بادشاہ سی، تُسیں ای یِسرائیل نوں ⟨את⟩ کڈھن والا تے لیاؤن والا سیں، تے تیرا یاہوہ ایلوہیم نے تینوں آکھیا: تُسیں میرے لوکاں نوں ⟨את⟩، یِسرائیل نوں ⟨את⟩، چراؤ گے، تے تُسیں میرے لوک یِسرائیل اُتے سردار ہوووگے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "891e7cef11bab3288c754dbaee33bac5ca70ca163ddc5070b64244859a11946b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/11\/1-4.1792120651743.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "תמול",
+      "gloss": "کل"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "پرسوں"
+    },
+    {
+      "surface": "גם",
+      "gloss": "تے"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "جد…سی"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُسیں"
+    },
+    {
+      "surface": "המוציא",
+      "gloss": "کڈھن والا"
+    },
+    {
+      "surface": "והמביא",
+      "gloss": "تے لیاؤن والا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یِسرائیل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تیرا ایلوہیم"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تینوں"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُسیں"
+    },
+    {
+      "surface": "תרעה",
+      "gloss": "چراؤ گے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میرے لوکاں نوں"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "میرے لوکاں نوں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یِسرائیل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "تے تُسیں"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ہوووگے"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "میرے لوک"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-10-16T03:17:31.744667366Z",
+  "model": "glm-5.3"
+}

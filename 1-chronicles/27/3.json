@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 27:3",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوہ\/سی",
+      "rationale": "عبرانی وِچ ضمیر تے کوپولا کوئی نئیں — پچھلی آیت دا یشبعام منیا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "لئی",
+      "rationale": "לِ ہدف دی پَرِٹ دے روپ وِچ پنجادی پیشگی لئی لوڑی"
+    }
+  ],
+  "translation": "اوہ پَرِص دے پُتراں وِچوں ⟨سی⟩، سارے لشکراں دے سرداراں دا مُکھی، پہلے مہینے لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7457e84ce4292d8094b74b6dddfd3ee06a3ab4847d01b152933f00ac85d65b00",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/27\/1-4.1792121335018.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "وِچوں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "پَرِص دے"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "مُکھی"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سرداراں دا"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "لشکراں"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "مہینے لئی"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "پہلے"
+    }
+  ],
+  "timestamp": "2026-10-16T03:28:55.019820305Z",
+  "model": "glm-5.3"
+}

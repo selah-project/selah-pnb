@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 18:35",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ונחתה קשת",
+      "rationale": "کمان میریاں باہواں نال ‘ٹیڈھی\/ہیٹھاں’ کیتی گئی — KJF ‘توٹی گئی’، JPS ‘میریاں باہواں اوہدے نوں جکڑدیاں نیں’؛ سوال اے: کمان میری جت دا نشان اے جاں دشمن دی ہار؟"
+    },
+    {
+      "kind": "substitution",
+      "subject": "تانبے دی کمان",
+      "rationale": "נחושה اصلی ‘تانبا’ اے؛ KJF ‘لوہے’ دا لفظ رلا دتا۔"
+    }
+  ],
+  "translation": "اوہ میرے ہتھ لڑائی لئی سکھاندا اے، تے تانبے دی کمان میریاں باہواں ہیٹھاں کیتی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0c6f52b1643deb31ea4f32fb386e9b4bb7cdf6d29e43f81f4e24840cc80a4e2d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/18\/33-36.1792112062596.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "سکھاندا اے"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "میرے ہتھ"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "لڑائی لئی"
+    },
+    {
+      "surface": "ונחתה",
+      "gloss": "تے ہیٹھاں کیتی"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "کمان"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "تانبے دی"
+    },
+    {
+      "surface": "זרועתי",
+      "gloss": "میریاں باہواں"
+    }
+  ],
+  "timestamp": "2026-10-16T00:54:22.597566700Z",
+  "model": "glm-5.3"
+}

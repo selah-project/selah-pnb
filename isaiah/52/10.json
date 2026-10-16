@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 52:10",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ننگی باہوں",
+      "rationale": "חשף זרוע is idiom of rolling up the sleeve baring the arm for action; literal 'made bare' kept"
+    },
+    {
+      "kind": "addition",
+      "subject": "نوں",
+      "rationale": "Punjabi needs the object particle with both marked objects"
+    }
+  ],
+  "translation": "یاہوہ نے ⟨את⟩ اپنی مقدس باہوں نوں سبھ قوماں دیاں اکھیں اگے ننگی کیتی اے، تے دھرتی دے سارے کنڈیاں نوں ساڈے ایلوہیم دی مُکتی ویکھنی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "00dad7920c64788357726b96b0ebb8546103fc0f627a78c91c0892c15402a706",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/52\/9-12.1792106902694.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חשף",
+      "gloss": "ننگی کیتی اے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنی مقدس باہوں نوں"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "باہوں"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "اپنی مقدس"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "اکھیں اگے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سبھ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "قوماں دیاں"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ویکھنی اے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "کنڈیاں نوں"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "دھرتی دے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ساڈے ایلوہیم دی مُکتی نوں"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "مُکتی"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ساڈے ایلوہیم دی"
+    }
+  ],
+  "timestamp": "2026-10-15T23:28:22.694997185Z",
+  "model": "glm-5.3"
+}

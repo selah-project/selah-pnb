@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 19:15",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "داوِد نے",
+      "rationale": "عبرانی وِچ کردار دا ناں کوئی نئیں، پنجابی جملہ منگدا اے۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "איש… כאיש אחד",
+      "rationale": "بندے-پر-بندہ دی تکرار — سارے یہوداہ اِک بندہ بن جاندا اے۔"
+    }
+  ],
+  "translation": "تے ⟨داوِد نے⟩ یہوداہ دے ہر بندے دے ⟨את⟩ دل نوں اِک بندے ⟨ورگا⟩ جھکا دتا، تے اوہناں بادشاہ کول بھیجیا: واپس مُڑ، تُسیں تے تیرے سارے غلام۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e5b8ed1afdc95732665fdb2e7b2180debf2b559016d4fc85d84a7071c324b87e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/19\/13-16.1792103704427.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "جھکا دتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دل"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "اِک بندے ⟨ورگا⟩"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "اِک"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "تے اوہناں بھیجیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "واپس مُڑ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُسیں"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سارے"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "تیرے غلام"
+    }
+  ],
+  "timestamp": "2026-10-15T22:35:04.428045283Z",
+  "model": "glm-5.3"
+}

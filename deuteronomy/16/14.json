@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 16:14",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نیں",
+      "rationale": "عبرانی وِچ کاپولاؤٹ کوئی نئیں؛ پنجابی جملے لئی 'نیں' دِتا۔"
+    },
+    {
+      "kind": "you",
+      "subject": "تُوں",
+      "rationale": "حکم مخاطب اے — خوشی دا حلقہ گھر توں ودھ کے لاوی، پردیسی، یتیم، بیوہ تک۔"
+    }
+  ],
+  "translation": "تے تُوں خوش ہوویں اپنے تہوار وِچ — تُوں، تیرا پُتر، تیری دھی، تیرا نَوکر، تیری نوکرانی، تے لاوی، تے پردیسی، تے یتیم، تے بیوہ — جِہڑے تیرے دَروازیاں وِچ نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ab5d566bbf5199655fc1b950b918386902035b849b4b9c5bf70a841b345469c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/16\/13-16.1792100026649.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמחת",
+      "gloss": "تے تُوں خوش ہوویں"
+    },
+    {
+      "surface": "בחגך",
+      "gloss": "اپنے تہوار وِچ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُوں"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "تیرا پُتر"
+    },
+    {
+      "surface": "ובתך",
+      "gloss": "تیری دھی"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "تیرا نَوکر"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "تیری نوکرانی"
+    },
+    {
+      "surface": "והלוי",
+      "gloss": "تے لاوی"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "تے پردیسی"
+    },
+    {
+      "surface": "והיתום",
+      "gloss": "تے یتیم"
+    },
+    {
+      "surface": "והאלמנה",
+      "gloss": "تے بیوہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جِہڑے"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "تیرے دَروازیاں وِچ نیں"
+    }
+  ],
+  "timestamp": "2026-10-15T21:33:46.650399983Z",
+  "model": "glm-5.3"
+}

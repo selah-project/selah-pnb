@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 15:12",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הקדשים",
+      "rationale": "`مُقدس لونڈے` (مندر دی ویسوا دے مرد) — KJV `sodomites`، BSB `male shrine prostitutes`، یَلٹ `whoremongers`؛ شکل دا مطلب مقدس رکھے گئے لونڈے نیں۔"
+    },
+    {
+      "kind": "hapax-ish",
+      "subject": "הגללים",
+      "rationale": "`گُلیل` دا جمع — گول لکڑی، مطلب بت؛ شکل (`گول لکڑیاں`) پنجابی وِچ کجھ گوئی ہوئی اے۔"
+    }
+  ],
+  "translation": "تے اوہنے مُقدس لونڈے ہٹا دتے دھرتی توں، تے ⟨את⟩ سارے بتّاں نوں ہٹایا جیہڑے اوہدے پیوآں نے بنائے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ec9ef6b61e5365a130cda9d0125011fa2d62dea08417bea72f164226365200cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/15\/9-12.1792104548993.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "تے ہٹا دتے"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "مُقدس لونڈے"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "دھرتی"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "تے ہٹایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سارے بتّاں نوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "بتّاں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑے"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "بنائے"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "اوہدے پیوآں نے"
+    }
+  ],
+  "timestamp": "2026-10-15T22:49:08.994701497Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 18:11",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "دناں وِچ اَگے ودھ",
+      "rationale": "באים בימים — 'دناں وِچ آؤنا' یعنی بُڈھاپا اَپڑنا، پنجابی وِچ 'اَگے ودھنا' رکھیا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "عورتاں والی ریت",
+      "rationale": "ארח כנשים — 'عورتاں دا راجھا'، حیض دا سَوڈھ لفظ"
+    }
+  ],
+  "translation": "تے اَوراہام تے سارا بُڈھے ہو گئے، دناں وِچ اَگے ودھ ⟨گئے⟩؛ سارا لئی عورتاں والی ریت ہونا بند ہو گیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e820b53fd274361f4d5b7cf316391f465c90ceff0fdcb837f058ce9bb1a386c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/18\/9-12.1792094995337.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "تے اَوراہام"
+    },
+    {
+      "surface": "ושרה",
+      "gloss": "تے سارا"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "بُڈھے"
+    },
+    {
+      "surface": "באים",
+      "gloss": "اَگے ودھ ⟨گئے⟩"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "دناں وِچ"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "بند ہو گیا"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ہونا"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "سارا لئی"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ریت\/راجھا"
+    },
+    {
+      "surface": "כנשים",
+      "gloss": "عورتاں والی"
+    }
+  ],
+  "timestamp": "2026-10-15T20:09:55.338744290Z",
+  "model": "glm-5.3"
+}

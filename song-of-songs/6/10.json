@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 6:10",
+  "book": "song-of-songs",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "ایہہ کون اے",
+      "rationale": "پرچے والا سوال سُنیوے نوں پھسیا لیندا اے — 'کون اے ایہہ؟'۔"
+    },
+    {
+      "kind": "you",
+      "subject": "دُلھن",
+      "rationale": "سوال اِک شاخص پُچھݨ والے پاسوں دُلھن ولّ، جواب دین والا کوئی نئیں۔"
+    },
+    {
+      "kind": "hapax",
+      "subject": "הנשקפה",
+      "rationale": "ایتھے پاسوں دی شکل آخری واری اے؛ مطلب 'کھڑکی توں جھانکنا'۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כלבנה … כחמה",
+      "rationale": "'چن وانگوں … سورج وانگوں' — اِکو כ پیش-گردان نال جوڑت، روشنی دی سیڑی۔"
+    }
+  ],
+  "translation": "ایہہ کون اے، جو سویر وانگوں جھانکدی اے؟ چن وانگوں سوہنی، سورج وانگوں صاف، جھنڈیاں والیاں وانگوں ڈراؤنی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6f38d403ae09845fc89e09fc897603b7a6828239b85cf63706400c3330e480dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/song-of-songs\/6\/9-12.1792116667904.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "הנשקפה",
+      "gloss": "جھانکدی ہوئی"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "وانگوں"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "سویر"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "سوہنی"
+    },
+    {
+      "surface": "כלבנה",
+      "gloss": "چن وانگوں"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "صاف"
+    },
+    {
+      "surface": "כחמה",
+      "gloss": "سورج وانگوں"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "ڈراؤنی"
+    },
+    {
+      "surface": "כנדגלות",
+      "gloss": "جھنڈیاں والیاں وانگوں"
+    }
+  ],
+  "timestamp": "2026-10-16T02:11:07.905228949Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 13:12",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויראו tense",
+      "rationale": "Hebrew wayyiqtol 'and they saw' — versions split: KJV\/ASV 'had seen', YLT 'see'; Punjabi follows the narrative 'تے ویکھیا'"
+    },
+    {
+      "kind": "you",
+      "subject": "پتراں نوں",
+      "rationale": "direct question of the father to his sons"
+    }
+  ],
+  "translation": "تے اوہناں دے پیو نے اوہناں نال آکھیا: کتھے ایہہ رستہ اے جیہڑا اوہُ نے لیا؟ تے اوہدے پتراں نے ⟨את⟩ اوہ رستہ ویکھیا جیہڑا ایلوہیم دے بندے نے لیا، جو یہوداہ توں آیا سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "38d5421fcb8046a6c84306eadc6c3688130497235b0557ec72485765958b1f13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/13\/9-12.1792104419330.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "اوہناں نال"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "اوہناں دے پیو نے"
+    },
+    {
+      "surface": "אי",
+      "gloss": "کتھے"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "رستہ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "گیا"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "تے ویکھیا"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "اوہدے پتراں نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہ رستہ"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "رستہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "لیا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم دے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آیا سی"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "یہوداہ توں"
+    }
+  ],
+  "timestamp": "2026-10-15T22:46:59.331271257Z",
+  "model": "glm-5.3"
+}

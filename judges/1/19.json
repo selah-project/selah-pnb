@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "judges 1:19",
+  "book": "judges",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כי",
+      "rationale": "پہلا כי ‘کیونکہ’ یا ‘پر’ — یاہوہ نال ہوندے ہوئے وی ناکامی دا بیان؛ ترجمیاں وِچ مشہور اختلاف"
+    },
+    {
+      "kind": "crux",
+      "subject": "לא להורישׁ",
+      "rationale": "عبرانی فعل دی بجائے مصدر اے — ‘کڈھݨ دا نئیں سی’؛ کُجھ ترجمے ‘اُس نے نئیں کیتا’ لکھدے نیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "את",
+      "rationale": "ایتھے את مفعول دا نشان نئیں سگوں ‘دے نال’ والا حرف اے — یاہوہ یہودہ ⟨את⟩ دے نال رہیا"
+    }
+  ],
+  "translation": "تے یاہوہ ⟨את⟩ یہودہ دے نال رہیا، تے اُس نے پہاڑ دا مل ماریا ⟨את⟩، کیونکہ وادی دے واسیاں ⟨את⟩ نوں کڈھݨ دا نئیں سی، کیونکہ اُہناں کول لوہے دے رتھ سن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "290862e9a05af5639074b8211d654953005dcbf5ebb379d23f7a2e84bd7a776f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/judges\/1\/17-20.1792101370735.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے رہیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یہودہ (دے نال)"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہودہ"
+    },
+    {
+      "surface": "וירש",
+      "gloss": "تے مل ماریا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پہاڑ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "להוריש",
+      "gloss": "کڈھݨ دا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وادی دے واسی"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "واسیاں"
+    },
+    {
+      "surface": "העמק",
+      "gloss": "وادی دے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "رتھ"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "لوہے دے"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اُہناں کول"
+    }
+  ],
+  "timestamp": "2026-10-15T21:56:10.736601833Z",
+  "model": "glm-5.3"
+}

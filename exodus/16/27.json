@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 16:27",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "کجھ لوک",
+      "rationale": "Hebrew 'some of the people went out' — چhit needs the quantifier spelled out."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨کجھ⟩",
+      "rationale": "'They found not' with no object named; Punjabi supplies one."
+    }
+  ],
+  "translation": "تے ستویں دن ہویا تے قوم وِچوں کجھ لوک نِکلے کہ چُگّن، تے اوہناں ⟨کجھ⟩ نئیں لَبھیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "63e0ac22b9f58eefaf36e5d10dcb4e2de1e762c12f56a543fee0b4423ffa25b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/16\/25-28.1792096570907.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے ہویا"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "دن وِچ"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ستویں"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "نِکلے"
+    },
+    {
+      "surface": "מן",
+      "gloss": "وِچوں"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم دے"
+    },
+    {
+      "surface": "ללקט",
+      "gloss": "کہ چُگّن"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "لَبھیا"
+    }
+  ],
+  "timestamp": "2026-10-15T20:36:10.908560062Z",
+  "model": "glm-5.3"
+}

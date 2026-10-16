@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 80:11",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ארזי אל",
+      "rationale": "«ایل دے دیار» — کجھ مترجم «وڈے\/بلند دیار» کردے نیں، KJV «چنگے دیار»؛ عبرانی אیل تازہ رکھیا گیا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨سن⟩",
+      "rationale": "عبرانی وِچ کوئی فعل نئیں، پنجابی جملہ منگدا اے"
+    }
+  ],
+  "translation": "پہاڑ اوہدے سایے نال ڈھکے گئے، تے اوہدیاں ٹاہنیاں ایل دے دیار ⟨سن⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f33c1cf4617afbd1aeae9a2c34c1d7521ce9f269390f2ec6ebc6017da2aa271d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/80\/9-12.1792113142965.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כסו",
+      "gloss": "ڈھکے گئے"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "اوہدے سایے"
+    },
+    {
+      "surface": "וענפיה",
+      "gloss": "تے اوہدیاں ٹاہنیاں"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "دیار"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل دے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:12:22.966079149Z",
+  "model": "glm-5.3"
+}

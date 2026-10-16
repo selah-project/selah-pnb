@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 11:3",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פרסה\/מפרסת\/פרסת",
+      "rationale": "اکو جڑ پ-ر-س تن واری دوہائی جاندی اے — کھر دا چِتھڑا پھاڑنا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "پِاں-سُٹی",
+      "rationale": "גרה و literally 'ڳل کھرچدی ہوئی' (چُبھدی ہوئی چیز) — پِاں-سُٹی\/واپس چُگن والی چیز"
+    },
+    {
+      "kind": "measurement",
+      "subject": "کھر تے پِاں-سُٹی",
+      "rationale": "خوراک دی پاڑ-پرکھ: کھر پھٹنا + پِاں-سُٹی چُگنا — کھان جوگے جانور دا معیار"
+    }
+  ],
+  "translation": "جو چوپایاں وِچوں کوئی کھر پھاڑے تے کھر پھاڑ کے پوری طرحاں پھٹا ہویا کھر رکھے تے پِاں-سُٹی واپس چُگے، ⟨את⟩ اوہنوں تُسیں کھا سکدے او۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b3d6de6350761eed2592c9791739acdb370fcef6f996980e6f45dd16a6b9adca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/11\/2-3.1792123429707.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "جو کوئی"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "کھر پھاڑے"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "کھر"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "تے پھٹا ہویا"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "پھاڑ کے"
+    },
+    {
+      "surface": "פרסת",
+      "gloss": "کھر"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "واپس چُگے"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "پِاں-سُٹی"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "چوپایاں وِچوں"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "اوہنوں"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "تُسیں کھا سکدے او"
+    }
+  ],
+  "timestamp": "2026-10-16T04:03:49.708430467Z",
+  "model": "glm-5.3"
+}

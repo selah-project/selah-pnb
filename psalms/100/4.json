@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 100:4",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 100,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "داخل ہوؤ",
+      "rationale": "دوجی واری בוא وِچوں پنجابی عبارت لئی کنال فعل پایا گیا، اوہدے نال جوڑیاں گلاس چکياں"
+    },
+    {
+      "kind": "invitation",
+      "subject": "to worshippers",
+      "rationale": "مندر وچ داخل ہون دے چار حکم — آؤ، داخل ہوؤ، شکر کرو، برکت دیو"
+    }
+  ],
+  "translation": "شکرانے نال اودے دروازےآں وِچ آؤ، تعریف نال اودے صحناناں وِچ داخل ہوؤ؛ اودے لئی شکر کرو، اودے ناں نوں برکت دیو۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "35d5e1f7dad9795984e0e28cdd4f74ce6799c74303717d8415c0327079276727",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/100\/1-4.1792113533818.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "آؤ"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "اودے دروازےآں وِچ"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "شکرانے نال"
+    },
+    {
+      "surface": "חצרתיו",
+      "gloss": "اودے صحناناں وِچ"
+    },
+    {
+      "surface": "בתהלה",
+      "gloss": "تعریف نال"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "شکر کرو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اودے لئی"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "برکت دیو"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اودے ناں نوں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:18:53.819982497Z",
+  "model": "glm-5.3"
+}

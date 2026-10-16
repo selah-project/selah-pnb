@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "قصائیاں دا سردار",
+      "rationale": "רב טבחים دا شکل ’قصائیاں دا سردار‘ اے؛ ریتی ’گارڈ دا کپتان‘ اوہدا کردار کہندا اے، شکل نئیں"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨دے⟩ ⟨نال⟩",
+      "rationale": "پنجابی جوڑ لئی پورے کیتے"
+    }
+  ],
+  "translation": "تے ⟨את⟩ یروشلایم ⟨دے⟩ دوآلے کندھاں نوں کسدیاں دی ساری فوج نے ڈھا دِتا، جیہڑی قصائیاں دے سردار ⟨نال⟩ سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "650b1b5144749519842384e6b9d6ed3cc418075f9bdd6a7cf264c2824ea6e756",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/25\/9-12.1792105725326.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "یروشلایم دیاں کندھاں"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "کندھاں"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "دوآلے"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "ڈھا دِتا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "فوج"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "کسدیاں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "רב",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "قصائیاں دے"
+    }
+  ],
+  "timestamp": "2026-10-15T23:08:45.326824694Z",
+  "model": "glm-5.3"
+}

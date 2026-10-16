@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 5:16",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوہنے",
+      "rationale": "پنجابی جملے لئی فاعلی ضمیر لوڑی، عبرانی وِچ فعل وچ شامل اے"
+    }
+  ],
+  "translation": "تے مہلالایل نے یارد نوں ⟨את⟩ جنا، اوہدے مگروں تیہہ سال تے اَٹھ سو سال جِیا، تے اوہنے پُتر تے دھیاں جنیاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9c55966ae6d9d73269190eae30ce53bf42d40c23b9a9a044260ee5d2daa12380",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/5\/13-16.1792094690960.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "جِیا"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "مہلالایل"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "اوہدے مگروں"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "جنا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یارد"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "یارد"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "تیہہ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "اَٹھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "جنیاں"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "دھیاں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:04:50.961304842Z",
+  "model": "glm-5.3"
+}

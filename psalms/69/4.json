@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 69:4",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "سُک گیا",
+      "rationale": "נחر دی مول تصویر 'جلنا\/سلگنا' اے — پنجابی 'جل گیا' روحانی مطلب نال رل سکدا اے، ایس لئی 'سُک گیا' رکھیا"
+    },
+    {
+      "kind": "addition",
+      "subject": "اپنے",
+      "rationale": "عبرانی وِچ لام اِکellt دسدا اے، پنجابی وِچ 'اپنے' فقرے نوں ٹھیک کردا اے"
+    }
+  ],
+  "translation": "مَیں پکار پکار کے تھک گیا آں، میرا گلا سُک گیا اے، میریاں اکھیاں فٹ ہو رہیاں نیں، اپنے ایلوہیم دی اُڈیک وِچ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "53de061516384eb7bb4e8853497ff060c0db10355e8fa1cadbf7984d9cf2a2d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/69\/1-4.1792112930073.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "مَیں تھک گیا آں"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "پکار پکار کے"
+    },
+    {
+      "surface": "נחر",
+      "gloss": "سُک گیا"
+    },
+    {
+      "surface": "גרוני",
+      "gloss": "میرا گلا"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "فٹ ہو رہیاں نیں"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "میریاں اکھیاں"
+    },
+    {
+      "surface": "מיחל",
+      "gloss": "اُڈیک وِچ"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "اپنے ایلوہیم دی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:08:50.074558817Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 15:5",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "تے اوہ",
+      "rationale": "بعد والے فعال لئی عبرانی وِچ ضمیر نئیں، پنجابی فعل منگدا اے"
+    },
+    {
+      "kind": "elision",
+      "subject": "לו",
+      "rationale": "پہلا לو سجدے دا ٹیچا اے، پنجابی جملے وِچ رل گیا"
+    }
+  ],
+  "translation": "تے ایہہ ہوندا کہ جدے کوئی بندہ اوہدے نیڑے آؤندا سی سجدہ کرن لئی ⟨اوہدے اگے⟩، تاں اوہ ⟨את⟩ اپنا ہتھ پھیلاؤندا، اوہنوں پھڑ لیندا تے اوہنوں چُمدا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "606240368565fa1d9f3575bceb0650cd202ad6a9cd1e3aa5815ec2365ed34d5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/15\/5-8.1792103486857.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "تے ایہہ ہوندا کہ"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "نیڑے آؤندا سی"
+    },
+    {
+      "surface": "איש",
+      "gloss": "کوئی بندہ"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "سجدہ کرن لئی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨اوہدے اگے⟩"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "تے ⟨اوہ⟩ پھیلاؤندا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنا ہتھ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "اپنا ہتھ"
+    },
+    {
+      "surface": "והחזיק",
+      "gloss": "پھڑ لیندا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہنوں"
+    },
+    {
+      "surface": "ונשק",
+      "gloss": "تے چُمدا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہنوں"
+    }
+  ],
+  "timestamp": "2026-10-15T22:31:26.857966491Z",
+  "model": "glm-5.3"
+}

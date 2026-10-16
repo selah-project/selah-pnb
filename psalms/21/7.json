@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 21:7",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨نال⟩",
+      "rationale": "את ایتھے اگلے دی ضمیر اے (H854، نشان نئیں)؛ پنجابی جملہ نال منگدا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "برکتاں بنا دِندا اے",
+      "rationale": "KJV 'most blessed for ever' (سب توں ودھ برکت والا) بمقابلہ YLT 'blessings for ever' (برکتاں بݨا کے) — عبرانی 'תשיתהו ברכות' دوویں پاسے جا سکدا اے"
+    }
+  ],
+  "translation": "کیونکہ تُوں اُنوں سدا لئی برکتاں بنا دِندا اے؛ تُوں اُنوں خُشی نال، ⟨את⟩ تیرے چہرے ⟨نال⟩، خوش کردا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9140d3c7680f8657d0052707d2e345ceeb481beecb6969b3c1527dbe66c04aad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/21\/5-8.1792112098496.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "תשיתהו",
+      "gloss": "تُوں اُنوں بنا دِندا اے"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "برکتاں"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "سدا لئی"
+    },
+    {
+      "surface": "תחדהו",
+      "gloss": "خوش کردا اے"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "خُشی نال"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تیرے چہرے"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "تیرے چہرے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:54:58.497404558Z",
+  "model": "glm-5.3"
+}

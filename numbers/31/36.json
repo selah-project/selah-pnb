@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 31:36",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "booty division",
+      "rationale": "سنگی حساب: 337,500 بھیڈاں دا لشکر والا ادھ۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "لشکر",
+      "rationale": "צבא جمع لشکر اے — ادھ دا ایہہ حصہ لشکر وِچ نِکلن والیاں دا اے۔"
+    }
+  ],
+  "translation": "تے ادھی — جنگ وِچ نِکلن والیاں دا حصہ — ہور گنتی: تن لَکھ تے تِیہہ ہزار تے ست ہزار تے پنج سو بھیڈاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "dc58f26ad084ede0e6b2f4604a754542d996b778fef29ab580f47db56cc2b4d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/31\/33-36.1792099291809.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "تے ہوئی"
+    },
+    {
+      "surface": "המחצה",
+      "gloss": "ادھی"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "حصہ"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "نِکلن والیاں دا"
+    },
+    {
+      "surface": "בצבא",
+      "gloss": "لشکر وِچ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "گنتی"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "بھیڈاں"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "تن"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو دا سو"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "لَکھ\/ہزار"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "تے تِیہہ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "تے ست"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "تے پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    }
+  ],
+  "timestamp": "2026-10-15T21:21:31.810574378Z",
+  "model": "glm-5.3"
+}

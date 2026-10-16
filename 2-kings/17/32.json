@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 17:32",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מקצותם",
+      "rationale": "KJV “سب توں نِوویں لوک” بنا‏‏ے، عام پڑھائی “اپنیاں وِچوں\/اپنیاں کنڈیاں وِچوں” — کٹھ دا مُڈھ نئیں دسدا۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "کم کردے سن",
+      "rationale": "KJV “قربانی دیندے سن”؛ عبرانی صرف עשים “کردے سن” آکھدا اے۔"
+    }
+  ],
+  "translation": "تے اوہ لگے یاہوہ توں ⟨את⟩ ڈرن، تے اوہناں نے اپنیاں کٹھیاں وِچوں باماں دے کاہن بنائے، تے اوہ باماں دے گھر وِچ اوہناں لئی کم کردے سن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e7a9fd96d5094ea5756417e9379bfc887e1595f4de89c7f600885bbe247f3c51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/17\/29-32.1792105483758.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "تے اوہ لگے"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "ڈرن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "تے بنائے"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اوہناں لئی"
+    },
+    {
+      "surface": "מקצותם",
+      "gloss": "اپنیاں کٹھیاں وِچوں"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "במות",
+      "gloss": "باماں دے"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "تے اوہ سن"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "کم کردے"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اوہناں لئی"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "گھر وِچ"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "باماں دے"
+    }
+  ],
+  "timestamp": "2026-10-15T23:04:43.759976774Z",
+  "model": "glm-5.3"
+}

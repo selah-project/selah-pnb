@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 25:11",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اپنا",
+      "rationale": "possessive added where Hebrew construct already binds it"
+    },
+    {
+      "kind": "substitution",
+      "subject": "טבחתי (noun)",
+      "rationale": "'my slaughtered flesh' rendered 'my slaughter\/sacrifice' — the noun and verb share one root"
+    }
+  ],
+  "translation": "تے میں ⟨את⟩ اپنا روٹی تے ⟨את⟩ اپنا پانی تے ⟨את⟩ اپنا ذبیحہ، جیہڑا میں اپنے گُنّھاں والیاں لئی ذبح کیتا اے، اُنہاں بندیاں نوں دے دیاں جیہڑیاں نوں میں نئیں جاندا، اوہ کتھوں دے نیں؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "733366f2509fa6d2418fbb48c99b903674ab00955dfd548eca02aeca49b6062a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/25\/9-12.1792102826507.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "تے میں لاں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنا روٹی"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "روٹی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اپنا پانی"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "پانی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اپنا ذبیحہ"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "ذبیحہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "ذبح کیتا اے"
+    },
+    {
+      "surface": "לגזזי",
+      "gloss": "گُنّھاں والیاں لئی"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "تے دے دیاں"
+    },
+    {
+      "surface": "לאנשים",
+      "gloss": "بندیاں نوں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "میکوں جاندا"
+    },
+    {
+      "surface": "אי",
+      "gloss": "کتھوں"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "دے نیں"
+    },
+    {
+      "surface": "המה",
+      "gloss": "اوہ"
+    }
+  ],
+  "timestamp": "2026-10-15T22:20:26.508585056Z",
+  "model": "glm-5.3"
+}

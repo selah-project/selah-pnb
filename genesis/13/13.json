@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 13:13",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سن",
+      "rationale": "عبرانی وِچ کوئی فعل اے نئیں، پنجابی نوں جوڑدا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "لיהוה",
+      "rationale": "یاہوہ دے ساہمنے (kjv) بمقابلہ یاہوہ دے خلاف (asv) — ל دوناں پڑھدا اے"
+    }
+  ],
+  "translation": "تے سدوم دے بندے رَے برے تے گنہگار سن، یاہوہ دے ساہمنے بہت۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fb7b0b09cf813fcf2f419309de432538dbcccba124745701fb1b89183b9c70d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/13\/13-16.1792094880092.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "تے … دے بندے"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "سدوم"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "برے"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "تے گنہگار"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ دے ساہمنے"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بہت"
+    }
+  ],
+  "timestamp": "2026-10-15T20:08:00.093152448Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 30:32",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اِیہہ",
+      "rationale": "על...ייסך نے مصرُوف نئیں دسیا، پنجابی فعل لئی فاعل دا اِشارہ لوڑیا"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קדש הוא קדש",
+      "rationale": "קדש دا دوہرا کہن — 'مقدس اے، مقدس رہوےگا' — پنجابی وِچ دُہرایا رکھیا"
+    },
+    {
+      "kind": "you",
+      "subject": "بنی اسرائیل",
+      "rationale": "לכם تے תעשו جمع مخاطب — موسیٰ دے راہیں قوم نال سِدھی گل"
+    }
+  ],
+  "translation": "بندے دے ماس اُتے اِیہہ نئیں ڈولیا جاوےگا، تے اُوہدے تناسب وِچ اِیہو جیہا کوئی نہ بناؤ؛ ایہہ مقدس اے، ایہہ تہاڈے لئی مقدس رہوےگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fbe9b7b08e33c5e97e64c9637ed798d9bd1c6d764d284292e6f4aa76fee07f55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/30\/32-32.1792123282698.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ماس"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "ייסך",
+      "gloss": "ڈولیا جاوےگا"
+    },
+    {
+      "surface": "ובמתכנתו",
+      "gloss": "تے اُوہدے تناسب وِچ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "بناؤ"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "اِیہو جیہا"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "رہوےگا"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تہاڈے لئی"
+    }
+  ],
+  "timestamp": "2026-10-16T04:01:22.700465064Z",
+  "model": "glm-5.3"
+}

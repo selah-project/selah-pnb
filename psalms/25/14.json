@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 25:14",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "סוד",
+      "rationale": "یاہوہ دا لُکا ہویا مشورہ\/راز اوہدے ڈرن والیاں نال سانجھا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "راز",
+      "rationale": "סוד: 'راز\/مشورہ' (KJV) بمقابلہ 'یاری\/گہرا رشتہ' (ASV 'friendship')"
+    }
+  ],
+  "translation": "یاہوہ دا راز اوہدے ڈرن والیاں لئی اے، تے اوہدا عہد ⟨ایہہ⟩ اوہناں نوں جانواؤن لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2a4a084d38c9048d9451005b7fcdac57ce53288afb945c9eaa0475b240f2053a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/25\/13-16.1792112162588.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סוד",
+      "gloss": "راز"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "اوہدے ڈرن والیاں لئی"
+    },
+    {
+      "surface": "ובריתו",
+      "gloss": "تے اوہدا عہد"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "اوہناں نوں جانواؤن لئی"
+    }
+  ],
+  "timestamp": "2026-10-16T00:56:02.589167183Z",
+  "model": "glm-5.3"
+}

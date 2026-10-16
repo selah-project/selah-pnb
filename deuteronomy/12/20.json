@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 12:20",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جان\/خواہش دا لفظ اے، روح نئیں — ایتھے 'خواہش کرن والی جان' دا سیاق اے۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אוה\/אוה",
+      "rationale": "תאוה تے אות اکو جڑ توں جُڑے خواہش دے لفظ، پنجابی وِچ ایہہ واری واری آواز گُم ہو جاندی اے۔"
+    }
+  ],
+  "translation": "جدوں یاہوہ تیرا ایلوہیم ⟨את⟩ تیری حد نوں چوڑا کریگا، جیویں اوہ تیرے تیں آکھیا اے، تے توں آکھیں گا: میں ماس کھاواں گا، کیونجے تیری جان ماس کھانا چاہندی اے — ہر اُس شے وِچ جیہڑی تیری جان چاہے، توں ماس کھا سکدا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b48f7e28498e565b0ebf3232708906a6925c06371484fe2cad5cc68f4f081999",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/12\/17-20.1792100013306.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "جدوں"
+    },
+    {
+      "surface": "ירחיב",
+      "gloss": "چوڑا کریگا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تیرا ایلوہیم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تیری حد نوں"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "تیری حد"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیرے تیں"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "تے توں آکھیں گا"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "کھاواں گا"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ماس"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "چاہندی اے"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "تیری جان"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "کھانا"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ماس"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "אות",
+      "gloss": "شے … چاہے"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "تیری جان"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "توں کھا سکدا اے"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ماس"
+    }
+  ],
+  "timestamp": "2026-10-15T21:33:33.308023416Z",
+  "model": "glm-5.3"
+}

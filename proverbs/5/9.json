@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 5:9",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הודך",
+      "rationale": "הוד = 'شان\/ہیا' یا 'قوت\/vigour' (JPS) — دو پڑھائیاں"
+    },
+    {
+      "kind": "addition",
+      "subject": "لوکاں",
+      "rationale": "לאכזרی صفت اے، گلاس وِچ کوئی ناں منگدا اے"
+    }
+  ],
+  "translation": "کہ نہ کہ تُو اپنا ہیا ⟨اپنی شان⟩ اُوپریاں نوں دے دیویں، تے اپنیاں ورھیاں نوں بے رحم ⟨لوکاں⟩ نوں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "acca78593eb1d357b2716333b43bdc368747b41848d9c367b11235b5f92645bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/5\/9-12.1792114341984.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "کہ نہ کہ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "دے دیویں"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "اُوپریاں نوں"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "اپنا ہیا ⟨اپنی شان⟩"
+    },
+    {
+      "surface": "ושנתיך",
+      "gloss": "تے اپنیاں ورھیاں نوں"
+    },
+    {
+      "surface": "לאכזרי",
+      "gloss": "بے رحم ⟨لوکاں⟩ نوں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:32:21.984825184Z",
+  "model": "glm-5.3"
+}

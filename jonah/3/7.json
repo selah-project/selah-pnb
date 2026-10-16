@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jonah 3:7",
+  "book": "jonah",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "نینوہ دے واسی",
+      "rationale": "حکم سِدھا شہر دے بندیاں تے ڈنگراں نوں مخاطب اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מטעם",
+      "rationale": "شبد مُول روپ وِچ 'چکھ' توں — 'حکم\/فیصلہ' دا چتر، پنجابی وِچ حکم آیا"
+    }
+  ],
+  "translation": "تے اوہنے نینوے وِچ ہاک ماری تے آکھیا — بادشاہ تے اوہدے وڈیاں دے حکم نال — آکھدا اے: بندہ تے ڈنگر، ڈنگریاں تے بھیڑ-بکریاں کجھ نہ چکھن، نہ چرن، تے پانی نہ پین۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "af3e8ddae28a792e8c47f3a6e265b216959c023517e350519df6ab3cc03a061e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jonah\/3\/5-8.1792111084597.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "ہاک ماری"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "בנינוה",
+      "gloss": "نینوے وِچ"
+    },
+    {
+      "surface": "מטעם",
+      "gloss": "حکم نال"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "וגדליו",
+      "gloss": "تے اوہدے وڈیاں دے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھدا اے"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "והבהמה",
+      "gloss": "تے ڈنگر"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ڈنگریاں"
+    },
+    {
+      "surface": "והצאן",
+      "gloss": "تے بھیڑ-بکریاں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יטעמו",
+      "gloss": "چکھن"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "کجھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "چرن"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "تے پانی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "پین"
+    }
+  ],
+  "timestamp": "2026-10-16T00:38:04.598897647Z",
+  "model": "glm-5.3"
+}

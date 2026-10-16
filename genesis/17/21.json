@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 17:21",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": " میں",
+      "rationale": "عبرانی وِچ 'نال' دا حرف نئیں، پنجابی نال قائم کرن لئی منگدا اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "למועד הזה בשנה האחרת",
+      "rationale": "مقرر ویلہ تے اگلا ورھا — وقت دا گیان، عہد دی تاریخ"
+    }
+  ],
+  "translation": "تے ⟨את⟩ اپنا عہد میں ⟨את⟩ یِتصخاق نال قائم کراں گا، جہڑا شارا تیرے لئی جَوے گی، اِسی مقرر ویلے، اگلے ورھے وِچ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "039e79ce52c68c1b620375d1cab9e68307b9c99a687c32856977a77a260f49fd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/17\/21-24.1792094971286.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اپنا عہد"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "اپنا عہد"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "قائم کراں گا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یِتصخاق"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "یِتصخاق"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جہڑا"
+    },
+    {
+      "surface": "תלד",
+      "gloss": "جَوے گی"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیرے لئی"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "شارا"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "مقرر ویلے"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اِسی"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ورھے وِچ"
+    },
+    {
+      "surface": "האחרת",
+      "gloss": "اگلے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:09:31.287282467Z",
+  "model": "glm-5.3"
+}

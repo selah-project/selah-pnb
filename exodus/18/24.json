@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 18:24",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اپنے",
+      "rationale": "Hebrew חתנו 'his father-in-law' carries the pronoun in the suffix; Punjabi reflexive made explicit."
+    }
+  ],
+  "translation": "تے موشے نے اپنے سُہرے دی آواز سُنی، تے جو کجھ اوہنے آکھیا اوہ سارا کر لایا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "85a8c5fa058ad4f40a39c13d40b4c4cb6914fd8dd8ad14fda21132dae84ff053",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/18\/21-24.1792096624840.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "تے سُنی"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے نے"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "اپنے سُہرے دی"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "تے کر لایا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو کجھ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    }
+  ],
+  "timestamp": "2026-10-15T20:37:04.841501595Z",
+  "model": "glm-5.3"
+}

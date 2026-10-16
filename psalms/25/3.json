@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 25:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יבשו\/יבשו",
+      "rationale": "اِکو فعل دو واری — שم دا اناک ہٹاں دا، پنجابی وِچ دہراؤ نال کجھ رلی اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "ריקם",
+      "rationale": "'خالی\/بے سبب' — کجھ 'بے فیدہ' لیندے نیں، کجھ 'بے وجہ'"
+    }
+  ],
+  "translation": "بلکہ سب جو تیرا انتظار کردے نیں شرم نہ ہونگے؛ شرم ہونگے بے وفا، بے سبب۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "56d834fc48cd39fa425568609f45759f0e111a0509b1b30db4b1353c12ed8308",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/25\/1-4.1792112162895.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "بلکہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "جو تیرا انتظار کردے نیں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "شرم ہونگے"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "شرم ہونگے"
+    },
+    {
+      "surface": "הבוגדים",
+      "gloss": "بے وفا"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "بے سبب"
+    }
+  ],
+  "timestamp": "2026-10-16T00:56:02.896168066Z",
+  "model": "glm-5.3"
+}

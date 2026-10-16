@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 2:5",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ڈر",
+      "rationale": "יראת יהוה کا مطلب 'ڈر' توں ودھ 'عزت\/سِتّ' اے پر ڈر لفظی صورت اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "گا",
+      "rationale": "عبرانی وچ مستقبل دا صیغہ اے، پنجابی وچ 'گا' لگیا"
+    }
+  ],
+  "translation": "تاں تُوں یاہوہ دا ڈر سمجھیں گا تے ایلوہیم دا جانو ملے گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "add815dd9eee4d9d11bca04d8a571e2444fb1a9a3a58da6ed3170c6bccb38334",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/2\/5-8.1792114331918.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "تاں"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "سمجھیں گا"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "دا ڈر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "تے دا جانو"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ملے گا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:32:11.919162645Z",
+  "model": "glm-5.3"
+}

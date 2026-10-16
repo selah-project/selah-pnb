@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "hosea 7:16",
+  "book": "hosea",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "על",
+      "rationale": "KJV 'سروں اُچے ⟨خدا⟩ ول' بمقابلہ JPS 'اُتے ⟨ول⟩ نئیں' — عبرانی اِکو لفظ על دوناں پڑھائیاں دیندا اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ول⟩ ⟨اُچے⟩",
+      "rationale": "عبرانی وِچ על تنہا اے؛ پنجابی جملے لئی وادھو لفظ پایا۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זו לעגם",
+      "rationale": "'ایہہ اوہناں دا مضحکہ اے' — زبان دی بدولت آونا والی بے عزتی، آیت دا مکرر موضوع زبان (לשונם) اے۔"
+    }
+  ],
+  "translation": "اوہ مُڑدے نیں پر ⟨اُچے⟩ ⟨ول⟩ نئیں؛ اوہ دھوکھے دی کمان ورگیاں ہو گئیاں؛ اوہناں دے سردار تلوار نال ڈگّنگے، اوہناں دی زبان دے غصّے توں؛ ایہہ اوہناں دا مضحکہ اے مِتصرایم دی زمین وِچ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "36b6bf3e3c9a41ee248e1d0a4f99006557fc60b97cd978e05736890a9ee094ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/hosea\/7\/13-16.1792110559929.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "اوہ مُڑدے نیں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨اُچے⟩ ⟨ول⟩"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ہو گئیاں"
+    },
+    {
+      "surface": "כקשת",
+      "gloss": "کمان ورگیاں"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "دھوکھے دی"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ڈگّنگے"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "تلوار نال"
+    },
+    {
+      "surface": "שריהם",
+      "gloss": "اوہناں دے سردار"
+    },
+    {
+      "surface": "מזעם",
+      "gloss": "غصّے توں"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "اوہناں دی زبان"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "לעגם",
+      "gloss": "اوہناں دا مضحکہ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین وِچ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم"
+    }
+  ],
+  "timestamp": "2026-10-16T00:29:19.930210813Z",
+  "model": "glm-5.3"
+}

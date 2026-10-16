@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 28:25",
+  "book": "2-chronicles",
+  "lang": "pnb",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "עיר ועיר",
+      "rationale": "تقسیمی pairs 'شہر تے شہر' = ہر اِک شہر، لفظی دوہرا رکھیا گیا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "במות",
+      "rationale": "'اُچیاں تھاواں' — قربان دیاں اُچیان تھاواں، مطلب موروں اُتے پوجا دیاں تھاواں"
+    }
+  ],
+  "translation": "تے یہوداہ دے ہر شہر تے شہر وِچ اس نے اُچیاں تھاواں بنائیاں کہ ہور ایلوہیم نوں خوشبو چڑھاؤنیاں، تے اس نے ⟨את⟩ یاہوہ نوں غصہ دتا — اپنے پیوواں دے ایلوہیم نوں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b3711484b43a3f66c1b884d6d3d0ebd6b0b25be071d4ec820aa96a5c586ff06d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/28\/25-27.1792122541366.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "تے ہر"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "تے شہر"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "یہوداہ دے"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بنائیاں"
+    },
+    {
+      "surface": "במות",
+      "gloss": "اُچیاں تھاواں"
+    },
+    {
+      "surface": "לקטר",
+      "gloss": "خوشبو چڑھاؤن لئی"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ایلوہیم نوں"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ہور"
+    },
+    {
+      "surface": "ויכעס",
+      "gloss": "تے غصہ دتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ نوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "اپنے پیوواں دے"
+    }
+  ],
+  "timestamp": "2026-10-16T03:49:01.366893563Z",
+  "model": "glm-5.3"
+}

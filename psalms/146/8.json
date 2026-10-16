@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 146:8",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 146,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "دیاں اَکھیاں",
+      "rationale": "عبرانی وِچ صرف 'اَندھے' اے، 'اَکھیاں' دا لفظ نئیں — پوکھח دا مطلب اَکھیاں کھولھنا ای اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פקח\/עורים · זקף\/כפופים",
+      "rationale": "تِن واری یاہوہ نال تِن جوڑے: کھولھنا\/اَندھے، سِدھا کرنا\/جُکے، پیار کرنا\/سِدھے — اُلٹیاں جوڑیاں دی ترتیب"
+    },
+    {
+      "kind": "alternative",
+      "subject": "کُجھ ہوئے",
+      "rationale": "کفوپیم نوں 'دبے ہوئے\/تھکے ہوئے' وی آکھ سکدے نیں، پر اصل مورت جُکنا\/وَل ног ہونا اے"
+    }
+  ],
+  "translation": "یاہوہ اَندھیاں دیاں اَکھیاں کھولھدا اے، یاہوہ جُکیاں ہوئیاں نوں سِدھا کردا اے، یاہوہ سِدھیاں دل والیاں نوں پیار کردا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f0ebed7fa5f7f5dde3a5535e4735aaeb42f3fd933378b9ce977a57dc6435f00d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/146\/8-8.1792124190270.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "کھولھدا اے"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "اَندھیاں دیاں اَکھیاں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "זקף",
+      "gloss": "سِدھا کردا اے"
+    },
+    {
+      "surface": "כפופים",
+      "gloss": "جُکیاں ہوئیاں نوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "پیار کردا اے"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "سِدھیاں دل والیاں نوں"
+    }
+  ],
+  "timestamp": "2026-10-16T04:16:30.271072455Z",
+  "model": "glm-5.3"
+}

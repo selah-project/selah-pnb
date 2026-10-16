@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 2:9",
+  "book": "judges",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "توں",
+      "rationale": "پنجابی 'مצפון להר געש' وِچ 'توں' منگدا اے، عبرانی وِچ صرف حرفِ جار اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "חרס",
+      "rationale": "تِمنت-חרס ایتھے تے یشوع 24:30 وِچ תמנת סרח — عبرانی مکتوباں وِچ اکھراں دا فرق"
+    }
+  ],
+  "translation": "تے اوہنوں اوہدی وراثت دے حد وِچ، تِمنت-حیریس وِچ، اِفرایم دے پہاڑ وِچ، گاعش پہاڑ توں اُترلے پاسے دفنایا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "75e02dcdbb430d8c4d2e9f22d8d535ab897b6bf23b6bd1ccc9c282f3864efbf7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/judges\/2\/9-12.1792101346035.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "دفنایا"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "اوہنوں"
+    },
+    {
+      "surface": "בגבול",
+      "gloss": "حد وِچ"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "اوہدی وراثت"
+    },
+    {
+      "surface": "בתמנת",
+      "gloss": "تِمنت"
+    },
+    {
+      "surface": "חרס",
+      "gloss": "حیریس"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "پہاڑ وِچ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "اِفرایم"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "اُترلے پاسے"
+    },
+    {
+      "surface": "להר",
+      "gloss": "پہاڑ توں"
+    },
+    {
+      "surface": "געש",
+      "gloss": "گاعش"
+    }
+  ],
+  "timestamp": "2026-10-15T21:55:46.036546208Z",
+  "model": "glm-5.3"
+}

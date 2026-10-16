@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 79:7",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 79,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوہناں",
+      "rationale": "عبرانی فعل دا کردار کوئی نئیں، پنجابی لئی ⟨اوہناں⟩ دا اضافہ کیتا گیا۔"
+    }
+  ],
+  "translation": "کیوں جو اوہناں ⟨את⟩ یعقوو نوں کھا لیا تے ⟨את⟩ اوس دا ٹکانا اُجاڑ دتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "15a0883b600fa9aa4aceb3a70cbf18f2add7ec6a9f697d6a881499ad8fa30ebb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/79\/5-8.1792113187108.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "کھا لیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یعقوو"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اوس دا ٹکانا"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "اوس دا ٹکانا"
+    },
+    {
+      "surface": "השמו",
+      "gloss": "اُجاڑ دتا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:13:07.109616328Z",
+  "model": "glm-5.3"
+}

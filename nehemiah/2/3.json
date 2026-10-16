@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 2:3",
+  "book": "nehemiah",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "بادشاہ ہميشہ جيوى",
+      "rationale": "درباری دعا — לְעוֹלָם יִחְיֶה رایت دا ادب، پنجابی درباری روپ وِچ"
+    },
+    {
+      "kind": "addition",
+      "subject": "اوہ",
+      "rationale": "אֲשֶׁر دی اگلی سطر لئی ضمیر دی لوڑ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "سَڑ گئیاں",
+      "rationale": "אֻכְּלוּ دا پنجابی روپ ‘کھادھاں گیاں’ دا اے، اگّ دے نال ‘سَڑنا’ قدرتی اے"
+    }
+  ],
+  "translation": "تے میں بادشاہ نوں آکھیا: بادشاہ ہمیشہ جیوے! میرا مُکھ کیوں اداس نہ ہووے، جدوں ⟨اوہ⟩ شہر، میرے پیؤاں دیاں قبراں دا گھر، اُجڑیا ہویا اے تے اُودیاں بوہتاں اگّ نال سَڑ گئیاں نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1fff20561e3c0982a0284b4316db22a810fb13417546ac2fc40d9f75db031073",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/nehemiah\/2\/1-4.1792119412708.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "تے میں آکھیا"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "بادشاہ نوں"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "جیوے"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "اداس ہووے"
+    },
+    {
+      "surface": "פני",
+      "gloss": "میرا مُکھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جدوں ⟨اوہ⟩"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "קברות",
+      "gloss": "قبراں دا"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "میرے پیؤاں دیاں"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "اُجڑیا ہویا اے"
+    },
+    {
+      "surface": "ושעריה",
+      "gloss": "تے اُودیاں بوہتاں"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "سَڑ گئیاں نیں"
+    },
+    {
+      "surface": "באש",
+      "gloss": "اگّ نال"
+    }
+  ],
+  "timestamp": "2026-10-16T02:56:52.709713295Z",
+  "model": "glm-5.3"
+}

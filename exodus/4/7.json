@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 4:7",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوہنے",
+      "rationale": "عبرانی صرف 'تے اوہنے آکھیا' — بولن والا نام نئیں، پنجانی جملہ منگدا"
+    },
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "مکمل فیعل لئی"
+    }
+  ],
+  "translation": "تے ⟨اوہنے⟩ آکھیا: اپنا ہتھ مُڑ اپنے سینے وِچ پا۔ تے اوہنے اپنا ۤتھ مُڑ اپنے سینے وِچ پایا تے اوہنوں اپنے سینے توں باہر کڈھیا، تے ویکھو، اوہ اوہدے ماس ورگا مُڑ آ گیا ⟨سی⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "658a85369b6f50c16f4b3050da9f91d3c030c8e4065bc001af9b8eaaaf91ea5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/4\/5-8.1792096216156.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "השב",
+      "gloss": "مُڑ … پا"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "اپنا ہتھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "חיקך",
+      "gloss": "اپنے سینے"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "تے مُڑ پایا"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "اپنا ہتھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "חיקו",
+      "gloss": "اپنے سینے"
+    },
+    {
+      "surface": "ויוצאה",
+      "gloss": "تے باہر کڈھیا"
+    },
+    {
+      "surface": "מחיקו",
+      "gloss": "اپنے سینے توں"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "تے ویکھو"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "مُڑ آ گیا"
+    },
+    {
+      "surface": "כבשרו",
+      "gloss": "اوہدے ماس ورگا"
+    }
+  ],
+  "timestamp": "2026-10-15T20:30:16.157307748Z",
+  "model": "glm-5.3"
+}

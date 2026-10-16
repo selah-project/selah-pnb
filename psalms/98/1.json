@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 98:1",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 98,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הושיעה לו ימינו וזרוע קדשו",
+      "rationale": "عبرانی دا ترتیب اے 'نجات دوائی اوہنوں اوہدی سجھی ہتھ تے اوہدا پوتر بازو' — کجھ ترجمے 'فتح دوائی' کہندے نیں، کجھ 'نجات ولوہائی'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "گاؤ نواں گیت",
+      "rationale": "آیت بندی نوں سدہندی اے — یاہوہ نوں گاؤ"
+    }
+  ],
+  "translation": "زبور۔ یاہوہ نوں گاؤ نواں گیت، کیونجے اوہنے کمال کرتیاں کیتیاں؛ اوہدی سجھی ہتھ تے اوہدا پوتر بازو اوہنوں نجات دوائی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6b156fc378f95dc1d2e386ff094626248f893c3897b81daa225b1c2889d745af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/98\/1-4.1792113530436.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "زبور"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "گاؤ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ نوں"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "گیت"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "نواں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "کمال کرتیاں"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کیتیاں"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "نجات دوائی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہنوں"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "اوہدی سجھی ہتھ"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "تے بازو"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "اوہدا پوتر"
+    }
+  ],
+  "timestamp": "2026-10-16T01:18:50.436826862Z",
+  "model": "glm-5.3"
+}

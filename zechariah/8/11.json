@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 8:11",
+  "book": "zechariah",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ہواں گا⟩",
+      "rationale": "عبرانی وِچ صرف אני اے — کوئی فعل نئیں، پنجابی نے جملہ مکمل کرنا اے"
+    }
+  ],
+  "translation": "تے ہن پہلے دناں وانگوں نئیں، میں ایس قوم دی باقی لئی ⟨ہواں گا⟩ — یاہوہ تصواوت دا آکھنا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "09f58508be1bae7eccca770e440f5225070ebfcf26684062604c8512987cde95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/zechariah\/8\/9-12.1792111508380.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "تے ہن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "دناں وانگوں"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "پہلے"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "לשארית",
+      "gloss": "باقی لئی"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم دی"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایس"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "آکھنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "تصواوت"
+    }
+  ],
+  "timestamp": "2026-10-16T00:45:08.382173640Z",
+  "model": "glm-5.3"
+}

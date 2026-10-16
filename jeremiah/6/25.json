@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 6:25",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اے⟩",
+      "rationale": "عبرانی وِچ کوئی فعل نئیں — 'تلوار دشمن دی اے' دی جگہ اسمی جملہ اے"
+    },
+    {
+      "kind": "you",
+      "subject": "متوجہ مخاطب",
+      "rationale": "زنانی صیغے دیاں دونوں منعی فیکلاں قوم نوں سدّیاں نیں"
+    },
+    {
+      "kind": "invitation",
+      "subject": "منعی فیکلاں",
+      "rationale": "میدان تے راہ توں گھر رہن دا سدا"
+    }
+  ],
+  "translation": "میدان وِچ نہ نِکلیں تے راہ تے نہ ٹریں، کیونکہ دشمن ⟨لئی⟩ تلوار ⟨اے⟩، ہر پاسے دہشت اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "89a92273f22558b1f54b7f6ec73c5a83116d6720a0a02e4858693c395d67d9de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/6\/25-28.1792107366918.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תצאי",
+      "gloss": "نِکلیں"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "میدان"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "تے راہ تے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "ٹریں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "تلوار"
+    },
+    {
+      "surface": "לאיב",
+      "gloss": "دشمن ⟨لئی⟩"
+    },
+    {
+      "surface": "מגור",
+      "gloss": "دہشت"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ہر پاسے"
+    }
+  ],
+  "timestamp": "2026-10-15T23:36:06.918717703Z",
+  "model": "glm-5.3"
+}

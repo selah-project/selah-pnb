@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 105:44",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اُوہنے",
+      "rationale": "عبرانی وچ کردار کھلا نئیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "مل مار لئی",
+      "rationale": "ירש دا مول مطلب ‘وارث بن کے قبضہ کرنا’ — چیز دی تھاں کمائی د‏ی محنت اے"
+    }
+  ],
+  "translation": "تے ⟨اُوہنے⟩ اوہناں نوں قوماں دیاں دھرتیاں دتیاں، تے قوماں دی محنت اوہناں نے مل مار لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3bcf3e91c9d8187e15f2e68267f20a63cb29afad7a7819666188127303ab1450",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/105\/41-44.1792113583541.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "دتیاں"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اوہناں نوں"
+    },
+    {
+      "surface": "ארצות",
+      "gloss": "دھرتیاں"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قوماں دیاں"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "تے محنت"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "قوماں دی"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "مل مار لئی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:19:43.542576018Z",
+  "model": "glm-5.3"
+}

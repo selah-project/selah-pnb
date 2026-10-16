@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 16:2",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨بندے⟩",
+      "rationale": "היעף واحد اے 'تھکّا ہویا'، پنجابی صفت نوں اِک ناں منگدا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "ולהלחם",
+      "rationale": "متن بغیر-artical 'روٹی لئی' — کجھ ترجمے 'لڑائی لئی' (להלחם) پڑھدے نیں پر صیغہ کھان دا اے"
+    }
+  ],
+  "translation": "تے بادشاہ نے صیبا نوں آکھیا: ایہہ تیرے لئی کی اے؟ تے صیبا نے آکھیا: گدے بادشاہ دے گھر لئی سواری نیں، تے روٹی تے گرمیاں دا پھل نوجواناں دے کھان لئی، تے شراب بن وِچ تھکّے ہوئے ⟨بندے⟩ دے پین لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ad4cf6aabe5a05169b0a8bf6f0f6b257e4e1f57535aa0cce8018f115d874d8dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/16\/1-4.1792103571637.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "نے آکھیا"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "صیبا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کی"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیرے لئی"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "نے آکھیا"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "صیبا"
+    },
+    {
+      "surface": "החמורים",
+      "gloss": "گدے"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "گھر لئی"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ دا"
+    },
+    {
+      "surface": "לרכב",
+      "gloss": "سواری"
+    },
+    {
+      "surface": "ולהלחם",
+      "gloss": "تے روٹی"
+    },
+    {
+      "surface": "והקיץ",
+      "gloss": "تے گرمیاں دا پھل"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "کھان لئی"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "نوجواناں"
+    },
+    {
+      "surface": "והיין",
+      "gloss": "تے شراب"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "پین لئی"
+    },
+    {
+      "surface": "היעף",
+      "gloss": "تھکّے ہوئے"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "بن وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T22:32:51.638740720Z",
+  "model": "glm-5.3"
+}

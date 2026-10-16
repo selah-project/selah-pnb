@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 116:14",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 116,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נגדה",
+      "rationale": "'اَگّوں \/ ساہمنے' — عبرانی نےگد اگاڑی ول دا شبد اے، اِکو پنجابی محاورہ وچ بدلیا۔"
+    },
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "بردرخواست دا ذرہ، واک وچ نرمی پا کے 'ہن' نال گل ملایا گیا۔"
+    }
+  ],
+  "translation": "میں یاہوہ نوں اپنے وعدے پورے کراں گا، ہن، اُس دی اَگّوں، اوہدے سارے لوکاں دے ساہمنے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "11c1e28fc94845c5a1f8da9e23b8977ea824da3b4bf8239987a5710f28e0a1ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/116\/14-15.1792124212554.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "اپنے وعدے"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ نوں"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "پورے کراں گا"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "اَگّوں"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ہن"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سارے … دے ساہمنے"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "اوہدے لوکاں"
+    }
+  ],
+  "timestamp": "2026-10-16T04:16:52.554726732Z",
+  "model": "glm-5.3"
+}

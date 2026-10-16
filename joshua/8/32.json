@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 8:32",
+  "book": "joshua",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משנה",
+      "rationale": "'نقل\/کاپی' بمقابلہ 'دُہراوں' — משנہ دی جڑ 'دو' اے؛ کوئی 'تورات دا دُہراوُن' پڑھدے نیں"
+    },
+    {
+      "kind": "alternative",
+      "subject": "אשר כתב",
+      "rationale": "موضوع یہوشع اے ('جیہڑی اوہنے لکھی')، موشے نئیں — پر کجھ پڑھے موشے دے لکھے اصل نوں مرندے نیں"
+    }
+  ],
+  "translation": "تے اوہنے اوتھے پتھراں اُتے ⟨את⟩ موشے دی تورات دی نقل لکھی، جیہڑی اوہنے یِسرائیل دے پتراں دے ساہمنے لکھی سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a742c87f0f58e19579e8483de720a12dad48ab5711b73c26c25a2d2619b99ac8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joshua\/8\/29-32.1792100933155.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "تے لکھیا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اوتھے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "پتھراں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشے دی تورات دی نقل"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "نقل"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "تورات دی"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "لکھی"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ساہمنے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پتراں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-10-15T21:48:53.156751408Z",
+  "model": "glm-5.3"
+}

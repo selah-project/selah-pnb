@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 13:2",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "گھٹ آں",
+      "rationale": "נפל اصل وِچ 'ڈگدا' اے — 'میری تُساں توں کوئی تھلے نئیں ڈگدی'؛ پنجابی وِچ 'گھٹ نئیں' قدرتی جملہ بندا اے۔"
+    },
+    {
+      "kind": "you",
+      "subject": "ایوب دے تن یاراں نوں",
+      "rationale": "ایوب اپنے یاراں نوں سدھا مخاطب اے: تُساں جاندے او، میں وی جاندا ہاں۔"
+    }
+  ],
+  "translation": "جیہڑا تُساں جاندے او، اوہ میں وی جاندا ہاں؛ میں تُساں توں گھٹ نئیں آں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c4025e18102107d319aa6a635a8cadd9d253b19a47e4aefed93f8141a88a5537",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/13\/1-4.1792115700099.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כדעתכם",
+      "gloss": "جیہڑا تُساں جاندے او"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "میں جاندا ہاں"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "گھٹ آں"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "تُساں توں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:55:00.099929311Z",
+  "model": "glm-5.3"
+}

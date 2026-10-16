@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 21:26",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וגם … וגם",
+      "rationale": "دو واری 'تے نہ' — عبرانی دی تِکرار جیہڑی تِنہاں انکاراں (پتہ نئیں، دسیا نئیں، سنیا نئیں) دی ترتیب بنھدی اے۔"
+    }
+  ],
+  "translation": "تے ابیملِیکھ نے آکھیا: میں نئیں جانیا کِنے ⟨את⟩ ایہہ گل کیتی، تے نہ تُوں نے میتھوں آکھیا، تے نہ میں آپ سُنیا — سِواے اَج دے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "49002eb342b5c2d67127fcb373e7f2c43ed2e5431afb9a74c09f7a5eb374ff74",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/21\/25-28.1792095093302.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "ابیملِیکھ نے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "جانیا میں نے"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کِنے"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کیتی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایہہ گل"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "گل"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُوں نے"
+    },
+    {
+      "surface": "لא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میتھوں"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں آپ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "سُنیا"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "سِواے"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اَج دے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:11:33.302997784Z",
+  "model": "glm-5.3"
+}

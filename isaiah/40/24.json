@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 40:24",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אף בל",
+      "rationale": "KJV 'نئیں لائے گئے' بمقابلہ JPS\/BSB 'اَجھے لائے ہی گئے کہ' — عبرانی دا سٹا 'بالکل نئیں\/اَجھے ہی' دوویں پڑھیاں جاندیاں نیں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אף בל ×3",
+      "rationale": "تِن واری اکو جوڑ، بوٹے لائے\/بِجھے\/جڑ پائی دی تِن پدھری تصویر — پنجابی وِچ تِن واری 'اَجے … وی نئیں' نال ٹکایا"
+    }
+  ],
+  "translation": "بلکہ اَجے لائے وی نئیں گئے، اَجے بِجھے وی نئیں گئے، اَجے اوہناں دا تنا دھرتی وِچ جڑ وی نئیں پایا، تے اوہدے پھُونک مارن تے اوہ مُک گئے، تے وطیرہ اوہناں نوں وُہری ورگا چُک لِے گیا।",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b98ee671101c64af0e54df5fc32fe792ba3d5551e1d784d394155d4b21c38fe2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/40\/21-24.1792106699606.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "بلکہ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "נטעו",
+      "gloss": "لائے گئے"
+    },
+    {
+      "surface": "אף",
+      "gloss": "بلکہ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "بِجھے گئے"
+    },
+    {
+      "surface": "אף",
+      "gloss": "بلکہ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "שרש",
+      "gloss": "جڑ پایا"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "دھرتی وِچ"
+    },
+    {
+      "surface": "גזעם",
+      "gloss": "اوہناں دا تنا"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "تے"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "پھُونک مارن"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "اوہناں اُتے"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "مُک گئے"
+    },
+    {
+      "surface": "וסערה",
+      "gloss": "تے وطیرہ"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "وُہری ورگا"
+    },
+    {
+      "surface": "תשאם",
+      "gloss": "چُک لِے گیا اوہناں نوں"
+    }
+  ],
+  "timestamp": "2026-10-15T23:24:59.607406643Z",
+  "model": "glm-5.3"
+}

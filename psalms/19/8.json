@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 19:8",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "عبرانی وِچ کوئی فعلِ ربط نئیں؛ پنجابی جملہ اے منگدا اے۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "موڑدی اے",
+      "rationale": "משיבת: 'واپس لیاؤندی\/موڑدی' — KJH 'converting' توں ودھ 'بحال کردی\/واپس موڑدی' (نفس نوں واپس لیاؤنا)۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جان\/جیون-بل اے، صرف 'روح' نئیں۔"
+    }
+  ],
+  "translation": "یاہوہ دی تورات کمال دی اے، جان نوں موڑدی اے؛ یاہوہ دی گواہی پکی اے، سادہ لوک نوں سیاݨا کردی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "73bb08ed4490463475a9943ea2b668c2e3cd9ef031e5d289ebbb23f35c88913c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/19\/5-8.1792112105275.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "دی تورات"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "کمال دی اے"
+    },
+    {
+      "surface": "משיבת",
+      "gloss": "موڑدی اے"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان نوں"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "دی گواہی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "پکی اے"
+    },
+    {
+      "surface": "מחכימת",
+      "gloss": "سیاݨا کردی اے"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "سادہ لوک نوں"
+    }
+  ],
+  "timestamp": "2026-10-16T00:55:05.276017629Z",
+  "model": "glm-5.3"
+}

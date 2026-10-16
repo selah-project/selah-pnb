@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 19:5",
+  "book": "joshua",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "بیت ہَمَرکابوت",
+      "rationale": "عبرانی اِکو جوڑا اے، پنجابی وِچ دو ٹوکن نال بجھیا — رڑھائی دا ناں (گڈیاں دا گھر) برقرار"
+    },
+    {
+      "kind": "measurement",
+      "subject": "شہراں دی لسٹ",
+      "rationale": "شمعون دی وارثی دے شہر گِنے جا رہے نیں"
+    }
+  ],
+  "translation": "تے تِصلاگ، تے بیت ہَمَرکابوت، تے حَتصر سوسہ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5afb7e6d7ad35e5837bb0236e60c8a22bc1993d4bb3d4b9b006d725767b6e2ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joshua\/19\/5-8.1792101122524.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצקלג",
+      "gloss": "تے تِصلاگ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "تے بیت"
+    },
+    {
+      "surface": "המרכבות",
+      "gloss": "ہَمَرکابوت"
+    },
+    {
+      "surface": "וחצר",
+      "gloss": "تے حَتصر"
+    },
+    {
+      "surface": "סוסה",
+      "gloss": "سوسہ"
+    }
+  ],
+  "timestamp": "2026-10-15T21:52:02.524841263Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 15:2",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דעת רוח \/ קדים",
+      "rationale": "ہوا دی دوہری مورت — ہوا ورگی جانچ تے چڑھدی (گرم، سُکی) ہوا — اِکو مہین اے جیہڑی پنجابی وِچ رَلدی اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "کی…؟",
+      "rationale": "عبرانی دا سوالی لوظ کُھلا اے؛ پنجابی سوالی ٹون 'کی…گا' منگدا اے۔"
+    },
+    {
+      "kind": "you",
+      "subject": "ایوب",
+      "rationale": "اَلیفز دا سِدھا سوال ایوب ول۔"
+    }
+  ],
+  "translation": "کی اِک سیاݨا بندہ ہوا ورگی جانچ نال جواب دے گا، تے اپنا پیٹ چڑھدی ہوا نال بھرے گا؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a1a0ea9df594d6cf40835ae1ea0568dcbdcdc0985bf06f4ccbb8df46fe2d75be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/15\/1-4.1792115838402.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "החכם",
+      "gloss": "سیاݨا ⟨بندہ⟩"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "جواب دے گا"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "جانچ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ہوا"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "تے بھرے گا"
+    },
+    {
+      "surface": "قדים",
+      "gloss": "چڑھدی ہوا"
+    },
+    {
+      "surface": "בטנו",
+      "gloss": "اپنا پیٹ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:57:18.402787355Z",
+  "model": "glm-5.3"
+}

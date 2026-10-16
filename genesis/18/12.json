@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 18:12",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "עדנה",
+      "rationale": "ایہو لفظ صرف ایتھے آیا — جڑ عِدن (بھوگ\/خوشی) نال رلدا"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צחק",
+      "rationale": "سارا دا 'ہسی' تے اگلے پتر دا ناں یِتصخاق (اوہ ہسیسی آکھے گا) — پنجابی وِچ ایہہ جوڑ نہیں رہا"
+    },
+    {
+      "kind": "crux",
+      "subject": "بھوگ",
+      "rationale": "עדנה — 'جسمانی بھوگ' لئی یا 'خوشی عام'، مترجم وکھرے پڑھدے نیں"
+    }
+  ],
+  "translation": "تے سارا نے اپنے اندر ہسی کیتی، آکھ کے: میرے پُرtherapeia پُرانے ہو جان توں مگروں کی مینوں بھوگ ہووے گا، حالانکہ میرا سائیں بُڈھا اے؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e820b53fd274361f4d5b7cf316391f465c90ceff0fdcb837f058ce9bb1a386c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/18\/9-12.1792094995337.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותצחק",
+      "gloss": "تے ہسی کیتی"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "اپنے اندر"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ کے"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "توں مگروں"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "پُرانے ہو جان"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ہووے گا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مینوں"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "بھوگ"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "تے میرا سائیں"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "بُڈھا اے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:09:55.338907102Z",
+  "model": "glm-5.3"
+}

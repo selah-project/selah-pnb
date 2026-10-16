@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 22:5",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جان دی طاقت اے، صرف 'روح' نئیں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צנים\/שומר",
+      "rationale": "کُنڈیاں دا بید تے رکھوالی کرنا — اکو جذے دی تصویر، پنجابی وِچ ہلکا رہ گیا"
+    }
+  ],
+  "translation": "کَنڈے، جال — ٹیڑھے رستے وِچ نیں؛ جو اپنی جان نوں رکھدا اے، اوہ اوہناں توں دور رہوے گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a94d4f014936ccd737a6609728fa6b191e542030b13b836339044a022b2fb8ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/22\/5-8.1792114977552.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צנים",
+      "gloss": "کَنڈے"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "جال"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "رستے وِچ"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "ٹیڑھے"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "رکھدا اے"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "اپنی جان نوں"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "دور رہوے گا"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "اوہناں توں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:42:57.552828910Z",
+  "model": "glm-5.3"
+}

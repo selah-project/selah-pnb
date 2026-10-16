@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "گُتھیاں",
+      "rationale": "חידות literal 'پہیلیاں\/لکھیاں ہوئیاں گلاں' — 'dark sayings' دا مطلب اوہ گل اے جیہڑی مُڑ کے کھولی جاوے"
+    },
+    {
+      "kind": "mystery",
+      "subject": "חידות",
+      "rationale": "متن آپ آکھدا اے کہ ایہ بُجھارتاں نیں، چھپائیاں ہوئیاں گلاں"
+    },
+    {
+      "kind": "secret",
+      "subject": "מני קדם",
+      "rationale": "پُراݨے ویلے توں چھپیاں ہوئیاں گلاں کھولیاں جا رہیاں نیں"
+    }
+  ],
+  "translation": "مَیں اپنا مُکھ مَثَل وِچ کھولاںگا، مَیں پرانیاں گُتھیاں نوں واں کھولاںگا،",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3e3ee46cb0243c73fa00113b107409634b754c7f3d77dde0081c59b41f124e16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/78\/1-4.1792113069776.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אפתחה",
+      "gloss": "مَیں کھولاںگا"
+    },
+    {
+      "surface": "במשל",
+      "gloss": "مَثَل وِچ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "اپنا مُکھ"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "مَیں واں کھولاںگا"
+    },
+    {
+      "surface": "חידות",
+      "gloss": "گُتھیاں نوں"
+    },
+    {
+      "surface": "מני",
+      "gloss": "توں"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "پرانیاں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:11:09.777067417Z",
+  "model": "glm-5.3"
+}

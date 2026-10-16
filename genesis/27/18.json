@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 27:18",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اتھے⟩",
+      "rationale": "پنجابی جواب مکمل کرن لئی 'اتھے' منگدا اے، عبرانی وِچ صرف הנני اے"
+    },
+    {
+      "kind": "you",
+      "subject": "ایسحاق دا سوال",
+      "rationale": "پیو پُتر نوں سدھا مخاطب کردا اے: تُو کون ایں، میرے پُتر؟"
+    }
+  ],
+  "translation": "تے اوہ اپنے پیو کول آیا تے آکھیا: میرے پیو! تے اوہنے آکھیا: لو، میں ⟨اتھے⟩ آں؛ تُو کون ایں، میرے پُتر؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b9f5ac93c4b19e32d3e276b6799c30171c735927f297486fe06800602342f55f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/27\/17-20.1792095373202.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "اپنے پیو"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "میرے پیو"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "لو"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُوں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "میرے پُتر"
+    }
+  ],
+  "timestamp": "2026-10-15T20:16:13.203257253Z",
+  "model": "glm-5.3"
+}

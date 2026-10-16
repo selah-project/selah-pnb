@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 34:2",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "האחרון",
+      "rationale": "'پچھلا' معنی 'لہندا' اے (پوچھم ول)، کیوں جو سورج چڑھن ول منہ کر کے ویکھیا جاوے؛ کجھ ترجمے 'چھیکڑی' لکھدے نیں جو بھُل اے۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "قبائلی علاقیاں دی لڑی",
+      "rationale": "آیت دیس دے انگ انگ گنی تے ماپی وکھا رہی اے — اک ناپ-مپ والی لسٹ۔"
+    }
+  ],
+  "translation": "تے ⟨את⟩ سارا نفتالی، تے ⟨את⟩ افرایم دی اِلاکہ تے منسی، تے ⟨את⟩ ساری یہوداہ دی اِلاکہ، پچھلے سمندر تک۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "915f56d21b0ce35b6ec202dd94e7633e5115049bbfadaf86f9de2c7eadd79037",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/34\/1-4.1792100631251.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "سارا نفتالی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "نفتالی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "افرایم دی اِلاکہ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "اِلاکہ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "افرایم"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "تے منسی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "ساری یہوداہ دی اِلاکہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "اِلاکہ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "پچھلا"
+    }
+  ],
+  "timestamp": "2026-10-15T21:43:51.252010968Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,151 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 6:2",
+  "book": "ecclesiastes",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ਜਾਨ",
+      "rationale": "ਨਫ਼ੇਸ਼ 'ਰੂਹ\/ਆਤਮਾ' ਨਹੀਂ — ਸਾਹ ਅਤੇ ਲੋੜਾਂ ਵਾਲੀ ਜ਼ਿੰਦਗੀ ਆ, ਇਸ ਲਈ 'ਜਾਨ'।"
+    },
+    {
+      "kind": "crux",
+      "subject": "ישליטנו",
+      "rationale": "ਸ਼ਾਲਤ 'ਰੱਖਿਅਕ ਬਣਾਵੇ' — ਕੇਜੇਵੀ 'ਸ਼ਕਤੀ ਦੇਵੇ'; 'ਇਜਾਜ਼ਤ ਦੇਵੇ' ਉਹਦਾ ਸੁਭਾਅ ਗ੍ਰਹਿਣ ਕਰਦਾ ਆ।"
+    },
+    {
+      "kind": "elision",
+      "subject": "איש נכרי",
+      "rationale": "ਕੁਝ ਰੂਪਾਂਤਰ 'ਅਜਨਬੀ' ਦੀ ਥਾਂ 'ਪਰਾਇਆ' ਮੰਗਦੇ ਹਨ; ਪੰਜਾਬੀ ਵਿੱਚ 'ਪਰਾਇਆ' ਜਾਇਜ਼ ਆ।"
+    }
+  ],
+  "translation": "ਜਿਹੜਾ ਬੰਦਾ ਏ, ਜਿਹਨੂੰ ਏਲੋਹੀਮ ਦੌਲਤ, ਖ਼ਜ਼ਾਨੇ ਤੇ ਇੱਜ਼ਤ ਦੇਵੇ, ਤੇ ਜਿਸ ਦੀ ਜਾਨ ਨੂੰ ਉਹਦੀ ਹਰ ਖ਼ਾਹਿਸ਼ ਵਿੱਚੋਂ ਕੁਝ ਘਟ ਨਾ ਹੋਵੇ, ਪਰ ਏਲੋਹੀਮ ਉਹਨੂੰ ਇਜਾਜ਼ਤ ਨਾ ਦੇਵੇ ਕਿ ਉਹ ਉਸ ਵਿੱਚੋਂ ਖਾਵੇ, ਸਗੋਂ ਇੱਕ ਪਰਾਇਆ ਬੰਦਾ ਉਹਨੂੰ ਖਾ ਜਾਵੇ — ਏਹੋ ਹੇਬਲ ਆ ਤੇ ਭਿਆਨਕ ਬੁਰਾ ਰੋਗ।",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e7d615df2aede3ce82de5c4d7bae7ef0fde2a970b29d382b558e6dc71bf68ce0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ecclesiastes\/6\/1-4.1792117672544.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ਬੰਦਾ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜਿਹੜਾ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ਦੇਵੇ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ਜਿਹਨੂੰ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ਏਲੋਹੀਮ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ਦੌਲਤ"
+    },
+    {
+      "surface": "ונכסים",
+      "gloss": "ਤੇ ਖ਼ਜ਼ਾਨੇ"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ਤੇ ਇੱਜ਼ਤ"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "ਤੇ ਨਾ"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "ਘਟ"
+    },
+    {
+      "surface": "לנפשו",
+      "gloss": "ਉਹਦੀ ਜਾਨ ਨੂੰ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ਹਰ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ਜਿਹੜੀ"
+    },
+    {
+      "surface": "יתאוה",
+      "gloss": "ਖ਼ਾਹਿਸ਼"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ਪਰ ਨਾ"
+    },
+    {
+      "surface": "ישליטנו",
+      "gloss": "ਇਜਾਜ਼ਤ ਦੇਵੇ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ਏਲੋਹੀਮ"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ਕਿ ਖਾਵੇ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ਉਸ ਵਿੱਚੋਂ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ਸਗੋਂ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ਬੰਦਾ"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "ਪਰਾਇਆ"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "ਖਾ ਜਾਵੇ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ਏਹੋ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ਹੇਬਲ"
+    },
+    {
+      "surface": "וחלי",
+      "gloss": "ਤੇ ਰੋਗ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ਭਿਆਨਕ ਬੁਰਾ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ਆ"
+    }
+  ],
+  "timestamp": "2026-10-16T02:27:52.545843430Z",
+  "model": "glm-5.3"
+}

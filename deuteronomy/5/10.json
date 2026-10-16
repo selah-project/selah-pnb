@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 5:10",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "پیڑھیاں",
+      "rationale": "ہزاراں اِک ظرف اے، ⟨⟩ وِچ پیڑھی دا لفظ واضح کرن لئی"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ہزاراں بمقابلہ تیجی چوتھی",
+      "rationale": "خیسِد دی حد قصور دی حد توں کئی گنا وڈی اے — گنتی والا ٹاکرا"
+    }
+  ],
+  "translation": "تے ہزاراں ⟨پیڑھیاں⟩ اُتے خیسِد ⟨رحمت⟩ کردا اے، اوہناں نال جیہڑے مینوں پیار کردے نیں، تے اوہناں نال جیہڑے اوہدیاں احکام نوں مانن دے قائل نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "da4241a86ee7643c13d661f19cab627a0344dbc421eac136c11cba150dd2b5b6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/5\/9-12.1792099637441.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "تے کردا اے"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "خیسِد ⟨رحمت⟩"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "ہزاراں ⟨پیڑھیاں⟩ اُتے"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "مینوں پیار کرن والیاں نال"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "تے اوہناں نال جیہڑے اوہدیاں احکام مانن دے قائل نیں"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "اوہدیاں احکام"
+    }
+  ],
+  "timestamp": "2026-10-15T21:27:17.442773307Z",
+  "model": "glm-5.3"
+}

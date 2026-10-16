@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 35:6",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨رنگ⟩ \/ ⟨دے⟩",
+      "rationale": "عبرانی صرف رنگاں تے چیزاں دے ناں رکھدی اے؛ پنجابی لفظاں نوں جوڑنا پیندا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "کِرمز دا کیڑا سنہڑا",
+      "rationale": "תולעת שני ای کیڑے توں نِکلی رنگ دا ناں اے — 'سرخ' ہلکا اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "مادے دی لسٹ",
+      "rationale": "مقدار نئیں پر چڑھاوے دے مادیاں دی گنتی — مسکن دی تعمیر دی لسٹ"
+    }
+  ],
+  "translation": "تے نیلا ⟨رنگ⟩، تے ارغوانی، تے کِرمز سنہڑا، تے مہین سُتی، تے بکرےآں دے وال۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "56e13a07e667b611c03bcbd8f747283177c78426151be497987b1d486d02bf7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/35\/5-8.1792097054085.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "تے نیلا"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "تے ارغوانی"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "تے کِرمز دا کیڑا"
+    },
+    {
+      "surface": "שני",
+      "gloss": "سنہڑا"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "تے مہین سُتی"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "تے بکرےآں ⟨دے⟩"
+    }
+  ],
+  "timestamp": "2026-10-15T20:44:14.086212173Z",
+  "model": "glm-5.3"
+}

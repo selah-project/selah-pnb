@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 42:3",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "بتی",
+      "rationale": "פשתה شوری\/سن اے — بتی دے کنجے لئی، پنجابی وِچ 'بتی' ہی ڈھکدی اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קנה רצוץ \/ פשתה כהה",
+      "rationale": "کُچیا نَر تے مدھم بتی — کمزوری دی دو وَنّ دی مورت، آیت 2 دی خاموشی نال جُڑی"
+    }
+  ],
+  "translation": "کُچیا ہویا نَر نئیں توڑے گا، تے مدھم بتی نئیں گلاؤے گا؛ سچّ دے نال انصاف کڈھے گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "cd2ca8d61bfceae2fe30530508ee3017504949d0dda979b6861b7814d17f8126",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/42\/1-4.1792106758225.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "نَر"
+    },
+    {
+      "surface": "רצוץ",
+      "gloss": "کُچیا ہویا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "ישבור",
+      "gloss": "توڑے گا"
+    },
+    {
+      "surface": "ופשתה",
+      "gloss": "تے بتی"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "مدھم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יכבנה",
+      "gloss": "گلاؤے گا"
+    },
+    {
+      "surface": "לאמת",
+      "gloss": "سچّ دے نال"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "کڈھے گا"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف"
+    }
+  ],
+  "timestamp": "2026-10-15T23:25:58.226767017Z",
+  "model": "glm-5.3"
+}

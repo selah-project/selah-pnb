@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 18:13",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "جو بندہ",
+      "rationale": "عبرانی فعل دا کردار پنجابی وچ صریح اسم منگدا اے"
+    },
+    {
+      "kind": "idiom",
+      "subject": "משיב דבר",
+      "rationale": "لفظی 'گل موڑدا اے' — پنجابی وچ 'جواب دیندا اے' عام اے"
+    }
+  ],
+  "translation": "جو بندہ کجھ سُݨن توں پہلاں جواب دیندا اے، ایہہ اوہدے لئی اِوَیلتاں تے بے-عزتی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0caa280d11821f426c443f316129b619762aff88ad1807092ef6444b23708b50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/18\/13-16.1792114840308.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "جواب دیندا اے"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کجھ ⟨گل⟩"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "توں پہلاں"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "سُݨن"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "اِوَیلتاں"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ایہہ اے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدے لئی"
+    },
+    {
+      "surface": "וכלמה",
+      "gloss": "تے بے-عزتی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:40:40.308958279Z",
+  "model": "glm-5.3"
+}

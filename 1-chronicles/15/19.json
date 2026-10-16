@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 15:19",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ہیٹھلے متبادل",
+      "rationale": "عبرانی 'سنائی لئی' کہندا اے؛ فعل دی گھاٹی پنجابی پورا کردی اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "نחשת",
+      "gloss-context": "تانبا",
+      "rationale": "'پیتل' نئیں — عبرانی تانبے\/کانسی دی دھات اے"
+    }
+  ],
+  "translation": "تے گاوِن — ہیمن، آساف تے ایتن — تانبے دے两个 γνωτوں ⟨نال⟩ سنہری آواز لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8a4df17afd2251ff5888bee062b38d79338c347a60e4f986176a84385b9e3223",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/15\/17-20.1792120837555.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמשררים",
+      "gloss": "تے گاوِن"
+    },
+    {
+      "surface": "הימן",
+      "gloss": "ہیمن"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "آساف"
+    },
+    {
+      "surface": "ואיתן",
+      "gloss": "تے ایتن"
+    },
+    {
+      "surface": "بמצלתים",
+      "gloss": "دو jsouتاں نال"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "تانبے دے"
+    },
+    {
+      "surface": "להשمיע",
+      "gloss": "سنہری آواز لئی"
+    }
+  ],
+  "timestamp": "2026-10-16T03:20:37.557200261Z",
+  "model": "glm-5.3"
+}

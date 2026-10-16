@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 2:12",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בר",
+      "rationale": "'پُتر' بمقابلہ JPS دی 'خالص تعظیم' — ארامی بر (= پُتر) بمقابلہ عبرانی בר (= خالص)؛ پر контیکسٹ مسیح\/وارث دا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אפו",
+      "rationale": "'اوہدا غصہ' — اَپ مُڈھ وِچ نَک\/بھُکھا اے، غصے دا مَتھ اے"
+    },
+    {
+      "kind": "invitation",
+      "subject": "to kings and judges",
+      "rationale": "چُمن دا حکم تے آخری شُدھی دی فِریاد — زبور دے مُڈھ دی طرح"
+    }
+  ],
+  "translation": "پُتر نوں چُمنا کرو، کہ اوہ غصے نہ ہووے تے تُساں رستے وِچ ہلاک نہ ہو جاؤ، کیوں جو اوہدا غصہ تھوڑا چِر بھڑک سکدا اے۔ خوش نصیب نیں سارے اوہ جیہڑے اُس وِچ پناہ لیندے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8d533ebe6cabfaf3f69d9f613443902ecf5dcc17aedfcc9ed447684e0a1ae411",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/2\/9-12.1792111779616.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשקו",
+      "gloss": "چُمنا کرو"
+    },
+    {
+      "surface": "בר",
+      "gloss": "پُتر نوں"
+    },
+    {
+      "surface": "פן",
+      "gloss": "کہ … نہ"
+    },
+    {
+      "surface": "יאנף",
+      "gloss": "غصے ہووے"
+    },
+    {
+      "surface": "ותאבדו",
+      "gloss": "تے تُساں ہلاک نہ ہو جاؤ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "رستے وِچ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "יבעر",
+      "gloss": "بھڑک سکدا اے"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "تھوڑا چِر"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "اوہدا غصہ"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "خوش نصیب نیں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "חוסי",
+      "gloss": "پناہ لیندے نیں"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اُس وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T00:49:39.617316421Z",
+  "model": "glm-5.3"
+}

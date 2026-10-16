@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 48:5",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בבכי יעלה בכי",
+      "rationale": "‘رونا چڑھدا اے’ — عبرانی رو کے چڑھن دا مِلدا جُلدا وار دو واری دہرایا، پنجابی وِچ ایہ دہرانا کسے حد تک رہ گیا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שבר",
+      "rationale": "لفظ دی مورت ‘تُٹّ' اے؛ ‘تباہی’ اوہدھا روپ اے"
+    }
+  ],
+  "translation": "کیوں جو لُوحِت دے چڑھاءے تے روندا ہویا چڑھدا اے، کیوں جو حورونایم دے اتار تے دُشمناں نے تباہی دے چیخ دی آواز سنی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1bd702915308c080e1922b71845522e5735df76a06fd7ae090e738d852032e34",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/48\/5-8.1792108639315.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "چڑھاءے"
+    },
+    {
+      "surface": "הלחות",
+      "gloss": "لُوحِت"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "روندا ہویا"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "چڑھدا اے"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "رونا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "במורד",
+      "gloss": "اتار تے"
+    },
+    {
+      "surface": "חורנים",
+      "gloss": "حورونایم"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "دُشمناں نے"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "چیخ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "تباہی"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "سنی اے"
+    }
+  ],
+  "timestamp": "2026-10-15T23:57:19.316237547Z",
+  "model": "glm-5.3"
+}

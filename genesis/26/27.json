@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 26:27",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "מאתכם",
+      "rationale": "מֵאִתְּכֶם את دا ٹبر اے — 'تہاڈے کولوں'؛ گلاس وِچ نشان رکھیا، ترجمے وِچ گل پورا کرن لئی رلایا گیا"
+    },
+    {
+      "kind": "you",
+      "subject": "یِتصخاق دا سوال",
+      "rationale": "اَویمیلخ تے اوہدے سنگیاں نوں سدھی گلاں — 'تسیں… تسیں…'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מאתכם \/ אתי",
+      "rationale": "את دا آوازی وار دوہرا — 'مینوں' تے 'تہاڈے کولوں'، پنجابی وِچ نشان ہی دسدا اے"
+    }
+  ],
+  "translation": "تے یِتصخاق نے اوہناں نوں آکھیا: تسیں میرے کول کیوں آئے ہو، حالانکہ ⟨את⟩ مینوں تسیں نفرت کیتی تے مینوں اپنے کولوں کڈھ دتا؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c07e2991204a2de8b4f8dfcbfdd5664da0752ddd3fc7a0775943dd0604c5a35d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/26\/25-28.1792095267720.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "اوہناں نوں"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "یِتصخاق نے"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "آئے ہو"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میرے کول"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "حالانکہ تسیں"
+    },
+    {
+      "surface": "שנאתם",
+      "gloss": "نفرت کیتی"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "مینوں"
+    },
+    {
+      "surface": "ותשלחוני",
+      "gloss": "تے کڈھ دتا"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "⟨את⟩تہاڈے کولوں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:14:27.722203307Z",
+  "model": "glm-5.3"
+}

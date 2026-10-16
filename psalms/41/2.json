@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 41:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اے⟩ اوہ",
+      "rationale": "عبرانی وِچ فعل نئیں اے؛ اُکھاویں خوشش دا بچن اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אשרי",
+      "rationale": "توحیدی خوشخبری دی طرز — سارا زبوراں وِچ واپس آؤندا اے (1:1)، پنجابی وِچ اک وار دا اُچار رہِ جاندا اے"
+    }
+  ],
+  "translation": "خوش ⟨اے⟩ اوہ جیہڑا کمزور دے بارے سُچدا اے؛ برائی دے دن یاہوہ اوہنوں بچا لویگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9b758854654f0c2f66c9f531cba1d38d7b1310124a6734e7a98832ed23f0fa47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/41\/1-4.1792112451170.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "خوش"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "سُچدا اے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دے بارے"
+    },
+    {
+      "surface": "דל",
+      "gloss": "کمزور"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "ימלטהו",
+      "gloss": "بچا لویگا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:00:51.171081564Z",
+  "model": "glm-5.3"
+}

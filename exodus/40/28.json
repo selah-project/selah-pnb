@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 40:28",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "پردہ",
+      "rationale": "מסך دا مطلب ڈھکݨ والا پردہ اے — جالے دار اسکرین، سادہ ٹکری دروازے دا نئیں"
+    }
+  ],
+  "translation": "تے اوہنے مسکن دے پْتھھے دا پردہ ⟨את⟩ لایا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8add72f3068e03a63b5c7762aec469d6c6686b0a070b26e7af97458f258be4de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/40\/28-28.1792123274038.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "تے اوہنے لایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پردہ"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "پردہ"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "پْتھھے دا"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "مسکن"
+    }
+  ],
+  "timestamp": "2026-10-16T04:01:14.040385683Z",
+  "model": "glm-5.3"
+}

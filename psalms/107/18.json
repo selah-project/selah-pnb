@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 107:18",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جان اے، روح نئیں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בצר\/מצוקה",
+      "rationale": "تنگی دی تصویر 17–19 آیتاں وِچ دہرائی جا رہی اے — تنگ جیہ توں چھٹکارا"
+    }
+  ],
+  "translation": "ہر کھانے توں اوہناں دی جان غلطان اے، تے اوہ موت دے دواراں تک پہنچ گئے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1e577dc82f5be701837c6c340edddc98eb479b6e24012baef21928cfe320d6c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/107\/17-20.1792113653252.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "کھانے توں"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "غلطان اے"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "اوہناں دی جان"
+    },
+    {
+      "surface": "ויגיעו",
+      "gloss": "تے اوہ پہنچ گئے"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "دواراں"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت دے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:20:53.252667896Z",
+  "model": "glm-5.3"
+}

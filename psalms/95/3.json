@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 95,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اے⟩",
+      "rationale": "عبرانی وِچ کوپلا نئیں، پنجابی نوں چاہیدا اے۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גדול … גדול",
+      "rationale": "دو واری 'وڈا' — یاد کرن والی دوہرائی، دوہرا رکھی گئی اے۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "אלהים",
+      "rationale": "'سارے دیوتے' (قومیں دے معبود) بمقابلہ 'سارے аргان' — ٹوکن عام صیغہ اے، اینوں ای رکھیا گیا۔"
+    }
+  ],
+  "translation": "کیونکہ وڈا ایل اے یاہوہ، تے سارے دیوتیاں اُتے وڈا بادشاہ ⟨اے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "10d86986e2ff93155526143b6e52afb9b7bf2e9ef6d05a572507347523f37b71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/95\/1-4.1792113431449.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وڈا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "تے بادشاہ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وڈا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "دیوتے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:17:11.450244672Z",
+  "model": "glm-5.3"
+}

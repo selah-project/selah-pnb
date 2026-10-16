@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 3:3",
+  "book": "micah",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פצחו",
+      "rationale": "'Break\/smash' (bones) vs LXX-influenced 'chop in pieces'; root normally means break out (in joyful sound)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "cannibal metaphor",
+      "rationale": "Skin\/flesh\/bones sequence mirrors 3:2, escalating from flaying to butchery-cooking imagery."
+    },
+    {
+      "kind": "substitution",
+      "subject": "קלחת",
+      "rationale": "Cooking-pot word rendered 'دیگچی', smaller vessel than סיר 'دیگا'."
+    }
+  ],
+  "translation": "تے جیہڑے میرے قوم دا ماس کھاندے نیں، تے اوہناں دی کھل اوہناں توں لہا دیندے نیں، تے اوہناں دیاں ہڈیاں نوں ⟨את⟩ توڑ دیندے نیں، تے اوہناں نوں دیگے وِچ [{ویکھو}] بھُن دیندے نیں، جیویں دیگچی وِچ ماس۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b1247595a3912c275f7cccfc69e32e4f17afe2b8f52d0f14d15ed00c1af87eed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/micah\/3\/1-4.1792111079188.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "تے جیہڑے"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "کھاندے نیں"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "ماس"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "میرے قوم دا"
+    },
+    {
+      "surface": "ועורם",
+      "gloss": "تے اوہناں دی کھل"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "اوہناں توں"
+    },
+    {
+      "surface": "הפשיטו",
+      "gloss": "لہا دیندے نیں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اوہناں دیاں ہڈیاں"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "اوہناں دیاں ہڈیاں"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "توڑ دیندے نیں"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "بھُن دیندے نیں"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "בסיר",
+      "gloss": "دیگے وِچ"
+    },
+    {
+      "surface": "וכבשר",
+      "gloss": "تے جیویں ماس"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "קלחת",
+      "gloss": "دیگچی"
+    }
+  ],
+  "timestamp": "2026-10-16T00:37:59.189169191Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 32:5",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "چُکی",
+      "rationale": "נשאת وشکار 'چُکن\/چُکنے والا' اے؛ 'معاف کرنا' (تاوان چکن والا) مشہور مگر ہولی پکھ اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "חטאתי סלה",
+      "rationale": "'میری خطا دی دوش' — خطا دی اپنی دوش؛ کجھ پڑھیے 'میری خطا دا بھاؤ' (قربانی) لیندے نیں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אודיעך \/ אודה",
+      "rationale": "دوویں ידע تے ידה جڑاں نال 'جاننا\/مننا' دی گونج، پنجابی وِچ ہلدی ہوئی"
+    }
+  ],
+  "translation": "میری خطا تینوں دسی، تے میری کرتوت میں نئیں لُکائی؛ میں نے آکھیا: میری بغاوتاں بارے یاہوہ نوں اعتراف کراں گا — تے توں، توں نے میری خطا دی دوش چُکی۔ سِلاہ",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "929057b53e058c483a4deb1586a4e22673d6879e0027ed784a7b0d1bb6aaec36",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/32\/5-8.1792112364162.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חטאתי",
+      "gloss": "میری خطا"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "تینوں دسی"
+    },
+    {
+      "surface": "ועוני",
+      "gloss": "تے میری کرتوت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "כסיתי",
+      "gloss": "میں نے لُکائی"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "میں نے آکھیا"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "اعتراف کراں گا"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "بارے"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "میری بغاوتاں"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ نوں"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "تے توں"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "توں نے چُکی"
+    },
+    {
+      "surface": "עון",
+      "gloss": "دوش"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "میری خطا دی"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سِلاہ"
+    }
+  ],
+  "timestamp": "2026-10-16T00:59:24.162949886Z",
+  "model": "glm-5.3"
+}

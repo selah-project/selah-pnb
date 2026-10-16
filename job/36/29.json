@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 36:29",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מפרשי",
+      "rationale": "بادلاں دے 'پھیلاء' دا لفظ تنخ وِچ صرف ایتھے آیا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "סכתו",
+      "rationale": "'اُہدا سکّا' — جھونپڑی\/کھوہڑا؛ کجھ مترجم بدل دی جھونپڑی لیندے نیں، کجھ اسمان دا"
+    },
+    {
+      "kind": "mystery",
+      "subject": "سوال",
+      "rationale": "آیت اِک سوال اے — کنے بُجھ سکدا اے؟ — تے جواب دھند اے"
+    }
+  ],
+  "translation": "بلکہ، کیہ کوئی بُجھ سکدا اے بادلاں دے پھیلاء، اُہدے سکّے دی گرج دیاں دھماکےآں؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a416a156a1bade8ccc93aadc04ba34778396e301de89262bf9ce330b6f06ea57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/36\/29-32.1792116426415.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "بلکہ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "بُجھ سکدا اے"
+    },
+    {
+      "surface": "מפרשי",
+      "gloss": "پھیلاء"
+    },
+    {
+      "surface": "עב",
+      "gloss": "بادلاں"
+    },
+    {
+      "surface": "תשאות",
+      "gloss": "دھماکےآں"
+    },
+    {
+      "surface": "סכתו",
+      "gloss": "سکّے"
+    }
+  ],
+  "timestamp": "2026-10-16T02:07:06.416703404Z",
+  "model": "glm-5.3"
+}

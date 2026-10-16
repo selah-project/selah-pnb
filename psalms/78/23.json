@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 78:23",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "دووں فعل 'دِتّا'",
+      "rationale": "عبرانی دے иmpf واح(completed) مگر پنجابی 'حکم دِتّا\/کھولھ دِتّے' نوں مکمل شکل منگدی اے — Hebrew ויקtol اِکو وار 'دِتّا' دو لفظاں نال چلدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "بدلیاں",
+      "rationale": "שחקים دا مول 'پیسی ہوئی دھوڑ\/پتلی بھاف' توں بدل\/آسمان — 'بدلیاں' تصویر نیڑے اے پر 'آسمان' وی جائز"
+    }
+  ],
+  "translation": "تے اوہنے اُتلیاں بدلیاں نوں حکم دِتّا، تے اسماناں دے دروازے کھولھ دِتّے،",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "da57fde5bf333c2237b2715ecd4a86ab6c59a3732dd97f0a4f93e32741e3d531",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/78\/21-24.1792113056427.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "تے اوہنے حکم دِتّا"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "بدلیاں نوں"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "اُتلیاں"
+    },
+    {
+      "surface": "ודלתי",
+      "gloss": "تے دروازے"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "اسماناں دے"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "کھولھ دِتّے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:10:56.428630150Z",
+  "model": "glm-5.3"
+}

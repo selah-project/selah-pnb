@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 7:24",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سن",
+      "rationale": "عبرانی وِچ کوپلا نئیں"
+    },
+    {
+      "kind": "crux",
+      "subject": "עשר באמה",
+      "rationale": "'اِک ہتھ وِچ دس' (KJV) بمقابلہ 'دس ہتھ گھیرا' (ASV 'for ten cubits')"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סביב סבבים מקפים סביב",
+      "rationale": "گھیراؤ والے تن وکھرے قافئے، پنجابی وِچ اِکو گھیر-ٹبر"
+    }
+  ],
+  "translation": "تے گنڈے اوہدی لب ہیٹھوں چاروں پاسے اوہنوں گھیرے ہوئے ⟨سن⟩ — اِک ہتھ وِچ دس، سمندر نوں چاروں پاسے گھیردے ہوئے — گنڈے دو قطاراں وِچ ⟨سن⟩، اوہدے ڈھیاؤ وِچ ڈھیلے گئے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "33701fd0d0bb83b4005a731db5de1f6eea5b4b1460460621e95a6469368eb57b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/7\/21-24.1792104171413.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופקעים",
+      "gloss": "تے گنڈے"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ہیٹھوں"
+    },
+    {
+      "surface": "לשפתו",
+      "gloss": "اوہدی لب"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چاروں پاسے"
+    },
+    {
+      "surface": "סבבים",
+      "gloss": "گھیرے ہوئے"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "اوہنوں"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دس"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "اِک ہتھ وِچ"
+    },
+    {
+      "surface": "מקפים",
+      "gloss": "گھیردے ہوئے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سمندر نوں"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چاروں پاسے"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دو"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "قطاراں وِچ"
+    },
+    {
+      "surface": "הפקעים",
+      "gloss": "گنڈے"
+    },
+    {
+      "surface": "יצקים",
+      "gloss": "ڈھیلے گئے"
+    },
+    {
+      "surface": "ביצקתו",
+      "gloss": "اوہدے ڈھیاؤ وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T22:42:51.414878638Z",
+  "model": "glm-5.3"
+}

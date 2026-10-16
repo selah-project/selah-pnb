@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 97:12",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 97,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "اے ٹِک لوکو",
+      "rationale": "ہدائت والا سدّا — پورا آیت بول-کرم اے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "اوہدے پوتر دی یاد",
+      "rationale": "לזכר קדשو پوروَت ‘اوہدے پوتر ناں دی یاد’ — ⟨ناں⟩ جوڑیا گیا کیوں جو پنجابی ‘پوتر دی یاد’ نئیں کہہ سکدا"
+    }
+  ],
+  "translation": "اے ٹِک لوکو، یاہوہ وِچ خوش رہو، تے اوہدے پوتر ناں دی یاد وِچ دھنیاد واؤ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "927b376d02f29de565236965f5d916cc01d82418d9d6cdc0649839662faf4bae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/97\/9-12.1792113441726.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "خوش رہو"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "اے ٹِک لوکو"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "یاہوہ وِچ"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "تے دھنیاد واؤ"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "یاد وِچ"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "اوہدے پوتر ⟨ناں⟩ دی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:17:21.727509395Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 112:7",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 112,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوہ",
+      "rationale": "عبرانی وچ فعل دا فاعل لکھیا نئیں؛ پنجابی جملے لئی ضمیر دتی گئی۔"
+    }
+  ],
+  "translation": "ماڑی خبر توں اوہ نئیں ڈریگا؛ اوہدا دل تکڑا اے، اوہ یاہوہ اُتے بھروسہ رکھدا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b6e5f5b129f94340d5130f68a428bb84e541129fd2314fa92815802ec9651309",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/112\/5-8.1792113701638.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משמועה",
+      "gloss": "خبر"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ماڑی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "ڈریگا"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "تکڑا"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "اوہدا دل"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "بھروسہ رکھدا اے"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "یاہوہ اُتے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:21:41.639327078Z",
+  "model": "glm-5.3"
+}

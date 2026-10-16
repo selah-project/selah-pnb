@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 11:1",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نیں \/ ⟨وٹ⟩",
+      "rationale": "پنجابی نوں جمع تے وٹ دا لفظ منگدا اے، عبرانی وِچ نئیں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מרמה\/שלמה",
+      "rationale": "کوڑھ مقابلہ پوری — مکر مقابلے پورا وٹ؛ پنجابی وِچ وزن دا ٹاکرا رکھیا اے"
+    }
+  ],
+  "translation": "مکر دے ترازُو یاہوہ لئی گھِناؤنی گل نیں، تے پُوری پتھر ⟨وٹ⟩ اوہدی پسند اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "63d83c8e6d48e81c570f6aa8664cb0f6a93bb39b9ba2312fbfca03e5d2e79420",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/11\/1-4.1792114674397.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מאזני",
+      "gloss": "ترازُو"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "مکر دے"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "گھِناؤنی گل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "تے پتھر"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "پُوری"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "اوہدی پسند"
+    }
+  ],
+  "timestamp": "2026-10-16T01:37:54.397644924Z",
+  "model": "glm-5.3"
+}

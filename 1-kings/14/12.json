@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 14:12",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "جدوں",
+      "rationale": "عبرانی وِچ 'تیرے پیر دے شہر وِچ آؤن اُتے' — پنجابی جملے لئی 'جدوں' پایا گیا"
+    }
+  ],
+  "translation": "تے تُوں، اُٹّھ کے اپنے گھر جا؛ تے جدوں تیرے پیر شہر وِچ آؤن، بچّہ مر جاوے گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "dbb17bd20bd454ab7a3d724cff54c7efa4af5f2a2f4fed7112991115887b66e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/14\/9-12.1792104499756.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "تے تُوں"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "اُٹّھ"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "جا"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "اپنے گھر"
+    },
+    {
+      "surface": "בבאה",
+      "gloss": "آؤن اُتے"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "تیرے پیر"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "شہر وِچ"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "مر جاوے گا"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "بچّہ"
+    }
+  ],
+  "timestamp": "2026-10-15T22:48:19.757487840Z",
+  "model": "glm-5.3"
+}

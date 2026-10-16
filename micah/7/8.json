@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 7:8",
+  "book": "micah",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "میرے ویری",
+      "rationale": "سدھی خطاب — ویری نوں مخاطب کیتا گیا۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "عبرانی وِچ پکار لئی کوئی نشان نئیں؛ پنجابی خطاب منگدا اے۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "נפלתי קמתי",
+      "rationale": "وقتے ماضی نیں پر مطلب 'میں ڈگیا تے اُٹھاں' — کجھ ترجمے اُٹھن نوں مستقبل لیندے نیں، کجھ پکا کہندے نیں۔"
+    }
+  ],
+  "translation": "میرے ویری، میرے اُتے خوش نہ ہو، کیونکہ میں ڈگیا، میں اُٹھاں؛ کیونکہ میں ہنیرے وِچ بیٹھاں، یاہوہ میرے لئی چانن اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6fb42ba567955f16c666c145c444f7fed2cb1743d17213a26e829831390c00c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/micah\/7\/5-8.1792111224359.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשמחי",
+      "gloss": "خوش ہو"
+    },
+    {
+      "surface": "איבתי",
+      "gloss": "میرے ویری"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرے اُتے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "נפלתי",
+      "gloss": "میں ڈگیا"
+    },
+    {
+      "surface": "קמתי",
+      "gloss": "میں اُٹھاں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "میں بیٹھاں"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "ہنیرے وِچ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "چانن"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرے لئی"
+    }
+  ],
+  "timestamp": "2026-10-16T00:40:24.360761283Z",
+  "model": "glm-5.3"
+}

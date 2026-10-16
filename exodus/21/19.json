@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 21:19",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "خرچ",
+      "rationale": "שבתו ایہدے آرام دا ویلہ اے — قانونی سیاق وِچ مالیاں دا مطلب اے، پنجابی وِچ «خرچ» بِنا مطلب ادھورا رہندا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ורפא ירפא",
+      "rationale": "فعلِ مطلق دی دوہرائی — «یقیناً چنگا کرے گا»، مکمل شفا دی ضمانت"
+    },
+    {
+      "kind": "substitution",
+      "subject": "مُلیا",
+      "rationale": "נקה دا مطلب پاک\/بری اے — قانونی ذمہ داری توں آزاد"
+    }
+  ],
+  "translation": "جے اوہ اُٹھے تے اپنے سوٹے دے سہارے باہر ٹُرے، تاں مارن والا مُلیا ہووے گا؛ صرف اوہ اوہدے آرام دا ⟨خرچ⟩ دے گا تے اوہنوں یقیناً چنگا کرے گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d5352c7f5f844fac632059f2264444e8979e24fa55031a1f48b238c59e18606d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/21\/17-20.1792096783995.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "اُٹھے"
+    },
+    {
+      "surface": "והתהלך",
+      "gloss": "تے ٹُرے پھرے"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "باہر"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "משענתו",
+      "gloss": "اپنے سوٹے"
+    },
+    {
+      "surface": "ונקה",
+      "gloss": "تے مُلیا ہووے"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "مارن والا"
+    },
+    {
+      "surface": "רק",
+      "gloss": "صرف"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "اوہدے آرام دا"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دے گا"
+    },
+    {
+      "surface": "ורפא",
+      "gloss": "تے چنگا"
+    },
+    {
+      "surface": "ירפא",
+      "gloss": "یقیناً کرے گا"
+    }
+  ],
+  "timestamp": "2026-10-15T20:39:43.996724891Z",
+  "model": "glm-5.3"
+}

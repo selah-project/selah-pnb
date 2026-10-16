@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 50:6",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "آپ ای",
+      "rationale": "הוא تاکیدی ضمیر اے، 'آپ ای' نال اوہدی لو دتی"
+    }
+  ],
+  "translation": "تے اسمان ⟨آہدے⟩ اوہدا راستبازی، کیوں جو ایلوہیم آپ ای منصف اے۔ سلاہ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bf13bd3ed971bfd0f5d86715090ab94a5dcb4a7732bec2946798fcb190971bbf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/50\/5-8.1792112545370.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "تے ⟨آہدے⟩"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "اسمان ⟨آہدے⟩"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "اوہدا راستبازی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "منصف"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "آپ ای"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سلاہ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:02:25.371627429Z",
+  "model": "glm-5.3"
+}

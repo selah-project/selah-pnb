@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 23:3",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "עברیت وِچ کوئی فعل نئیں، پنجابی جملے لئی چاہیدا"
+    },
+    {
+      "kind": "measurement",
+      "subject": "آمدنی، فصل",
+      "rationale": "آیت گنتی-لکھتی بول چال — فصل، آمدنی، سوداگری"
+    }
+  ],
+  "translation": "تے وڈے پانیاں وِچ شِحور دا بیج، دریا دی فصل — اوہدی آمدنی سی؛ تے اوہ قومیں دی سوداگری بن گئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7c36cc3299104b3e8ee553ff4388b6d1cb35ba6d4fa626f754d86fb8d7857ccf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/23\/1-4.1792106307105.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובמים",
+      "gloss": "تے پانیاں وِچ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "وڈے"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "بیج"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "شِحور"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "فصل"
+    },
+    {
+      "surface": "יאור",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "اوہدی آمدنی"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "تے ہوئی"
+    },
+    {
+      "surface": "סחר",
+      "gloss": "سوداگری"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قومیں دی"
+    }
+  ],
+  "timestamp": "2026-10-15T23:18:27.106551136Z",
+  "model": "glm-5.3"
+}

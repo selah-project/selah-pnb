@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 5:6",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עפלים",
+      "rationale": "'گلٹیاں' (tumors) یا 'ٹیلے\/گوڈ' (mounds) — دوویں مطلب عبرانی لفظ وِچ نیں؛ ترجمے گلتی منگدے نیں، عبرانی دوناں رکھ سکدا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "اوہ",
+      "rationale": "וישמם دا فاعل پنجابی جملے لئی دسن اپر آیا"
+    }
+  ],
+  "translation": "تے یاہوہ دا ہتھ اشدود والیاں اُتے بھاری ہویا، تے اوہ اوہناں نوں اجاڑ دتا، تے گلٹیاں نال اوہناں نوں ماریا ⟨את⟩، ⟨את⟩ اشدود نوں تے ⟨את⟩ اوہدیاں سرحداں نوں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d9183267ed3debf1aeb5b8f14e2e801ffb0a52b1deabeddd7fb69936a15bfbdd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/5\/5-8.1792102337616.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "تے بھاری ہویا"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "האשדודים",
+      "gloss": "اشدود والیاں"
+    },
+    {
+      "surface": "וישמם",
+      "gloss": "تے اجاڑ دتا"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "تے ماریا"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "اوہناں نوں"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "گلٹیاں نال"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اشدود نوں"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "اشدود"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "اوہدیاں سرحداں نوں"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "اوہدیاں سرحداں"
+    }
+  ],
+  "timestamp": "2026-10-15T22:12:17.617523072Z",
+  "model": "glm-5.3"
+}

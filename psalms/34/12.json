@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "آؤ پتر، میری سُنو",
+      "rationale": "استاد دی گلبات — پڑھن والے نوں بال بن کے سدیا گیا"
+    },
+    {
+      "kind": "you",
+      "subject": "پتر",
+      "rationale": "سِدھا مخاطب — پتر (شاگرد)"
+    },
+    {
+      "kind": "addition",
+      "subject": "تُہانوں",
+      "rationale": "کافی ضمیر — אלמדכם دے اندر 'تُساں' پہلےوں اے، پنجابی وچ وکھ لکھیا"
+    }
+  ],
+  "translation": "آؤ پتر، میری سُنو؛ یاہوہ دا ڈر تُہانوں سکھاندا ہاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "95135d11609701d8a44ef03261bde90c730b5875a370fa116b056eba0a669052",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/34\/9-12.1792112255622.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "آؤ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پتر"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "سُنو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میری"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ڈر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "تُہانوں سکھاندا ہاں"
+    }
+  ],
+  "timestamp": "2026-10-16T00:57:35.623251134Z",
+  "model": "glm-5.3"
+}

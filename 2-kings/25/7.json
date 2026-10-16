@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 25:7",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עור",
+      "rationale": "پنجابی 'اکھاں ٹپک دتیاں' — عبرانی دا مطلب اے جیہڑا اصل وچ 'اندھا کر دتا' اے"
+    }
+  ],
+  "translation": "تے اوہناں تِصدقیاہو دے پتراں نوں ⟨את⟩ اوہدیاں اکھاں اگے ذبح کیتا، تے تِصدقیاہو دیاں اکھاں ⟨את⟩ ٹپک دتیاں، تے اوہنوں تانبے دیاں زنجیراں نال بنّھیا تے اوہنوں بابل لیاندیاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4a33f1d20b527adee1b8f32585bb37f33c97779f8be64cb6a53d0775f5248124",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/25\/5-8.1792105712159.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "پتراں نوں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پتر"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "تِصدقیاہو"
+    },
+    {
+      "surface": "שחטו",
+      "gloss": "ذبح کیتا"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "اوہدیاں اکھاں اگے"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اکھاں"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "اکھاں"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "تِصدقیاہو"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ٹپک دتیاں"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "بنّھیا"
+    },
+    {
+      "surface": "בנחשתים",
+      "gloss": "تانبے دیاں زنجیراں نال"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "لیاندیاں"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    }
+  ],
+  "timestamp": "2026-10-15T23:08:32.160908913Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 28:9",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "شہم",
+      "rationale": "شہم: اونیکس\/بریل\/فیروزہ — قیمتی پتھر، اِکو پنجابی صورت رکھی۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "کُھولھیں",
+      "rationale": "פתח 'کھولھنا' اِکو کریا وارو وار آئی، مطلب نقش کرنا؛ ترجمے 'کندہ کرنا' کہندے نیں۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "دو پتھر",
+      "rationale": "دو پتھر، گیٹے دے ناواں دی گنتی — 28:10 نال جُڑی۔"
+    }
+  ],
+  "translation": "تے تُوں ⟨את⟩ دو شہم پتھر لئیں، تے تُوں اوہناں اُتے یِسرائیل دے پُتراں دے ناں کُھولھیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a455dad548e83e8729fdf79d3c1b001a7fad2a6efdd7d17575ac4f890142bdf7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/28\/9-12.1792096847783.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "تے تُوں لئیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دو شہم پتھر"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دو"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "پتھر"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "شہم"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "تے تُوں کُھولھیں"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "اوہناں اُتے"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ناں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں دے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-10-15T20:40:47.784086092Z",
+  "model": "glm-5.3"
+}

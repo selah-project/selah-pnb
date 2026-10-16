@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "habakkuk 2:4",
+  "book": "habakkuk",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨بندہ⟩",
+      "rationale": "עפלہ صفت اے، فاعل دی صریح گنتی عبرانی وِچ نئیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש گلا نئیں، ساہ\/جان ب اِک ہوندی اے — 'روح' نئیں"
+    },
+    {
+      "kind": "crux",
+      "subject": "באמונתו",
+      "rationale": "'اپنی امانت' — اوہدے پکے یقین نال؛ ایہہ آیت پول تے رومیاں دے وڈے حوالے بنی — پر ایتھے اگّوں جانے بِنا، تنخ دے اپنے سیاق وِچ"
+    },
+    {
+      "kind": "mystery",
+      "subject": "עפלה",
+      "rationale": "سوجھیا ہویا کوݨ اے — آیت خود ناں نئیں لیندی، سیاق توں پچھلی آیت دے کُجھ ہٹھیارے آدمی"
+    }
+  ],
+  "translation": "ویکھو، سوجھیا ہویا ⟨بندہ⟩ — اوہدی جان اوہدے وِچ سِدھی نئیں؛ پر راست باز اپنی امانت نال جیوے گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e9bb43088c6a26ccedc2ae0806c882cdff61045a6b946e3af7165b05ace4c4b6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/habakkuk\/2\/1-4.1792111244761.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ویکھو"
+    },
+    {
+      "surface": "עפלה",
+      "gloss": "سوجھیا ہویا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "سِدھی"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "اوہدی جان"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوہدے وِچ"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "پر راست باز"
+    },
+    {
+      "surface": "באמונתו",
+      "gloss": "اپنی امانت نال"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "جیوے گا"
+    }
+  ],
+  "timestamp": "2026-10-16T00:40:44.762415168Z",
+  "model": "glm-5.3"
+}

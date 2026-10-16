@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 38:23",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "رَکّھے ہوئے بھنڈار",
+      "rationale": "چھپا کے رَکّھے ہوئے شَلے — بُرے ویلے لئی یاہوہ دے کول مُحفوظ"
+    },
+    {
+      "kind": "addition",
+      "subject": "میں",
+      "rationale": "חשכתי پہلی شخص اے — صیغہ پنجابی وِچ ضمیر منگدا اے"
+    }
+  ],
+  "translation": "جیہڑے میں مُصیبت دے ویلے لئی، لَڑائی تے جَنگ دے دِن لئی رَکّھے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7f3bcddf8957dfa69d99b4fcd933a31116a69114508ac44a828cc81783f1928b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/38\/21-24.1792116465315.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑے"
+    },
+    {
+      "surface": "חשכתי",
+      "gloss": "میں … رَکّھے نیں"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "… دے ویلے لئی"
+    },
+    {
+      "surface": "צר",
+      "gloss": "مُصیبت"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "… دے دِن لئی"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "لَڑائی"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "تے جَنگ"
+    }
+  ],
+  "timestamp": "2026-10-16T02:07:45.316372552Z",
+  "model": "glm-5.3"
+}

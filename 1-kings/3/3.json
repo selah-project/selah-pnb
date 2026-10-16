@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 3:3",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نوں…نال",
+      "rationale": "אהב عبرانی وِچ کرم مفعولی لیندا اے، پنجابی وِچ 'نوں…نال پیار' بندا اے۔"
+    },
+    {
+      "kind": "alternative",
+      "subject": "חקות",
+      "rationale": "'حکم' یا 'ریت' وی ہو سکدا اے؛ לفظ نسلی مقررہ ریت تے حکم دوویں دسدا اے۔"
+    }
+  ],
+  "translation": "تے شلوموہ نوں ⟨את⟩ یاہوہ نال پیار سی، اوہدے پیو داوِد دے قنوناں اُتے ٹرن لئی؛ صرف اوہ اُچیاں تھاواں اُتے قربانی کردا تے خوشبو ساڑدا سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "13bc83cd5ee81310752fa8490abb43c74b033ccb7bf71fcc2aa250165d31d2fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/3\/1-4.1792104039600.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "تے پیار سی"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلوموہ نوں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ٹرن لئی"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "قنوناں اُتے"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "اوہدے پیو"
+    },
+    {
+      "surface": "רק",
+      "gloss": "صرف"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "اُچیاں تھاواں اُتے"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "قربانی کردا"
+    },
+    {
+      "surface": "ומקטיר",
+      "gloss": "تے خوشبو ساڑدا سی"
+    }
+  ],
+  "timestamp": "2026-10-15T22:40:39.601096168Z",
+  "model": "glm-5.3"
+}

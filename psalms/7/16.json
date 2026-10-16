@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 7:16",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "آپ",
+      "rationale": "عبرانی وچ 'ڈِگ پیا' دا کردار 'اوہ' اے، پنجابی وچ 'آپ' ⟨نئیں⟩ دین نال واضح کیتا — عبرانی دی واہ نال"
+    }
+  ],
+  "translation": "اوہناں اک ٹوئی کھودی تے اوہنوں ڈونگھا کیتا، تے آپ اوہدے وچ ڈِگ پیا جیہڑا ٹوئی اوہناں پئی بھور کے بنایا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "cde8a333cd66e7f1e6340b4957c7a2c26ead845377c63444c6458b18cbe08ba2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/7\/13-16.1792111780151.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בור",
+      "gloss": "اِک ٹوئی"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "کھودی"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "تے اوہنوں ڈونگھا کیتا"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "تے آپ ڈِگ پیا"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "اوہدے وچ ٹوئی"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "پئی بھور کے بنایا"
+    }
+  ],
+  "timestamp": "2026-10-16T00:49:40.152506964Z",
+  "model": "glm-5.3"
+}

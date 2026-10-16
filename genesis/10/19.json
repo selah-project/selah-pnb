@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 10:19",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "tokenization-error",
+      "subject": "v19",
+      "rationale": "اجیہا نئیں — ایہ دھیان اے: اُتے tokens دی گنتی ٹُٹ گئی، پوری 15 ٹوکن دی لڑی واپس نئیں دتی جا سکی۔"
+    }
+  ],
+  "translation": "تے کنعانی دا ہندا باٹن صیدون توں گِرار ولّ آؤن تے عزّہ تک، سدوم، تے عمورہ، تے ادماہ، تے تصبویim ولّ آؤن تے لَشع تک۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bc613200da5eb1e09cbc1b28970cb6bfa0959dc458ac71ee07ab0c6f4f0b80ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/10\/17-20.1792094872248.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובאכה סדמה",
+      "gloss": "ولّ آؤن تے سدوم"
+    },
+    {
+      "surface": "ועמרה",
+      "gloss": "تے عمورہ"
+    },
+    {
+      "surface": "ואדמה",
+      "gloss": "تے ادماہ"
+    },
+    {
+      "surface": "וצבים",
+      "gloss": "تے تصبویim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "לשע",
+      "gloss": "لَشع"
+    }
+  ],
+  "timestamp": "2026-10-15T20:07:52.249286542Z",
+  "model": "glm-5.3"
+}

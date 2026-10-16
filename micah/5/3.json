@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 5:3",
+  "book": "micah",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "چراوے گا",
+      "rationale": "רעה پشو چران دا کم اے — بادشاہی مثال، چرواہا-بادشاہ دی تصویر، پنجابی ‘چرانا’ اوہو شکل رکھدا اے۔"
+    },
+    {
+      "kind": "alternative",
+      "subject": "وِچ ٹکے رہن گے",
+      "rationale": "וישבوں نوں ‘بسے رہن گے’ یا ‘امن نال بیٹھن گے’ وی پڑھیا جاندا اے — جڑ ی-ש-ب بیٹھن\/وسن دوویں۔"
+    }
+  ],
+  "translation": "تے اوہ کھلووے گا تے یاہوہ دی طاقت نال، یاہوہ اوہدے ایلوہیم دے ناں دے جلال نال ⟨ریوڑ⟩ چراوے گا؛ تے اوہ ٹکے رہن گے، کیونکہ ہن اوہ دھرتی دے کنڈیاں تک وڈا ہووے گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fd042cacb034b13224914456eb692242e8f445cd7247fed84813681268e0f31e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/micah\/5\/2-3.1792124123774.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועמד",
+      "gloss": "تے کھلووے گا"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "تے چراوے گا"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "طاقت وِچ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בגאון",
+      "gloss": "جلال وِچ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "اوہدے ایلوہیم دے"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "تے اوہ ٹکے رہن گے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ہن"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "وڈا ہووے گا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "کنڈیاں"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "دھرتی"
+    }
+  ],
+  "timestamp": "2026-10-16T04:15:23.775406482Z",
+  "model": "glm-5.3"
+}

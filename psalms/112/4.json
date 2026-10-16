@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 112:4",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 112,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "مہربان رحم والا سچا — کس لئی؟",
+      "rationale": "ایہ تِن صفتاں یاہوہ دیاں نیں (خروج 34:6) — پرایتھے سِدھے بندے لئی نیں یا خدا لئی، مترجم ونڈے ہوئے نیں"
+    },
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "عبرانی وِچ کاربہ نئیں، تِن صفتاں تِناں بِنا فعل"
+    }
+  ],
+  "translation": "سِدھیاں لئی ہنیرے وِچ چانں چڑھدا اے — مہربان، رحم والا تے سچا ⟨اے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d4924ae05067b5716ba309e8db4bc8e4802d406f50a70a7b1937889f1361042b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/112\/1-4.1792113678705.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זרח",
+      "gloss": "چڑھدا اے"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "ہنیرے وِچ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "چانں"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "سِدھیاں لئی"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "مہربان"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "رحم والا"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "سچا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:21:18.706987916Z",
+  "model": "glm-5.3"
+}

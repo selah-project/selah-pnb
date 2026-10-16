@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 24:8",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "نَوں مہینے تے ویہہ دِن",
+      "rationale": "گنتی دا سفر — مردم شماری دا سارا ویلا ناپیا گیا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "וישטו",
+      "gloss": "'پھردے رہے' — مول لفظ کُوڑے مارن\/لہرائن دا چِتر اے، ادھر ادھر گھمݨ"
+    }
+  ],
+  "translation": "تے اوہ ساری زمین وِچ پھردے رہے، تے نَوں مہینیاں تے ویہہ دناں دے مُک توں بعد یروشلایم آئے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "64457e4ec994ba250abfd05a1ea22aa0a383c5b3787cd50b17a8827deeebff04",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/24\/5-8.1792103847156.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישטו",
+      "gloss": "پھردے رہے"
+    },
+    {
+      "surface": "بכל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین وِچ"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "آئے"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "مُک توں"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "نَوں"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "مہینے"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "تے ویہہ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "دِناں"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یِروشلایم"
+    }
+  ],
+  "timestamp": "2026-10-15T22:37:27.157379780Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 1:9",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לולי",
+      "rationale": "'جے…نہ' اکو ٹوکن وچ شرطی نفی؛ کجھ ترجمے 'سویر ہی' (کم معط) پڑھدے نیں۔"
+    },
+    {
+      "kind": "alternative",
+      "subject": "שריד כמעט",
+      "rationale": "واون والی گنتی نوں صفت منیا اے ('تھوڑے جئے بچن والے')، دو وکھرے ناں نئیں۔"
+    }
+  ],
+  "translation": "جے یاہوہ تصواوت ساڈے لئی تھوڑے جئے بچن والے نہ چھڈدا، تاں اسیں سدوم وانگ ہوجاندے، عاموراہ نال ملدے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fcfdbc9c76af9b83e210a0543159b4583687a5a8484808fc6d8bb80296f62090",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/1\/9-12.1792105732342.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "جے…نہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "تصواوت"
+    },
+    {
+      "surface": "הותיר",
+      "gloss": "چھڈدا"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ساڈے لئی"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "بچن والے"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "تھوڑے جئے"
+    },
+    {
+      "surface": "כסדם",
+      "gloss": "سدوم وانگ"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "ہوجاندے"
+    },
+    {
+      "surface": "לעמרה",
+      "gloss": "عاموراہ نال"
+    },
+    {
+      "surface": "דמינו",
+      "gloss": "ملدے"
+    }
+  ],
+  "timestamp": "2026-10-15T23:08:52.342907822Z",
+  "model": "glm-5.3"
+}

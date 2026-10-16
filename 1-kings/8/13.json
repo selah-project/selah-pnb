@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 8:13",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בנה בניתי",
+      "rationale": "مسدر+فعل دا جوڑ — ‘بنا کے بنایا’ — یقین دی مضبوطی، پنجابی وِچ اِکو وزن نئیں رہندا۔"
+    },
+    {
+      "kind": "alternative",
+      "subject": "زبُل",
+      "rationale": "زیبُل تھاں\/رہائش اے؛ ‘ماسٹ رہݨ دی تھاں’ وضاحت ⟨⟩ وِچ رکھی اے۔"
+    }
+  ],
+  "translation": "بنا کے بنایا اے میں نے اِک گھر — زبُل ⟨رہݨ دی تھاں⟩ تیرے لئی، اِک پکا ٹکاݨاں تیرے بیٹھن لئی، سداں تک۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "10ba86f01d7f4300c2161cb60d124891de103b54c4b9961008b499c1f1e86033",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/8\/13-16.1792104290756.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "بنا کے"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "بنایا اے میں نے"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "زبُل ⟨رہݨ دی تھاں⟩"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیرے لئی"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "پکا ٹکاݨاں"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "تیرے بیٹھن لئی"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "سداں تک"
+    }
+  ],
+  "timestamp": "2026-10-15T22:44:50.756522590Z",
+  "model": "glm-5.3"
+}

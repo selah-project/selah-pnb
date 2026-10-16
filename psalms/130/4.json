@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 130,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "پنجابی نوں ضمیرِ ربط چاہیدی اے، عبرانی وِچ نئیں"
+    },
+    {
+      "kind": "addition",
+      "subject": "تاں جو",
+      "rationale": "למען مقصد دسدا اے؛ پنجابی جملہ 'تاں جو' منگدا اے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "خوف",
+      "rationale": "תורא نفعی نوں 'تُوں قابلِ ڈر ایں' وی پڑھیا جا سکدا اے"
+    }
+  ],
+  "translation": "کیوں جو تیرے نال ⟨اے⟩ بخشش، ⟨تاں جو⟩ تُوں توں ڈر کیتا جائے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "84480e29bf9e0e8c27bd72155b9b0c352fcbe0bfba07aac9ba4891bf0a39311b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/130\/4-4.1792124170178.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تیرے نال"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "بخشش"
+    },
+    {
+      "surface": "למען",
+      "gloss": "⟨تاں جو⟩"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "تُوں توں ڈر کیتا جائے"
+    }
+  ],
+  "timestamp": "2026-10-16T04:16:10.178808259Z",
+  "model": "glm-5.3"
+}

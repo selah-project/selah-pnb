@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 11:22",
+  "book": "2-chronicles",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ منگدا سی⟩",
+      "rationale": "عبرانی صرف مصدر رکھدا اے 'اوہنوں بادشاہ بناؤن لئی'؛ فعل پنجابی نے پایا۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "כי להמליכו",
+      "rationale": "'کیونکہ اوہ منگدا سی اوہنوں بادشاہ بناؤنا' — کجھ مترجم 'کیونکہ اوہ بادشاہ بناؤن دا ارادہ رکھدا سی' پڑھدے نیں۔"
+    }
+  ],
+  "translation": "تے رُحبعام نے مَعاخاہ دے پُتر ⟨את⟩ اَویاہ نوں اوہدے بھراواں وِچ مُکھ تے سردار مقرر کیتا، کیونکہ ⟨اوہ منگدا سی⟩ اوہنوں بادشاہ بناؤنا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4337324f77623c2d2611cc6b46399a92381d1ffb28119804d9158be8c670f5c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/11\/21-23.1792121885393.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "مقرر کیتا"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "مُکھ"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "رُحبعام"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَویاہ نوں"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "اَویاہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "مעכה",
+      "gloss": "مَعاخاہ"
+    },
+    {
+      "surface": "לנגיד",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "اوہدے بھراواں وِچ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "להמליכו",
+      "gloss": "اوہنوں بادشاہ بناؤنا"
+    }
+  ],
+  "timestamp": "2026-10-16T03:38:05.394277315Z",
+  "model": "glm-5.3"
+}

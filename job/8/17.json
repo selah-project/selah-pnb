@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 8:17",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "גל",
+      "rationale": "'پتھراں دا ڈیرا' بمقابلہ جنیوا\/کے جے وی 'چشمہ' — اے جڑ دا ساہمنا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩",
+      "rationale": "عبرانی وِچ فاعل دی ضمیر وکھری لفظ نئیں، پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "יחזה",
+      "rationale": "'ویکھدا اے' — کجھ مترجم 'اوہدی اُڈیک\/تلاش کردا اے' لیندے نیں"
+    }
+  ],
+  "translation": "اوہدیاں جڑاں پتھراں دے ڈیرے اُتے لپٹیاں ہویاں نیں، پتھراں دے گھر ⟨اوہ⟩ ویکھدا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "115f7f93859ebda55517b4ccb791b2859a05f7e8c6da8d5efda980af002312ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/8\/17-20.1792115492358.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "גל",
+      "gloss": "پتھراں دا ڈیرا"
+    },
+    {
+      "surface": "שרשיו",
+      "gloss": "اوہدیاں جڑاں"
+    },
+    {
+      "surface": "יסבכו",
+      "gloss": "لپٹیاں ہویاں نیں"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "پتھراں دے"
+    },
+    {
+      "surface": "יחזה",
+      "gloss": "ویکھدا اے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:51:32.358941489Z",
+  "model": "glm-5.3"
+}

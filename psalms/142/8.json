@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 142:8",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 142,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יכתרו",
+      "rationale": "'encompass\/crown me' — KJV 'compass me about' vs JPS 'crown themselves because of me'; rendered as gathering around."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ממסגר",
+      "rationale": "Rare word: fastener\/smith\/prison; rendered قید خانہ (prison)."
+    },
+    {
+      "kind": "you",
+      "subject": "to YHWH",
+      "rationale": "Prayer imperative addressed to یاہوہ."
+    }
+  ],
+  "translation": "میری جان نوں قید خانے توں کڈھ، تاں جو میں ⟨את⟩ تیرے ناں دا دھنواد کراں؛ سچے لوک میرے دوالے ہون گے، کیونکہ توں میرے اُتے چنگائی کرینگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ae674d83557acf8694250d0bbacfd6bdc9e0175bad776174ee6071f57e9f6862",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/142\/5-8.1792114150473.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוציאה",
+      "gloss": "کڈھ"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "قید خانے توں"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میری جان نوں"
+    },
+    {
+      "surface": "להודות",
+      "gloss": "تاں جو دھنواد کراں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تیرے ناں"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "تیرے ناں"
+    },
+    {
+      "surface": "בי",
+      "gloss": "میرے دوالے"
+    },
+    {
+      "surface": "יכתרו",
+      "gloss": "ہون گے"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "سچے لوک"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "תגמל",
+      "gloss": "چنگائی کرینگا"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "میرے اُتے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:29:10.474067710Z",
+  "model": "glm-5.3"
+}

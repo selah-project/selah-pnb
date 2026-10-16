@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 37:11",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "שמר",
+      "rationale": "'رکھیا\/چرکھیا' — شَمار دا مڈھلی مطلب 'پہرہ دینا' اے، پنجابی 'منّ وِچ رکھی' دوویں ولواں لیندا اے"
+    }
+  ],
+  "translation": "تے اوہدے بھرا اوہدے وِچ سڑ گئے، پر اوہدا پیو ⟨את⟩ اوہ گل منّ وِچ رکھی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "21a7c6126ef579e35247b0fe701e97d9023291e430c1f2672301550953d5f720",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/37\/9-12.1792095571018.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "تے سڑ گئے"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوہدے وِچ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "اوہدے بھرا"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "تے اوہدا پیو"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "منّ وِچ رکھی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہ گل"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "اوہ گل"
+    }
+  ],
+  "timestamp": "2026-10-15T20:19:31.020782289Z",
+  "model": "glm-5.3"
+}

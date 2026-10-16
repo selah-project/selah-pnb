@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "habakkuk 2:13",
+  "book": "habakkuk",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בדי",
+      "rationale": "بדی — 'لئی ہی' (ASV: for the fire) بمقابلہ 'بہت زیادہ اگّ وِچ' (KJV: in the very fire)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ריק",
+      "rationale": "ריק literally 'خالی\/ناسور' — 'بیکار' دا خیال، 'ناسور' صورت رکھی"
+    }
+  ],
+  "translation": "کیہ ایہہ ⟨את⟩ یاہوہ تصواوت دے ⟨مאת⟩ توں نئیں، کہ قوماں اگّ لئی ہی محنت کردیاں نیں تے جِنّاں ناسور وِچ ہی تھکّ جان گیاں؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "218762e25dcd6fd7df4556953228a5a330ff61ec62eea356885682f179ecedd3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/habakkuk\/2\/13-16.1792111238178.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "کیہ…نئیں"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ویکھو"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ توں",
+      "marks": "یاہوہ تصواوت توں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "تصواوت"
+    },
+    {
+      "surface": "וייגעו",
+      "gloss": "تے…محنت کردیاں نیں"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "قوماں"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "لئی ہی"
+    },
+    {
+      "surface": "אש",
+      "gloss": "اگّ"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "تے جِنّاں"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "وِچ ہی"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "ناسور"
+    },
+    {
+      "surface": "יעפו",
+      "gloss": "تھکّ جان گیاں"
+    }
+  ],
+  "timestamp": "2026-10-16T00:40:38.179115740Z",
+  "model": "glm-5.3"
+}

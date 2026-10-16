@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 42:6",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אמאס",
+      "rationale": "مفعول عبرانی وِچ نئیں: 'میں ⟨اپنے آپ نوں⟩ گھنّدا ہاں' (KJV) بمقابلہ 'میریاں گلاں' (JPS) — دوویں پرکھیون جائزاں نیں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עפר\/ואפר",
+      "rationale": "مٹی (עפר) تے سواہ (אפר) — اِک اکھر دا فرق، پنجابی وِچ ایہہ جوڑ مک جاندا اے"
+    }
+  ],
+  "translation": "اس لئی میں ⟨اپنے آپ نوں⟩ گھنّدا ہاں تے مٹی تے سواہ وِچ ندمت کردا ہاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5db31f43f4df2a58f39b067c03851af0a814403ecfba73dcddd4ad016dfce239",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/42\/5-8.1792116822698.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "اس"
+    },
+    {
+      "surface": "כן",
+      "gloss": "لئی"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "میں ⟨اپنے آپ نوں⟩ گھنّدا ہاں"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "تے ندمت کردا ہاں"
+    },
+    {
+      "surface": "על",
+      "gloss": "تے"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "مٹی"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "سواہ وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T02:13:42.699432786Z",
+  "model": "glm-5.3"
+}

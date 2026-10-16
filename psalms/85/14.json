@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 85:14",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "قدمےآں",
+      "rationale": "פעמיו ستھال ستھال دے وار نیں (پیر دا وار)، 'قدمے' سبھ توں نزدیکی تصویر اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "לדרך פעמיו",
+      "rationale": "KJV 'ساہنوں اودے قدمےآں دے رستے وِچ پاویگی' vs JPS\/ASV 'اودے قدمےآں نوں رستہ بنیگی' — صداقت قدمےآں دا رستہ بناؤندی اے جاں لوکاں نوں اوس رستے وِچ پیندی اے"
+    }
+  ],
+  "translation": "صداقت اودے اگے ٹریگی، تے اودے قدمےآں دا رستہ بنیگی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "cf0931526d8497ec42f1c5180566b79e392002d141456bdd64445ef32aba1d3e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/85\/13-14.1792113198085.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "صداقت"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "اودے اگے"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "ٹریگی"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "تے بنیگی"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "دا رستہ"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "اودے قدمےآں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:13:18.086551398Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 18:29",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "چربی",
+      "rationale": "חלב دا مطلب چربی اے — بھاویں 'سبھ توں ودھیا حصہ' دا اشارہ وی اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨حصہ⟩",
+      "rationale": "מקדשו اسم صفت اے؛ پنجابی نوں 'حصہ' لوڑدا اے"
+    }
+  ],
+  "translation": "اپنیاں ساریاں داتاں وِچوں تُساں یاہوہ دی ساری تَرمُوت ⟨את⟩ چُکو، سارے اوہدے چربی وِچوں ⟨את⟩ اوہدا مقدس ⟨حصہ⟩ اوہدے وِچوں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "cf564fbff3a1cd1ae4458c8717dfb905cc8c8bde246427e33ff68902b733b240",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/18\/29-32.1792098864483.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "ساریاں … وِچوں"
+    },
+    {
+      "surface": "מתנתיכם",
+      "gloss": "اپنیاں داتاں"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "تُساں چُکو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ساری تَرمُوت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "تَرمُوت دی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "سارے … وِچوں"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "اوہدے چربی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہدا مقدس حصہ"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "اوہدا مقدس ⟨حصہ⟩"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "اوہدے وِچوں"
+    }
+  ],
+  "timestamp": "2026-10-15T21:14:24.483595472Z",
+  "model": "glm-5.3"
+}

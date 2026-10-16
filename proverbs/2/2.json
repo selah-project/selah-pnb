@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 2:2",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "کہ",
+      "rationale": "عبرانی وِچ بیٹھک دا حالتی لفظ اے، پنجابی جوڑ لئی 'کہ' پایا گیا"
+    }
+  ],
+  "translation": "کہ تُو اپنا کَن حکمت ولِّ لَائیں تے اپنا دل سمجھ ولِّ جُھکاویں،",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6aba919b2ae6305385c391d93c0fef0b8588fd88c7bd5358683e953ff4cbeb3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/2\/1-4.1792114437222.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להקשיב",
+      "gloss": "کہ تُو … کَن لَائیں"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "حکمت ولِّ"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "اپنا کَن"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "جُھکاویں"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "اپنا دل"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "سمجھ ولِّ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:33:57.223313151Z",
+  "model": "glm-5.3"
+}

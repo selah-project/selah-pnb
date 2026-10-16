@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 28:22",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ابدون",
+      "rationale": "אבדון دا حرف-نقل رکھیا — 'بربادی' اکلا ترجمہ تھوڑا پیندا اے کیونجے ایتھے اک شخصیت والا ناں اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "اودی",
+      "rationale": "שמעה وِچ سرکنڈا (דרکہ\/عقل\/حکمت دا) صیغے وِچ اے پر پنجابی نوں اوہ شوہندا لفظ چاہیدا سی۔"
+    }
+  ],
+  "translation": "ابدون تے موت آکھدے نیں: ساڈے کناں نال اسیں اودی آواز سنی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6837f6c3e11bcc2dfd6eb84a9f511893cee697ba4a8645f5e2ea501c450ab297",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/28\/21-24.1792116069003.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבדון",
+      "gloss": "ابدون"
+    },
+    {
+      "surface": "ומות",
+      "gloss": "تے موت"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "آکھدے نیں"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "ساڈے کناں نال"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "اسیں سنی اے"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "اودی آواز"
+    }
+  ],
+  "timestamp": "2026-10-16T02:01:09.003899640Z",
+  "model": "glm-5.3"
+}

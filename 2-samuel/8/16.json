@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 8:16",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "مذکِر",
+      "rationale": "מזכיר شاہی دربار دا یاد رکھن والا\/دستاویز کار اے؛ ملازمت دا ناں، رُتبہ نئیں"
+    },
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "عبرانی وِچ کوئی کریا نئیں؛ پنجابی جملہ منگدا اے"
+    }
+  ],
+  "translation": "تے یوآب، زرویاہ دا پُتر، فوج تے سی؛ تے یہوشافات، احیلود دا پُتر، مذکِر سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2aaccc21eceeb9b75630fb673a1059499f8ac5adfb415142ac5ec3ef5657177f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/8\/13-16.1792103233366.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "تے یوآب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "صרויה",
+      "gloss": "زرویاہ دا"
+    },
+    {
+      "surface": "על",
+      "gloss": "تے"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "فوج"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "تے یہوشافات"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "احیلود دا"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "مذکِر"
+    }
+  ],
+  "timestamp": "2026-10-15T22:27:13.368059062Z",
+  "model": "glm-5.3"
+}

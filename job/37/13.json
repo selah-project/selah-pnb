@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 37:13",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨سزاء⟩ ⟨رحم⟩",
+      "rationale": "عبرانی صرف 'ڈنڈی' تے 'خیسِد' آکھدا اے؛ وضاحت پنجابی جملے لئی پایا۔"
+    },
+    {
+      "kind": "alternative",
+      "subject": "אם",
+      "rationale": "کجھ مترجم 'جے' (شرطی) لیندے نیں، کجھ 'یا' (تخیریجی) — جنساں دی لسٹ دا سیاق 'یا' نوں زور دیندا اے۔"
+    }
+  ],
+  "translation": "یا ڈنڈی ⟨سزاء⟩ لئی، یا اوس دی دھرتی لئی، یا خیسِد ⟨رحم⟩ لئی — اوہ ایہہ نوں آؤن دندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8f2d6ac9930f7c890f8d93283c82a9027694557f29b444edcd63cf91a1d23f62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/37\/13-16.1792116453863.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "یا"
+    },
+    {
+      "surface": "לשבט",
+      "gloss": "ڈنڈی لئی"
+    },
+    {
+      "surface": "אם",
+      "gloss": "یا"
+    },
+    {
+      "surface": "לארצו",
+      "gloss": "اوس دی دھرتی لئی"
+    },
+    {
+      "surface": "אם",
+      "gloss": "یا"
+    },
+    {
+      "surface": "לחסד",
+      "gloss": "خیسِد لئی"
+    },
+    {
+      "surface": "ימצאהו",
+      "gloss": "اوہ ایہہ نوں آؤن دندا اے"
+    }
+  ],
+  "timestamp": "2026-10-16T02:07:33.864118434Z",
+  "model": "glm-5.3"
+}

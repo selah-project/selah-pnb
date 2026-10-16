@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 58:9",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "شבלול",
+      "rationale": "شیل\/گھونگھا — کجھ مفسر 'گھسیل' منندے نیں؛ شکل رکھی گئی۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "گرّیا ہویا ⟨بچہ⟩",
+      "rationale": "נפל 'گرّیا ہویا' اے — 'جان بجھ کے بچہ' دا لفظ عبرانی وِچ نئیں۔"
+    },
+    {
+      "kind": "hapax",
+      "subject": "תמס",
+      "rationale": "پگھلنا-مکّ جانا — بہت گھٹ ورتیا جاندا اے۔"
+    }
+  ],
+  "translation": "جیویں شیل پگھلدا ہویا ٹُر جاوے، عورت دا گرّیا ہویا ⟨بچہ⟩ سورج نوں ویکھے ای نئیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ea2bc0f6056bf10dd255aee67c697fe854f5f7cff9f4b2e24ed5ae95ffd77e08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/58\/9-12.1792112684847.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "שבלול",
+      "gloss": "شیل"
+    },
+    {
+      "surface": "תמס",
+      "gloss": "پگھلدا-ہویا"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "ٹُر-جاوے"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "گرّیا-ہویا ⟨بچہ⟩"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "عورت-دا"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ای-نئیں"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "ویکھے"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "سورج"
+    }
+  ],
+  "timestamp": "2026-10-16T01:04:44.848067344Z",
+  "model": "glm-5.3"
+}

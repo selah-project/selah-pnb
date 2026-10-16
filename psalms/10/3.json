@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جیون-زور اے، ’روح‘ نئیں — ’جان دی خواہش‘ ایہدے نیڑے اے۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "ובצע ברך נאץ יהוה",
+      "rationale": "KJV ’جس نوں رب نافرمان کرے اوہدے تے برکت دیندا اے‘؛ ASV\/JPS ’لالچی یاہوہ نوں نکوہ کردا اے‘ — دوجا پڑھائی اپنائی۔"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ובצע",
+      "rationale": "’منافع خور‘ بطور صفت، ’لُٹ لَین والا‘ دے برابر۔"
+    }
+  ],
+  "translation": "کیوں جو بدکار اپنی جان دی خواہش تے فخر کردا اے، تے لُٹ لَین والا برکت دیندا اے، یاہوہ نوں نکوہ کردا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "64b7c75c8ddef3e9eb6a115d81ce206838af1db8d70ce08a7d5c22a9f9020d50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/10\/1-4.1792111994451.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "فخر کردا اے"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "על",
+      "gloss": "تے"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "خواہش"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "اپنی جان دی"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "تے لُٹ لَین والا"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "برکت دیندا اے"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "نکوہ کردا اے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ نوں"
+    }
+  ],
+  "timestamp": "2026-10-16T00:53:14.452357779Z",
+  "model": "glm-5.3"
+}

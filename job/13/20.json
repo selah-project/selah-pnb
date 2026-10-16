@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 13:20",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "خطاب یاہوہ نوں",
+      "rationale": "ایوب خدا نوں دو شرطاں رکھدا اے — اگلیاں آیتاں وِچ اوہناں دا ذکر"
+    },
+    {
+      "kind": "substitution",
+      "subject": "دو گلاں",
+      "rationale": "عبرانی صرف عدد 'دو' اے؛ 名དلة 'گلاں' سیاق توں پایا گیا"
+    }
+  ],
+  "translation": "صرف دو گلاں میرے نال نہ کریں؛ فیر میں تیرے چہرے توں نہ لُکاں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "af8155e1ebacaefae083116b7972d514a09ef593f1a17cd829fbf19eda2cc4e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/13\/17-20.1792115666623.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "صرف"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "دو گلاں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעש",
+      "gloss": "کریں"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "میرے نال"
+    },
+    {
+      "surface": "אז",
+      "gloss": "فیر"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "تیرے چہرے توں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "لُکاں گا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:54:26.624769573Z",
+  "model": "glm-5.3"
+}

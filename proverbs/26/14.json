@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 26:14",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "پھردا اے",
+      "rationale": "دوجی مثل لئی فعل دہرایا گیا، عبرانی وِچ صرف اِک وار اے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "بازیں",
+      "rationale": "ציר شکل وِچ دباو نال پھرن والی کِیل اے — 'بازیں' سبھ توں نیڑے، مگر تصویر تھوڑی وکھری اے۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "על … על",
+      "rationale": "دوویں مصرعیاں وِچ اکو حرف اُتے — تُرنا دروازے دے تے سُست دے، تشبیہ دی چیس۔"
+    }
+  ],
+  "translation": "دروازہ اپنے بازیں اُتے پھردا اے، تے سُست اپنے بستے اُتے ⟨پھردا اے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9303938cdea077702843c108027c0b092f80a992ef27443ebd0a0086bfd5a494",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/26\/13-16.1792115120201.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הדלת",
+      "gloss": "دروازہ"
+    },
+    {
+      "surface": "תסוב",
+      "gloss": "پھردا اے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "צירה",
+      "gloss": "اپنے بازیں"
+    },
+    {
+      "surface": "ועצל",
+      "gloss": "تے سُست"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "مטתו",
+      "gloss": "اپنے بستے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:45:20.202126602Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 97,
+  "ref": "psalms 119:97",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מה אהבתי",
+      "rationale": "exclamatory 'what\/how' — 'کیوں پیاری اے' exclamation, not a question"
+    },
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "copula supplied for the exclamation, Hebrew has none"
+    }
+  ],
+  "translation": "مینوں کیوں پیاری اے تیری تورات! سارا دن اوہ میری سوچ-بچار اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ca75195e5bc9a719cc360d1115e5e3fe88c81cfbdb6c45cd3970420370d65d07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/119\/97-100.1792113893191.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "مینوں پیاری اے"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "تیری تورات"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "היא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "שיחתי",
+      "gloss": "میری سوچ-بچار"
+    }
+  ],
+  "timestamp": "2026-10-16T01:24:53.191696707Z",
+  "model": "glm-5.3"
+}

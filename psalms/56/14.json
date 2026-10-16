@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 56:14",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הלא",
+      "rationale": "سوال پڑھنا (کی تُوں نے نئیں بچائے؟) بناں پڑھنا (تُوں نے بچائے) — KJV سوال، BSB اعلان"
+    },
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جان-قوت اے، صرف 'روح' نئیں"
+    },
+    {
+      "kind": "addition",
+      "subject": "تاں جو",
+      "rationale": "عبرانی وِچ مقصد دا لفظ نئیں، ہیشین کہندا اے"
+    }
+  ],
+  "translation": "کیونجے تُوں نے میری جان موت توں بچائی؛ کی تُوں نے میرے پیر ٹلن توں نئیں ⟨بچائے⟩؟ ⟨تاں جو⟩ میں ایلوہیم دے ساہمنے، جیوندیاں دے چانن وِچ ٹُراں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8ce15f1bd49ea8a6c5a21311a0669f0a6c2ccf07f0cb165dd82d2a66b4fc59d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/56\/13-14.1792112622710.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "הצלת",
+      "gloss": "تُوں نے بچائی"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میری جان"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "موت توں"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "کی … نئیں"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "میرے پیر"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "ٹلن توں"
+    },
+    {
+      "surface": "להתהלך",
+      "gloss": "ٹُراں"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "دے ساہمنے"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "באור",
+      "gloss": "چانن وِچ"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "جیوندیاں دے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:03:42.711617760Z",
+  "model": "glm-5.3"
+}

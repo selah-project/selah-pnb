@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 10:11",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הנשארים\/השאיר\/שריד",
+      "rationale": "اوہو جڑ ש-א-ר تن واری — 'رہ گئے'، 'رہا'، 'بچن والا' — پنجابی وِچ جڑ دا تکرار گھٹ ہو گیا"
+    },
+    {
+      "kind": "crux",
+      "subject": "ומידעיו",
+      "rationale": "'جاݨ پچھاݨ والے' یا 'ساک رشتے دار' — کجھ مترجم 'کسٹک رشتے' لیندے نیں"
+    }
+  ],
+  "translation": "تے یِہو نے ⟨את⟩ اکھآب دے گھر دے سارے رہ گئے یِزرعیل وِچ مارے، تے اوہدے سارے وڈے لوک، تے اوہدے جاݨ پچھاݨ والے، تے اوہدے کاہن — اِتّوں جو اوہدے کوئی بچن والا نہ رہا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b180fdfdd8d108379f4744b103dbfee88ea5cb7433427e93e4420117d032d337",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/10\/9-12.1792105120205.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "تے مارے"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "یِہو نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سارے رہ گئے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "رہ گئے"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "گھر دے"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "اکھآب"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "یِزرعیل وِچ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سارے"
+    },
+    {
+      "surface": "גדליו",
+      "gloss": "اوہدے وڈے لوک"
+    },
+    {
+      "surface": "ומידעיו",
+      "gloss": "تے اوہدے جاݨ پچھاݨ والے"
+    },
+    {
+      "surface": "וכהניו",
+      "gloss": "تے اوہدے کاہن"
+    },
+    {
+      "surface": "עד",
+      "gloss": "اِتّوں جو"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "رہا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدے"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "کوئی بچن والا"
+    }
+  ],
+  "timestamp": "2026-10-15T22:58:40.206470190Z",
+  "model": "glm-5.3"
+}

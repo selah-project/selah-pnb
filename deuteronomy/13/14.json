@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 13:14",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "بِنِی بلیعال",
+      "rationale": "بعض نے ناں سمجھیا (بعل زبول)، بعض 'بےPointCloud فائدے دے\/بدکار' — صورت رکھی گئی، مترادف نئیں۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "دیوتا",
+      "rationale": "ایتھے אלהים عام لفظ اے — قوماں دے معبوداں لئی، ضابطے مطابق 'دیوتا' ٹھیک اے۔"
+    }
+  ],
+  "translation": "مرد بِنِی بلیعال دے تیرے وِچوں نِکھر گئے نیں تے اوہناں اپنے شہر دے وسنیکاں نوں ⟨את⟩ پھیر لیا، آکھدے: آ چلو تے اگلے دیوتیاں دی سیوا کرئیے، جیہڑے تُساں نئیں جانے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "16c60cc1dfe89d277b407e9512ffe46793da95fb1fb3079ddc3bcffb44d72756",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/13\/13-16.1792099975804.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יצאו",
+      "gloss": "نِکھر گئے نیں"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "بلیعال دے"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "تیرے وِچوں"
+    },
+    {
+      "surface": "וידיחו",
+      "gloss": "تے پھیر لئے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنے شہر دے وسنیکاں نوں"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "وسنیک"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "اپنے شہر دے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھدے"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "آ چلو"
+    },
+    {
+      "surface": "ונעבדה",
+      "gloss": "تے سیوا کرئیے"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "دیوتیاں"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "اگلے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "تُساں جانے"
+    }
+  ],
+  "timestamp": "2026-10-15T21:32:55.805077863Z",
+  "model": "glm-5.3"
+}

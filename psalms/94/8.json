@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 94:8",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "سمجھو",
+      "rationale": "حکم تے سوال نال پاٹھ نوں مخاطب کردا اے"
+    },
+    {
+      "kind": "you",
+      "subject": "قوم وِچوں بھونڈے لوکو",
+      "rationale": "مخاطب اوہ بھولے بھالے نیں جیہڑے آیت 7 والی گل آکھدے نیں"
+    }
+  ],
+  "translation": "سمجھو، اے قوم وِچوں بھونڈے لوکو، تے اے مورکھو، تُساں کدن عقل کرو گے؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c13dc5e8a29ba9e5ffdec15748eca7753f18822d289bd2b9bfc61e2bc2d9d757",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/94\/5-8.1792113340152.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "سمجھو"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "اے بھونڈے لوکو"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "قوم وِچوں"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "تے اے مورکھو"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "کدن"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "عقل کرو گے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:15:40.153723995Z",
+  "model": "glm-5.3"
+}

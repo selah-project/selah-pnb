@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 30:21",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שטם",
+      "rationale": "אשטם دا مطلب اے ویری-پن نال ستانا؛ 'ستاوندا' اُوہدا سبّھ توں نیڑے دا پنجابی لفظ اے"
+    },
+    {
+      "kind": "you",
+      "subject": "ایوب یاہوہ نوں",
+      "rationale": "ایہہ آیت اِک سِدھی مخاطبت اے — ایوب اپنے رب دے ہتھ دے ظلم دا دسیا اے"
+    }
+  ],
+  "translation": "تُوں میرے اُتے پلٹ کے ظالم بن جاندا اے، اپنے ہتھ دے زور نال تُوں مینوں ستاوندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1f56baa33c094ec857824903ef203d3602fadcb434be39cdd4b31f39a1d8f10f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/30\/21-24.1792116215581.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תהפך",
+      "gloss": "پلٹ جاندا اے"
+    },
+    {
+      "surface": "לאכזר",
+      "gloss": "ظالم"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرے اُتے"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "زور نال"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "تیرے ہتھ دے"
+    },
+    {
+      "surface": "תשטמני",
+      "gloss": "تُوں مینوں ستاوندا اے"
+    }
+  ],
+  "timestamp": "2026-10-16T02:03:35.582535373Z",
+  "model": "glm-5.3"
+}

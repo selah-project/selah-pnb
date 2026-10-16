@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 103:10",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوہنے",
+      "rationale": "کرتا عبرانی وِچ لکھیا نئیں، پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "بدلہ دتا",
+      "rationale": "גמל دا مطلب 'بدلہ\/انعام دینا' دوویں پاسے اے — سیاق توں سزا مراد اے"
+    }
+  ],
+  "translation": "⟨اوہنے⟩ ساڈے پاپاں وانگر ساڈے نال نئیں کیتا، تے نہ ساڈے قصوراں وانگر ساڈے اُتے بدلہ دتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5eace37ea168adbb12bf2cd218734c76da5492dcc98c24c42bbb589000dc3e43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/103\/9-12.1792113475463.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "כחטאינו",
+      "gloss": "ساڈے پاپاں وانگر"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کیتا"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ساڈے نال"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "כעונתינו",
+      "gloss": "ساڈے قصوراں وانگر"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "بدلہ دتا"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ساڈے اُتے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:17:55.464644224Z",
+  "model": "glm-5.3"
+}

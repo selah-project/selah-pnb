@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 39:7",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اِی",
+      "rationale": "شَدّ ودھاؤن لئی پنجابی چھوٹا لفظ، عبرانی وِچ نئیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "نוגש",
+      "rationale": "عبرانی 'مَݨݨ والا\/ٹیکس لین والا' — جانور دے ٹیکار والے ولّ کھِچیا گیا"
+    }
+  ],
+  "translation": "اوہ شہر دی رَلّ ملّ اتے ہسّدا اے، ٹیکار مَݨݨ والے دیاں ہکلّاں اوہ سُنّدا اِی نئیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "424b97368bbd02bfc44704596e477e791ffc4686d34782949bd1295ba1f91140",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/39\/5-8.1792116451554.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישחק",
+      "gloss": "ہسّدا اے"
+    },
+    {
+      "surface": "להמון",
+      "gloss": "رَلّ ملّ اتے"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "شہر دی"
+    },
+    {
+      "surface": "תשאות",
+      "gloss": "ہکلّاں"
+    },
+    {
+      "surface": "נוגש",
+      "gloss": "ٹیکار مَݨݨ والے دیاں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "اوہ سُنّدا"
+    }
+  ],
+  "timestamp": "2026-10-16T02:07:31.555688241Z",
+  "model": "glm-5.3"
+}

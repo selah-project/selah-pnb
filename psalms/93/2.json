@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 93,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "عبرانی وِچ کوپلا نئیں، پنجابی واسطے شامل کیتا"
+    },
+    {
+      "kind": "you",
+      "subject": "یاہوہ",
+      "rationale": "سدھی خطاب یاہوہ ول، تیرا تخت، توں ایں"
+    }
+  ],
+  "translation": "تیرا تخت اس ویلے توں ٹکیا ہویا ⟨اے⟩، توں ہمیشہ توں ایں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "831a0ae960a4e0f13d21c2fd8125f15c5390ff0b98d3dcc9db00ad1b9e5d9efa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/93\/1-4.1792113438026.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "ٹکیا ہویا"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "تیرا تخت"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "اس ویلے توں"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "ہمیشہ توں"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "توں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:17:18.027201132Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 16:12",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בעוני",
+      "rationale": "متن עוני 'میری بُرائی\/گناہ' لکھدا اے، پر مترجم 'میرا دکھ\/ستائیا جانا' پڑھدے نیں (عبرانی עני ورگا) — KJV 'affliction'، JPS 'mine eye' (עינی تبدیلی)"
+    },
+    {
+      "kind": "alternative",
+      "subject": "בעונی",
+      "rationale": "دوجی پڑھائی: 'یاہوہ میری بُرائی ویکھے' — داوِد اپنے ای گناہ دا ذکر کرے"
+    }
+  ],
+  "translation": "شاید یاہوہ میرا دکھ ویکھے، تے یاہوہ اوہدیاں اَج دِن دیاں لعنتاں دے بدلے مینوں چنگائی واپس کرے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fa3ea732bc9e47d22f162419bc3012e6a4957ca7ff8eb8c494de33f640ce2ff9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/16\/9-12.1792103560624.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אולי",
+      "gloss": "شاید"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ویکھے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בעוני",
+      "gloss": "میرا دکھ"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "تے واپس کرے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مینوں"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "چنگائی"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "بدلے"
+    },
+    {
+      "surface": "קללתו",
+      "gloss": "اوہدیاں لعنتاں"
+    },
+    {
+      "surface": "היום",
+      "gloss": "دِن"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اَج"
+    }
+  ],
+  "timestamp": "2026-10-15T22:32:40.625708033Z",
+  "model": "glm-5.3"
+}

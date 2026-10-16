@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 51:9",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "اسیں رجائیا",
+      "rationale": "רפאנו ٹکسالی ماضی اے — 'اسیں رجائیا' (ylt) بمقابلہ 'رجائنا چاہیا' (kjv\/jps)، فرق ارادے تے کامیابی دے وچکار"
+    },
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "پنجابی دی حالت رکنی جو عبرانی وِچ کوئی نئیں"
+    },
+    {
+      "kind": "measurement",
+      "subject": "فیصلہ اسماناں تک",
+      "rationale": "משפטה دی اُچائی ناپی جا رہی اے — اسمان تے بدلاں تک"
+    }
+  ],
+  "translation": "اسیں ⟨את⟩ بابل نوں رجائیا، پر اوہ رجائی نئیں گئی؛ اوہنوں چھڈو، تے اسیں چلیئے، ہر اِک اپنی دھرتی نوں؛ کیوں جے اوہدا فیصلہ اسماناں تک پہنچیا اے تے بدلاں تک چکیا گیا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "161af04d7c4e7512a7f0f68f48499a1d9ae3f8edf2c7460ef20f5bdf9e8a7f9e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/51\/9-12.1792108934973.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רפאנו",
+      "gloss": "اسیں رجائیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بابل نوں"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "پر نئیں"
+    },
+    {
+      "surface": "נרפתה",
+      "gloss": "اوہ رجائی گئی"
+    },
+    {
+      "surface": "עזבוה",
+      "gloss": "اوہنوں چھڈو"
+    },
+    {
+      "surface": "ונלך",
+      "gloss": "تے چلیئے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ہر اِک"
+    },
+    {
+      "surface": "לארצו",
+      "gloss": "اپنی دھرتی نوں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جے"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "پہنچیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تک"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "اسماناں"
+    },
+    {
+      "surface": "משפטה",
+      "gloss": "اوہدا فیصلہ"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "تے چکیا گیا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "بدلاں تک"
+    }
+  ],
+  "timestamp": "2026-10-16T00:02:14.974770917Z",
+  "model": "glm-5.3"
+}

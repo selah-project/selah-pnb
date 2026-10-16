@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 11:5",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "پنج سبزیاں دی لڑی",
+      "rationale": "عبرانی پنج شیواں دی تال والی لڑی دیندا اے (کھیرے، خربوزے، گندنے، پیاز، لہسن) — شکایت دا مزہ اِس گنتی وچ اے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "مفت",
+      "rationale": "חנם دا مطلب 'بِنا مُل، بِنا سبب' — اسیراں دے کھانے نوں 'مفت' آکھنا طنز اے۔"
+    }
+  ],
+  "translation": "اسیں ⟨את⟩ اُس مچھی نوں یاد کردے آں جیہڑی اسیں مِتصرایم وِچ مفت کھاندے سن — ⟨את⟩ کھیرے، تے ⟨את⟩ خربوزے، تے ⟨את⟩ گندنے، تے ⟨את⟩ پیاز، تے ⟨את⟩ لہسن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "73d9902b17819ec162fd40a284d040e9e9e0c134b0144232766925da6e66abb8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/11\/5-8.1792098564258.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכרנו",
+      "gloss": "یاد کردے آں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مچھی"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "مچھی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "کھاندے سن"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "مِتصرایم وِچ"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "مفت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کھیرے"
+    },
+    {
+      "surface": "הקשאים",
+      "gloss": "کھیرے"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "خربوزے"
+    },
+    {
+      "surface": "האבטחים",
+      "gloss": "خربوزے"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "گندنے"
+    },
+    {
+      "surface": "החציר",
+      "gloss": "گندنے"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "پیاز"
+    },
+    {
+      "surface": "הבצלים",
+      "gloss": "پیاز"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "لہسن"
+    },
+    {
+      "surface": "השומים",
+      "gloss": "لہسن"
+    }
+  ],
+  "timestamp": "2026-10-15T21:09:24.258633198Z",
+  "model": "glm-5.3"
+}

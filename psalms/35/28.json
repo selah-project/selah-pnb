@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 35:28",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "תהגה",
+      "rationale": "הגה دا مول مورت بڑبڑانا\/گونجنا اے — 'بڑد رہے گی' کرنا؛ 'بلے گی' اوہدے مورچے نوں ہلکا کر دیندا۔"
+    }
+  ],
+  "translation": "تے میری بولی تیرے سیانف اُتے பڑد رہے گی، سارا دن تیری مڈھا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1a8a109cff1d3550a9527086c0ee2255af580618ec08de39586da90e95afd527",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/35\/25-28.1792112322871.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולשוני",
+      "gloss": "تے میری بولی"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "பڑد رہے گی"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "تیرے سیانف"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "تیری مڈھا"
+    }
+  ],
+  "timestamp": "2026-10-16T00:58:42.872379010Z",
+  "model": "glm-5.3"
+}

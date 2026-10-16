@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 13:24",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨لئی⟩",
+      "rationale": "לְאוֹיֵב לָךְ دی پیشوندی ساخت پنجابی وِچ 'اپنے ویری لئی' نال صاف ہوندی اے۔"
+    },
+    {
+      "kind": "you",
+      "subject": "ایلوہ نوں",
+      "rationale": "ایوب خدا نوں سدھا مخاطب کردا اے — 'کیوں تُوں…؟'"
+    }
+  ],
+  "translation": "کیوں تُوں اپنا چہرہ لُکا لیندا ایں، تے مینوں اپنے ویری ⟨لئی⟩ گِن لیندا ایں؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a455f1b1c4bd559dde3698b0fa191b8eb7851ba0399fd9e51d07de977f477286",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/13\/21-24.1792115643928.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "تیرا چہرہ"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "لُکا لیندا ایں"
+    },
+    {
+      "surface": "ותחשבני",
+      "gloss": "تے مینوں گِن لیندا ایں"
+    },
+    {
+      "surface": "לאויב",
+      "gloss": "ویری"
+    },
+    {
+      "surface": "לך",
+      "gloss": "اپنے ⟨لئی⟩"
+    }
+  ],
+  "timestamp": "2026-10-16T01:54:03.929024783Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 2:24",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את אברהם…ואת יעקב",
+      "rationale": "تنے ناواں اُتے علاوہ ⟨את⟩ نشان نیں — ایہناں دا سادھارن پنجابی 'نال' بندہ اے، پر نشان اِنّے ای رکھے نیں"
+    }
+  ],
+  "translation": "تے ایلوہیم نے ⟨את⟩ اوہناں دے کرُھم سُنے، تے ایلوہیم نے ⟨את⟩ اپنا عہد یاد کیتا — ⟨את⟩ اَوراہام، ⟨את⟩ یِتصخاق تے ⟨את⟩ یعقوو۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "83a87c186a844b9a3823942c09b5ec4114d9aaed6f8622eea264855397fa0620",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/2\/21-24.1792096177799.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "سُنے"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہناں دے کرُھم"
+    },
+    {
+      "surface": "נאקתם",
+      "gloss": "اوہناں دے کرُھم"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "یاد کیتا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنا عہد"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "اپنا عہد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَوراہام"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراہام"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یِتصخاق"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "یِتصخاق"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "یعقوو"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    }
+  ],
+  "timestamp": "2026-10-15T20:29:37.800364188Z",
+  "model": "glm-5.3"
+}

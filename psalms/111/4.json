@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 111:4",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 111,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "זכר עשה",
+      "rationale": "پٹھم 'یادگار بنائی' — عبرانی 'یاد بنائی' دا مطلب اے یادگار قائم کیتی، کجھ نئیں گھڑیا"
+    },
+    {
+      "kind": "addition",
+      "subject": "copula",
+      "rationale": "'مہربان تے رحم والا اے یاہوہ' وِچ 'اے' پنجابی دا پایا، عبرانی دا نئیں"
+    }
+  ],
+  "translation": "یادگار بنائی اے اوہنے اوہدیاں انوکھیاں گلاں لئی — مہربان تے رحم والا اے یاہوہ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "214c851a847b085d4938cf9420e56880088b55bcd38b91a349e9806e26cac0fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/111\/1-4.1792113746894.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "یادگار"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بنائی اے"
+    },
+    {
+      "surface": "לנפלאתיו",
+      "gloss": "اوہدیاں انوکھیاں گلاں لئی"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "مہربان"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "تے رحم والا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:22:26.895264353Z",
+  "model": "glm-5.3"
+}

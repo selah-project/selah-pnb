@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 6:8",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "פלני אלמני",
+      "rationale": "عبرانی دی 'فلاں فلاں' والی کہاوت — ناں دھکیا گیا اے، پارٹھوں پچھیا نئیں جاندی۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "ہونگیاں",
+      "rationale": "عبرانی وِچ کوئی کریا نئیں — 'میریاں چھاؤنیاں فلاں تھاں اتے'؛ پنجابی نے 'ہونگیاں' پایا۔"
+    }
+  ],
+  "translation": "تے ارام دے بادشاہ دی یِسرائیل نال لڑائی سی، تے اوہنے اپنے غلاماں نال صلاح کیتی تے آکھیا: فلاں فلاں جیہی تھاں میریاں چھاؤنیاں ⟨ہونگیاں⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "448e0ca9ff12856f3509e29114a52919d42231debc945d11a16bcf7b067c6657",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/6\/5-8.1792104973967.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "تے بادشاہ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ارام دے"
+    },
+    {
+      "surface": "היה",
+      "gloss": "سی"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "لڑدا"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "یِسرائیل نال"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "تے صلاح کیتی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "اپنے غلاماں"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ کے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اتے"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "تھاں"
+    },
+    {
+      "surface": "פלני",
+      "gloss": "فلاں"
+    },
+    {
+      "surface": "אלמני",
+      "gloss": "فلاں جیہی"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "میریاں چھاؤنیاں"
+    }
+  ],
+  "timestamp": "2026-10-15T22:56:13.969173124Z",
+  "model": "glm-5.3"
+}

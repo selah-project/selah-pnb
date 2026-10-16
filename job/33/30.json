@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 33:30",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جان دا بل اے، روح نئیں"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨تاں جو⟩",
+      "rationale": "عبرانی وِچ مقصد دا جوڑ نئیں، פעלinfinitive دا مطلب سیاق توں"
+    }
+  ],
+  "translation": "تاں اوہدی جان نوں گڑھے توں مڑاوے، ⟨تاں جو⟩ جِوندیاں دے چانن وِچ اوہ چمکے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "929a6141e7df3c0a2f0e77dc24464ab23ca66d1253e7d43bc40165590575b563",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/33\/29-32.1792116297795.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להשיב",
+      "gloss": "مڑاوے"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "اوہدی جان"
+    },
+    {
+      "surface": "מני",
+      "gloss": "توں"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "گڑھے"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "چانن ول"
+    },
+    {
+      "surface": "באור",
+      "gloss": "چانن وِچ"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "جِوندیاں دے"
+    }
+  ],
+  "timestamp": "2026-10-16T02:04:57.796467628Z",
+  "model": "glm-5.3"
+}

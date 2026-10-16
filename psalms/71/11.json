@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 71:11",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوہنوں",
+      "rationale": "עזבו وِچ لُکی ہوئی ضمیر — 'اوہنوں چھڈ دتا'۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עזבו",
+      "rationale": "ویریاں دا ایہہ آکھݨا آیت 9 دے תעזבנی دا الٹ اے — جو منگیا سی 'مینوں چھڈ ناں'، اوہنوں اوہ چھڈیا ہویا آکھدے نیں۔"
+    }
+  ],
+  "translation": "آکھدے: ایلوہیم نے اوہنوں چھڈ دتا اے؛ پرے کر چڑھو تے اوہنوں پھڑ لو، کیوں جے کوئی بچان والا نئیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0a567c5678e44f387d883d9244ab60c27e0aa82207404392feee9e08fb9363d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/71\/9-12.1792112879606.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "آکھدے"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "چھڈ دتا اے"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "پرے کر چڑھو"
+    },
+    {
+      "surface": "ותפשוהו",
+      "gloss": "تے اوہنوں پھڑ لو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جے"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "کوئی بچان والا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:07:59.607440707Z",
+  "model": "glm-5.3"
+}

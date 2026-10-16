@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 24:4",
+  "book": "joshua",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نوں",
+      "rationale": "مِتصرایم نال اترن والی تھاں لئی پنجابی نوں \"نوں\" منگدا اے، عبرانی وِچ صرف اسم اے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "لרשת",
+      "rationale": "literal 'وارث ہون لئی\/مَلّ کرن لئی' — 'کہ وَسّاوے' وڈا مطلب دیندا اے"
+    }
+  ],
+  "translation": "تے میں یِتصخاق نوں یعقوو تے ⟨את⟩ عیسو دِتّا، تے میں عیسو نوں سعیر دا پہاڑ ⟨את⟩ دِتّا کہ ⟨את⟩ اوہنوں وَسّاوے؛ تے یعقوو تے اوہدے پتر مِتصرایم نوں اتر گئے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5560c1082fb352dfcd0efd4dc2a98fd5b4dc9ebf89076fe11cd7f06b190d51f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joshua\/24\/4-4.1792123486098.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "تے میں … دِتّا"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "یِتصخاق نوں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یعقوو"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "عیسو"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیسو"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "تے میں … دِتّا"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "عیسو نوں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سعیر دا پہاڑ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "سعیر"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "کہ وَسّاوے"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ اوہنوں"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "تے یعقوو"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "تے اوہدے پتر"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "اتر گئے"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم نوں"
+    }
+  ],
+  "timestamp": "2026-10-16T04:04:46.100266084Z",
+  "model": "glm-5.3"
+}

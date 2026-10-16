@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 1:10",
+  "book": "ezra",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משנים",
+      "rationale": "مشنیم — ‘دوجی قسم دے’ ( KJV، JPS ) بمقابلہ ‘دُہرے’ یا ‘نقل والے’ ( YLT ‘seconds’ )؛ مطلب ریتاں وِچ وکھرا اے۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "گنتی",
+      "rationale": "لسٹ جاری اے: 30 + 410 + 1000۔"
+    }
+  ],
+  "translation": "سونے دے پیالے تِیہہ، چاندی دے دوجے درجے دے پیالے چار سَو دس، تے ہور برتن اِک ہزار۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "003003a3a0c6e0a46b92bf4d4563bcb04cc632ef077ec6a0262f84219e745832",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezra\/1\/9-11.1792118829839.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כפורי",
+      "gloss": "پیالے"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونے دے"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "تِیہہ"
+    },
+    {
+      "surface": "כפורי",
+      "gloss": "پیالے"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندی دے"
+    },
+    {
+      "surface": "משנים",
+      "gloss": "دوجے درجے دے"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "تے دس"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "برتن"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ہور"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "اِک ہزار"
+    }
+  ],
+  "timestamp": "2026-10-16T02:47:09.840034868Z",
+  "model": "glm-5.3"
+}

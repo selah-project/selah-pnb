@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 6:19",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "دبیر",
+      "rationale": "Hebrew dvir is the inner shrine; rendered as 'inner chamber' since Punjabi lacks a technical term."
+    }
+  ],
+  "translation": "تے اندر آلے نوں اوہناں دے وچکار بنایا، تاں جو اوتھے دے عہد دے ⟨את⟩ صندوق نُوں رکھیا جاوے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7a3262eff569e0b8a13346a08a229aa2c0cb523a307bcba4ff70c2c08f75b7ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/6\/17-20.1792104105697.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וּדְבִיר",
+      "gloss": "تے اندر آلا"
+    },
+    {
+      "surface": "בְּתוֹךְ",
+      "gloss": "وچکار"
+    },
+    {
+      "surface": "הַבַּיִת",
+      "gloss": "گھر دے"
+    },
+    {
+      "surface": "מִפְּנִימָה",
+      "gloss": "اندروں"
+    },
+    {
+      "surface": "הֵכִין",
+      "gloss": "تیار کیتا"
+    },
+    {
+      "surface": "לָתֵת",
+      "gloss": "رکھن لئی"
+    },
+    {
+      "surface": "שָׁם",
+      "gloss": "اوتھے"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "عہد دا صندوق"
+    },
+    {
+      "surface": "אֲרוֹן",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "בְּרִית",
+      "gloss": "عہد دا"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-10-15T22:41:45.698282494Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jonah 1:13",
+  "book": "jonah",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ויחתרו",
+      "rationale": "جڑ دا مطلب اے چوری وانگ راہ کڈھنا — کنڈیاں مارنا ایہدے دور دا سمان اے، ہر ترجمے ایہو ای چُنیا اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩",
+      "rationale": "عبرانی وِچ فعل دا فاعل لکھیا نئیں، پنجابی وچ لوڑیندے نیں۔"
+    }
+  ],
+  "translation": "تے بندیاں نے کنڈیاں نال راہ کڈھن دی کیتی تاں ⟨اوہ⟩ سُکھی دھرتی ول واپس کریں، پر اوہ نہ سکے، کیوں جو سمندر اوہناں اُتے ہور تے ہور چھڑکدا جاندا سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9492ce5014b75551d8ba5a09df62ad0eb39a2c29923bf67e427d66463064cb4b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jonah\/1\/13-16.1792111026551.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחתרו",
+      "gloss": "کنڈیاں نال راہ کڈھن دی کیتی"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "بندیاں نے"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "واپس کریں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ول"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "سُکھی دھرتی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "پر نہ"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "سکے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "جاندا سی"
+    },
+    {
+      "surface": "וסער",
+      "gloss": "تے ہور چھڑکدا"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "اوہناں اُتے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:37:06.552056045Z",
+  "model": "glm-5.3"
+}

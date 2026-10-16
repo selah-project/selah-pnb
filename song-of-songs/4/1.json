@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 4:1",
+  "book": "song-of-songs",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "רעיתי",
+      "rationale": "عبرانی لفظ 'میری سجݨ\/سنگݨ' اے؛ پنجابی وِچ 'میری سوہنی' قدرتی محسوس ہوندا اے پر گھٹو گھٹ 'پیاری' جیہا مطلب رکھدا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "שגלשו",
+      "rationale": "اِک ہی واری ملن والا کریا: 'کیپراں ورگے اُچھلنا' یا پہاڑ توں 'لہنا\/ڈِلھکنا' — ترجمے دیاں دو سمتاں"
+    }
+  ],
+  "translation": "ویکھو، تُوں سوہنی اے میری سوہنی، ویکھو، تُوں سوہنی اے؛ تیرِیاں اکھیاں کبوتراں ورگیاں نیں تیرے پِردے دے پِچھوں؛ تیرے وال اَٹھاں دے اِک ریوڑ ورگے نیں جیہڑے گِلعاد پہاڑ توں لتھّے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "29bdaf664ff43abfe8fbf7d40e1971d8822100bad805c807db164d611627041f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/song-of-songs\/4\/1-4.1792116753612.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "ویکھو"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "سوہنی"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "میری سوہنی"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "ویکھو"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "سوہنی"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "تیرِیاں اکھیاں"
+    },
+    {
+      "surface": "יונים",
+      "gloss": "کبوتراں ورگیاں"
+    },
+    {
+      "surface": "מבעד",
+      "gloss": "دے پِچھوں"
+    },
+    {
+      "surface": "לצמתך",
+      "gloss": "تیرے پِردے"
+    },
+    {
+      "surface": "שערך",
+      "gloss": "تیرے وال"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "اِک ریوڑ ورگے"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "اَٹھاں دے"
+    },
+    {
+      "surface": "שגלשו",
+      "gloss": "لتھّے نیں"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "پہاڑ توں"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "گِلعاد"
+    }
+  ],
+  "timestamp": "2026-10-16T02:12:33.613370453Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 25:24",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בי אני אדני העון",
+      "rationale": "لفظی 'مینوں، میرے سائیں، اوہ قصور' — 'قصور میں اُتے ہووے' دی ارتھ، کریا ⟨⟩ وِچ پائی"
+    },
+    {
+      "kind": "you",
+      "subject": "to David",
+      "rationale": "ابیگیل سدھی داوِد نال گل کر رہی اے، عاجزی نال 'میرے سائیں' تے 'تیری داسی'"
+    }
+  ],
+  "translation": "تے اوہ اُہدیاں پیراں اُتے ڈِگ پئی تے آکھیا: میرے سائیں، میں اُتے ⟨ہووے⟩ ایہہ قصور، تے ہنے تیری داسی تیرے کناں وِچ گل کرے، تے تیری داسی دے ⟨את⟩ بچے سُن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e5f6e5097240e80c2f77db70cbb33114dfb26b5dee2f116c70cf3eb7afbc373b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/25\/21-24.1792102803884.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "تے ڈِگ پئی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "اُہدیاں پیراں"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "בי",
+      "gloss": "مینوں"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "میرے سائیں"
+    },
+    {
+      "surface": "העון",
+      "gloss": "ایہہ قصور"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "تے گل کرے"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ہنے"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "تیری داسی"
+    },
+    {
+      "surface": "באזניך",
+      "gloss": "تیرے کناں وِچ"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "تے سُن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بچے"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "بچے"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "تیری داسی دے"
+    }
+  ],
+  "timestamp": "2026-10-15T22:20:03.885377079Z",
+  "model": "glm-5.3"
+}

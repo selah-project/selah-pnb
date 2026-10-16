@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 12:13",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨دے اگے⟩",
+      "rationale": "לַיהוה دا لام پوروَں ‘یاہوہ ⟨دے اگے⟩’ دا کم کردا اے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "گام یہوہ ہعدبیر",
+      "rationale": "یعقوب\/گینوا 'وی' دا مطلب 'حالانکہ' وی ہو سکدا اے — 'یاہوہ نے حالانکہ تیرا پاپ ہٹا دتا'"
+    }
+  ],
+  "translation": "تے داوِد نے ناتان نوں آکھیا: “میں یاہوہ ⟨دے اگے⟩ پاپ کیتا اے۔” تے ناتان نے داوِد نوں آکھیا: “یاہوہ نے ⟨وی⟩ تیرا پاپ ہٹا دتا اے — تو نئیں مرسیں۔”",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "79b526961672fd5af3156f7567af2b5c048d331a7929f4c1be6e3c8310e9c3bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/12\/13-16.1792103401491.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتان"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "پاپ کیتا اے"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ ⟨دے اگے⟩"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "גם",
+      "gloss": "⟨وی⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "ہٹا دتا اے"
+    },
+    {
+      "surface": "חטאתך",
+      "gloss": "تیرا پاپ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "مرسیں"
+    }
+  ],
+  "timestamp": "2026-10-15T22:30:01.492488635Z",
+  "model": "glm-5.3"
+}

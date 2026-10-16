@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 26:10",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "پنجابی پکار لئی 'اے' منگدا اے، عبرانی وِچ ناں اِکلا اے"
+    },
+    {
+      "kind": "you",
+      "subject": "قدمت کرن والے نوں",
+      "rationale": "آیت تیرھویں بندی توں مخاطب اے — پہلے پھل لیاؤن والے توں"
+    }
+  ],
+  "translation": "تے ہن ویکھو، میں ⟨את⟩ دھرتی دے پھل دا پہلا حصہ لیایا اے، جیہڑا تاں نے میں نوں دتا سی، اے یاہوہ۔ تے تاں اوہنوں یاہوہ اپنے ایلوہیم دے اگے رکھیں، تے یاہوہ اپنے ایلوہیم دے اگے سجدہ کریں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8560cf8f5f4299fe711a48670fcdc54ff5d314e86973bb6c853d03524715d695",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/26\/9-12.1792100328377.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "تے ہن"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ویکھو"
+    },
+    {
+      "surface": "הבאתי",
+      "gloss": "میں لیایا اے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دھرتی دے پھل دا پہلا حصہ"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "پہلا حصہ"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "پھل"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "دھرتی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "تاں نے دتا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میں نوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "והנחתו",
+      "gloss": "تے تاں اوہنوں رکھیں"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اگے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تیرے ایلوہیم"
+    },
+    {
+      "surface": "והשתחוית",
+      "gloss": "تے تاں سجدہ کریں"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اگے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تیرے ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-10-15T21:38:48.378167593Z",
+  "model": "glm-5.3"
+}

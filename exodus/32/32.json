@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 32:32",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "چُکا لَے",
+      "rationale": "נשא ایتھے 'چُکنا\/بخشن دا مطلب اے، لفظی 'چُکن\/سارنا' اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "تے جے نئیں",
+      "rationale": "عبرانی جملہ ادھورا اے — 'جے تُوں بخش دے —' تے فیر رُک جاندا اے؛ کجھ ترجمے (جنیوا) 'تیرا میہربان ہووے' جوڑ دیندے نیں"
+    },
+    {
+      "kind": "secret",
+      "subject": "اپنی کتاب",
+      "rationale": "یاہوہ دی لِکھی کتاب — جیوندے تے مُٹاے جان والیاں دا رجسٹر، پڑھیدار نوں دسیا نئیں جاندا"
+    }
+  ],
+  "translation": "تے ہُن جے تُوں اوہناں دا پاپ چُکا لَے، تے جے نئیں، تے میہربانی کر کے میں نوں اپنی کتاب توں مِٹا دے، جیہڑی تُوں نے لِکھی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bb01b7261d11bd04a3b880fb3f524c42e2966105bf18663472adcb20264193da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/32\/32-32.1792123292026.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "تے ہُن"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "تُوں چُکا لَے"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "اوہناں دا پاپ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "מחני",
+      "gloss": "میں نوں مِٹا دے"
+    },
+    {
+      "surface": "נא",
+      "gloss": "میہربانی کر کے"
+    },
+    {
+      "surface": "מספרך",
+      "gloss": "اپنی کتاب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "כתבת",
+      "gloss": "تُوں نے لِکھی"
+    }
+  ],
+  "timestamp": "2026-10-16T04:01:32.027581830Z",
+  "model": "glm-5.3"
+}

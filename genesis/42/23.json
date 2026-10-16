@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 42:23",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "یوسف دی پہچان",
+      "rationale": "بھراواں نوں نئیں پتہ کہ اوہ سُن رہا اے — کہانی دا لُکا ہویا علم"
+    },
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "پنجابی جملا ماضی دی کاپی منگدا اے، عبرانی وِچ کوئی نئیں"
+    }
+  ],
+  "translation": "تے اوہ نئیں جاندے سن کہ یوسف سُن رہا اے، کیونجے ترجمان اوہناں دے وِچکار سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "edb09b9d8fb3fdfa3fd6a3ca91b8cf63e3791071989974a20b12d9f736c19c66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/42\/21-24.1792095849749.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "تے اوہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "جاندے سن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سُن رہا"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "המליץ",
+      "gloss": "ترجمان"
+    },
+    {
+      "surface": "בינתם",
+      "gloss": "اوہناں دے وِچکار"
+    }
+  ],
+  "timestamp": "2026-10-15T20:24:09.755116085Z",
+  "model": "glm-5.3"
+}

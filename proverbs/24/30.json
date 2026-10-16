@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 24:30",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "دل",
+      "rationale": "חסר לב دا مطلب اے 'سمجھ توں خالی'، لفزی 'دل' دھرن توں ای سچ رکھیا۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "انگوراں دی",
+      "rationale": "כרם اِک لفظ اے؛ پنجابی وِچ 'باڑ' نال وضاحت چاہیدی سی۔"
+    }
+  ],
+  "translation": "میں اِک سُست بندے دے کھیت توں لنگھیا، تے اِک دل تھوں خالی بندے دی انگوراں دی باڑ توں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4baf22e5432b636a22c33e351a86a220fd2154ba986f6a9e65d01035f0fa773b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/24\/29-32.1792115092062.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "توں"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "کھیت"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "سُست"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "لنگھیا"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "تے توں"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "انگوراں دی باڑ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "تھوں خالی"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    }
+  ],
+  "timestamp": "2026-10-16T01:44:52.062827602Z",
+  "model": "glm-5.3"
+}

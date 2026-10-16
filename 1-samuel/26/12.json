@@ -1,0 +1,136 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 26:12",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ואין...ואין...ואין",
+      "rationale": "تِن واری 'کوئی نئیں' — سہ‌گنتی چھل، پنجابی وِچ تِنواں رکھی"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תרדמת",
+      "rationale": "اوہ گوڑی ٹرانس ورگی نیند، 'گوڑی نیند' نیڑے دا روپ"
+    }
+  ],
+  "translation": "تے داوِد نے ⟨את⟩ برچھی تے ⟨את⟩ پانی دی مٹوئی شاؤول دے سرہانے توں لے لئی، تے اوہ اپنے راستے ٹُر گئے، تے کوئی ویکھن والا نئیں، تے کوئی جانن والا نئیں، تے کوئی جاگن والا نئیں، کیونکہ سب اوہ سُتے پئے سن، کیونکہ یاہوہ دی اوہ گوڑی نیند اوہناں اُتے آ ڈھکی سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2f6a56f3a536360a070684ed38632b70195ba5a206c3af16e9bf0e676f4d4294",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/26\/9-12.1792102986678.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "تے لے لئی"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "برچھی"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "برچھی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "پانی دی مٹوئی"
+    },
+    {
+      "surface": "צפחת",
+      "gloss": "مٹوئی"
+    },
+    {
+      "surface": "המים",
+      "gloss": "پانی دی"
+    },
+    {
+      "surface": "מראשתי",
+      "gloss": "سرہانے توں"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول دے"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "تے ٹُر گئے"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اپنے راستے"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "تے کوئی نئیں"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ویکھن والا"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "تے کوئی نئیں"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "جانن والا"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "تے کوئی نئیں"
+    },
+    {
+      "surface": "מקיץ",
+      "gloss": "جاگن والا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "سب"
+    },
+    {
+      "surface": "ישנים",
+      "gloss": "سُتے پئے سن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "תרדמת",
+      "gloss": "گوڑی نیند"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دی"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "آ ڈھکی سی"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "اوہناں اُتے"
+    }
+  ],
+  "timestamp": "2026-10-15T22:23:06.679940040Z",
+  "model": "glm-5.3"
+}

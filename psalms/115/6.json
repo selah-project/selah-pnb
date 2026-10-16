@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 115:6",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "نَکّ",
+      "rationale": "אף دا مول مطلب ناسا\/نَکّ اے، مُونھ نئیں"
+    }
+  ],
+  "translation": "کنّاں اِنہاں دے نیں پر اوہ سُندے نئیں، نَکّ اِنہاں دا اے پر اوہ سُنگھدے نئیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d238467357eb2dd7bd7606a902d92ce1147ea96c7a51483d5250e9db09898798",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/115\/5-8.1792113749293.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "کنّاں"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اِنہاں دے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "پر نئیں"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "اوہ سُندے"
+    },
+    {
+      "surface": "אף",
+      "gloss": "نَکّ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اِنہاں دا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "پر نئیں"
+    },
+    {
+      "surface": "יריחון",
+      "gloss": "اوہ سُنگھدے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:22:29.294132955Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 80:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اپنی",
+      "rationale": "גבורתך وِچ “اکْ” پہلوں اے، پنجابی لئی وکھ لفظ منگدا اے۔"
+    },
+    {
+      "kind": "alternative",
+      "subject": "לישעתה לנו",
+      "rationale": "“ساڈی مُکتی لئی” — یا “ساڈے بچاؤ لئی ساڈے ول آ”。"
+    }
+  ],
+  "translation": "افرایم تے بنیامین تے منسیہے دے ساہمنے ⟨את⟩ اپنی طاقت جگا، تے ساڈی مُکتی لئی آ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8e910a471fd8d26e668a5dc44d3ba682eddc44a533ef86a6ca147406d912f26d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/80\/1-4.1792113176186.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "دے ساہمنے"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "افرایم"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "تے بنیامین"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "تے منسیہے"
+    },
+    {
+      "surface": "עוררה",
+      "gloss": "جگا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنی طاقت"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "اپنی طاقت"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "تے آ"
+    },
+    {
+      "surface": "לישעתה",
+      "gloss": "مُکتی لئی"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ساڈی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:12:56.187814836Z",
+  "model": "glm-5.3"
+}

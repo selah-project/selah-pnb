@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 1:4",
+  "book": "lamentations",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "דרכי ציון אבלות",
+      "rationale": "رَاہ سوگ کردے نیں — راہ خالی نیں تے سوگ ورگے؛ تصویر اِکو رکھی"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מר לה",
+      "rationale": "مُڑ اُتلے نام 'مرایم' (کوڑھے) نال سنسکرتی تعلق دا امکان؛ سادہ مطلب 'اوہدی کوڑھ' — پنجابی وچ 'کوڑھیج گئی' رکھیا"
+    }
+  ],
+  "translation": "صییون دے راہ سوگ کر رہے نیں، کیوں جو مقرر میلے آن والے کوئی نئیں؛ اوہدے سارے بوہے اُجڑے ہوئے نیں، اوہدے کاہن آہیں بھر رہے نیں، اوہدیاں کنواریاں دکھی نیں، تے اوہ خود کوڑھیج گئی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9f3d9a904525dee1a3f9eb2475fa53f53d00376f398bbede518c33fc6a6fdf7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/lamentations\/1\/1-4.1792117039760.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "دے راہ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صییون"
+    },
+    {
+      "surface": "אבלות",
+      "gloss": "سوگ کر رہے نیں"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "کیوں جو … کوئی نئیں"
+    },
+    {
+      "surface": "באי",
+      "gloss": "آن والے"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "مقرر میلے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "שעריה",
+      "gloss": "اوہدے بوہے"
+    },
+    {
+      "surface": "שוממין",
+      "gloss": "اُجڑے ہوئے نیں"
+    },
+    {
+      "surface": "כהניה",
+      "gloss": "اوہدے کاہن"
+    },
+    {
+      "surface": "נאנחים",
+      "gloss": "آہیں بھر رہے نیں"
+    },
+    {
+      "surface": "בתולתיה",
+      "gloss": "اوہدیاں کنواریاں"
+    },
+    {
+      "surface": "נוגות",
+      "gloss": "دکھی نیں"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "تے اوہ خود"
+    },
+    {
+      "surface": "מר",
+      "gloss": "کوڑھیج گئی اے"
+    },
+    {
+      "surface": "לה",
+      "gloss": "اوہدی"
+    }
+  ],
+  "timestamp": "2026-10-16T02:17:19.761961603Z",
+  "model": "glm-5.3"
+}

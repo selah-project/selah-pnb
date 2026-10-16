@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 34:10",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לפניכם",
+      "rationale": "'تہاڈے اگے' — عبرانی مطلب 'تہاڈے اختیار وِچ، کھلی دھرتی'، حرفی 'منہ دے سامنے'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תשבו\/שבו",
+      "rationale": "اوہو جڑ י-ש-ב دو واری — وسو تے رہو — پیارا جوڑ، پنجابی وِچ دو وکھرے لفظ"
+    }
+  ],
+  "translation": "تے ⟨את⟩ ساڈے نال رہو، تے دھرتی تہاڈے اگے ہووے؛ وسو، اوہدے وِچ سیر کرو تے اوہدے وِچ قابض ہو جاؤ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bf63942acf4ab0527f875f00cc6bb64e93d09d35f83869922e5f20ab30379337",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/34\/9-12.1792095583963.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתנו",
+      "gloss": "⟨את⟩ ساڈے نال"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "رہو"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "تے دھرتی"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ہووے"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "تہاڈے اگے"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "وسو"
+    },
+    {
+      "surface": "וסחרוה",
+      "gloss": "اوہدے وِچ سیر کرو"
+    },
+    {
+      "surface": "והאחזו",
+      "gloss": "تے قابض ہو جاؤ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اوہدے وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T20:19:43.964801905Z",
+  "model": "glm-5.3"
+}

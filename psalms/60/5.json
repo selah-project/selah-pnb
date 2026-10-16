@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 60:5",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨گل⟩",
+      "rationale": "عبرانی وِچ صرف 'سخت' اے — 'وکھایا سخت'؛ پنجابی جملہ لئی شے دا لفظ پایا"
+    },
+    {
+      "kind": "hapax",
+      "subject": "תרעלה",
+      "rationale": "تنخ وِچ صرف اِتھے — لڑکھڑاؤن\/چُکران والا شراب"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קשה\/תרעלה",
+      "rationale": "سختی تے چکر دی علامت — عبرانی دوناں لفظاں دا پنجابی وِچ پورا وزن نئیں رہندا"
+    }
+  ],
+  "translation": "تُوں نے اپنی قوم نوں سخت ⟨گل⟩ وکھائی اے؛ تُوں نے سانوں لڑکھڑاؤن والا شراب پلایا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "84865b9bc7ed5901f6561e9ff6231f3a2236584bb0617519ad72f3b3def82612",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/60\/5-8.1792112789828.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הראיתה",
+      "gloss": "وکھائی اے"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "اپنی قوم نوں"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "سخت"
+    },
+    {
+      "surface": "השקיתנו",
+      "gloss": "سانوں پلایا اے"
+    },
+    {
+      "surface": "יין",
+      "gloss": "شراب"
+    },
+    {
+      "surface": "תרעלה",
+      "gloss": "لڑکھڑاؤن والا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:06:29.828542510Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 23:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "بہاؤندا اے",
+      "rationale": "ירביצנی دا مول مطلب 'چوپایاں وانگ لتھا دینا' — پینڈو تصویر"
+    },
+    {
+      "kind": "alternative",
+      "subject": "دے کنارے",
+      "rationale": "'על מי' نوں 'پانیاں دے کنارے' وی پڑھیا جا سکدا اے، 'دے نال' رکھیا"
+    }
+  ],
+  "translation": "ہرے کوہیاں وِچ اوہ مینوں بہاؤندا اے، آرام دے پانیاں دے نال اوہ مینوں ٹردا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "30dcf7afd1bdf981fb4c49a20047dc0199dc32abf65a7c8632038662ed306b48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/23\/1-4.1792112119417.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנאות",
+      "gloss": "کوہیاں وِچ"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "ہرے"
+    },
+    {
+      "surface": "ירביצני",
+      "gloss": "اوہ مینوں بہاؤندا اے"
+    },
+    {
+      "surface": "על",
+      "gloss": "دے نال"
+    },
+    {
+      "surface": "מי",
+      "gloss": "پانیاں"
+    },
+    {
+      "surface": "מנחות",
+      "gloss": "آرام دے"
+    },
+    {
+      "surface": "ינהלני",
+      "gloss": "اوہ مینوں ٹردا اے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:55:19.418076341Z",
+  "model": "glm-5.3"
+}

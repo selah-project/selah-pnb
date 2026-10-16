@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سن",
+      "rationale": "عبرانی وِچ copula نئیں، پنجابی لئی چاہیدا سی"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ذال",
+      "rationale": "אשה دا مول چِتر 'ذن\/عورت' اے؛ 'ذال' رشتے دی ریت اے"
+    }
+  ],
+  "translation": "تے اوہناں دوہاں نںگے سن — آدم تے اوہدی ذال — تے اوہ شرمندہ نئیں ہندے سن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0818fae54973337d1740a68c6986017050363276d8b7333857d2d2d6a1ef99ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/2\/25-25.1792094634110.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "سن ⟨اوہ⟩"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "اوہناں دوہاں"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "نںگے"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "تے اوہدی ذال"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "יתבששו",
+      "gloss": "شرمندہ ہندے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:03:54.112067792Z",
+  "model": "glm-5.3"
+}

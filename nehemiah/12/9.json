@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 12:9",
+  "book": "nehemiah",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سن",
+      "rationale": "عبرانی وِچ کوئی کریا نئیں؛ پنجابی واسطے ⟨⟩ وِچ دسیا"
+    },
+    {
+      "kind": "crux",
+      "subject": "למשמרות",
+      "rationale": "مُشکِم پہرے یا سیوا دیاں وردیاں — ترجمیاں وِچ offices\/watches دا اختلاف"
+    }
+  ],
+  "translation": "تے بقبقیاہ تے عُنی، اوہناں دے بھرا، اوہناں دے ساہمنے سن ⟨پہرے⟩ وِچ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "11c870efc327358f421b2820a853415dc096647e9361edacfef9d48d6a83eb78",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/nehemiah\/12\/9-12.1792119916516.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובקבקיה",
+      "gloss": "تے بقبقیاہ"
+    },
+    {
+      "surface": "וענו",
+      "gloss": "تے عُنی"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "اوہناں دے بھرا"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "اوہناں دے ساہمنے"
+    },
+    {
+      "surface": "למשמרות",
+      "gloss": "پہرےآں وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T03:05:16.517266736Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 55:4",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ظلم",
+      "rationale": "עקת literally دباؤ\/ tightened — 'ظلم' نیڑے دا概念"
+    },
+    {
+      "kind": "crux",
+      "subject": "ישטמוני",
+      "rationale": "šātam — 'میرے ورچ لُکدے نیں' (شکار وانگوں) یا 'مینوں ستاندے نیں'؛ KJV 'hate me', ASV 'persecute me'"
+    }
+  ],
+  "translation": "دشمن دی آواز توں، بدکار دے ظلم دے ساہمنے، کیونکہ اوہ میرے اُتے برائی تُڑیندے نیں تے غصے نال میرے ورچ لُکدے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ab6c04bd53aeebb59181e135386ea4b27d8a3a55c0af490ef5368af0b2ea7bd6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/55\/1-4.1792112687024.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "دی آواز توں"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "دشمن"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "دے ساہمنے"
+    },
+    {
+      "surface": "עקת",
+      "gloss": "دے ظلم"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "ימיטו",
+      "gloss": "تُڑیندے نیں"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "میرے اُتے"
+    },
+    {
+      "surface": "און",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "تے غصے نال"
+    },
+    {
+      "surface": "ישטמוני",
+      "gloss": "میرے ورچ لُکدے نیں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:04:47.025575802Z",
+  "model": "glm-5.3"
+}

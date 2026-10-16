@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 59:19",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נוססה בו",
+      "rationale": "دو پڑھائیاں نیں: 'یاہوہ دی روح اوہنوں بھجائے گی' (קרי: נוֹסְסָה, مُکاienia) — تے کجھ پرانیاں بولیاں 'اوہدے خلاف جھنڈا چُکیگی'؛ کتیب נֹסֵסָה توں۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "צר",
+      "rationale": "'تنگی\/دبائو' آئو گا نہر بن کے — یا 'دشمن' (צר بن کے)؟ دونویں جائز نیں؛ 'تنگی' رکھیا گیا اے کیونکہ ایہہ لفظ دی شکل اے۔"
+    }
+  ],
+  "translation": "تے اوہ مغرب توں یاہوہ دے ناں ⟨את⟩ نوں ڈرن گے، تے سورج چڑھن توں ⟨את⟩ اوہدے جلال نوں؛ کیونکہ تنگی نہر بن کے آئو گی، یاہوہ دی روح اوہنوں بھجائو گی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b6a0312c5539664d2a9bc22a0d217ee5f68cc3c712bc4c5069c04c9b9af8915c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/59\/17-20.1792107103852.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "تے اوہ ڈرن گے"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "مغرب توں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ دے ناں"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "וממזרח",
+      "gloss": "تے چڑھدے توں"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "سورج"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہدے جلال"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "اوہدا جلال"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "آئو گا"
+    },
+    {
+      "surface": "כנהר",
+      "gloss": "نہر بن کے"
+    },
+    {
+      "surface": "צר",
+      "gloss": "تنگی"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "נססה",
+      "gloss": "بھجائو گی"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوہنوں"
+    }
+  ],
+  "timestamp": "2026-10-15T23:31:43.853909969Z",
+  "model": "glm-5.3"
+}

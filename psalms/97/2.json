@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 97:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 97,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "copula 'نیں'",
+      "rationale": "Hebrew verbless clauses; Punjabi requires copula, bracketed in原文 as supplied."
+    },
+    {
+      "kind": "mystery",
+      "subject": "بادل تے ہنیرا",
+      "rationale": "thick darkness around the King — deliberately opaque theophany imagery."
+    }
+  ],
+  "translation": "بادل تے ہنیرا اوہدے دوآلے نیں، صداقت تے انصاف اوہدے تخت دی نیہہ نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6132a85d5aeea181f6f17975a173e10a5836314319f892a36c13ee769dc04cf5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/97\/1-4.1792113388356.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ענן",
+      "gloss": "بادل"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "تے ہنیرا"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "اوہدے دوآلے"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "صداقت"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "تے انصاف"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "نیہہ"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "اوہدے تخت"
+    }
+  ],
+  "timestamp": "2026-10-16T01:16:28.357425989Z",
+  "model": "glm-5.3"
+}

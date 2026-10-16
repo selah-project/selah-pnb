@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 24:6",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نوں",
+      "rationale": "את کِتے نئیں پر 'אכלה ארץ' وِچ مفعول لئی 'نوں' پنجابی منگدا اے۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "חרו",
+      "rationale": "חרר — 'سُکے\/جل گئے' (KJV: burned) بجائے 'اداس ہوئے' (JPS: waste away)۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "بندے",
+      "rationale": "אנוש ناشوان بندہ نوں کہندا اے، آدم توں وکھرا — 'بندہ' ایہدا نیڑے دا لفظ اے۔"
+    }
+  ],
+  "translation": "ایس لئی لعنت دھرتی نوں کھا گئی، تے اوہدے واسی قصیوار ہوئے؛ ایس لئی دھرتی دے واسی سُک گئے، تے بندے تھوڑے رہ گئے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1c403e2cd84d7ebd52de58084e75109544b1c2e7e18dbf3110537078f8ab4105",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/24\/5-8.1792106270159.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ایس"
+    },
+    {
+      "surface": "כן",
+      "gloss": "لئی"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "لعنت"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "کھا گئی"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "دھرتی نوں"
+    },
+    {
+      "surface": "ויאשמו",
+      "gloss": "تے قصیوار ہوئے"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "اوہدے واسی"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اوہدے وِچ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ایس"
+    },
+    {
+      "surface": "כן",
+      "gloss": "لئی"
+    },
+    {
+      "surface": "חרו",
+      "gloss": "سُک گئے"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "واسی"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "دھرتی دے"
+    },
+    {
+      "surface": "ונשאר",
+      "gloss": "تے رہ گئے"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "تھوڑے"
+    }
+  ],
+  "timestamp": "2026-10-15T23:17:50.159937264Z",
+  "model": "glm-5.3"
+}

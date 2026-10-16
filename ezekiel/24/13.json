@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 24:13",
+  "book": "ezekiel",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "טהר\/טמא",
+      "rationale": "چوکھے-پن تے نجاست دی اُلٹ تکرار (טהרתיך…לא טהרת…לא תטהרי)، تن واری وار وار۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חמתי",
+      "rationale": "חֵמָה دا مول اے 'تپّ\/گرمی' — 'غصے دی بھاڑ' شکل رکھدا اے، صرف 'غصہ' نئیں۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "הניחי",
+      "rationale": "'واہساں\/رکھسیں' — KJV 'caused my fury to rest' بمقابل JPS 'satisfied My fury'۔"
+    }
+  ],
+  "translation": "تیری نجاست وِچ ہی بدمنشی اے، ایس لئی کہ میں تینوں چوکھا کرنا چاہیا پر تُوں اپنی نجاست توں چوکھی نہ ہوئی، ایس لئی ہُن توں اگے چوکھی نہ ہوسی، جد تک میں ⟨את⟩ اپنی غصے دی بھاڑ نوں تیرے اُتے نا واہساں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "da5e3ba0baed6cbc153685757d660645c513409e262efef878e866d0db77a75f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/24\/13-16.1792109599668.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בטמאתך",
+      "gloss": "تیری نجاست وِچ"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "بدمنشی"
+    },
+    {
+      "surface": "יען",
+      "gloss": "ایس لئی کہ"
+    },
+    {
+      "surface": "טהרתיך",
+      "gloss": "میں تینوں چوکھا کرنا چاہیا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "پر نہ"
+    },
+    {
+      "surface": "טהרת",
+      "gloss": "چوکھی ہوئی"
+    },
+    {
+      "surface": "מטמאתך",
+      "gloss": "اپنی نجاست توں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תטהרי",
+      "gloss": "چوکھی ہوسی"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ہُن توں اگے"
+    },
+    {
+      "surface": "עד",
+      "gloss": "جد تک"
+    },
+    {
+      "surface": "הניחי",
+      "gloss": "واہساں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنی غصے دی بھاڑ نوں"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "اپنی غصے دی بھاڑ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تیرے اُتے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:13:19.669073781Z",
+  "model": "glm-5.3"
+}

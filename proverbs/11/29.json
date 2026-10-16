@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 11:29",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ہوا نوں ورتے گا",
+      "rationale": "יִנְחַל רוּחַ — روگی طور تے 'ہوا دا وارث'، یعنی کجھ نئیں ملے گا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ٹھیکے دار",
+      "rationale": "עבד — غلام\/نوکر؛ سیاق دے مطابق نوکر دے کِٹے نوں دسدا اے"
+    }
+  ],
+  "translation": "جو اپنے گھر نوں ہلاؤندا اے، ہوا نوں ورتے گا، تے مورکھ دل والے عاقل دا ٹھیکے دار ہووےگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "738265098498f9a90c008ce173b3bcf8c2ec1e374fdb0f5954fe98d77e23d816",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/11\/29-31.1792114658085.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עוכר",
+      "gloss": "ہلاؤندا اے"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "اپنے گھر نوں"
+    },
+    {
+      "surface": "ינחל",
+      "gloss": "ورتے گا"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ہوا نوں"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "تے ٹھیکے دار ہووےگا"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "مورکھ"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "عاقل دا"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل والے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:37:38.086100814Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 13:9",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "کھسک گئیاں",
+      "rationale": "שמטו: KJV\/ASV 'stumbled' (ٹِبھر گئیاں) بمقابلہ YLT 'were released' (کھُل گئیاں) — جڑ دا مور 'سُٹنا\/چھڈنا' اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "اگے کیتا",
+      "rationale": "וישלח نقلی 'بھیجیا' اے، پھِر وی 'ہتھ پھیلانا' دا عبرانی اِدم اے"
+    }
+  ],
+  "translation": "تے اوہ کیدون دے کھلیان تک آئے، تے عُزّا نے صندوق نوں پھڑن لئی ⟨את⟩ اپنا ہتھ اگے کیتا، کیونکہ وچھواں کھسک گئیاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "14ff900c392302f655b63eff9a3f4d7bde999bce09c6991ec9f8fc0f270c52a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/13\/9-12.1792120812536.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "آئے"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "کھلیان"
+    },
+    {
+      "surface": "כידן",
+      "gloss": "کیدون"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "اگے کیتا"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "عُزّا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنا ہتھ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "اپنا ہتھ"
+    },
+    {
+      "surface": "לאחז",
+      "gloss": "پھڑن لئی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صندوق"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "שמטו",
+      "gloss": "کھسک گئیاں"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "وچھواں"
+    }
+  ],
+  "timestamp": "2026-10-16T03:20:12.537384192Z",
+  "model": "glm-5.3"
+}

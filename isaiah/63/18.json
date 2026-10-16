@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 63:18",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ایہنوں⟩",
+      "rationale": "ירשو دا مفعول عبرانی وِچ کوئی نئیں، پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "لמצער",
+      "rationale": "'تھوڑے چِر' (جنی ویلے) بمقابلہ کجھ ترجمے 'کِدے نئیں\/بھلا کِویں' پڑھدے نیں (JPS 'well nigh')"
+    },
+    {
+      "kind": "substitution",
+      "subject": "קדשך",
+      "rationale": "למצער ירשו עם קדשך — 'قوم' تے 'مقدس' دو ٹوکن نیں، تے 'اوہنوں' دا پتہ سیاق توں"
+    }
+  ],
+  "translation": "تھوڑے چِر لئی تیرے مقدس لوکاں نے ⟨ایہنوں⟩ ورثے وچ لیا؛ ساڈے ویریاں نے تیرے مقدس تھاں نوں لتاڑ دتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8a4f17accad15b6f8b001313a6ac8672a0951daec6faf19bacd8bfd28239f58e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/63\/18-19.1792123886369.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למצער",
+      "gloss": "تھوڑے چِر لئی"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "ورثے وچ لیا"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لوک"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "تیرے مقدس"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "ساڈے ویری"
+    },
+    {
+      "surface": "בוססו",
+      "gloss": "لتاڑ دتا"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "تیرے مقدس تھاں نوں"
+    }
+  ],
+  "timestamp": "2026-10-16T04:11:26.369656037Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 35:28",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "למאור",
+      "rationale": "למאור 'روشنی\/چراغاں لئی' — پنجابی 'چراغ لئی' منگannab دی موڑ اُتے اے"
+    }
+  ],
+  "translation": "تے ⟨את⟩ خوشبو دار چیزاں تے ⟨את⟩ تیل — چراغ لئی، تے مسح کرن دے تیل لئی، تے خوشبودار لُون لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9bfee707a3aadb4d0f766b8030ffa0c068b883e12485322e31b4d79248048805",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/35\/25-28.1792097182471.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "خوشبو دار چیزاں"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "خوشبو دار چیزاں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "تیل"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "تیل"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "چراغ لئی"
+    },
+    {
+      "surface": "ולשמן",
+      "gloss": "تے … تیل لئی"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "مسح کرن دا"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "تے لُون لئی"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "خوشبودار دوائیاں دا"
+    }
+  ],
+  "timestamp": "2026-10-15T20:46:22.472975809Z",
+  "model": "glm-5.3"
+}

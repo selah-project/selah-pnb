@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 5:28",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اِک",
+      "rationale": "عبرانی وِچ عدد نئیں، پنجابی وِچ واحد پُتر لئی چاہیدا۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "عمر",
+      "rationale": "دو اَٹھانوے سال جد لَمیکھ دا پُتر جَمّیا۔"
+    }
+  ],
+  "translation": "تے لَمیکھ جِیا دو اَٹھانوے سال تے سو سال، تے اوہنے اِک پُتر جَمّیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "387d66e7e1f1c6685d933dce2330790d96c9edc35d6fc2019e71551119d62579",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/5\/25-28.1792094743794.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "جِیا"
+    },
+    {
+      "surface": "لמך",
+      "gloss": "لَمیکھ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "تے اَٹھانوے"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "تے سو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "جَمّیا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    }
+  ],
+  "timestamp": "2026-10-15T20:05:43.795862148Z",
+  "model": "glm-5.3"
+}

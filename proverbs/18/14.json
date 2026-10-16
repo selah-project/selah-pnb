@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 18:14",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "روح",
+      "rationale": "רוח دا مطلب ساہ\/ہوا\/جی وی اے — 'روح' سانجھا پر پورا نئیں"
+    },
+    {
+      "kind": "crux",
+      "subject": "נכאה",
+      "rationale": "'ماری ہوئی' لفظی (नाछा = ماریا گیا)؛ ' ٹُٹی ہوئی' (KJV\/JPS) مطلب دی گل کردی اے، لفظ نئیں"
+    },
+    {
+      "kind": "invitation",
+      "subject": "پر ماری ہوئی روح نوں کہڑا چُکّے؟",
+      "rationale": "پرچے والا سوال پڑھن والے نوں جواب دین تے مجبور کردا اے"
+    }
+  ],
+  "translation": "بندے دی روح اوہدی بیماری نوں سہار دیندی اے، پر ماری ہوئی روح نوں کہڑا چُکّے؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0caa280d11821f426c443f316129b619762aff88ad1807092ef6444b23708b50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/18\/13-16.1792114840308.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندے دی"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "سہار دیندی اے"
+    },
+    {
+      "surface": "מחלהו",
+      "gloss": "اوہدی بیماری نوں"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "پر روح"
+    },
+    {
+      "surface": "נכאה",
+      "gloss": "ماری ہوئی"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کہڑا"
+    },
+    {
+      "surface": "ישאנה",
+      "gloss": "چُکّے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:40:40.309173268Z",
+  "model": "glm-5.3"
+}

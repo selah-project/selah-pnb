@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 10:8",
+  "book": "zechariah",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אשרקה — سیٹی مارنا",
+      "rationale": "عبرانی وِچ سیٹی چرواہے دے اکٹھے کرن دا اشارہ اے — تُرن والے پرندے نوں بلاؤن دا سُرت لفظ۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "כמו רבו",
+      "rationale": "'جیویں اوہ ودھے سن' — ماضی دی گنتی، یا 'توں اوہ ودھن گے' — دونوں پڑھائیاں موجود نیں۔"
+    }
+  ],
+  "translation": "میں اوہناں نوں سیٹی ماراں گا تے اوہناں نوں اکٹھا کراں گا، کیوں جے میں اوہناں نوں چھڑایا اے، تے اوہ اوہناں ودھن وانگ ودھنگے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9673acada831d6f6b8a432867083438694cd5935c0468f51ebe476f7e49a291b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/zechariah\/10\/5-8.1792111669085.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרקה",
+      "gloss": "سیٹی ماراں گا"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اوہناں نوں"
+    },
+    {
+      "surface": "ואקבצם",
+      "gloss": "اکٹھا کراں گا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جے"
+    },
+    {
+      "surface": "פדיתים",
+      "gloss": "چھڑایا اے"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "تے اوہ ودھنگے"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "وانگ"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "ودھے سن"
+    }
+  ],
+  "timestamp": "2026-10-16T00:47:49.086957312Z",
+  "model": "glm-5.3"
+}

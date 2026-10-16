@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 18:4",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מהולל אקרא יהוה",
+      "rationale": "'ستایا ہویا میں یاہوہ نوں پکاریاںگا' (JPS) بمقابلہ 'میں اوہ یاہوہ نوں پکاریاںگا جِہڑا ستائی دا اہل اے' (KJV)"
+    },
+    {
+      "kind": "addition",
+      "subject": "دی ستائی",
+      "rationale": "پنجابی صفت نوں پورا کرن لئی بریکٹ وِچ ودھایا"
+    }
+  ],
+  "translation": "سِتایا جاݨ والے ⟨دی ستائی⟩ نال میں پکاریاںگا، یاہوہ نوں، تے میرے ویریاں توں میں بَچ جاواںگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e28fc1822d7d84c5e1db7c55d6117fb6d3de7064cbc4450b793b609df53c8ce2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/18\/1-4.1792112008092.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מהלל",
+      "gloss": "سِتایا جاݨ والا"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "میں پکاریاںگا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ نوں"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "تے توں"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "میرے ویریاں"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "میں بَچ جاواںگا"
+    }
+  ],
+  "timestamp": "2026-10-16T00:53:28.093737652Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 103:6",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ہے",
+      "rationale": "عبرانی وِچ کوئی فعل 'to be' نئیں؛ پنجابی جملے لئی 'ہے' چاہیدا اے پر ایتھے ساخت اسمی اے تے فعل نئیں پایا گیا۔"
+    }
+  ],
+  "translation": "یاہوہ نیائے کردا اے، تے سب دبوئیاں ہوئیاں لئی فیصلے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "76921e225b98ec9ed64292986f687e5ad0aa90daadad06d654cd0993598f9e85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/103\/5-8.1792113472934.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "کردا اے"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "نیائے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "تے فیصلے"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سب … لئی"
+    },
+    {
+      "surface": "עשוקים",
+      "gloss": "دبوئیاں ہوئیاں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:17:52.935444417Z",
+  "model": "glm-5.3"
+}

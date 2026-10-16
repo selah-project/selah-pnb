@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 36:32",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "پنج پنج",
+      "rationale": "ہر پاسے پنج شہتیاں دی گنتی — پیمائش جاری اے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "سمندر ول",
+      "rationale": "ימה لفظی 'سمندر ول' اے — لدھیکن 'لہندے ول' کہندے نیں؛ لفظی شکلی رکھی۔"
+    }
+  ],
+  "translation": "تے مسکن دے دوجے پاسے دے تختیاں لئی پنج شہتیاں، تے مسکن دے پچھلے پاسے، سمندر ول، لئی پنج شہتیاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6a3b8ebaf56c4fa1757c3cfbc7b831b16826c7bbf5f050d4c4e5f0b9ca1736d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/36\/29-32.1792097241302.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחמשה",
+      "gloss": "تے پنج"
+    },
+    {
+      "surface": "בריחם",
+      "gloss": "شہتیاں"
+    },
+    {
+      "surface": "לקרשי",
+      "gloss": "تختیاں لئی"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "پاسے"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مسکن"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "دوجے"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "تے پنج"
+    },
+    {
+      "surface": "בריחם",
+      "gloss": "شہتیاں"
+    },
+    {
+      "surface": "לקרשי",
+      "gloss": "تختیاں لئی"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مسکن"
+    },
+    {
+      "surface": "לירכתים",
+      "gloss": "پچھلے پاسے"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "سمندر ول"
+    }
+  ],
+  "timestamp": "2026-10-15T20:47:21.303830876Z",
+  "model": "glm-5.3"
+}

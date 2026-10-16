@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 84:11",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 84,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "הסתופף",
+      "rationale": "ایہہ صیغہ صرف ایتھے آؤندا اے — بوہے\/ڈیوڑی تے بہہ کے اُڈیکنا، 'دربان' نئیں"
+    },
+    {
+      "kind": "crux",
+      "subject": "הסתופף",
+      "rationale": "'ڈیوڑی تے ٹکن والا' بمقابلہ روايتی 'دربان' — عبرانی لفظ تھڑے نال جُڑیا اے، نوکری نئیں"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨توں⟩",
+      "rationale": "مقابلے دا حرف عبرانی وِچ من دے اگلار نال مضمر اے، پنجابی وِچ لکھنا پیندا اے"
+    }
+  ],
+  "translation": "کیوں جو اِک دن تیرے ویڑھیاں وِچ ہزار ⟨توں⟩ چنگا اے؛ میں چُنیا اے میں ایلوہیم دے گھر دی ڈیوڑی تے ٹکنا، بدکاراں دے ٹباناں وِچ رہن ⟨توں⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e6c8cc7d871f0aa3b67593935998350e009bd1525591d60cd78812ebb8273999",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/84\/9-12.1792113263520.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگا"
+    },
+    {
+      "surface": "יום",
+      "gloss": "اِک دن"
+    },
+    {
+      "surface": "בחצריך",
+      "gloss": "تیرے ویڑھیاں وِچ"
+    },
+    {
+      "surface": "מאלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "میں چُنیا اے"
+    },
+    {
+      "surface": "הסתופף",
+      "gloss": "ڈیوڑی تے ٹکنا"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "گھر وِچ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "מדור",
+      "gloss": "رہنا"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "ٹباناں وِچ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدکار"
+    }
+  ],
+  "timestamp": "2026-10-16T01:14:23.521298558Z",
+  "model": "glm-5.3"
+}

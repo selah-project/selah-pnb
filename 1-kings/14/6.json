@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 14:6",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "یَرووُعام دی زنانی",
+      "rationale": "اَخیاہوُ سدھی گل اوہدے نال کردا اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨سنیہا⟩",
+      "rationale": "עברי وِچ صرف 'سخت' اے؛ 'سنیہا' پنجابی جملے لئی پایا گیا۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "שלוח קשה",
+      "rationale": "'سخت بھیجیا گیا آں' — KJV 'بھاری خبر'، YLT 'تلخ گل'؛ عبرانی وچ صفت اِکلا اے۔"
+    }
+  ],
+  "translation": "تے ہویا، جد اَخیاہوُ نے دروازے وِچ آؤندی اوہدے پیراں دی ⟨את⟩ آواز سنی، تے اوہنے آکھیا: آ جا، یَرووُعام دی زنانی! کیوں ایویں ⟨את⟩ بھیس وٹا کے آئیں؟ میں تیرے کول سخت ⟨سنیہا⟩ لَے کے بھیجیا گیا آں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a9f675a4df74d6852a5c69f02461ccc235ec46797f0394d24065f75a6c334a25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/14\/5-8.1792104508926.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے ہویا"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "جد سنّا"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "اَخیاہوُ نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آواز"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "רגליה",
+      "gloss": "اوہدے پیراں دی"
+    },
+    {
+      "surface": "באה",
+      "gloss": "آؤندی"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "دروازے وِچ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "באי",
+      "gloss": "آ جا"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "زنانی"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "یَرووُعام دی"
+    },
+    {
+      "surface": "למה",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایویں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "توں بھیس وٹا کے آئیں"
+    },
+    {
+      "surface": "מתנכרה",
+      "gloss": "بھیس وٹا کے آئیں"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "تے میں"
+    },
+    {
+      "surface": "שלוח",
+      "gloss": "بھیجیا گیا آں"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تیرے کول"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "سخت"
+    }
+  ],
+  "timestamp": "2026-10-15T22:48:28.927814086Z",
+  "model": "glm-5.3"
+}

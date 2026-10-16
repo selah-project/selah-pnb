@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 13:13",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וטהר\/טהור",
+      "rationale": "اکو جڑ ט-ה-ر دو واری — کم تے فعل پھر نتیجہ، پنجابی وِچ پاک\/پاک ٹھہرائے نال بجھایا۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "کوڑھ",
+      "rationale": "צרעת چمڑی دی کئی پیڑاواں لئی اے، صِرف کوڑھ نئیں — ایتھے وسیع مطلب رکھیا اے۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "پاکی ٹھہراؤن",
+      "rationale": "کاہن دی جانچ دا فیصلہ — طہارت دی گنتی دا کارروبار۔"
+    }
+  ],
+  "translation": "تے کاہن ویکھے، تے ویکھو، جے کوڑھ نے ⟨את⟩ سارے اوہدے ماس نوں ڈھکّ لیا ہووے، تاں اوہ ⟨את⟩ ناسُور والے نوں پاک ٹھہرائے؛ سارا ہُیا چٹا اے — اوہ پاک اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5ad1b29ac8e96399573dfb9b157c5675ed88159750ad6ea54d145a21e503c971",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/13\/13-16.1792097665539.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "تے ویکھے"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "تے ویکھو"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "ڈھکّ لیا ہووے"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "کوڑھ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سارے اوہدے ماس"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "اوہدے ماس"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "پاک ٹھہرائے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ناسُور والے"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ناسُور"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "ہُیا"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "چٹا"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    }
+  ],
+  "timestamp": "2026-10-15T20:54:25.540695987Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "daniel 8:15",
+  "book": "daniel",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨سی⟩",
+      "rationale": "عبرانی وِچ کوئی فعل 'سی' نئیں — پنجابی لئی پایا گیا"
+    },
+    {
+      "kind": "mystery",
+      "subject": "دیدار",
+      "rationale": "دانی‌ایل آپ سمجھ لئی کھوجدا اے — وضاحت ہور بند اے، اگلے بندے توں منگی جاوے گی"
+    }
+  ],
+  "translation": "تے ہویا، جدوں میں دانی‌ایل نے ⟨את⟩ دیدار ویکھیا، تے میں سمجھ لئی کھوج کیتی، تے ویکھو، اِک بندے دی شکل میرے ساہمنے کھلوتی ہوئی ⟨سی⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f01d3cfe2e22e77903adaed5bd8d3f7b7e9931f1d9fd3f4e3a15e7bf6817d255",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/daniel\/8\/13-16.1792118546325.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے ہویا"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "جدوں میں ویکھیا"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "دانی‌ایل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دیدار"
+    },
+    {
+      "surface": "החזון",
+      "gloss": "دیدار"
+    },
+    {
+      "surface": "ואבקשה",
+      "gloss": "تے میں کھوج کیتی"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "سمجھ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "تے ویکھو"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "کھلوتی ہوئی"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "میرے ساہمنے"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "دی شکل وانگ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "بندے"
+    }
+  ],
+  "timestamp": "2026-10-16T02:42:26.325959477Z",
+  "model": "glm-5.3"
+}

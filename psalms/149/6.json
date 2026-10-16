@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 149:6",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 149,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "פיפיות",
+      "rationale": "تنخ وِچ صرف ایتھے آندا اے — تلوار دی دھاراں"
+    },
+    {
+      "kind": "crux",
+      "subject": "گلے وِچ",
+      "rationale": "בגרונم لفظی 'گلا' اے، جیبھ نئیں — مطلب گلوں نکلدا گاؤنا"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גרונם\/רננו",
+      "rationale": "گلے وِچ تعریف تے وچھاؤناں اُتے گاؤنا — پچھلی آیت دی آواز نال جُڑیا ہویا اے"
+    }
+  ],
+  "translation": "ایلوہے دیاں اُچیاں تعریفاں اوہناں دے گلے وِچ، تے دو-دھاری تلوار اوہناں دے ہتھ وِچ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "138774c5926d3ebe1c2386901e2fdc7601bfdce21de5403bc196f06529cc508b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/149\/5-8.1792114260440.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רוממות",
+      "gloss": "اُچیاں تعریفاں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایلوہے دیاں"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "اوہناں دے گلے وِچ"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "تے تلوار"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "دو-دھاری"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "اوہناں دے ہتھ وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:31:00.441305632Z",
+  "model": "glm-5.3"
+}

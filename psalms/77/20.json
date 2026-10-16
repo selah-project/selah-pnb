@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 77:20",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سی\/سن",
+      "rationale": "عبرانی وِچ کوئی کارک نئیں، پنجابی واک بھانک منگدا اے — ⟨⟩ دے بجائے کریا نال جوڑ دتا۔"
+    },
+    {
+      "kind": "mystery",
+      "subject": "پیراں دے نشان",
+      "rationale": "خدا دے ونجھر پانیاں وِچ نیں پر اوہدے نشان لُکے نیں — لُکایا ہویا مطابق۔"
+    }
+  ],
+  "translation": "سمندر وِچ تیرا راہ سی، تے تیرے ونجھراں وڈے پانیاں وِچ سن، تے تیرے پیراں دے نشان نئیں پچھانے گئے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "237a6ef3212480a073053ad2f6687c93a9331e9aa81b618ee548636cfbb71808",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/77\/17-20.1792113010301.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בים",
+      "gloss": "سمندر وِچ"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "تیرا راہ"
+    },
+    {
+      "surface": "ושביליך",
+      "gloss": "تے تیرے ونجھراں"
+    },
+    {
+      "surface": "במים",
+      "gloss": "پانیاں وِچ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "وڈے"
+    },
+    {
+      "surface": "ועקבותיך",
+      "gloss": "تے تیرے پیراں دے نشان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "נדעו",
+      "gloss": "پچھانے گئے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:10:10.302937795Z",
+  "model": "glm-5.3"
+}

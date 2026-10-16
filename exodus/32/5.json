@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 32:5",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "عبرانی وِچ فعل دی کوئی وضاحت نئیں، پنجابی جملے لئی ⟨اے⟩ منگدا اے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "چھُٹی",
+      "rationale": "חג دا دوجا مت 'تےوار' نیڑے اے پر 'چھُٹی' وی ہو سکدا اے؛ شبّات دے قاعدے مطابق 'تےوار' رکھیا"
+    }
+  ],
+  "translation": "تے اہرون نے ویکھیا، تے اوہدے اگے اِک قربانی دی چبوترہ بنائی، تے اہرون نے اِعلان کیتا تے آکھیا: کل یاہوہ لئی تےوار اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a86d8070e73ea6d61ab0898d7dc1f3ffd2ceb56b1188d97681b29f5c68199caa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/32\/5-8.1792097100895.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "تے ویکھیا"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون نے"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "تے بنائی"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "قربانی دی چبوترہ"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "اوہدے اگے"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "تے اِعلان کیتا"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون نے"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "חג",
+      "gloss": "تےوار"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ لئی"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "کل"
+    }
+  ],
+  "timestamp": "2026-10-15T20:45:00.896245047Z",
+  "model": "glm-5.3"
+}

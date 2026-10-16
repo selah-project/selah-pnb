@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "بے-عقل",
+      "rationale": "בער پشوواں ورگی بھلّاکت دا چتر اے — 'بے-عقل' اس دا نیڑے دا پنجابی رنگ اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אהב…אהב",
+      "rationale": "اوہو کریا دو واری — پیار دے دو پہلو، پنجابی وِچ ایہہ دہراؤ رکھیا گیا"
+    }
+  ],
+  "translation": "جو پرکھ-سکھیا دا پیاری اے، اوہ جانن دا پیاری اے، پر جو تانخاہ نوں نفرت کردا اے، اوہ بے-عقل اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0638d996d48731068fb7026737d18735acaf4c13abd6173197b0aa539974cd24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/12\/1-4.1792114647374.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "پیاری اے"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "پرکھ-سکھیا"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "پیاری اے"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "جانن"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "تانخاہ نوں نفرت کردا اے"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "تانخاہ"
+    },
+    {
+      "surface": "בער",
+      "gloss": "بے-عقل"
+    }
+  ],
+  "timestamp": "2026-10-16T01:37:27.375311871Z",
+  "model": "glm-5.3"
+}

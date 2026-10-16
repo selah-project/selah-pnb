@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 94,
+  "ref": "psalms 119:94",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "آں",
+      "rationale": "לך אנی وِچ کوئی فعل نئیں، پنجابی نوں copula چاہیدا اے"
+    },
+    {
+      "kind": "invitation",
+      "subject": "مینوں بچا لے",
+      "rationale": "ربّ نوں پُکاریا گیا فریاد"
+    }
+  ],
+  "translation": "میں تیرا آں، مینوں بچا لے، کیوں جو میں تیریاں حکماں نوں کھوجیا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "134277dd293f18750098f9e80223d4b030993d4db6efc606d416f1c1af5ecc17",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/119\/93-96.1792113857953.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "تیرا"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "مینوں بچا لے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "تیریاں حکماں"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "میں کھوجیا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:24:17.954061299Z",
+  "model": "glm-5.3"
+}

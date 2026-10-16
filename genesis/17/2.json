@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 17:2",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "במאד מאד",
+      "rationale": "اوہو لفظ دو واری — 'بہت ہی بہت' دی دہرائی رکھی گئی اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "اپنا",
+      "rationale": "בריתי اول شخص دی ملکیت دسدا اے؛ پنجابی 'اپنا' چاہیدی اے۔"
+    }
+  ],
+  "translation": "تے میں اپنا عہد میرے تے تیرے وِچکار دواںگا، تے ⟨את⟩ تینوں بہت ہی بہت وَداھواںگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c07c6c2ce2c35f2ef0bddc2c3f1f571aa6b1b35c8dac516fc702515ef473251e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/17\/1-4.1792095065303.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "تے میں دواںگا"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "اپنا عہد"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "میرے تے"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "تیرے وِچکار"
+    },
+    {
+      "surface": "וארבה",
+      "gloss": "تے وَداھواںگا"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "تینوں"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "بہت ہی"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بہت"
+    }
+  ],
+  "timestamp": "2026-10-15T20:11:05.304701218Z",
+  "model": "glm-5.3"
+}

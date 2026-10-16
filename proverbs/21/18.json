@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 21:18",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כפר",
+      "rationale": "'فدیہ' (kopher) — بچاؤݨ دی قیمت؛ کجھ مترجم 'کفارہ' لیندے نیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "بغاوت کرن والا",
+      "rationale": "בוגד اصل وِچ 'لُک کے دغا کرن والا' — پردہ چکّݨ والا، 'دغاباز' نیڑے دا لفظ اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨اے⟩",
+      "rationale": "عبرانی وِچ کوئی فعل نئیں — 'اے' پنجابی جملے لئی پایا گیا"
+    }
+  ],
+  "translation": "بدکار نیک لئی فدیہ ⟨اے⟩، تے دغاباز سیدھیاں دی تھاں ⟨اے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "00ec8059659f6647b954235f0a8e886bcb31701761039b161e0ae23e2dde182e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/21\/17-20.1792114946310.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כפר",
+      "gloss": "فدیہ"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "نیک لئی"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "تے … دی تھاں"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "سیدھے"
+    },
+    {
+      "surface": "בוגד",
+      "gloss": "دغاباز"
+    }
+  ],
+  "timestamp": "2026-10-16T01:42:26.311528954Z",
+  "model": "glm-5.3"
+}

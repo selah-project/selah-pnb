@@ -1,0 +1,168 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 28:15",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨توں⟩",
+      "rationale": "مِن دا postposition وکھ لکھیا — عبرانی وِچ مِن دا مہر ہی اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "نہ",
+      "rationale": "גם…גם 'وی…وی' دا جوڑ اے، پنجابی وِچ 'نہ…نہ' مُرادی جوڑ بنیا"
+    },
+    {
+      "kind": "you",
+      "subject": "to شاؤل",
+      "rationale": "شمُوایل شاؤل نوں سدھا مخاطب کردا اے"
+    }
+  ],
+  "translation": "تے شمُوایل نے شاؤل نوں آکھیا: میں کیوں گھبرایا اے میں ⟨את⟩ منوں اُتے چُکن لئی؟ تے شاؤل نے آکھیا: میں بہت تنگ آں، تے فلسطی میرے نال لڑ رہے نیں، تے ایلوہیم میرے ⟨توں⟩ مُڑ گیا اے تے میرا جواب ہور نئیں دیندا — نہ نبیاں دے ہتھ نال، نہ خواباں وِچ — تے میں تینوں پکاریا اے جے توں مینوں دسّیں میں کیہ کراں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ade02ef3a9ad94f441db98b89751d15262df2e16e71f91bdedad06bb1d9cf35f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/28\/13-16.1792102940676.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شمُوایل نے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "למה",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "הרגזתני",
+      "gloss": "میں گھبرایا اے"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "اُتے چُکن لئی"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "منوں"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل نے"
+    },
+    {
+      "surface": "צר",
+      "gloss": "تنگ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بہت"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "تے فلسطی"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "لڑ رہے نیں"
+    },
+    {
+      "surface": "בי",
+      "gloss": "میرے نال"
+    },
+    {
+      "surface": "ואלהים",
+      "gloss": "تے ایلوہیم"
+    },
+    {
+      "surface": "סר",
+      "gloss": "مُڑ گیا"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "میرے توں"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "میرا جواب دیندا"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ہور"
+    },
+    {
+      "surface": "גם",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ہتھ نال"
+    },
+    {
+      "surface": "הנביאם",
+      "gloss": "نبیاں دے"
+    },
+    {
+      "surface": "גם",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "בחלמות",
+      "gloss": "خواباں وِچ"
+    },
+    {
+      "surface": "ואקראה",
+      "gloss": "تے میں پکاریا اے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تینوں"
+    },
+    {
+      "surface": "להודיעני",
+      "gloss": "مینوں دسّن لئی"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "میں کراں"
+    }
+  ],
+  "timestamp": "2026-10-15T22:22:20.678003702Z",
+  "model": "glm-5.3"
+}

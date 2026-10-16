@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 47:4",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اے⟩",
+      "rationale": "عبرانی وِچ copula نئیں، پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "گہیتا",
+      "rationale": "גואל رشتے داری دے حق نال دوبارہ ملان والا اے — «بدلا دین والا» دوجا پڑھائی اے پر رشتے دی گونج مِٹ جاندی اے"
+    }
+  ],
+  "translation": "ساڈا گہیتا — یاہوہ تصواوت، اوہدا ناں، یِسرائیل دا پوترا ⟨اے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5df712179c3561addb28d02fc3306242bd3dc3172ff321cf40358524da1f55e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/47\/1-4.1792106875056.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גאلנו",
+      "gloss": "ساڈا گہیتا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "تصواوت"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اوہدا ناں"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "پوترا"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل دا"
+    }
+  ],
+  "timestamp": "2026-10-15T23:27:55.057568003Z",
+  "model": "glm-5.3"
+}

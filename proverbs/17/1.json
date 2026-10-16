@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 17:1",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חרבה",
+      "rationale": "پَتھری چکی ہوئی — اردو وچ 'dry' دا مطلب بے چاشنی روٹی اے، ایتھے کُل ملا کے سادگی دا سواد اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זבחי ריב",
+      "rationale": "دو وکھرے ٹوکن نیں (قربانیاں + جھیڑا) — کجھ ترجمے اک وچ رلا دیندے نیں (feasting-with-strife)"
+    }
+  ],
+  "translation": "چکی ہوئی ٹکڑی روٹی تے اوہدے نال سُکھ، اِک بھرے ہوئے گھر توں ودھ اے جِتھے جھیڑے دے قربانیاں نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a4a6ac4f9a499f64129053a89dbef8434d73903c1126f2fa50528d16e8a6236f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/17\/1-4.1792114823069.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ودھ اے"
+    },
+    {
+      "surface": "פת",
+      "gloss": "ٹکڑی روٹی"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "چکی ہوئی"
+    },
+    {
+      "surface": "ושלוה",
+      "gloss": "تے سُکھ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اوہدے نال"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "گھر توں"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "بھرے ہوئے"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "قربانیاں"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "جھیڑے دے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:40:23.070140290Z",
+  "model": "glm-5.3"
+}

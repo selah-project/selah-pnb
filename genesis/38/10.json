@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "עיני יהוה",
+      "rationale": "'یاہوہ دیاں اکھاں وِچ' — عبرانی ول نال 'دیکھن وِچ'، سدھا رکھیا۔"
+    }
+  ],
+  "translation": "تے جو اوہنے کیتا اوہ یاہوہ دیاں اکھاں وِچ برا لگیا، تے اوہنے ⟨את⟩ اوہنوں وی مار دتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "728ea4c03aec7648d7e71e56510b6ced529350819451d3582a7efaff8d84647d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/38\/9-12.1792095740326.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "برا لگیا"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "اکھاں وِچ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کیتا"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "تے مار دتا"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "اوہنوں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:22:20.327895519Z",
+  "model": "glm-5.3"
+}

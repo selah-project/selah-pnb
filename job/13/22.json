@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 13:22",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "کون پُکارے",
+      "rationale": "عبرانی فاعل نئیں دسدا — 'تُوں پُکارے تے میں جواب دِواں' جاں الٹ؛ پنجابی وِچ فاعل ⟨تُوں⟩\/⟨میں⟩ دسنا پئے گئے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "تُوں \/ میں",
+      "rationale": "عبرانی فعل فاعل دسدا اے پر پنجابی صیغے وِچ صاف کرن لئی وکھو وکھ پاؤنا پئے گئے۔"
+    }
+  ],
+  "translation": "تُوں پُکار، تے میں جواب دِواں؛ اَوں میں بولاں، تے تُوں مینوں جواب دے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a455f1b1c4bd559dde3698b0fa191b8eb7851ba0399fd9e51d07de977f477286",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/13\/21-24.1792115643928.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וקרא",
+      "gloss": "تُوں پُکار"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "تے میں"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "جواب دِواں"
+    },
+    {
+      "surface": "או",
+      "gloss": "اَوں"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "میں بولاں"
+    },
+    {
+      "surface": "והשיבני",
+      "gloss": "تُوں مینوں جواب دے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:54:03.928773892Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 60:10",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בקצפי\/ברצוני",
+      "rationale": "غصہ تے رضا دا متواز جوڑا — مارنا تے ترس — چیا سمٹ دے دوالے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "پردیسی",
+      "rationale": "בני נכر دا پلہ 'پردیس دے پُترّ' — 'پردیسی' اوہی تصویر سُکھیا رکھدا اے"
+    }
+  ],
+  "translation": "تے پردیسی تیریاں کندھاں اسارن گے، تے اوہناں دے بادشاہ تیری خدمت کرن گے، کیونجے میں اپنے غصے وِچ تینوں ماریا سی، تے اپنی رضا وِچ تے اُتے ترس کیتا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e2274909abaf17382b4b98f49589b8ab97b238f8d83b1536cbd2390c671c697e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/60\/9-12.1792107068076.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "تے اسارن گے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُترّ"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "پردیس"
+    },
+    {
+      "surface": "חמתיך",
+      "gloss": "تیریاں کندھاں"
+    },
+    {
+      "surface": "ומלכיהם",
+      "gloss": "تے اوہناں دے بادشاہ"
+    },
+    {
+      "surface": "ישרתונך",
+      "gloss": "تیری خدمت کرن گے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "בקצפי",
+      "gloss": "میرے غصے وِچ"
+    },
+    {
+      "surface": "הכיתיך",
+      "gloss": "تینوں ماریا"
+    },
+    {
+      "surface": "וברצוני",
+      "gloss": "تے میری رضا وِچ"
+    },
+    {
+      "surface": "רחמתיך",
+      "gloss": "تے اُتے ترس کیتا"
+    }
+  ],
+  "timestamp": "2026-10-15T23:31:08.077815767Z",
+  "model": "glm-5.3"
+}

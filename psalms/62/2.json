@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جان دا مادہ اے، کلیجہ نئیں"
+    },
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "عبرانی وِچ کوئی فعل نیں، پنجابی جُملے لئی چاہیدا سی"
+    }
+  ],
+  "translation": "اِکّو ایلوہیم لئی میری جان خاموش اے؛ اوہدے توں میری خلاصی ⟨اے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "99a02712f8da45a1a4f3f7df4dc6dec9be442ed979a6e6c10ebe842f699d54a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/62\/1-4.1792112800144.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "اِکّو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لئی"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "خاموش"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میری جان"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "اوہدے توں"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "میری خلاصی ⟨اے⟩"
+    }
+  ],
+  "timestamp": "2026-10-16T01:06:40.144756350Z",
+  "model": "glm-5.3"
+}

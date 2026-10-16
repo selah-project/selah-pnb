@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 13:17",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اے⟩",
+      "rationale": "عبرانی وِچ کوئی فعل نئیں، پنجابی نوں جوڑ مانگدا"
+    },
+    {
+      "kind": "crux",
+      "subject": "ציר",
+      "rationale": "شیریہ اے — 'کھُلی دروازے دی ہیندج' توں 'سفیر'؛ کجھ مترجم 'دکھ' (پرسیش) پڑھدے نیں"
+    }
+  ],
+  "translation": "رشے دا ایلچی برائی وِچ پیندا اے، تے امانت والیاں دا سفیر شفا ⟨اے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9f12e9deddf112db526c31462abd0a43af59dbbe6b903eddf374fc951026c0e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/13\/17-20.1792114676719.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלאך",
+      "gloss": "ایلچی"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "رشے دا"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "پیندا اے"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "برائی وِچ"
+    },
+    {
+      "surface": "וציר",
+      "gloss": "تے سفیر"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "امانت والیاں دا"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "شفا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:37:56.719793644Z",
+  "model": "glm-5.3"
+}

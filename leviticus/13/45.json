@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 13:45",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "טמא טמא",
+      "rationale": "دوجا 'نجس' پہلے نال جوڑ اے؛ پنجابی وِچ دوہرا رکھیا گیا اے پر عبرانی دی چیک سٹرکچر پوری تریہاں نئیں لیندا۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שפם",
+      "rationale": "'لب دا اوہ حصہ' یعنی مُچھاں\/داہنیھ؛ 'لب' نیڑےویں عام لفظ رکھیا اے۔"
+    },
+    {
+      "kind": "you",
+      "subject": "صرعی",
+      "rationale": "آیت صرعی نوں خود نوں نجس اکھان لئی حکم دیندی اے — بندیاں ول سدھا مخاطب۔"
+    }
+  ],
+  "translation": "تے جیہڑا صرعی اوہدے وِچ نگاہ اے، اوہدے کپڑے پھٹے ہوئے ہون گے تے اوہدا سر کھلا ہووےگا، تے اوہ اوہدے لب اُتے ⟨پردہ⟩ ڈھکے گا تے پکاریگا: نجس، نجس۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "870586b47f6230994bde4f45ef558cae91c02be95bf41b34722dbe19c5b1c320",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/13\/45-48.1792097685827.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והצרוע",
+      "gloss": "تے اوہ صرعی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوہدے وِچ"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "نگاہ اے"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "اوہدے کپڑے"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ہون گے"
+    },
+    {
+      "surface": "פרמים",
+      "gloss": "پھٹے ہوئے"
+    },
+    {
+      "surface": "וראשו",
+      "gloss": "تے اوہدا سر"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہووےگا"
+    },
+    {
+      "surface": "פרוע",
+      "gloss": "کھلا"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "تے اوہدے اُتے"
+    },
+    {
+      "surface": "שפם",
+      "gloss": "لب"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "ڈھکے گا"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "تے پکاریگا: نجس"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "نجس"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "اکھیگا"
+    }
+  ],
+  "timestamp": "2026-10-15T20:54:45.828470643Z",
+  "model": "glm-5.3"
+}

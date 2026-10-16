@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 32:12",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מוכיח",
+      "rationale": "'ثابت کرن والا\/دوجھ لاؤن والا' — ہیٹھلا متن کہندا اے کہ ایوب نوں کوئی غلط ثابت نئیں کر سکیا۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "بولدے ہوئے",
+      "rationale": "'עדיכם' لفظی 'تہاڈے تک' اے — پنجابی جملے لئی 'بولدے ہوئے' پورا کیتا گیا۔"
+    }
+  ],
+  "translation": "تے تہاڈے ⟨بولدے ہوئے⟩ میں غور کردا رہا، تے ویکھو، ایوو لئی کوئی ثابت کرن والا نئیں، جیہڑا تہاڈے وِچوں اوہدیاں گلاں دا جواب دےوے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2743f4787f260e77c7363dc55da4eab6146757b1b3a753abdc93df51a4377513",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/32\/9-12.1792116202906.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועדיכם",
+      "gloss": "تے جدوں تیکر تسیں"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "غور کردا رہا"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "تے ویکھو"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کوئی نئیں"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "ایوو لئی"
+    },
+    {
+      "surface": "מוכיח",
+      "gloss": "ثابت کرن والا"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "جواب دےوے"
+    },
+    {
+      "surface": "אמריו",
+      "gloss": "اوہدیاں گلاں"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "تہاڈے وِچوں"
+    }
+  ],
+  "timestamp": "2026-10-16T02:03:22.907250478Z",
+  "model": "glm-5.3"
+}

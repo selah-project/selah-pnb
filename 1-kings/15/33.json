@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 15:33",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "تِجّھے سال · چَوِیں سال",
+      "rationale": " accession-dating formula: regnal years counted to fix Baasha's reign."
+    },
+    {
+      "kind": "addition",
+      "subject": "دے",
+      "rationale": "Punjabi needs the possessive linker between Asa and year; Hebrew construct bound directly."
+    },
+    {
+      "kind": "substitution",
+      "subject": "چَوِیں سال",
+      "rationale": "Hebrew literally 'twenty and four years'; Punjabi single compound numeral, the 'and' lost."
+    }
+  ],
+  "translation": "اَسا بادشاہ یہوداہ دے تِجّھے سال وِچ بَعشا بن اَحیّاہ نے سارے یِسرائیل اُتے تِرصاہ وِچ راج کیتا — چَوِیں سال۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d96b0cf71ede5319d91bb0ae1cab3a84c2d9dfbb37286ce78b09d8eb4044eac4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/15\/33-34.1792104520666.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "سال وِچ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "تِجّھے"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "اَسا"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "راج کیتا"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "بَعشا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "اَحیّاہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "کُل",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "تِرصاہ وِچ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "چَوِیں"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    }
+  ],
+  "timestamp": "2026-10-15T22:48:40.667278546Z",
+  "model": "glm-5.3"
+}

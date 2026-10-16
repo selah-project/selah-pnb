@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 6:1",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ایہہ",
+      "rationale": "پنجابی جد مشروط فارولا منگدا اے، عبرانی وِچ صرف ויהי כי اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לרב",
+      "rationale": "חלל دے نال 'لרب' — وادھا کرن لگا؛ اِک اکھر نال پورا وادھا دسیا گیا اے"
+    }
+  ],
+  "translation": "تے ہویا ⟨ایہہ⟩ کہ جدوں آدمی دھرتی دے اُتے منہ اُتے وادھا کرن لگا، تاں اوہناں نوں دھیاں جمیاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6f5d05b1df75c4da68acb387328f8973e4461c646bc8fa20ef3651a80ebcbaf2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/6\/1-4.1792094833908.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے ہویا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "החל",
+      "gloss": "لگا ⟨شروع کرن لگا⟩"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "آدمی نے"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "وادھا کرن"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "פני",
+      "gloss": "منہ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "دھرتی دے"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "تے دھیاں"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "جمیاں"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اوہناں نوں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:07:13.909512577Z",
+  "model": "glm-5.3"
+}

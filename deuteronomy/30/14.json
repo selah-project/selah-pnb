@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 30:14",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "عبرانی وِچ کوپلا نئیں؛ پنجابی نوں ⟨اے⟩ چائیدیا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "دل",
+      "rationale": "לב اندرونی انگ اے — سوچ، ارادہ،伓感 دا ٹکاݨا — صرف جسمانی دل نئیں"
+    }
+  ],
+  "translation": "کیونکہ اوہ بول تیرے پاس بہت نزدیک ⟨اے⟩ — تیرے مونہہ وِچ تے تیرے دل وِچ، اوہنوں کرن لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4f8c66424d7daa99706b57f5f4fce9669c01f481e3cef42f56e03646932a96ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/30\/13-16.1792100514616.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "نزدیک"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تیرے پاس"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "اوہ بول"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بہت"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "تیرے مونہہ وِچ"
+    },
+    {
+      "surface": "ובלבבך",
+      "gloss": "تے تیرے دل وِچ"
+    },
+    {
+      "surface": "לעשתו",
+      "gloss": "اوہنوں کرن لئی"
+    }
+  ],
+  "timestamp": "2026-10-15T21:41:54.617023893Z",
+  "model": "glm-5.3"
+}

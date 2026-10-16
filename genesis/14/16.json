@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 14:16",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וישב \/ השיב",
+      "rationale": "واپس لیایا دو واری — جڑ שׁוב (مڑنا) دوویں فعل اکو جڑ توں، واپسی دی گونج۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אחיو",
+      "rationale": "اپنے بھرا — مُڑ اکو لفظ، حالانکہ لوط بھتیجا اے۔"
+    }
+  ],
+  "translation": "تے اوہ ⟨את⟩ سارا مال واپس لیایا، تے ⟨את⟩ لوط اپنے بھرا تے اوہدا مال وی واپس لیایا، تے ⟨את⟩ زنانیاں تے ⟨את⟩ قوم نوں وی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "425d7bee350c0c8414460ae4a0eac6f92d69d45f16eab6fbf948206d520bfc13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/14\/13-16.1792094922092.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "تے واپس لیایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سارا مال"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "הרכש",
+      "gloss": "مال"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "تے وی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لوط"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "لوط"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "اپنے بھرا"
+    },
+    {
+      "surface": "ורכשו",
+      "gloss": "تے اوہدا مال"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "واپس لیایا"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "تے وی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زنانیاں"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "زنانیاں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "قوم"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    }
+  ],
+  "timestamp": "2026-10-15T20:08:42.093753110Z",
+  "model": "glm-5.3"
+}

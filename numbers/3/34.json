@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 3:34",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨نیں⟩",
+      "rationale": "عبرانی وِچ کوئی کپولا نئیں، پنجابی جملے لئی لوڑیا"
+    },
+    {
+      "kind": "measurement",
+      "subject": "گنتی",
+      "rationale": "مرداں دی سرزماری — چھ ہزار دو سو"
+    }
+  ],
+  "translation": "تے اوہناں دے گِنے ہوئے، ہر نَر دے گنن وِچ، اِک مہینے دے پُتر توں اُتے، چھ ہزار تے دو سو ⟨نیں⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "94ee822ea1cd080e82a9c3ae4a973c6189d57b7663fc238297908529d0a9476f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/3\/33-36.1792098284456.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופקדיהם",
+      "gloss": "تے اوہناں دے گِنے ہوئے"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "گنن وِچ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نَر"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "پُتر توں"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "اِک مہینے دے"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "تے دو سو"
+    }
+  ],
+  "timestamp": "2026-10-15T21:04:44.457141090Z",
+  "model": "glm-5.3"
+}

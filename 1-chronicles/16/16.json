@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כרת ברית",
+      "rationale": "Hebrew 'cut a covenant' (from cutting sacrifice pieces) rendered as عہد کیتا; the cutting picture is lost."
+    }
+  ],
+  "translation": "جیہڑا اوہنے ⟨את⟩ اَوراہام نال کیتا، تے اوہدی قسمت یِتصخاق لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "85d1b277e38615a449759ddec93424c8c476295bdbe19ff1c4e119ea62a75441",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/16\/13-16.1792120809287.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "کیتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَوراہام"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراہام"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "تے اوہدی قسمت"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "یِتصخاق لئی"
+    }
+  ],
+  "timestamp": "2026-10-16T03:20:09.288593285Z",
+  "model": "glm-5.3"
+}

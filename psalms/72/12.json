@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 72:12",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אביון",
+      "gloss_essay": null,
+      "rationale": "'مڑھتا\/محتاج' لفظی مطلب اے؛ 'غریب' پنجابی دا ریتا لفظ اے۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עזר\/לו",
+      "rationale": "'کوئی مدد گار نئیں اوہدا' — عبرانی 'وאין עזר לו' دی جوڑی پنجانی سِدھی رکھی گئی۔"
+    }
+  ],
+  "translation": "کیوں جو اوہ غریب نوں، جِہڑا پکارے، چھُٹاؤندا اے، تے کمزور نوں، جِہدے کوئی مدد گار نئیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "63f0d56d1d04716c83a1a61f91f75b1d1f3ec7aedc1192ba97e512b5c85cdda1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/72\/9-12.1792112886179.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "چھُٹاؤندا اے"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "משוע",
+      "gloss": "جِہڑا پکارے"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "تے کمزور"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "جِہدے کوئی نئیں"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "مدد گار"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:08:06.180910398Z",
+  "model": "glm-5.3"
+}

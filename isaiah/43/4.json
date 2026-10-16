@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 43:4",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "نَفِش ساہ\/جان-بل اے، صرف روح نئیں"
+    },
+    {
+      "kind": "measurement",
+      "subject": "بدلے دا حساب",
+      "rationale": "بندیاں تے قوماں دا لین-دین — آیت 3 نال جُڑیا موازنہ"
+    }
+  ],
+  "translation": "چونکہ تُو میریاں اکھاں وِچ مہنگا ایں، تُو عزت والا ایں، تے میں تینوں پیار کردا آں، اَتے میں بندیاں نوں تیری تھاں دواں گا، تے قوماں نوں تیری جان دے بدلے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "75c3a2509528dd63c405c304ddb61b0e9f530593919ccff20410724249b9bfa3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/43\/1-4.1792106745312.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מאשר",
+      "gloss": "چونکہ"
+    },
+    {
+      "surface": "יקרת",
+      "gloss": "تُو مہنگا ایں"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "میریاں اکھاں وِچ"
+    },
+    {
+      "surface": "נכבדת",
+      "gloss": "تُو عزت والا ایں"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "تے میں"
+    },
+    {
+      "surface": "אהבתיך",
+      "gloss": "تینوں پیار کردا آں"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "تے میں دواں گا"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "بندیاں نوں"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "تیری تھاں"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "تے قوماں نوں"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "دے بدلے"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "تیری جان"
+    }
+  ],
+  "timestamp": "2026-10-15T23:25:45.313307463Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 8:4",
+  "book": "2-chronicles",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "سامان-شہر",
+      "rationale": "המסכנות — اِک ٹوکن اے، 'کوٹھی\/سانبھ والے شہر'؛ پنجابی وِچ جوڑ کے رکھیا۔"
+    }
+  ],
+  "translation": "تے اُس نے بیابان وِچ ⟨את⟩ تدمر بنایا، تے ⟨את⟩ سارے اُنہاں سامان-شہراں دے جیہڑے اُس نے حمات وِچ بنائے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0887fe0077689ebb512d0d61c70a6f76e933866aa6fb9640791a798b5f6a6ab4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/8\/1-4.1792121910807.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "تے بنایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تدمر"
+    },
+    {
+      "surface": "תדמר",
+      "gloss": "تدمر"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "بیابان وِچ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "سارے سامان-شہر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تے سارے"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "شہراں دے"
+    },
+    {
+      "surface": "המסכנות",
+      "gloss": "سامان-شہراں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑے"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "بنائے"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "حمات وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T03:38:30.809313108Z",
+  "model": "glm-5.3"
+}

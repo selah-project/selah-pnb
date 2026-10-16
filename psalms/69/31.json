@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 69:31",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوہنوں",
+      "rationale": "عبرانی وِچ صیغہ لاحق اے (-נו)، پنجابی وِچ وکھو وکھ ضمیر چاہیدی اے"
+    }
+  ],
+  "translation": "میں ایلوہیم دے ناں نوں گیت نال وجلاواں گا، تے اوہنوں شکرگزاری نال وڈا کراں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ecbd938525e390dd6e7184c39c26f42f6cb084053ba9e37fb46a24d2c284a6cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/69\/31-32.1792124211319.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "وجلاواں گا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناں"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "בשיר",
+      "gloss": "گیت نال"
+    },
+    {
+      "surface": "ואגדלנו",
+      "gloss": "تے اوہنوں وڈا کراں گا"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "شکرگزاری نال"
+    }
+  ],
+  "timestamp": "2026-10-16T04:16:51.320169616Z",
+  "model": "glm-5.3"
+}

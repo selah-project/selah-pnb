@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 30:13",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "למזור",
+      "rationale": "ہاپھакс تقریباً — زخم جیہدے اُتے پٹی بنھنی اے؛ KJV 'bound up'، JPS 'wound'، Geneva 'plaister'۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תעלה",
+      "rationale": "لفظ دی شکل 'نہر\/پٹی' دوویں — ایتھے پٹی دا چننا 'لاعلاج' سیاق توں۔"
+    },
+    {
+      "kind": "elision",
+      "subject": "דן",
+      "rationale": "اِک ہی בنت 'مقدمہ چلاؤݨ' — پنجابی وِچ پھیلا کے لکھیا۔"
+    }
+  ],
+  "translation": "کوئی نئیں جو تیرے مقدمے دی سنّ کرے ⟨تیرے⟩ زخم دی پٹی بنھن لئی؛ تیرے لئی دوائیاں دا کوئی بندوبست نئیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "99297e10cd8919fe9d434c72cf7f0c844a03727ca62dde7d34ca55c9554d468d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/30\/13-16.1792108119011.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "کوئی نئیں"
+    },
+    {
+      "surface": "דן",
+      "gloss": "جج بنے"
+    },
+    {
+      "surface": "דינך",
+      "gloss": "تیرا مقدمہ"
+    },
+    {
+      "surface": "למזור",
+      "gloss": "زخم دی پٹی لئی"
+    },
+    {
+      "surface": "רפאות",
+      "gloss": "دوائیاں"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "پٹی بنھنا"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیرے لئی"
+    }
+  ],
+  "timestamp": "2026-10-15T23:48:39.011836679Z",
+  "model": "glm-5.3"
+}

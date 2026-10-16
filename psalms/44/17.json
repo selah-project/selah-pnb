@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 44:17",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ساڈے⟩",
+      "rationale": "Hebrew supplies no object; the fleeing 'we' of v.16 is implied"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מחרף\/ומגדף",
+      "rationale": "near-paronomasia of the two reviling participles, blurred in Punjabi"
+    }
+  ],
+  "translation": "بدّنکر کرن والے تے گالیاں دین والے دی آواز توں، دشمن تے بدلہ لین والے دے اگے ⟨ساڈے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "af2857dcbf67f5d8b33fbb5b3f7d7f8f9ff337c25f88568f6bdd8c66d187c799",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/44\/17-20.1792112495693.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "آواز توں"
+    },
+    {
+      "surface": "מחרף",
+      "gloss": "بدّنکر کرن والے"
+    },
+    {
+      "surface": "ומגדף",
+      "gloss": "تے گالیاں دین والے دی"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "دے اگے"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "دشمن"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "تے بدلہ لین والے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:01:35.694167583Z",
+  "model": "glm-5.3"
+}

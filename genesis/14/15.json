@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 14:15",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "مשמאל",
+      "rationale": "چپھے ہتھ — پوربی رخ دی سوچ وِچ چپھا ہتھ اُتلے\/اُتر دے ول ہندا اے؛ ⟨اتلے⟩ وضاحت پنجابی نے پائی، عبرانی نے نئیں۔"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ויחלק",
+      "rationale": "ونڈ کے ٹُریا — اوہ اپنی ٹولی ونڈ کے رات وِچ حملہ آیا۔"
+    }
+  ],
+  "translation": "تے اوہ راتو رات اوہناں اُتے، اوہ تے اوہدے غلام، ونڈ کے ٹُریا تے اوہناں نوں ماریا، تے اوہناں دا پچھا حوبہ تک کیتا، جیہڑا دمشق دے چپھے ہتھ ⟨اتلے⟩ ول اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "425d7bee350c0c8414460ae4a0eac6f92d69d45f16eab6fbf948206d520bfc13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/14\/13-16.1792094922092.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחלק",
+      "gloss": "تے ونڈ کے ٹُریا"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "اوہناں اُتے"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "راتو رات"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "تے اوہدے غلام"
+    },
+    {
+      "surface": "ויכם",
+      "gloss": "تے اوہناں نوں ماریا"
+    },
+    {
+      "surface": "וירדפם",
+      "gloss": "تے اوہناں دا پچھا کیتا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "חובה",
+      "gloss": "حوبہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "مשמאל",
+      "gloss": "چپھے ہتھ"
+    },
+    {
+      "surface": "לדמשק",
+      "gloss": "دمشق دے ول"
+    }
+  ],
+  "timestamp": "2026-10-15T20:08:42.093585059Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 89:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חסד\/אמונה",
+      "rationale": "خیسِد تے امانت دا جوڑا — جناب دے کلام دا کھلرا ہویا جوڑ، پنجابی وِچ وکھرے لفظ رہندے نیں"
+    }
+  ],
+  "translation": "یاہوہ دے خیسِد دا گیت وستیق ویلے تک گاوانگا، نسلاں توں نسل تک میں اپدے مونہ نال تیری امانت نوں جانو کراںگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "00677826807f8ef4eb285ebc5735edd95335c06db53b37ecefb1a35daed13445",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/89\/1-4.1792113277956.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "خیسِد دا ⟨ہدایت، پیار⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "وستیق ویلے تک"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "گیت گاوانگا"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "نسل توں"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "نسل تک"
+    },
+    {
+      "surface": "אודיע",
+      "gloss": "جانو کراںگا"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "تیری امانت نوں"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "اپدے مونہ نال"
+    }
+  ],
+  "timestamp": "2026-10-16T01:14:37.957131569Z",
+  "model": "glm-5.3"
+}

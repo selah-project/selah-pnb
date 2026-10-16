@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 16:9",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כבודי",
+      "rationale": "'میرا جلال' — ترجمے لفظ دا بھار\/شوکت رکھدے نیں، پر جنیوا\/کے جے وی 'زبان' تے بی ایس بی 'بدن' لکھدے نیں۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויגל",
+      "rationale": "جڑ دا مول چکر کھانا اے — پرچھیا ہويا ہونا؛ پنجابی 'اُچھلنا' اوہو جوش رکھدا اے۔"
+    }
+  ],
+  "translation": "اس لئی میرا دل خوش اے تے میرا جلال اُچھلدا اے، ایہناں توں ودھ کے میری ماس پکے سکون نال وسدی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1ea27d92a513aff8ebdc3454bb7dd89781f140205582918d0cb43e46c184db65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/16\/9-11.1792111914245.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "اس لئی"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "خوش اے"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "میرا دل"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "تے اُچھلدا اے"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "میرا جلال"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ایہناں توں ودھ کے"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "میری ماس"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "وسدی اے"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "پکے سکون نال"
+    }
+  ],
+  "timestamp": "2026-10-16T00:51:54.246315948Z",
+  "model": "glm-5.3"
+}

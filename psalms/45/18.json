@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 45:18",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לעלם ועד",
+      "rationale": "عبرانی جوڑی 'ولم وعد' — ہمیشہ دا دوہرا اعلان؛ پنجابی 'ہمیشہ تے سدکے' وِچ تال کھو جاندا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "یاد کراں گا",
+      "rationale": "אזכירہ مکمل روپ 'میں یاد دلواں گا' اے — ناں نوں دوجیاں تک پہنچاون دا کم"
+    }
+  ],
+  "translation": "میں تیرا ناں ہر پُشت تے پُشت وِچ یاد کراں گا؛ اِس لئی قوماں تیری ثنا کردیاں رہن گیاں، ہمیشہ تے سدکے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e4583dcb573e45621006a1ebcc6f61dcb9c4febaf70590d3f7a37fe238abfa71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/45\/17-18.1792112519964.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אזכירה",
+      "gloss": "میں یاد کراں گا"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "تیرا ناں"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "דר",
+      "gloss": "پُشت"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "تے پُشت"
+    },
+    {
+      "surface": "על",
+      "gloss": "اِس اُتے"
+    },
+    {
+      "surface": "כן",
+      "gloss": "لئی"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "قوماں"
+    },
+    {
+      "surface": "יהודך",
+      "gloss": "تیری ثنا کردیاں رہن گیاں"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تے سدکے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:01:59.965507501Z",
+  "model": "glm-5.3"
+}

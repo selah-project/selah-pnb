@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לא פדה יפדה",
+      "rationale": "فعل دی دوہری نفی — پورے طور اُتے نئیں (یلت) بنام حالت مبالغہ؛ کجھ ’کوئی بھرا‘ نوں فاعض لیندے نیں، کجھ ’کوئی بندہ‘"
+    },
+    {
+      "kind": "measurement",
+      "subject": "כפר",
+      "rationale": "فدیے دی قیمت — جان دی قیمت دا حساب"
+    }
+  ],
+  "translation": "کوئی بھرا کسے بندے نوں کدے نجات نئیں دے سکدا، ایلوہیم نوں اوہدا فدیہ نئیں دے سکدا،",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "63e10de462bb6e8e97396804c2f7b13371307327f9d91e9facfe5c4c8d3f26f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/49\/5-8.1792112538941.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "بھرا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "نجات"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "دے سکدا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "کسے بندے نوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دے سکدا"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ایلوہیم نوں"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "اوہدا فدیہ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:02:18.942557240Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوہنوں",
+      "rationale": "عبرانی وچ 'سپ ڈسّدا اے' — مفعول دا ضمیر پنجابی جُملے لئی درکار"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ٹویا-ڈیگنا",
+      "rationale": "خود کھودے گڑھ وچ ڈیگن دا تشبیہ، پنجابی وچ ایہو ورتاں مشہور اے"
+    }
+  ],
+  "translation": "جہڑا ٹویا پٹدا اے، اس وچ ای ڈیگدا اے، تے جہڑا کندھ توڑدا اے، اوہنوں سپ ڈسّدا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0588a275be6adbfa70bbf9af9e0fa67a7805a40dccd6d1d0f66351098406449c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ecclesiastes\/10\/5-8.1792117528409.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "جہڑا پٹدا اے"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "ٹویا"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اس وچ ای"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ڈیگدا اے"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "تے جہڑا توڑدا اے"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "کندھ"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "ڈسّدا اے"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "سپ"
+    }
+  ],
+  "timestamp": "2026-10-16T02:25:28.410796615Z",
+  "model": "glm-5.3"
+}

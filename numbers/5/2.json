@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 5:2",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "کُچھ اُگڑیا ہویا",
+      "rationale": "צרוע برص نال متاثر بندے لئی کینسر\/اُگڑ دا رُوپ اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "رڑھن والا",
+      "rationale": "זב جسمانی رِساو لئی فعل اے، 'بہاؤ'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "جان لئی",
+      "rationale": "לנפש لاش\/مُردہ جان ول توں اے، 'مُردے نال اَپاہ'"
+    }
+  ],
+  "translation": "یِسرائیل ⟨את⟩ دے پُتراں نوں حکم دیوہ، تے اوہ پڑاؤ توں باہر کریڑن ہر کُچھ اُگڑیا ہویا، تے ہر رڑھن والا، تے ہر جان لئی اَپاہ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8d19404fce15ea6a1645e5d2b0ea82eab1d68ba94b1f3f3e650dd85be2092961",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/5\/1-4.1792098415040.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "حکم دیوہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یِسرائیل دے پُتراں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتراں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "تے اوہ کریڑن"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "پڑاؤ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "צרוע",
+      "gloss": "کُچھ اُگڑیا ہویا"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے ہر"
+    },
+    {
+      "surface": "זב",
+      "gloss": "رڑھن والا"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے ہر"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "اَپاہ"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "جان لئی"
+    }
+  ],
+  "timestamp": "2026-10-15T21:06:55.040995151Z",
+  "model": "glm-5.3"
+}

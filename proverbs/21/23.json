@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 21:23",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמר…שמר",
+      "rationale": "Same verb repeated: keeps the mouth\/tongue → keeps his soul; the verbal echo frames the verse."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ਜਾਨ",
+      "rationale": "ਨਫ਼ਸ਼ (נפש) is throat\/breath\/life-force; the Punjabi 'jaan' (life) is the closest living sense, not an immaterial 'soul'."
+    }
+  ],
+  "translation": "ਆਪਣਾ ਮੂੰਹ ਅਤੇ ਆਪਣੀ ਜ਼ਬਾਨ ਰੋਕਣ ਵਾਲਾ ਆਪਣੀ ਜਾਨ ਨੂੰ ਮੁਸੀਬਤਾਂ ਤੋਂ ਬਚਾ ਲੈਂਦਾ ਹੈ।",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fd65c157d470685326a28cb0a39faf5395728b49cec7e0b6409d8328ba072e86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/21\/21-24.1792114874606.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "ਰੋਕਣ ਵਾਲਾ"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "ਆਪਣਾ ਮੂੰਹ"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "ਅਤੇ ਆਪਣੀ ਜ਼ਬਾਨ"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ਬਚਾ ਲੈਂਦਾ ਹੈ"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "ਮੁਸੀਬਤਾਂ ਤੋਂ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ਆਪਣੀ ਜਾਨ ਨੂੰ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:41:14.607267101Z",
+  "model": "glm-5.3"
+}

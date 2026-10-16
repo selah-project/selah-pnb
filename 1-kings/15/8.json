@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 15:8",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "וישכב עם אבתיו",
+      "rationale": "'اپنیاں پیوواں نال سُتا' — موت دا عبرانی یُگ پھرما، لفظی نئیں سُونا"
+    },
+    {
+      "kind": "addition",
+      "subject": "اوہنوں",
+      "rationale": "Hebrew אתو marked with ⟨את⟩; Punjabi needs the object pronoun the marker carries"
+    }
+  ],
+  "translation": "تے اَویام اپنیاں پیوواں نال سُتا، تے اوہنوں ⟨את⟩ داوِد دے شہر وِچ دفنایا، تے اوہدا پُتر آسا اوہدی تھاں راج کرن لگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "592292ba27bbb9b76e475724a09624f5659062f79c10a8e0ba7b47de84c8c75f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/15\/5-8.1792104585466.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "تے سُتا"
+    },
+    {
+      "surface": "אבים",
+      "gloss": "اَویام"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "اپنیاں پیوواں"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "تے دفنایا"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "اَویام نوں"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "شہر وِچ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "تے راج کرن لگا"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "آسا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اوہدا پُتر"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "اوہدی تھاں"
+    }
+  ],
+  "timestamp": "2026-10-15T22:49:45.467474221Z",
+  "model": "glm-5.3"
+}

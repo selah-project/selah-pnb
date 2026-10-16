@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 93:1",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 93,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوہنوں",
+      "rationale": "عبرانی وِچ ضمیر نئیں، پنجابی فعل منگدا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לבש לבש",
+      "rationale": "پہننا دا فعل دو واری دوہرایا گیا، جوڑ دی تال"
+    },
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "תכון نال پنجابی جمبیش لئی کوپلا دا وادھا"
+    }
+  ],
+  "translation": "یاہوہ نے راج کیتا، اوہنوں گھمنڈ جُڑیا اے، اوہنوں گھمنڈ جُڑیا اے، یاہوہ طاقت نال کمربستہ اے؛ ہاں، دھرتی ٹکی ہوئی ⟨اے⟩، بالکل نئیں ہلے گی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "831a0ae960a4e0f13d21c2fd8125f15c5390ff0b98d3dcc9db00ad1b9e5d9efa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/93\/1-4.1792113438026.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "راج کیتا"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "گھمنڈ"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "جُڑیا اے"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "جُڑیا اے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "طاقت"
+    },
+    {
+      "surface": "התאזר",
+      "gloss": "کمربستہ اے"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ہاں"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "ٹکی ہوئی"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "دھرتی"
+    },
+    {
+      "surface": "בל",
+      "gloss": "بالکل نئیں"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "ہلے گی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:17:18.027017016Z",
+  "model": "glm-5.3"
+}

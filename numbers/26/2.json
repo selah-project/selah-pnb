@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 26:2",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "census command",
+      "rationale": "The verse commands taking the head-count of the congregation from twenty years upward."
+    },
+    {
+      "kind": "idiom",
+      "subject": "שאו את ראש",
+      "rationale": "Literally 'lift the head of'; rendered as census-taking (گنتی چکنی), the idiomatic sense."
+    },
+    {
+      "kind": "you",
+      "subject": "to Moses and Eleazar",
+      "rationale": "Imperative address continuing the command of verse 1."
+    }
+  ],
+  "translation": "چکیو ⟨את⟩ سر — یِسرائیل دے پتراں دے سارے جماعت دی گنتی — پتر توں ویہہ ورھے تے اُتے، اوہناں دے پیوواں دے گھراں وِچ، ہر اوہ جیہڑا یِسرائیل وِچ لشکر لئی نکلدا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9f791db1380c77a7650ba7abcb71779213d542ef6b50378c002d1ea6d780ff41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/26\/1-4.1792099120119.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "چکیو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سر — سارے جماعت دی گنتی"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "جماعت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پتراں دے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "پتر توں"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ویہہ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ورھے"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "گھراں وِچ"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "اوہناں دے پیوواں دے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "نکلن والا"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "لشکر"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "یِسرائیل وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T21:18:40.120608622Z",
+  "model": "glm-5.3"
+}

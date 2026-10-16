@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 8:20",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עקב",
+      "rationale": "'ایڑ' دا پچھیتر — بُتّ سارے لئی 'اِس لئی کہ'، سِدھی تصویر (ایڑ) پنجابی وِچ ریندی اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מאביד\/תאבדון",
+      "rationale": "اوہی فعل אבד — جیہڑا قوماں نال ہویا اوہو تُہاڈے نال ہووےگا"
+    }
+  ],
+  "translation": "اُنہاں قوماں وانگ جیہڑیاں نوں یاہوہ تُہاڈے اگّوں ہلاک کر رہیا اے، اویں تُسیں ہلاک ہو جاؤ گے، اِس لئی کہ تُسیں یاہوہ اپنے ایلوہیم دی آواز نئیں سُنی ہوئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b48ff8d6402ada310d27768ea942a00c289fb5bf0feef81d39a7987c6200ac34",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/8\/17-20.1792099848835.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כגוים",
+      "gloss": "اُنہاں قوماں وانگ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑیاں نوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מאביד",
+      "gloss": "ہلاک کر رہیا اے"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "تُہاڈے اگّوں"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اویں"
+    },
+    {
+      "surface": "תאבדון",
+      "gloss": "تُسیں ہلاک ہو جاؤ گے"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "اِس لئی کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תשמעון",
+      "gloss": "سُنی ہوئی"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "دی آواز"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "اپنے ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-10-15T21:30:48.837049843Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 64:1",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "תבעה",
+      "rationale": "ʿaśa — کجھ صیغیاں وِچ اُبالن\/کھولن دا مطلب، جِویں پرانیاں ترجمیاں دا 'کھلو جانا'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "המסים",
+      "rationale": "سُوئیاں — ایہو لفظ تنخ وِچ اِک واری"
+    }
+  ],
+  "translation": "جویں اگّ سُوئیاں نوں بھڑکاندی اے ⟨تے⟩ پانیاں نوں اُبالدی اے — ⟨تاں جو⟩ تیرا ناں تیرے دشمناں نوں پتہ لگے، تیرے اگّوں قوماں کپ کپ جان۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fe4dfc82da3d97c8f4d128d680314a8745bc027acab1784efe46624721794721",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/64\/1-4.1792107070971.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כקדח",
+      "gloss": "جویں بھڑکاندی اے"
+    },
+    {
+      "surface": "אש",
+      "gloss": "اگّ"
+    },
+    {
+      "surface": "המסים",
+      "gloss": "سُوئیاں"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پانیاں نوں"
+    },
+    {
+      "surface": "תבעה",
+      "gloss": "اُبالدی اے"
+    },
+    {
+      "surface": "אש",
+      "gloss": "اگّ ⟨تے⟩"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "⟨تاں جو⟩ پتہ لگے"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "تیرا ناں"
+    },
+    {
+      "surface": "לצריך",
+      "gloss": "تیرے دشمناں نوں"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "تیرے اگّوں"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قوماں"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "کپ کپ جان"
+    }
+  ],
+  "timestamp": "2026-10-15T23:31:10.971701012Z",
+  "model": "glm-5.3"
+}

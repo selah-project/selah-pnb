@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 5:11",
+  "book": "hosea",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צו",
+      "rationale": "'ہدایت\/حکم' — کس دی ہدایت؟ کجھ منی منی (اسور دی)، کجھ بُتی پوجا دی، کجھ انسانی حکم"
+    },
+    {
+      "kind": "substitution",
+      "subject": "مشرکت",
+      "rationale": "'بُری' ⟨⟩ وِچ پا کے، عبرانی دی اک لفظی ہدایت نال سیاق دا اشارہ رکھیا"
+    }
+  ],
+  "translation": "افرایم دبایا گیا اے، مار-کُٹیا گیا فیصلے وِچ ⟨تھوں⟩، کیوں جو اوہ ایہہ من کے ہوکے چلا ہدایت ⟨بُری⟩ دے پچھوں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ea7228a07a1c959833b7a5e463e837d63fa3e709d76090717e3b576714feddda",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/hosea\/5\/9-12.1792110422845.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשוק",
+      "gloss": "دبایا گیا اے"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "افرایم"
+    },
+    {
+      "surface": "رצוץ",
+      "gloss": "مار-کُٹیا گیا"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "فیصلے وِچ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "من کے"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "چلا"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "دے پچھوں"
+    },
+    {
+      "surface": "צו",
+      "gloss": "ہدایت"
+    }
+  ],
+  "timestamp": "2026-10-16T00:27:02.846525668Z",
+  "model": "glm-5.3"
+}

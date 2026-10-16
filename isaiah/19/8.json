@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 19:8",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חכה",
+      "rationale": "'کانٹا' (مچھی دا کانٹا) — بنّھا ہویا چُنّا، 'ہُک' نئیں"
+    },
+    {
+      "kind": "addition",
+      "subject": "دی سطح",
+      "rationale": "פני מים دی ٹھیک صورت 'پانی دا منہ' اے؛ پنجابی وِچ 'سطح' ستھری لگدا اے"
+    }
+  ],
+  "translation": "تے مچھیرے کراہیاں مارن گے، تے سارے جِنھے یعور وِچ کانٹا سُٹے، سوگ کرن گے، تے جِنھے پانی دی سطح اُتے جال کھِلھرایا، اوہ ہل جان گے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d23145d290370af234e39ff744259cd2891968d0f8eae029b302d3f9c25810fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/19\/5-8.1792106124581.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנו",
+      "gloss": "کراہیاں مارن گے"
+    },
+    {
+      "surface": "הדיגים",
+      "gloss": "مچھیرے"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "سوگ کرن گے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "משליכי",
+      "gloss": "جِنھے … سُٹے"
+    },
+    {
+      "surface": "ביאור",
+      "gloss": "یعور وِچ"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "کانٹا"
+    },
+    {
+      "surface": "ופרשי",
+      "gloss": "جِنھے … کھِلھرایا"
+    },
+    {
+      "surface": "מכמרת",
+      "gloss": "جال"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "פני",
+      "gloss": "سطح"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پانی"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "ہل جان گے"
+    }
+  ],
+  "timestamp": "2026-10-15T23:15:24.582639320Z",
+  "model": "glm-5.3"
+}

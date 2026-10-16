@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 19:20",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Lot's plea",
+      "rationale": "Rhetorical question 'کی اوہ نِکا نئیں؟' presses the addressee for consent."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מצער ... מצער",
+      "rationale": "'Small' repeated as Lot's bargaining hook; kept by repeating نِکا۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נפשי",
+      "rationale": "'My soul shall live' is 'my نفش\/جان shall live' — rendered جان، life-breath not disembodied soul."
+    }
+  ],
+  "translation": "ویکھ، ہُن ایہہ شہر نیڑے اے، اوتھے بھجیا جا سکدا اے، تے اوہ نِکا ⟨جیہا⟩ اے؛ میں اوتھے بھج جان، منت اے! کی اوہ نِکا نئیں؟ تے میری جان جیوے گی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "165e42dcde9879618a8626321e8f0a95b31ff14596ff863ae5f33e4b81c94405",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/19\/17-20.1792095069949.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ویکھ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ہُن"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ایہہ شہر"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "קרבה",
+      "gloss": "نیڑے اے"
+    },
+    {
+      "surface": "לנוס",
+      "gloss": "بھجیا جا سکدا اے"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "اوتھے"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "تے اوہ"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "نِکا ⟨جیہا⟩"
+    },
+    {
+      "surface": "אמלטה",
+      "gloss": "میں بھج جان"
+    },
+    {
+      "surface": "נא",
+      "gloss": "منت اے"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "اوتھے"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "کی نئیں"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "نِکا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ اے"
+    },
+    {
+      "surface": "ותחי",
+      "gloss": "تے جیوے گی"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میری جان"
+    }
+  ],
+  "timestamp": "2026-10-15T20:11:09.950557024Z",
+  "model": "glm-5.3"
+}

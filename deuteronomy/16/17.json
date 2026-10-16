@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 16:17",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اپنے",
+      "rationale": "عبرانی وِچ ضمیر دی دہرائی نئیں، پنجابی وجداری منگدی اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "دَتا مَتا",
+      "rationale": "מתנת اِک نذرانہ\/تحفہ اے؛ 'دَتا مَتا' ہتھ دی طاقت دے برابر دا سُچجا مطلب دیندا اے"
+    }
+  ],
+  "translation": "ہر بندہ اپنے ہتھ دی دَتے مَتے دے برابر، اپنے یاہوہ اپنے ایلوہیم دی برکت دے برابر جیہڑی اوہنے تینوں دتی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "acdcb6f3d0db02e32aed939a367a11fd4f2156ea10ddc239720229740f2e8d58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/16\/17-20.1792099989311.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ہر بندہ"
+    },
+    {
+      "surface": "כמתנת",
+      "gloss": "دَتے مَتے دے برابر"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "اپنے ہتھ دی"
+    },
+    {
+      "surface": "כברכת",
+      "gloss": "برکت دے برابر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "اپنے ایلوہیم دی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "اوہنے دتی"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تینوں"
+    }
+  ],
+  "timestamp": "2026-10-15T21:33:09.312490589Z",
+  "model": "glm-5.3"
+}

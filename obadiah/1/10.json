@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "obadiah 1:10",
+  "book": "obadiah",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "تیرے اُتے",
+      "rationale": "عبرانی خVG کریا دی نشاندیی صیغے توں کردا اے، پنجابی نوں ضمیر چاہیدی اے۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חמס\/בושה",
+      "rationale": "تشدد دا بدلہ شرم اے — ایہہ آیت دا ودھیا جوڑ اے: خلاف ورزی نال شرم ڈھکدی اے۔"
+    }
+  ],
+  "translation": "تیرے بھرا یعقوو ⟨اُتے⟩ تشدد توں ⟨تیرے اُتے⟩ شرم ڈھک لویگی، تے توں ہمیشا لئی کٹیا جاویں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6c7f37f2d8ed8a41342328c025406522a7663ab0ed9bc4e72bc1f40f9b2f6f24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/obadiah\/1\/9-12.1792110934979.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מחמס",
+      "gloss": "تشدد توں"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "تیرے بھرا"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    },
+    {
+      "surface": "תכסך",
+      "gloss": "⟨تیرے اُتے⟩ ڈھک لویگی"
+    },
+    {
+      "surface": "בושה",
+      "gloss": "شرم"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "تے کٹیا جاویں گا"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشا لئی"
+    }
+  ],
+  "timestamp": "2026-10-16T00:35:34.980527006Z",
+  "model": "glm-5.3"
+}

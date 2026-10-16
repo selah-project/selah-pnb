@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 21:10",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עבר",
+      "rationale": "'گذر جاندا\/سنبندھ کردا': KJV 'gendereth'، YLT 'eateth corn'، لفظی 'لنگھدا اے' — بیل دے جُٹن دے سیاق وِچ 'جُٹدا اے' رکھیا"
+    },
+    {
+      "kind": "idiom",
+      "subject": "תשכל",
+      "rationale": "لفظی 'کم-جم (ولھیٹ)' — پنجابی 'کیچ کھاندی' دی تھاں اِکو بھاوَ والی محاورے نال دتی"
+    }
+  ],
+  "translation": "اوہدا بیل جُٹدا اے تے نئیں کراہندا، اوہدی گاں ویلھ نکلدی اے تے نئیں کیچ کھاندی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2d78f45b90f8a900dc00f04eeb041cc02a703d3c2fabe3296e0c813e979dcf61",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/21\/9-12.1792115957151.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שורו",
+      "gloss": "اوہدا بیل"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "جُٹدا اے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "יגעל",
+      "gloss": "کراہندا"
+    },
+    {
+      "surface": "תפלט",
+      "gloss": "ویلھ نکلدی اے"
+    },
+    {
+      "surface": "פרתו",
+      "gloss": "اوہدی گاں"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "תשכל",
+      "gloss": "کیچ کھاندی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:59:17.152489202Z",
+  "model": "glm-5.3"
+}

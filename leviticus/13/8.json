@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 13:8",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "צרעת",
+      "rationale": "'کوڑھ\/چرہدا داغ' — عبرانی لفظ کئی کھلڑیاں لئی سی، صرف کوڑھ نئیں۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "צרעת",
+      "rationale": "مترجم جھگڑدے نیں: 'کوڑھ'، 'چمّے دی بیماری'، جاں 'پھیلن والا داغ' — عام 'کوڑھ' پیلی جاں بہت تنگ ترجمہ اے۔"
+    }
+  ],
+  "translation": "تے کاہن ویکھے، تے ویکھو، خارش چمّے وِچ پھیل گئی اے، تاں کاہن اوہنوں ناپاک اَلائے — چرہدا ہویا داغ اوہ اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "77861d22868ec5da3324352095fe73a6e74a3f905b99c4292c2e35fe58af3d12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/13\/5-8.1792097710659.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ویکھے"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ویکھو"
+    },
+    {
+      "surface": "פשתה",
+      "gloss": "پھیل گئی"
+    },
+    {
+      "surface": "המספחת",
+      "gloss": "خارش"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "چمّے"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "ناپاک اَلائے"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "چرہدا ہویا داغ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    }
+  ],
+  "timestamp": "2026-10-15T20:55:10.660517666Z",
+  "model": "glm-5.3"
+}

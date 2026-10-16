@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 82:8",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 82,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "اُٹھ",
+      "rationale": "imperative summons to Elohim to arise and judge — psalm's climactic call."
+    },
+    {
+      "kind": "alternative",
+      "subject": "תנחל",
+      "rationale": "'thou shalt inherit all nations' (KJV) vs 'thou shalt take as inheritance' — נחל as taking possession, kept as وارث بنسیں گے."
+    }
+  ],
+  "translation": "اُٹھ، اے ایلوہیم، دھرتی دا فیصلہ کر، کیوں جے تساں ساریاں قوماں نوں وارث بنسیں گے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6f972571f395cfa69c2527edd4cb4ba091101b8c270fb4620dab6a5222be85bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/82\/5-8.1792113114722.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "اُٹھ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "فیصلہ کر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "دھرتی دا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جے"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تساں"
+    },
+    {
+      "surface": "תנחל",
+      "gloss": "وارث بنسیں گے"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ساریاں"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "قوماں نوں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:11:54.724132075Z",
+  "model": "glm-5.3"
+}

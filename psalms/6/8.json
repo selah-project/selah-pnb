@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 6:8",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "کارے",
+      "rationale": "بِکُول دی جاں پنجابی 'توں' منگدا اے، ایتھے جوڑ لئی شامل کیتا۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "עתקה",
+      "rationale": "'بُڈھی ہونا' دوجے 'دھنس جانا' — مترجم ونڈے ہوئے نیں۔"
+    }
+  ],
+  "translation": "غصّے توں میری اکھ مُکّ رہی اے، سارے میرے ویریاں ⟨کارے⟩ بُڈھی ہو رہی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "654446ea1857b20d0c48f0d4ee76169dcfe347c262c2c42551f3b5fd3270fb10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/6\/5-8.1792111802998.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עששה",
+      "gloss": "مُکّ رہی اے"
+    },
+    {
+      "surface": "מכעס",
+      "gloss": "غصّے توں"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "میری اکھ"
+    },
+    {
+      "surface": "עתקה",
+      "gloss": "بُڈھی ہو رہی اے"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "میرے ویریاں ⟨کارے⟩"
+    }
+  ],
+  "timestamp": "2026-10-16T00:50:02.999089357Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 62:11",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כי ינוב",
+      "rationale": "نُوب دا مول اُگنا اے — دولت اُگدی\/ودھدی اے؛ کجھ لفظی پڑھائی وِچ \"کیونجے دولت پھلدی اے\""
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨اوہدے اُتے⟩",
+      "rationale": "عبرانی صرف کہندا اے دل نہ دھرو — مقصد پنجابی وِچ دسّن لئی شامل کیتا"
+    },
+    {
+      "kind": "invitation",
+      "subject": "شعر",
+      "rationale": "منفی حکم — قوم نوں سمجھایا جاندا اے"
+    }
+  ],
+  "translation": "ظلم اُتے بھروسہ نہ کرو، تے لُٹ وِچ اُلجھو نہ؛ دولت جدوں ودھے، دل ⟨اوہدے اُتے⟩ نہ دھرو۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0a379c45e89b57afba656b2e3fe66866950528260cc037bfb6ce8e6748a6f84b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/62\/9-12.1792112782446.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "بھروسہ کرو"
+    },
+    {
+      "surface": "בעשק",
+      "gloss": "ظلم اُتے"
+    },
+    {
+      "surface": "ובגזל",
+      "gloss": "تے لُٹ وِچ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תהבלו",
+      "gloss": "اُلجھو"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "دولت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جدوں"
+    },
+    {
+      "surface": "ינוב",
+      "gloss": "ودھے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשיתו",
+      "gloss": "دھرو"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    }
+  ],
+  "timestamp": "2026-10-16T01:06:22.447032557Z",
+  "model": "glm-5.3"
+}

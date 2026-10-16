@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 21:31",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "عبرانی وِچ کوپلا نئیں؛ 'یاہوہ دی نجات' پنجابی واک منگدا اے، جو ⟨⟩ وِچ دتا گیا۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "התשועה",
+      "rationale": "'نجات\/مدد' (KJV 'safety') بمقابلہ 'فتح' (JPS 'victory') — عبرانی لفظ دوویں ول کھلھا اے۔"
+    }
+  ],
+  "translation": "گھوڑا جنگ دے دن لئی تیار کیتا جاندا اے، پر نجات یاہوہ دی ⟨اے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "243034cdca2f0efe63be48014d3d8c29e9982e3f1e7a05bbc98fffff9eb9e825",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/21\/29-31.1792114946202.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סוס",
+      "gloss": "گھوڑا"
+    },
+    {
+      "surface": "מוכן",
+      "gloss": "تیار کیتا جاندا اے"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "دن لئی"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ"
+    },
+    {
+      "surface": "وליהוה",
+      "gloss": "پر یاہوہ دی"
+    },
+    {
+      "surface": "התשועה",
+      "gloss": "نجات"
+    }
+  ],
+  "timestamp": "2026-10-16T01:42:26.203367175Z",
+  "model": "glm-5.3"
+}

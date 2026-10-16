@@ -1,0 +1,136 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 1:1",
+  "book": "ezra",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "وِچ",
+      "rationale": "پنجابی ورھے دی تریخ لئی وِچ منگدی اے، عبرانی وِچ صرف اُپرلے پیشے نیں"
+    },
+    {
+      "kind": "measurement",
+      "subject": "پہلے ورھے",
+      "rationale": "آیت ویلے نال نپدی اے — کورش دا پہلا ورھا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "رُوح",
+      "rationale": "רוח ایتھے جی؍ہوBigIntس دے مائل اے، ساہ؍روح — پنجابی وِچ رُوح نیڑے دا اے"
+    }
+  ],
+  "translation": "تے پارس دے بادشاہ کورش دے پہلے ورھے وِچ، یاہوہ دے بچن دے یِرمِیاہ دے مونہوں پورے ہوݨ لئی، یاہوہ نے ⟨את⟩ پارس دے بادشاہ کورش دے رُوح نوں جگایا، تے اوہنے اپنے سارے راج وِچ آواز پھیلا دتی، تے لکھتی ⟨وی⟩ آکھیا:",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0d0afe178f53c17f1900fbf10b1510bab5300f96599edf87c84488a8386a832f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezra\/1\/1-4.1792118982928.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובשנת",
+      "gloss": "تے … دے ورھے وِچ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "پہلے"
+    },
+    {
+      "surface": "לכורש",
+      "gloss": "کورش"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "پارس"
+    },
+    {
+      "surface": "לכלות",
+      "gloss": "پورے ہوݨ لئی"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "بچن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "مونہوں"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "یِرمِیاہ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "جگایا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رُوح"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "رُوح"
+    },
+    {
+      "surface": "כרש",
+      "gloss": "کورش"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "پارس"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "پھیلا دتی"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "اپنے راج وِچ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "تے وی"
+    },
+    {
+      "surface": "במכתב",
+      "gloss": "لکھتی"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھدا ہویا"
+    }
+  ],
+  "timestamp": "2026-10-16T02:49:42.929290933Z",
+  "model": "glm-5.3"
+}

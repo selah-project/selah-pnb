@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 78:66",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اپنے",
+      "rationale": "عبرانی ضمیر دی وضاحت لئی پنجابی وِچ شامل کیتا"
+    },
+    {
+      "kind": "idiom",
+      "subject": "אחור",
+      "rationale": "'پچھلی پاسے ماریا' — عبرانی دا سانگی اے، ادھ جیت (بھجّ کے بھجّ کے) دی تصویر"
+    }
+  ],
+  "translation": "تے اوہنے اپنے دشمناں نوں پچھلی پاسے ماریا، اوہناں نوں ہمیشہ دی بے-عزتی دتی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ee1bbbefdf39b4da71dd4c1339c015cb762bedd0ae23a1942a770b897d331a93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/78\/65-68.1792113073158.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "تے ماریا"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "اپنے دشمناں نوں"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "پچھلی پاسے"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "بے-عزتی"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیشہ دی"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دتی"
+    },
+    {
+      "surface": "למו",
+      "gloss": "اوہناں نوں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:11:13.159160308Z",
+  "model": "glm-5.3"
+}

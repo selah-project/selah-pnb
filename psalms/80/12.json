@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קצירה",
+      "rationale": "متن «اوہدی فصل\/کٹی» — کئی مترجم ایہنوں קצינותה «اوہدیاں ٹاہنیاں» پڑھدے نیں؛ لکھیا ہویا رکھیا گیا"
+    },
+    {
+      "kind": "measurement",
+      "subject": "עד ים \/ נהר",
+      "rationale": "سمندر توں نہر تک — انگ ول ودھن دی ناپی"
+    }
+  ],
+  "translation": "اوہنے اپنی فصل سمندر تک بھیجی تے نہر تک اپنیاں نویاں شاخاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f33c1cf4617afbd1aeae9a2c34c1d7521ce9f269390f2ec6ebc6017da2aa271d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/80\/9-12.1792113142965.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "بھیجی"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "اپنی فصل"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "ים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے تک"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "نہر"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "اپنیاں نویاں شاخاں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:12:22.966230647Z",
+  "model": "glm-5.3"
+}

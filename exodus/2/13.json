@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 2:13",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "آپس وِچ",
+      "rationale": "عبرانی نے 'ל' نئیں دسیا، پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויצא \/ השני \/ שני",
+      "rationale": "'נצים' (لڑائی) اتے 'השני\/שני' (دوجا\/دو) دی ہم آوازی، پنجابی وِچ گواچی"
+    }
+  ],
+  "translation": "تے دوجے دِن اوہ نِکلیا، تے ویکھو، دو اِبڑی بندے آپس وِچ لڑدے سن، تے اوہنے بُرے نوں آکھیا: تُوں اپنے ساتھی نوں کیوں ماردا ایں؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "82604d86beb69d4cde98743c13801de55a665741eb8b1b0e5b4d2b9294b1a651",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/2\/13-16.1792096167890.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "تے نِکلیا"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "دِن"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دوجے"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "تے ویکھو"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دو"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "اِبڑی"
+    },
+    {
+      "surface": "נצים",
+      "gloss": "لڑدے سن"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے اوہنے آکھیا"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "بُرے نوں"
+    },
+    {
+      "surface": "למה",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "תכה",
+      "gloss": "ماردا ایں"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "اپنے ساتھی نوں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:29:27.890998185Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 49:17",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בניך",
+      "rationale": "בָּנַיִךְ (pmasc.pl participle) = تیرے وسانے (YLT\/Geneva) بمقابلہ بَנַיִךְ = تیرے پتر (KJV\/JPS) — نقطیاں دا فرق"
+    },
+    {
+      "kind": "you",
+      "subject": "صہیون",
+      "rationale": "ایہہ آیت صہیون نال سِدھی گل اے، یاہوہ دا خطاب"
+    }
+  ],
+  "translation": "تیرے وسانے تِتھر جانگے؛ تیرے ڈھاہن والے تے تیرے اجاڑن والے تیرے کولوں نِکل جانگے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "731b60d89bade3a78ee1bbb6d6513c52d30c0293282c1249de9b12712026b0fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/49\/17-20.1792106868052.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מהרו",
+      "gloss": "تِتھر جانگے"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "تیرے وسانے"
+    },
+    {
+      "surface": "מהרסיך",
+      "gloss": "تیرے ڈھاہن والے"
+    },
+    {
+      "surface": "ומחרביך",
+      "gloss": "تے تیرے اجاڑن والے"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "تیرے کولوں"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "نِکل جانگے"
+    }
+  ],
+  "timestamp": "2026-10-15T23:27:48.053317026Z",
+  "model": "glm-5.3"
+}

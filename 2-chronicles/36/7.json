@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 36:7",
+  "book": "2-chronicles",
+  "lang": "pnb",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "محل",
+      "rationale": "היכל = وڈی عمارت، محل یا مندر — 'محل' چُنیا"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨نوں⟩",
+      "rationale": "پنجانی مفعولی پچھیتر عبرانی وِچ نئیں"
+    }
+  ],
+  "translation": "تے یاہوہ دے گھر دے برتناں وِچوں نبُوکدنِتصّر نے بابل ⟨نوں⟩ لیاݨ کیتا، تے اوہناں نوں اوہدے محل وِچ بابل وِچ رکھیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c7118694da4d7f121403c4c986be87667448d77ca5ee1912c1f4acafa2616a9b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/36\/5-8.1792123018461.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומכלי",
+      "gloss": "تے برتناں وِچوں"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر دے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "لیاݨ کیتا"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "نبُوکدنِتصّر"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "بابل ⟨نوں⟩"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "تے اوہناں نوں رکھیا"
+    },
+    {
+      "surface": "בהיכלו",
+      "gloss": "اوہدے محل وِچ"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "بابل وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T03:56:58.462668074Z",
+  "model": "glm-5.3"
+}

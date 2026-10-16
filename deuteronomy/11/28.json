@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 11:28",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "بلکہ…نہ جاؤ",
+      "rationale": "عبرانی وِچ صرف 'ہٹ جاؤ' اے؛ 'نئیں جاؤ' وضاحت لئی وادھا"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "'کول\/ول' نوں پنجابی وِچ الگ نئیں دسیا جا سکیا"
+    },
+    {
+      "kind": "crux",
+      "subject": "אלהים אחרים",
+      "rationale": "'ہور ایلوہیم' — ریتی ترجمے 'دوجے دیوتے' آکھدے نیں؛ ایتھے ایلوہیم قوماں دے معبوداں لئی عام لفظ اے"
+    }
+  ],
+  "translation": "تے诅咒، جے تُسیں یاہوہ اپنے ایلوہیم دیاں حکماں نوں نئیں سُنے، بلکہ اوہدے رستے توں ہٹ جاؤ جیہڑا اَج میں تُہاڈے تھوں آکھدا واں کہ اَگّوں نہ جاؤ اوہناں ہور ایلوہیم دے، جنہاں نوں تُساں نئیں جاندا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1c4314604e8f2fbef621af7c82def98e325d6670fc878aac08a6ce2aa432c458",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/11\/28-28.1792123490046.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקללה",
+      "gloss": "تے诅咒"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "تُسیں سُنو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "حکماں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "تُہاڈے ایلوہیم"
+    },
+    {
+      "surface": "וסרתם",
+      "gloss": "تے ہٹ جاؤ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "اوہ رستہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "حکم کردا"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "تُہاڈے تھوں"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اَج"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "کہ جاؤ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "اَگّوں"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ہور"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنہاں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "تُساں جاندا"
+    }
+  ],
+  "timestamp": "2026-10-16T04:04:50.047505974Z",
+  "model": "glm-5.3"
+}

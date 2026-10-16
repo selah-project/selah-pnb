@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 16:26",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨کجھ⟩",
+      "rationale": "Hebrew says only 'in it there will not be' — Punjabi needs an implied object."
+    },
+    {
+      "kind": "measurement",
+      "subject": "six days \/ seventh day",
+      "rationale": "Counting of days structures the manna law."
+    }
+  ],
+  "translation": "چھ دن تسیں اوہنوں چُگّوگے، تے ستویں دن شبّات اے، اوہدے وِچ ⟨کجھ⟩ نئیں ہووےگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "63e0ac22b9f58eefaf36e5d10dcb4e2de1e762c12f56a543fee0b4423ffa25b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/16\/25-28.1792096570907.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دن"
+    },
+    {
+      "surface": "תלקטהו",
+      "gloss": "چُگّوگے اوہنوں"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "تے ستویں دن وِچ"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ستویں"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "شبّات"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہووےگا"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوہدے وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T20:36:10.908411567Z",
+  "model": "glm-5.3"
+}

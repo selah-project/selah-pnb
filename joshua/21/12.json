@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 21:12",
+  "book": "joshua",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ملکیت",
+      "rationale": "دھرتی دی ونڈ تے قبضے دی گل — آخُزہ، پکڑی ہوئی جائیداد۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "پر",
+      "rationale": "عبرانی وچ صرف واؤ اے؛ پنجانی وچ مقابلا 'پر' لفظ تفرقے نوں کھولھدا اے۔"
+    }
+  ],
+  "translation": "پر ⟨את⟩ شہر دا کھیت تے ⟨את⟩ اوہدیاں بستیاں اوہناں نے کالب پتر یفنہ نوں اوہدی ملکیت وِچ دِتے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f7218e2316651d3ed1c66a2d6c55baaeaaee77111433bcca1cbf8db535a6b44c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joshua\/21\/9-12.1792101193406.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "کھیت"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "کھیت"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر دا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "بستیاں"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "اوہدیاں بستیاں"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "دِتے"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "کالب نوں"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پتر"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "یفنہ"
+    },
+    {
+      "surface": "באחזתו",
+      "gloss": "اوہدی ملکیت وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T21:53:13.407138259Z",
+  "model": "glm-5.3"
+}

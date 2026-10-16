@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 78:49",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "مִשְׁלַחַת מַלְאֲכֵי רָעִים",
+      "rationale": "برے فرشتےآں دی گھلّ — یا 'اَجھا' (asv) یا 'تباہی دے فرشتے' (bsb)؛ عبرانی دا مطلب کھلا اے"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מִשְׁלַחַת",
+      "rationale": "ایہہ لفظ تنخ وِچ صرف ایتھے آیا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אַפּוֹ",
+      "rationale": "لفظی 'اوہدا نَکّ' اے — غصے دی صورتکار؛ پنجابی وِچ 'غصہ' بنے گیا"
+    }
+  ],
+  "translation": "اُوں نے اُہناں اُتے اپنے غصے دی بال سُٹی — تیز غصہ تے رڑک تے تنگی، برے فرشتیاں دی اِک گھلّ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e5c7cce20cd82460be456a416232e884abb74c42f60b5975ddb9b876424937ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/78\/49-52.1792113100073.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "اُوں نے سُٹیا"
+    },
+    {
+      "surface": "בם",
+      "gloss": "اُہناں اُتے"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "بال"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "اپنے غصے دی"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "تیز غصہ"
+    },
+    {
+      "surface": "וזעם",
+      "gloss": "تے رڑک"
+    },
+    {
+      "surface": "וצרה",
+      "gloss": "تے تنگی"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "گھلّ"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "فرشتیاں دی"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "برے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:11:40.074230403Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 14:2",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "סגלה",
+      "rationale": "مول: بند رکھیا ہویا خزانہ — بادشاہ دی نجی جائیداد؛ 'خاص خزانہ-قوم' دو ٹُکڑے اِک عبرانی لفظ لئی"
+    },
+    {
+      "kind": "addition",
+      "subject": "نے",
+      "rationale": "עברت ماضی لئی پنجابی نوں 'نے' چاہیدا اے جو عبرانی وِچ نئیں"
+    },
+    {
+      "kind": "you",
+      "subject": "یِسرائیل نوں",
+      "rationale": "چنتن دا کہندا: یاہوہ نے تُہانوں چنیا — خطاب ای اے"
+    }
+  ],
+  "translation": "کیونکہ تُسیں اپنے ایلوہیم یاہوہ لئی اِک پاک قوم او، تے یاہوہ نے تُہانوں چنیا اے کہ زمین دے اُتےoryاں قوماں وِچوں سبھ توں اُس لئی اِک خاص خزانہ-قوم بنے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "04ef3a08525212de66191003461017c55080fb274ec431eedec4f533c64587e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/14\/1-4.1792099940020.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُسیں"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ لئی"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تُہادے ایلوہیم"
+    },
+    {
+      "surface": "ובך",
+      "gloss": "تے تُہانوں"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "چنیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "بنے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اُس لئی"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "اِک قوم"
+    },
+    {
+      "surface": "סגלה",
+      "gloss": "خاص خزانہ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "سبھ توں"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "قوماں وِچوں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "פני",
+      "gloss": "پناں دے"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "زمین دے"
+    }
+  ],
+  "timestamp": "2026-10-15T21:32:20.021574128Z",
+  "model": "glm-5.3"
+}

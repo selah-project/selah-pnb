@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 4:10",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨سی⟩",
+      "rationale": "عبرانی وِچ کوئی فعل نئیں؛ لسٹ دی متی توں کوئی جوڑ دا کم"
+    },
+    {
+      "kind": "idiom",
+      "subject": "לו",
+      "rationale": "לו שכה — اوہدے کول سوکوہ سی؛ پنجابی وِچ ملکیت ایویں آکھی"
+    }
+  ],
+  "translation": "بن-خیسِد اَرُبّوت وِچ ⟨سی⟩؛ اوہدے نیں سوکوہ تے سارا دیس خیپر دا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7035d34557ff64cd5a83972db694a1f0a4cac4a69dffb39ca3d1a738d1b6e907",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/4\/9-12.1792103939204.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "بن-"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "خیسِد"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "اَرُبّوت وِچ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدے نیں"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "سوکوہ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سارا"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "دیس"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "خیپر دا"
+    }
+  ],
+  "timestamp": "2026-10-15T22:38:59.204865663Z",
+  "model": "glm-5.3"
+}

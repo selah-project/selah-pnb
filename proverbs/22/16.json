@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 22:16",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "להרבות לו",
+      "rationale": "'کے آپ نوں ودھاوے' — JPS ایہنوں الٹا پڑھدا اے: 'دباؤ پر فایدہ ودھدا اے'؛ لفظی پڑھائی ظالم دا فائدہ دسدی اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "جیہڑا",
+      "rationale": "عبرانی فعل دی حالت نوں نسبت بالاں نال بجھان لئی چُکیا"
+    }
+  ],
+  "translation": "جیہڑا غریب نوں دکھیا کے آپ ودھانا چاہندا اے، تے جیہڑا امیر نوں دیندا اے، صرف محرومی لئی ⟨اے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "de8831d75770576f1e06bb16dbb363391bbe0c6b65e0b9c0fc3ef89848958bfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/22\/13-16.1792114957166.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשק",
+      "gloss": "دکھیا کے"
+    },
+    {
+      "surface": "דל",
+      "gloss": "غریب نوں"
+    },
+    {
+      "surface": "لהרבות",
+      "gloss": "ودھانا چاہندا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آپ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دیندا اے"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "امیر نوں"
+    },
+    {
+      "surface": "אך",
+      "gloss": "صرف"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "محرومی لئی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:42:37.167155694Z",
+  "model": "glm-5.3"
+}

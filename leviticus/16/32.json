@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 16:32",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ہتھ بھرنا",
+      "rationale": "מלא את ידو رسمی اِڈیوم اے — 'تقرری\/DEDICATION'؛ پنجابی وِچ تصویر 'ہتھ بھرنا' رکھی۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩",
+      "rationale": "משח تے מלא دی کنی دا فاعل عبرانی وِچ نئیں؛ پنجابی لئی ضمیر درکار۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "مشیخاں والا کاہن",
+      "rationale": "ימשח 'مسح کرنا' — ماشیاخ نال اوہو جڑ؛ 'مسح' دا لفظ رکھیا۔"
+    }
+  ],
+  "translation": "تے اوہ کاہن جیہدے نوں ⟨اوہ⟩ مسح کریگا تے جیہدے ہتھ نوں ⟨اوہ⟩ اوہدی کاہنی لئی بھریگا، اپنے پیو دی تھاں — اوہ کفارہ کریگا، تے ⟨את⟩ سُتی دے کپڑے پائے گا — پوتر کپڑے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "12e00a8d15d084c617f4e7bdaac6e3d7f70e67ca3461688c69cf413ea2c7f886",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/16\/29-32.1792097850058.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "تے کفارہ کریگا"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہدے نوں"
+    },
+    {
+      "surface": "ימשח",
+      "gloss": "مسح کریگا"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ اوہنوں",
+      "marks": "کاہن"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "تے جیہدے"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "ہتھ بھریگا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہدا ہتھ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "کاہنی لئی"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تھاں"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "اپنے پیو دی"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "تے پائے گا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سُتی دے کپڑے"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "کپڑے"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "سُتی دے"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "کپڑے"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "پوتر"
+    }
+  ],
+  "timestamp": "2026-10-15T20:57:30.059575272Z",
+  "model": "glm-5.3"
+}

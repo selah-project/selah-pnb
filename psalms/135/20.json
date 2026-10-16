@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 135:20",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "لوی دا گھرانا تے یاہوہ توں ڈرن والے",
+      "rationale": "سدھا مخاطب: لوی دا گھرانا، فیر یاہوہ دے ڈرن والے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ברכו את יהוה",
+      "rationale": "آیتاں 19–20 وِچ چار واری اوہو زور: بِرکھو את یہوہ — تاکیدی چیل جیہڑی پنجابی وِچ وی دُہرائی نال جَ پا کے اے"
+    }
+  ],
+  "translation": "اے لوی دے گھرانو، یاہوہ نوں دُعائیں دیو؛ اے یاہوہ توں ڈرن والے، یاہوہ نوں دُعائیں دیو۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4a6e24b431fe6aaa6fe394a5d0f91720eaf49fbe44d5f758cca56e886d2e0025",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/135\/17-20.1792114046125.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "گھرانا"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "لوی"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "دُعائیں دیو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ نوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "ڈرن والے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "دُعائیں دیو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ نوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:27:26.126588730Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 149:7",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 149,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "بھرن",
+      "rationale": "תוכחת نال کوئی کریا نئیں — پنجابی وچ اسم مفعول مکمل کرن لئی پایا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ملامت-سزا",
+      "rationale": "תוכחת مول روپ وچ زبانی چوکھٹا\/اصلاح اے، سزا نئیں"
+    }
+  ],
+  "translation": "قومیں وِچ بدلہ کرن لئی، تے لوکاں-سموہاں وِچ ملامت-سزا ⟨بھرن⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "138774c5926d3ebe1c2386901e2fdc7601bfdce21de5403bc196f06529cc508b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/149\/5-8.1792114260440.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "کرن لئی"
+    },
+    {
+      "surface": "נקמה",
+      "gloss": "بدلہ"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "قومیں وِچ"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "ملامت-سزا"
+    },
+    {
+      "surface": "בל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "لوکاں-سموہاں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:31:00.441475220Z",
+  "model": "glm-5.3"
+}

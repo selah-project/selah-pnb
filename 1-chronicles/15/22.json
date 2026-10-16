@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 15:22",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "במשא",
+      "rationale": "مَسّا: 'بَرد\/چُکن' (صندوق چُکن دا کم) بمقابلہ KJV\/ASV 'گیت' — جڑ توں 'بَرد' دا بھار اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨سی⟩",
+      "rationale": "عبرانی وِچ کوپلا نئیں، پنجابی نوں لوڑ اے۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "במשא...במשא",
+      "rationale": "اِوہو لفظ دو واری — تکرار، پنجابی وِچ رکھیا گیا۔"
+    }
+  ],
+  "translation": "تے کِننیاہو لاویاں دا سردار بَرد وِچ ⟨سی⟩ — اوہ بَرد دے بارے سکھاندا سی، کیونکہ اوہ سمجھ والا سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c4b9973b9f589e02ff6405fb49708380bfafdf468028fa8d49a63cafc96c21f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/15\/21-24.1792120777681.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכנניהו",
+      "gloss": "تے کِننیاہو"
+    },
+    {
+      "surface": "שר",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لاویاں دا"
+    },
+    {
+      "surface": "במשא",
+      "gloss": "بَرد وِچ"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "سکھاندا سی"
+    },
+    {
+      "surface": "במשא",
+      "gloss": "بَرد دے بارے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "سمجھ والا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    }
+  ],
+  "timestamp": "2026-10-16T03:19:37.682333575Z",
+  "model": "glm-5.3"
+}

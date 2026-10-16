@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ואת",
+      "rationale": "ایتھے את دا مفعول نشان نئیں، ו+אתה دا ضمیر اے — تُوں — دا حرف-نقل نئیں کیتا"
+    },
+    {
+      "kind": "idiom",
+      "subject": "עד מתי",
+      "rationale": "عبرانی اِدّوں-کِن چِر — ادھورا سوال اے، پنجابی وِچ پورا سوال بنایا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جان-زور اے، صرف رُوح نئیں"
+    },
+    {
+      "kind": "you",
+      "subject": "یاہوہ ول",
+      "rationale": "دُعا دا سدہ جاری اے"
+    }
+  ],
+  "translation": "تے میری جان بہوں گھبرا گئی اے — پر تُوں، یاہوہ، ادوں تیکر؟ ⟨کِن چِر ہور؟⟩",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1b690070f9342e1d7bdab9fc03f80095099b7ceeb465f28f2f125e8e4beb77e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/6\/1-4.1792111829746.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "تے میری جان"
+    },
+    {
+      "surface": "نבהلה",
+      "gloss": "گھبرا گئی اے"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بہوں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "پر تُوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ادوں تیکر"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "⟨کِن چِر ہور؟⟩"
+    }
+  ],
+  "timestamp": "2026-10-16T00:50:29.747285364Z",
+  "model": "glm-5.3"
+}

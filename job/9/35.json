@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "job 9:35",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לא כן אנכי עמדי",
+      "rationale": "'پر میرے نال اِنج نئیں' — KJV 'ایہو میرے نال نئیں'، YLT 'میں اپنے آپ نال ٹھیک نئیں'، BSB 'میں اکلا آں'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "کیونکہ",
+      "rationale": "کی نوں 'کیوں کہ' وی پڑھیا جا سکدا اے، 'سگوں' دے مطلب وچ"
+    }
+  ],
+  "translation": "میں بولاں تے اوہدے توں نہ ڈراں، کیونکہ میں اِنج اپنے آپ نال نئیں آں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "933871900b4a241ea5300255c5268a3a0eecc49e69c48b81563f3ae23709be21",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/9\/33-35.1792115596953.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדברה",
+      "gloss": "میں بولاں"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "איראנו",
+      "gloss": "اوہدے توں ڈراں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اِنج"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "اپنے آپ نال"
+    }
+  ],
+  "timestamp": "2026-10-16T01:53:16.954287674Z",
+  "model": "glm-5.3"
+}

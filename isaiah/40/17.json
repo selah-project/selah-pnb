@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 40:17",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ہِن",
+      "rationale": "عبرانی وِچ کپل نئیں، پنجابی نوں اے چاہیدا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כאין \/ מאפס ותהו",
+      "rationale": "تنہائی تے اگلے مُکھی وچ תהו دا اِکو ٹبر — پیدائش 1:2 دا تُھس-سُنسان، پنجابی وِچ جوڑ گُم ہویا"
+    },
+    {
+      "kind": "measurement",
+      "subject": "قوماں",
+      "rationale": "قوماں نوں گِنتی وِچ پورا اے — صِفر تے تُھس تک"
+    }
+  ],
+  "translation": "ساریاں قوماں اوہدے اگے ہِن جِویں ⟨کجھ⟩ نہ ہووے؛ صِفر تے تُھس-سُنسان گِنیاں گیاں اوہدے لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b020e2ecec575243b2e86dad6985604644b31184f151ef0c52c777de3f60ff82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/40\/17-20.1792106729263.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ساریاں"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "قوماں"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "جِویں نہ-ہووے"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "اوہدے اگے"
+    },
+    {
+      "surface": "מאפס",
+      "gloss": "صِفر"
+    },
+    {
+      "surface": "ותהו",
+      "gloss": "تے تُھس-سُنسان"
+    },
+    {
+      "surface": "נחשבו",
+      "gloss": "گِنیاں گیاں"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدے لئی"
+    }
+  ],
+  "timestamp": "2026-10-15T23:25:29.264493545Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 12:19",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جان والی ہوندی اے، 'روح' نئیں — 'اوہ جان کٹی جائے'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "נכרתה",
+      "rationale": "'کٹی جائے' (עדת توں کٹنا) یا 'فنا ہووے' — خُود کٹن دا قاعدہ موسی دی شریعت دے ویلے دا اے، متن صرف نتیجہ دسدا اے"
+    }
+  ],
+  "translation": "ست دِن خمیر نہ لبھے تُہاڈے گھراں وِچ، کیونجے جو کوئی کھاوے خمیری ⟨روٹی⟩، اوہ جان کٹی جائے یِسرائیل دی سنگت توں — پرسوں چاہے دیس دا جمیا ہویا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "780e407a9c03a60e49fa1f6c771a78138b2c109043dae2005aac6f2a76bb5aff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/12\/17-20.1792096521058.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "ست"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دِن"
+    },
+    {
+      "surface": "שאور",
+      "gloss": "خمیر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "یִמָּצֵא",
+      "gloss": "لبھے"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": "تُہاڈے گھراں وِچ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر اوہ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "کھاوے"
+    },
+    {
+      "surface": "מחמצת",
+      "gloss": "خمیری"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "تے کٹی جائے"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "מעדת",
+      "gloss": "سنگت توں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل دی"
+    },
+    {
+      "surface": "בגר",
+      "gloss": "پرسوں"
+    },
+    {
+      "surface": "ובאזרח",
+      "gloss": "چاہے جمیا ہویا"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "دیس دا"
+    }
+  ],
+  "timestamp": "2026-10-15T20:35:21.059157305Z",
+  "model": "glm-5.3"
+}

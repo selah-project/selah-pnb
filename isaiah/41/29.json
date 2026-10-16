@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "isaiah 41:29",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ہو نیں⟩",
+      "rationale": "عبرانی وِچ کوپلا نئیں، پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "נסכיהם",
+      "rationale": "سُٹے ہوئے دھات دے بُتّ (перев. KJV 'molten images') ورسُٹی\/چڑھاوا — دونواں واٹ نیں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "און אפס",
+      "rationale": "ن formally کُجھ نا ہونا + صفر — لفظی ترتیب، پنجابی وِچ حرف-نقل رکھیا"
+    }
+  ],
+  "translation": "دیکھو، اوہ سب کُجھ اَوین ⟨ہو نیں⟩، اِفِس اِنہاں دے کَمّ نیں، ہوا تے اُجاڑ ⟨اور⟩ اِنہاں دے سُٹے ہوئے بُتّ نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "42484a9a7a36db5fb3b46c15768639d6b03f235fb19a1a0d996c21c0ff206593",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/41\/29-29.1792106646465.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "دیکھو"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "اوہ سب"
+    },
+    {
+      "surface": "און",
+      "gloss": "اَوین"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "اِفِس"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "اِنہاں دے کَمّ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ہوا"
+    },
+    {
+      "surface": "ותהו",
+      "gloss": "تے اُجاڑ"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "اِنہاں دے سُٹے ہوئے بُتّ"
+    }
+  ],
+  "timestamp": "2026-10-15T23:24:06.465880223Z",
+  "model": "glm-5.3"
+}

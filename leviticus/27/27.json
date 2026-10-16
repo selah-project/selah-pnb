@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 27:27",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "پنجواں حصہ",
+      "rationale": "فدیے اُتے پنجواں حصہ وادھے دا قاعدہ — گنتی دا حکم"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩",
+      "rationale": "عبرانی وِچ ضمیر شامل نئیں؛ شرطی جملے لئی پنجابی منگدا اے"
+    }
+  ],
+  "translation": "تے جے ⟨اوہ⟩ نجس بہیم ہووے، تے اوہ تیرے اندازے نال فدیہ دےوے تے اوہدے اُتے اوہدا پنجواں حصہ وادھا کرے؛ تے جے اوہ فدیہ نہ ہووے، تے تیرے اندازے نال ویچیا جاوے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4eec02fe031ab5328d54c85d48b408297646004578a1557e1f9838863b0d2ba5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/27\/25-28.1792098187363.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "بہیم وِچ"
+    },
+    {
+      "surface": "הטמאה",
+      "gloss": "نجس"
+    },
+    {
+      "surface": "ופדה",
+      "gloss": "تے فدیہ دےوے"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "تیرے اندازے نال"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "تے وادھا کرے"
+    },
+    {
+      "surface": "חמשתו",
+      "gloss": "اوہدا پنجواں حصہ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اوہدے اُتے"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "فدیہ ہووے"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "تے ویچیا جاوے"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "تیرے اندازے نال"
+    }
+  ],
+  "timestamp": "2026-10-15T21:03:07.364518965Z",
+  "model": "glm-5.3"
+}

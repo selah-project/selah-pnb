@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 91:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨تُوں⟩",
+      "rationale": "عبرانی وِچ فعل اے نئیں، صفتاں یاہوہ بارے — پنجابی جملہ پُکار منگدا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "מצודה",
+      "rationale": "جال\/پکڑ وی تے قلعہ\/تھمویں وی — ایتھے پناہ دے مطلب نال 'قلعہ' چُنیا"
+    }
+  ],
+  "translation": "آکھدا آں یاہوہ نوں: ⟨تُوں⟩ میری پناہ تے میرا قلعہ ایں؛ میرا ایلوہیم، میں اوہدے اُتے بھروسہ کراں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6b27061cd857273d0739abf1af97d2b86292ae29a44dceb3668c0ff5eec15f2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/91\/2-3.1792124214920.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "آکھدا آں"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ نوں"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "میری پناہ"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "تے میرا قلعہ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "میرا ایلوہیم"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "بھروسہ کراں گا"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوہدے اُتے"
+    }
+  ],
+  "timestamp": "2026-10-16T04:16:54.921370270Z",
+  "model": "glm-5.3"
+}

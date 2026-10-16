@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 10:11",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "فرعون موشے تے اہرون نوں",
+      "rationale": "حکم تے ردّ — 'تُسیں جوان مَرد جاؤ'"
+    },
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "نرمی دا ذرہ، پنجابی 'ہن' نال ہلکا جیہا رکھیا"
+    }
+  ],
+  "translation": "نئیں، اویں نئیں؛ ہن تُسیں جوان مَرد جاؤ تے یاہوہ دی خدمت کرو، کیوں جو اِیہو ⟨ای⟩ تُسیں چاہندے او۔ تے فرعون دے مُکھڑے توں اوہناں نوں کَڈھ دِتا گیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ee90873ce6996c091a60876c31e586c08f6354397c8e0b15d32cfc5ed7a752ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/10\/9-12.1792096354699.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اویں"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "جاؤ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ہن"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "جوان مَرد"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "تے خدمت کرو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ دی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "تُسیں"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تُسیں"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "چاہندے او"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "تے کَڈھ دِتا گیا"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "اوہناں نوں"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ توں"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مُکھڑے"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    }
+  ],
+  "timestamp": "2026-10-15T20:32:34.701100006Z",
+  "model": "glm-5.3"
+}

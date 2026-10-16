@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 11:5",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "جوڑ",
+      "rationale": "אלהי…צדנים اُتے تعریفی جوڑ 'دا' پنجابی منگدا اے، عبرانی وِچ سمیع اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "گھناؤنا بت",
+      "rationale": "שקץ دا مول مطلب 'گھناونا' اے؛ 'بت'.Context شیل تصریح لئی جوڑیا"
+    }
+  ],
+  "translation": "تے شلوموہ عشتورت پِچھے ٹُریا — صیدونیاں دا دیوتا — تے مِلکوم پِچھے، جیہڑا عمونیاں دا گھناؤنا بت اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e57c78e1f7c9fca019d2ef49a9ee66025e2be40748568ca4db381e7aae6d132a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/11\/5-8.1792104396830.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "تے ٹُریا"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلوموہ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پِچھے"
+    },
+    {
+      "surface": "עשתרת",
+      "gloss": "عشتورت"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "دیوتا"
+    },
+    {
+      "surface": "צדנים",
+      "gloss": "صیدونیاں"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "تے پِچھے"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "مِلکوم"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "گھناؤنا بت"
+    },
+    {
+      "surface": "עמנים",
+      "gloss": "عمونیاں"
+    }
+  ],
+  "timestamp": "2026-10-15T22:46:36.831203703Z",
+  "model": "glm-5.3"
+}

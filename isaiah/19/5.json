@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 19:5",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ונשתו",
+      "rationale": "شَمَش توں بݨیا فعل اے پر ایتھے 'پانی دا سُک جانا' اے، شرمندگی نئیں"
+    },
+    {
+      "kind": "alternative",
+      "subject": "دریا",
+      "rationale": "נהר ایتھے نیل ای اے، پر لفظ عام 'دریا' دا اے"
+    }
+  ],
+  "translation": "تے سمندر توں پانی سُک جان گے، تے دریا اُجاڑ ہو کے مُر جائوے گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d23145d290370af234e39ff744259cd2891968d0f8eae029b302d3f9c25810fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/19\/5-8.1792106124581.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונשתו",
+      "gloss": "سُک جان گے"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پانی"
+    },
+    {
+      "surface": "מהים",
+      "gloss": "سمندر توں"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "تے دریا"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "اُجاڑ ہو جائوے گا"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "تے مُر جائوے گا"
+    }
+  ],
+  "timestamp": "2026-10-15T23:15:24.582138726Z",
+  "model": "glm-5.3"
+}

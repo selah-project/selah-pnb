@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 30:31",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "چلائی جاندی اے",
+      "rationale": "عبرانی وِچ کوئی فعل نئیں، صرف 'سوگ لئی بن گئی' — پنجابی جملہ لئی پورا کیتا۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "כינור\/עוגב",
+      "rationale": "کنور (تانت والا ساز) تے بانسری (نرسالی ساز) — قدیم سازاں دیاں نیزیلاں تصویراں۔"
+    }
+  ],
+  "translation": "تے میری کنور سوگ وچ چلائی جاندی اے، تے میری بانسری روون والیاں دے اَواز نال۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "eb2982aabea12cbe79d25fa5408aa2a2805943f9bfd7cba084631303bf137639",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/30\/29-31.1792116228236.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے بن گئی"
+    },
+    {
+      "surface": "לאבל",
+      "gloss": "سوگ وِچ"
+    },
+    {
+      "surface": "کنور",
+      "gloss": "میری کنور"
+    },
+    {
+      "surface": "ועגבי",
+      "gloss": "تے میری بانسری"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "اَواز نال"
+    },
+    {
+      "surface": "בכים",
+      "gloss": "روون والیاں دے"
+    }
+  ],
+  "timestamp": "2026-10-16T02:03:48.237509917Z",
+  "model": "glm-5.3"
+}

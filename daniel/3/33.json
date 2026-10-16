@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "daniel 3:33",
+  "book": "daniel",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے \/ نیں",
+      "rationale": "عبرانی (آرامی) وِچ کوپلا نئیں؛ پنجابی نے جُملے لئی چُکیاں نیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "کرما",
+      "rationale": "תמהוהی دی جمع — وڈھیرا سُچj 'حیران کرن والے کرما'، اِک لفظ نال دتیاں گیاں"
+    },
+    {
+      "kind": "idiom",
+      "subject": "עם דר ודר",
+      "rationale": "'پیڑھیوں پیڑھی تک' — آرامی اڈیوم، عام لفظی 'دور نال دور' توں سُچج پنجابی"
+    }
+  ],
+  "translation": "اُہدے نشانے کِنے وڈے نیں، تے اُہدے کرما کِنے تکڑے نیں! اُہدی مملکت ہمیشہ دی مملکت اے، تے اُہدی حکومت پیڑھیوں پیڑھی تک ⟨رہی گی⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f77d8a591a7fe70843da7d2b6adb1b5bbaacf5038a22fa1d7be9ad7a799029dc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/daniel\/3\/33-33.1792118192782.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתוהי",
+      "gloss": "اُہدے نشانے"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "کِنے وڈے نیں"
+    },
+    {
+      "surface": "רברבין",
+      "gloss": "وڈے"
+    },
+    {
+      "surface": "ותמהוהי",
+      "gloss": "تے اُہدے کرما"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "کِنے تکڑے نیں"
+    },
+    {
+      "surface": "תקיפין",
+      "gloss": "تکڑے"
+    },
+    {
+      "surface": "מלכותה",
+      "gloss": "اُہدی مملکت"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "مملکت"
+    },
+    {
+      "surface": "עלם",
+      "gloss": "ہمیشہ دی"
+    },
+    {
+      "surface": "ושלטנה",
+      "gloss": "تے اُہدی حکومت"
+    },
+    {
+      "surface": "עם",
+      "gloss": "تک"
+    },
+    {
+      "surface": "דר",
+      "gloss": "پیڑھیوں"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "پیڑھی"
+    }
+  ],
+  "timestamp": "2026-10-16T02:36:32.782537307Z",
+  "model": "glm-5.3"
+}

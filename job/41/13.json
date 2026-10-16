@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 41:13",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ساہ",
+      "rationale": "נפש aquí 'ساہ\/دماغ' اے، 'جان' دے معنےآں وچ نئیں — تے 'ساہ' ای پرکھ دا مطلب اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תלהט\/להב",
+      "rationale": "להט (بلانا) تے להב (لوئ) اکو جذر توں آواز ملدیاں نیں — ایہہ جوڑ پنجابی وِچ مک گیا"
+    }
+  ],
+  "translation": "اوہدی ساہ ⟨انگیاں⟩ نوں بلاؤندی اے، تے لوئ اوہدے مُں توں نکلدی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c30f1dea12210883d408ee492ac8a002a524d8612a35025de15d1a8ec7781d95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/41\/13-16.1792116579827.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפשו",
+      "gloss": "اوہدی ساہ"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "انگیاں"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "بلاؤندی اے"
+    },
+    {
+      "surface": "ולהב",
+      "gloss": "تے لوئ"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "اوہدے مُں توں"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "نکلدی اے"
+    }
+  ],
+  "timestamp": "2026-10-16T02:09:39.828164148Z",
+  "model": "glm-5.3"
+}

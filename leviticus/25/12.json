@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 25:12",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ہووے",
+      "rationale": "عبرانی وِچ ਕਿਰਿਆ-ਹੋਂਦ ਤੋਂ بغیر پنجابی جمله بناؤن لئی 'ہووے' پایا گیا"
+    }
+  ],
+  "translation": "کیوں جو یوویل اوہ اے، پاک ہووے تُہاڈے لئی؛ کھیت توں تُسیں کھاؤ ⟨את⟩ اوہدی فصل نوں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9c3360af99f28ed494964a26737d076c89e5bc4552227a53ddbf154e20495d0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/25\/9-12.1792098134958.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "یوویل"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ہووے"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُہاڈے لئی"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "کھیت"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "تُسیں کھاؤ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہدی فصل"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "اوہدی فصل"
+    }
+  ],
+  "timestamp": "2026-10-15T21:02:14.959797220Z",
+  "model": "glm-5.3"
+}

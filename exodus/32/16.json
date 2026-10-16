@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 32:16",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "חרות",
+      "rationale": "لفظ 'کھودی ہوئی' (חרות) تنخ وِچ صرف ایتھے آندا اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "سی\/سن",
+      "rationale": "عبرانی وِچ کوپلا نئیں؛ پنجابی جملے لئی چاہیدا اے۔"
+    }
+  ],
+  "translation": "تے اوہ لوح ایلوہیم دے کم سن، تے اوہ لکھت ایلوہیم دی لکھت سی، لوحاں اُتے کھودی ہوئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a9e72f0f8702db4b5f69b22f7e437d1b7aaf050dd69e8da32a32b7e4b11a2666",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/32\/13-16.1792097062010.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והלחת",
+      "gloss": "تے اوہ لوح"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کم"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم دے"
+    },
+    {
+      "surface": "המה",
+      "gloss": "سن"
+    },
+    {
+      "surface": "והמכתב",
+      "gloss": "تے اوہ لکھت"
+    },
+    {
+      "surface": "מכתב",
+      "gloss": "لکھت"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "חרות",
+      "gloss": "کھودی ہوئی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "لوحاں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:44:22.012135307Z",
+  "model": "glm-5.3"
+}

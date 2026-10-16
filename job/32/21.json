@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 32:21",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אשא פני",
+      "rationale": "عبرانی ‘چہرہ چُکّنا’ = پاسہ لینا \/ حصداری کرنا؛ پنجابی وِچ اوہو پنجابی چال ورتی۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "אכנה",
+      "rationale": "جڑ ‘کنہ’ = ودھیا ناں دینا؛ ‘مِٹھے ناں’ (خوشامد) وچ بدلیا — ‘مدح کرنا’ وچ بدلن والے پُراݨے ترجمے وی نیں۔"
+    },
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "‘بھلا’ عرض دا نشان اے، عبرانی دا نرم ہون دا لہجا پنجابی وِچ پورا نئیں لگدا۔"
+    }
+  ],
+  "translation": "بھلا نئیں، بندے دا چہرہ چُکّاں، تے انسان نوں مِٹھے ناں نئیں دےواں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7154fcaadbf48911912a9f17bfe390c902c246085d8f30c47b695c62bd61ea67",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/32\/21-22.1792116172898.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "נא",
+      "gloss": "بھلا"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "چُکّاں"
+    },
+    {
+      "surface": "פני",
+      "gloss": "چہرہ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے … نوں"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "אכנה",
+      "gloss": "مِٹھے ناں دےواں"
+    }
+  ],
+  "timestamp": "2026-10-16T02:02:52.899010292Z",
+  "model": "glm-5.3"
+}

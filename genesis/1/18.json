@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 1:18",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "راج کرن لئی",
+      "rationale": "למשول مطلب 'حکومت کرنا\/تسلط رکھنا' — روشنی دے پہلی واری استعمال نوں دسیا بغیر"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בין…ובין",
+      "rationale": "عبرانی 'وِچکار…تے وِچکار' دوہرا کردار اے — پنجابی وِچ پہلا حصہ دبا گیا"
+    }
+  ],
+  "translation": "تے دن اُتے تے رات اُتے راج کرن لئی، تے روشنی تے ہنیرے وِچکار وکھریائی کرن لئی؛ تے ایلوہیم نے ویکھیا کی اوہ چنگا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3d7ee85ee00b330d68da31cd2ba362a971dd108816d683c5d937666260e90550",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/1\/17-20.1792094679831.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולמשל",
+      "gloss": "تے…راج کرن لئی"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "دن اُتے"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "تے رات اُتے"
+    },
+    {
+      "surface": "ולהבדיל",
+      "gloss": "تے وکھرا کرن لئی"
+    },
+    {
+      "surface": "בין",
+      "gloss": "وِچکار"
+    },
+    {
+      "surface": "האור",
+      "gloss": "روشنی"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "تے وِچکار"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "ہنیرے"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "تے…ویکھیا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم نے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگا"
+    }
+  ],
+  "timestamp": "2026-10-15T20:04:39.831990104Z",
+  "model": "glm-5.3"
+}

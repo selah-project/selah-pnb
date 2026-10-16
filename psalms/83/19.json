@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 83:19",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לבדך دا مقام",
+      "rationale": "عبرانی ترتیب 'تُوں — تیرا ناں یاہوہ — اِکلا' ایہ دسدا اے جو اِکلی ہستی یاہوہ اے؛ کجھ ترجمے 'جیہدا ناں اِکلا' پڑھدے نیں — دونویں صدیاں توں چلدیاں نیں۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "اے ⟨ہی⟩",
+      "rationale": "عبرانی وِچ کوئی فعل 'ہونا' نئیں — پنجابی جملے لئی 'اے' پایا گیا۔"
+    },
+    {
+      "kind": "you",
+      "subject": "تُوں",
+      "rationale": "سلاخ دا سدعا یاہوہ ول، قوماں دے ویڑھے توں بعد۔"
+    }
+  ],
+  "translation": "تے اوہ جان لین جو تُوں — تیرا ناں یاہوہ اے — اِکلا ای، ساری دھرتی اُتے سب توں اُچا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bd4516115cc63d0a08b483bfa52075d0eb3f5d7666104bd4b9dea63f603e1d86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/83\/17-19.1792113119224.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "تے اوہ جان لین"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُوں"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "تیرا ناں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "اِکلا ای"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "سب توں اُچا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "دھرتی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:11:59.225306815Z",
+  "model": "glm-5.3"
+}

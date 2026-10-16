@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 8:5",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "התפאר עלי",
+      "rationale": "عبرانی اِدiom اے — میرے اُتے فخر\/اختیار کرو؛ مطلب: تُوں ویلے دا فیصلہ کرو"
+    },
+    {
+      "kind": "you",
+      "subject": "to Pharaoh",
+      "rationale": "موشے سِدھا پَرعوہ نال گل کردا اے تے سوال پُچھدا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩",
+      "rationale": "عبرانی وِچ فعل نسواں جمع اے پر مینڈک دا اُچارن پنجابی جملے لئی لوڑیدا سی"
+    }
+  ],
+  "translation": "تے موشے نے پَرعوہ نال آکھیا: میرے اُتے فخر کرو — کدوں تک میں تیرے لئی، تیرے غلاماں لئی تے تیرے قوم لئی دُعا کراں، کہ مینڈک تیرے توں تے تیرے گھراں توں کٹے جان، صرف دریا وِچ ⟨اوہ⟩ رہ جان؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9e9427d8b92bb99e327c4bad150b756db9234ba05a5d4e14ddea01e356c1831e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/8\/5-8.1792096333061.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے نے"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "پَرعوہ نال"
+    },
+    {
+      "surface": "התפאר",
+      "gloss": "فخر کرو"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "میرے اُتے"
+    },
+    {
+      "surface": "למתי",
+      "gloss": "کدوں تک"
+    },
+    {
+      "surface": "אעתיר",
+      "gloss": "میں دُعا کراں"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیرے لئی"
+    },
+    {
+      "surface": "ולעבדיך",
+      "gloss": "تے تیرے غلاماں لئی"
+    },
+    {
+      "surface": "ולעמך",
+      "gloss": "تے تیرے قوم لئی"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "کہ کٹے جان"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "مینڈک"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "تیرے توں"
+    },
+    {
+      "surface": "ומבתיך",
+      "gloss": "تے تیرے گھراں توں"
+    },
+    {
+      "surface": "רק",
+      "gloss": "صرف"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "دریا وِچ"
+    },
+    {
+      "surface": "תשארנה",
+      "gloss": "رہ جان"
+    }
+  ],
+  "timestamp": "2026-10-15T20:32:13.062124882Z",
+  "model": "glm-5.3"
+}

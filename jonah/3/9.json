@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 3:9",
+  "book": "jonah",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מי יודע",
+      "rationale": "کون جاندا اے — اُمید والا سوال؛ پرانے ترجمے ایہنوں منفی سمجھدے نیں (کیہ اوہ نہ مُڑے) — عبرانی کھلا چھڈدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חרון אפו",
+      "rationale": "لفظی: اوہدی نَکّ دا بھڑکاوَ — אף نَکّ اے تے غصہ دوویں؛ شکل گوا گئی"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ונחם",
+      "rationale": "لفظی ہانپݨا\/دُکھ نال ساہ لَےݨا — ترس کھا لَےݨا تھوڑا کجھ سمجھایا"
+    }
+  ],
+  "translation": "کون جاندا اے کہ اوہ مُڑے، تے ایلوہیم ترس کھا لوے، تے اپنے غصے دے بھڑکاوَ توں مُڑ جاوے، تے اسیں فنا نہ ہوئیے؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6031ce02ce939b657b0177961c6f38b3208d515c28720403195cb14caf36a199",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jonah\/3\/9-10.1792110987359.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "جاندا اے"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "مُڑے"
+    },
+    {
+      "surface": "ונחם",
+      "gloss": "تے ترس کھا لوے"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "تے مُڑ جاوے"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "بھڑکاوَ"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "اوہدے غصے دے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "נאבד",
+      "gloss": "فنا ہوئیے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:36:27.360244536Z",
+  "model": "glm-5.3"
+}

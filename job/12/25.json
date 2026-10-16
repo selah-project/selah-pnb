@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 12:25",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "جیویں",
+      "rationale": "عبرانی وِچ صرف کاف (ک‏) اے؛ پنجابی وِچ 'جیویں' جوڑن لئی پیتا گیا"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ימששו…ויתעם",
+      "rationale": "ٹٹولن تے رلنا — سمان دھنی چال، وِچاراں دا مُڑ دہرایا؛ پنجابی وِچ سمان دھن رکھی گئی"
+    }
+  ],
+  "translation": "او ہتھاں نال ٹٹولدے نیں ہنیرا، تے چانن نئیں، تے اوہ اوہناں نوں رلا دندا اے ⟨جیویں⟩ نشے وِچ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8b6c88dbbd31dc821cb5b3a5eae4c625f073233f719df55bebf5b2845d76e953",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/12\/25-25.1792115577365.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימששו",
+      "gloss": "او ہتھاں نال ٹٹولدے نیں"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ہنیرا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "אור",
+      "gloss": "چانن"
+    },
+    {
+      "surface": "ויתעם",
+      "gloss": "تے اوہ اوہناں نوں رلا دندا اے"
+    },
+    {
+      "surface": "כשכור",
+      "gloss": "⟨جیویں⟩ نشے وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:52:57.365774028Z",
+  "model": "glm-5.3"
+}

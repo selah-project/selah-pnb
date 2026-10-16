@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 35:27",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שלום",
+      "rationale": "'سلامتی' — KJV 'prosperity' (خوشحالی)؛ שלום دا مول مطلب مکمل بھلائی\/امن اے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עבדו",
+      "rationale": "'غلام' — عبرانی עבڈ کِسے وی خادم نوں آکھدا اے، غلامی دے چنگھیڑ مول نئیں۔"
+    }
+  ],
+  "translation": "رنّن کرن تے خوش ہون اوہ جیہڑے میری سیانف نوں چاہندے نیں، تے آکھن سدا: یاہوہ وڈا ہووے، جیہڑا اپنے غلام دے سلامتی نوں چاہندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1a8a109cff1d3550a9527086c0ee2255af580618ec08de39586da90e95afd527",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/35\/25-28.1792112322871.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ירנו",
+      "gloss": "رنّن کرن"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "تے خوش ہون"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "چاہندے نیں"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "میری سیانف"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "تے آکھن"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "سدا"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "وڈا ہووے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "החפץ",
+      "gloss": "چاہندا اے"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامتی"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "اپنے غلام"
+    }
+  ],
+  "timestamp": "2026-10-16T00:58:42.872221295Z",
+  "model": "glm-5.3"
+}

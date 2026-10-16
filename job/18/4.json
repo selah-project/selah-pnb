@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 18:4",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "טֹרֵף נַפְשׁוֹ",
+      "rationale": "'اوہ اپنی جان نوں پاڑدا اے' — کجھ پڑھدے نیں 'اوہ تیری جان نوں پاڑدا اے' (KJV نے 'himself' دتا)"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨اوہدی⟩",
+      "rationale": "عبرانی وِچ ضمیر صرف نَפְשׁוֹ وِچ اے؛ پنجابی جملے لئی دو واری ضرورت"
+    },
+    {
+      "kind": "you",
+      "subject": "تیرے لئی",
+      "rationale": "بلدد ایوب نوں سدھا مخاطب کردا اے"
+    }
+  ],
+  "translation": "اوہ اپنی غصے وِچ ⟨اوہدی⟩ جان نوں پاڑدا اے — کیا تیرے لئی دھرتی چھڈی جاوے، تے چٹان اپنی تھاں توں ہٹ جاوے؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "db8e85e6a43743958d010dc4adfe357c206712898dfcd8c5c9e93238a2000701",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/18\/1-4.1792115854208.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טרף",
+      "gloss": "پاڑدا اے"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "اوہدی جان نوں"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "غصے وِچ"
+    },
+    {
+      "surface": "הלמענך",
+      "gloss": "تیرے لئی"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "چھڈی جاوے"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "دھرتی"
+    },
+    {
+      "surface": "ויעתק",
+      "gloss": "تے ہٹ جاوے"
+    },
+    {
+      "surface": "צור",
+      "gloss": "چٹان"
+    },
+    {
+      "surface": "ממקמו",
+      "gloss": "اپنی تھاں توں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:57:34.209953617Z",
+  "model": "glm-5.3"
+}

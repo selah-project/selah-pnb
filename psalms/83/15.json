@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 83:15",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "להבה \/ תלהט",
+      "rationale": "لو تے لَو چاٹنا — اِکو جڑ توں، اگّ دی دوہری تصویر"
+    }
+  ],
+  "translation": "جِویں اگّ جنگل نوں ساڑدی اے، تے جِویں لَو پہاڑاں نوں بھڑکا دیندی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3a2aca48bae78c1fa2b32b6f4b36eeea1721c5d1353370da30cb41cfa9628ce8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/83\/13-16.1792113147515.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כאש",
+      "gloss": "جِویں اگّ"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "ساڑدی اے"
+    },
+    {
+      "surface": "יער",
+      "gloss": "جنگل"
+    },
+    {
+      "surface": "וכלהבה",
+      "gloss": "تے جِویں لَو"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "بھڑکا دیندی اے"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "پہاڑ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:12:27.516244810Z",
+  "model": "glm-5.3"
+}

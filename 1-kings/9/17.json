@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نوں",
+      "rationale": "پنجابی مفعول لئی نوں منگدا اے، عبرانی את نشان ای اے"
+    }
+  ],
+  "translation": "تے شلوموہ نے ⟨את⟩ گِزیر نوں تے ⟨את⟩ ہیٹھلے بیت-خورون نوں بنایا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "00361da876a260a310eb5eb405829c913035f1add199c784d18a0655c8cb793c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/9\/17-20.1792104281418.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "تے…بنایا"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلوموہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گِزیر"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "گِزیر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "بیت-خورون"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت-خورون"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "بیت-خورون"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "ہیٹھلا"
+    }
+  ],
+  "timestamp": "2026-10-15T22:44:41.418607815Z",
+  "model": "glm-5.3"
+}

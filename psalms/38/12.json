@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 38:12",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נגעי",
+      "rationale": "נגע چوٹ\/زخم تے چھٹی دونوں وقت — 'میرا زخم' رکھیا گیا"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יעמדו\/עמדו",
+      "rationale": "אהבי-יעמדو\/קרובי-עמדو دی جوڑی — دور-نیڑے دا وِرودھ، پنجابی وِچ دہرائی رکھی گئی"
+    }
+  ],
+  "translation": "میرے پیارے تے میرے یار میرے زخم توں اک پاسے کھلوندے نیں، تے میرے ساک دور کھلوندے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0c9ba66623936e037b65b452ee7069c760922e6092b3a233072f9b81bc112027",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/38\/9-12.1792112418075.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "میرے پیارے"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "تے میرے یار"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "توں اک پاسے"
+    },
+    {
+      "surface": "נגעי",
+      "gloss": "میرے زخم"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "کھلوندے نیں"
+    },
+    {
+      "surface": "וקרובי",
+      "gloss": "تے میرے ساک"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "دور"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "کھلوندے نیں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:00:18.076270861Z",
+  "model": "glm-5.3"
+}

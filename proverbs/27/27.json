@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 27:27",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "پنجابی چاہیدی کلپولا؛ عبرانی ודי اگے رکھدا اے، جملہ آخر وِچ مکدا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ללחמך \/ ללח׮",
+      "rationale": "اِکو جڑ לחם دو واری — 'تیرا کھانا' تے 'گھر دا کھانا' — پنجابی وِچ دہرائی رہندی اے پر جڑ دا کھیل ہلدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "جیون",
+      "rationale": "חיים 'جِند-جان\/پالن-پوسن' —kjv 'maintenance' — 'جیون' نیڑے دا شکل اے"
+    }
+  ],
+  "translation": "تے بکرِیاں دا دُدھ تیرے کھانے لئی، تیرے گھر دے کھانے لئی، تے تیریاں نوجوان داسیاں دے جیون لئی بھرپیؤ اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "77379553d099267a1d02374608fba4f2bd4e4b1a765d852a36f439702c95b42f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/27\/25-27.1792115179884.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודי",
+      "gloss": "تے بھرپیؤ"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "دُدھ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "بکرِیاں دا"
+    },
+    {
+      "surface": "ללחמך",
+      "gloss": "تیرے کھانے لئی"
+    },
+    {
+      "surface": "ללחם",
+      "gloss": "کھانے لئی"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "تیرے گھر دے"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "تے جیون لئی"
+    },
+    {
+      "surface": "לנערותיך",
+      "gloss": "تیریاں نوجوان داسیاں دے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:46:19.885569401Z",
+  "model": "glm-5.3"
+}

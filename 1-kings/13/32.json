@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 13:32",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "یقین نال",
+      "rationale": "عبرانی دی-infinitive absolute ساخت (היה יהیہ) زور دی دہراوٹ اے، جیہدے لئی پنجابی وچ واضح لفظ پاؤنا پیا"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בתי הבמות",
+      "rationale": "بیت (گھر) دا دہراؤ — بیت ایل دے مندر مقابل بام دی پوجا دے گھر — پنجابی وچ ایہ جوڑ کھوہ جاندا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "بالاں دے گھر",
+      "rationale": "במות اُچیاں تھاواں دی پوجا دیاں جگہاں نیں؛ 'بام' دی شکل رکھی گئی، معبد نئیں آکھیا"
+    }
+  ],
+  "translation": "کیونکہ اوہ گل جیہڑی اوہنے یاہوہ دے بچن نال اُس قربان گاہ اُتے جیہڑی بیت ایل وِچ اے، تے اُناں بالاں دے سارے گھراں اُتے جیہڑے شومرون دے شہراں وِچ نیں، پکاری سی — اوہ ⟨یقین نال⟩ واپر ہو کے رہوے گی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "189f4c3fa0a2336744f0958d9cdc0372276d10d45b2e390db8ef0538550aa793",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/13\/32-32.1792123718667.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "واقع ہونا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہو کے رہوے گی"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "اوہ گل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "پکاری سی"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "بچن نال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "قربان گاہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "بیت وِچ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "گھراں"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "بالاں دے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑے"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "شہراں وِچ"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "شومرون"
+    }
+  ],
+  "timestamp": "2026-10-16T04:08:38.668383142Z",
+  "model": "glm-5.3"
+}

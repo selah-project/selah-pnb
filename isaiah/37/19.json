@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 37:19",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כי אם",
+      "rationale": "مضبوط نفی دی جوڑی — اِکو 'سگوں' نال لئی گی، 'אם' لئی وکھرا گلاس نئیں"
+    },
+    {
+      "kind": "addition",
+      "subject": "سن",
+      "rationale": "پنجابی کریا دا ویلہ"
+    }
+  ],
+  "translation": "تے ⟨את⟩ اوہناں دے ایلوہیم اگّ وِچ سٹّ دتے، کیوں جو اوہ ایلوہیم نئیں سن سگوں آدمی دے ہتھاں دا کَم — لکڑ تے پتھر — تے اوہناں نوں مِٹا دتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6d0ac52548fee0a94e29c560ff65b7efc2d6e0ef292400aeaf218770c9789935",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/37\/17-20.1792106612882.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "تے سٹّ دتے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہناں دے ایلوہیم"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "اوہناں دے ایلوہیم"
+    },
+    {
+      "surface": "באש",
+      "gloss": "اگّ وِچ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "המה",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "سگوں"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨سگوں نال جُڑیا⟩"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کَم"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ہتھاں دا"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمی دے"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "لکڑ"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "تے پتھر"
+    },
+    {
+      "surface": "ויאבדום",
+      "gloss": "تے اوہناں نوں مِٹا دتا"
+    }
+  ],
+  "timestamp": "2026-10-15T23:23:32.883894915Z",
+  "model": "glm-5.3"
+}

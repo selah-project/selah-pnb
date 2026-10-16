@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 34:3",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הנגב",
+      "rationale": "نویکلا تھاں دا ناں اے 'نیگب' (لہندا سُکا پاسہ)، صرف 'دکھن' لکھنا ناں گوا دینا اے۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "وکھائے گئے علاقے",
+      "rationale": "پچھلیاں آیتاں دی ناپ-مپ لسٹ دا وادھا۔"
+    }
+  ],
+  "translation": "تے ⟨את⟩ نیگب، تے ⟨את⟩ میدان نوں — یریحو دی وادی، کھجوراں دا شہر — صُعار تک۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "915f56d21b0ce35b6ec202dd94e7633e5115049bbfadaf86f9de2c7eadd79037",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/34\/1-4.1792100631251.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "نیگب"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "نیگب"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "میدان"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "میدان"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "وادی"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "یریحو"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "کھجوراں دا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "צער",
+      "gloss": "صُعار"
+    }
+  ],
+  "timestamp": "2026-10-15T21:43:51.252170080Z",
+  "model": "glm-5.3"
+}

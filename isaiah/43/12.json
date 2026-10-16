@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 43:12",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "یِسرائیل نوں",
+      "rationale": "گواہی دا سدّا فیر یِسرائیل نوں"
+    },
+    {
+      "kind": "elision",
+      "subject": "זר",
+      "rationale": "عبرانی وِچ صرف اوپرا اے — ایلوہیم دا لفظ نئیں؛ پنجابی وِچ ⟨ایلوہیم⟩ پہلاں دسیا گیا سی، ایس لئی بریکٹ وِچ"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨سی⟩",
+      "rationale": "پنجانی ماضی دا جوڑ"
+    }
+  ],
+  "translation": "میں نے دسیا، تے بچایا، تے سنایا، تے تہاڈے وِچ کوئی اوپرا ⟨ایلوہیم⟩ نئیں ⟨سی⟩؛ تے تسیں میرے گواہ او، یاہوہ آکھدا اے، تے میں ایل آں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2086284d44258a805aeeb1f6ef139858f95212ee8d470fe6876a6f00ce54e638",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/43\/9-12.1792106673457.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "میں نے دسیا"
+    },
+    {
+      "surface": "והושעתי",
+      "gloss": "تے میں نے بچایا"
+    },
+    {
+      "surface": "והשמעתי",
+      "gloss": "تے میں نے سنایا"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "تہاڈے وِچ"
+    },
+    {
+      "surface": "זר",
+      "gloss": "کوئی اوپرا"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "تے تسیں"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "میرے گواہ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "آکھدا اے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "تے میں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    }
+  ],
+  "timestamp": "2026-10-15T23:24:33.458208135Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 33:18",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "איה … איה … איה",
+      "rationale": "تِن واری 'کتھے اے' دی وارواری — ظالم اہلکاراں دے مُک جان دا مذاق، پنجابی وِچ اِکو دُہراؤ رکھیا اے۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "שקל",
+      "rationale": "'تولن والا' — لفظی ترازو والا؛ مترجم وا differed: 'خراج لین والا' (KJV) بمقابلہ 'تولن والا' (YSV)۔"
+    }
+  ],
+  "translation": "تیرا دل دہشت نوں سوچیگا: کتھے اے لکھن والا؟ کتھے اے تولن والا؟ کتھے اے ⟨את⟩ برجیاں دا گنتی کرن والا؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8bb06e3c35301721a72105cef0a6dfdb48dbe788141459d470f9337cb3579348",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/33\/17-20.1792106429430.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבך",
+      "gloss": "تیرا دل"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "سوچیگا"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "دہشت"
+    },
+    {
+      "surface": "איה",
+      "gloss": "کتھے اے"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "لکھن والا"
+    },
+    {
+      "surface": "איה",
+      "gloss": "کتھے اے"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "تولن والا"
+    },
+    {
+      "surface": "איה",
+      "gloss": "کتھے اے"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "گنتی کرن والا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "برج"
+    },
+    {
+      "surface": "המגדלים",
+      "gloss": "برج"
+    }
+  ],
+  "timestamp": "2026-10-15T23:20:29.430988701Z",
+  "model": "glm-5.3"
+}

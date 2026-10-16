@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 24:3",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על פי",
+      "rationale": "'مُںہ اُتے' = حُکم نال — عبرانی محاورا، پنجابی وِچ 'دے حُکم نال' دتا گیا"
+    },
+    {
+      "kind": "alternative",
+      "subject": "אך",
+      "rationale": "'یقیناً' (تاکیدی) یا 'صرف' (محدود کن) — دوویں پڑھائیاں ہن، اتھے تاکیدی چنی"
+    }
+  ],
+  "translation": "ایہہ یقیناً یاہوہ دے مُںہ دے حُکم نال یہوداہ اُتے آیا، تاں جو اوہناں نوں اُوہدے مُکھّ توں ہٹایا جاوے، منشّے دے پاپاں کارن، ساریاں اُنہاں گلاں دے مطابق جیہڑیاں اوہنے کیتیاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "567e3f789d38c95868f25ae4f9cfc7b22c9d5f37bb7b79e92a7853089d7a5164",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/24\/1-4.1792105784995.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "یقیناً"
+    },
+    {
+      "surface": "על",
+      "gloss": "مطابق"
+    },
+    {
+      "surface": "פי",
+      "gloss": "مُںہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ہوئی"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "یہوداہ وِچ"
+    },
+    {
+      "surface": "להסיר",
+      "gloss": "ہٹاؤن لئی"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "توں"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "اُوہدے مُکھّ"
+    },
+    {
+      "surface": "בחטאת",
+      "gloss": "پاپاں کارن"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "منشّے"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ساریاں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑیاں"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کیتیاں"
+    }
+  ],
+  "timestamp": "2026-10-15T23:09:44.996706772Z",
+  "model": "glm-5.3"
+}

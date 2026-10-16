@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 41:1",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "שנתים ימים",
+      "rationale": "عبرانی پُراݨا اے “دو ورھے دِن” یعنی پورے دو ورھے؛ پنجابی وِچ “دِناں” وادھو رہِ گیا"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨سی⟩ ⟨اوہ⟩",
+      "rationale": "عبرانی نال “کھلو ہویا” اے، جُملہ پورا کرن لئی کریا تے ضمیر دتی"
+    },
+    {
+      "kind": "measurement",
+      "subject": "دو ورھے",
+      "rationale": "وقت دی گنتی — سپنیاں توں پہلاں دا پورا وقفہ"
+    }
+  ],
+  "translation": "تے دو ورھیاں دِناں دے مُکّ اُتے ہویا، تے پَروہ نے سپنیا ویکھی، تے اَوہے ⟨اوہ⟩ دریا اُتے کھلو ہویا ⟨سی⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6d938f74896f3c86dd9c00b3cdf63a9a2fe050a179641f018aa71f219d311d6c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/41\/1-4.1792095793107.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے ہویا"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "مُکّ اُتے"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "دو ورھیاں"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دِناں"
+    },
+    {
+      "surface": "ופרעה",
+      "gloss": "تے پَروہ"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "سپنیا ویکھی"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "تے اَوہے"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "کھلو ہویا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "دریا"
+    }
+  ],
+  "timestamp": "2026-10-15T20:23:13.108490958Z",
+  "model": "glm-5.3"
+}

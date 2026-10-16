@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 15:14",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "کروں گا",
+      "rationale": "עברי وِچ دان لئی کوئی مستقبل دا فعل نئیں، اِکو已完成 لفظ ⟨کروں گا⟩ دا سہارا لیا"
+    },
+    {
+      "kind": "crux",
+      "subject": "دان",
+      "rationale": "دان = عدالت کرنا\/سزا دینا؛ کجھ مترجم 'سزا داں گا'، کجھ 'انصاف کراں گا' لکھدے نیں"
+    },
+    {
+      "kind": "predicate-you",
+      "subject": "اَوراہام\/اَبرام نوں",
+      "rationale": "ایہہ اِلٰہی اعلان سِدھا ابرام دے بچناں وِچ آکھیا گیا اے"
+    }
+  ],
+  "translation": "تے جیہڑی قوم دی اوہناں نوں سیوا کرنی ⟨اوہ⟩ اے، اُس نوں وی میں ⟨את⟩ دان ⟨تاباوی اے⟩ کراں گا؛ تے ایس توں مگروں اوہ وڈے مال دھن نال نِکل جان گے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2d3b128a5cabbf92d2e391183998afe6094f46b910e35010938a6e5c373e2c63",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/15\/14-15.1792123250245.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "تے … وی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قوم"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "יעבדו",
+      "gloss": "اوہ سیوا کرن گے"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    },
+    {
+      "surface": "אנכی",
+      "gloss": "میں"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "تے … توں مگروں"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ایس"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "نِکل جان گے"
+    },
+    {
+      "surface": "ברכש",
+      "gloss": "مال دھن"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وڈے"
+    }
+  ],
+  "timestamp": "2026-10-16T04:00:50.246231968Z",
+  "model": "glm-5.3"
+}

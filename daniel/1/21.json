@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 1:21",
+  "book": "daniel",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויהי",
+      "rationale": "Hebrew 'and it came to pass that Daniel was' — rendered as 'remained\/continued', following the idiom rather than the literal 'was'"
+    },
+    {
+      "kind": "addition",
+      "subject": "اُوتھے رہا",
+      "rationale": "'continued\/remained' supplied — Hebrew says only 'Daniel was until', the verb's continuation sense is inferred"
+    },
+    {
+      "kind": "measurement",
+      "subject": "پہلے ورھے تک",
+      "rationale": "A dated endpoint — Daniel's lifespan measured against the first year of Cyrus the king"
+    }
+  ],
+  "translation": "تے دانیایل اُوتھے رہا، کورِش بادشاہ دے پہلے ورھے تک۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f85826ee73ece88de9602268a67211c28527bd3e1d619642ebe9eaba5a14077b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/daniel\/1\/21-21.1792117930378.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے رہا"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "دانیایل"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ورھے"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "پہلے"
+    },
+    {
+      "surface": "לכורש",
+      "gloss": "کورِش"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    }
+  ],
+  "timestamp": "2026-10-16T02:32:10.378924092Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "lamentations 2:18",
+  "book": "lamentations",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בת עינך",
+      "rationale": "لفظی 'تیری اکھ دی دِی' — عام پنجابی وچ اکھ دا تارا، پر لفظی شکل رکھی"
+    },
+    {
+      "kind": "addition",
+      "subject": "کوئی",
+      "rationale": "פוגת مہلت اے؛ پنجابی نفی جملے لئی ⟨کوئی⟩ چاہیدا"
+    },
+    {
+      "kind": "you",
+      "subject": "to daughter Zion",
+      "rationale": "دیوار تصیون دِی نوں سدیا گیا — پہرے مثل لئی خطاب"
+    }
+  ],
+  "translation": "اوہناں دا دل ادونای ول چیک ماردا اے: اے تصیون دِی دیوارے، نہے وانگوں دِنے تے رات نوں ہنجھو وہا، آپ نوں ⟨کوئی⟩ مہلت نہ دیں، تیری اکھ دی دِی چُپ نہ رہے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "13cb371b29f9272157f600113cf8dea5bffccb387d8747d72a61f4b7426704ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/lamentations\/2\/17-20.1792117295793.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צעק",
+      "gloss": "چیک ماردا اے"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "اوہناں دا دل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ول"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "اے … دیوارے"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دِی"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "تصیون"
+    },
+    {
+      "surface": "הורידי",
+      "gloss": "وہا"
+    },
+    {
+      "surface": "כנחל",
+      "gloss": "نہے وانگوں"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "ہنجھو"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "دِنے"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "تے رات نوں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתני",
+      "gloss": "دیویں"
+    },
+    {
+      "surface": "פוגת",
+      "gloss": "مہلت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "آپ نوں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תדם",
+      "gloss": "چُپ رہے"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دِی"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "تیری اکھ"
+    }
+  ],
+  "timestamp": "2026-10-16T02:21:35.793925515Z",
+  "model": "glm-5.3"
+}

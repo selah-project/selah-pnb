@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 42:13",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "שנים עשר",
+      "rationale": "عبرانی دو لفظ 'دو دس' پنجابی وِچ اِک لفظ 'باراں' بن جاندا اے۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "הקטן",
+      "rationale": "'نِکا' — چھوٹا (اَیّ) یا سب توں نِکا؛ بھراواں دی گنتی وِچ سب توں چھوٹا بنیامین۔"
+    },
+    {
+      "kind": "idiom",
+      "subject": "איננו",
+      "rationale": "لفظی 'اوہ نئیں اے' — یوسف دی موت دااریہ، پر اوہ زندہ اے۔"
+    }
+  ],
+  "translation": "تے اوہناں آکھیا: باراں تیرے بندے بھرا نیں اسیں، اِک ای بندے دے پُتر، کنعان دی زمین وِچ؛ تے ویکھو، نِکا اَج ⟨את⟩ ساڈے پیو ⟨کول⟩ اے، تے اِک ⟨ہُن⟩ نئیں اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b080eeb48fdfeee6f4db1fd92b048b4d20d01703f83e984a7c8a00888f47d908",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/42\/13-16.1792095879410.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "تے اوہناں آکھیا"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دس"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "تیرے بندے"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "بھرا"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "اسیں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "اِک"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین وِچ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کنعان"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "تے ویکھو"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "نِکا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ساڈا پیو"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "ساڈا پیو"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اَج"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "تے اِک"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "نئیں اے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:24:39.412885962Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 2:11",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اُچّے",
+      "rationale": "הכהן دے نال 'اُچّے' (مکھ کاہن) — عبرانی وِچ صرف 'کاہن' اے، حالت کنوں پتہ چلدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "دی حاضری وِچ",
+      "rationale": "את פני 'مُنھ دے نال' — پنجابی وِچ 'دی حاضری\/حضوری وِچ' ای بولی جاندی اے"
+    }
+  ],
+  "translation": "تے اَلکانہ راماتہ ⟨وَل⟩ سِدھا اپنے گھر نوں ٹُر پیا، تے اوہ نوجوان ⟨את⟩ یاہوہ دا سی، اوہدا سیوک — اُچّے کاہن عِلی ⟨את⟩ دی حاضری وِچ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c7772cce911e9becb4225e1edb4745d07b5bb38d314a26c6d8c2ff0ec9f551a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/2\/9-12.1792102118107.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "تے … ٹُر پیا"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "اَلکانہ"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "راماتہ ⟨وَل⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "سِدھا"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "اپنے گھر نوں"
+    },
+    {
+      "surface": "והנער",
+      "gloss": "تے اوہ نوجوان"
+    },
+    {
+      "surface": "היה",
+      "gloss": "سی"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "سیوک"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ دا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عِلی دی حاضری"
+    },
+    {
+      "surface": "פני",
+      "gloss": "دی حاضری وِچ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "عِلی"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    }
+  ],
+  "timestamp": "2026-10-15T22:08:38.108545225Z",
+  "model": "glm-5.3"
+}

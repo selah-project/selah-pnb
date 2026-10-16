@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 32:9",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "קשה ערף",
+      "rationale": "عبرانی مُکھی مجموعہ 'سختِ گردن' — نافرمانی دا تصور؛ پنجابی وِچ تصویر رکھی اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "עם קשה ערף הוא وِچ جوڑ نسخ (copula) پنجابی منگدا اے، عبرانی وِچ הוא نشانی اے"
+    }
+  ],
+  "translation": "تے یاہوہ نے موشے نوں آکھیا: میں ویکھیا اے ⟨את⟩ ایس قوم نوں، تے ویکھو، ایہہ سختِ گردن والا قوم اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "da143ef754c5367e7b6a4be8c91510b137732c971db2621591faa4aad3a173b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/32\/9-12.1792097107456.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ نے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "میں ویکھیا اے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایس قوم نوں"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایس"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "تے ویکھو"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "سختِ گردن والا"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "گردن"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ایہہ اے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:45:07.456887916Z",
+  "model": "glm-5.3"
+}

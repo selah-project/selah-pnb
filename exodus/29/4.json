@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 29:4",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אהל מועד",
+      "rationale": "'مِلن دا خیمہ' (موعد دی جاہ) بنام روایتی 'میعاد دا خیمہ' — مورچہ עד\/יעד دا؛ 'مِلن' چُنیا گیا کیونجے اوتھے اوہناں نوں ملن لئی بلایا جاندا اے۔"
+    },
+    {
+      "kind": "instruction",
+      "subject": "תקריב \/ ורחצת",
+      "rationale": "تقررے دے دو حکم — لیاؤنا تے دھونا؛ آیت 29:5 نال جُڑی حکم-series دا انگ۔"
+    }
+  ],
+  "translation": "تے ⟨את⟩ اہرون نوں تے ⟨את⟩ اوہدے پُتراں نوں مِلن دے خیمے دے بوہے تے نیڑے لیاویں، تے ⟨את⟩ اوہناں نوں پانی نال دھوویں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b72086f378f6bfea2d439e8ace40f32038603e4eb8e802f284d4e26b42a706af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/29\/1-4.1792097019540.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اہرون نوں"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اوہدے پُتراں نوں"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "اوہدے پُتر"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "نیڑے لیاویں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تے"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "بوہے"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمے"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "مِلن دے"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "تے دھوویں"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "اوہناں نوں"
+    },
+    {
+      "surface": "במים",
+      "gloss": "پانی نال"
+    }
+  ],
+  "timestamp": "2026-10-15T20:43:39.541948941Z",
+  "model": "glm-5.3"
+}

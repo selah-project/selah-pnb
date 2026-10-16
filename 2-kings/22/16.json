@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 22:16",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "רעה",
+      "rationale": "עברیت 'רָעָה' — 'برائی\/مصیبت'، صرف اخلاقی برائی نئیں؛ 'قلتی' نئیں کیوں جے باہروں آؤن والی اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "والا آں",
+      "rationale": "participial 'מֵבִיא' نوں پنجjabi وِچ جاری زمانہ دا فعل بنان لئی 'والا آں' چاہیدا"
+    },
+    {
+      "kind": "mystery",
+      "subject": "הנני מביא רעה",
+      "rationale": "'ویکھو، میں برائی لیاں والا آں' — بھیکھی\/خبر دا اعلان، پر پہلاں دسیا نئیں کہ کیہڑی برائی (17–18 وِچ کھلھدا اے)"
+    }
+  ],
+  "translation": "اِنج آکھدا اے یاہوہ: ویکھو، میں اِس تھاں تے تے اِسدے وسنیکاں اُتے برائی لیاں والا آں — ⟨את⟩ کتاب دے سب لفظ، جیہڑی یہوداہ دے بادشاہ نے پڑھی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bcf8ea03a4703de88b9f98c2e660a6bcbb694ce4e748ede8e85f7372ac4f5f4a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/22\/13-16.1792105658693.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "انج"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھدا اے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہוה"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ویکھو، میں"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "لیاں والا آں"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تے"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "اِس تھاں"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اِس"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "تے…اُتے"
+    },
+    {
+      "surface": "ישביו",
+      "gloss": "اِسدے وسنیکاں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کتاب دے سب لفظ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "کتاب دے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "پڑھی اے"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ دے"
+    }
+  ],
+  "timestamp": "2026-10-15T23:07:38.695147590Z",
+  "model": "glm-5.3"
+}

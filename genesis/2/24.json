@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 2:24",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اپنے\/اپنی",
+      "rationale": "عبرانی وِچ ضمیر جُڑی ہوئی اے (אביו\/אמו)؛ پنجابی وِچ وکھ 'اپنے' لوڑیا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "چمبڑ جاوے گا",
+      "rationale": "ודבק داٻنیادی تصوور 'چپکنا\/نال چمبڑنا' اے، وفا دا بندھن نئیں"
+    }
+  ],
+  "translation": "ایس لئی بندہ ⟨את⟩ ⟨اپنے⟩ پیو نوں تے ⟨ואת⟩ ⟨اپنی⟩ ماں نوں چھڈے گا، تے اپنی تریمتی نال چمبڑ جاوے گا، تے اوہ اِک ماس بن جان گے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f140cd0774f5bb110bd3acd7ed3aec53bebda3d6b35a55e10dd6ed8102089fff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/2\/21-24.1792094667600.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ایس لئی وِچ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ایس لئی"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "چھڈے گا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پیو نوں"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "پیو نوں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ماں نوں"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ماں نوں"
+    },
+    {
+      "surface": "ודבק",
+      "gloss": "تے چمبڑ جاوے گا"
+    },
+    {
+      "surface": "באשתו",
+      "gloss": "اپنی تریمتی نال"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "تے بن جان گے"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "اِک ماس"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "اِک"
+    }
+  ],
+  "timestamp": "2026-10-15T20:04:27.601420460Z",
+  "model": "glm-5.3"
+}

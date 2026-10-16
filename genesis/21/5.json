@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨سی⟩",
+      "rationale": "عبرانی وِچ کوئی فعل د‏‏ی شکل نئيں، پنجابی نو‏‏ں جُملے لئی چاہیدی اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "سَو ورھے",
+      "rationale": "اُمر دی گنتی — اِک صدی"
+    }
+  ],
+  "translation": "تے اَوراہام ⟨سی⟩ سَو ورھیاں دا، جدوں اُس نوں ⟨את⟩ یِتصخاق اوہدا پُتر جَمیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fcb4755e35b3a5f80e01c27ca0340d12c0ee9d92909efbdad38133cd7ba76b5c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/21\/5-8.1792095093537.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "تے اَوراہام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ورھیاں دا"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "جدوں جَمیا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اُس نوں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یِتصخاق"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "یِتصخاق"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اوہدا پُتر"
+    }
+  ],
+  "timestamp": "2026-10-15T20:11:33.538041524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 26:2",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לא תבא",
+      "rationale": "کجھ مترجم 'نئیں آؤندی' لیندے نیں (KJV، JPS)، کجھ 'کسے اُتے نئیں لَہندی\/نئیں ٹردی' (ASV 'alighteth not') — عبرانی سِدھی 'نئیں آؤندی' اے۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לנוד \/ לעוף",
+      "rationale": "چڑی دا ٹُرنا-بھجنا تے وشوالی دا اُڈنا — دونویں پرندے بچّ نکلن دے نقش نیں؛ لعنت وی بِنا موجب بچّ نکل جاندی اے۔"
+    }
+  ],
+  "translation": "جیویں چڑی لئی ٹُرنا، تے وشوالی لئی اُڈنا، اویں بِنا موجب دی لعنت آ نئیں ٹردی ⟨کسے اُتے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "25748eaa683f591b3e49c4a86db0095e5af6db1a0caab14ef15b47fb8e2160f1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/26\/1-4.1792115145329.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כצפור",
+      "gloss": "جیویں چڑی"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "لئی ٹُرنا"
+    },
+    {
+      "surface": "כדרור",
+      "gloss": "تے وشوالی"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "لئی اُڈنا"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اویں"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "دی لعنت"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "بِنا موجب"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "آ … ٹردی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:45:45.330681141Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 21:3",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויחרם \/ חרמה",
+      "rationale": "فعل حرم دا تھاں دے ناں نال موڑ — حرمت 'حرام کیتی ہوئی' توں بنیا"
+    },
+    {
+      "kind": "addition",
+      "subject": "ہتھیں",
+      "rationale": "ביד\/הֶמְסֵר گواچا، 'ہتھیں دِتا' جملہ پورا کرن لئی"
+    }
+  ],
+  "translation": "تے یاہوہ نے یِسرائیل دی آواز سُنی، تے کِنعانی نوں ہتھیں دِتا، تے اوہناں نوں تے اوہناں دیاں بیٹھکاں حرام کیتیاں، تے اوہ تھاں دا ناں حرمت رکھیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5a5565236b19cab88eba94ea7deea28af558303e9fb9ad29fdfd29f46756ddd5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/21\/1-4.1792098891168.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "سُنی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل دی"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ہتھیں دِتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کِنعانی نوں"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "کِنعانی"
+    },
+    {
+      "surface": "ויחרם",
+      "gloss": "حرام کیتیاں"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩",
+      "marks": "اوہناں نوں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اوہناں دیاں بیٹھکاں"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "اوہناں دیاں بیٹھکاں"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ناں رکھیا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناں"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "تھاں دا"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "حرمت"
+    }
+  ],
+  "timestamp": "2026-10-15T21:14:51.169822240Z",
+  "model": "glm-5.3"
+}

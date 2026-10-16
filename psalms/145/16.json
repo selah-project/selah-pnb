@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רצון",
+      "rationale": "‘ہر جیو دی خواہش’ (KJV) بمقابلہ ‘رضا\/مہربانی نال’ (JPS) — عبارت اوزاں نال کھلھدی اے، دوویں پڑھائیاں چلیاں نیں"
+    }
+  ],
+  "translation": "تُوں ⟨את⟩ اپنا ہتھ کھولھدا ایں، تے ہر جیو نوں رضا نال رجھا دیندا ایں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "182428ec6198e09165699b61781f8c5b05fe3a768ba0af602c8cdfb469c66174",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/145\/13-16.1792114307800.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "کھولھدا ایں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنا ہتھ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "اپنا ہتھ"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "تے رجھا دیندا ایں"
+    },
+    {
+      "surface": "لכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "חי",
+      "gloss": "جیو نوں"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "رضا نال"
+    }
+  ],
+  "timestamp": "2026-10-16T01:31:47.801573225Z",
+  "model": "glm-5.3"
+}

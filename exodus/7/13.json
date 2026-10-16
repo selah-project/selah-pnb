@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 7:13",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חזק לב",
+      "rationale": "عبرانی 'دل پھڑیا گیا' — پنجابی وِچ 'دل مضبُوط ہو گیا' اکو تصویر رکھی"
+    }
+  ],
+  "translation": "تے پَرعوہ دا دل مضبُوط ہو گیا، تے اوہ اوہناں دی گل نئیں سُنی، جیویں یاہوہ نے آکھیا سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a41985a78c59855819ad5368afb7a91ea5edbfcb519264cce958c7079d4336f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/7\/13-16.1792096263225.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "تے مضبُوط ہو گیا"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پَرعوہ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سُنی"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "اوہناں دی گل"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "آکھیا سی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-10-15T20:31:03.225835138Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 9:4",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوہ",
+      "rationale": "عبرانی جملہ فاعل توں بِنا شروع ہندا اے — پنجابی نوں ضمیر چاہیدی اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "וישלם",
+      "rationale": "שלם دا مطلب 'سلامت\/کامیاب رہیا' وی ہو سکدا اے — 'چین نال رہیا' توں علاوہ 'کامیاب ہویا' وی مشہور پڑھائی اے"
+    },
+    {
+      "kind": "you",
+      "subject": "مخاطب",
+      "rationale": "سوال سوالیاں سن کے مخاطب کردا اے — کیہڑا بندہ؟"
+    }
+  ],
+  "translation": "اوہ دل وِچ پکی تے زور وِچ بھرواں اے — کیہڑا اوہدے اگے سخت ہویا تے چین نال رہیا؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "933e089b68909e133c7cc479150acb612e93bd207f04ee6ec94751cdbd2ddabe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/9\/3-4.1792124282741.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "پکی"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "دل وِچ"
+    },
+    {
+      "surface": "ואמיץ",
+      "gloss": "تے بھرواں"
+    },
+    {
+      "surface": "כח",
+      "gloss": "زور وِچ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کیہڑا"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "سخت ہویا"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اوہدے اگے"
+    },
+    {
+      "surface": "וישלם",
+      "gloss": "چین نال رہیا"
+    }
+  ],
+  "timestamp": "2026-10-16T04:18:02.742340886Z",
+  "model": "glm-5.3"
+}

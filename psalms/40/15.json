@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 40:15",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جیون-بل اے، پنجابی 'جان' نیڑے دا تصور اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨کہ⟩",
+      "rationale": "לספותה اپنے آپ مقصد دسدا اے، پنجابی جملے لئی 'کہ' دا وادھا"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יבשו\/בשתם",
+      "rationale": "آیت 15 دا 'شرمیسن' تے آیت 16 دی 'شرم' اِکو جڑ ש-ב-ש توں پئی ہے"
+    }
+  ],
+  "translation": "شرمیسن تے بدنام ہون اکو ویلے، جیہڑے میری جان لبھدے نیں ⟨کہ⟩ مینوں مِٹا دیون؛ پچھے ہٹن تے خوار ہون، جیہڑے میری برائی چاہندے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "90e1d07c3789c542296e930d0b41d682eedc356d76093ade40831584ea87da5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/40\/13-16.1792112441660.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "شرمیسن"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "تے بدنام ہون"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "اکو ویلے"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "جیہڑے لبھدے نیں"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میری جان"
+    },
+    {
+      "surface": "לספותה",
+      "gloss": "مینوں مِٹا دیون"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "پچھے ہٹن"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "پچھے"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "تے خوار ہون"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "جیہڑے چاہندے نیں"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "میری برائی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:00:41.661206102Z",
+  "model": "glm-5.3"
+}

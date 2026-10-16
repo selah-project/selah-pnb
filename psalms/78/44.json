@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 78:44",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "یְאֹרִים",
+      "rationale": "'یِاور' خاص کر نیل\/نہر دے چینل لئی اے — 'نہراں' رکھیا، 'دریا' نئیں۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נֹזְלֵיהֶם",
+      "rationale": "جڑ נ-ז-ל 'ٹپکنا\/وگنا' — 'وہاؤن' نال اوہو وگنے والی شکل رکھی اے۔"
+    }
+  ],
+  "translation": "تے اوہنے اوہناں دیاں نہراں نوں لہو وِچ پلٹ دِتا، تے اوہناں دے وہاؤن اوہ بالکل پی نہ سکے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "45ad4b0f1067a6e84594ff8f6dfda82491f7d84cb55c36c28b83e59b6dc67207",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/78\/41-44.1792113106212.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "تے پلٹ دِتا"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "لہو وِچ"
+    },
+    {
+      "surface": "יאריהם",
+      "gloss": "اوہناں دیاں نہراں"
+    },
+    {
+      "surface": "ונזליהם",
+      "gloss": "تے اوہناں دے وہاؤن"
+    },
+    {
+      "surface": "בל",
+      "gloss": "بالکل نئیں"
+    },
+    {
+      "surface": "ישתיון",
+      "gloss": "پی نہ سکے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:11:46.213560622Z",
+  "model": "glm-5.3"
+}

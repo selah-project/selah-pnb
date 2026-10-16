@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 10:18",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "تاں جو",
+      "rationale": "عبرانی وِچ مقصد دی پچھاݨ لئی وکھرا لفظ نئیں، پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "לערץ",
+      "rationale": "'ڈرائے\/دہشت پھیلائے' بمقابلہ KJV 'مظلوم بنائے' — جڑ دا مول مطلب دہشت اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אנוש",
+      "rationale": "'فانی بندہ' دا سادہ روپ 'بندہ' — عبرانی دا مُردہ ہوݨ والا پہلو دسدا اے"
+    }
+  ],
+  "translation": "یتیم تے مظلوم دا انصاف کرن لئی، ⟨تاں جو⟩ دھرتی دا بندہ ہور وادھا ناں کرے ڈرائے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e2b23a3a01bf394a79c20d1a9c7190b1343e3bee361fa6d5f3234839841df454",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/10\/17-18.1792111906881.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשפט",
+      "gloss": "انصاف کرن لئی"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "یتیم"
+    },
+    {
+      "surface": "ודך",
+      "gloss": "تے مظلوم"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ناں"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "وادھا کرے"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ہور"
+    },
+    {
+      "surface": "לערץ",
+      "gloss": "ڈرائے"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨دا⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "دھرتی"
+    }
+  ],
+  "timestamp": "2026-10-16T00:51:46.882372642Z",
+  "model": "glm-5.3"
+}

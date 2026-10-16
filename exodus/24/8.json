@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 24:8",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "کیتا",
+      "rationale": "כרת لفظی طور تے 'کپنا\/قطع کرنا' اے — عبرانی وِچ عہد 'کپیا' جاندا اے؛ پنجابی وِچ 'کیتا' آیا"
+    },
+    {
+      "kind": "addition",
+      "subject": "ایہہ … اے",
+      "rationale": "עברית جملے وِچ کوپلا نئیں — 'ویکھو، عہد دا لہو' — پنجابی نے 'ایہہ … اے' پایا"
+    }
+  ],
+  "translation": "تے موشے نے ⟨את⟩ لہو لے کے قوم اُتے چھڑکیا، تے آکھیا: ویکھو، ایہہ اوہ لہو اے اوہ عہد دا، جیہڑا یاہوہ نے ایہناں ساریاں گلاں اُتے تہاڈے نال کیتا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "22a3052ee3f3567c28faa99eb03be029a34293926c7209b9edd06eb62f17fc57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/24\/5-8.1792096794056.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "لے لیا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لہو"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "لہو"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "چھڑکیا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ویکھو"
+    },
+    {
+      "surface": "דם",
+      "gloss": "لہو"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "عہد"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "کیتا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "تہاڈے نال"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساریاں"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "گلاں"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ایہناں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:39:54.058001123Z",
+  "model": "glm-5.3"
+}

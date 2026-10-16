@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 39:10",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ויהי כדברה",
+      "rationale": "ہور ترجمے 'تے ہویا جدوں اوہ آکھدی' کولوں چھوٹا کردے نیں؛ پنجابی وِچ مکمل جملہ چاہیدا"
+    }
+  ],
+  "translation": "تے ہویا، جدوں اوہ یوسف ⟨את⟩ نوں دن دِن بتّی آکھدی، تے اوہ اوہدے گل نئیں سُندا — اوہدے نال لیٹن لئی، اوہدے نال ہون لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c04e69d437915b05e37efcdb04985358cb19188ba060e1f823988496297f7117",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/39\/9-12.1792095732302.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے ہویا"
+    },
+    {
+      "surface": "כדברה",
+      "gloss": "جدوں اوہ آکھدی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "יום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "יום",
+      "gloss": "دِن بتّی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سُندا"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "اوہدے گل"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "لیٹن لئی"
+    },
+    {
+      "surface": "אצלה",
+      "gloss": "اوہدے نال"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ہون لئی"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "اوہدے نال"
+    }
+  ],
+  "timestamp": "2026-10-15T20:22:12.303878162Z",
+  "model": "glm-5.3"
+}

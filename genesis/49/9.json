@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 49:9",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوہنوں",
+      "rationale": "عبرانی وِچ صیغہ دے اندر موجود ضمیر اے، پنجابی نوں وکھو وکھ لفظ منگدا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גור אריה \/ כאריה וכלביא",
+      "rationale": "شیر تے شیرنی دا جوڑ تے چڑھݨ-جھکݨ-سُترݨ دی لڑی — عبرانی دا تکرار اے"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yehudah",
+      "rationale": "یعقوو اپنے پتر یہوداہ نوں سدّاں ماریا اے"
+    }
+  ],
+  "translation": "شیر دا پٹھا اے یہوداہ؛ شکار توں، اے میرے پتر، تُں چڑھیا اے؛ اوہ جھکیا، اوہ سُتر گیا، جویں شیر تے جویں شیرنی — کون ⟨اوہنوں⟩ جگائے؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0acda0678629bb60e16fc3a1cb81802d47e019186d924266b70249a4a6218f90",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/49\/9-12.1792096087376.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גור",
+      "gloss": "پٹھا"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "شیر"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    },
+    {
+      "surface": "מטרף",
+      "gloss": "شکار توں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "میرے پتر"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "تُں چڑھیا اے"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "جھکیا"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "سُتر گیا"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "جویں شیر"
+    },
+    {
+      "surface": "וכלביא",
+      "gloss": "تے جویں شیرنی"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "יקימנו",
+      "gloss": "جگائے؟"
+    }
+  ],
+  "timestamp": "2026-10-15T20:28:07.377073861Z",
+  "model": "glm-5.3"
+}

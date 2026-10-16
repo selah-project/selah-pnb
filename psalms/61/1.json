@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 61:1",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 61,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "زبان وِچ",
+      "rationale": "عبرانی وِچ صرف \"لداوِد\" اے؛ پنجابی نوں شاید جوڑن والا لفظ چاہیدا اے"
+    }
+  ],
+  "translation": "مُنیج لئی، تاراں دے سازاں اُتے — داوِد دی ⟨زبان وِچ⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2a36bc2a0bee8f8154aa229e500fe67ac96f77f6f4bb574fa6d5ac0ccb4ea75f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/61\/1-4.1792112793949.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "مُنیج لئی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "נגינת",
+      "gloss": "تاراں دے سازاں"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد دی ⟨زبان وِچ⟩"
+    }
+  ],
+  "timestamp": "2026-10-16T01:06:33.950415129Z",
+  "model": "glm-5.3"
+}

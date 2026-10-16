@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 28:11",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اِک",
+      "rationale": "عبرانی 'اُس تھاں' کہندا اے؛ 'اِک' جو KJV دے 'one of the stones' وانگ اے، متن وِچ کوئی عدد نئیں۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויפע",
+      "rationale": "'ٹکرا کے پہنچنا\/جا اُپڑݨا' — KJV 'lighted upon' وانگ، ٹھیک ٹکراؤ نئیں 'پہنچنا'۔"
+    },
+    {
+      "kind": "alternative",
+      "subject": "لیٹا",
+      "rationale": "וישכב صرف 'لیٹا' اے؛ 'سُݨ لَے' (کجھ ترجمے 'to sleep' پاؤندے نیں) متن وِچ نئیں۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מקום",
+      "rationale": "لفظ 'تھاں' اِس آیت وِچ تِن واری آؤندا اے — عبرانی دی دونوتی پنجابی وِچ رکھی گئی۔"
+    }
+  ],
+  "translation": "تے اوہ اِک تھاں تے جا اُپڑیا تے اوتھے رات کٹی، کیوں جے سورج ڈُب چکیا سی؛ تے اُس تھاں دیاں پتھراں وِچوں ⟨את⟩ اِک لَے کے اپنیے سرہانے رکھیا، تے اُسے تھاں تے لیٹا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "848c938aba122b76380ee6baa338a430c19d3aa1c1bf4c96eac9cf48eb99123c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/28\/10-11.1792123210924.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפגע",
+      "gloss": "جا اُپڑیا"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "اِک تھاں تے"
+    },
+    {
+      "surface": "וילן",
+      "gloss": "رات کٹی"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اوتھے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جے"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ڈُب چکیا سی"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سورج"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "لَے کے"
+    },
+    {
+      "surface": "מאבני",
+      "gloss": "پتھراں وِچوں"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "اُس تھاں دیاں"
+    },
+    {
+      "surface": "ושים וישם",
+      "gloss": "رکھیا"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "اپنیے سرہانے"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "لیٹا"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "اُسے تھاں تے"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اُسے"
+    }
+  ],
+  "timestamp": "2026-10-16T04:00:10.925032766Z",
+  "model": "glm-5.3"
+}

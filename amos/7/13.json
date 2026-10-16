@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "amos 7:13",
+  "book": "amos",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "امتصیا دا عموس نوں",
+      "rationale": "امتصیا بیت ایل دے کاہن عموس نوں حکم دیندا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "ہے",
+      "rationale": "عبرانی وِچ کوئی کپولا نئیں، پنجابی نوں لوڑ اے"
+    }
+  ],
+  "translation": "تے بیت ایل وِچ ہور نبی مت بننا، کیونجہ اوہ بادشاہ دا مسکن اے تے اوہ مملکت دا گھر اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "96bcfe62e093639b7d7b2273dae79d8edf7e1e656e1c311c3692d823acd2c7a7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/amos\/7\/13-16.1792110879289.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "تے بیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "ہور کرنا"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ہور"
+    },
+    {
+      "surface": "להנבא",
+      "gloss": "نبوت کرنا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "مسکن"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ دا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ اے"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "تے گھر"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "مملکت دا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ اے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:34:39.289596059Z",
+  "model": "glm-5.3"
+}

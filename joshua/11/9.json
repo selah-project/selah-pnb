@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 11:9",
+  "book": "joshua",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "عبرانی وِچ ماضی کامل دا معاون فعل نئیں، پنجابی منگدا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "עקר",
+      "rationale": "گھوڑیاں دیاں ناڑاں وڈھنا — 'hamstring'؛ کجھ مترجم 'جڑ توں پٹنا' لئی دسدے نیں"
+    }
+  ],
+  "translation": "تے یَہوشُوَا نے اوہناں نال اوہو کیتا جیہڑا یاہوہ نے اوہنوں آکھیا سی: ⟨את⟩ اوہناں دے گھوڑے اوہنے نپڑ ڈھائے تے ⟨את⟩ اوہناں دیاں رتھاں اوہنے اگّ وِچ ساڑ دتیاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2e957455d72014792a99304929dfde5480d3079de9f83a9c40e0e3de0973fb15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joshua\/11\/9-12.1792100979529.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "کیتا"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اوہناں نال"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یَہوشُوَا"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا سی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہنوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہناں دے گھوڑے"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "اوہناں دے گھوڑے"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "نپڑ ڈھائے"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اوہناں دیاں رتھاں"
+    },
+    {
+      "surface": "מרכבתיהם",
+      "gloss": "اوہناں دیاں رتھاں"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "ساڑ دتیاں"
+    },
+    {
+      "surface": "באש",
+      "gloss": "اگّ وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T21:49:39.531034062Z",
+  "model": "glm-5.3"
+}

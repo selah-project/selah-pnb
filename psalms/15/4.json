@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 15:4",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "نقصان چُکن لئی",
+      "rationale": "להרע — 'اپنے نقصان لئی قسم کھانا' (کیجوی، جےپی) بمقابلہ 'برائی کرن لئی قسم نہ کھانا' — عبرانی دوویں پاسے جھک سکدا اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "جوہڑا",
+      "rationale": "عبرانی وِچ اسمِ فاعل اگلے آیت دے جاری فعل نال جُڑیا اے؛ پنجابی لئی 'جوہڑا' دا وادھا کیتا گیا۔"
+    }
+  ],
+  "translation": "جیہڑا اوہدیاں اکھاں وِچ ذلیل نوں مکروہ جاندا اے، پر یاہوہ دے ڈرن والیاں نوں ⟨את⟩ عزت دیندا اے؛ جوہڑا نقصان چُکن دی قسم کھا کے نئیں بدلدا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7bd07a927db12a3c9f3ba9985d72ca75203c33e4e56e90f4e39c2c8eb5ed67a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/15\/1-4.1792111999254.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "ذلیل"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "اوہدیاں اکھاں وِچ"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "مکروہ جاندا اے"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ دے ڈرن والیاں نوں"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "ڈرن والیاں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "عزت دیندا اے"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "قسم کھا کے"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "نقصان چُکن لئی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "بدلدا"
+    }
+  ],
+  "timestamp": "2026-10-16T00:53:19.255127204Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 103:4",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "خیسِد",
+      "rationale": "חסד لئی ضابطے دا ٹئیر-2 لفظ — ⟨وفا داری⟩ دے مطلب نال وضاحت۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "تاج پُوادیاں",
+      "rationale": "המעטרכی دا مطلب تاج پہناؤنا اے — JPS 'encompasseth' (گھیرنا) پڑھدا اے، جڑ عطر\/تاج توں۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רחמים\/רחם",
+      "rationale": "رحمتاں دا جمع صیغہ — گرھہنالے جُڑ نال، بھاونک شکھ گوا ہو جاندی اے۔"
+    }
+  ],
+  "translation": "⟨اوہ⟩ جیہڑا تیری جیون نوں سُتاہی توں آزاد کردا اے، جیہڑا تینوں خیسِد ⟨وفا داری⟩ تے رحمتاں نال تاج پُوادیاں اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5d7842f1cc76a792b5698e3ac41f741f2510068c2c0a3b2077e97ee9b4e2d2b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/103\/1-4.1792113502779.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הגואل",
+      "gloss": "ازاد کردا اے"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "سُتاہی توں"
+    },
+    {
+      "surface": "חייכי",
+      "gloss": "تیری جیون نوں"
+    },
+    {
+      "surface": "המעטרכי",
+      "gloss": "تاج پُوادیاں اے"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "خیسِد ⟨وفا داری⟩"
+    },
+    {
+      "surface": "ורחמים",
+      "gloss": "تے رحمتاں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:18:22.780743488Z",
+  "model": "glm-5.3"
+}

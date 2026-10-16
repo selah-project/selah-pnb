@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 7:2",
+  "book": "esther",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوہ",
+      "rationale": "ותעש تے ותנתר پاسو -ن constructed نئیں؛ پنجابی جملہ ضمیر منگدا اے"
+    },
+    {
+      "kind": "you",
+      "subject": "بادشاہ ولوں ایستیر ملکہ نوں",
+      "rationale": "بادشاہ سدھی گل ایستیر نال کردا اے، دو واری اوہدا ناں لی کے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "بادشاہتی دا ادھ",
+      "rationale": "بادشاہ اپنی بادشاہتی دا ادھ تک ناپ رکھ کے عرض کردا اے"
+    }
+  ],
+  "translation": "تے بادشاہ نے شراب دے پین وِچ، دوجے دن، ایستیر ملکہ نوں فیر آکھیا: تیری منگ کی اے، ایستیر ملکہ؟ اوہ تینوں دتی جاوے، تے تیری عرضی کی اے؟ بادشاہتی دے ادھ تک — اوہ پوری کیتی جاوے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9d62e02e402c6aecc4a05352fde1994e2656409ce4d0951d1ad1b8b26bd12b43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/esther\/7\/1-4.1792118006363.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ نے"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "ایستیر نوں"
+    },
+    {
+      "surface": "גם",
+      "gloss": "فیر"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دوجے"
+    },
+    {
+      "surface": "במשתה",
+      "gloss": "پین وِچ"
+    },
+    {
+      "surface": "היין",
+      "gloss": "شراب"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کی"
+    },
+    {
+      "surface": "שאלתך",
+      "gloss": "تیری منگ"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ایستیر"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "ملکہ"
+    },
+    {
+      "surface": "ותנתן",
+      "gloss": "دتی جاوے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تینوں"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "تے کی"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "تیری عرضی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "ادھ"
+    },
+    {
+      "surface": "המלכות",
+      "gloss": "بادشاہتی"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "پوری کیتی جاوے"
+    }
+  ],
+  "timestamp": "2026-10-16T02:33:26.364140162Z",
+  "model": "glm-5.3"
+}

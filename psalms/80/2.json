@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 80:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "پُکار لئی ہوندی اے، عبرانی وِچ نئیں۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "יושב הכרובים",
+      "rationale": "“کروباں اُتے بیٹھدا” — بیچوں، اُتے، جاں وِچکار؛ عبرانی صرف “بیٹھدا” آکھدا اے۔"
+    },
+    {
+      "kind": "invitation",
+      "subject": "کَن دھر … چمک کے آ",
+      "rationale": "ربّ نوں سدہ — دعا دی شروعات۔"
+    },
+    {
+      "kind": "you",
+      "subject": "یاہوہ نوں",
+      "rationale": "مخاطب چرواہے-ایلوہیم اے، یِسرائیل دی اَواز۔"
+    }
+  ],
+  "translation": "اے یِسرائیل دے چرواہے، کَن دھر، جیہڑا یوسف نوں اِکَّاں وانگوں چاردا اے، جیہڑا کروباں اُتے بیٹھدا اے، چمک کے آ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8e910a471fd8d26e668a5dc44d3ba682eddc44a533ef86a6ca147406d912f26d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/80\/1-4.1792113176186.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "چرواہے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "کَن دھر"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "چاردا اے"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "اِکَّاں وانگوں"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "بیٹھدا اے"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "کروباں اُتے"
+    },
+    {
+      "surface": "הופיעה",
+      "gloss": "چمک کے آ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:12:56.187644340Z",
+  "model": "glm-5.3"
+}

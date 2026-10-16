@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 4:16",
+  "book": "lamentations",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פְּנֵי יְהוָה חִלְּקָם",
+      "rationale": "'یاہوہ دے چہرے نے اوہناں نوں ونڈ دتا' — کجھ مترجم 'غصے' یا 'حاضری' پاؤندے نیں، متن صرف 'چہرہ' اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "چہرہ نئیں چُکیے",
+      "rationale": "לֹא־נָשָׂאוּ پَنِים اِک اِدiom اے — چہرے نوں نہ چُکنا یعنی عزت نہ دینا"
+    }
+  ],
+  "translation": "یاہوہ دے چہرے نے اوہناں نوں کھِنڈا دتا، اوہ اوہناں نوں ہور نئیں ویکھے گا؛ کاہناں دے چہرے نئیں چُکیے، بوڈھیاں اُتے رحم نئیں کیتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7815c1e5e26d9059fcdacec0d4ec5b5fbd7234af19a13fe0f1f4db6e74b00ca8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/lamentations\/4\/13-16.1792117166213.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פני",
+      "gloss": "دے چہرے نے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "اوہناں نوں کھِنڈا دتا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "ہور"
+    },
+    {
+      "surface": "להביטם",
+      "gloss": "اوہناں نوں ویکھے گا"
+    },
+    {
+      "surface": "פני",
+      "gloss": "دے چہرے"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "کاہناں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "چُکیے"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "بوڈھیاں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "رحم کیتا"
+    }
+  ],
+  "timestamp": "2026-10-16T02:19:26.214767509Z",
+  "model": "glm-5.3"
+}

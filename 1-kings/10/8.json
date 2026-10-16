@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 10:8",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אשרי … אשרי",
+      "rationale": "دوہرا 'خوش نصیب' — عبرانی دی دوہرائی، پنجابی وِچ رکھی گئی اے۔"
+    },
+    {
+      "kind": "you",
+      "subject": "سلیمان نوں",
+      "rationale": "ملکہ سبا بادشاہ سلیمان نوں سدھا مخاطب اے۔"
+    }
+  ],
+  "translation": "خوش نصیب نیں تیرے بندے، خوش نصیب نیں ایہہ تیرے غلام، جیہڑے ہمیشہ تیرے اگے کھلوندے نیں، جیہڑے ⟨את⟩ تیری سیانپ سندے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "16bc6228d1d334220e56b8a85afcb5b76a73bc9f5c6d8ce01aeac43850a2ac44",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/10\/5-8.1792104249263.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "خوش نصیب نیں"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "تیرے بندے"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "خوش نصیب نیں"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "تیرے غلام"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "کھلوندے نیں جیہڑے"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "تیرے اگے"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "سندے نیں جیہڑے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تیری سیانپ"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "تیری سیانپ"
+    }
+  ],
+  "timestamp": "2026-10-15T22:44:09.265047112Z",
+  "model": "glm-5.3"
+}

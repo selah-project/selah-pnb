@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 90:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תשב \/ שובו",
+      "rationale": "اِکو جڑ שׁ-ו-ב دو واری — 'مُڑوا دے' تے 'مُڑ آؤ' — پنجابی وِچ جڑ دا کھیڈ تھوڑا رکھیا گیا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "דכא",
+      "rationale": "'کُٹیا ہویا\/سُوٹ' بمقابلہ 'پیس ہوئی دھوڑ' — کجھ مترجم 'رنجیتہ\/پشیمانی' دا روحانی مطلب لیندے نیں"
+    },
+    {
+      "kind": "invitation",
+      "subject": "مُڑ آؤ",
+      "rationale": "خدا دا حکم سِدھا بنی آدم ول سددا اے"
+    }
+  ],
+  "translation": "تُو فانی بندے نوں پیس ہوئی ⟨دھوڑ⟩ تک مُڑوا دیندا ایں، تے آکھدا ایں: مُڑ آؤ، آدم دے پُترو۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "793b4dff5a195143da8df587045aa4146363998a898bd36a7177264be70aa5d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/90\/1-4.1792113394299.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "مُڑوا دیندا ایں"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "فانی بندہ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "پیس ہوئی"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "تے آکھدا ایں"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "مُڑ آؤ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    }
+  ],
+  "timestamp": "2026-10-16T01:16:34.300123282Z",
+  "model": "glm-5.3"
+}

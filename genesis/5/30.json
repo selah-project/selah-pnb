@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 5:30",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "595 سال",
+      "rationale": "نسل نامے دی گنتی — نوح دے جنم توں بعد لیمک دے سال۔"
+    }
+  ],
+  "translation": "تے لیمک ⟨את⟩ نوح نوں جنم دین توں بعد پنج تے نوّے سال تے پنج سو سال جِیا، تے اوہنے پُتر تے دھیاں جنم دِتیاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1223a48c70052746e9c64dfe334328a95b61ba388225394dd1badc7042731311",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/5\/29-32.1792094748395.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "تے…جِیا"
+    },
+    {
+      "surface": "لמך",
+      "gloss": "لیمک"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "توں بعد"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "جنم دین"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نوح"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح نوں"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "تے نوّے"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "تے پنج"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "سو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "تے…جنم دِتیاں"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "تے دھیاں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:05:48.396054182Z",
+  "model": "glm-5.3"
+}

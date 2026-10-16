@@ -1,0 +1,184 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 22:13",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "דרשו את יהוה",
+      "rationale": "לִדְרֹשׁ אֶת יהוה ایجھا محاورہ اے — 'یاہوہ نوں پُچھنا\/مشورے لئی اوہدے کول جانا'، بُتّا پرچی نئیں"
+    },
+    {
+      "kind": "crux",
+      "subject": "דברי הספר",
+      "rationale": "عبرانی 'מֻצָא' مطلب اے 'جو لبھی' — وکھرے کلمے 'ہوئی'، 'بھیجی گئی' دے بدلے؛ 'ספר' کتابِ شریعت"
+    },
+    {
+      "kind": "invitation",
+      "subject": "לכו דרשו",
+      "rationale": "بادشاہ دا حکم — سدھا مخاطب، imperative، پنج آدمیاں نوں"
+    }
+  ],
+  "translation": "جاؤ، میرے لئی، اِس قوم لئی تے سارے یہوداہ لئی ⟨את⟩ یاہوہ نوں ਪੁੱਛو — ایس کتاب دے motivating لفظاں بارے جیہڑی لبھی اے، کیوں جے یاہوہ دی غصے دی اگّ وڈی اے، جیہڑی ساڈے اُتے بھڑک رہی اے، کیوں جے ساڈے پیوآں نے ایس کتاب دے motivating لفظاں نوں نئیں سُنیا، کرن لئی جو کجھ لکھیا اے ساڈے بارے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bcf8ea03a4703de88b9f98c2e660a6bcbb694ce4e748ede8e85f7372ac4f5f4a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/22\/13-16.1792105658693.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "جاؤ"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "پُچھو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "میرے لئی"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "تے…لئی"
+    },
+    {
+      "surface": "העם",
+      "gloss": "اِس قوم"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "تے…لئی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "بارے"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "لفظاں"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "کتاب دے"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "لبھی ہوئی"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایس"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جے"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "وڈی اے"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "غصے دی اگّ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "היא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "נצתה",
+      "gloss": "بھڑک رہی اے"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ساڈے اُتے"
+    },
+    {
+      "surface": "על",
+      "gloss": "کیوں جے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "سُنیا"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "ساڈے پیوآں نے"
+    },
+    {
+      "surface": "על",
+      "gloss": "توں"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "لفظاں"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "کتاب دے"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایس"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "کرن لئی"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "جداں سب"
+    },
+    {
+      "surface": "הכתוב",
+      "gloss": "لکھیا اے"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ساڈے بارے"
+    }
+  ],
+  "timestamp": "2026-10-15T23:07:38.694490539Z",
+  "model": "glm-5.3"
+}

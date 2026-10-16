@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 9:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "یاہوہ نوں",
+      "rationale": "عُلیون مخاطب — مزمور سِدھا یاہوہ نوں مخاطب اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אזמרה",
+      "rationale": "جڑ ز-م-ر — ساز وَجن دا کم، 'دھن گاؤنا' اوسے تصویر نوں رکھدا اے"
+    }
+  ],
+  "translation": "میں خُشھ ہواںگا تے تیرے وِچ اُچھلاںگا، میں تیرے ناں دی دھن گاواںگا، اے عُلیون!",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6d9df4af184fd4e81cc4b0d2ec260639cbfbd651ea58300a17f895f57dda1832",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/9\/1-4.1792111998315.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשמחה",
+      "gloss": "میں خُشھ ہواںگا"
+    },
+    {
+      "surface": "ואעלצה",
+      "gloss": "تے اُچھلاںگا"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تیرے وِچ"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "میں دھن گاواںگا"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "تیرے ناں دی"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "اے عُلیون"
+    }
+  ],
+  "timestamp": "2026-10-16T00:53:18.316116104Z",
+  "model": "glm-5.3"
+}

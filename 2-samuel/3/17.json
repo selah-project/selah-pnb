@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 3:17",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نوں",
+      "rationale": "پنجابی مفعول لئی نوں منگدا اے، عبرانی وِچ صرف ⟨את⟩ اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גם…גם",
+      "rationale": "دوویں واری 'وی' — 'وی کل، وی پرسوں' دی جوڑی عبرانی وِچ وی اے"
+    }
+  ],
+  "translation": "تے اَبنیر دا کلام یِسرائیل دے بزرگاں نال سی، آکھدا: کل گزریا وی تے پرسوں وی تُساں لبھدے سن ⟨את⟩ داوِد نوں بادشاہ لئی تُہاڈے اُتے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "424e995d0d37f3e3e017e33cda1da598fcdedb20354438fe2546854126fd3d48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/3\/17-20.1792103183026.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "تے کلام"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "اَبنیر دا"
+    },
+    {
+      "surface": "היה",
+      "gloss": "سی"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "بزرگاں دے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھدا"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "תמול",
+      "gloss": "کل گزریا"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "پرسوں"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "تُساں سن"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "لبھدے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داوِد"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "بادشاہ لئی"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "تُہاڈے اُتے"
+    }
+  ],
+  "timestamp": "2026-10-15T22:26:23.026886958Z",
+  "model": "glm-5.3"
+}

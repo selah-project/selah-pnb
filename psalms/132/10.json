@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "مُکھ موڑنا",
+      "rationale": "על תשיב פני — 'مُکھ ناں موڑ' عبرانی محاورہ اے: مسترد کرنا، نظر بھر نال نہ ویکھنا"
+    }
+  ],
+  "translation": "داوِد، تیرے غلام، دی خاطر اپنے مسح ہوے دا مُکھ ناں موڑ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "21d3a7d3ece29d0a1dc515129376c18e919ada20b7608f0a39f18748c174d874",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/132\/9-12.1792114010213.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "دی خاطر"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "تیرے غلام"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ناں"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "موڑ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مُکھ"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "اپنے مسح ہوے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:26:50.214426857Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 1:23",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חייהם\/מותם",
+      "rationale": "جِیون تے موت دا جوڑ — جِنّاں جیوندے، مرنے وِچ — سطر دی چوکھٹ۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נשרים",
+      "rationale": "'شاہین' (وڈا شکاری پنچھی) — 'عقاب' نسلی سہارا اے۔"
+    }
+  ],
+  "translation": "شاؤل تے یہوناتن، پیارے تے مِٹھے جِنّاں جیوندے، تے مرنے وِچ وکھ نہ ہوئے؛ شاہیناں توں ہلکے سن، شیراں توں پربلھ ہوئے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0f7b3690449e7acd07e1e0e594299a6dfa5c15c829cbb3896dda1e4a514c49d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/1\/21-24.1792103078500.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "تے یہوناتن"
+    },
+    {
+      "surface": "הנאהבים",
+      "gloss": "پیارے"
+    },
+    {
+      "surface": "והנעימים",
+      "gloss": "تے مِٹھے"
+    },
+    {
+      "surface": "בחייהם",
+      "gloss": "جِنّاں جیوندے"
+    },
+    {
+      "surface": "ובמותם",
+      "gloss": "تے مرنے وِچ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נפרדו",
+      "gloss": "وکھ ہوئے"
+    },
+    {
+      "surface": "מנשרים",
+      "gloss": "شاہیناں توں"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "ہلکے سن"
+    },
+    {
+      "surface": "מאריות",
+      "gloss": "شیراں توں"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "پربلھ ہوئے"
+    }
+  ],
+  "timestamp": "2026-10-15T22:24:38.501247714Z",
+  "model": "glm-5.3"
+}

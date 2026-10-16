@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 21:25",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "התמיתנו",
+      "rationale": "causative of מות — 'causes him to die' rendered 'kills him'; Hebrew is more graphic."
+    }
+  ],
+  "translation": "کاہلے دا سِکّ اوہنوں مار دیندا اے، کیوں جے کم کرن لئی اوہدے ہتھ منع کر دیندے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "84f4548e8351d76146aa72aea0e2f8907670d4eb3da61c6c20aaaa98b26b10af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/21\/25-28.1792114939960.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "سِکّ"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "کاہلے دا"
+    },
+    {
+      "surface": "תמיתנו",
+      "gloss": "اوہنوں مار دیندا اے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جے"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "منع کر دیندے نیں"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "اوہدے ہتھ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "کم کرن لئی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:42:19.961253267Z",
+  "model": "glm-5.3"
+}

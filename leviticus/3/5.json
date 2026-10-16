@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 3:5",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "سوآ",
+      "rationale": "עלہ معنی 'چڑھان والی قربانی' اے، 'سوآ' اوہدھی گئی شکل اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ניחח\/ניחוח",
+      "rationale": "جڑ ن-ח-ח 'آرام' نال، 'آرام دین والی خوشبو' دوہری آواز رکھدی اے"
+    }
+  ],
+  "translation": "تے اہرون دے پُتراں ⟨את⟩ اوہنوں قربان گاہ اُتے سوآں گے، سوآ دے اُتے جو لکڑیاں اُتے اے، جو اگّ اُتے اے — اگّ دی قربانی، خوشبو، آرام دین والی خوشبو یاہوہ لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "778b7f6bd094a60ecd3cb2b8c81155e72e136b52acb22e75e91a05af3ebba350",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/3\/5-8.1792097384363.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "تے سوآں گے"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "اوہنوں (چربی دے انگ)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "قربان گاہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "سوآ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "لکڑیاں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "האש",
+      "gloss": "اگّ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "اگّ دی قربانی"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "خوشبو"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "آرام دین والی"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ لئی"
+    }
+  ],
+  "timestamp": "2026-10-15T20:49:44.363946313Z",
+  "model": "glm-5.3"
+}

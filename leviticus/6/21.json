@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 6:21",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "پتل",
+      "rationale": "נחשת تانبا\/پیتل اے — تانبے دی چیز؛ 'پتل' عام پنجابی لفظ دھات لئی"
+    },
+    {
+      "kind": "elision",
+      "subject": "בו",
+      "rationale": "عبرانی 'اوہدے وچ' دو واری آیا — תבשל בו — پنجابی وچ فعل نال رل گیا"
+    }
+  ],
+  "translation": "تے مٹی دا اوہ برتان جیہدے وچ ⟨את⟩ ایہہ ابلیا جاوے، ٹُٹ جاوے گا؛ تے جے اوہ پتل دے برتان وچ ابلیا جاوے، تاں اوہنوں رگڑیا جاوے تے پانی وِچ دھوویا جاوے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "791b5af4d2f12504b2eb949be4f1d56b7b9ba2f27ddfe0bc5ce4fde48dd86f54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/6\/21-23.1792097408434.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכלי",
+      "gloss": "تے برتان"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "مٹی دا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہدے وچ"
+    },
+    {
+      "surface": "תבשל",
+      "gloss": "ابلیا جاوے"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوہدے وچ"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "ٹُٹ جاوے گا"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "برتان وچ"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "پتل دے"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "ابلیا جاوے"
+    },
+    {
+      "surface": "ומרק",
+      "gloss": "تے رگڑیا جاوے"
+    },
+    {
+      "surface": "ושטף",
+      "gloss": "تے دھوویا جاوے"
+    },
+    {
+      "surface": "במים",
+      "gloss": "پانی وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T20:50:08.435004944Z",
+  "model": "glm-5.3"
+}

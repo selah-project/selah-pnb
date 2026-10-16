@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zephaniah 2:10",
+  "book": "zephaniah",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ہووےگا",
+      "rationale": "عبرانی وِچ کوئی فعل نئیں؛ 'ایہہ… اُناں لئی' بھاوَ 'ایہہ اُناں دا حِصہ اے' — کریا پنجابی منگدی اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "گھمنڈ",
+      "rationale": "גָּאוֹן دا مول مطلب اُچائی\/شوخی اے؛ 'گھمنڈ' سیاق دے مطابق چُنیا"
+    }
+  ],
+  "translation": "ایہہ اُناں لئی ⟨ہووےگا⟩ اُناں دے گھمنڈ دے بدلے، کیونکہ اُناں نے بدنام کیتا تے وڈیائی کیتی یاہوہ تصواوت دے قوم اُتے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "429943c317b5742d996b9e8182c43b42fe5e1018fc49f906c1099a89f253a330",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/zephaniah\/2\/10-11.1792124098667.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اُناں لئی"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "بدلے"
+    },
+    {
+      "surface": "גאונם",
+      "gloss": "اُناں دے گھمنڈ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "بدنام کیتا"
+    },
+    {
+      "surface": "ויגדלו",
+      "gloss": "تے وڈیائی کیتی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "تصواوت"
+    }
+  ],
+  "timestamp": "2026-10-16T04:14:58.668321451Z",
+  "model": "glm-5.3"
+}

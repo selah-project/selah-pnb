@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 11:8",
+  "book": "ecclesiastes",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ہیبل",
+      "rationale": "הבל بُکوچ\/واپسی دا ساہ — ایس لئی حرف-نقل 'ہیبل' رکھیا گیا تے ⟨⟩ وِچ وضاحت دتی گئی۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "اوہنوں",
+      "rationale": "יוזכר third-person اے پر پنجabi جملہ اوہنوں منگدا اے۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "سالیاں\/دن",
+      "rationale": "جیون دے سال تے ہنیریاں دے دن گنے جا رہے نیں۔"
+    }
+  ],
+  "translation": "کیونکہ جے بندہ بہت ساریاں سالاں جیوے، ساریاں وِچ خوش رہوے، تے اوہنوں یاد رہوے ⟨את⟩ ہنیریاں دے دناں نوں، کیونکہ اوہ بہت ہوݨ گے — سب جو آؤنا اے ہیبل ⟨واپسی، خالی⟩ اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "080f883d4fb00876a0c9c80f446adfb93005ca02fcd78b417e32b6f2714db9ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ecclesiastes\/11\/5-8.1792117680630.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سالیاں"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "بہت ساریاں"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "جیوے"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "בכלם",
+      "gloss": "ساریاں وِچ"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "خوش رہوے"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "تے یاد رہوے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ہنیریاں دے دناں نوں"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "دناں"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "ہنیریاں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "بہت"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ہوݨ گے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "جو آؤنا اے"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ہیبل"
+    }
+  ],
+  "timestamp": "2026-10-16T02:28:00.631501293Z",
+  "model": "glm-5.3"
+}

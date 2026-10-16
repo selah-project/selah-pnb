@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 105:15",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "بادشاہاں نوں",
+      "rationale": "ایہہ آیت یاہوہ ولوں بادشاہاں (ابیمالک، فرعون) نوں سدھی ہدایت اے۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "משיחי",
+      "rationale": "„میرے مسح کیتے‟ — ایتھے بزرگ (اَوراہام تے اوہدے پتر) مراد نیں، بعد دے ماشیاخ دا مطلب نئیں۔"
+    }
+  ],
+  "translation": "میرے ماشیاخاں نوں ہتھ نہ لاؤ، تے میرے نبیاں نال برائی نہ کرو۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9bcd5fa945c956f216e73e64353d732b6dd67505ae7714aa05e78c7dc51889dc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/105\/13-16.1792113569130.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "ہتھ لاؤ"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "میرے ماشیاخاں نوں"
+    },
+    {
+      "surface": "ולנביאי",
+      "gloss": "تے میرے نبیاں نال"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "برائی کرو"
+    }
+  ],
+  "timestamp": "2026-10-16T01:19:29.131481301Z",
+  "model": "glm-5.3"
+}

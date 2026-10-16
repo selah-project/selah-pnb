@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 2:5",
+  "book": "zechariah",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "میں نے",
+      "rationale": "عبرانی وائو- consecutive فعل خود کار صیغہ منگدا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨اے⟩",
+      "rationale": "عبرانی وِچ copula نئیں، پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ناپ دا رسا",
+      "rationale": "یروشلایم نوں ناپݨ دا اِلٰہ دا ویڑھا شروع ہندا اے"
+    }
+  ],
+  "translation": "تے میں نے اپنیاں اکھیاں چُکیاں تے ویکھیا، تے ویکھو، اِک بندہ ⟨اے⟩، تے اوہدے ہتھ وِچ ناپ دا رسا ⟨اے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1d756fff573194abb35f4ed6296a535f8fe0e6ef2448e6dbcf8f5389a840bd0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/zechariah\/2\/5-8.1792111550161.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "تے میں نے چُکیاں"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "اپنیاں اکھیاں"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "تے ویکھیا"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "تے ویکھو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "اِک بندہ"
+    },
+    {
+      "surface": "ובידו",
+      "gloss": "تے اوہدے ہتھ وِچ"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "رسا"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "ناپ دا"
+    }
+  ],
+  "timestamp": "2026-10-16T00:45:50.161625341Z",
+  "model": "glm-5.3"
+}

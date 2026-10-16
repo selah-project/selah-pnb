@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 17:5",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨مسکن ول⟩",
+      "rationale": "عبرانی وِچ اِکو واری مسکن آیا اے، پنجابی جوڑے لئی دوجی واری ⟨⟩ وِچ پایا"
+    },
+    {
+      "kind": "crux",
+      "subject": "مِتصرایم",
+      "rationale": "2-سموئیل 7:6 وِچ ”مِتصرایم دِی دھرتی توں“ ایس تھاں اے؛ تاریخ وِچ ایہہ لفظ گھٹو گھٹ اے — پرکھ نال جوڑ"
+    }
+  ],
+  "translation": "کیوں جو میں اُس دن توں جیہڑا دِن میں ⟨את⟩ یِسرائیل نوں چکیا، ایس دن تک کسے گھر وِچ نئیں وسیا، سگوں خیمے توں خیمے ول تے مسکن توں ⟨مسکن ول⟩ رہیا آں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "51fa833a2ecc9da6910dc5d9e6b708edef6d6190a0053f1802801e339be2c13a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/17\/5-8.1792121122161.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "میں وسیا"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "کسے گھر وِچ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اُس دن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا دِن"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "میں چکیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یِسرائیل نوں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "היום",
+      "gloss": "دِن"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایس"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "تے میں رہیا آں"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "خیمے توں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "خیمے ول"
+    },
+    {
+      "surface": "וממשכן",
+      "gloss": "تے مسکن توں"
+    }
+  ],
+  "timestamp": "2026-10-16T03:25:22.162576632Z",
+  "model": "glm-5.3"
+}

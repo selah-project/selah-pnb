@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 16:4",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ויתן",
+      "rationale": "لفظی 'دتا'؛ 'مقرر کیتے' سیاق دا کلام اے، 'دتا' ہی مُڈھلا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הודות\/הלל",
+      "rationale": "شکر تے تعریف دی نڈھی جوڑی عبرانی دے سہ licensing verbs نیں — پنجابی وِچ دوویں وکھرے رکھے"
+    }
+  ],
+  "translation": "تے اوہنے یاہوہ دے صندوق اگے لویاں وِچوں خدمتگار مقرر کیتے — یاد کرن لئی، تے شکر ادا کرن لئی، تے یاہوہ، یِسرائیل دے ایلوہیم، دی تعریف کرن لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9a9e5ed4dcd96bd925e2d4cc0c38c23b8ef320c4b7d1d81d44e99f001296a5cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/16\/1-4.1792120852041.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "مقرر کیتے"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اگے"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دے"
+    },
+    {
+      "surface": "מן",
+      "gloss": "وِچوں"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لویاں"
+    },
+    {
+      "surface": "משרתים",
+      "gloss": "خدمتگار"
+    },
+    {
+      "surface": "ולהזכיר",
+      "gloss": "یاد کرن لئی"
+    },
+    {
+      "surface": "ולהודות",
+      "gloss": "شکر ادا کرن لئی"
+    },
+    {
+      "surface": "ולהלל",
+      "gloss": "تعریف کرن لئی"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل دے"
+    }
+  ],
+  "timestamp": "2026-10-16T03:20:52.042700529Z",
+  "model": "glm-5.3"
+}

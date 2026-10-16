@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 21:10",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "کھانا",
+      "rationale": "שארہ ماس\/خوراک لئی اے — ایتھے خوراک دا بھار اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "וענתה",
+      "rationale": "میاں-بیوی دا میل-جوڑ — کجھ مترجم 'رہائش' پڑھدے نیں، پر جذر ענה میل دا اے"
+    }
+  ],
+  "translation": "جے اوہ ⟨اُس دی تھاں⟩ دوجی لے، اوہدا کھانا، اوہدا کپڑا تے اوہدا میل-جوڑ نئیں گھٹاویگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f981f1c98672136fce8ef7a7c6e6289319c4739b3781e50d63afefdda5d0100c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/21\/9-12.1792096710389.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "دوجی"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "لے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اپنے لئی"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "اوہدا کھانا"
+    },
+    {
+      "surface": "כסותה",
+      "gloss": "اوہدا کپڑا"
+    },
+    {
+      "surface": "וענתה",
+      "gloss": "تے اوہدا میل-جوڑ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יגרע",
+      "gloss": "گھٹاویگا"
+    }
+  ],
+  "timestamp": "2026-10-15T20:38:30.389731818Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ساڑیا",
+      "rationale": "ויקטר دا شبدی مطلب ‘خوشبو بناؤن لئی ساؤݨا’ اے — صرف ‘ساڑنا’ اوہدے قربانی والے پہلو نوں گھٹا دندا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נתח \/ לנתחיו \/ הנתחים",
+      "rationale": "اوہو جڑ تن واری — وڈھݨ، ٹوٹے، ٹوٹیاں — فعل تے ناواں دی تکرار"
+    }
+  ],
+  "translation": "تے ⟨את⟩ مینڈھے نوں اوہدے ٹوٹیاں وِچ وڈھیا؛ تے موشے نے ⟨את⟩ سر نوں تے ⟨את⟩ ٹوٹیاں نوں تے ⟨את⟩ چر بی نوں ساڑیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "cdcc32fdaa6fd5fce3931bc5577404b4845e3461ebe4387eb24531f412ee490f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/8\/17-20.1792097605751.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "مینڈھا"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "مینڈھا"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "وڈھیا"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "اوہدے ٹوٹیاں وِچ"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "ساڑیا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سر"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ٹوٹے"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "ٹوٹے"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "چر بی"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "چر بی"
+    }
+  ],
+  "timestamp": "2026-10-15T20:53:25.752688842Z",
+  "model": "glm-5.3"
+}

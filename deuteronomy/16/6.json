@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 16:6",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "عبرانی جوڑ 'کی-اِم' اِٹھ 'سِواے' (except) بندا اے، لفظی 'کیونکہ جے' نئیں"
+    },
+    {
+      "kind": "measurement",
+      "subject": "מועד",
+      "rationale": "ویلا مقرر کیتا گیا اے — ڈبن دا تے نکلݨ دا ویلہ دوناں_fixed"
+    }
+  ],
+  "translation": "سِواے اُس تھاں تے، جہڑا یاہوہ تیرا ایلوہیم چُنے گا کہ اوہدا ناں اوتھے وسے، اوتھے تُوں ⟨את⟩ پسح دی قربانی کریں شام نوں، سورج دے ڈبن ویلے — اُس مقرر ویلے جدوں تُوں مِتصرایم توں نِکلیا سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "372e101a9a74e67a9df470aec489afe0032cb493c2df1a0aea2b351cb9dc7d65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/16\/5-8.1792100032543.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "سِواے"
+    },
+    {
+      "surface": "אם",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تھاں تے"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "اُس تھاں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جہڑا"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "چُنے گا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تیرا ایلوہیم"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "وسن لئی"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اوہدا ناں"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اوتھے"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "قربانی کریں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پسح"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "پسح"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "شام نوں"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "ڈبن ویلے"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سورج"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "مقرر ویلہ"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "تیرے نکلݨ"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "مِتصرایم توں"
+    }
+  ],
+  "timestamp": "2026-10-15T21:33:52.544135415Z",
+  "model": "glm-5.3"
+}

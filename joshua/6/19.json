@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 6:19",
+  "book": "joshua",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نیں\/آن جانگے",
+      "rationale": "عبرانی وِچ جملے کوئی کریا نئیں دسدا، پنجابی نے ⟨⟩ توں باہر فعل پا کے پورا کیتا۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "تانبا",
+      "rationale": "נחשת مولوں تانبا اے، ترجمے 'پیتل' لکھدے نیں۔"
+    }
+  ],
+  "translation": "تے ساری چاندی تے سونا، تے تانبے تے لوہے دے برتن پوتر نیں، اوہ یاہوہ لئی؛ یاہوہ دے خزانے وِچ آن جانگے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "90cf5ed6a4d43879268cff8920eadb61ce06e401d579b5570233c3da01ace064",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joshua\/6\/17-20.1792100825457.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "تے سارا"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندی"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "تے سونا"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "تے برتن"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "تانبا"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "تے لوہا"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پوتر"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ لئی"
+    },
+    {
+      "surface": "אוצר",
+      "gloss": "خزانہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "آ جانگے"
+    }
+  ],
+  "timestamp": "2026-10-15T21:47:05.458695975Z",
+  "model": "glm-5.3"
+}

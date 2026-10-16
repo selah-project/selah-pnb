@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 32:4",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "בדברים",
+      "rationale": "کجھ مترجم 'گلاں نال اُڈیک کیتی' (بولن دا وار) لیندے نیں — 'گلاں دا اُڈیک' وی اوہو شکل اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "دناں وِچّ وڈّے",
+      "rationale": "عمر دی گنتی دا ہوکا — وڈّکے ہون اُڈیک دا سبب"
+    }
+  ],
+  "translation": "تے الِیہو نے ⟨את⟩ ایہووُب دی گلاں دا اُڈیک کیتا، کیوں جو اوہ اوہدے توں دناں وِچّ وڈّے سِدھے سن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "248a0e1a6fd045eb593ee89aabfc8b866c8706840283e7d6315c8921448ac9b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/32\/1-4.1792116270578.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואליהו",
+      "gloss": "تے الِیہو نے"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "اُڈیک کیتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایہووُب دی گلاں"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ایہووُب"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "گلاں دی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "وڈّے سِدھے"
+    },
+    {
+      "surface": "המה",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "اوہدے توں"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "دناں وِچّ"
+    }
+  ],
+  "timestamp": "2026-10-16T02:04:30.579644261Z",
+  "model": "glm-5.3"
+}

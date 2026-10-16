@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 20:12",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שימו",
+      "rationale": "מفعول توں خالی فعل: 'لاوو\/تِیاں جماوو' — KJV 'اپنے آپ نوں مورچیاں وِچ لاوو'، جنیوا 'منجنیقاں باہر کڈھو'، یلت 'اپنے آپ نوں جماوو'۔"
+    },
+    {
+      "kind": "elision",
+      "subject": "והוא שתה הוא",
+      "rationale": "دوہرا ہو 'اوہ' (ו-הוא… הוא) پنجابی وِچ اِک واری رہِ گیا۔"
+    }
+  ],
+  "translation": "تے ⟨جدوں⟩ ایہہ ⟨את⟩ گل سنی ⟨تے⟩ اوہ پیندا پیا سی — اوہ تے بادشاہ کُٹیاں وِچ — تے اوہنے اپنے نوکراں نوں آکھیا: مورچے لاوو، تے اوہناں شہر دے اُتے مورچے لا لئے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "881bab84f5dd4601c59c81eebb036a7873d1c49872824062203fbd481ad4990f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/20\/9-12.1792104708959.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے ہویا"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "جدوں سنیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایہہ گل"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "گل"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "تے اوہ"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "پیندا سی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "והמלכים",
+      "gloss": "تے بادشاہ"
+    },
+    {
+      "surface": "בסכות",
+      "gloss": "کُٹیاں وِچ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "اپنے نوکراں"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "مورچے لاوو"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "تے لا لائے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر دے"
+    }
+  ],
+  "timestamp": "2026-10-15T22:51:48.960833279Z",
+  "model": "glm-5.3"
+}

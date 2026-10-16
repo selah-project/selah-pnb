@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 38:6",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "دھکّاں",
+      "rationale": "חבורתי لیکیاں\/دھکّاں اے — مار دی مار دا نیلا نشان، عام 'زخم' نئیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "گھل گئیاں",
+      "rationale": "נמקو دا مول 'پگھلنا' اے — پیپ پے کے بکھرنا"
+    }
+  ],
+  "translation": "میریاں دھکّاں بدبو دار ہو گئیاں، اوہ گھل گئیاں نیں، میری مورکھتا دے کارن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "557753a1d4ca16b4d383286070cd7fe69b4e0bd227dc7ea98d3c274e1bb881f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/38\/6-7.1792124089721.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבאישו",
+      "gloss": "بدبو دار ہو گئیاں"
+    },
+    {
+      "surface": "נמקו",
+      "gloss": "گھل گئیاں نیں"
+    },
+    {
+      "surface": "חבורתי",
+      "gloss": "میریاں دھکّاں"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "دے کارن"
+    },
+    {
+      "surface": "אולתי",
+      "gloss": "میری مورکھتا"
+    }
+  ],
+  "timestamp": "2026-10-16T04:14:49.722020307Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 28:3",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "داوِد",
+      "rationale": "ایلوہیم دا بچن سدھے داوِد نوں مخاطب اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "جنگاں دا بندہ",
+      "rationale": "איש מלחמות جمع اے — 'جنگاں دا بندہ'، اِک جنگ نئیں"
+    }
+  ],
+  "translation": "تے ایلوہیم نے مینوں آکھیا: تُو میرے ناں لئی گھر نئیں بنسیں، کیوں جو تُو جنگاں دا بندہ ایں تے لہو وہایا ای۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2641b75928ffc2bdc05b4500d3c481116b0a624bb6b3251540b5c65bdc8ced96",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/28\/1-4.1792121538395.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והאלהים",
+      "gloss": "تے ایلوہیم نے"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مینوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "بنسیں"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "میرے ناں لئی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "جنگاں دا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُو"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "تے لہو"
+    },
+    {
+      "surface": "שפכת",
+      "gloss": "وہایا ای"
+    }
+  ],
+  "timestamp": "2026-10-16T03:32:18.396558974Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 76:7",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 76,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ورکب",
+      "rationale": "‘رتھ تے سوار’ (یلیتھ) یا ‘رتھ تے گھوڑا’ — دونوں پڑھائیاں پرچلت نیں۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "نردم",
+      "rationale": "بےہوش ہونا، سن ہو جانا — گہری نیند دبائی گئی۔"
+    }
+  ],
+  "translation": "تیرے ٹوکنے توں، یعقوو دے ایلوہیم، رتھ تے گھوڑے دونوں گہری نیندر وِچ سُتے پئے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2a74c3ec15b03c54751aa2fb13eeaf047c52e9e4390a0d393c579c4d9caf67e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/76\/5-8.1792113010276.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מגערתך",
+      "gloss": "تیرے ٹوکنے توں"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "دے ایلوہیم"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "گہری نیندر وِچ سُتے پئے نیں"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "رتھ"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "تے گھوڑے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:10:10.277364015Z",
+  "model": "glm-5.3"
+}

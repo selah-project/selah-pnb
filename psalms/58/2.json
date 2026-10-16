@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 58:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אלם",
+      "rationale": "بنی متن “אלם” = چُپ\/گونگا پَڑدا اے (ASV “in silence”)؛ KJV نے ایرانی قاریاں توں “ایلیم” = قوم پَڑیا — “اے قوم”۔"
+    },
+    {
+      "kind": "you",
+      "subject": "آدم دے پُتر",
+      "rationale": "آیت سِدھے مخاطب اے — اوہناں ججاں نوں جیہڑے سوال ہیٹھ نیں۔"
+    }
+  ],
+  "translation": "کیا سچ مُچی چُپ ⟨چُپ چُپ وِچ⟩ انصاف دی گل کردے او؟ اے آدم دے پُترو، کی سِدھے انصاف کردے او؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "476db0d769a2558c08b8fad5a679c3e9d65646bb14f5559487010d517925623f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/58\/1-4.1792112713787.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האמנם",
+      "gloss": "کیا سچ مُچی"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "چُپ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "انصاف دی"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "گل کردے او"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "سِدھے"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "انصاف کردے او"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُترو"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم دے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:05:13.788256573Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 30:8",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "השג תשיג והצל תציל",
+      "rationale": "مصدر-تشدید دا جوڑ — 'جھلنا جھلیں گا، بچاؤنا بچا لویں گا' — یقین دی عبرانی آواز"
+    },
+    {
+      "kind": "you",
+      "subject": "داوِد",
+      "rationale": "یاہوہ دا جواب سدھا داوِد ول امر دے نال"
+    }
+  ],
+  "translation": "تے داوِد نے یاہوہ توں پُچھیا، آکھے: کی میں ایس لشکر دے پچھے پچھا کراں، کی میں اوہناں نوں جھل لواں؟ تے اوہنوں آکھیا: پچھا کر، کیونکہ یقیناً جھل لویں گا تے یقیناً بچا لویں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b81d1135088d64f3b92de4139ba07fea9600b1acc8004a4da23987bf415544cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/30\/5-8.1792102949887.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "پُچھیا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد نے"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "یاہوہ توں"
+    },
+    {
+      "surface": "לאمר",
+      "gloss": "آکھے"
+    },
+    {
+      "surface": "ארדף",
+      "gloss": "کی میں پچھا کراں"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "دے پچھے"
+    },
+    {
+      "surface": "הגדוד",
+      "gloss": "لشکر"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایس"
+    },
+    {
+      "surface": "האשגנו",
+      "gloss": "کی میں جھل لواں"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہنوں"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "پچھا کر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "השג",
+      "gloss": "یقیناً جھلنا"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "جھل لویں گا"
+    },
+    {
+      "surface": "והצל",
+      "gloss": "تے یقیناً بچاؤنا"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "بچا لویں گا"
+    }
+  ],
+  "timestamp": "2026-10-15T22:22:29.888826963Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 25:20",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "בסתר ההר",
+      "rationale": "'پہاڑ دا لُکا\/ڈھکا حصہ' — بعض مترجم 'کھوہ' یا 'راف' کہندے نیں؛ مطلب پہاڑ دا اوہ بھیترلا راہ اے۔"
+    }
+  ],
+  "translation": "تے ایہہویا، اوہ خوتے اُتے سوار پہاڑ دے لُکے حصے وِچوں اُتری، تے ویکھو، داوِد تے اوہدے بندے اوہدے ول اُتر رہے سن، تے اوہ ⟨את⟩ اوہناں نوں ملی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "91a2d0170448b6a8b35ec63f4b99a64eb74bd7a08557b9be362560fc19e39f09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/25\/17-20.1792102895437.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "تے ایہہویا"
+    },
+    {
+      "surface": "היא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "רכבת",
+      "gloss": "سوار"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "خوتے"
+    },
+    {
+      "surface": "וירדת",
+      "gloss": "تے اُتری"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "لُکے حصے وِچوں"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "تے ویکھو"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "تے اوہدے بندے"
+    },
+    {
+      "surface": "ירדים",
+      "gloss": "اُتر رہے سن"
+    },
+    {
+      "surface": "לקראתה",
+      "gloss": "اوہدے ول"
+    },
+    {
+      "surface": "ותפגש",
+      "gloss": "تے ملی"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "اوہناں نوں"
+    }
+  ],
+  "timestamp": "2026-10-15T22:21:35.439017681Z",
+  "model": "glm-5.3"
+}

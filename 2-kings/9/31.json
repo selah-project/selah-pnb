@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-kings 9:31",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "کی سلامتی اے، اَے زِمری",
+      "rationale": "השלום זמרی — کئی پڑھائیاں: 'کی سلامتی اے اَے زِمری' (طنز) یا 'کی زِمری نوں سلامتی ملی، جیہنے اپنے مالک نوں ماریا؟' — ایزَبیل یہُو نوں زِمری نال برابر کردی اے جیہڑا بادشاہ قاتل سی (1-بادشاہ 16)"
+    },
+    {
+      "kind": "you",
+      "subject": "to Jehu",
+      "rationale": "ایزَبیل دا سِدھا بچن یہُو نال"
+    },
+    {
+      "kind": "addition",
+      "subject": "اَے",
+      "rationale": "پنجابی مخاطب لئی ہوک دا لفظ، عبرانی وِچ نئیں"
+    }
+  ],
+  "translation": "تے یہُو دَروازے وِچ وڑیا، تے اوہنے آکھیا: کی سلامتی اے، ⟨اَے⟩ زِمری، ⟨اَے⟩ اپنے مالک نوں مارن والے؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bf75abbee4593039a19cd7585f636cda7956afd1ebf429bb1088fbc48b903391",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/9\/29-32.1792105130380.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוא",
+      "gloss": "تے یہُو"
+    },
+    {
+      "surface": "בא",
+      "gloss": "وڑیا"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "دَروازے وِچ"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "کی سلامتی اے"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "زِمری"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "مارن والے"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "اپنے مالک"
+    }
+  ],
+  "timestamp": "2026-10-15T22:58:50.381068022Z",
+  "model": "glm-5.3"
+}

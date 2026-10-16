@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 9:15",
+  "book": "hosea",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اے⟩",
+      "rationale": "پنجابی نوں جوڑ-فعل چائیدا اے، عبرانی نے نئیں رکھیا"
+    },
+    {
+      "kind": "idiom",
+      "subject": "לא אוסף אהבתם",
+      "rationale": "لفظی 'محبت ہور نئیں ودھاںگا' — 'ہور محبت نئیں کراںگا' رکھیا"
+    },
+    {
+      "kind": "you",
+      "subject": "ہوشیع دی نبوت وچ یاہوہ دی آپ-گل",
+      "rationale": "یاہوہ آپ بولدا اے — میں کڈھاں گا، میں محبت نئیں کراںگا"
+    }
+  ],
+  "translation": "اوہناں دی ساری برائی گِلگل وِچ ⟨اے⟩، کیوں جو اوتھے میں اوہناں توں نفرت کیتی؛ اوہناں دے کرتوتاں دی برائی توں میں اوہناں نوں اپنے گھروں کڈھ دیواں گا، میں ہور اوہناں نال محبت نئیں کراںگا؛ اوہناں دے سارے سردار باغی نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f6243b485cf7bec4dc7695fe6fadca4abcc53382ac49bec8bccc0ae4a6405495",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/hosea\/9\/13-16.1792110586198.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "اوہناں دی برائی"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "گِلگل وِچ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اوتھے"
+    },
+    {
+      "surface": "שנאתים",
+      "gloss": "میں اوہناں توں نفرت کیتی"
+    },
+    {
+      "surface": "על",
+      "gloss": "توں"
+    },
+    {
+      "surface": "רע",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "اوہناں دے کرتوتاں دی"
+    },
+    {
+      "surface": "מביתי",
+      "gloss": "اپنے گھروں"
+    },
+    {
+      "surface": "אגרשם",
+      "gloss": "میں اوہناں نوں کڈھ دیواں گا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "אוסף",
+      "gloss": "ہور"
+    },
+    {
+      "surface": "אהבתם",
+      "gloss": "اوہناں نال محبت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "שריהם",
+      "gloss": "اوہناں دے سردار"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "باغی"
+    }
+  ],
+  "timestamp": "2026-10-16T00:29:46.199338034Z",
+  "model": "glm-5.3"
+}

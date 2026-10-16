@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 41:13",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "آں",
+      "rationale": "عبرانی وِچ دی ہیٹھ کوئی کریالا نئیں، پنجابی نے منگیا"
+    },
+    {
+      "kind": "you",
+      "subject": "یعقوو\/یِسرائیل",
+      "rationale": "سدیا سدھیا خطاب — نبی نال نئیں، لوکاں نال"
+    },
+    {
+      "kind": "alternative",
+      "subject": "میں تیری مدد کیتی اے",
+      "rationale": "עזרתיך ماضی اے؛ کجھ مترجم 'مدد کراں گا' پڑھدے نیں (kjv) پر صورت ماضی دی اے (ylt)"
+    }
+  ],
+  "translation": "کیوں جو میں یاہوہ، تیرا ایلوہیم، آں، تیرے سجّے ہتھ نوں پھڑن والا، جیہڑا تینوں آکھدا اے: ڈر نئیں، میں تیری مدد کیتی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1ebdc0419e297c2b4d710416ff0969004b819ae250f2d5a19c3b620c0c139e8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/41\/13-16.1792106726244.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تیرا ایلوہیم"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "پھڑن والا"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "تیرے سجّے ہتھ"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "آکھن والا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تینوں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ڈر"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "עזרתיך",
+      "gloss": "تیری مدد کیتی"
+    }
+  ],
+  "timestamp": "2026-10-15T23:25:26.244734044Z",
+  "model": "glm-5.3"
+}

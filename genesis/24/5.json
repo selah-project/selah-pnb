@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 24:5",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "کی",
+      "rationale": "ہبرو سوال دا نشان نئیں رکھدا؛ پنجابی پرچھاں منگدا اے"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ההשב אשיב",
+      "rationale": "شوُر دے دو روپ اکو کِعر نال — 'مُڑا مُڑاواں' وچ دوہرا زور، پنجابی وِچ اِک واری رہِ گیا"
+    }
+  ],
+  "translation": "اتے نوکر نے اوہنوں آکھیا: شاید تریمتی راضی نہ ہووے کہ میرے مگر ایس دیس وِچ ٹُرے؛ کی میں ⟨את⟩ تیرے پتر نوں اُس دیس وِچ واپس مُڑاواں جتھوں توں نِکلیا؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2e9ff319661a6b8b3c958ed1f80acb36a7d8f0be943c6775cdc72c885ea6e95e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/24\/5-8.1792095196430.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اتے آکھیا"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اوہنوں"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "نوکر"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "شاید"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "راضی ہووے"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "تریمتی"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "کہ ٹُرے"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "میرے مگر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ایس دیس"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ایس"
+    },
+    {
+      "surface": "ההשב",
+      "gloss": "کی مُڑاواں"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "واپس کراں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تیرے پتر نوں"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "تیرے پتر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "اُس دیس"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جتھوں"
+    },
+    {
+      "surface": "יצאת",
+      "gloss": "نِکلیا"
+    },
+    {
+      "surface": "משם",
+      "gloss": "اوتھوں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:13:16.430750719Z",
+  "model": "glm-5.3"
+}

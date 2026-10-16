@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 49:4",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ہووے گا \/ ہووے گی",
+      "rationale": "عبرانی وِچ فِعل دا زمانہ پورا نئیں — 'بولے گا' بولے دا اے، مُڈھلے پاٹھ دا اعلان"
+    }
+  ],
+  "translation": "میرا مُوںھ دانائی والیاں گلاں بولے گا، تے میرے دِل دی سوچ سوجھ–بُوجھ والی ہووے گی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8b8acba307fd10d36d760597af2aacaa6e8d2826dd4c3b8cd938e1bcef64fd19",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/49\/1-4.1792112591267.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "میرا مُوںھ"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "بولے گا"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "دانائی والیاں گلاں"
+    },
+    {
+      "surface": "והגות",
+      "gloss": "تے سوچ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "میرے دِل دی"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "سوجھ–بُوجھ والی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:03:11.268781082Z",
+  "model": "glm-5.3"
+}

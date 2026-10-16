@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 9:11",
+  "book": "zechariah",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "את",
+      "rationale": "ایتھے את ضمیر اے (تُوں، lemma אתה)، مفعول دا نشان את (H853) نئیں — گلوس ⟨את⟩ نئیں۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "בדם בריתך",
+      "rationale": "لہو وِچ\/لہو دے بدلے — عہد دا لہو کس دا اے: تیرا (اسرائیل دا قربانی دا) بمقابلہ میرا (KJV 'my covenant'۔)"
+    }
+  ],
+  "translation": "تے تُوں وی — لہو وِچ، تیرے عہد دے — میں تیرے قیدی بھیجے نیں کمویں توں، جیہدے وِچ پانی نئیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "328e896dac3c91815543bee16c2931fb51a08beb9a3eba2c9b8e90d2d2cb3ed7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/zechariah\/9\/9-12.1792111620116.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "تے … وی"
+    },
+    {
+      "surface": "את",
+      "gloss": "تُوں"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "لہو وِچ"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "تیرے عہد دے"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "میں بھیجے نیں"
+    },
+    {
+      "surface": "אסיריך",
+      "gloss": "تیرے قیدی"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "کمویں توں"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پانی"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوہدے وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T00:47:00.117009813Z",
+  "model": "glm-5.3"
+}

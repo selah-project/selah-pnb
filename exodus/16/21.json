@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 16:21",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בבקר בבקר",
+      "rationale": "‘سویر سویر’ دی دوہرائی — ہر سویر، نیم فقرہ، پنجابی وِچ دوہرائی نال رکھیا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "پگھل گیا",
+      "rationale": "ונמס دا مُڈھلا مطلب ‘پگھلنا\/سیلان ہونا’ اے"
+    }
+  ],
+  "translation": "تے اوہ سویر سویر ⟨אתו⟩ چُکدے، ہر اِک اپنی کھاون دے مطابق، تے جدوں سورج تَپّیا، اوہ پگھل گیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f3faeac6ea985d33457ecd8b267d935cdef99f4885a3f069d1cb53bdefbdafd5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/16\/21-24.1792096579692.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילקטו",
+      "gloss": "چُکدے"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "اوہ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "سویر"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "سویر"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ہر اِک"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "مطابق"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "اپنی کھاون"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "تے تَپّیا"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سورج"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "پگھل گیا"
+    }
+  ],
+  "timestamp": "2026-10-15T20:36:19.692691514Z",
+  "model": "glm-5.3"
+}

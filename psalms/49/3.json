@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בני אדם \/ בני איש",
+      "rationale": "مُفسر وَکھرے کردے نیں: عام انسان بامقابلے اُچے\/شریفانا مَرد، یا ہیٹھلے تے اُچے — دونواں جوڑیاں دا مطلب 'ہر کوئی'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גם…גם \/ עשיר–אביון",
+      "rationale": "دو واری 'وی' تے دھنی–غریب دا اُلٹ جوڑا — ترجمے وِچ تال بَچدا اے، پنجابی جوڑا ایہہ ریت چکدا اے"
+    }
+  ],
+  "translation": "وی آدم دے پتر، وی مَرد دے پتر، اِکٹھے دھنی تے غریب۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8b8acba307fd10d36d760597af2aacaa6e8d2826dd4c3b8cd938e1bcef64fd19",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/49\/1-4.1792112591267.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پتر"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پتر"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مَرد"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "اِکٹھے"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "دھنی"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "تے غریب"
+    }
+  ],
+  "timestamp": "2026-10-16T01:03:11.268650957Z",
+  "model": "glm-5.3"
+}

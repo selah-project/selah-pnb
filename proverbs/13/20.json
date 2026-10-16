@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ורעה\/ירוע",
+      "rationale": "א-ר-ע جڑ دی ٹکور — 'رلنا' تے 'برا ہونا' اکو آواز وِچ جُڑے نیں، پنجابی وِچ ہار گئی"
+    },
+    {
+      "kind": "crux",
+      "subject": "ורעה",
+      "rationale": "'چرنا\/رلنا' (ڈھور چارنا) — یعنی مورکھاں دا سنگی؛ کجھ 'کھوہندا اے' پڑھدے نیں"
+    }
+  ],
+  "translation": "حکیمان نال ⟨את⟩ ٹُرن والا حکیم ہوندا اے، تے مورکھاں نال رلن والا برا ہو جاندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9f12e9deddf112db526c31462abd0a43af59dbbe6b903eddf374fc951026c0e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/13\/17-20.1792114676719.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "ٹُرن والا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حکیمان"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "حکیمان نال"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "تے حکیم ہوندا اے"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "تے رلن والا"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "مورکھاں نال"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "برا ہو جاندا اے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:37:56.720360802Z",
+  "model": "glm-5.3"
+}

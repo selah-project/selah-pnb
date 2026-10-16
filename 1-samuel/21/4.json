@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 21:4",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "روٹیاں",
+      "rationale": "عبرانی חמשה לחم دوویں وچ واحد نیں — 'پنج روٹی'؛ پنجابی وِچ گنتی نال جمع بندی اے"
+    }
+  ],
+  "translation": "تے ہن تیرے ہتھ ہیٹھ کی اے؟ پنج روٹیاں میرے ۤتھ وچ دے، جاں جو کجھ مل سکے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "78c27489ce3859d973829d14b18ba46e3e24a2884ca06a6878ce61664d6f39c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/21\/1-4.1792102787178.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "تے ہن"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کی"
+    },
+    {
+      "surface": "יש",
+      "gloss": "اے"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ہیٹھ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "تیرے ۤتھ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "روٹیاں"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "دے"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "میرے ۤتھ وِچ"
+    },
+    {
+      "surface": "או",
+      "gloss": "جاں"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "جو مل سکے"
+    }
+  ],
+  "timestamp": "2026-10-15T22:19:47.179996344Z",
+  "model": "glm-5.3"
+}

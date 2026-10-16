@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 18:25",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "میں",
+      "rationale": "ואפקד دی واو متصلہ کارڈ دا اے پنجابی وچ صریح ضمیر منگدا اے"
+    },
+    {
+      "kind": "idiom",
+      "subject": "اُگلّ دِتا",
+      "rationale": "קוא دا مزاجی استعمال — دھرتی وسنیکاں نوں الَٹدی اے، لفظی متیاں نال رکھیا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ותטמא",
+      "rationale": "نجاست دا فعل آیت 27 وچ مُڑ آؤندا اے — چیازم: نجاست، اُگلّݨ، اُگلّݨ، نجاست"
+    }
+  ],
+  "translation": "تے دھرتی نجس ہو گئی، تے میں اوہدے پاپ دی پڑتال اوہدے اُتے کیتی، تے دھرتی نے ⟨את⟩ اوہدے وسنیکاں نوں اُگلّ دِتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1f30885627880efecc6d26da538839fe4b0cc6b9f7cd9d281301bdb0fea4a8d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/18\/25-28.1792097818625.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותטמא",
+      "gloss": "نجس ہو گئی"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "دھرتی"
+    },
+    {
+      "surface": "ואפקד",
+      "gloss": "تے میں پڑتال کیتی"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "اوہدے پاپ دی"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "اوہدے اُتے"
+    },
+    {
+      "surface": "ותקא",
+      "gloss": "تے اُگلّ دِتا"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "دھرتی نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہدے وسنیکاں نوں"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "اوہدے وسنیکاں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:56:58.625801442Z",
+  "model": "glm-5.3"
+}

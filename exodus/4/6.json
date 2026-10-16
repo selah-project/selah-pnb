@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 4:6",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ہو گیا",
+      "rationale": "مصدر دی حالت پنجابی وِچ فیعل منگدا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "کوڑھی",
+      "rationale": "מצורעת دا روائتی 'کوڑھ' — عبرانی צרעת اِک خاص پاک\/ناپاک ہون والی بیماری اے، صحیح طبی کوڑھ نئیں"
+    }
+  ],
+  "translation": "تے یاہوہ نے اوہدوں ہور آکھیا: ہن تُوں اپنا ہتھ اپنے سینے وِچ پا۔ تے اوہنے اپنا ہتھ اپنے سینے وِچ پایا تے اوہنوں باہر کڈھیا، تے ویکھو، اوہدا ہتھ برف ورگا کوڑھی ⟨ہو گیا⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "658a85369b6f50c16f4b3050da9f91d3c030c8e4065bc001af9b8eaaaf91ea5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/4\/5-8.1792096216156.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ نے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدوں"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ہور"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "پا"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ہن"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "اپنا ہتھ"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "اپنے سینے وِچ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "تے پایا"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "اپنا ہتھ"
+    },
+    {
+      "surface": "בחיקו",
+      "gloss": "اپنے سینے وِچ"
+    },
+    {
+      "surface": "ויוצאה",
+      "gloss": "تے اوہنوں باہر کڈھیا"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "تے ویکھو"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "اوہدا ہتھ"
+    },
+    {
+      "surface": "מצרעת",
+      "gloss": "کوڑھی"
+    },
+    {
+      "surface": "כשלג",
+      "gloss": "برف ورگا"
+    }
+  ],
+  "timestamp": "2026-10-15T20:30:16.157116926Z",
+  "model": "glm-5.3"
+}

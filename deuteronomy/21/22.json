@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 21:22",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חטא משפט מות",
+      "rationale": "بنی مَتْن 'پاپ، فَیسلا، موت' — تِن نون الگ؛ 'موت دے فَیسلے جیہا پاپ' جوڑ دا ترجمہ اے"
+    },
+    {
+      "kind": "elision",
+      "subject": "והומת",
+      "rationale": "'اوہنوں ماریا جاوے' — عبرانی اِک مصدری تُوٹ اے"
+    }
+  ],
+  "translation": "تے جے کسے بندے وِچ موت دے فَیسلے جیہا پاپ ہووے، تے اوہنوں مار دتا جاوے، تے توں اوہنوں ⟨אתו⟩ رُکھ اُتے لٹکاویں،",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "de4438439f57b1e3f591dfd8af4db18626b5c941a47c9432bc2b56b179899765",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/21\/21-23.1792100109923.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہووے"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "کسے بندے وِچ"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "پاپ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "فَیسلے جیہا"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت دے"
+    },
+    {
+      "surface": "והומת",
+      "gloss": "تے مار دتا جاوے"
+    },
+    {
+      "surface": "ותלית",
+      "gloss": "تے توں لٹکاویں"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "اوہنوں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "رُکھ"
+    }
+  ],
+  "timestamp": "2026-10-15T21:35:09.924394900Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 24:14",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מים",
+      "rationale": "'سمندر' یا 'مغرب' — عبرانی سمندر نوں سورج ڈبّن پاسے دا نشان وی بناؤندا اے؛ سیاق توں 'سمندر توں' رکھیا۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ירנו\/צהלו",
+      "rationale": "دو خوشی دے فعل اک دوجے دے نال — رنن (گاؤنا) تے تسہل (چیخنا) — پنجابی وِچ دو وکھرے فعل بنے۔"
+    }
+  ],
+  "translation": "اوہ اپنی آواز چکن گے، اوہ گاؤن گے؛ یاہوہ دے جلال وِچ اوہ سمندر توں خوشی دا شور مچاون گے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f30b28e714c9f1f9e18ad42d972008c262fc4d548fabcd56b9bf8a7026f15247",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/24\/14-15.1792123800353.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "چکن گے"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "اپنی آواز"
+    },
+    {
+      "surface": "ירנו",
+      "gloss": "گاؤن گے"
+    },
+    {
+      "surface": "בגאון",
+      "gloss": "جلال وِچ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دے"
+    },
+    {
+      "surface": "צהלו",
+      "gloss": "شور مچاون گے"
+    },
+    {
+      "surface": "מים",
+      "gloss": "سمندر توں"
+    }
+  ],
+  "timestamp": "2026-10-16T04:10:00.354202334Z",
+  "model": "glm-5.3"
+}

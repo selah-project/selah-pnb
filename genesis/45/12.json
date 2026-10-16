@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 45:12",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ایہ⟩",
+      "rationale": "عبرانی وِچ کوئی ضمیر نئیں، پنجابی 'کہ' دے بعد چائی نورس لئی"
+    },
+    {
+      "kind": "invitation",
+      "subject": "تے ویکھو",
+      "rationale": "وہנہ — سن گواہی دا سَدا، اکھاں نال ثبوت"
+    },
+    {
+      "kind": "you",
+      "subject": "بھراواں نوں",
+      "rationale": "یوسف سِدھی گل بھراواں نال، بنیامین دیاں اکھاں گواہ"
+    }
+  ],
+  "translation": "تے ویکھو، تُہاڈیاں اکھاں ویکھدیاں نیں، تے میرے بھرا بنیامین دیاں اکھاں، کہ ⟨ایہ⟩ میرا مُنہ اے جیہڑا تُہاڈے نال گل کر ریا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "028dcf901f69438db7c0210bb501dbc3b0afc8ce3f1e5aad172152d51c5041a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/45\/9-12.1792095980465.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "تے ویکھو"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "تُہاڈیاں اکھاں"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "ویکھدیاں نیں"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "تے دیاں اکھاں"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "میرے بھرا"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "بنیامین"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "میرا مُنہ"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "گل کر ریا اے"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "تُہاڈے نال"
+    }
+  ],
+  "timestamp": "2026-10-15T20:26:20.466293776Z",
+  "model": "glm-5.3"
+}

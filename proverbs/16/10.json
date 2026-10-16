@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 16:10",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קסם",
+      "rationale": "'کسّم\/فال' بنام KJV 'divine sentence' تے YLT 'oath' — لفظ عام طور تے منی ہوئی فال لئی، ایتھے بادشاہ دے بچن دی سچائی لئی ورتیا اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "کرے گا",
+      "rationale": "عبرانی فعل دی جھلک پنجانی وِچ ویلے دا نشان منگدا اے۔"
+    }
+  ],
+  "translation": "کسّم بادشاہ دے ہونٹھاں اُتے اے؛ انصاف وِچ اُسدا منہ دغا نئیں کرے گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "664f084f18761986a56461539626a6999bee459edca9fec0b4c559562beebcd5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/16\/9-12.1792114722201.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קסם",
+      "gloss": "کسّم"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ہونٹھاں"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ دے"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "انصاف وِچ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "ימעל",
+      "gloss": "دغا کرے گا"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "اُسدا منہ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:38:42.201904800Z",
+  "model": "glm-5.3"
+}

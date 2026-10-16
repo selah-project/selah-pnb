@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 37:4",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "گجّدی اے",
+      "rationale": "שאג شیر دی دہاڑ لئی اے — بدلی دی گجّ شیر ورگی؛ پنجابی وچ 'گجّنا' ای نیڑے ترین اے۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "יעקבם",
+      "rationale": "مول 'ایدیاں اُتے ہتھ مارنا\/روکنا' — کجھ ترجمے 'بجلیاں نوں نئیں روکدا' (ASV)، کجھ 'اوہناں نوں نئیں روکدا' (KJV) — جمع سرخیمہ اوہلا اے۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יעקבם",
+      "rationale": "جڑ ע-ק-ב یعقوو نال رلدی اے — 'عقب' توں 'پچھا دھرنا'؛ شبد-کھیڈ پنجابی وچ گَئی۔"
+    }
+  ],
+  "translation": "اوہدے مگروں آواز گجّدی اے؛ اوہ اپنی شان دی آواز نال اوہناں نوں تھمبڑدا اے، تے اوہناں نوں نئیں روکدا جدوں اوہدی آواز سُنی جاندی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2fba9b30a419c2db1e04062441e1255097cc4af898950900bab143834125e3de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/37\/1-4.1792116442702.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחריו",
+      "gloss": "اوہدے مگروں"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "گجّدی اے"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "تھمبڑدا اے"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "آواز نال"
+    },
+    {
+      "surface": "גאונו",
+      "gloss": "اپنی شان دی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "יעקבם",
+      "gloss": "اوہناں نوں روکدا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جدوں"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "سُنی جاندی اے"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "اوہدی آواز"
+    }
+  ],
+  "timestamp": "2026-10-16T02:07:22.703332309Z",
+  "model": "glm-5.3"
+}

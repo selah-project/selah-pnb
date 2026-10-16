@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 5:4",
+  "book": "nehemiah",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "میچ دا ٹیکس",
+      "rationale": "למדת بُتّی 'مِدّد' (measure) اے — بادشاہ دی میچ دا ٹیکس؛ 'ٹیکس' ہی ولکھن والی عام سمجھ اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "کھیتاں اُتے",
+      "rationale": "عبرانی صرف آخری دو ٹوکن دندا اے — 'بادشاہ دی میچ ساڈے کھیتاں تے ویلّاں اُتے اے' جاں 'گروی ساڈے کھیتاں اُتے' — ترتیب دوویں طرحاں پڑھی گئی اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "میچ",
+      "rationale": "گنتی\/ناپ نال ٹیکس — מדدھ دا بُتّی مطلب ہی میچ اے"
+    }
+  ],
+  "translation": "تے ایہہ نیں جو آکھدے نیں: اسیں بادشاہ دے ٹیکس لئی چاندی ادھار لئی اے — ساڈے کھیتاں تے ساڈیاں ویلّاں اُتے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7b47c8c083091ba9d6c70f6651bb03a0957890bc8da85c9f6b71aebf56635bf8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/nehemiah\/5\/3-4.1792124386094.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויש",
+      "gloss": "تے ایہہ نیں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "آکھدے نیں"
+    },
+    {
+      "surface": "לוינו",
+      "gloss": "اساں ادھار لئی"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندی"
+    },
+    {
+      "surface": "למדת",
+      "gloss": "میچ دے لئی"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ دا"
+    },
+    {
+      "surface": "שדתינו",
+      "gloss": "ساڈے کھیتاں"
+    },
+    {
+      "surface": "וכרמינו",
+      "gloss": "تے ساڈیاں ویلّاں"
+    }
+  ],
+  "timestamp": "2026-10-16T04:19:46.095438101Z",
+  "model": "glm-5.3"
+}

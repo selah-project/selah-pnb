@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 7:19",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨سن⟩ ⟨کیتے گئے⟩",
+      "rationale": "عبرانی وِچ کوئی کارل کریا نئیں، پنجابی جملہ منگدا اے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "شوُشان",
+      "rationale": "שׁוּשַׁן کنول\/سوہنا پھلّ اے — شکل دا لفظ، سجاوٹ دا نشان۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "چار ہتھ",
+      "rationale": "کوٹرے دی پیمائش — اَمّا ہتھ (کلائی توں کُہنی) دا ناپ اے۔"
+    }
+  ],
+  "translation": "تے کوٹرے جو کھنباں دے سر اُتے ⟨سن⟩ — سوہنے پھلّ ورگا کم — ورانڈے وِچ ⟨کیتے گئے⟩، چار ہتھ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "60b47b51d8411ad874f19b458f26e7254d3928a36f76d67003a09613e39949ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/7\/17-20.1792104162625.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכתרת",
+      "gloss": "تے کوٹرے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "کھنباں"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کم"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "سوہنا پھلّ"
+    },
+    {
+      "surface": "באולם",
+      "gloss": "ورانڈے وِچ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ہتھ"
+    }
+  ],
+  "timestamp": "2026-10-15T22:42:42.626840923Z",
+  "model": "glm-5.3"
+}

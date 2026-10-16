@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 37:39",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اے⟩",
+      "rationale": "عبرانی وِچ کوئی کریا نئیں، پنجابی نوں کار جملے لئی اے چاہیدا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "قلعہ",
+      "rationale": "מעוז مضبوط تھاں اے، قلعہ\/پناہ گاہ دوناں ولے"
+    }
+  ],
+  "translation": "تے نیکی والیاں دی خلاصی یاہوہ کولوں اے، اوہ اوہناں دا قلعہ تنگی دے ویلے ⟨اے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f6c579e7311ac6e7a2b2d4c04696df6558c6cac954d26d1c4e3f5cf770826ceb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/37\/39-40.1792124102793.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותשועת",
+      "gloss": "تے … دی خلاصی"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "نیکی والیاں"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "یاہوہ کولوں"
+    },
+    {
+      "surface": "מעוזם",
+      "gloss": "اوہناں دا قلعہ"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "دے ویلے"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "تنگی"
+    }
+  ],
+  "timestamp": "2026-10-16T04:15:02.793934083Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 23:4",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اوہنوں⟩",
+      "rationale": "תשיבנו وِچ لگا مفعولی ضمیر اے پر پنجابی توضیح چاہیدی اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "השב\/תשיבנו",
+      "rationale": "اِکو فعل שוב دو واری — عبرانی دی یقین دی ضرب، 'مُڑ لا کے واپس کرنا' رکھی"
+    }
+  ],
+  "translation": "جدوں تُسیں اپنے ویری دا کالا یا اوہدا کھوتا بھٹکدا ملّو، ⟨اوہنوں⟩ اوہدے کول مُڑ لا کے واپس کرنا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "64efbb903aea9c270f08c2379ee5d2554e5466c39e48e9c33e277483aa75651c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/23\/1-4.1792096771557.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "جدوں"
+    },
+    {
+      "surface": "תפגע",
+      "gloss": "ملّو"
+    },
+    {
+      "surface": "שור",
+      "gloss": "کالا"
+    },
+    {
+      "surface": "איבך",
+      "gloss": "اپنے ویری دا"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "اوہدا کھوتا"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "بھٹکدا"
+    },
+    {
+      "surface": "השב",
+      "gloss": "مُڑ لا کے"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "واپس کرنا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدے کول"
+    }
+  ],
+  "timestamp": "2026-10-15T20:39:31.558203853Z",
+  "model": "glm-5.3"
+}

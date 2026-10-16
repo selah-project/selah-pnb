@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 117:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 117,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "قیام رکھدی اے",
+      "rationale": "عبرانی وِچ کوئی فعل نئیں؛ 'לעולם' دے نال پنجابی جملہ فعل منگدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חסד",
+      "rationale": "خیسِد رکھیا گیا، ⟨⟩ وِچ مہربانی وضاحت لئی — اِک لفظ نال 'رحم' یا 'فضل' نئیں گھٹدا"
+    },
+    {
+      "kind": "idiom",
+      "subject": "גבר עלינו",
+      "rationale": "لفظی: 'ساڈے اُتے مضبوط\/غالب ہویا' — یعنی بہت وڈا اے؛ پنجابی وِچ 'زور آیا' نیڑے دی شکل رکھی"
+    }
+  ],
+  "translation": "کیوں جو اوہدا خیسِد ⟨مہربانی⟩ ساڈے اُتے زور آیا، تے یاہوہ دی سچائی ہمیشہ لئی ⟨قیام رکھدی اے⟩ — تعریف کرو یاہ نوں!",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "47d4805870e6a00f81db254929adb0d5d2f04abccace4400a4033b5496848f39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/117\/1-2.1792113761230.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "زور آیا"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ساڈے اُتے"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "خیسِد ⟨مہربانی⟩"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "تے سچائی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشہ لئی"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "تعریف کرو"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاہ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:22:41.230919103Z",
+  "model": "glm-5.3"
+}

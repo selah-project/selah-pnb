@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 2:2",
+  "book": "2-chronicles",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨پیغام⟩",
+      "rationale": "عبرانی صرف ‘بھیجیا’ آکھدا اے؛ پنجابی جملہ منگدا اے کیہ بھیجیا۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "כאשר…ותשלח",
+      "rationale": "کجھ ترجمے ایہنوں بھروس گلا ‘جیویں… ایویں’ بندے نیں (کے جے حُورام شلومو نال ویویں کرے)، دوجے سادہ ماضی دسیاں نیں۔"
+    }
+  ],
+  "translation": "تے شلومو نے صُور دے بادشاہ حُورام کول ⟨پیغام⟩ بھیجیا، آکھ کے: “جیویں تُسیں میرے پیو داوِد نال کیتا، تے اوہنوں ارزاں دی لکڑی بھیجیں تاں جو اوہدے لئی اِک گھر بنایا جاوے جیہدے وِچ اوہ بیٹھے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "33b59f29e34947e154aca152ed16c330b1a62d7eada842dedc9c7f067b303845",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/2\/1-4.1792121794221.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "تے بھیجیا"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو نے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "حُورام"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "صُور"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ کے"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "کیتا"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "میرے پیو"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "تے بھیجیا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہنوں"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "ارزاں دی لکڑی"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "بنان لئی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدے لئی"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "بیٹھن لئی"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوہدے وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T03:36:34.222123115Z",
+  "model": "glm-5.3"
+}

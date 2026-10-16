@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "lamentations 3:62",
+  "book": "lamentations",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "میرے اُٹھن والیاں دے",
+      "rationale": "עלי توں پہلاں عبرانی وِچ صفت مفعول نئیں، پنجابی نوں پتہ چاہیدا سی"
+    },
+    {
+      "kind": "crux",
+      "subject": "הגיונם",
+      "rationale": "हazio 'سرگوشی\/سوچ' بنیاں — کجھ ترجمے 'دَاؤ'، کجھ 'وسواس' کردے نیں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שפתי קמי",
+      "rationale": "ہونٹھ تے اُٹھن والے — شعر دی تِکرار، پنجابی وِچ کنارے دا سواد گھٹ ہندا اے"
+    }
+  ],
+  "translation": "میرے اُٹھن والیاں دے بول، تے اوہناں دا سرگوشی-سر سوچݨ، میرے اُتے سارا دِن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "71845a8ee47625ddf7d7bc2a96f7fcbfe3a2a3ac838205cf648a7d76b0e0f83e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/lamentations\/3\/62-63.1792124303099.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "بول"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "میرے اُٹھن والیاں دے"
+    },
+    {
+      "surface": "והגיונם",
+      "gloss": "تے اوہناں دا سرگوشی-سر سوچݨ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "میرے اُتے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "دِن"
+    }
+  ],
+  "timestamp": "2026-10-16T04:18:23.099815202Z",
+  "model": "glm-5.3"
+}

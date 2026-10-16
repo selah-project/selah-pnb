@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 6:12",
+  "book": "esther",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "נדחף",
+      "rationale": "نِدچَف — تنخ وِچ صرف ایتھے، اِکو واری؛ 'دھکّا کھاندا ہویا' دی سِدھی تصویر رکھی"
+    },
+    {
+      "kind": "substitution",
+      "subject": "سوگ مناؤندا",
+      "rationale": "אבל 'ماتم کریندا\/ݙکھی' — بھاویں 'سوگ' نیڑے اے، عبرانی فعل حال دی صورت اے"
+    }
+  ],
+  "translation": "تے مَردخای بادشاہ دے دروازے ول مُڑ آیا، تے ہامان دھکّا کھاندا ہویا اپنے گھر نوں گیا، سوگ مناؤندا تے سر ڈھک کے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2050c8d20d859b5e84de34a49c58f0d09de035ca7213e16a7bb25dfb992bb742",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/esther\/6\/11-12.1792124394065.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "تے مُڑ آیا"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "مَردخای"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ول"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دروازے"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ دے"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "تے ہامان"
+    },
+    {
+      "surface": "נדחף",
+      "gloss": "دھکّا کھاندا ہویا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "اپنے گھر"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "سوگ مناؤندا"
+    },
+    {
+      "surface": "וחפוי",
+      "gloss": "تے ڈھک کے"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سر"
+    }
+  ],
+  "timestamp": "2026-10-16T04:19:54.066679090Z",
+  "model": "glm-5.3"
+}

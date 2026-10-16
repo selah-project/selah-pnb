@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "رہا",
+      "rationale": "عبرانی وِچ کوئی کارک نئیں، وِچھوہ مُدت دسدا اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "سَت مہینے",
+      "rationale": "مُدت دا گننا — صندوق دی پلشتیم وِچ مُدت"
+    }
+  ],
+  "translation": "تے یاہوہ دا صندوق پلشتیم ⟨دے لوکاں⟩ دے کھیت وِچ سَت مہینے رہا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "53cb481dcbf63fcb3767efb73f11797f92619438c26a078ee4494b40951fe386",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/6\/1-4.1792102319816.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے ہویا"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دا"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "کھیت وِچ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "پلشتیم دے"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "سَت"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "مہینے"
+    }
+  ],
+  "timestamp": "2026-10-15T22:11:59.817132343Z",
+  "model": "glm-5.3"
+}

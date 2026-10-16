@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 15:1",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "کون تیرے خیمے وِچ ٹکے",
+      "rationale": "آیت پچھن والے سوال نال سنوݨ والے نوں سدّیندی اے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ٹکے",
+      "rationale": "יגור دا م_Moduleہ اے رستے توں ہٹ کے پناہ لینا، یاتری وانگ ٹکنا — 'وسے' שכן دا مستقل وسنا اے، دوویں وکھرے رہنا چاہیدے نیں۔"
+    }
+  ],
+  "translation": "مزمور، داوِد دا۔ یاہوہ، کون تیرے خیمے وِچ ٹکے؟ کون تیرے پاک پہاڑ اُتے وسے؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7bd07a927db12a3c9f3ba9985d72ca75203c33e4e56e90f4e39c2c8eb5ed67a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/15\/1-4.1792111999254.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد دا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "ٹکے"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "تیرے خیمے وِچ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "وسے"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "پہاڑ اُتے"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "تیرے پاک"
+    }
+  ],
+  "timestamp": "2026-10-16T00:53:19.254645259Z",
+  "model": "glm-5.3"
+}

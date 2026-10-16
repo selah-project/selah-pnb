@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 11:45",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קדשים \/ קדוש",
+      "rationale": "پاک … پاک — اوہو جڑ دونواں تھانواں تے، پنجابی وِچ وی دُہرایا گیا"
+    },
+    {
+      "kind": "addition",
+      "subject": "آں",
+      "rationale": "عبرانی وِچ 'اِی میں' نال کوئی فعل نئیں، پنجابی نے 'آں' منگیا"
+    }
+  ],
+  "translation": "کیوں جو اِی میں یاہوہ آں، جیہڑا ⟨את⟩ تُہانوں مِتصرایم دی دھرتی توں چُکّھیا لیاندا آں، تاں جو اِی تُہاڈے لئی ایلوہیم بنے؛ تے تُسیں پاک رہو، کیوں جو اِی میں پاک آں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "46e8fb1634a38370d5860948c5e6a0e38c93cae41d578ca6c6dcd58e1901c07c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/11\/45-47.1792097542427.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אני",
+      "gloss": "اِی میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "המעלה",
+      "gloss": "چُکّھیا لیاندا"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ تُہانوں",
+      "marks": "تُسیں"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "دھرتی توں"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم دی"
+    },
+    {
+      "surface": "להית",
+      "gloss": "بنے"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُہاڈے لئی"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "تے تُسیں رہو"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "אני",
+      "gloss": "اِی میں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:52:22.428472877Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 40:38",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "مسکن",
+      "rationale": "משכן عبرانی آواز وِچ لفافہ-نقل، ڈیرے دی تھاں — D2 دی میز مطابق"
+    },
+    {
+      "kind": "crux",
+      "subject": "בו",
+      "rationale": "'اُس وِچ' — بدل وِچ اگّ (KJV\/BSB) بمقابلہ مسکن وِچ (گینیوا)"
+    }
+  ],
+  "translation": "کیونکہ یاہوہ دا بدل دن ویلے مسکن اُتے ہوندا، تے رات ویلے اُس وِچ اگّ ہوندی، سارے یِسرائیل دے گھر دِیاں اکھاں اگے، اپنے سارے پنڈیاں وِچ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "971eb927d76f0771d652adbe0c5b5540bb2959252e955d25b5a7f67b9b6a0580",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/40\/37-38.1792097307927.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "بدل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مسکن"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "دن ویلے"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "تے اگّ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ہوندی"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "رات ویلے"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اُس وِچ"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "اکھاں اگے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "מסעיהם",
+      "gloss": "پنڈیاں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:48:27.928082920Z",
+  "model": "glm-5.3"
+}

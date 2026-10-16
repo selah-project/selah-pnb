@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 5:4",
+  "book": "song-of-songs",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "میرا اَندر",
+      "rationale": "ומעی لفظی طور تے 'میرے اَندریوے\/گُد' (intestines) اے؛ بہت سارے مترجم 'دل' کر دیندے نیں"
+    },
+    {
+      "kind": "crux",
+      "subject": "החר",
+      "rationale": "عبرانی صرف 'سُراخ' آکھدا اے؛ ریتیاں نیں 'دروازے دا سُراخ' جوڑیا اے، متن وِچ دروازہ نئیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ترپھایا",
+      "rationale": "המו شکل بگاڑدی گونج اے — گونجنا\/ہلنا؛ 'ترپھایا' اوہدے سبھ توں نیڑے اے"
+    }
+  ],
+  "translation": "میرے محبوب نے اپنا ہتھ سُراخ توں وڈھیا، تے میرا اَندر اوہدے اُتے ترپھایا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6245c91614d8e63421535f4c25092c415dc0cf2afcafa6f04b1ac40c30b1de99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/song-of-songs\/5\/1-4.1792116748939.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "میرے محبوب نے"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "وڈھیا"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "اپنا ہتھ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "החר",
+      "gloss": "سُراخ"
+    },
+    {
+      "surface": "ומעי",
+      "gloss": "تے میرا اَندر"
+    },
+    {
+      "surface": "המו",
+      "gloss": "ترپھایا"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اوہدے اُتے"
+    }
+  ],
+  "timestamp": "2026-10-16T02:12:28.941394952Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 37:10",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "تنگ ہو جاندی اے",
+      "rationale": "במוצק لفظی 'تنگی وِچ' اے — 'جم جاندا اے' بمقابلہ 'تنگ ہونا' پرانے مترجماں دا اختلاف اے۔"
+    }
+  ],
+  "translation": "ایل دے ساہ توں برف دتی جاندی اے، تے پانیاں دی چوڑائی تنگ ہو جاندی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "69b2eae1e74b0dffd42470f4e627f0e6c67bbe4b41b3a164ae80823d517a4346",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/37\/9-12.1792116375336.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מנשמת",
+      "gloss": "ساھ توں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دتی جاندی اے"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "برف"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "تے چوڑائی"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پانیاں دی"
+    },
+    {
+      "surface": "במוצק",
+      "gloss": "تنگی وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T02:06:15.337408279Z",
+  "model": "glm-5.3"
+}

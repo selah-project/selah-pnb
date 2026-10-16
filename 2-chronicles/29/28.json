@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 29:28",
+  "book": "2-chronicles",
+  "lang": "pnb",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "کجھ",
+      "rationale": "ہמ不加 'سارا کجھ' پورا جملہ بناؤن لئی؛ عبرانی وِچ ہم 'הכל' دا مطلب 'سارا ⟨کم⟩' اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "והחצצרות מחצצרים",
+      "rationale": "کتیو\/قرائت: عبرانی وِچ لفظ دو واری (ناقص مکمل صورت وِچ) آیا اے؛ ترجمے وِچ اِک واری رکھیا گیا"
+    }
+  ],
+  "translation": "تے سارا مجمع سجددا پیا سی، تے گیت گایا جاندا پیا سی، تے ترمباں وجدیاں پیاں سن — سارا ⟨کجھ⟩ جدوں تک سوختہ قربانی مک نہ ہو گئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "83f297915109c9a3c5a545ee5883ce5a5109590f9227aa3bd65d7ebfe21de72b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/29\/25-28.1792122809650.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "تے سارا"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "مجمع"
+    },
+    {
+      "surface": "משתחוים",
+      "gloss": "سجددا پیا سی"
+    },
+    {
+      "surface": "והשיר",
+      "gloss": "تے گیت"
+    },
+    {
+      "surface": "משורר",
+      "gloss": "گایا جاندا پیا سی"
+    },
+    {
+      "surface": "והחצצרות",
+      "gloss": "تے ترمباں"
+    },
+    {
+      "surface": "מחצצרים",
+      "gloss": "وجدیاں پیاں سن"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "جدوں تک"
+    },
+    {
+      "surface": "לכלות",
+      "gloss": "مک ہون تک"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "سوختہ قربانی"
+    }
+  ],
+  "timestamp": "2026-10-16T03:53:29.651626618Z",
+  "model": "glm-5.3"
+}

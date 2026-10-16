@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 12:8",
+  "book": "hosea",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כנען",
+      "rationale": "لفظی 'کنعان' — ایہہ تھاں دا ناں اے پر 'سوداگر\/بیوپاری' دا مطلب وی سی؛ کجھ 'سوداگر' کردے نیں، کجھ 'کنعانی'۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "نیں",
+      "rationale": "عبرانی وِچ کوئی کریا نئیں؛ 'نیں' پنجابی جملے لئی پایا گیا۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דבר\/עשק",
+      "rationale": "آیت 5 دے 'گل کرن' (דבר) دے مگروں آیت 8 دا 'دھوکھے دا بیوپار' — بھاویں اِکو بندہ دوناں کر رہیا اے، طنز اے۔"
+    }
+  ],
+  "translation": "کنعان — اوہدے ہتھ وِچ دھوکھے دے ترازُو نیں، لُٹن نوں اوہ پیار کردا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "298093ac566ff5b31945d7720608d7ca5db7a9700343f66a0023643e94079254",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/hosea\/12\/5-8.1792110597734.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כנען",
+      "gloss": "کنعان ⟨سوداگر⟩"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "اوہدے ہتھ وِچ"
+    },
+    {
+      "surface": "מאזני",
+      "gloss": "ترازُو (دُہرے)"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "دھوکھے دے"
+    },
+    {
+      "surface": "לעשק",
+      "gloss": "لُٹن نوں"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "پیار کردا اے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:29:57.735011617Z",
+  "model": "glm-5.3"
+}

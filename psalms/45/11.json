@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 45:11",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "دھیے نوں",
+      "rationale": "حکمی فعل نال سدّا — سن، ویکھ، جھکا، بھُل جا۔"
+    },
+    {
+      "kind": "you",
+      "subject": "دُلہن نوں",
+      "rationale": "ملکہ نوں سِدھی خطاب اے۔"
+    }
+  ],
+  "translation": "سن، اے دھیے، تے ویکھ، تے اپنا کَن جھکا؛ تے اپنی قوم نوں تے اپنے پیو دے گھر نوں بھُل جا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "15bd46efc475de8ce0b91834e51b08724dc0458c8621ee8945062f58d2a616a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/45\/9-12.1792112535140.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "سن"
+    },
+    {
+      "surface": "בת",
+      "gloss": "اے دھیے"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "تے ویکھ"
+    },
+    {
+      "surface": "והטי",
+      "gloss": "تے جھکا"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "اپنا کَن"
+    },
+    {
+      "surface": "ושכחי",
+      "gloss": "تے بھُل جا"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "اپنی قوم نوں"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "تے گھر نوں"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "اپنے پیو دے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:02:15.141725458Z",
+  "model": "glm-5.3"
+}

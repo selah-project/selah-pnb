@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 13:5",
+  "book": "zechariah",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הקנני",
+      "rationale": "کِسے بندے نے 'خرید لیا' (ASV\/JPS غلام بنایا) بمقابلہ 'زمین میری جائیداد اے' (YL) — مطلب ای 'ملی' یا 'ملازم رکھیا'۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "واہن والا",
+      "rationale": "עבד אדמہ سُچا 'زمین دا کم کرن والا' — پنجابی وِچ 'واہن والا' دھرتی دی صورت رکھدا اے۔"
+    }
+  ],
+  "translation": "تے اوہ آکھیگا: میں نبی نئیں آں، میں اِک زمین نوں واہن والا بندہ آں، کیوں جو اِک بندے نے مینوں میرے نِکےپن توں ‹جیہڑا مل گیا› ہی livelihood لئی خرید لیا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5f6344f5284f3836e174fddcc56e802f23c2b1ce35aa0c761610ce0c9ed88c5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/zechariah\/13\/5-8.1792111656859.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "تے اوہ آکھیگا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "نبی"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "واہن والا"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "הקנני",
+      "gloss": "نے مینوں خرید لیا"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "میرے نِکےپن توں"
+    }
+  ],
+  "timestamp": "2026-10-16T00:47:36.860311152Z",
+  "model": "glm-5.3"
+}

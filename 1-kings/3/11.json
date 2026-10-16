@@ -1,0 +1,148 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 3:11",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש اصل وِچ ساہ\/جیون-بل اے، 'جان' نیڑے دا پنجابی لفظ اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שאל",
+      "rationale": "אשר-شאל دی آواز میل تے 'منگن' دا پنج واری دہراؤ — عبرانی وزن جو پنجابی وِچ کجھ رکھیا گیا"
+    },
+    {
+      "kind": "you",
+      "subject": "شلوموہ",
+      "rationale": "ایلوہیم شلوموہ نوں سدھی گل آکھدا اے"
+    }
+  ],
+  "translation": "تے ایلوہیم نے اوہدے توں آکھیا: چونکہ تُوں نے ⟨את⟩ ایہہ گل منگی، تے اپنے لئی کئی دِن نئیں منگے، تے اپنے لئی دَولت نئیں منگی، تے اپنے ویریاں دی جان نئیں منگی، سگوں اپنے لئی فیصلہ سنن تے سمجھن لئی منگی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "716fdfe4e3a8de23d4c6fd9c1c7c6d5c404b41564ce30d72666eaea24064779e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/3\/9-12.1792103996429.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم نے"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اوہدے توں"
+    },
+    {
+      "surface": "יען",
+      "gloss": "چونکہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "تُوں نے منگی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایہہ گل"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ایہہ گل"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "منگی"
+    },
+    {
+      "surface": "לך",
+      "gloss": "اپنے لئی"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دِن"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "کئی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "منگی"
+    },
+    {
+      "surface": "לך",
+      "gloss": "اپنے لئی"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دَولت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "منگی"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "تیرے ویریاں دی"
+    },
+    {
+      "surface": "ושאלת",
+      "gloss": "سگوں منگی"
+    },
+    {
+      "surface": "לך",
+      "gloss": "اپنے لئی"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "سمجھ"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "سنن لئی"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "فیصلہ"
+    }
+  ],
+  "timestamp": "2026-10-15T22:39:56.430198002Z",
+  "model": "glm-5.3"
+}

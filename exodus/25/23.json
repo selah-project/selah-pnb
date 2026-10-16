@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 25:23",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "میز دے ناپ",
+      "rationale": "لمبائ، چوڑائ تے اُچائ ہتھاں وِچ ناپے گئے نیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ہتھ",
+      "rationale": "אמה اُرھ توں کُہنیے تک دا ناپ اے — 'ہتھ' اوہدے نیڑے ترین پنجابی پکڑ اے"
+    }
+  ],
+  "translation": "تے توں شیطیم دی لکڑی دا میز بنائیں — دو ہتھ ⟨اُرھ دے ناپ⟩ اوہدا لمبائ، اِک ہتھ اوہدی چوڑائ، تے اِک ہتھ اَدھا اوہدی اُچائ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8f3da9a96ded92aff1e44a51f99980d11128af44174d87290a1ce7edbc9ce615",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/25\/21-24.1792096842177.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "تے توں بنائیں"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "میز"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "لکڑی دا"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "شیطیم"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "دو ہتھ"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "اوہدا لمبائ"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "اِک ہتھ"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "اوہدی چوڑائ"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "اِک ہتھ"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "تے اَدھا"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "اوہدی اُچائ"
+    }
+  ],
+  "timestamp": "2026-10-15T20:40:42.178707024Z",
+  "model": "glm-5.3"
+}

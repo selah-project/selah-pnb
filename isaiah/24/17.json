@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 24:17",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פחד\/פחת\/פח",
+      "rationale": "تِن مِترس ناں — ڈر، گڑھا، جال — اکو א-پח آواز نال، ایہ دہراؤ پنجابی وِچ نئیں رہ سکدا"
+    },
+    {
+      "kind": "you",
+      "subject": "دھرتی دا واسی",
+      "rationale": "سدیاں مخاطب — اسرائیل نئیں، ساری دھرتی دا واسی"
+    }
+  ],
+  "translation": "ڈر، تے گڑھا، تے جال تیرے اُتے اے، اے دھرتی دے واسی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "02ac9cb9b7255fc3aeafc4bedfb0a513ed5d7fef824382e6112819c26fcd98f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/24\/17-20.1792106292346.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "ڈر"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "تے گڑھا"
+    },
+    {
+      "surface": "ופח",
+      "gloss": "تے جال"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تیرے اُتے"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "واسی"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "دھرتی دے"
+    }
+  ],
+  "timestamp": "2026-10-15T23:18:12.347357653Z",
+  "model": "glm-5.3"
+}

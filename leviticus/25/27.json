@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 25:27",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩",
+      "rationale": "עבריفعل ושב دا فاعل، عبرانی وِچ پہلے وارے توں پتہ اے، پنجابی وِچ لوڑیا"
+    },
+    {
+      "kind": "measurement",
+      "subject": "حساب",
+      "rationale": "بیچ دے سالاں دی گنتی — رقم واپسی دا حساب"
+    }
+  ],
+  "translation": "تاں اوہ ⟨את⟩ بیچ دے سالاں دا حساب لاوے، تے اوہدے بندے نوں جیہنوں اوہنے ⟨את⟩ بیچیا سی، باقی دے بدلے واپس کرے، تے ⟨اوہ⟩ مُڑ اپنی جائیداد وَل آوے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6255a878fe936b1a2ecc6752eaeb1391a920960e8380fe14f3afbc7c9966008b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/25\/25-28.1792098125448.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחשב",
+      "gloss": "تاں حساب لاوے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بیچ دے سال"
+    },
+    {
+      "surface": "שני",
+      "gloss": "سالاں"
+    },
+    {
+      "surface": "ממכרו",
+      "gloss": "اوہدے بیچ دے"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "تے واپس کرے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "باقی"
+    },
+    {
+      "surface": "העדף",
+      "gloss": "باقی"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "بندے نوں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہنوں"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "بیچیا سی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہنوں"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "تے مُڑ آوے"
+    },
+    {
+      "surface": "לאחזתו",
+      "gloss": "اپنی جائیداد وَل"
+    }
+  ],
+  "timestamp": "2026-10-15T21:02:05.449149158Z",
+  "model": "glm-5.3"
+}

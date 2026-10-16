@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 9:1",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اپنا\/اپنے",
+      "rationale": "عبرانی وِچ ودھیا ہوی اسم اشارہ اے، پنجابی اسم لئی لوڑیند اے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "חכמות",
+      "rationale": "بعض مفسر جمع سمجھدے نیں ('حکمتاں')، پر واحد مونث دا رواج ترجمہ اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ستون",
+      "rationale": "ستوناں دی گنتی — ست، پوری\/مقدس گنتی"
+    }
+  ],
+  "translation": "حکمت نے اپنا گھر بنایا، اوہنے اپنے ستون تراشے — ست ⟨ہن⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2381893b98fd6be50dd58ce2817bdce99a32304759f48ab4b4543d752224f921",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/9\/1-4.1792114569466.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "بنایا"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "اپنا گھر"
+    },
+    {
+      "surface": "חצבה",
+      "gloss": "تراشے"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "اپنے ستون"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ست"
+    }
+  ],
+  "timestamp": "2026-10-16T01:36:09.467409417Z",
+  "model": "glm-5.3"
+}

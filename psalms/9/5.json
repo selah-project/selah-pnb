@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 9:5",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "مکمل فعل لئی پنجابی وچ معاون فعل درکار اے، عبرانی وِچ نئیں"
+    }
+  ],
+  "translation": "کیوں جو تُوں نے میرا فیصلہ تے میرا مقدمہ کیتا اے، تُوں تخت اتے بیٹھیا ایں، انصاف دا عدالت کرن والا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "974f917c30c54269f00818dc932492fe7ef12b611bfdb0a0e63d7d7aeb0e2fca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/9\/5-8.1792111924684.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "تُوں نے کیتا اے"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "میرا فیصلہ"
+    },
+    {
+      "surface": "ודיני",
+      "gloss": "تے میرا مقدمہ"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "تُوں بیٹھیا ایں"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "تخت اتے"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "عدالت کرن والا"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "انصاف دا"
+    }
+  ],
+  "timestamp": "2026-10-16T00:52:04.685392247Z",
+  "model": "glm-5.3"
+}

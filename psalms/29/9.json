@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 29:9",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אילות",
+      "rationale": "'ماد ہرنیاں' (عبرانی אַיָּלוֹת) بمقابلہ 'بَلوت\/جُھنڈ' (אֵילוֹת) — KJV 'hinds to calve'، YLT 'oaks'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יחולל\/אילות",
+      "rationale": "חולל (بل کھوہنا) تے אַיָּלוֹת (ہرنیاں) وِچ آواز دی تال، پنجابی وِچ ہار گئی"
+    },
+    {
+      "kind": "hapax",
+      "subject": "כלו אמר כבוד",
+      "rationale": "'سب کہندے: جلال' — ایہ دعا وجہی اُچارن اے، مزامیر دی عبادت وِچ پرچلت"
+    }
+  ],
+  "translation": "یاہوہ دی آواز ماد ہرنیاں نوں بل کھوہندی اے، تے جنگلاں نوں ننگا کردی اے؛ تے اوہدے ہییکل وِچ سب آکھدے: جلال۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "72de4c19d358056f472487a268c5baea71f324be6f164b6e97c70f23a6a4f309",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/29\/9-11.1792112130765.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "יחולל",
+      "gloss": "بل کھوہندی اے"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "ماد ہرنیاں"
+    },
+    {
+      "surface": "ויחשף",
+      "gloss": "تے ننگا کردی اے"
+    },
+    {
+      "surface": "יערות",
+      "gloss": "جنگلاں نوں"
+    },
+    {
+      "surface": "ובהיכלו",
+      "gloss": "تے اوہدے ہییکل وِچ"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "سب"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھدے"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    }
+  ],
+  "timestamp": "2026-10-16T00:55:30.766096319Z",
+  "model": "glm-5.3"
+}

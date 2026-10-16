@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 31:15",
+  "book": "2-chronicles",
+  "lang": "pnb",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ועל ידו",
+      "rationale": "لفظی 'اوہدے ہتھ اُتے' — اختیار دے تحت، 'ہتھوں تھلے' ورگی پنجابی ریت"
+    },
+    {
+      "kind": "addition",
+      "subject": "برابر",
+      "rationale": "'جِدّاں وڈا تِدّاں چھوٹا' دا پنجابی جوڑ، عبرانی دی 'کَ' ساخت دا کھلار"
+    }
+  ],
+  "translation": "تے اوہدے ہتھوں تھلے عدن، تے مِنیامین، تے یِشوع، تے شِمعیاہو، امریاہو تے شکنیاہو، کاہناں دے شہراں وِچ، ایمان نال دین لئی اوہناں بھراواں نوں، ونڈاں وِچ، وڈے نوں تے چھوٹے نوں ⟨برابر⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3d5314f8d142823fa78c3d9158d114b5d35019be2cc2c2c086e51f4c46608446",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/31\/13-16.1792122914755.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "اوہدے ہتھوں تھلے"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "عدن"
+    },
+    {
+      "surface": "ומנימן",
+      "gloss": "تے مِنیامین"
+    },
+    {
+      "surface": "וישוע",
+      "gloss": "تے یِشوع"
+    },
+    {
+      "surface": "ושמעיהו",
+      "gloss": "تے شِمعیاہو"
+    },
+    {
+      "surface": "אמריהו",
+      "gloss": "امریاہو"
+    },
+    {
+      "surface": "ושכניהו",
+      "gloss": "تے شکنیاہو"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "شہراں وِچ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاہناں دے"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "ایمان نال"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "دین لئی"
+    },
+    {
+      "surface": "לאחיהם",
+      "gloss": "اوہناں بھراواں نوں"
+    },
+    {
+      "surface": "במחלקות",
+      "gloss": "ونڈاں وِچ"
+    },
+    {
+      "surface": "כגדול",
+      "gloss": "وڈے نوں"
+    },
+    {
+      "surface": "כקטן",
+      "gloss": "چھوٹے نوں"
+    }
+  ],
+  "timestamp": "2026-10-16T03:55:14.756576628Z",
+  "model": "glm-5.3"
+}

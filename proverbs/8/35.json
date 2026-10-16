@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "proverbs 8:35",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מצאי ... מצאי",
+      "rationale": "اِکو فعل دو واری — 'لَبّھدا اے ... لَبّھ لَیندا اے' نال تشبیہ قائم رکھی گئی اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "حاصل کردا اے",
+      "rationale": "ויפק مول 'باہر کڈھنا\/پیدا کرنا' اے — 'حاصل کرنا' سوکھا پر مول تصویر گھٹاؤندا اے"
+    }
+  ],
+  "translation": "کیونکہ جیہڑا مینوں لَبّھدا اے، اوہ جِیون لَبّھ لَیندا اے، تے یاہوہ توں رَضا حاصل کردا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8cc56c21299aba6ea5c86e45f113c42bf0fce5c2d6d534b0979a02b4ae1051a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/8\/33-36.1792114510571.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "מצאי",
+      "gloss": "مینوں لَبّھدا اے"
+    },
+    {
+      "surface": "מצאי",
+      "gloss": "لَبّھ لَیندا اے"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "جِیون"
+    },
+    {
+      "surface": "ויפק",
+      "gloss": "تے حاصل کردا اے"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "رضا"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "یاہوہ توں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:35:10.572217403Z",
+  "model": "glm-5.3"
+}

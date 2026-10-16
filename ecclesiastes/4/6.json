@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נחת",
+      "rationale": "'چپ\/آرام' (یہود发布جے، ASV) بمقابلہ 'دولت' (LXX، یلت دا 'قناعت')"
+    },
+    {
+      "kind": "idiom",
+      "subject": "רעות רוח",
+      "rationale": "لفظی 'روح نوں چراندا' = ہوا دا پیچھا کرنا؛ ادھورا کم دا محاورہ"
+    },
+    {
+      "kind": "addition",
+      "subject": "چنگی اے",
+      "rationale": "عبرانی وِچ فعل کوئی نئیں؛ موازنہ والی گلاں پنجابی فعل منگدی اے"
+    }
+  ],
+  "translation": "چپ دی بھری ہوئی اِک ہتھیلی چنگی اے، دو بھریاں ہوئیاں مُٹھاں توں — محنت تے ہوا دا پیچھا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "41e3a196145a68c09ccc0a255909c14ac6c33e4e140d40852bd667d3efda73d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ecclesiastes\/4\/5-8.1792117480421.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چنگی اے"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "بھری ہوئی"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ہتھیلی"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "چپ"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "توں بھریاں ہوئیاں"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "مُٹھاں"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "محنت"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "تے پیچھا"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ہوا"
+    }
+  ],
+  "timestamp": "2026-10-16T02:24:40.421868259Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 7:4",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אף",
+      "rationale": "مول 'نَک\/ساہ' اے — غصے دی عبرانی مورت، اتھے 'غصہ' بنیا۔"
+    },
+    {
+      "kind": "you",
+      "subject": "اسرائیل",
+      "rationale": "آیت اکو وار اکووادِق (توں) توں جمع (تسیں) ول مڑدی اے — موسیٰ دی آواز۔"
+    }
+  ],
+  "translation": "کیوں جو اوہ ⟨את⟩ تیرے پتر نوں میرے پچھوں ہٹا دیوےگا، تے اوہ ہور ایلوہیم دی عبادت کرن گے، تے یاہوہ دا غصہ تہاڈے اُتے بھڑکیگا تے اوہ تینوں تیزی نال مِٹا دیویگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bc559034d95778083e1bd5bd32de9d8e80805bcf769d2883a9df3f95b1bbf930",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/7\/1-4.1792099729014.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "ہٹا دیوےگا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تیرے پتر نوں"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "تیرے پتر"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "میرے پچھوں"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "تے عبادت کرن گے"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ہور"
+    },
+    {
+      "surface": "וחרה",
+      "gloss": "تے بھڑکیگا"
+    },
+    {
+      "surface": "אף",
+      "gloss": "غصہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دا"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "تہاڈے اُتے"
+    },
+    {
+      "surface": "והשמידך",
+      "gloss": "تے مِٹا دیویگا تینوں"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "تیزی نال"
+    }
+  ],
+  "timestamp": "2026-10-15T21:28:49.015697767Z",
+  "model": "glm-5.3"
+}

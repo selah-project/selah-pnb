@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 13:3",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דרשנהו",
+      "rationale": "‘اوہدوں نئیں پُچھیا’ — کجھ ترجمے ‘اوہدے ول نئیں پُچھیا’ تے کجھ ‘اوہدوں دراست نئیں کیتی’ لکھدے نیں"
+    }
+  ],
+  "translation": "تے اسیں پھیر لیائیے ⟨את⟩ ساڈے ایلوہیم دے صندوق نوں ساڈے کول، کیونجے اسیں شاؤُل دے دناں وِچ اوہدوں نئیں پُچھیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c2a1b7775a336ba58f5b676ca774ed0a4ce679d730e034fa3289187b95ad6a4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/13\/1-4.1792120893768.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונסבה",
+      "gloss": "تے اسیں پھیر لیائیے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ساڈے ایلوہیم دا صندوق"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ساڈے ایلوہیم"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ساڈے کول"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "پُچھیا"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "دناں وِچ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤُل"
+    }
+  ],
+  "timestamp": "2026-10-16T03:21:33.769807065Z",
+  "model": "glm-5.3"
+}

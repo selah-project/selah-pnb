@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "1-samuel 17:58",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨میں⟩ ⟨آں⟩",
+      "rationale": "داوِد دا جواب عبرانی وِچ copula تے ضمیر توں بِنا اے — ‘پُتر تیرے غلام یِشای بیت-لحمی دا’"
+    },
+    {
+      "kind": "you",
+      "subject": "to David",
+      "rationale": "شاؤل دا سِدھا سوال داوِد نوں: ‘تُوں کِدے دا پُتر ایں؟’"
+    },
+    {
+      "kind": "measurement",
+      "subject": "family lineage",
+      "rationale": "نسَب دا قائم کرنا — بادشاہ دلاور دے پیو دا ناں منگدا اے"
+    }
+  ],
+  "translation": "تے شاؤل نے اوہدے نوں آکھیا: تُوں کِدے دا پُتر ⟨ایں⟩، نوجوان؟ تے داوِد نے آکھیا: ⟨میں⟩ تیرے غلام یِشای بیت-لحمی دا پُتر ⟨آں⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "26a397729d4ab302a1c3ed08867b1d6ac4734bc2b64cdde5e51d6311699b4e30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/17\/57-58.1792102650373.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اوہدے نوں"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کِدے"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُوں"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "نوجوان"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "تیرے غلام"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "یِشای"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "הלחמי",
+      "gloss": "لحمی"
+    }
+  ],
+  "timestamp": "2026-10-15T22:17:30.373921886Z",
+  "model": "glm-5.3"
+}

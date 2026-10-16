@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 18:40",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "کمر بنھنا",
+      "rationale": "אזר لفظی طور تے پٹی\/کمر بَنھنا اے — تیاری تے زور دی تصویر۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "توں",
+      "rationale": "عبرانی فعل دی شخص لئی پنجابی ضمیر جوڑی گئی۔"
+    }
+  ],
+  "translation": "تے توں مینوں جنگ لئی زور نال کمر بنھی اے؛ توں میرے اُٹھن والیاں نوں میرے ہیٹھ جھکا دتا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3592fb4a228b3904063d69dd3b8e8d0d462e7e6a2ba99387922a948eb95a95bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/18\/37-40.1792112030416.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאזרני",
+      "gloss": "تے توں مینوں کمر بنھی اے"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "زور نال"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "جنگ لئی"
+    },
+    {
+      "surface": "תכריע",
+      "gloss": "جھکا دتا اے"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "میرے اُٹھن والیاں نوں"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "میرے ہیٹھ"
+    }
+  ],
+  "timestamp": "2026-10-16T00:53:50.417573764Z",
+  "model": "glm-5.3"
+}

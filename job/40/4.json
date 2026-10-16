@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 40:4",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ہلکا",
+      "rationale": "קלتי دا پہلا مطلب 'ہلکا\/تھوڑا وزن والا' اے، 'گھٹیا\/ذلیل' پچھوں دا رنگ اے"
+    },
+    {
+      "kind": "you",
+      "subject": "یاہوہ",
+      "rationale": "ایوّو دا سِدھا یاہوہ نوں جواب، تُو پہلوں"
+    }
+  ],
+  "translation": "دیکھ، میں ہلکا آں؛ میں تینوں کیہ جواب دیواں؟ میں اپنا ہتھ اپنے مونہہ اُتے رکھ لیندے آں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0861b0336753d9d42fcd4fed95f86231a3761ee23ab492c70e05b2fe37917617",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/40\/1-4.1792116570736.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "دیکھ"
+    },
+    {
+      "surface": "קלתי",
+      "gloss": "میں ہلکا آں"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "تینوں جواب دیواں"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "اپنا ہتھ"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "رکھ لیندے آں"
+    },
+    {
+      "surface": "למו",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "פי",
+      "gloss": "اپنے مونہہ"
+    }
+  ],
+  "timestamp": "2026-10-16T02:09:30.737663360Z",
+  "model": "glm-5.3"
+}

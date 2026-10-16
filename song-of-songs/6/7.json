@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 6:7",
+  "book": "song-of-songs",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ماتھا",
+      "rationale": "רקה سچ مُچی 'کنپٹی\/سر دا پاسہ' اے، سارا ماتھا نئیں"
+    }
+  ],
+  "translation": "انار دا تکڑا ورگا اے تیرا ماتھا، تیرے پَردے دے پچھوں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "36292d4b89e0dfd1a4ec0aa458b5decbc7de40bf44a48e8138a18a5c9181c858",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/song-of-songs\/6\/5-8.1792116707745.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כפלח",
+      "gloss": "تکڑا ورگا"
+    },
+    {
+      "surface": "הרמון",
+      "gloss": "انار دا"
+    },
+    {
+      "surface": "רקתך",
+      "gloss": "تیرا ماتھا"
+    },
+    {
+      "surface": "מבעד",
+      "gloss": "پچھوں"
+    },
+    {
+      "surface": "לצמתך",
+      "gloss": "تیرے پَردے دے"
+    }
+  ],
+  "timestamp": "2026-10-16T02:11:47.746843989Z",
+  "model": "glm-5.3"
+}

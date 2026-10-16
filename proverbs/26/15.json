@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 26:15",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "چھاتی",
+      "rationale": "צלחت گوڑھا پیالا اے، 'چھاتی' صرف تفسیری معنی اے — پیالہ رکھیا اے۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "נלאה",
+      "rationale": "'اوہ تھک گیا' (یمعی) بمقابلہ 'اوہنوں اوکھا لگدا اے' — فعل پاسف جیہا اے۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "22:13 نال مثل",
+      "rationale": "ایہ مثل امسال 22:13 ورگی دہرائی اے — سُست دا پنجاب، سلسلے دی ترکیب۔"
+    }
+  ],
+  "translation": "سُست نے اپنا ہتھ پیالے وِچ لُکایا، اوہنوں اوہدوں اپنے مونہھ ول موڑن اوکھا لگدا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9303938cdea077702843c108027c0b092f80a992ef27443ebd0a0086bfd5a494",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/26\/13-16.1792115120201.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טמן",
+      "gloss": "لُکایا"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "سُست"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "اپنا ہتھ"
+    },
+    {
+      "surface": "בצלחת",
+      "gloss": "پیالے وِچ"
+    },
+    {
+      "surface": "נלאה",
+      "gloss": "اوکھا لگدا اے"
+    },
+    {
+      "surface": "להשיבה",
+      "gloss": "موڑن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ول"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "اپنے مونہھ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:45:20.202328181Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 3:14",
+  "book": "2-chronicles",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "כרובים",
+      "rationale": "'چاڑھے' (causative) دا مطلب اے کروباں نوں اُتے بننا\/چڑھنا — کجھ ترجمے 'بناؤن' آکھدے نیں۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תכלת",
+      "rationale": "نیلا گہرا نیلا رنگ، جو سمندی خول توں نکلدا سی۔"
+    }
+  ],
+  "translation": "تے اوہنے ⟨את⟩ پردہ بنایا — نیلا، ارغوانی، سرخ رنگ دا تے مہین سُٹ — تے اوہدے اُتے کروب چاڑھے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "197a17b7b4f6dfa549c9bf5d0ec78f6e5bda37efc77cecb52e4d1c6e0946c265",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/3\/13-16.1792121584594.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "تے اوہنے بنایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پردہ"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "پردہ"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "نیلا"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "ارغوانی"
+    },
+    {
+      "surface": "וכרמיל",
+      "gloss": "سرخ رنگ دا"
+    },
+    {
+      "surface": "ובוץ",
+      "gloss": "تے مہین سُٹ"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "تے چاڑھے"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اوہدے اُتے"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "کروب"
+    }
+  ],
+  "timestamp": "2026-10-16T03:33:04.595687368Z",
+  "model": "glm-5.3"
+}

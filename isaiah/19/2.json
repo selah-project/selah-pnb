@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 19:2",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מצרים במצרים",
+      "rationale": "مِتصرایم نال مِتصرایم — اندرونی لڑائی دی چیاستک ساخت"
+    }
+  ],
+  "translation": "تے اَلاہم مِتصرایم نوں مِتصرایم نال بھڑاواں گا، تے اوہ لڑن گے — بندہ اپنے بھرا نال، تے بندہ اپنے مِتر نال؛ شہر شہر نال، راج راج نال۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5010e7714df50176ee4659e1bf0f70245b8102ea7f0110541ad7f01c6d89ca1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/19\/1-4.1792106173054.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וסכסכתי",
+      "gloss": "تے بھڑاواں گا"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم نوں"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "مِتصرایم نال"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "تے لڑن گے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "اپنے بھرا نال"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "تے بندہ"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "اپنے مِتر نال"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "شہر نال"
+    },
+    {
+      "surface": "مמלכה",
+      "gloss": "راج"
+    },
+    {
+      "surface": "בממלכה",
+      "gloss": "راج نال"
+    }
+  ],
+  "timestamp": "2026-10-15T23:16:13.055701619Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 5:4",
+  "book": "esther",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "جے بادشاہ نوں چنگا لگے",
+      "rationale": "אם על המלך טוב دربار دی مہربان بول اے — سِدھا 'جے بادشاہ اُتے چنگا ہووے'"
+    },
+    {
+      "kind": "crux",
+      "subject": "اوہدے لئی",
+      "rationale": "לו اَکل ہے — بادشاہ لئی یا ہامان لئی؟ پراݨے ترجمے ونڈے ہوئے نیں"
+    }
+  ],
+  "translation": "تے ایستیر نے آکھیا: جے بادشاہ نوں چنگا لگے، بادشاہ تے ہامان اَج اَوے جو اوہ ضیافت ولّ جیہڑی میں اوہدے لئی کیتی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "29e3799c896a39bf457a45426151d139dc646025fc5f205c2ec57f6d40267335",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/esther\/5\/1-4.1792117931860.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ایستیر نے"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "על",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگا لگے"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "اَوے"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "تے ہامان"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اَج"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ولّ"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "ضیافت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "میں کیتی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدے لئی"
+    }
+  ],
+  "timestamp": "2026-10-16T02:32:11.861468071Z",
+  "model": "glm-5.3"
+}

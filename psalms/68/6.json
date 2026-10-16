@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ہے⟩",
+      "rationale": "عبرانی وِچ کوپلا نئیں، پنجابی جملے لئی رکھیا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "دین والا",
+      "rationale": "דין قاضی\/دفاعی دوناں ول سُجھاؤندا اے — لفظی 'دین کرن والا' رکھیا"
+    }
+  ],
+  "translation": "یتیماں دا پیو تے ودھواواں دا دین والا — ایلوہیم ⟨ہے⟩ اپنے پوتر ٹکانے وِچ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d0d34de8574f5ca09af12f3c917fe14629431bc70132e977351d89f717c99169",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/68\/5-8.1792112860161.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "پیو"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "یتیماں دا"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "تے دین والا"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "ودھواواں دا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "ٹکانے وِچ"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "اپنے پوتر"
+    }
+  ],
+  "timestamp": "2026-10-16T01:07:40.162440562Z",
+  "model": "glm-5.3"
+}

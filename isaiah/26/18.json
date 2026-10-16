@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 26:18",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יפלו",
+      "rationale": "کجھ ترجمے 'وسنیے نئیں ڈِگّے' (جنگ وِچ نئیں مارے گئے)، جپس 'جی اُٹھے' — حالانکہ فعل ن-پ-ل ڈِگّن ای اے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "רוח",
+      "rationale": "روح دا مطلب ایتھے 'ہوا' اے — جمیا کجھ نئیں، صرف ہوا۔"
+    },
+    {
+      "kind": "idiom",
+      "subject": "הרינו חלנו",
+      "rationale": "اکھی ہوون دا استعارہ قوم دی کوشش لئی، حرفي صورت رکھی گئی۔"
+    }
+  ],
+  "translation": "اسیں اَکھی ہوئے، اسیں کَرلائے اے، اَسیں جِویں ہوا جَمی اے؛ دھرتی وِچ مُکتاواں اسیں نئیں کیتیاں، تے تےبیل دے وسنیے نئیں ڈِگّھے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "606c279460d2fc9aba5e4280947b919581a273c7ad90da5c5454085569511dc8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/26\/17-20.1792106308929.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרינו",
+      "gloss": "اسیں اَکھی ہوئے"
+    },
+    {
+      "surface": "חלנו",
+      "gloss": "اسیں کَرلائے اے"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "جِویں"
+    },
+    {
+      "surface": "ילדנו",
+      "gloss": "اسیں جَمی اے"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ہوا"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "مُکتاواں"
+    },
+    {
+      "surface": "בל",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "کیتیاں"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "دھرتی وِچ"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ڈِگّھے"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "وسنیے"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "تےبیل دے"
+    }
+  ],
+  "timestamp": "2026-10-15T23:18:28.930460537Z",
+  "model": "glm-5.3"
+}

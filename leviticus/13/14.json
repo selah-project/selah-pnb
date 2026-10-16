@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 13:14",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "کچا ماس",
+      "rationale": "בשר חי دا پہلا مطلب 'جِیندا\/تازہ ماس' اے — 'کچا ماس' ریت دا ترجمہ اے۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "میلا ہونا",
+      "rationale": "طہارت-میلا دا کارروبار — دن دی گل کیتی گئی اے۔"
+    }
+  ],
+  "translation": "تے جس دن اوہدے وِچ کچا ماس وکھائی دیوے، اوہ میلہ ٹھہرسی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5ad1b29ac8e96399573dfb9b157c5675ed88159750ad6ea54d145a21e503c971",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/13\/13-16.1792097665539.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "تے جس دن"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "وکھائی دیوے"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوہدے وِچ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ماس"
+    },
+    {
+      "surface": "חי",
+      "gloss": "کچا"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "میلا ٹھہرسی"
+    }
+  ],
+  "timestamp": "2026-10-15T20:54:25.540863480Z",
+  "model": "glm-5.3"
+}

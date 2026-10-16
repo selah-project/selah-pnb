@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 16:10",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوہنے",
+      "rationale": "عبرانی فعل ויקרב تحت اللفظی 'اوہنے نیڑے لیاندا' — پنجابی فاعل منگدا اے"
+    },
+    {
+      "kind": "you",
+      "subject": "کورح نوں",
+      "rationale": "موShے دا سُدھا پرخھ سوال"
+    }
+  ],
+  "translation": "تے اوہنے ⟨את⟩ تینوں تے ⟨את⟩ تیرے سارے بھرا، لِوی دے پُتر، ⟨את⟩ تیرے نال اوہدے نیڑے لیاندا، تے تُسیں کاہنیواں دا عہدہ وی منگدے او؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "644dc5f635863d06b20d16c2529df2fad0b7fa1836c177984444bf8fc0fb836c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/16\/9-12.1792098718256.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "تے لیاندا"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ تینوں",
+      "marks": "تینوں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "تیرے سارے بھرا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "تیرے بھرا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لِوی"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ تیرے نال"
+    },
+    {
+      "surface": "ובקשתם",
+      "gloss": "تے تُسیں منگدے او"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "کاہنیواں دا عہدہ"
+    }
+  ],
+  "timestamp": "2026-10-15T21:11:58.257530553Z",
+  "model": "glm-5.3"
+}

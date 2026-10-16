@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 12:5",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בן מות",
+      "rationale": "عبرانی 'موت دا پُتر' — یعنی موت دا حقدار؛ 'یقین مرے گا' نئیں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אף\/ויחר",
+      "rationale": "'نک بھڑکیا' — عبرانی وِچ غصہ نک نال جُڑیا، پنجابی وِچ ایہو جوڑ 'غصہ بھڑکنا' نال رلدا اے"
+    }
+  ],
+  "translation": "تے داوِد دا غصہ اُس بندے اُتے بہت بھڑکیا، تے اوہنے ناتان نوں آکھیا: یاہوہ ⟨زندہ⟩ اے، جو بندہ ایہہ کم کردا اے اوہ موت دا پُتر اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bc8809d0aad713b5ee991d7ce3bdb701c9623abd502ef919ca22610f7858d513",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/12\/5-8.1792103392256.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "تے بھڑکیا"
+    },
+    {
+      "surface": "אף",
+      "gloss": "غصہ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "اُس بندے اُتے"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بہت"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "الے"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتان"
+    },
+    {
+      "surface": "חי",
+      "gloss": "جیوندا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت دا"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "اوہ بندہ"
+    },
+    {
+      "surface": "העשה",
+      "gloss": "کردا اے"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ایہہ"
+    }
+  ],
+  "timestamp": "2026-10-15T22:29:52.257401124Z",
+  "model": "glm-5.3"
+}

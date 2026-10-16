@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 2:6",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جیون-زور اے، صرف 'روح' نئیں — 'جان' سبھ توں نیڑے اے"
+    }
+  ],
+  "translation": "تے یاہوہ نے سطان نوں آکھیا: ویکھ، اوہ تیرے ہتھ وِچ اے؛ صرف ⟨את⟩ اوہدی جان دی رکھوالی کر ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "dcc2ad8e5586abc31c88729202a96bda0340f7952bb1329573ea994d70a22086",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/2\/5-8.1792115384506.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ نے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "سطان"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "ویکھ، اوہ"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "تیرے ہتھ وِچ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "صرف"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہدی جان نوں"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "اوہدی جان"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "دی رکھوالی کر"
+    }
+  ],
+  "timestamp": "2026-10-16T01:49:44.507360625Z",
+  "model": "glm-5.3"
+}

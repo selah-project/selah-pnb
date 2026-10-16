@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 4:19",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سی \/ دی زمین",
+      "rationale": "عبرانی وِچ کریا تے دوجی 'زمین' دا دہراؤ نئیں، پنجانی ساخت منگدا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "ונציב אחד",
+      "rationale": "KJV 'اِکلا اہلکار' vs YLT\/JPS 'اِک ہور اہلکار جو زمین وِچ سی' — متن 'اِک' آکھدا اے، 'اِکلا' نئیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נציב",
+      "rationale": "لفظ دی شکل 'کھلوایا ہویا' اے — مورتی، چوکی، اہلکار؛ ایتھے نگران رکھیا"
+    }
+  ],
+  "translation": "گویر اُوری دا پُتر گِلعاد دی زمین وِچ ⟨سی⟩ — سیحون ہاموری بادشاہ دی زمین تے عُوگ باشان دے بادشاہ ⟨دی زمین⟩ — تے اِک نگران جو زمین وِچ ⟨سی⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ca69ac76d9703b59432a4f6fcc18b5e51bb22b6c2f88df81660f625407d9b3ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/4\/17-20.1792104076719.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "گویر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "اُوری"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین وِچ"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "گِلعاد"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "دی زمین"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "سیحون"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ہاموری"
+    },
+    {
+      "surface": "ועג",
+      "gloss": "تے عُوگ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "باشان"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "تے نگران"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "اِک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T22:41:16.720634104Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 21:7",
+  "book": "joshua",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "بارہ شہر",
+      "rationale": "مراریاں دے شہراں دی گنتی"
+    },
+    {
+      "kind": "addition",
+      "subject": "بارہ",
+      "rationale": "عبرانی 'دو-دس' اِک پنجابی گنتی اکھر وِچ"
+    }
+  ],
+  "translation": "مراری دے پُتراں لئی، اوہناں دے خانداناں مطابق — رئوبن دے قبیلے وِچوں، تے گاد دے قبیلے وِچوں، تے زبولن دے قبیلے وِچوں — بارہ شہر۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "632a3acae5424a89ae6ca78d9b22bb85144690929b2360eca75f13aabd99203b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joshua\/21\/5-8.1792101185665.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "پُتراں لئی"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "مراری"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "اوہناں دے خانداناں مطابق"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "قبیلے وِچوں"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "رئوبن"
+    },
+    {
+      "surface": "וממטה",
+      "gloss": "تے قبیلے وِچوں"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "וממטה",
+      "gloss": "تے قبیلے وِچوں"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "زبولن"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "بارہ ⟨دو⟩"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "⟨دس⟩"
+    }
+  ],
+  "timestamp": "2026-10-15T21:53:05.665988289Z",
+  "model": "glm-5.3"
+}

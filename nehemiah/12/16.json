@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 12:16",
+  "book": "nehemiah",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨دے⟩",
+      "rationale": "ל prefix rendered as supplied connective"
+    },
+    {
+      "kind": "measurement",
+      "subject": "لسٹ",
+      "rationale": "کاہنی پیرواں دی لسٹ مکدی اے"
+    }
+  ],
+  "translation": "عِدیا ⟨دے⟩ زِکریاہ؛ گِنتون ⟨دے⟩ مِشُلّام؛",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d40271501da3125583b8769e354a8ed15bd75f8c0190256deaad5e76e39d0d7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/nehemiah\/12\/13-16.1792119933750.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לעדיא",
+      "gloss": "عِدیا ⟨دے⟩"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "زِکریاہ"
+    },
+    {
+      "surface": "לגנתון",
+      "gloss": "گِنتون ⟨دے⟩"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "مِشُلّام"
+    }
+  ],
+  "timestamp": "2026-10-16T03:05:33.750881110Z",
+  "model": "glm-5.3"
+}

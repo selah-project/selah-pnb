@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 38:15",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תוכחות",
+      "rationale": "'توکھوت' — جواب دلیلی\/ملماسہ\/گل بات: KJv 'reproofs', JPS 'arguments', BSB 'reply'۔"
+    },
+    {
+      "kind": "you",
+      "subject": "مخاطب",
+      "rationale": "مزمیر آپ نوں دھر لے کے چُپ دا موازنہ کردا اے، کسے بندے دا نئیں۔"
+    }
+  ],
+  "translation": "تے میں اوس بندے وانگوں ہو گئا جیہڑا نئیں سُندا، تے اوہدے مونہھ وِچ کوئی جواب دلیلی نئیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "15ecc37329783fe2dd5340cf9baf2798718760c5537513fb17315b6ee0d50b2d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/38\/13-16.1792112418187.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "تے میں ہو گئا"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "بندے وانگوں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سُندا"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "اوہدے مونہھ وِچ"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "جواب دلیلی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:00:18.187871568Z",
+  "model": "glm-5.3"
+}

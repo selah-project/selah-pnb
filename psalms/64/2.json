@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 64:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨تُوں⟩",
+      "rationale": "عبرانی وچ فعل دا فاعل لُکیا اے — پنجابی صریح ضمیر منگدی اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "بשיחי",
+      "rationale": "שיחַ دا مطلب 'سوچ\/مناجات\/شکایت' — ترجمے ونڈے ہوئے نیں: 'سوچ' (asv) بمقابلہ 'دعا'"
+    },
+    {
+      "kind": "you",
+      "subject": "to ایلوہیم",
+      "rationale": "سدھی پکار ایلوہیم ول"
+    }
+  ],
+  "translation": "ایلوہیم، میری آواز سُن، میری اپنی سوچ وِچ؛ دشمن دے ڈر توں ⟨تُوں⟩ میری جان رکھیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f1ca18f044131ba021af68da3551d15de2fde9f46c864ce6e3a910ae8788107a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/64\/1-4.1792112826261.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "سُن"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "میری آواز"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "میری سوچ وِچ"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "ڈر توں"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "دشمن دے"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "رکھیں"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "میری جان"
+    }
+  ],
+  "timestamp": "2026-10-16T01:07:06.262481918Z",
+  "model": "glm-5.3"
+}

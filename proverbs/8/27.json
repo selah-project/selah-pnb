@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 8:27",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "חוג",
+      "rationale": "اسم 'چکر' تنخ وِچ اِکو واری اِتھے آیا اے — گول گھیرا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "کُڈھیا",
+      "rationale": "בחוק دا مطلب 'ٹھپّے نال کُٹنا\/کُڈھنا' اے — نقشہ کار دی کار"
+    },
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "جملے لئی لازم فعل عبرانی وِچ نئیں"
+    }
+  ],
+  "translation": "جد اوس نے اسمان تیار کیتے، اوتھے میں ⟨سی⟩؛ جد اوس نے تہہ دے منہ اُتے چکر کُڈھیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9b4ee58613d5a69d9eaaa5c00b9df12beb4182f7ddec1bad396efc9390817e9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/8\/25-28.1792114565412.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בהכינו",
+      "gloss": "جد تیار کیتے"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "اسمان"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اوتھے"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "בחוקו",
+      "gloss": "کُڈھیا"
+    },
+    {
+      "surface": "חוג",
+      "gloss": "چکر"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "פני",
+      "gloss": "منہ"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "تہہ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:36:05.412799370Z",
+  "model": "glm-5.3"
+}

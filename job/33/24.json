@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 33:24",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "פדעהו",
+      "rationale": "پِدَع — تناخ وِچ صرف اِتھے؛ 'اوہنوں کڈھ لینا\/چھُڑاؤنا'۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "כפר",
+      "rationale": "'فداہ' — کجھ 'کفارہ مل گیا'، کجھ 'مَیں کفارہ لبھ لیا اے' (Geneva) لیندے نیں۔"
+    },
+    {
+      "kind": "mystery",
+      "subject": "آیت 23–24",
+      "rationale": "ایلیہو دی گل وِچ چھپی ہوئی امید: فرشتہ\/ترجمان راہیں بچاؤ — بندے دا مُک سوال جواب دے بِنا جھلکی دسّدا اے۔"
+    }
+  ],
+  "translation": "تے اوہدے اُتے مہر کردا اے تے آکھدا اے: اوہنوں گڑھے وِچ اُترن تُوں بچاؤ؛ مینوں فداہ مل گئی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "abc095bbe9210e51ed306588fabdb9c2fd32e19459828a6d2168a0553c9dd308",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/33\/21-24.1792116326939.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחננו",
+      "gloss": "تے اوہدے اُتے مہر کردا اے"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھدا اے"
+    },
+    {
+      "surface": "פדעהו",
+      "gloss": "اوہنوں بچاؤ"
+    },
+    {
+      "surface": "מרדת",
+      "gloss": "اُترن تُوں"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "گڑھے وِچ"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "مینوں مل گئی اے"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "فداہ"
+    }
+  ],
+  "timestamp": "2026-10-16T02:05:26.940283897Z",
+  "model": "glm-5.3"
+}

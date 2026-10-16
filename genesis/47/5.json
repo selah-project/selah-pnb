@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 47:5",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نیں",
+      "rationale": "پنجابی فعل دی مکمل شکلت لئی فعل معاون شامل کیتا، عبرانی وِچ نئیں"
+    }
+  ],
+  "translation": "تے فرعون نے یوسف نوں آکھیا: تیرا پیو تے تیرے بھرا تیرے کول آ گئے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "de91aa49e0887abd0345def5187086bef1cf4696be0404be5e348d1a1f070434",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/47\/5-8.1792096024544.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ کے"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "تیرا پیو"
+    },
+    {
+      "surface": "ואחיך",
+      "gloss": "تے تیرے بھرا"
+    },
+    {
+      "surface": "באו",
+      "gloss": "آ گئے نیں"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تیرے کول"
+    }
+  ],
+  "timestamp": "2026-10-15T20:27:04.545456431Z",
+  "model": "glm-5.3"
+}

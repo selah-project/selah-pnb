@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 11:27",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "مانو",
+      "rationale": "שמע לITERally 'سُنو' اے پر عبرانی وچ سُننا = ماننا؛ پنجابی 'مانو' ای جوڑ بھردا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "اپنے",
+      "rationale": "אלהיכם دی پچھوتری جمع مخاطب پنجابی وچ 'اپنے' نال سُچجا ہوندا اے"
+    }
+  ],
+  "translation": "⟨את⟩ بختاوندی، جے تسیں اپنے ایلوہیم یاہوہ دیاں حکماں نوں مانو، جیہڑیاں اَ میں ⟨את⟩ تہانوں اَج حکم کردا واں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9ca76e68dd7ef40800bc5465448ac93326fe59fb44ab5d9397561f7a6b53403b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/11\/26-27.1792123533637.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بختاوندی"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "بختاوندی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جے"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "تسیں مانو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "حکماں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "تہاڈے ایلوہیم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑیاں"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "حکم کردا واں"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ تہانوں"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اَج"
+    }
+  ],
+  "timestamp": "2026-10-16T04:05:33.638024876Z",
+  "model": "glm-5.3"
+}

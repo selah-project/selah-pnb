@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 15:11",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לאט",
+      "rationale": "نرم\/ہولا بول بمقابلہ KJV دا secret thing — پرکھ وِچ نرم ہی ایہدے مطلب اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "نیں",
+      "rationale": "دوجی جملے وِچ عبرانی کوپلا نئیں دیندا، پنجابی چاہیدا اے"
+    },
+    {
+      "kind": "invitation",
+      "subject": "سوال",
+      "rationale": "ائلِفاز اِیوب نوں سمسیلے راہیں مخاطب کردا اے"
+    }
+  ],
+  "translation": "کیا ایل دیاں تسلیاں تیرے لئی تھوڑیاں نیں، تے نرم بول تیرے نال ⟨نیں⟩؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fd16c8df6de2fc29ffa637e766b9dbd57924df8595451e80566920157cbd83d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/15\/9-12.1792115774790.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המעט",
+      "gloss": "تھوڑیاں"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "تیرے لئی"
+    },
+    {
+      "surface": "תנחמות",
+      "gloss": "تسلیاں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "تے بول"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "نرم"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تیرے نال"
+    }
+  ],
+  "timestamp": "2026-10-16T01:56:14.791581138Z",
+  "model": "glm-5.3"
+}

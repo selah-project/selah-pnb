@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 119:34",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نال",
+      "rationale": "עברانی وِچ صرف 'سارے دل' اے — پنجابی 'دل نال' منگدا اے"
+    },
+    {
+      "kind": "invitation",
+      "subject": "مینوں سمجھ دے",
+      "rationale": "گیت دا دعائیہ بینت — مخاطب توں منگ"
+    }
+  ],
+  "translation": "مینوں سمجھ دے، تے اِیک تیری تورات رکھاں، تے اوہنوں مناں پورے دل نال۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "eab5b816828de101e86cb7aa463f2d876246dcec84e3ba96a850a676d4b21947",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/119\/33-36.1792113839492.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבינני",
+      "gloss": "مینوں سمجھ دے"
+    },
+    {
+      "surface": "ואצרה",
+      "gloss": "تے رکھاں"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "تیری تورات"
+    },
+    {
+      "surface": "ואשמרנה",
+      "gloss": "تے مناں"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "نال پورے"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    }
+  ],
+  "timestamp": "2026-10-16T01:23:59.492929622Z",
+  "model": "glm-5.3"
+}

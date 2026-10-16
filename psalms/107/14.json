@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 107:14",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "צלמות",
+      "rationale": "لفظی 'موت دا سائہ' — پنجابی 'موت دا پچھاہٹا' رکھیا گیا تاں جو تصویر سلامت رہے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מוסרות",
+      "gloss": "بنیادی مطلب 'سزا\/لگام' توں 'زنجیراں' — سیاق قید دی تصویر دسدا اے۔"
+    }
+  ],
+  "translation": "اوہنے اوہناں نوں ہنیرے تے موت دے پچھاہٹے ⟨توں⟩ کڈھیا، تے اوہناں دیاں زنجیراں پاڑ دتیاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2b07d6f719f9be1798e08d130fb11c8a0cda62ce0c3d34b7e41a485a00968ecc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/107\/13-16.1792113638559.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יוציאם",
+      "gloss": "اوہناں نوں کڈھیا"
+    },
+    {
+      "surface": "מחשך",
+      "gloss": "ہنیرے توں"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "تے موت دے پچھاہٹے توں"
+    },
+    {
+      "surface": "ומוסרותיהם",
+      "gloss": "تے اوہناں دیاں زنجیراں"
+    },
+    {
+      "surface": "ינתק",
+      "gloss": "پاڑ دتیاں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:20:38.560365048Z",
+  "model": "glm-5.3"
+}

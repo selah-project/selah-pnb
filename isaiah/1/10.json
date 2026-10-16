@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 1:10",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "سنیو…کن لگاؤ",
+      "rationale": "دوواں حکری فعل قومیٹی واسطے پکار نیں۔"
+    },
+    {
+      "kind": "you",
+      "subject": "سردارو، قوم",
+      "rationale": "سمباد سدوم دے سرداراں تے عاموراہ دی قوم نال اے — یروشلایم دا وکھو وکھری ناں لے کے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תורת",
+      "rationale": "تورات عربی-عبرانی دھنی لفظ رکھیا، 'شریعت' اکلا ردّ اے۔"
+    }
+  ],
+  "translation": "سنیو یاہوہ دی گل، سدوم دے سردارو؛ کن لگاؤ ساڈے ایلوہیم دی تورات، عاموراہ دی قوم۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fcfdbc9c76af9b83e210a0543159b4583687a5a8484808fc6d8bb80296f62090",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/1\/9-12.1792105732342.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "سنیو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "קציני",
+      "gloss": "دے سردارو"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "سدوم"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "کن لگاؤ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "تورات"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ساڈے ایلوہیم"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "عاموراہ"
+    }
+  ],
+  "timestamp": "2026-10-15T23:08:52.343089494Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 2:17",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "عبرانی وِچ کوئی ضمیر-ربط نئیں، پنجابی نوں ⟨سی⟩ چاہیدا اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "نسل نامہ",
+      "rationale": "آیت ناواں دی لسٹ اے — خاندان دی گنتی"
+    }
+  ],
+  "translation": "تے اَبیگیل نے ⟨את⟩ عماسا نوں جنیا، تے عماسا دا پیو یِتیر یِشمعیلی سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "df66b52cd7b39d71470cbd0b8f9a80537e58d09120bdc00f2eac9dac8f1b1b62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/2\/17-20.1792120170458.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואביגיל",
+      "gloss": "تے اَبیگیل نے"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "جنیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عماسا"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "عماسا"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "تے پیو"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "عماسا دا"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "یِتیر"
+    },
+    {
+      "surface": "הישמעאלי",
+      "gloss": "یِشمعیلی"
+    }
+  ],
+  "timestamp": "2026-10-16T03:09:30.459300240Z",
+  "model": "glm-5.3"
+}

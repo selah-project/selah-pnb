@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 1:5",
+  "book": "zephaniah",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "במלכם",
+      "rationale": "مِلکوم (عمّونیاں دا بت) بمقابلہ 'اوہناں دے بادشاہ دی' — حروف اوہو نیں، نقطہ سازی وکھری"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨عمّونیاں دے بت⟩",
+      "rationale": "عبرانی وِچ نئیں، پہلی واری وضاحت لئی"
+    }
+  ],
+  "translation": "تے ⟨את⟩ اُنہاں نوں جیہڑے چھتاں اُتے اسماناں دی تصواوت نوں سجدہ کردے نیں، تے ⟨את⟩ اُنہاں نوں جیہڑے یاہوہ دی قسم کھاندے نیں تے جیہڑے مِلکوم ⟨عمّونیاں دے بت⟩ دی قسم کھاندے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1eb731c5e0f0e9912241346514f8cff2b9092818e7dd1f891c3361c51a6bea84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/zephaniah\/1\/5-8.1792111371864.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اُنہاں نوں جیہڑے چھتاں اُتے سجدہ کردے نیں"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "سجدہ کرن والے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הגגות",
+      "gloss": "چھتاں"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "تصواوت نوں"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "اسماناں دی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اُنہاں نوں جیہڑے قسم کھاندے نیں"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "سجدہ کرن والے"
+    },
+    {
+      "surface": "הנשבעים",
+      "gloss": "قسم کھانے والے"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ دی"
+    },
+    {
+      "surface": "והנשבעים",
+      "gloss": "تے قسم کھانے والے"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "مِلکوم دی"
+    }
+  ],
+  "timestamp": "2026-10-16T00:42:51.865172075Z",
+  "model": "glm-5.3"
+}

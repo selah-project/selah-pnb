@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 5:41",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جلاوطن ہویا",
+      "rationale": "הלך 'گیا' — بندوخت (בהגלות) دے نال 'جلاوطن ہویا' دتا، جویں جے 'جلاوطنی وِچ گیا'"
+    },
+    {
+      "kind": "addition",
+      "subject": "نوں",
+      "rationale": "پنجابی مفعول لئی 'نوں' پائی گئی، عبرانی وِچ نئیں"
+    }
+  ],
+  "translation": "تے یہوتساداق جلاوطن ہویا، جدوں یاہوہ نے ⟨את⟩ یہوداہ تے یروشلایم نوں نبُکدنعصّر دے ہتھ جلاوطن کیتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "df82fd2be578c996086efc5cc820cc09626438414f658d37deb231d92a6418f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/5\/41-41.1792120228917.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוצדק",
+      "gloss": "تے یہوتساداق"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "جلاوطن ہویا"
+    },
+    {
+      "surface": "בהגלות",
+      "gloss": "جلاوطنی وِچ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یہوداہ نوں"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "تے یروشلایم"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "دے ہتھ"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "نبُکدنعصّر"
+    }
+  ],
+  "timestamp": "2026-10-16T03:10:28.917935376Z",
+  "model": "glm-5.3"
+}

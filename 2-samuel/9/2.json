@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 9:2",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨میں⟩ تے ⟨آں⟩",
+      "rationale": "عبرانی جواب صرف اسم اے — “تیرا نوکر”؛ پنجابی جملے لئی ضمیر تے copula چائیدے نیں"
+    },
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "عبرانی وِچ کوئی کریا نئیں، ودھیا ہویا بیان اے"
+    }
+  ],
+  "translation": "تے شاؤل دے گھر دا اک نوکر سی، اوہدا ناں تصیبا سی؛ تے اوہناں اوہنوں داوِد کول بلایا، تے بادشاہ نے اوہنوں آکھیا: کیہ توں تصیبا ایں؟ تے اوہنے آکھیا: ⟨میں⟩ تیرا نوکر ⟨آں⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0c217938e14325f5325a284796e91a7b0780ca7e6b13ad5c2d823e880afc207a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/9\/1-4.1792103303946.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולבית",
+      "gloss": "تے گھر دے"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "اک نوکر"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "تے اوہدا ناں"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "تصیبا"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "تے اوہناں بلایا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہنوں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ نے"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اوہنوں"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "کیہ توں"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "تصیبا"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "تیرا نوکر"
+    }
+  ],
+  "timestamp": "2026-10-15T22:28:23.947581252Z",
+  "model": "glm-5.3"
+}

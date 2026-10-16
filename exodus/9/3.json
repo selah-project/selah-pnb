@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 9:3",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ہووی",
+      "rationale": "הויה شدہ وقت دا اعلان اے؛ پنجابی واسطے مستقبل دا روپ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "دبّر کبّود مِئود",
+      "rationale": "طاعون دا بھاری پن ناپیا گیا اے — شدت دی پیمائش"
+    }
+  ],
+  "translation": "تے ویکھ، یاہوہ دا ہتھ تیرے مال اُتے پئے گا، جیہڑا کھیت وِچ اے — گھوڑیاں اُتے، کھوتریاں اُتے، اونٹھاں اُتے، ڈنگراں اُتے تے بھیڈاں بکرےآں اُتے — بہُوت بھاری طاعون۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d9536b8f02f1201db2c51c8e5dd43a6ce8c11a3e40892dcd9981106108b1927a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/9\/1-4.1792096377897.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "تے ویکھ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "دا ہتھ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "הויה",
+      "gloss": "پئے گا ⟨ہووی⟩"
+    },
+    {
+      "surface": "במקנך",
+      "gloss": "تیرے مال اُتے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "کھیت وِچ"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "گھوڑیاں اُتے"
+    },
+    {
+      "surface": "בחמרים",
+      "gloss": "کھوتریاں اُتے"
+    },
+    {
+      "surface": "בגמלים",
+      "gloss": "اونٹھاں اُتے"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ڈنگراں اُتے"
+    },
+    {
+      "surface": "ובצאן",
+      "gloss": "تے بھیڈاں بکرےآں اُتے"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "طاعون"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "بھاری"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بہُوت"
+    }
+  ],
+  "timestamp": "2026-10-15T20:32:57.898764672Z",
+  "model": "glm-5.3"
+}

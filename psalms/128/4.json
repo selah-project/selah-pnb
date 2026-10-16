@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 128,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "توں",
+      "rationale": "ירא نوں پنجابی وچ 'توں ڈردا' بول چاہیدا اے"
+    }
+  ],
+  "translation": "ویکھ، اِیوں ⟨ہی⟩ برکت پاویگا اوہ بندہ جیہڑا یاہوہ توں ڈردا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d7566107d30fc2a0d4cee36675931758fde9a219fd50cc777995d4bd37a500fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/128\/1-4.1792113965426.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ویکھ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨کیونکہ⟩"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اِیوں"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "برکت پاویگا"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "اوہ بندہ"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "توں ڈردا اے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:26:05.427443141Z",
+  "model": "glm-5.3"
+}

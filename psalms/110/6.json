@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 110:6",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 110,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "رֹאשׁ עַל־אֶרֶץ רַבָּה",
+      "rationale": "اکلا سر یا جمع مہاں؟ — 'وڈی زمین اُتے سر' (jps) بمقابلہ 'دسیاں دیساں اُتے سریاں' (kjb)؛ شکل ای واحد سر اے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "فیصلہ کریگا",
+      "rationale": "יָדִין دا مطلب اجا وی اے — راج کرنا تے منصفی کرنا دوویں۔"
+    }
+  ],
+  "translation": "اوہ قوماں وِچ فیصلہ کریگا، لاشاں نال بھریگا؛ وڈی زمین اُتے ⟨مہاں⟩ سر نوں کُچیل سُٹے گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fad4c1116825250fbd1ec69d0503c0fa9124c7691d3c343a351555d85d80e40c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/110\/5-7.1792113732338.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יָדִין",
+      "gloss": "فیصلہ کریگا"
+    },
+    {
+      "surface": "בַּגּוֹיִם",
+      "gloss": "قوماں وِچ"
+    },
+    {
+      "surface": "מָלֵא",
+      "gloss": "بھریگا"
+    },
+    {
+      "surface": "גְוִיּוֹת",
+      "gloss": "لاشاں"
+    },
+    {
+      "surface": "מָחַץ",
+      "gloss": "کُچیل سُٹے گا"
+    },
+    {
+      "surface": "רֹאשׁ",
+      "gloss": "سر"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "אֶרֶץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "רַבָּה",
+      "gloss": "وڈی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:22:12.339543789Z",
+  "model": "glm-5.3"
+}

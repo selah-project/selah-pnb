@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 26:7",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "گنتی",
+      "rationale": "פקד 'ملازمت\/مشر' کرن دا کم اے — گنتی دے بندے، شمار کیتے گئے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "43,730",
+      "rationale": "مردم شماری دا عدد — عبرانی پورا کھول کے دندا اے: تین تے چالی ہزار، ست سو تے تِیہہ"
+    }
+  ],
+  "translation": "ایہہ نیں رِائوبینیاں دے ٹبر، تے اوہناں دی گنتی تِنتّی ہزار چار سو تِیہہ ⟨سی⟩ — تین تے چالی ہزار، ست سو تے تِیہہ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7a7213429dfc96e8641364df9b12e3e08dd04eed11d7435782d0ff449643779c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/26\/5-8.1792099039875.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ایہہ نیں"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ٹبر"
+    },
+    {
+      "surface": "הראובני",
+      "gloss": "رِائوبینیاں دے"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ہوئی"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "اوہناں دی گنتی"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "تین"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "تے چالی"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "تے ست"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "تے تِیہہ"
+    }
+  ],
+  "timestamp": "2026-10-15T21:17:19.875892712Z",
+  "model": "glm-5.3"
+}

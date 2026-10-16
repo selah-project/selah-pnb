@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 110,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "تیرے سجے ہتھ",
+      "rationale": "اوہ پرچھاویں بادشاہ نوں مخاطب اے — بادشاہ دے سجے ہتھ اُتے ادونای آپ کھلوندا اے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "غصہ",
+      "rationale": "אַפוֹ مُڈھ لفظ نک\/نتھنا اے — غصے دی شکل وجہ توں؛ پنجابی وِچ 'اوہدی ناس' بہت اوپرا جاپدا۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "اوہ",
+      "rationale": "عبرانی جُملے وِچ کُچیل سُٹن والا الگ ضمیر نئیں، موضوع ادونای توں آندا اے۔"
+    }
+  ],
+  "translation": "ادونای تیرے سجے ہتھ اُتے اے؛ اوہ بادشاہواں نوں اوہدے غصے دے دن وِچ کُچیل سُٹے گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fad4c1116825250fbd1ec69d0503c0fa9124c7691d3c343a351555d85d80e40c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/110\/5-7.1792113732338.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "יְמִינְךָ",
+      "gloss": "تیرے سجے ہتھ"
+    },
+    {
+      "surface": "מָחַץ",
+      "gloss": "کُچیل سُٹے گا"
+    },
+    {
+      "surface": "בְּיוֹם",
+      "gloss": "دے دن وِچ"
+    },
+    {
+      "surface": "אַפּוֹ",
+      "gloss": "اوہدے غصے"
+    },
+    {
+      "surface": "מְלָכִים",
+      "gloss": "بادشاہواں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:22:12.339351501Z",
+  "model": "glm-5.3"
+}

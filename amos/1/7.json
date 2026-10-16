@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 1:7",
+  "book": "amos",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "کھا جاوے گی",
+      "rationale": "אכלہ 'کھاوے گی' — اگّ دا اِکھا پنجابی وِچ 'کھا جاوے' اوہو تصویر رکھدا اے"
+    }
+  ],
+  "translation": "تے میں غزہ دی کندھ اُتے اگّ بھیجاں گا، تے اوہ اوہدے قلعیاں نوں کھا جاوے گی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7868291165c5b9cc39cd0f08c517393fda9487837d1d1d36a0f9d4ab4d68f525",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/amos\/1\/5-8.1792110749681.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "تے میں بھیجاں گا"
+    },
+    {
+      "surface": "אש",
+      "gloss": "اگّ"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "کندھ اُتے"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "غزہ دی"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "تے اوہ کھا جاوے گی"
+    },
+    {
+      "surface": "ארמנתיה",
+      "gloss": "قلعیاں نوں اوہدے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:32:29.681898836Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 49:19",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גד \/ גדוד \/ יגודנו \/ יגד",
+      "rationale": "گاد دا ناں تِن وار اِکو جڑ ג-ד-ד نال گونجدا اے — لفظی شکل رکھی گئی، پنجابی وچ دُہراؤ کولوں کم اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "ایڑ",
+      "rationale": "עקב — 'پِچھا' (لشکر دا پچھلا پاسہ) وی ہو سکدا اے، وائی ایل تے اے ایس وی دی طرح؛ جے دی شکل رکھی"
+    }
+  ],
+  "translation": "گاد — لشکر اوہنوں ٹُٹ پے گا، پر اوہ اوہناں دی ایڑ اُتے ٹُٹ پے گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "394052f12e7256459a5792e01727123053fc11bc1f1ed9e9fb100af42b2b85db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/49\/17-20.1792096101836.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "لشکر"
+    },
+    {
+      "surface": "יגודנו",
+      "gloss": "اوہنوں ٹُٹ پے گا"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "پر اوہ"
+    },
+    {
+      "surface": "יגד",
+      "gloss": "ٹُٹ پے گا"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ایڑ"
+    }
+  ],
+  "timestamp": "2026-10-15T20:28:21.837435354Z",
+  "model": "glm-5.3"
+}

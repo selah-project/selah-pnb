@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 25:20",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתם ×2",
+      "rationale": "دوویں aleph-tav نشان ⟨אתם⟩ دے روپ وِچ رکھے۔"
+    }
+  ],
+  "translation": "تے نَبُوزَرادان، جَلّاداں دا سردار، اوہناں ⟨אתם⟩ نوں لَے کے بابل دے بادشاہ کول رِبلاتاہ لَے گیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f3e6f30233979fe242ff0f2f16cab7868083b443f5e777e8e69adf2a90cbc644",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/25\/17-20.1792105787572.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "تے لَے کے"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "اوہناں بندیاں نوں"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "نَبُوزَرادان"
+    },
+    {
+      "surface": "רב",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "جَلّاداں دا"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "تے لَے گیا"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "اوہناں نوں"
+    },
+    {
+      "surface": "על",
+      "gloss": "کول"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل دے"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "رِبلاتاہ"
+    }
+  ],
+  "timestamp": "2026-10-15T23:09:47.573600783Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 1:3",
+  "book": "esther",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اُس دے",
+      "rationale": "لפניו وِچ جمع دا اُتوار اے؛ پنجابی وِچ صاف کرن لئی بریکٹ نال دسیا۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "הפרתמים",
+      "rationale": "فارسی لفظ — 'امرا\/وزیر' بمقابلہ 'سردار'؛ اِیتھے 'امرا' رکھیا۔"
+    }
+  ],
+  "translation": "اپنی بادشاہی دے تِجے ورھے اُس نے اپنے سارے سرداراں تے غلاماں لئی داعوت کیتی — پارس تے مَدای دی فوج، امرا تے صوبےآں دے سردار ⟨اُس دے⟩ ساہمنے —",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8d74a11ea25af1db6bcf72b20acef22d1170627026705392d9fbad140ced0df0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/esther\/1\/1-4.1792117890183.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "ورھے وِچ"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "تِجے"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "اپنی بادشاہی دے"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کیتی"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "داعوت"
+    },
+    {
+      "surface": "لכל",
+      "gloss": "اپنے سارے"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "سرداراں"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "تے غلاماں لئی"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "فوج"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "پارس"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "تے مَدای دی"
+    },
+    {
+      "surface": "הפרתמים",
+      "gloss": "امرا"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "تے سردار"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "صوبےآں دے"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "اُس دے ساہمنے"
+    }
+  ],
+  "timestamp": "2026-10-16T02:31:30.184773487Z",
+  "model": "glm-5.3"
+}

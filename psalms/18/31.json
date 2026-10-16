@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 18:31",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ہے\/اے",
+      "rationale": "عبرانی وِچ کوئی فعل ربط نئیں — پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "צרופה",
+      "rationale": "دھات پگھلا کے صاف کرن دا ظاہر — 'سچیا ہویا'، کجھ مترجم 'پرکھیا ہویا' لکھدے نیں"
+    }
+  ],
+  "translation": "اوہ ایل — اوہدا راستہ کامل اے؛ یاہوہ دا بول بھٹی وِچ سچیا ہویا اے؛ اوہ ڈھال اے ہر اوہنوں لئی جیہڑا اوہدے وِچ پناہ لیندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "de77b700c3666fdb82ebf2f306b18da03fa0d5225ed49355d996046230563ace",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/18\/29-32.1792112063850.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "اوہ ایل"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "کامل"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "اوہدا راستہ"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "بول"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دا"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "بھٹی وِچ سچیا ہویا"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ڈھال"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ہر اوہنوں لئی"
+    },
+    {
+      "surface": "החסים",
+      "gloss": "جیہڑا پناہ لیندا اے"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوہدے وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T00:54:23.851074641Z",
+  "model": "glm-5.3"
+}

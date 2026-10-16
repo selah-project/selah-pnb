@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 32:30",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "اسرائیل دے مُکھیاں نوں",
+      "rationale": "شرط دا دوجا پاسہ وی سُنیماں توں مخاطب اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "ہووے",
+      "rationale": "عبرانی ונאחזו فعل اے پر پنجابی جملے لئی 'ملک … ہووے' دی شکل چاہیدی اے۔"
+    }
+  ],
+  "translation": "تے جے اوہ تیار ہو کے ⟨את⟩ تہاڈے نال پار نئیں کرن، تاں اوہناں دی ملک تہاڈے وِچکار کنعان دی دھرتی وِچ ہووے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b1b4f20861417350c64a2d78e061cdfe52f885b1d019f917a39c7b90f33f3f69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/32\/29-32.1792099277668.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "پار کرن"
+    },
+    {
+      "surface": "חלוצים",
+      "gloss": "تیار ہو کے"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ تہاڈے نال",
+      "marks": "تہاڈے نال"
+    },
+    {
+      "surface": "ונאחזו",
+      "gloss": "تے ملک پائی ہووے"
+    },
+    {
+      "surface": "בתככם",
+      "gloss": "تہاڈے وِچکار"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "دھرتی وِچ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کنعان"
+    }
+  ],
+  "timestamp": "2026-10-15T21:21:17.669233745Z",
+  "model": "glm-5.3"
+}

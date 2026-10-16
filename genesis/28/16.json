@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 28:16",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جاندے سن",
+      "rationale": "ידעתי is perfect 'I knew not'; Punjabi needs past-continuous 'نئیں سی جاندا' for natural sense"
+    }
+  ],
+  "translation": "تے یعقوو اپنی نیند توں جاگا تے آکھیا: سچ ای، یاہوہ ایس تھاں وِچ اے، تے میں نئیں سی جاندا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "998aeb40b208083ed9ca7d0fb722c3421ed3d448234643884e8b5b7d49242619",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/28\/13-16.1792095377990.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "تے جاگا"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    },
+    {
+      "surface": "משנתו",
+      "gloss": "اپنی نیند توں"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "سچ ای"
+    },
+    {
+      "surface": "יש",
+      "gloss": "اے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "تھاں وِچ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایس"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "تے میں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "سی جاندا"
+    }
+  ],
+  "timestamp": "2026-10-15T20:16:17.991690341Z",
+  "model": "glm-5.3"
+}

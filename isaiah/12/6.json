@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 12:6",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "زِیون دی واسی",
+      "rationale": "سِدھی خطاب — صہیون دی واسی عورت صیغے وِچ مخاطب اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צהלי ורני",
+      "rationale": "دو خوشی دے آواز والے فعل جوڑے — گائکی جوڑ دی گونج، پنجابی وِچ صرف پھیلی ہوئی اے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "یِسرائیل دا پاک",
+      "rationale": "קדוש ישראל مل کے اِک ناں اے 'یِسرائیل دا پاک ہستی'؛ دوجی پڑھائی — 'پاک یِسرائیل' دے طور تے وکھو وکھ"
+    }
+  ],
+  "translation": "خوش ہو کے چیکھ تے گاؤ، ہے زِیون دی واسی، کیوں جو تیرے وِچکار وڈا اے یِسرائیل دا پاک۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "02bb020b015ec647b5d0428066602a3f74d465d47bb96e4e3e96048daf9ea384",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/12\/5-6.1792105941865.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צהלי",
+      "gloss": "خوش ہو کے چیکھ"
+    },
+    {
+      "surface": "ורני",
+      "gloss": "تے گاؤ"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "واسی"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "زِیون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وڈا"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "تیرے وِچکار"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-10-15T23:12:21.866612278Z",
+  "model": "glm-5.3"
+}

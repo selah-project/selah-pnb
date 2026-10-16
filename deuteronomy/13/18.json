@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 13:18",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אפו",
+      "rationale": "'نک\/ناس' دا شبدی مطلب اے، عبرانی وچ غصے دی لہو دی علامت — پنجابی وچ 'غصہ' آیا"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רחמים\/ורחמך",
+      "rationale": "اکو جڑ ר-ח-م دا دوہرا وار — 'رحم دیوے تے ترس کھاوے' — ایہہ آواز دا میل پنجابی وچ گم اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "نال",
+      "rationale": "לאבתיך وچ ל ('لئی') اے پر پنجابی 'قسم کھانا' نال 'نال' منگدا اے"
+    }
+  ],
+  "translation": "تے فنا کیتی ہوئی شے دا کوئی شے تیرے ہتھ نال نئیں چمبڑے گا، تاں جو یاہوہ اپنے غصے دی بھڑک توں مُڑے، تے تینوں رحم دیوے، تے تیرے اُتے ترس کھاوے، تے تینوں ودھاوے، جیویں اوہنے تیرے پیؤاں ⟨نال⟩ قسم کھادی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9b2a99ccead3409eee064d9a22f71469976f53201545a4eb8d997de414737003",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/13\/17-19.1792099976983.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "ידבק",
+      "gloss": "چمبڑے گا"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "تیرے ہتھ نال"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "کوئی شے"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "فنا کیتی ہوئی شے"
+    },
+    {
+      "surface": "למען",
+      "gloss": "تاں جو"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "مُڑے گا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "بھڑک"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "اپنے غصے"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "تے دیوے گا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تینوں"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "رحم"
+    },
+    {
+      "surface": "ורחמך",
+      "gloss": "تے تیرے اُتے ترس کھاوے گا"
+    },
+    {
+      "surface": "והרבך",
+      "gloss": "تے تینوں ودھاوے گا"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "نשבע",
+      "gloss": "قسم کھادی"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "تیرے پیؤاں لئی"
+    }
+  ],
+  "timestamp": "2026-10-15T21:32:56.984307752Z",
+  "model": "glm-5.3"
+}

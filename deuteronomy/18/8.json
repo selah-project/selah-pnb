@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 18:8",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "על האבות",
+      "rationale": "KJV\/JPS 'پیوآں دے گھرانے دے مطابق' دے حساب نال؛ YLT 'پیوآں دے نال' — על دوناں پڑھدا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "ממכריו",
+      "rationale": "'اوہدی وِکری' (BSB: پیو دی جائداد دی وِکری دا پیسہ) بمقابلہ 'اوہدا وِکن والا مال' — کون وِکدا اے، لوی آپ جاں اوہدا پیو"
+    }
+  ],
+  "translation": "حصہ، جِتنا حصہ ⟨اوہناں دا⟩، کھاؤن گے — اوہدی وِکری توں وکھ، پیوآں دے نال۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d4f36b77386d4930422ae304e8b30a0bb4eee6c84b89fc106a55aca6020d6119",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/18\/5-8.1792100123076.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "حصہ"
+    },
+    {
+      "surface": "כחלק",
+      "gloss": "جِتنا حصہ"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "کھاؤن گے"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "توں وکھ"
+    },
+    {
+      "surface": "ממכריו",
+      "gloss": "اوہدی وِکری"
+    },
+    {
+      "surface": "על",
+      "gloss": "دے نال"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "پیوآں"
+    }
+  ],
+  "timestamp": "2026-10-15T21:35:23.077953934Z",
+  "model": "glm-5.3"
+}

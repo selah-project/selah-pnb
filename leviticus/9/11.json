@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوہنے",
+      "rationale": "عبرانی دا فعل یِدھ کافی اے، پنجانی وِچ کرن والا منگدا اے"
+    }
+  ],
+  "translation": "تے ⟨את⟩ ماس تے ⟨את⟩ کھلّ اوہنے اگّ نال پھوکی چھاؤنی توں باہر ساڑی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "aaad847a22f39bff0395895f94587c598660adf1c3798e31d9160b4edb928c4b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/9\/9-12.1792097569278.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ماس"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ماس"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "کھلّ"
+    },
+    {
+      "surface": "העור",
+      "gloss": "کھلّ"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "ساڑی"
+    },
+    {
+      "surface": "באש",
+      "gloss": "اگّ نال"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "باہر"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "چھاؤنی توں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:52:49.279255926Z",
+  "model": "glm-5.3"
+}

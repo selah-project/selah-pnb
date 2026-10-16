@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 13:15",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "کیتی گئی",
+      "rationale": "עבר عبرانی دی کنجی نئیں دیندا؛ پنجابی فعل منگدا سی۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "پچھیں\/کھوجیں\/پُچھیں",
+      "rationale": "تن فعل لگاتار — عبرانی دی تِن کریا دی تکرار پنجابی وِچ وی تِن وار رکھی۔"
+    }
+  ],
+  "translation": "تے تُوں پچھیں، تے کھوجیں، تے چنگی طرحاں پُچھیں؛ تے ویکھو — سچ اے، گل پکّی اے کہ ایہہ گھناؤنی گل تیرے وِچ کیتی گئی اے،",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "16c60cc1dfe89d277b407e9512ffe46793da95fb1fb3079ddc3bcffb44d72756",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/13\/13-16.1792099975804.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודרשת",
+      "gloss": "تے تُوں پچھیں"
+    },
+    {
+      "surface": "וחקרת",
+      "gloss": "تے کھوجیں"
+    },
+    {
+      "surface": "ושאלת",
+      "gloss": "تے پُچھیں"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "چنگی طرحاں"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "تے ویکھو"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "سچ"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "پکّی"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "گل"
+    },
+    {
+      "surface": "נעשתה",
+      "gloss": "کیتی گئی"
+    },
+    {
+      "surface": "התועבה",
+      "gloss": "گھناؤنی گل"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "تیرے وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T21:32:55.805286705Z",
+  "model": "glm-5.3"
+}

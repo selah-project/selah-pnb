@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 119:41",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "خیسِد",
+      "rationale": "חסד عبرانی دا ٹبر-لفظ اے — رحم، وفاداری، چنچلتا سار کجھ اکٹھا؛ اِکو پنجابی لفظ نئیں پھڑدا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "تُہار",
+      "rationale": "תשועתך دا مطلب مُکتی\/بچاؤ اے — روحانی تے قومی دوویں"
+    }
+  ],
+  "translation": "تے میرے کول آوے تیرا خیسِد، اے یاہوہ، تیری تُہار جیویں تیرے بچن ⟨مطابق⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "083b74b5421d477a7b0acb4e1a3563295e4833d22f5e9e5fbcdd8aa043e28985",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/119\/41-44.1792113797378.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאני",
+      "gloss": "تے میرے کول آوے"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "تیرا خیسِد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "تیری تُہار"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "جیویں تیرے بچن ⟨مطابق⟩"
+    }
+  ],
+  "timestamp": "2026-10-16T01:23:17.379276374Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 18:50",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "یاہوہ",
+      "rationale": "سدھی مخاطبت — اے یاہوہ۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "پنجابی مخاطب لئی پکار دا لفظ، عبرانی وِچ صرف ناں۔"
+    }
+  ],
+  "translation": "ایس لئی میں قوماں وِچ تیرا دھنیں گا، اے یاہوہ، تے تیرے ناں نوں گاواں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "615e2cb15bdbb2887de3726dd21586a9107585606ffdbf4244ee06f8b201f9e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/18\/49-51.1792112030660.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ایس"
+    },
+    {
+      "surface": "כן",
+      "gloss": "لئی"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "میں تیرا دھنیں گا"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "قوماں وِچ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ולשמך",
+      "gloss": "تے تیرے ناں نوں"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "میں گاواں گا"
+    }
+  ],
+  "timestamp": "2026-10-16T00:53:50.661088339Z",
+  "model": "glm-5.3"
+}

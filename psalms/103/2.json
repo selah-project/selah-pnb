@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "بھلے بدلے",
+      "rationale": "גמוליו دونواں پاسے دا بدلا اے — چنگا ماضے دا سیاق چُکیا۔"
+    },
+    {
+      "kind": "invitation",
+      "subject": "میری جان، دھن دے",
+      "rationale": "جان نوں سدّہ — آیت 1 والا سدّا دہرایا گیا۔"
+    }
+  ],
+  "translation": "میری جان، ⟨את⟩ یاہوہ نوں دھن دے، تے اوہدے سارے بھلے بدلے نہ بھُل۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5d7842f1cc76a792b5698e3ac41f741f2510068c2c0a3b2077e97ee9b4e2d2b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/103\/1-4.1792113502779.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "دھن دے"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میری جان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "بھُل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "גמוליו",
+      "gloss": "اوہدے بھلے بدلے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:18:22.780480654Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 29:25",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "تسلّی دیندا",
+      "rationale": "נחם اِتھے 'تسلّی دینا' اے، 'پچھتاونا' نئیں — سیاق سوگواراں دا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "ראש",
+      "rationale": "'مُکھ' — سر\/آگوُ؛ 'سر بیٹھنا' قوم دے آگوُ بنن دے عبرانی اِدiom اے"
+    }
+  ],
+  "translation": "میں اوہناں دا رستہ چُنیا تے مُکھ بن کے بیٹھیا، تے بادشاہ وانگوں لشکر وِچ ٹکدا، جِویں سوگواراں نوں تسلّی دیندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "228e0541f8f1f0a02df662d41fa46af3a3ba36f0012bd0d2cbfbb7abc2f1b041",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/29\/25-25.1792116129822.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבחר",
+      "gloss": "میں چُنیا"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "اوہناں دا رستہ"
+    },
+    {
+      "surface": "ואשב",
+      "gloss": "تے بیٹھیا"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "مُکھ"
+    },
+    {
+      "surface": "ואשכון",
+      "gloss": "تے ٹکدا"
+    },
+    {
+      "surface": "כמלך",
+      "gloss": "بادشاہ وانگوں"
+    },
+    {
+      "surface": "בגדוד",
+      "gloss": "لشکر وِچ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جِویں"
+    },
+    {
+      "surface": "אבלים",
+      "gloss": "سوگواراں نوں"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "تسلّی دیندا اے"
+    }
+  ],
+  "timestamp": "2026-10-16T02:02:09.823478106Z",
+  "model": "glm-5.3"
+}

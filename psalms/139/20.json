@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 139:20",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "تیرا ناں",
+      "rationale": "عبرانی وِچ مفعول چھُٹا اے (נָשׂוּא لַשָּׁוְא), پنجابی وِچ پورا کرنا پیا"
+    },
+    {
+      "kind": "crux",
+      "subject": "יאמרך",
+      "rationale": "'تیرے بارے آکھدے نیں' (کےجے‌وی، اے‌ایس‌وی) بمقابلہ 'تیرا ناں اُچاردے نیں' (جے‌پی‌ایس) — حرفی شکل 'تینوں آکھدے نیں' اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "مکّی نال",
+      "rationale": "לְמַזִּמָּה شکل اِکو اے — 'مکّی' (بُری ترکیب) تے 'چالاک' دوویں مطلب وِچ آؤندا اے"
+    }
+  ],
+  "translation": "جِنہاں تیرا ناں مکّی نال اُچاردے نیں، تیرے ویری جھوٹ لئی ⟨تیرا ناں⟩ چُکدے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5f1308854f1c29eb210d34e9b38332f8fcb9733b46c0dfa608ccb6c3073ebdf5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/139\/17-20.1792114151283.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "جِنہاں"
+    },
+    {
+      "surface": "יאמרך",
+      "gloss": "تیرا ناں اُچاردے نیں"
+    },
+    {
+      "surface": "למזמה",
+      "gloss": "مکّی نال"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "چُکدے نیں"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "جھوٹ لئی"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "تیرے ویری"
+    }
+  ],
+  "timestamp": "2026-10-16T01:29:11.284338507Z",
+  "model": "glm-5.3"
+}

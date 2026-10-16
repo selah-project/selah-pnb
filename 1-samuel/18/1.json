@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 18:1",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جان\/جی اے، 'روح' نئیں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נפש...נפש...נפשו",
+      "rationale": "نفس دا تِن واری دہراؤ — جان جان نال جُڑدی اے تے اپنی جان برابر"
+    }
+  ],
+  "translation": "تے جدوں اوہ شاؤل نال گل کرنا مُکا چکیا، تے یہوناتن دی جان داوِد دی جان نال جُڑ گئی، تے یہوناتن اوہنوں اپنی جان ورگا پیار کرن لگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "03d807db3496fd6db543d4926f34504fb7d78b89c59513fae8d8bca2faeebdf8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/18\/1-4.1792102722534.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے ہویا"
+    },
+    {
+      "surface": "ככלתו",
+      "gloss": "جدوں اوہ مُکا چکیا"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "گل کرنا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "تے جان"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "یہوناتن"
+    },
+    {
+      "surface": "נקשרה",
+      "gloss": "جُڑ گئی"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "جان نال"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "ויאהבו",
+      "gloss": "تے اوہ پیار کرن لگا"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "یہوناتن"
+    },
+    {
+      "surface": "כנפשו",
+      "gloss": "اپنی جان ورگا"
+    }
+  ],
+  "timestamp": "2026-10-15T22:18:42.535319292Z",
+  "model": "glm-5.3"
+}

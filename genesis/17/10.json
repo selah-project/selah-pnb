@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 17:10",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "پنجابی نوں جوڑ-کریا چاہیدی اے جیہڑی عبرانی وِچ نئیں"
+    },
+    {
+      "kind": "measurement",
+      "subject": "هر نر",
+      "rationale": "اختلاف ویونت دا حکم — 'ہر' دا شمار"
+    }
+  ],
+  "translation": "ایہو میرا عہد اے جیہڑا تُساں میرے تے آپ وِچکار تے تیرے بِجھ اِیکے تیرے اگّوں پاس رکھو گے: تُہاڈے ہر نر دی ختنہ ہووے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "830bf8de48cd4b90be25c13d566580a155d0cba7b29fc22b571c328057bde33b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/17\/9-12.1792094967679.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ایہو"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "میرا عہد"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "پاس رکھو گے"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "میرے تے"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "تے آپ وِچکار"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "تے"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "تیرے بِجھ"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "تیرے اگّوں"
+    },
+    {
+      "surface": "המול",
+      "gloss": "ختنہ ہووے"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُہاڈے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نر"
+    }
+  ],
+  "timestamp": "2026-10-15T20:09:27.680041640Z",
+  "model": "glm-5.3"
+}

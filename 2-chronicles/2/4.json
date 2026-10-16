@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 2:4",
+  "book": "2-chronicles",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩",
+      "rationale": "جملے دی جوڑ لئی سروا اضافہ۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "دیوتےآں",
+      "rationale": "האלהים ایتھے قوماں دے معبوداں لئی عام لفظ اے، ایس لئی ‘دیوتے’ — فیصلہ عبرانی ٹوکن نے کیتا۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גדול…גדול",
+      "rationale": "اِکو لفظ دو واری: گھر وڈا کیونکہ ایلوہیم وڈا — ایہہ جوڑ پنجابی وِچ سانبھیا گیا اے۔"
+    }
+  ],
+  "translation": "تے ⟨اوہ⟩ گھر جو میں بناؤدا آں وڈا اے، کیونکہ ساڈا ایلوہیم سارے دیوتےآں توں وڈا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "33b59f29e34947e154aca152ed16c330b1a62d7eada842dedc9c7f067b303845",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/2\/1-4.1792121794221.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והבית",
+      "gloss": "تے گھر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "בונה",
+      "gloss": "بناؤدا آں"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وڈا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وڈا"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ساڈا ایلوہیم"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "سارے توں"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "دیوتےآں"
+    }
+  ],
+  "timestamp": "2026-10-16T03:36:34.222539057Z",
+  "model": "glm-5.3"
+}

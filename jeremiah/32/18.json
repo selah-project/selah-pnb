@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 32:18",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "חסد",
+      "rationale": "خیسِد عبرانی آواز وِچ رکھیا، ⟨وفا داری⟩ وضاحت پہلی واری"
+    },
+    {
+      "kind": "idiom",
+      "subject": "אל חיק",
+      "rationale": "'جھولی وِچ' — عبرانی محاورا 'قصور دا بھار دوجیاں اُتے پا دینا'"
+    },
+    {
+      "kind": "addition",
+      "subject": "کرن والا اے",
+      "rationale": "عبرانی وِچ اسمِ فاعل اے، پنجابی وِچ فعل دی لوڑ"
+    }
+  ],
+  "translation": "جو ہزاراں اُتے خیسِد ⟨کرن والا⟩ اے تے پیوواں دا قصور اوہناں دے پُتراں دی جھولی وِچ اوہناں توں بعد پُورا کردا اے — اوہ ایل، اوہ وڈا، اوہ بہادر، اوہدے ناں یاہوہ تصواوت اے،",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "62035227cd29ba9cf80da04b290583c357d837f95353ea3ff8416bb869106c9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/32\/17-20.1792108282764.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "کرن والا اے"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "خیسِد ⟨وفا داری⟩"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "ہزاراں اُتے"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "تے پُورا کردا اے"
+    },
+    {
+      "surface": "עון",
+      "gloss": "قصور"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "پیوواں دا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "חיק",
+      "gloss": "جھولی"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "اوہناں دے پُتراں دی"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "اوہناں توں بعد"
+    },
+    {
+      "surface": "האל",
+      "gloss": "اوہ ایل"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "وڈا"
+    },
+    {
+      "surface": "הגבור",
+      "gloss": "بہادر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "تصواوت"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اوہدے ناں"
+    }
+  ],
+  "timestamp": "2026-10-15T23:51:22.764978915Z",
+  "model": "glm-5.3"
+}

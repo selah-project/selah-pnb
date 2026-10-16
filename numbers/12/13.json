@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 12:13",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اَے",
+      "rationale": "فریاد دا لفظ ⟨⟩ نال دِتا گیا، عبرانی وِچ صرف אל اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נא רפא נא",
+      "rationale": "نא دا دوہرا کھیݙ — منگ دا زور، پنجابی وِچ مِنّاں دو واری رکھیا"
+    }
+  ],
+  "translation": "تے موشے نے یاہوہ اَگے چِخّ ماریا، آکھدا: ⟨اَے⟩ ایل، مِنّاں، اُس نوں شفا دے مِنّاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5d23b82ea1cfb47341f3dc477d967297480fcddc572ca356354cd7fb970dfece",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/12\/13-16.1792098587629.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "تے چِخّ ماریا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اَگے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھدا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "נא",
+      "gloss": "مِنّاں"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "شفا دے"
+    },
+    {
+      "surface": "נא",
+      "gloss": "مِنّاں"
+    },
+    {
+      "surface": "לה",
+      "gloss": "اُس نوں"
+    }
+  ],
+  "timestamp": "2026-10-15T21:09:47.629709959Z",
+  "model": "glm-5.3"
+}

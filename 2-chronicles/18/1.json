@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 18:1",
+  "book": "2-chronicles",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ہوئی",
+      "rationale": "عبرانی وِچ copula نئیں، پنجابی نوں چاہیدا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויתחתן",
+      "rationale": "وطیرے نال ساک بنانا — ودھان توں ودھ 'مراجعہ نال جُڑنا'، ورگاں ' متھّا' تاں ساک اے"
+    }
+  ],
+  "translation": "تے یہوشافت ⟨لئے⟩ دَولت تے جلال بہت گُنی چنگی ⟨ہوئی⟩، تے اوہنے اکھآب نال ساک اپنایا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2c2d761bb9e2a0804c12ef98992ba61f43b54c578b4ead2620dcce9be90f42a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/18\/1-4.1792122216715.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے ہویا"
+    },
+    {
+      "surface": "ליהושפט",
+      "gloss": "یہوشافت لئے"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دَولت"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "تے جلال"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "بہت گُنی چنگی"
+    },
+    {
+      "surface": "ויתחתן",
+      "gloss": "تے ساک اپنایا"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "اکھآب نال"
+    }
+  ],
+  "timestamp": "2026-10-16T03:43:36.715920772Z",
+  "model": "glm-5.3"
+}

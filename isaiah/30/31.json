@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 30:31",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوہ",
+      "rationale": "کریا دا فاعل عبرانی وِچ لکھیا نئیں — پنجاج وِچ 'اوہ' (یاہوہ) چاہیدا اے۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "בשבט יכה",
+      "rationale": "KJV پڑھدا اے 'جیہڑا ڈنڈے نال ماردا سی' (اَشُّور دا ڈنڈا)، JPS\/ASV 'جس ڈنڈے نال اوہ ماریا' — عبرانی دوناں ولّ کھُلی رکھدا اے۔"
+    }
+  ],
+  "translation": "کیوں جے یاہوہ دی آواز توں اَشُّور دب جاوےگا — ڈنڈے نال ⟨اوہ⟩ مارسیں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "02b6dac126d9458103a01bf15ad7ce06707042cdf54f09cc78baea1e1808a9b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/30\/29-32.1792106483160.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جے"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "آواز توں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "دب جاوےگا"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "اَشُّور"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "ڈنڈے نال"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "مارسیں گا"
+    }
+  ],
+  "timestamp": "2026-10-15T23:21:23.161734713Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 16:7",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הבליעל",
+      "rationale": "بلیعال — بے فیدا\/بے کم، وڈا برا؛ کئی ترجمے 'شیطان' یا وکتے لفظ 'بیلیال' رکھدے نیں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צא צא",
+      "rationale": "حکم دی دوہرائت — شِمعی دا شور، پنجابی 'نِکل، نِکل' نال بچدا اے"
+    },
+    {
+      "kind": "you",
+      "subject": "داوِد نوں",
+      "rationale": "شِمعی بادشاہ داوِد نوں سدھا مخاطب اے"
+    }
+  ],
+  "translation": "تے شِمعی نے شکیت دیندے ہوئے اِیں آکھیا: نِکل، نِکل، اے لہو والے بندہ، اے بے کم دے بندہ!",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e8332458151d5a269c83129044611fd8d23856330c98a48e25b50557fd2ac38d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/16\/5-8.1792103514764.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכה",
+      "gloss": "تے اِیں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شِمعی"
+    },
+    {
+      "surface": "בקללו",
+      "gloss": "شکیت دیندے ہوئے"
+    },
+    {
+      "surface": "צא",
+      "gloss": "نِکل"
+    },
+    {
+      "surface": "צא",
+      "gloss": "نِکل"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "لہو والے"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "اے بندہ"
+    },
+    {
+      "surface": "הבליעל",
+      "gloss": "بے کم دے"
+    }
+  ],
+  "timestamp": "2026-10-15T22:31:54.765284052Z",
+  "model": "glm-5.3"
+}

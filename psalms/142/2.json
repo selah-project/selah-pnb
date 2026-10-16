@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 142:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 142,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קולי … קולי",
+      "rationale": "آیت دی سطر وِچ 'میری آواز' دو واری دوال وِچ آندی اے، سچّی چیز جو پنجابی وِچ رہ گئی اے"
+    },
+    {
+      "kind": "you",
+      "subject": "یاہوہ",
+      "rationale": "سدھی پُکار یاہوہ ول"
+    }
+  ],
+  "translation": "میری آواز نال یاہوہ نوں میں چیخدا ہاں؛ میری آواز نال یاہوہ نوں میں التدا ہاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9d5ab552f0f2d52c46e1e19b00a3216d4ba8beba227dd499df185e35207b5a57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/142\/1-4.1792114129342.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "میری آواز نال"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "میں چیخدا ہاں"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "میری آواز نال"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "میں التدا ہاں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:28:49.342923442Z",
+  "model": "glm-5.3"
+}

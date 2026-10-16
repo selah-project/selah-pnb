@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 18:45",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לשמע\/ישמעו",
+      "rationale": "root שׁ-מ-ע doubled — 'hearing of the ear they hear' — Punjabi only carries the first echo."
+    },
+    {
+      "kind": "crux",
+      "subject": "יכחשו",
+      "rationale": "'feign\/deceive' — KJV 'submit themselves' vs JPS 'dwell away' vs BSB 'cower'; I took 'feign obedience'."
+    }
+  ],
+  "translation": "کَنّ دی سُنائی سن کے اوہ میرے آکھے لگ جاندے نیں؛ اوپریاں دے پُتر میرے اگّوں جھُوٹ موٹ تابعداری کرن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f7495c9dfa5ca669c5420c06779e3b361b73b433562b9edda20145fa1f5aea17",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/18\/45-48.1792112075233.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "سُنائی"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "کَنّ"
+    },
+    {
+      "surface": "یשמעו",
+      "gloss": "آکھے لگ جاندے نیں"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "اوپریاں دے"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "جھُوٹ موٹ تابعداری کرن"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرے اگّوں"
+    }
+  ],
+  "timestamp": "2026-10-16T00:54:35.233624189Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 37:12",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "منصوبہ بناندے اے",
+      "rationale": "זמם منصوبہ بنھن دا مکروہ کم دسدا اے — شکل رکھی گئی اے"
+    }
+  ],
+  "translation": "بدکار نیک بندے خلاف منصوبہ بناندے اے، تے اوہدے اُتے اپنے دند پیسدا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "94b52e3aa9128e32f461e630f0771a68e33165db4dbab5de9e058b803fd3b005",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/37\/9-12.1792112305335.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זמם",
+      "gloss": "منصوبہ بناندے اے"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "نیک بندے خلاف"
+    },
+    {
+      "surface": "וחרק",
+      "gloss": "تے … پیسدا اے"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اوہدے اُتے"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "اپنے دند"
+    }
+  ],
+  "timestamp": "2026-10-16T00:58:25.336801548Z",
+  "model": "glm-5.3"
+}

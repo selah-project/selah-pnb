@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 71:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צוית",
+      "rationale": "کہو پڑدا اے 'توں نیں حکم دتا' (ماضی) یا 'حکم دے' (حکم) — ترجمے وکھرے نیں"
+    },
+    {
+      "kind": "alternative",
+      "subject": "לבוא תמיד",
+      "rationale": "'ہمیشہ آؤن دی تھاں' — صفت دا پہلو، وکھری گلاس ہو سکدی سی"
+    }
+  ],
+  "translation": "میرے لئی چٹان تے ڈیرہ بن جا، جتھے میں ہمیشہ آواں؛ تاں بچان لئی تاں نیں حکم دتا، کیوں جو تُوں ای میری چٹان تے میرا قلعہ ایں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "38058d90d99057f2165ca77799e41e1aa7540a660bf582d3cd81aac6bf69eb7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/71\/1-4.1792112891758.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היה",
+      "gloss": "بن جا \/ ہو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرے لئی"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "چٹان"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "ڈیرہ"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "آواں"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "حکم دتا نیں"
+    },
+    {
+      "surface": "להושיעני",
+      "gloss": "بچان لئی (مینوں)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "میری چٹان"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "تے میرا قلعہ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُوں ای"
+    }
+  ],
+  "timestamp": "2026-10-16T01:08:11.759585897Z",
+  "model": "glm-5.3"
+}

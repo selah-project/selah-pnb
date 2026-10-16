@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 21:9",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "لبھ لویگی",
+      "rationale": "מצאא دا مݨ 'ہتھ لکݨا\/تک پچھݨا' اے — 'برابر ہووے' (JPS) دوجا پڑھاہ اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תמצא … תמצא",
+      "rationale": "عبرانی وچ دو واری اوہو صیف — دوویں مصرعاں وچ وتھری دہرائی"
+    }
+  ],
+  "translation": "تیری ہتھ تیرے سارے ویریاں نوں لبھ لویگی، تیری سجے ہتھ تیرے نفرت کرن والیاں نوں لبھ لویگی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0e6ed9a1436b8b1ccc27f6c44575d05806433511d717f3dd94efe0a05a8c86ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/21\/9-12.1792112038958.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תמצא",
+      "gloss": "لبھ لویگی"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "تیری ہتھ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "تیرے ویریاں نوں"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "تیری سجے ہتھ"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "لبھ لویگی"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "تیرے نفرت کرن والیاں نوں"
+    }
+  ],
+  "timestamp": "2026-10-16T00:53:58.958515289Z",
+  "model": "glm-5.3"
+}

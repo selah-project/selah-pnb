@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "esther 1:13",
+  "book": "esther",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דבר המלך",
+      "rationale": "KJV 'the king's manner' بنام YLT 'the word of the king' — דבר یا تے 'ریت' یا 'کلام'، سیاق حکیم صلاح دی گل کردا اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ہوندی اے⟩",
+      "rationale": "عبرانی وِچ کوپلا نئیں، پنجابی جملہ منگدا اے۔"
+    }
+  ],
+  "translation": "تے بادشاہ نے اُن حکیماں نوں آکھیا جیہڑے ویلےآں نوں جانن والے سن — کیوں جو ایویں بادشاہ دی گل ہر اُس توں پہلاں ⟨ہوندی اے⟩ جیہڑا دات تے دین جانن والا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "000c78ed98783adeb85c44567e944948094a25e0548c23ad87b4b98452ddd4fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/esther\/1\/13-16.1792117841645.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ نے"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "حکیماں نوں"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "جانن والے"
+    },
+    {
+      "surface": "העתים",
+      "gloss": "ویلےآں نوں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ایویں"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گل"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ دی"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "توں پہلاں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "جانن والے"
+    },
+    {
+      "surface": "דת",
+      "gloss": "دات"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "تے دین"
+    }
+  ],
+  "timestamp": "2026-10-16T02:30:41.646347384Z",
+  "model": "glm-5.3"
+}

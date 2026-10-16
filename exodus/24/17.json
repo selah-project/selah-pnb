@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 24:17",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "عبرانی وِچ کوئی فعل جوڑ نئیں، پنجابی واسطے داخل کیتا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "جلال",
+      "rationale": "כבוד دا مُڈھلا مطلب بھار اے — شان تے چمبڑے والا بھار"
+    }
+  ],
+  "translation": "تے یاہوہ دے جلال دا درش پہاڑ دے سر اُتے اِک کھاؤن والی اگّ ورگا، یِسرائیل دے پُتراں دیاں اکھاں اُتے ⟨سی⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1a8d08e05752c4adec1953d80a772a10852a5739bb1184d2c9cc1f8f1ddd7903",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/24\/17-18.1792096815759.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומראה",
+      "gloss": "تے درش"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال دا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "اگّ ورگا"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "کھاؤن والی"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "سر اُتے"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "اکھاں اُتے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں دے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-10-15T20:40:15.760403126Z",
+  "model": "glm-5.3"
+}

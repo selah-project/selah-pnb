@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 38:30",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اُس نے",
+      "rationale": "فاعل عبرانی وچ فعل وچ کہیا گیا اے، پنجابی لئی وکھ لکھیا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "بیس",
+      "rationale": "אדני ستون\/دیوار د‏‏ی نیہہ اے، بیس (basis) د‏‏ی طرح"
+    }
+  ],
+  "translation": "تے اُس نال اُس نے ⟨את⟩ میٹنگ دے خیمے دے دہانے دے بیس بنائے، تے ⟨את⟩ تانبے د‏‏ی قربانگاہ، تے ⟨את⟩ تانبے دا جال جیہڑا اُس دا سی، تے ⟨את⟩ قربanگاہ دے سارے برتن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d2c16a773016f9048fd6ad5eaf8efca658c334f27a0b8763d36eeecb7ffbfb00",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/38\/29-31.1792097258152.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "تے بنائے"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اُس نال"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بیس"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "بیس"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "دہانے دے"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمے"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "میٹنگ دے"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "قربانگاہ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "قربانگاہ"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "تانبے د‏‏ی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "جال"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "جال"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "تانبے دا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اُس دا سی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "سارے برتن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "برتن"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "قربانگاہ دے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:47:38.153677506Z",
+  "model": "glm-5.3"
+}

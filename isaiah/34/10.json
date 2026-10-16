@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 34:10",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اُتھوں",
+      "rationale": "בה اِک اِکّا اے پر پنجابی جملہ فاعل منگدا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לנצח נצחים",
+      "rationale": "اِوہدی دوہرائی ودھو-ودھ دا اعلان اے؛ پنجابی وِچ ‘ہمیشہ ہمیشہ’ دھرکے نیڑے کیتا اے"
+    }
+  ],
+  "translation": "رات تے دن اوہ نئیں اہلے گی؛ ہمیشہ لئی اوہدا دھواں چڑھدا رہوے گا؛ نسل توں نسل تک اُجڑی رہوے گی؛ ہمیشہ ہمیشہ تک کوئی ⟨اُتھوں⟩ لنگھن والا نہ ہووے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "31e1321b6205f10e684ddf76cf386a26c834645a4bb0a7dfd78470d0518dfcfc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/34\/9-12.1792106546904.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לילה",
+      "gloss": "رات"
+    },
+    {
+      "surface": "ויומם",
+      "gloss": "تے دن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "اہلے گی"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشہ لئی"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "چڑھدا رہوے گا"
+    },
+    {
+      "surface": "עשנה",
+      "gloss": "اوہدا دھواں"
+    },
+    {
+      "surface": "מדור",
+      "gloss": "نسل توں"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "نسل تک"
+    },
+    {
+      "surface": "תחרב",
+      "gloss": "اُجڑی رہوے گی"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ہمیشہ لئی"
+    },
+    {
+      "surface": "נצחים",
+      "gloss": "ہمیشہ تاں"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کوئی نئیں"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "لنگھن والا"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اُتھوں"
+    }
+  ],
+  "timestamp": "2026-10-15T23:22:26.905354625Z",
+  "model": "glm-5.3"
+}

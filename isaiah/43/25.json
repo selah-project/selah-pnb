@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 43:25",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אנכי אנכי",
+      "rationale": "הोوئے ש_nome توں پہلاں دہراؤ، زور دین لئی؛ پنجابی وچ 'میں، میں آپ' رکھیا۔"
+    },
+    {
+      "kind": "you",
+      "subject": "تیرے",
+      "rationale": "خطاب یعقوو\/یِسرائیل نوں، گناہاں معاف ہون دا اعلان۔"
+    }
+  ],
+  "translation": "میں، میں آپ ایہو آہا، جیہڑا تیرے بغاوتاں نوں مِٹاندا آہا اپنے وسبے لئی، تے تیرے گناہاں نوں میں یاد نئیں کردا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fe49a81054e7a2701d57c200526619b14b534f5ddd80f4a03f24df34ec7d5459",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/43\/25-28.1792106740082.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں آپ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ایہو"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "مِٹاندا آہا"
+    },
+    {
+      "surface": "פשעיך",
+      "gloss": "تیرے بغاوتاں نوں"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "اپنے وسبے لئی"
+    },
+    {
+      "surface": "וחטאתיך",
+      "gloss": "تے تیرے گناہاں نوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "یاد کردا"
+    }
+  ],
+  "timestamp": "2026-10-15T23:25:40.082759211Z",
+  "model": "glm-5.3"
+}

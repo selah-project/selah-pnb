@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "lamentations 3:39",
+  "book": "lamentations",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חטאו",
+      "rationale": "חטא گناہ وی اے تے گناہ دی سزا وی — KJV 'سزا'، JPS 'گناہ'؛ بھاویں سیاق سزا ول اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "شکایت",
+      "rationale": "יתאונן مول روپ وِچ سرگوشی نال کراہنا\/برا بھلا کڈھنا اے"
+    }
+  ],
+  "translation": "زندہ آدمی، گبر ⟨بہادر بندہ⟩، اپنے گناہ دے سزا تے کیوں شکایت کردا اے؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a3d34480766170bf45fa38dc6a8b2628dd79137f0f017b588ec135423f0b1bab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/lamentations\/3\/37-40.1792117118260.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "יתאונן",
+      "gloss": "شکایت کردا اے"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "חי",
+      "gloss": "زندہ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "گبر"
+    },
+    {
+      "surface": "על",
+      "gloss": "تے"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "اپنے گناہ دے سزا"
+    }
+  ],
+  "timestamp": "2026-10-16T02:18:38.261659189Z",
+  "model": "glm-5.3"
+}

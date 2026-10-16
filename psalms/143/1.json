@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 143:1",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 143,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "prayer",
+      "rationale": "Imperatives 'سُن' تے 'کن دھر' یاہوہ نوں سدّیاں ہوئیاں بانگاں نیں۔"
+    },
+    {
+      "kind": "you",
+      "subject": "to یاہوہ",
+      "rationale": "دعا سدھی یاہوہ نوں مخاطب اے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "امانت",
+      "rationale": "אמונה دا مول 'پکا پن' اے؛ 'امانت' یا 'وفا' دوویں پاسے ہو سکدے نیں۔"
+    }
+  ],
+  "translation": "داوِد دا زمور۔ اے یاہوہ، میری اِلتجا سُن، میریاں بھیکاں ول کن دھر، اپنی امانت نال مینوں جواب دے، اپنی صداقت نال۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d7ea2addd3a0aa4d4a94507bbc4435ec9a6da2c7e1962af6ff60f2716542c0f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/143\/1-4.1792114183785.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "زمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد دا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سُن"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "میری اِلتجا"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "کن دھر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ول"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "میریاں بھیکاں"
+    },
+    {
+      "surface": "באמנתך",
+      "gloss": "اپنی امانت نال"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "مینوں جواب دے"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "اپنی صداقت نال"
+    }
+  ],
+  "timestamp": "2026-10-16T01:29:43.786358164Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 12:14",
+  "book": "hosea",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "دے ذریعے",
+      "rationale": "پنجابی 'نبی دے ذریعے' لئی جُڑدا اے؛ عبرانی وِچ صرف بِ- предлог اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נשמר",
+      "rationale": "ایتھے تے آیت 13 دے שמר اوہو جڑ اے — یعقوو نے بھیڈاں رکھیاں، یِسرائیل نبی نال رکھیا گیا"
+    }
+  ],
+  "translation": "تے نبی ⟨دے ذریعے⟩ یاہوہ نے ⟨את⟩ یِسرائیل نوں مِتصرایم توں چکیا، تے نبی ⟨دے ذریعے⟩ رکھیا گیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "46b4d4b6dc765202222b342c48e87a245e42046b168da7cd2e16064f8115b9b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/hosea\/12\/13-15.1792110549978.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובנביא",
+      "gloss": "تے نبی"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "چکیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یِسرائیل نوں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل نوں"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "مِتصرایم توں"
+    },
+    {
+      "surface": "ובנביא",
+      "gloss": "تے نبی"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "رکھیا گیا"
+    }
+  ],
+  "timestamp": "2026-10-16T00:29:09.979120652Z",
+  "model": "glm-5.3"
+}

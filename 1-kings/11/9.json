@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 11:9",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נטה לבבו מעם",
+      "rationale": "لفظی: دل جھک گیا\/پھر گیا — پنجابی وِچ 'دل پھر گیا' ای سوچ دا جوڑ اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "دو",
+      "rationale": "פעמים دوجا ('واری') عبرانی دا دوہویا صیغہ اے، 'دو' پنجابی نے دتا"
+    }
+  ],
+  "translation": "تے یاہوہ شلومو اُتے غصہ ہویا، کیوں جو اوہدا دل پھر گیا سی — یاہوہ توں، یِسرائیل دے ایلوہیم توں، جیہڑا اوہنوں دو واری وکھیا سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "cbbaa254da38dde57fdbe0764f7cd7ed41105a68d24dddb63df3f28ab3342a84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/11\/9-12.1792104396441.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתאנף",
+      "gloss": "غصہ ہویا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "شلومو اُتے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "پھر گیا سی"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "اوہدا دل"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "توں ⟨چھڈ کے⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "دے ایلوہیم"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "הנראה",
+      "gloss": "جیہڑا وکھیا سی"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اوہنوں"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "دو واری"
+    }
+  ],
+  "timestamp": "2026-10-15T22:46:36.442606734Z",
+  "model": "glm-5.3"
+}

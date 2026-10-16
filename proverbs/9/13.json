@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 9:13",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ہلڑ مچاؤندی اے",
+      "rationale": "המיה دا مول مطلب 'شور مچانا\/گونجنا' اے — 'clamorous' دے ورتلے توں وکھرا نه)"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨کِے کجھ⟩",
+      "rationale": "מہ روگٹھ دا سوال اے؛ پنجابی جملہ پورا کرن لئی ودھایا"
+    },
+    {
+      "kind": "crux",
+      "subject": "پתיות",
+      "rationale": "'سِدھی سادی' بمقابلہ 'بھولپن' — پ wt פתی 'للھایا جا سکن والا' توں اے"
+    }
+  ],
+  "translation": "کم‌عقلاں تریمتی ہلڑ مچاؤندی اے، سِدھی سادی اے، تے بالکل نئیں جاندی ⟨کِے کجھ⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b14cef59dd9bebb59506f6b958ba93e9573ab01bfd2b0f1dd7cc70c35a5df399",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/9\/13-16.1792114545487.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "تریمتی"
+    },
+    {
+      "surface": "כסילות",
+      "gloss": "کم‌عقلاں"
+    },
+    {
+      "surface": "המיה",
+      "gloss": "ہلڑ مچاؤندی اے"
+    },
+    {
+      "surface": "پתיות",
+      "gloss": "سِدھی سادی"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "تے بالکل نئیں"
+    },
+    {
+      "surface": "ידעה",
+      "gloss": "جاندی"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کِے کجھ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:35:45.487497563Z",
+  "model": "glm-5.3"
+}

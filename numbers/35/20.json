@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 35:20",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בצדיה",
+      "rationale": "'کوڑ لگا کے \/ تَرپّ نال' — KJV 'laying of wait' بمقابلہ بُت شہد ('نفرت نال') دے جوڑ وِچ دانستہ حملہ"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨کوئی شے⟩",
+      "rationale": "عبرانی صرف 'سٹے' آکھدا اے، سٹی گئی شے دا اشارہ پنجابی جملہ منگدا اے"
+    }
+  ],
+  "translation": "تے جے نفرت نال اوہنوں دھکا دے، یا کوڑ لگا کے اوہدے اُتے ⟨کوئی شے⟩ سٹے تے اوہ مر جاوے،",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7586cc054bbc5446ac83ba04e306b024ba0ed143a00ce0567eb54937f1eb3b82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/35\/17-20.1792099440078.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "בשנאה",
+      "gloss": "نفرت نال"
+    },
+    {
+      "surface": "יהדפנו",
+      "gloss": "اوہنوں دھکا دے"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "השליך",
+      "gloss": "سٹے"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اوہدے اُتے"
+    },
+    {
+      "surface": "בצדיה",
+      "gloss": "کوڑ لگا کے"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "تے مر جاوے"
+    }
+  ],
+  "timestamp": "2026-10-15T21:24:00.079223909Z",
+  "model": "glm-5.3"
+}

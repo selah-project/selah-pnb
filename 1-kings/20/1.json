@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 20:1",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "بادشاہ",
+      "rationale": "عبرانی وچ ’بتی بادشاہ‘ لئی وکھ گل نئیں، پنجابی جملے لئی واضح کیتا"
+    },
+    {
+      "kind": "measurement",
+      "subject": "بتی بادشاہ",
+      "rationale": "گنتی — وשלשים ושנים ’30 تے 2‘ دے ٹوکن صاف صاف کھلے نیں"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויצר",
+      "rationale": "'صور بنائی\/گھیرا پایا' — زیادہ تر ’گھیرا پایا‘ لیا جاندا اے، پر اصل تصویر ’قیطلب دا روپ دینا‘ اے"
+    }
+  ],
+  "translation": "تے بن-ہدّد، ارم دے بادشاہ نے، اپنی ساری فوج نوں اکٹھیا کیتا، تے اوہدے نال بتی بادشاہ ⟨سن⟩، تے گھوڑے تے رتھ، تے اوہ چڑھیا تے شومرون اُتے گھیرا پا لیا تے اوہدے نال لڑائی کیتی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5fd382057d5ee7188e7467a62c95c6e35ec7f8e69114c37fa7144ed43a5e97f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/20\/1-4.1792104741937.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "تے بن-ہدّد"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "بن-ہدّد"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ارم"
+    },
+    {
+      "surface": "קבץ",
+      "gloss": "اکٹھیا کیتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنی ساری فوج"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "اپنی فوج"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "تے بتی"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ اوہدے نال"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "تے گھوڑے"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "تے رتھ"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "تے اوہ چڑھیا"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "گھیرا پایا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "شومرون"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "تے لڑائی کیتی"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اوہدے نال"
+    }
+  ],
+  "timestamp": "2026-10-15T22:52:21.937711736Z",
+  "model": "glm-5.3"
+}

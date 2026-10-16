@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 20:6",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש 'جان\/ساہ' اے، روح دے مطلب نال نئیں — پنجابی 'جان' اوہدے نیڑے اے۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "האבת והידענים",
+      "rationale": "'اُوב' تے 'یدعونی' — مُردیاں نال گل کرن والے؛ کجھ مترجم 'جادوگر' آکھدے نیں، شکل 'بھِبھکن والا\/جانن والا' رکھی اے۔"
+    },
+    {
+      "kind": "idiom",
+      "subject": "שים פני",
+      "rationale": "'منہ … وِچ کرنا' — آیت 5 والا اِڈم دُہرایا گیا اے۔"
+    }
+  ],
+  "translation": "تے اُہ جان جیہڑی مُردار پُچھن والیاں ول تے جاناں جانون والیاں ول مُڑے، اوہناں پچھوں زنا کرن لئی — اَ میں ⟨את⟩ اپنا منہ اُس جان وِچ کراں گا، تے اَ میں اوہنوں اُہدے قوم وِچوں کٹّ دیناں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "81eae7be84484b6eb4f18765251f4c3fc88d7fb023e0e78a42d6038537726f15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/20\/5-8.1792097941676.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנפש",
+      "gloss": "تے اُہ جان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "תפנה",
+      "gloss": "مُڑے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ول"
+    },
+    {
+      "surface": "האבת",
+      "gloss": "مُردار پُچھن والیاں"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے … ول"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "جاناں جانون والیاں"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "زنا کرن لئی"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "اوہناں پچھوں"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "تے اَ میں … کراں گا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنا منہ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "منہ"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "جان وِچ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اُس"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "تے اَ میں کٹّ دیناں"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "اوہنوں"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "وِچوں"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "اُہدے قوم"
+    }
+  ],
+  "timestamp": "2026-10-15T20:59:01.677084364Z",
+  "model": "glm-5.3"
+}

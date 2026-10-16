@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 148:1",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 148,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "psalms 148:1",
+      "rationale": "بارداری دے حکمی فقرے — تعریف کرو — پاٹھ نوں سدّیندے نیں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הללו יה",
+      "rationale": "ہلّیلو یاہ = ہلیلویاہ، تعریف+یاہ دا جوڑ؛ پنجابی وِچ ایہ جوڑ کھڑدا اے"
+    }
+  ],
+  "translation": "تعریف کرو یاہ دی، تعریف کرو ⟨את⟩ یاہوہ دی اسماناں توں، تعریف کرو اوہدنی اُچیاں تھاواں وِچ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b7de9ca12aa90e11fddb0f03bf01ddf6fc7ac854967742600f4f57db821fb128",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/148\/1-4.1792114270496.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "تعریف کرو"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاہ"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "تعریف کرو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "اسماناں"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "تعریف کرو اوہدنی"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "اُچیاں تھاواں وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:31:10.497345164Z",
+  "model": "glm-5.3"
+}

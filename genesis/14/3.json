@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 14:3",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חברו",
+      "rationale": "'جُڑے\/مِل گئے' — JPS 'اتحاد بن کے آئے' بمقابلہ KJV 'ات اکٹھے ہوئے'؛ فوجاں دا اکھاڑا ہونا مقصود اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨اے⟩",
+      "rationale": "شناختی جملے 'הוא ים המלח' وِچ پنجابی نوں copula چاہیدا اے، عبرانی وِچ نئیں"
+    },
+    {
+      "kind": "measurement",
+      "subject": "نمک دا سمندر",
+      "rationale": "تھاواں دی نشاندہی تے جغرافیائی وضاحت — وادی صدیم دا سنگِ میل"
+    }
+  ],
+  "translation": "ایہہ سارے وادی صدیم وِچ ⟨اکٹھے⟩ ہوئے — اوہی سمندر نمک ⟨اے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ed2e15dcb843095be80b41dcb78209043844a92500bbc4648dbb294936ee1875",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/14\/2-3.1792123233560.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "⟨اکٹھے⟩ ہوئے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "وادی"
+    },
+    {
+      "surface": "השדים",
+      "gloss": "صدیم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہی"
+    },
+    {
+      "surface": "ים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "نمک"
+    }
+  ],
+  "timestamp": "2026-10-16T04:00:33.561123393Z",
+  "model": "glm-5.3"
+}

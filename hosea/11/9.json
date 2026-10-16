@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 11:9",
+  "book": "hosea",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "عبرانی وِچ کوئی کپولا نئیں — 'تیرے وِچکار پوتر' دی پنجابی جملہ بݨتر لئی ⟨اے⟩ دتا"
+    },
+    {
+      "kind": "crux",
+      "subject": "شہر وِچ داخل نئیں ہوواں گا",
+      "rationale": "کجھ مترجم 'غصے نال داخل نئیں ہوواں گا' پڑھدے نیں (ASV\/JPS)؛ لفظی متن صرف 'شہر وِچ داخل نئیں ہوواں گا' اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "اَکھ دا غصہ",
+      "rationale": "אפי لفظی طور تے 'میری نَک\/ناس' اے — عبرانی غصے نوں ناس دی بھڑک نال دکھوندا اے"
+    }
+  ],
+  "translation": "میں اپنی اَکھ دے غصے دی بھڑک نوں نئیں کریگا، میں اِپرایِم نوں بارباد کرن لئی مُڑاں گا نئیں، کیونکہ میں ایل آں تے بندہ نئیں، تیرے وِچکار پوتر ⟨اے⟩، تے میں شہر وِچ داخل نئیں ہوواں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9bae756fadcab15ae3185187d41e0eb0d4afcde43d5a70e9bfe5eef4be34d884",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/hosea\/11\/9-11.1792110543328.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "کریگا"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "بھڑک"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "اَکھ دے غصے دی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "مُڑاں گا"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "بارباد کرن لئی"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "اِپرایِم نوں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں آں"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "تیرے وِچکار"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "پوتر"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "داخل ہوواں گا"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "شہر وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T00:29:03.328755101Z",
+  "model": "glm-5.3"
+}

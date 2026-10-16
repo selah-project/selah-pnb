@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 10:2",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לוחת … לוחת",
+      "rationale": "اکو لفظ دو واری — پہلیاں لکھائیاں تے نویاں وِچ آئینہ، پنجابی وِچ وی دوہرایا اے"
+    },
+    {
+      "kind": "you",
+      "subject": "to Moshe",
+      "rationale": "یاہوہ دا حکم موشے نوں جاری اے"
+    }
+  ],
+  "translation": "تے میں لکھائیاں اُتے ⟨את⟩ اوہ گلاں لکھاں گا جیہڑیاں پہلیاں لکھائیاں اُتے سن — جیہڑیاں تُوں توڑیاں سن — تے تُوں اوہناں نوں صندوق وِچ رکھیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b271a3e442c49beb7e6f752a2ed9e082a3529a768624f4a9f20b44cb682bfd5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/10\/1-4.1792099830853.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "تے میں لکھاں گا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "لکھائیاں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گلاں"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "گلاں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑیاں"
+    },
+    {
+      "surface": "היו",
+      "gloss": "سن"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "لکھائیاں"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "پہلیاں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑیاں"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "توڑیاں سن"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "تے رکھیں"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "صندوق وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T21:30:30.854644525Z",
+  "model": "glm-5.3"
+}

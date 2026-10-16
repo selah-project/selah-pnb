@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 145:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "عبرانی جملے وچ کوپولا نئیں؛ پنجابی چاہیدا اے"
+    },
+    {
+      "kind": "mystery",
+      "subject": "חקר",
+      "rationale": "خدا دی وڈائی دا کھوج نہ سکھن والا ہونا — راز دی گل"
+    }
+  ],
+  "translation": "یاہوہ وڈا اے تے بہت مڈھانی لایق، تے اوہدی وڈائی دی کوئی پیر نئیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c75e2c3935a863208f7b83342017afaf0e0381497f5a0e2093666fe8e45e4748",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/145\/1-4.1792114251689.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "وڈا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "تے مڈھانی لایق"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بہت"
+    },
+    {
+      "surface": "ולגדלתו",
+      "gloss": "تے اوہدی وڈائی دی"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کوئی نئیں"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "پیر"
+    }
+  ],
+  "timestamp": "2026-10-16T01:30:51.690304926Z",
+  "model": "glm-5.3"
+}

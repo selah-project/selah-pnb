@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 24:21",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to the son",
+      "rationale": "حکم پُتر نوں سدھا مخاطب اے — 'בני' پہلاں آؤندا اے، پنجابی وچ سدھا پتا لگدا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "שונים",
+      "rationale": "שׁוֹנִים — 'بدلن والے' (KJV) بمقابلہ 'باغی\/سرکش' (BSB)؛ جڑ שׁנה = بدلنا"
+    },
+    {
+      "kind": "invitation",
+      "subject": "imperatives",
+      "rationale": "دو حکم: ڈر تے رلت نا گانڈھا — پاکھی لئی سدعا"
+    }
+  ],
+  "translation": "اَے میرے پُتر، ⟨את⟩ یاہوہ توں ڈر تے بادشاہ ⟨توں⟩؛ بدلن والیاں نال رلت نا گانڈھا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "edd8b690f09834782e52c185a11528794de93976100281d0a8aed5d997946ad6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/24\/21-24.1792115049527.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ירא",
+      "gloss": "ڈر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "اَے میرے پُتر"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "تے بادشاہ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "بدلن والیاں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "رلت نا گانڈھا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:44:09.527988042Z",
+  "model": "glm-5.3"
+}

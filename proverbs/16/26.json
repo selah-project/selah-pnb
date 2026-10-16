@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 16:26",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עמל\/עמלה",
+      "rationale": "اکو جڑ دو واری — 'مہنتو\/مہنت کردی' نال آواز دا رشتہ رکھیا گیا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/بُھکھ\/جیون-زور اے، فلسفی 'روح' نئیں"
+    },
+    {
+      "kind": "crux",
+      "subject": "פיהו",
+      "rationale": "مُولہ بُکھ ماریا، پر کجھ پڑھدے نیں 'اوہدے مُولھے (دند)"
+    },
+    {
+      "kind": "alternative",
+      "subject": "אכף",
+      "rationale": "لفظی 'دباؤدا\/دھکدا' — 'تُر پاؤندا' نرم صور اے"
+    }
+  ],
+  "translation": "مہنتو والی جان اوہدے آپ لئی مہنت کردی اے، کیوں جو اوہدا مُولہ اوہنوں تُر پاؤندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0cf071747af59804ffa791b5ff4fdb3e309376c98002a761a828368a35808735",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/16\/25-28.1792114732153.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "مہنتو والی"
+    },
+    {
+      "surface": "עמלה",
+      "gloss": "مہنت کردی اے"
+    },
+    {
+      "surface": "لו",
+      "gloss": "اوہدے آپ لئی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אכף",
+      "gloss": "تُر پاؤندا اے"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اوہنوں"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "اوہدا مُولہ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:38:52.154224933Z",
+  "model": "glm-5.3"
+}

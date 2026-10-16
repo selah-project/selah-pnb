@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "کوئی کلام نئیں",
+      "rationale": "عبرانی ׳אין אמר׳ دے دو پڑھ نیں: 'اُہناں دی بولی نئیں سنی جاندی' (KJV) یا 'بولی دے بِناں' (BSB) — سیاق آیت 3 دی تسبیح ول اشارہ کردا اے"
+    }
+  ],
+  "translation": "کوئی کلام نئیں تے کوئی گلاں نئیں — بِنا سنیاں اُوہناں دی آواز۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d8287053d8f596e0214dd1b5c0435b86ff9547bcd3bbb54b7e30a0f6ab64ac4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/19\/1-4.1792112080255.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "کوئی … نئیں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "تے کوئی … نئیں"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "گلاں"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "بِنا"
+    },
+    {
+      "surface": "נשمע",
+      "gloss": "سنیاں"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "اُوہناں دی آواز"
+    }
+  ],
+  "timestamp": "2026-10-16T00:54:40.256507609Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "isaiah 28:29",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הפליא עצה",
+      "rationale": "KJV\/ASV پڑھدے نیں 'جیہڑا صلاح وِچ عجیب اے' (صفتی)، JPS\/YLT 'اوہنے صلاح نوں عجیب بنایا' (فعل) — عبرانی فعلھی دونوں بردے نیں۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תושיה",
+      "rationale": "لفظی 'بنیاد\/صلاحیت'، کم از کم پنجابی وِچ 'دانائی' ریت دا ترجمہ اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "ہے",
+      "rationale": "پنجابی جملے لئی جوڑ درکار، عبرانی وِچ کوئی فعلِ ربط نئیں۔"
+    }
+  ],
+  "translation": "ایہہ وی یاہوہ تصواوت کولوں نِکلیا — اوہنے صلاح نوں حیران کرن والا بنایا، اوہنے دانائی نوں وڈا کیتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "45a6cf0158123e7eed77e3150858c3d395ee7ff30987ead64115350d17d0d405",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/28\/29-29.1792106347062.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "کولوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "تصواوت"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "نِکلیا"
+    },
+    {
+      "surface": "הפליא",
+      "gloss": "حیران کرن والا بنایا"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "صلاح"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "وڈا کیتا"
+    },
+    {
+      "surface": "תושיה",
+      "gloss": "دانائی"
+    }
+  ],
+  "timestamp": "2026-10-15T23:19:07.063373804Z",
+  "model": "glm-5.3"
+}

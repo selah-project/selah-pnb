@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 11:6",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מסח",
+      "rationale": "ایہہ لفظ صرف ایتھے آؤندا اے: 'رکاوٹ\/دروازہ بند کرنا' توں لے کے KJV دی 'تاہِے او نہ ڈِگّے' تک مفہوم وکھرے نیں"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מסח",
+      "rationale": "تنخ وِچ صرف اِک واری"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הרצים",
+      "rationale": "'دوڑن والے' — شاہی محافظ دستے دا ناں، 'پہردار' ترجمہ اے"
+    }
+  ],
+  "translation": "تے تِجا حصہ سور دروازے اُتے، تے تِجا حصہ پہرداراں دے پچھے دروازے اُتے، تے تُسیں گھر دی پہرا رکھو ⟨את⟩ رکاوٹ بَن کے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "098ecdd1aeadeb978df1622597a1639f8b85f034d8dfc876a958172ab2cf4a62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/11\/5-8.1792105177775.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשלשית",
+      "gloss": "تے تِجا حصہ"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "دروازے اُتے"
+    },
+    {
+      "surface": "סור",
+      "gloss": "سور"
+    },
+    {
+      "surface": "והשלשית",
+      "gloss": "تے تِجا حصہ"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "دروازے اُتے"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "پچھے"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "پہرداراں دے"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "تے تُسیں پہرا رکھو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پہرا"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "پہرا"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر دی"
+    },
+    {
+      "surface": "מסח",
+      "gloss": "رکاوٹ"
+    }
+  ],
+  "timestamp": "2026-10-15T22:59:37.776882090Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 59:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "داوِد توں ایلوہیم",
+      "rationale": "سِدھا پُکار — میرے ایلوہیم"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שגב",
+      "rationale": "لفظ دا مول اے 'اُچا ہونا \/ پہنچ توں باہر' — بچا چھڈاؤݨاں تے اُچائی دونواں وِچ اے"
+    }
+  ],
+  "translation": "میرے دشمناں توں مینوں چھڈوا، میرے ایلوہیم! میرے اُٹھ کھلوٹیاں توں مینوں اُچی تھاں تے رکھ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "161e5b2a0a73b0a2567e038eb3a269d37ec94c55d3b8572bc845b05c96e95c64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/59\/1-4.1792112730970.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "مینوں چھڈوا"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "میرے دشمناں توں"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "میرے ایلوہیم"
+    },
+    {
+      "surface": "ממתקוממי",
+      "gloss": "میرے اُٹھ کھلوٹیاں توں"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "مینوں اُچی تھاں تے رکھ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:05:30.971221027Z",
+  "model": "glm-5.3"
+}

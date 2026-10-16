@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 100:5",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 100,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "عبرانی وِچ copula نئیں، پنجابی نوں 'اے' چاہیدا"
+    },
+    {
+      "kind": "crux",
+      "subject": "חסד",
+      "rationale": "خیسِد رکھیا گیا — رحم\/فضل\/پیار اکلا ہر اک ادھا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דר ודר",
+      "rationale": "نسل تے نسل — عبرانی دی dohraہوی ритھم، پنجابی وِچ جوڑ 'تے' نال بجھایا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "سچائی",
+      "rationale": "אמונה دا مول 'مضبوطی\/وثوق' اے، 'سچائی' اوہدے نیڑے دا پنجابی لفظ"
+    }
+  ],
+  "translation": "کیونجے یاہوہ چنگا اے، اوہدا خیسِد ⟨ہمیشہ لئی⟩ اے، تے نسلاں توں نسل تک اوہدی سچائی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a9149f4869b8ab7ea1c87c2d2ccd930ce505ac28441e37936bca1d4549670bf6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/100\/5-5.1792113423693.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشہ لئی"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "اوہدا خیسِد"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تے…تک"
+    },
+    {
+      "surface": "דר",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "تے نسل"
+    },
+    {
+      "surface": "אמונתו",
+      "gloss": "اوہدی سچائی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:17:03.694458532Z",
+  "model": "glm-5.3"
+}

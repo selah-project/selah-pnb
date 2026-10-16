@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 27:25",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "سَوَر",
+      "rationale": "חציר اِکو لفظ گھاہ تے پیاز دا ساdaq ویل لئی اے؛ ایتھے سُکّے سَوَر\/گھاہ دا مطلب اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "ہریا",
+      "rationale": "دשא نویں نکلدا تازہ گھاہ اے، پنجابی وِچ ہریا وادھو آیا"
+    },
+    {
+      "kind": "crux",
+      "subject": "גלה",
+      "rationale": "'ہٹایا\/کھلریا' (asv, jps: mown\/removed) بمقابلہ kjv 'کھلدا اے' — قاف دا راگ ہٹن دا اے، دِسّن دا نئیں"
+    }
+  ],
+  "translation": "سَوَر ہٹا دِتّا گیا تے ہریا گھاہ دِکھیا، تے پہاڑاں دے گھاہ اِکٹھے کیتے گئے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "77379553d099267a1d02374608fba4f2bd4e4b1a765d852a36f439702c95b42f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/27\/25-27.1792115179884.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גלה",
+      "gloss": "ہٹا دِتّا گیا"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "سَوَر"
+    },
+    {
+      "surface": "ונראה",
+      "gloss": "تے دِکھیا"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "ہریا گھاہ"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "تے اِکٹھے کیتے گئے"
+    },
+    {
+      "surface": "עשבות",
+      "gloss": "گھاہ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "پہاڑاں دے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:46:19.885247894Z",
+  "model": "glm-5.3"
+}

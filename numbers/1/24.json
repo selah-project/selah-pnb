@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 1:24",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "census",
+      "rationale": "گنتی دی آیت — ٹبراں، گھراں تے ناواں دی گنتی، ویہہ ورھے توں اُتے دے لشکر والے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "مבן עשרים שנה",
+      "rationale": "عبرانی سچ مُچی کہندا اے 'ویہہ ورھیاں دے پُتر توں' — 'پُتر' دا لفظ پنجابی وِچ چھُٹ گیا۔"
+    }
+  ],
+  "translation": "گاد دے پُتراں دیاں، اوہناں دیاں نسلاں توں، اوہناں دے ٹبراں وِچ، اوہناں دے پیوآں دے گھراں وِچ، ناواں دے گنتی نال، ویہہ ورھیاں توں تے اُتے، ہر اوہ جیہڑا لشکر وِچ نکلدا سی —",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6a0542ac8cac4fdea99971690f9bbb3402328db1ed89a5400dfacaf5578b0e58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/1\/24-24.1792123388826.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "دے پُتراں دیاں"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "תולדתם",
+      "gloss": "اوہناں دیاں نسلاں"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "اوہناں دے ٹبراں وِچ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "گھراں وِچ"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "اوہناں دے پیوآں دے"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "گنتی نال"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ناواں دے"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ویہہ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ورھیاں"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "نکلدا سی"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "لشکر وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T04:03:08.827334936Z",
+  "model": "glm-5.3"
+}

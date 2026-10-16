@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 28:6",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "وِچ",
+      "rationale": "עפרות 'دھوڑ\/مِٹی' نال تعلق پنجابی وِچ 'وِچ' توں بِنا پورا نئیں ہوندا۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "نیلماں",
+      "rationale": "ספיר شاید لاجورد-ورگی مگرمچھ ہے؛ 'نیلم' پہنچ-لفظ اے۔"
+    }
+  ],
+  "translation": "اُودیاں پتھراں دی تھاں نیلماں دی اے، تے اُودے مِٹی وِچ سونا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8297eed3fe485dcd7ab9fa6e14f88d233b07233602ed65c18249473b8b237e36",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/28\/5-8.1792116103437.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מקום",
+      "gloss": "تھاں"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "نیلماں"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "اُودیاں پتھراں"
+    },
+    {
+      "surface": "ועפרת",
+      "gloss": "تے مِٹی وِچ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اُودے"
+    }
+  ],
+  "timestamp": "2026-10-16T02:01:43.437766850Z",
+  "model": "glm-5.3"
+}

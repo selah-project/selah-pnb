@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 9:5",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לו דבר",
+      "rationale": "لو-دبار دا مطلب 'کوئی گل نئیں' — تھاں دے ناں وِچ ہی کھوکھلا پن اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "لے آیا",
+      "gloss": "",
+      "rationale": "ויקחהو 'اوہنوں لے آیا' — וישלח 'گھلّیا' نال جُڑیا فعل۔"
+    }
+  ],
+  "translation": "تے بادشاہ داوِد نے گھلّیا تے اوہنوں ماخِیر، پُتر عَمّیایل دے گھروں، لو-دبار توں لے آیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b2430ab23e4e3277b632c5ee95cb5df372b7c291bc8e1dfc03d75dfd1a533fb0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/9\/5-8.1792103295265.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "تے گھلّیا"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "تے اوہنوں لے آیا"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "گھروں"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "ماخِیر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "عَمّیایل"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "لو-"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "دبار"
+    }
+  ],
+  "timestamp": "2026-10-15T22:28:15.266195289Z",
+  "model": "glm-5.3"
+}

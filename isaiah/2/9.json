@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תשא",
+      "rationale": "کجھ ترجمے 'معاف نہ کر'، کجھ 'چُک نہ' (JPS) — ناشا ایتھے بار چُکن دے معنے وِچ"
+    },
+    {
+      "kind": "addition",
+      "subject": "تُوں",
+      "rationale": "عبرانی وِچ فاعل غائب اے، پنجابی امری مرکب منگدا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שח\/שפל",
+      "rationale": "دوویں جھکن دے قریبی مترادف — جھکاؤ دا دوہرا مضمون"
+    }
+  ],
+  "translation": "تے آدمی جُھک گیا تے بندہ نیواں ہو گیا — ⟨تُوں⟩ اوہناں نوں ⟨معاف⟩ نہ کر۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b7d920db671c832a981092ae3c17743596a6042774dfb31b98b3917dc5525727",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/2\/9-12.1792105683573.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "تے جُھک گیا"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "تے نیواں ہو گیا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "⟨معاف⟩ کر"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اوہناں نوں"
+    }
+  ],
+  "timestamp": "2026-10-15T23:08:03.574114425Z",
+  "model": "glm-5.3"
+}

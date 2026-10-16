@@ -1,0 +1,133 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-chronicles 6:30",
+  "book": "2-chronicles",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ידע\/ידעת",
+      "rationale": "'جانݨ' دی دوہرائی — تُوں دل جانیں، کیول تُوں ای جانیں — عبرانی دی اسار پنجابی وِچ دہرائی نال رکھی"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לבב",
+      "rationale": "'دل' — عبرانی لِبّاو اندرلا member، سوچ دی تھاں، صرف جسمانی نئیں"
+    },
+    {
+      "kind": "you",
+      "subject": "یاہوہ",
+      "rationale": "دعا دا سدھا مخاطب یاہوہ اے"
+    }
+  ],
+  "translation": "تے تُوں اسماناں توں، اپنے وسݨ دے ٹکانے توں سنیں، تے معاف کر، تے ہر بندے نوں اوہدیاں ساریاں راہواں دے مطابق دے — جیہڑا ⟨את⟩ دل تُوں جاندا ایں — کیوں جو تُوں، کیول تُوں ای، آدم دے پتراں دے ⟨את⟩ دل نوں جانیا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "47e94f33a4a3f7a56d011f5e661c9c3e96814274e44fe23a257a568b1abdaf70",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/6\/29-32.1792121772096.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "تے تُوں"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "سنیں"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "اسماناں"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "ٹکانا"
+    },
+    {
+      "surface": "שבתך",
+      "gloss": "تیرے وسݨ دا"
+    },
+    {
+      "surface": "וסלחת",
+      "gloss": "تے معاف کر"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "تے دے"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ہر بندے نوں"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "دے مطابق ساریاں"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "اوہدیاں راہواں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "تُوں جاندا ایں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دل"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "دل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُوں"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "کیول تُوں ای"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "جانیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آدم دے پتراں دا دل"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پتر"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "آدم دے"
+    }
+  ],
+  "timestamp": "2026-10-16T03:36:12.097804656Z",
+  "model": "glm-5.3"
+}

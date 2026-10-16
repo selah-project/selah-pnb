@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 6:34",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "عبرانی وِچ کوئی فعل 'اے' نئیں، پنجابی نقل دی لوڑ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "کھہا",
+      "rationale": "חמה دا مول مطلب 'گرمی\/تپّ' اے، 'کھہا' مجازی ترجمہ اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "مرد",
+      "rationale": "גבר — 'زبردست جنگجو' توں 'بندہ\/مرد' تک مفسراں دا اختلاف"
+    }
+  ],
+  "translation": "کیوں جو غیرت ⟨ای⟩ مرد دی کھہا ⟨اے⟩، تے بدلے دے دن اوہ رعایت نئیں کریگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d58f996a7edda261c7e9c2a410c7dc325e39f21154ffa18151f4705c378c9373",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/6\/33-35.1792114463704.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "غيرت"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "کھہا"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "יחמול",
+      "gloss": "رعایت کریگا"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "دے دن"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "بدلے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:34:23.705596054Z",
+  "model": "glm-5.3"
+}

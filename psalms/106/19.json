@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 106:19",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "لیلا",
+      "rationale": "עגל اِک وڈھا لیلا اے، بھاویں سنہری بُت — کجھ زباناں 'بچھڑا' آکھدیاں نیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "دُھاں دے بُت",
+      "rationale": "מסכה دا مطلب اے پِگھلائی دھات دا ڈھالیا بُت، صرف 'بُت' کہنا مکمل نئیں"
+    },
+    {
+      "kind": "you",
+      "subject": "اِسرائیل دی اولاد",
+      "rationale": "آیت اِسرائیل دے پچھوکے نوں سناؤندی اے — وائلڈرنیس دی گواہی"
+    }
+  ],
+  "translation": "اوہناں حوریرب وِچ اِک لیلا ⟨و› بݨایا تے دُھاں دے بُت نوں سِر جھکایا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a59a40ec0d963f42fc366c61a6b9d4c1902285b82240e7516893a11cba7347f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/106\/19-20.1792124210801.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יעשו",
+      "gloss": "بݨایا"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "لیلا"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "حوریرب وِچ"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "تے سِر جھکایا"
+    },
+    {
+      "surface": "למסכה",
+      "gloss": "دُھاں دے بُت نوں"
+    }
+  ],
+  "timestamp": "2026-10-16T04:16:50.802247680Z",
+  "model": "glm-5.3"
+}

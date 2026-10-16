@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 1:28",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "اسیں کتھے چڑھیے؟",
+      "rationale": "قوم دا سوال، سوالیہ روپ نال پڑھونوں چھوہدا اے"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ערים בצורות בשמים",
+      "rationale": "'اسمان تک مضبوط شہر' — ودھیک دا اِدiom، حرفياً نئیں اسمان تک دیوار"
+    },
+    {
+      "kind": "substitution",
+      "subject": "پگھلا دِتا",
+      "rationale": "המסו دا پکا مطلب 'پگھلنا' اے — 'ڈرایا' نئیں"
+    }
+  ],
+  "translation": "اسیں کتھے چڑھیے؟ ساڈے بھراواں ⟨את⟩ ساڈا دل پگھلا دِتا، آکھ کے: قوم وڈی تے اُچی اے ساڈے توں؛ شہر وڈے نیں تے مضبوط اسمان تک؛ تے ہور وی عنقیاں دے پُتر اسیں اوتھے ویکھے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "48b94d0c530c9153dd626acbc65bfd49b575b7097124b0dd708cea1861387080",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/1\/25-28.1792099593401.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "کتھے"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "اسیں"
+    },
+    {
+      "surface": "עלים",
+      "gloss": "چڑھیے"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "ساڈے بھراواں"
+    },
+    {
+      "surface": "המסו",
+      "gloss": "پگھلا دِتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ساڈا دل"
+    },
+    {
+      "surface": "לבבנו",
+      "gloss": "ساڈا دل"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ کے"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وڈی"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "تے اُچی"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ساڈے توں"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "وڈے نیں"
+    },
+    {
+      "surface": "ובצורת",
+      "gloss": "تے مضبوط"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "اسمان تک"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "تے ہور وی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ענקים",
+      "gloss": "عنقیاں دے"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "اسیں ویکھے"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اوتھے"
+    }
+  ],
+  "timestamp": "2026-10-15T21:26:33.403105658Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 41:18",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨رکھاں گا⟩",
+      "rationale": "על … נהרות دے نال کوئی کریا نئیں؛ 'کھولاں گا' پہلے نال جُڑدا اے پر دوجی جوڑت لئی فعل چاہیدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שפיים",
+      "rationale": "'ننگیاں اُچائیاں' — שפי دا مول مطلب ننگا پن اے، چوٹی دھیان نال"
+    }
+  ],
+  "translation": "میں ننگیاں اُچائیاں اُتے دریا کھولاں گا، تے وادیاں دے وِچکار جھرنےآں نوں ⟨رکھاں گا⟩؛ میں بِلاؤنے نوں پانی دی جھیل بناواں گا، تے سُکی زمین نوں پانی دے چشمیاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e9267529bbd15d38ffd36d17614ba395fa857cec3cddcd1349fa607d2db202ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/41\/17-20.1792106750680.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אפתח",
+      "gloss": "کھولاں گا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "שפיים",
+      "gloss": "ننگیاں اُچائیاں"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "تے … دے وِچکار"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "وادیاں"
+    },
+    {
+      "surface": "מעינות",
+      "gloss": "جھرنے"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "بناواں گا"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "بِلاؤنا"
+    },
+    {
+      "surface": "לאגם",
+      "gloss": "جھیل لئی"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پانی دی"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "تے زمین"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "سُکی"
+    },
+    {
+      "surface": "למוצאי",
+      "gloss": "چشمیاں لئی"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پانی دے"
+    }
+  ],
+  "timestamp": "2026-10-15T23:25:50.681475518Z",
+  "model": "glm-5.3"
+}

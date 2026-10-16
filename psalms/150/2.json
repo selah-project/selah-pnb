@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 150:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 150,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨دی⟩",
+      "rationale": "پنجابی نوں כ- دی نسبت لئی تعلق دی ضمیر چائیدی اے، عبرانی وِچ صرف کاف اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הללוהו",
+      "rationale": "فعل دی تکرار — אין فعل چار واری، ترانے دی تال قائم کردی اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "בגבורתיו",
+      "rationale": "'اوہدیاں قوتاں وِچ' — طاقتاں\/کرامات دے کماں لئی، یا شاید سازاں دی طاقت"
+    }
+  ],
+  "translation": "اوہدے واہ واہ کرو اوہدیاں قوتاں وِچ، اوہدے واہ واہ کرو اوہدے وڈیائی دے بھروار ⟨دی⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "19dd0f2659ba98ed2c45a0f38bacfb147fcb5a733a6140dd4f00b9acc1c11f59",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/150\/1-2.1792124195963.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "اوہدے واہ واہ کرو"
+    },
+    {
+      "surface": "בגבורתיו",
+      "gloss": "اوہدیاں قوتاں وِچ"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "اوہدے واہ واہ کرو"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "بھروار ⟨دی⟩"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "اوہدے وڈیائی"
+    }
+  ],
+  "timestamp": "2026-10-16T04:16:35.963828383Z",
+  "model": "glm-5.3"
+}

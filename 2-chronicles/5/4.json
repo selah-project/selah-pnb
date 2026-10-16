@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 5:4",
+  "book": "2-chronicles",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نے",
+      "rationale": "عبرانی وِچ کرتا دا نشان نئیں، پنجابی منگدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "صندوق",
+      "rationale": "הארון دا مطلب بکسہ\/صندوق اے، 'تابوت' ریتی لفظ اے — عہد دا صندوق"
+    }
+  ],
+  "translation": "تے یِسرائیل دے سارے بزرگوں نے آ کے لاویاں نے ⟨את⟩ صندوق نوں چُکیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "049c76b5af37d1dc4c441fe4c73029997db1952bb8292f6593ddd20b30875ebe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/5\/4-4.1792124419343.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "آ کے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "بزرگوں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "چُکیا"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لاویاں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صندوق"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "صندوق"
+    }
+  ],
+  "timestamp": "2026-10-16T04:20:19.343776586Z",
+  "model": "glm-5.3"
+}

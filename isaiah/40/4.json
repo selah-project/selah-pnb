@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 40:4",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "העקב",
+      "rationale": "śłš قدم\/ٹیڈھاں — ”دھوکھے والی تھاں” دی مورت؛ پنجابی ”ٹیڈھا” ای قریب اے۔"
+    },
+    {
+      "kind": "alternative",
+      "subject": "והיה",
+      "rationale": "”تے ہووےگا” مستقبل دا وعدہ — کجھ ترجمے ”بݨ جاوے گا” پاسے جھکدے نیں۔"
+    }
+  ],
+  "translation": "ہر وادی اُچی کیتی جاوے گی، تے ہر پہاڑ تے ٹیلہ نیواں کیتا جاوے گا، تے ٹیڈھا سیدھا ہو جاوے گا، تے اُچی جھکڑ والیاں تھاواں میدان بݨ جاݨگیاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2c47c8032b261dec1f5806e5a5b6003ca79c26a4981197e86ddd957385c3521a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/40\/1-4.1792106720223.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "وادی"
+    },
+    {
+      "surface": "ינשא",
+      "gloss": "اُچی کیتی جاوے گی"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے ہر"
+    },
+    {
+      "surface": "הר",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "וגבעה",
+      "gloss": "تے ٹیلہ"
+    },
+    {
+      "surface": "ישפלו",
+      "gloss": "نیواں کیتا جاوے گا"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "تے ہووےگا"
+    },
+    {
+      "surface": "העקב",
+      "gloss": "ٹیڈھا"
+    },
+    {
+      "surface": "למישור",
+      "gloss": "سیدھا\/میدان"
+    },
+    {
+      "surface": "והרכסים",
+      "gloss": "تے اُچی جھکڑ والیاں تھاواں"
+    },
+    {
+      "surface": "לבקעہ",
+      "gloss": "میدان"
+    }
+  ],
+  "timestamp": "2026-10-15T23:25:20.224081778Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 79:12",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 79,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חרפתם \/ חרפוך",
+      "rationale": "חרף جڑ دو واری — ’بے عزتی … بے عزتی کیتی’ — پنجابی وِچ وی دوہرایا اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "שבעתים",
+      "rationale": "’ستّ گنا’ — پوری-پورے حساب دا لفظ، لے‌ییکشjon 4:24 دا وعدہ پچھے کھلوندا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "اوہناں بے عزتی",
+      "rationale": "חרפוך وِچ کرن والے لُکیا ہوئے نیں — پنجابی جملے لئی جوڑنا پیا"
+    }
+  ],
+  "translation": "تے ساڈے گوانڈھیاں نوں موڑ دے ستّ گنا اوہناں دی جھولی وِچ اوہناں دی بے عزتی، جیہڑی اوہناں تینوں کیتی، اے ادونای۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "edf39761c57cdfb835e9bdffc14709e5c682091683f7a2016cd8716bf8408884",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/79\/9-12.1792113157571.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשב",
+      "gloss": "تے موڑ دے"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "ساڈے گوانڈھیاں نوں"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "ستّ گنا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "חיקם",
+      "gloss": "اوہناں دی جھولی"
+    },
+    {
+      "surface": "חרפתם",
+      "gloss": "اوہناں دی بے عزتی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "חרפוך",
+      "gloss": "تینوں کیتی اوہناں بے عزتی"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    }
+  ],
+  "timestamp": "2026-10-16T01:12:37.572614042Z",
+  "model": "glm-5.3"
+}

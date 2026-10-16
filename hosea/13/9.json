@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 13:9",
+  "book": "hosea",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שחתך",
+      "rationale": "'تیری بربادی' (KJV) بمقابلہ 'تُوں میرے خلاف اِیں' (JPS\/ASV — בִּי نوں خلاف پڑھدیاں)۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "ہے",
+      "rationale": "عبرانی وِچ کوپلا نئیں، پنجابی جملا منگدا اے۔"
+    }
+  ],
+  "translation": "تیری بربادی، اے یِسرائیل، کہ ⟨تیری⟩ مدد صرف مینوں ⟨ہے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e64b359583dd3d276a9cf5563011e7697cbbfa8712f4197d9a1858af11dcbd93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/hosea\/13\/9-12.1792110559476.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שחתך",
+      "gloss": "تیری بربادی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اے یِسرائیل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیہ کہ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "مینوں وِچ"
+    },
+    {
+      "surface": "בעזרך",
+      "gloss": "تیری مدد"
+    }
+  ],
+  "timestamp": "2026-10-16T00:29:19.476507677Z",
+  "model": "glm-5.3"
+}

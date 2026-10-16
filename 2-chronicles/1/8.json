@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 1:8",
+  "book": "2-chronicles",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חסד",
+      "rationale": "خیسِد — تانخ دی خاص وصیت دا لفظ، اِکو شاہ مُکھی صورت رکھیا۔"
+    },
+    {
+      "kind": "you",
+      "subject": "ایلوہیم",
+      "rationale": "شلوموہ دا سِدھا اِلٰیہ دے ناں۔"
+    }
+  ],
+  "translation": "تے شلوموہ نے ایلوہیم نوں آکھیا: تُسیں میرے پیو داوِد نال وڈا خیسِد کیتا اے، تے مینوں اوہدی تھاں بادشاہ بنایا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "cf03eae87b8b4aed02b64bdd04f0cebe2d6230099efec1d4e327d7cbf9dc7d5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/1\/5-8.1792121491647.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلوموہ نے"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ایلوہیم نوں"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُسیں"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "کیتا اے"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "میرے پیو"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "خیسِد"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وڈا"
+    },
+    {
+      "surface": "והמלכתני",
+      "gloss": "تے مینوں بادشاہ بنایا"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "اوہدی تھاں"
+    }
+  ],
+  "timestamp": "2026-10-16T03:31:31.648117531Z",
+  "model": "glm-5.3"
+}

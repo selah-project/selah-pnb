@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 133:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 133,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מדותיו",
+      "rationale": "لفظی 'اوہدیاں ناپاں' — پر ایتھے 'اوہدیاں پوشاکاں' منیا گیا اے؛ کجھ 'اوہدے کنارے' وی پڑھدے نیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "פי",
+      "rationale": "'مونہہ' دا لفظی مطلب پوشاک دے کپڑے دا منہ\/کنارا اے، ناں کہ عام کنارہ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ירד ... שירד",
+      "rationale": "'اتردا اے' دی دوہرائی — تیل دی لین دا اکو دھار تھلے وگدا اے"
+    }
+  ],
+  "translation": "جیویں چنگا تیل، جیہڑا سر توں تھلے آندا اے، داڑھی اُتے اتردا اے — اہرون دی داڑھی اُتے — جیہڑا اوہدیاں پوشاکاں دے کناریاں اُتے اتردا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "cd01cf1a5aa45a65271cdcac5b8a3fb10b8fa8c1e3c8645086da0e7163124107",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/133\/1-3.1792113977786.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כשמן",
+      "gloss": "جیویں تیل"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "چنگا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "יורד",
+      "gloss": "توں تھلے آندا اے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "داڑھی"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "داڑھی"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون دی"
+    },
+    {
+      "surface": "שיורד",
+      "gloss": "جیہڑا اتردا اے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "פי",
+      "gloss": "کناریاں"
+    },
+    {
+      "surface": "מדותיו",
+      "gloss": "اوہدیاں پوشاکاں دے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:26:17.787588484Z",
+  "model": "glm-5.3"
+}

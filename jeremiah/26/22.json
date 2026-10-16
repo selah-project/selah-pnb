@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 26:22",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨تائیں⟩",
+      "rationale": "عبرانی وِچ 'مِتصرایم بندے' ای اے؛ پنجابی لئی 'تائیں' دا اضافہ۔"
+    },
+    {
+      "kind": "elision",
+      "subject": "מצרים",
+      "rationale": "عبرانی 'مِتصرایم' دو واری لکھدا اے — تکرار سُچج پنجابی وِچ رکھیا گیا، پر وکھرے ٹوکن ای وچھوڑے بِنا نئیں جوڑے۔"
+    }
+  ],
+  "translation": "تے بادشاہ یہویاقِم نے مِتصرایم ⟨تائیں⟩ بندے گھلے — ⟨את⟩ اِلناتن پُتر عکبور تے کجھ بندے ⟨את⟩ اوہدے نال — مِتصرایم ⟨تائیں⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "28c68054f803527cf0f46ee1e578653df8b485e69bed8e4748e33727e67a6965",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/26\/21-24.1792107975174.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "تے گھلے"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "یہویاقِم"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اِلناتن"
+    },
+    {
+      "surface": "אלנתן",
+      "gloss": "اِلناتن"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "עכבור",
+      "gloss": "عکبور"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "تے بندے"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ نال",
+      "marks": "اوہدے نال"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تائیں"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم"
+    }
+  ],
+  "timestamp": "2026-10-15T23:46:15.175657667Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 24:5",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "copula",
+      "rationale": "Hebrew lacks a verb; Punjabi needs ⟨ہوندا اے⟩."
+    },
+    {
+      "kind": "crux",
+      "subject": "in strength",
+      "rationale": "בעוז read as predicate ('strong in strength') or adverbial; rendered as location 'in wisdom' parallel to it."
+    }
+  ],
+  "translation": "بہادر بندہ حکمت وِچ ⟨ہوندا اے⟩، تے جانن والا بندہ زور نوں مضبوط کردا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8320fc7b200d794ac86d2bb4d59068a7f94c81280b8edc7b4f516a72ab04e693",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/24\/5-8.1792114994534.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "بہادر بندہ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "حکمت وِچ"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "زور"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "تے بندہ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "جانن والا"
+    },
+    {
+      "surface": "מאמץ",
+      "gloss": "مضبوط کردا اے"
+    },
+    {
+      "surface": "כח",
+      "gloss": "زور نوں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:43:14.535013236Z",
+  "model": "glm-5.3"
+}

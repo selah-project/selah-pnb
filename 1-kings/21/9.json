@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 21:9",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בראש העם",
+      "rationale": "بمعنی نابوت دے سِر\/اُتوں — سِرِ قوم یا اُچی تھاں؛ کجھ مترجم 'سرداراں وِچ' لیندے نیں"
+    },
+    {
+      "kind": "you",
+      "subject": "ایزابل دے چِٹھے",
+      "rationale": "حکم بُزیاں تے اُچیاں نوں — اِک لُکا ہویا فریب"
+    }
+  ],
+  "translation": "تے اُس نے چِٹھیاں وِچ لِکھیا: اِعلان کرو اِک روزہ، تے ⟨את⟩ نابوت نوں قوم دے اُتوں بِٹھاؤ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "cbf1cf327c48f0c7d4277c3ed6a988223766221f4a8845896283810cccee4d28",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/21\/9-12.1792104691167.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותכתב",
+      "gloss": "تے اُس نے لِکھیا"
+    },
+    {
+      "surface": "בספרים",
+      "gloss": "چِٹھیاں وِچ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨کہ⟩"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "اعلان کرو"
+    },
+    {
+      "surface": "צום",
+      "gloss": "روزہ"
+    },
+    {
+      "surface": "והושיבו",
+      "gloss": "تے بِٹھاؤ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نابوت نوں"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "نابوت"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "اُتوں"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم دے"
+    }
+  ],
+  "timestamp": "2026-10-15T22:51:31.168615009Z",
+  "model": "glm-5.3"
+}

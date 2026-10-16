@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 86:13",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 86,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جان-بھونا اے، صرف 'soul' نئیں"
+    },
+    {
+      "kind": "addition",
+      "subject": "میرے اُتے",
+      "rationale": "עלי دا مکمل پنجابی جملہ لئی واضح کرنا"
+    }
+  ],
+  "translation": "کیوں جو تیرا خیسِد ⟨میرے اُتے⟩ وڈا اے، تے تُوں نے میری جان شیول توں، اوہدے تھلوں، بچائی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "28e4508dd72a495706bf46f85e5fe8856fb730f4d487a8579c269f22b6899e6a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/86\/13-16.1792113246345.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "تیرا خیسِد"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وڈا"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨میرے اُتے⟩"
+    },
+    {
+      "surface": "והצלת",
+      "gloss": "تے تُوں نے بچائی"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میری جان"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "شیول توں"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "اوہدے تھلوں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:14:06.345515547Z",
+  "model": "glm-5.3"
+}

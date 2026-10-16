@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 11:3",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨کِسے نے⟩",
+      "rationale": "عبرانی وِچ آکھن والا دسیا نئیں گیا؛ پنجابی جملہ بولا منگدا اے۔"
+    },
+    {
+      "kind": "elision",
+      "subject": "הלוא",
+      "rationale": "'کی…نئیں' — عبرانی سوال والا 'کی نئیں' اے، پنجے وجوں سدھا کیتا گیا۔"
+    }
+  ],
+  "translation": "تے داوِد نے گھل کے اُس زنانی بارے پُچھیا، تے ⟨کِسے نے⟩ آکھیا: کی ایہہ باث-شیبعا نئیں، اِلیعام دی دِھی، اُوریا خِٹّی دی زنانی؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "87b97f4831e00aaaad12d0be3e3eef3296d096f207bc0e9cbd34062174437279",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/11\/1-4.1792103447817.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "تے گھلیا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "וידרש",
+      "gloss": "تے پُچھیا"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "اُس زنانی بارے"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "کی…نئیں"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "باث"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شیبعا"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دِھی"
+    },
+    {
+      "surface": "אליעם",
+      "gloss": "اِلیعام"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "زنانی"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "اُوریا"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "خِٹّی"
+    }
+  ],
+  "timestamp": "2026-10-15T22:30:47.818769483Z",
+  "model": "glm-5.3"
+}

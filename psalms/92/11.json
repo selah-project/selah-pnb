@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 92:11",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בלתי",
+      "rationale": "جڑ بالל 'روشن\/اُبھرنا' — مطلب 'ڈُب گیا\/روشن ہویا' بمقابلہ 'بُریاں تریاں'؛ 'رڑھایا' مسیح دی صورت رکھی"
+    },
+    {
+      "kind": "substitution",
+      "subject": "כראים",
+      "rationale": "ریم — جنگلی بیل؛ 'یونیکارن' غلط پچھوکڑ اے"
+    }
+  ],
+  "translation": "تے توں نے میرا سنگ جنگلی بیل دے سنگ وانگوں اُچا کیتا؛ میں تازے تیل نال رڑھایا گیا آں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ccb29bba7eab0d6769349d3ffd820dfd370e974b97e7c1334d1ae31883a0070a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/92\/9-12.1792113342394.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותרם",
+      "gloss": "تے توں نے اُچا کیتا"
+    },
+    {
+      "surface": "כראים",
+      "gloss": "جنگلی بیل"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "میرا سنگ"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "رڑھایا گیا"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "تیل"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "تازے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:15:42.395643478Z",
+  "model": "glm-5.3"
+}

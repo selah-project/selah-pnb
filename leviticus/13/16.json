@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 13:16",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩",
+      "rationale": "عبرانی وِچ فعل دی جِنّھ کنوں اے اوہ گل سیاق توں صاف اے؛ پنجابی نوں ضمیر منگدی اے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "جاں",
+      "rationale": "או ایتھے 'یا' نئیں سگوں 'جاں\/ہور' دا مطلب دیندا اے — صِرف متبادل نئیں۔"
+    }
+  ],
+  "translation": "جاں کچا ماس واپس مُڑ جاوے تے چٹے وِچ پلٹ جاوے، تاں ⟨اوہ⟩ کاہن کول آوے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5ad1b29ac8e96399573dfb9b157c5675ed88159750ad6ea54d145a21e503c971",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/13\/13-16.1792097665539.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "جاں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "واپس مُڑ جاوے"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ماس"
+    },
+    {
+      "surface": "החי",
+      "gloss": "کچا"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "پلٹ جاوے"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "چٹے وِچ"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "آوے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    }
+  ],
+  "timestamp": "2026-10-15T20:54:25.541138677Z",
+  "model": "glm-5.3"
+}

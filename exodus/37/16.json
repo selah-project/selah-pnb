@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 37:16",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "چمچے",
+      "rationale": "כפות اصل وچ 'ہتھیلیاں\/کفّے' اے — برتن دی شکل دا ناں؛ پنجابی وچ 'چمچے' رکھیا گیا۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "הקשות",
+      "rationale": "'صراحیاں' بمقابلہ KJV 'لِپٹیاں\/کوور' بمقابلہ یلت 'پیالے' — اوہی عبرانی لفظ، مختلف برتناں دے قرضے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "ہُندے نیں",
+      "rationale": "عبرانی وچ كوپیولا نئیں؛ پنجابی جملے لئی شامل کیتا۔"
+    }
+  ],
+  "translation": "تے اوہنے ⟨את⟩ برتن بنائے جیہڑے میز اُتے ہُندے نیں — ⟨את⟩ اوہدِیاں تھالیاں، ⟨ואת⟩ اوہدے چمچے، ⟨ואת⟩ اوہدے پیالے، تے ⟨ואת⟩ اوہدِیاں صراحیاں جنہاں نال ڈولیا جاندا اے — خالص سونے دے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ca7e97eb19995cd058903b718b62a714c99d6e42964951f1e3eda8183e9ed4ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/37\/13-16.1792097292025.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "تے بنائے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "برتن"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "برتن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "میز"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہدِیاں تھالیاں"
+    },
+    {
+      "surface": "קערתיו",
+      "gloss": "اوہدِیاں تھالیاں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "اوہدے چمچے"
+    },
+    {
+      "surface": "כפתיו",
+      "gloss": "اوہدے چمچے"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "اوہدے پیالے"
+    },
+    {
+      "surface": "מנקיתיו",
+      "gloss": "اوہدے پیالے"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "اوہدِیاں صراحیاں"
+    },
+    {
+      "surface": "הקשות",
+      "gloss": "اوہدِیاں صراحیاں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنہاں نال"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "ڈولیا جاندا اے"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "اوہناں نال"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونے"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "خالص"
+    }
+  ],
+  "timestamp": "2026-10-15T20:48:12.026748041Z",
+  "model": "glm-5.3"
+}

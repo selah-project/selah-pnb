@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 88:18",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 88,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "، سارا دن",
+      "rationale": "Hebrew word order puts 'like water' before 'all the day'; Punjabi needs the pause restructuring."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סבב\/נקף",
+      "rationale": "Two near-synonymous 'surround' verbs in one verse — encirclement doubled, echo kept with گھیر لیا \/ گھیرا پا دتا۔"
+    }
+  ],
+  "translation": "مینوں پانی وانگ گھیر لیا، سارا دن؛ رل کے میرے اُتے گھیرا پا دتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "eda71151d2410ae7e9ab6e9c08f5e534f649778bee36cadc75d74ff1f725fda3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/88\/17-19.1792113210432.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "مینوں گھیر لیا"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "پانی وانگ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "הקיפו",
+      "gloss": "گھیرا پا دتا"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "میرے اُتے"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "رل کے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:13:30.433578458Z",
+  "model": "glm-5.3"
+}

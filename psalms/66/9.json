@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 66:9",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ جِنھے⟩",
+      "rationale": "عبرانی صرف فعلِ حال اے — پنجابی نوں فاعل چاہیدا۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جان-طاقت اے، روح مطلب نئیں۔"
+    }
+  ],
+  "translation": "⟨اوہ جِنھے⟩ ساڈی جان نوں جِیون وِچ رکھیا، تے ساڈے پیراں نوں ڈِگن نئیں دِتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "56782ef46e878ffa6f08f37a011266e91bec69f83797b221aa3e3faf934ce059",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/66\/9-12.1792112768815.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "⟨اوہ جِنھے⟩ رکھیا"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "ساڈی جان"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "جِیون وِچ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دِتا"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "ڈِگن"
+    },
+    {
+      "surface": "רגלנו",
+      "gloss": "ساڈے پیر"
+    }
+  ],
+  "timestamp": "2026-10-16T01:06:08.816416343Z",
+  "model": "glm-5.3"
+}

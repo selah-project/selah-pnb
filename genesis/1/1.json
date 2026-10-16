@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نے",
+      "rationale": "پنجابی کارجمی زون ⟨نے⟩ منگدی اے، عبرانی وِچ نئیں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בראשית\/ברא",
+      "rationale": "شروع تے بنانا — اکو ב-ر-א تناں اکھر، عبرانی دی چٹکی پنجابی وِچ نئیں رہندی"
+    }
+  ],
+  "translation": "شروع وِچ ایلوہیم نے ⟨את⟩ اسماناں نوں تے ⟨את⟩ دھرتی نوں بنایا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "74811423b4ef720f67f63379fee8e2797e4ed37fb025781088bc80b89f4e564a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/1\/1-4.1792094689956.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "شروع وِچ"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "بنایا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اسماناں نوں"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "اسماناں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "دھرتی نوں"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "دھرتی"
+    }
+  ],
+  "timestamp": "2026-10-15T20:04:49.957485540Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "habakkuk 1:6",
+  "book": "habakkuk",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اپنے",
+      "rationale": "Hebrew says only 'not his'; Punjabi needs 'اوہدے اپنے نئیں' to read naturally."
+    },
+    {
+      "kind": "substitution",
+      "subject": "مسکن",
+      "rationale": "משכנות is the Tier-2 form kept per the discipline doc; a bare 'ڈیرے' would drop the tabernacle-dwelling shape."
+    }
+  ],
+  "translation": "کیوں جو دیکھو، میں ⟨את⟩ کسدیاں نوں کھلوا رہیا آں — او قوم کڑھدی تے تیزی کرن والی، جیہڑی دھرتی دے کھلھے وِچھڑے پاسے ٹردی اے، اجیہے مسکن ملن لئی جیہڑے اوہدے اپنے نئیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "547d8f9fac122dc5605a508cfadacbc5242deb7f338d5dadf9e692987d96aac8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/habakkuk\/1\/5-8.1792111268066.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "دیکھو، میں"
+    },
+    {
+      "surface": "מקים",
+      "gloss": "کھلوا رہیا آں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کسدیاں"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "کسدیاں"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "او قوم"
+    },
+    {
+      "surface": "המר",
+      "gloss": "کڑھدی"
+    },
+    {
+      "surface": "והנמהר",
+      "gloss": "تے تیزی کرن والی"
+    },
+    {
+      "surface": "ההולך",
+      "gloss": "جیہڑی ٹردی اے"
+    },
+    {
+      "surface": "למרחבי",
+      "gloss": "ول کھلھے وِچھڑے پاسے"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "دھرتی دے"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "ملن لئی"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "مسکن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:41:08.067625173Z",
+  "model": "glm-5.3"
+}

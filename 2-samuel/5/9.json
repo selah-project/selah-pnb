@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 5:9",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "וביתה",
+      "rationale": "لفظی 'تے گھر ول' — عمارت دے اندرونی پاسے ول؛ 'اندر ول' صورت رکھی اے، تصویر تھوڑی گھٹ گئی اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "המלוא",
+      "rationale": "'بھرائی ہوئی چیز' — کوئی ڈھلان جاں قلعے دا تھلا؛ ناں وانگ مِلّو رکھیا اے"
+    }
+  ],
+  "translation": "تے داوِد قلعے وِچ بیٹھیا، تے اوہنوں اوہدے ناں نال پکاریا — داوِد دا شہر؛ تے داوِد نے اِدھے اُدھے مِلّو توں تے اندر ول بنایا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "549176226441194a42801fe28ea342aed0748070d7b875a313077a9fe0e36192",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/5\/9-12.1792103229366.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "تے بیٹھیا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "במצדה",
+      "gloss": "قلعے وِچ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "تے پکاریا"
+    },
+    {
+      "surface": "לה",
+      "gloss": "اوہنوں اوہدے ناں نال"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد دا"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "تے بنایا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد نے"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "اِدھے اُدھے"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "مِلّو"
+    },
+    {
+      "surface": "וביתה",
+      "gloss": "تے اندر ول"
+    }
+  ],
+  "timestamp": "2026-10-15T22:27:09.366700758Z",
+  "model": "glm-5.3"
+}

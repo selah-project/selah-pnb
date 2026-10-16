@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 32:17",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שערום",
+      "rationale": "شרشن 'ڈریا' ('feared') بمقابلہ ضیاع 'گِھنّا': پرانا ترجمہ 'feared' اے، کجھ ' dreaded' وی لکھدے نیں۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לשדים",
+      "rationale": "شیداں — عبرانی שד 'مردود طاقت\/بُری روح'، عربی-پنجابی 'شید' دا سُچجا میل نئیں، نشان دھار لفظ رکھیا۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לא…לא…לא",
+      "rationale": "آیت وِچ ترے واری 'نئیں' — نکارے دا تکرار، پنجابی وِچ وی رکھیا۔"
+    }
+  ],
+  "translation": "اوہ قربانیاں دیندے رہے شیداں نوں، ایلوہ نئیں — ایہو جہے ایلوہیم، جنہاں نوں اوہ نئیں جاندے سن، نویں، نیڑے توں آئے، جنہاں نوں تہاڈے پیوآں نے نئیں ڈریا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9802b5cbc434c865019bf5cf55a1ba659a653328bc8124098fe7c4eef0bae27c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/32\/17-20.1792100597889.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יזבחו",
+      "gloss": "قربانیاں دیندے رہے"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "شیداں نوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایلوہ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "جاندے سن"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "نویں"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "نیڑے توں"
+    },
+    {
+      "surface": "באו",
+      "gloss": "آئے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "שערום",
+      "gloss": "ڈریا"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "تہاڈے پیوآں نے"
+    }
+  ],
+  "timestamp": "2026-10-15T21:43:17.890213789Z",
+  "model": "glm-5.3"
+}

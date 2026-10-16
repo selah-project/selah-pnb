@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 89:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עולם",
+      "gloss_": "",
+      "rationale": "'مُڑ چھپایا ہویا' — ویلے دی اوہ حد جتھوں اگے نظر نئیں پھردی، پنجابی 'وستیق ویلے' تصور پکا کردا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חסד יבנה",
+      "rationale": "'خیسِد بنیا اے' — عمارت دا چتر، پنجابی وِچ ایہو مورت رکھی"
+    }
+  ],
+  "translation": "کیونکہ میں آکھیا اے: وستیق ویلے تک خیسِد بندیا اے، اسماناں وِچ تُوں اپنی امانت نوں قائم کردا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "00677826807f8ef4eb285ebc5735edd95335c06db53b37ecefb1a35daed13445",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/89\/1-4.1792113277956.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "میں آکھیا اے"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "وستیق ویلے تک"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "خیسِد"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "بندیا اے"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "اسماناں وِچ"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "قائم کردا اے"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "اپنی امانت نوں"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "اوہناں وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:14:37.957288655Z",
+  "model": "glm-5.3"
+}

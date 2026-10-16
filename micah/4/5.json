@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 4:5",
+  "book": "micah",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "قوماں دے ایلوہیم",
+      "rationale": "אלהיו اتھے قوماں دے وکھرے معبوداں لئی اے، اس لئی ایلوہیم حرف-نقل ناں دی تھاں نئیں بلکہ عام لفظ اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "کیوں جے",
+      "rationale": "כי: 'کیوں جے' بمقابلہ 'بھاویں' (JPS) — اگلی آیت 4:4 دے نال جوڑ دا سوال"
+    }
+  ],
+  "translation": "کیوں جے ساریاں قوماں ٹُرن گے، اک اک بندہ اپنے ایلوہیم دے ناں وِچ، پر اسیں یاہوہ ساڈے ایلوہیم دے ناں وِچ ٹُرساں، ہمیشہ لئی تے ہمیشاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7f87565b349dc80012fa70b7aebb8aa033c465e0096602a9ea374f1e4a352b08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/micah\/4\/5-8.1792111074997.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساریاں"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "قوماں"
+    },
+    {
+      "surface": "یֵלְכוּ",
+      "gloss": "ٹُرن گے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "اک اک بندہ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ناں وِچ"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "اوہنوں ایلوہیم"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "پر اسیں"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "اسیں ٹُرساں"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ناں وِچ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ساڈا ایلوہیم"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشہ لئی"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تے ہمیشاں"
+    }
+  ],
+  "timestamp": "2026-10-16T00:37:54.998063364Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 37:31",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "عبرانی وِچ کپولا نئیں، پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "تورات",
+      "rationale": "عبرانی آواز وِچ رکھی گئی — 'شریعت' اکلا رد اے؛ پہلی واری ⟨ہدایت⟩ وضاحت جائز"
+    }
+  ],
+  "translation": "اوہدے ایلوہیم دی تورات اوہدے دل وِچ ⟨اے⟩؛ اوہدے قدم نئیں ٹلدے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9df869ae84e9d14d25c9fd70164770b15ed12d9660f4b459d621f3c963873834",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/37\/29-32.1792112394013.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "دی تورات"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "اوہدے ایلوہیم"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "اوہدے دل وِچ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תמעד",
+      "gloss": "ٹلدے"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "اوہدے قدم"
+    }
+  ],
+  "timestamp": "2026-10-16T00:59:54.014243187Z",
+  "model": "glm-5.3"
+}

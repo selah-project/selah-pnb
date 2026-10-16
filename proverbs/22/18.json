@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 22:18",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "اپنے اندر",
+      "rationale": "בטן لفظی 'پیٹ' اے؛ اندروں محفوظ رکھن دی تھاں"
+    },
+    {
+      "kind": "addition",
+      "subject": "اوہناں نوں",
+      "rationale": "על תשמרם وچ مفعول لاحقہ اے، پنجابی وچ وکھ لفظ منگدا اے"
+    }
+  ],
+  "translation": "کیونجے سواد والی گل اے، جے توں ⟨اوہناں نوں⟩ اپنے اندر رکھیں، اوہ تیرے ہونٹھاں اتے اکٹھے ٹک جاونا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5c1bb37de68f024dba8c1739306419265f83ebdbab4dc92627dd66bd08aa24a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/22\/17-20.1792114954304.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "سواد والی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جے"
+    },
+    {
+      "surface": "תשמרם",
+      "gloss": "توں رکھیں"
+    },
+    {
+      "surface": "בבטנך",
+      "gloss": "اپنے اندر"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "اوہ ٹکے گے"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "اکٹھے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اتے"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "تیرے ہونٹھاں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:42:34.305510723Z",
+  "model": "glm-5.3"
+}

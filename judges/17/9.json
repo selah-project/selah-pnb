@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 17:9",
+  "book": "judges",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨تھاں⟩",
+      "rationale": "عبرانی وِچ صرف «جتھے لبھا» اے؛ پنجابی جملے لئی «تھاں» شبد پائی گئی۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "لِوی",
+      "rationale": "לֵוִי هنا صفت\/قبیلے دا ناں اے، «لاوی قبیلے دا بندہ»؛ حرف-نقل رکھیا گیا۔"
+    },
+    {
+      "kind": "you",
+      "subject": "مِیکھا دا سوال",
+      "rationale": "مِیکھا لِوی نوں سُدھ سدھاں مخاطب کردا اے: «کِتھوں آؤندا ایں؟»"
+    }
+  ],
+  "translation": "تے مِیکھا نے اوہدے توں پُچھیا: کِتھوں آؤندا ایں؟ تے اوہنے اوہدے نوں آکھیا: اِک لِوی آں، بیت-لِخِم یہوداہ دا، تے اِیہہ ٹُر رِہا آں کہ جتھے ⟨تھاں⟩ لبھا اوتھے وس جاواں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f1c672d861749845c7b19b31b07da002fc3b15c5cf21e7b070d7a08cbf327101",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/judges\/17\/9-12.1792101933689.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدے توں"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "مِیکھا"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "کِتھوں"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "آؤندا ایں"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اوہدے نوں"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لِوی"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "آں"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "…دا"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "بیت-لِخِم"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "تے اِیہہ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ٹُر رِہا آں"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "وس جاواں"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "جتھے"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "لبھا"
+    }
+  ],
+  "timestamp": "2026-10-15T22:05:33.690119619Z",
+  "model": "glm-5.3"
+}

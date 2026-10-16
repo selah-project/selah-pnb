@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 139:10",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "تے",
+      "rationale": "واو دی نسبت پنجابی جوڑ 'تے'"
+    }
+  ],
+  "translation": "اوتھے وی تیرا ہتھ میں نوں راہ دکھاوےگا، تے تیری سجھ ہتھ میں نوں پکڑی رکھےگی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f780a204476d2dae71f13954eb3899ac85b0761bd4cef2b576a1da1fa58dfd9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/139\/9-12.1792114119201.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اوتھے"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "تیرا ہتھ"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "میں نوں راہ دکھاوےگا"
+    },
+    {
+      "surface": "ותאחזני",
+      "gloss": "تے میں نوں پکڑی رکھےگی"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "تیری سجھ ہتھ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:28:39.202671216Z",
+  "model": "glm-5.3"
+}

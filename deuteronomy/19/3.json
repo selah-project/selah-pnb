@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 19:3",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שלשת · שלשם",
+      "rationale": "تِن حصیاں (شِلِشِت) تے 'پرسوںں' (شِلشوم) — اکو جڑ، آواز دی سانجھ پنجابی وِچ گُم"
+    },
+    {
+      "kind": "measurement",
+      "subject": "تِن حصے",
+      "rationale": "دھرتی دی تِن حصیاں وِچ ونڈ — measuring"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ایہو جُئے⟩",
+      "rationale": "וְהָיָہ لِ-نוּس دی عبارت پنجابی وِچ پورے جملے دی منگ کردی اے"
+    }
+  ],
+  "translation": "تُوں اپنے لئی رستہ تیار کریں، تے ⟨את⟩ اپنی دھرتی دی حد نوں تِن حصیاں وچ ونڈیں، جیہڑی یاہوہ تیرا ایلوہیم تینوں ورثے وچ دیوے گا، تے ⟨ایہو جُئے⟩ کہ اوہ ہر قاتل اوتھے نس جاوے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "97fa7d0f694e87d7572efd304e809512ff3e360606348332a893a94f3d51621a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/19\/1-4.1792100165441.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "تُوں تیار کریں"
+    },
+    {
+      "surface": "לך",
+      "gloss": "اپنے لئی"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "رستہ"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "تے تِن حصیاں وچ ونڈیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنی دھرتی دی حد نوں"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "اپنی دھرتی دی حد نوں"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "اپنی دھرتی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "ינחילך",
+      "gloss": "تینوں ورثے وچ دیوے گا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تیرا ایلوہیم"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "تے ⟨ایہو جُئے⟩"
+    },
+    {
+      "surface": "לנוס",
+      "gloss": "نسن لئی"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "اوتھے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "قاتل"
+    }
+  ],
+  "timestamp": "2026-10-15T21:36:05.442135490Z",
+  "model": "glm-5.3"
+}

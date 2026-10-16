@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 1:7",
+  "book": "ecclesiastes",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "پر",
+      "rationale": "עוד عبرانی وِچ نئیں، پنجابی وِچleftrightarrow تعارف چاہیدا — عبرانی صرف لفظاں نال کہندا اے"
+    }
+  ],
+  "translation": "سارے دریا سمندر ول جاندے نیں تے سمندر ⟨پر⟩ بھردا نئیں؛ جِتھے دریا جاندے نیں اوتھے اوہ فیر توں ٹرن لئی واپس مُڑدے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7ee817c5897eb9019f5f2eb1e4bead17372d0ec66a5cd051a57637b4597197cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ecclesiastes\/1\/5-8.1792117463468.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "جاندے نیں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ول"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "והים",
+      "gloss": "تے سمندر"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "بھردا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "تھاں"
+    },
+    {
+      "surface": "שהנחלים",
+      "gloss": "جِتھے دریا"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "جاندے نیں"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اوتھے"
+    },
+    {
+      "surface": "הם",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "שבים",
+      "gloss": "واپس مُڑدے نیں"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ٹرن لئی"
+    }
+  ],
+  "timestamp": "2026-10-16T02:24:23.470065725Z",
+  "model": "glm-5.3"
+}

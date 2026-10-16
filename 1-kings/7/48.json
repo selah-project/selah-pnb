@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-kings 7:48",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "حاضری دی روٹی",
+      "rationale": "לחם הפנים لفظی طور تے 'چہریاں\/منہاں دی روٹی' اے — 'حاضری' روایت دا لفظ اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "رکھی",
+      "rationale": "عبرانی وِچ صرف 'جس اُتے … روٹی' اے، کریا پنجابی جملے لئی دتی"
+    }
+  ],
+  "translation": "تے شیلموہ نے اوہ سارے برتن بنائے جیہڑے یاہوہ دے گھر ⟨وِچ⟩ نیں: ⟨את⟩ سونے دی قربانگاہ، تے ⟨את⟩ اوہ میز جس اُتے حاضری دی روٹی ⟨رکھی⟩ اے — سونے دا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e37e82ddb65e1edc857f1135bbfd15ec1823c18704badbdedfd2c92f254da591",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/7\/45-48.1792104125183.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "تے بنائے"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شیلموہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سارے برتن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "برتن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑے"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قربانگاہ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "قربانگاہ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "سونے دی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "میز"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "میز"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جس"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "روٹی"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "چہریاں دی"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونے دا"
+    }
+  ],
+  "timestamp": "2026-10-15T22:42:05.184286674Z",
+  "model": "glm-5.3"
+}

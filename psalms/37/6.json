@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 37:6",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ایویں⟩",
+      "rationale": "دوجے 'وانگ' دی سانجھ عبرانی وِچ اکو אל نال مکدی اے؛ پنجابی دو واری منگدا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צהרים",
+      "rationale": "دوہریا (dual) 'دو چانݨ' — دوپہر؛ پنجابی 'دوپہر' وِچ ایہو دو والی مورت بچی اے"
+    }
+  ],
+  "translation": "تے اوہ تیری راستبازی نوں چانݨ وانگ کڈھے گا، تے تیرے فیصلے نوں ⟨ایویں⟩ دوپہر وانگ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "98c18dcb6728e7f29dbb7de9d5244f72da13f2a491b26a5e734f7d4cce0ca2c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/37\/5-8.1792112348508.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "تے کڈھے گا"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "چانݨ وانگ"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "تیری راستبازی"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "تے تیرا فیصلہ"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "دوپہر وانگ"
+    }
+  ],
+  "timestamp": "2026-10-16T00:59:08.509308375Z",
+  "model": "glm-5.3"
+}

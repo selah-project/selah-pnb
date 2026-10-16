@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 50:9",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "قافلہ",
+      "rationale": "המחנہ لشکر\/پڑاؤ اے؛ اینے سوگ کاراں لئی 'قافلہ' پنجابی وِچ قدرتی صورت اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "ہو گیا",
+      "rationale": "מאד دے نال ہویا دا تعلق دسن لئی فعل شامل کیتا"
+    }
+  ],
+  "translation": "تے اُس دے نال رتھ وی تُرے، گھڑسوار وی؛ تے اوہ قافلہ بہوں بھارا ⟨ہو گیا⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9042361f1e8eb44f2125d2309b6dfccdc9bb5d6c8bd95e50eda40fece25621ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/50\/9-12.1792096121215.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "تُرے"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "اُس دے نال"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "رتھ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "گھڑسوار"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "تے ہویا"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "قافلہ"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "بھارا"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بہوں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:28:41.216023136Z",
+  "model": "glm-5.3"
+}

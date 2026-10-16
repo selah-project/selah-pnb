@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 4:26",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩",
+      "rationale": "عبرانی وِچ فعل دا فاعل صاف نئیں — یاہوہ رُکیا جاں مو شے رُک گیا؛ پنجابی فاعل منگدا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "וירף",
+      "rationale": "کِن رُکیا — یاہوہ (24 آیت دا قاتل) جاں مو شے؛ پراݨے ترجمے وَنّ سَوَنّ کردے نیں"
+    }
+  ],
+  "translation": "تے اوہ اوہدے توں رُک گیا ⟨اوہ⟩، اُس ویلے آکھیا: دَمّاں دا دَماد، ختنے ⟨دی وَجھ توں⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e014031325bbd993abce2beab89b9b4c59c4f0826779b63709dcc772c94b23b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/4\/25-28.1792096216354.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירף",
+      "gloss": "تے رُک گیا"
+    },
+    {
+      "surface": "مמנו",
+      "gloss": "اوہدے توں"
+    },
+    {
+      "surface": "אז",
+      "gloss": "اُس ویلے"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "دَماد"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "دَمّاں دا"
+    },
+    {
+      "surface": "למולת",
+      "gloss": "ختنے ⟨دی وَجھ توں⟩"
+    }
+  ],
+  "timestamp": "2026-10-15T20:30:16.354949061Z",
+  "model": "glm-5.3"
+}

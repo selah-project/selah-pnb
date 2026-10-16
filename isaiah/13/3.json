@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 13:3",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "غصہ",
+      "rationale": "לאפי پونجی اے ‘میری نَک، میرا چہرہ’ — غصے دی مثال، اِکو لفظ وِچ"
+    },
+    {
+      "kind": "addition",
+      "subject": "اپنے",
+      "rationale": "عبرانی لِکھیا ‘میرے مقدس کیتے’ — ملکی ضمیر وِچ اے، پنجابی نے وکھ لفظ منگے"
+    }
+  ],
+  "translation": "میں اپنے مقدس کیتے ہویاں نوں حکم دِتا اے، تے اپنے بہادراں نوں، اپنے غصے لئی، اپنی شوکھی اُتے اُتھل پُتھل کرن والیاں نوں، بلایا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "809548fa91c162458d83e0632e992dba136850f1d5a33e96bb4e313bd59cdc13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/13\/1-4.1792106051658.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "حکم دِتا اے"
+    },
+    {
+      "surface": "למקדשי",
+      "gloss": "اپنے مقدس کیتے ہویاں نوں"
+    },
+    {
+      "surface": "גם",
+      "gloss": "تے"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "بلایا اے"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "اپنے بہادراں نوں"
+    },
+    {
+      "surface": "לאפי",
+      "gloss": "اپنے غصے لئی"
+    },
+    {
+      "surface": "עליזי",
+      "gloss": "شوکھی اُتے اُتھل پُتھل کرن والیاں نوں"
+    },
+    {
+      "surface": "גאותי",
+      "gloss": "اپنی"
+    }
+  ],
+  "timestamp": "2026-10-15T23:14:11.659289180Z",
+  "model": "glm-5.3"
+}

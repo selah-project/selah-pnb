@@ -1,0 +1,202 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 38:4",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הוא מרפא את ידי",
+      "rationale": "עبرانی محاورہ ”ہتھ ڈِھیلے کرنا“ — پنجابی وِچ ”ہتھ ہولا کرنا“ نال دتا"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי אם",
+      "rationale": "”کیوں جو… سگوں“ جوڑ وِچ אم گلاس وِچ رلیا، وکھرا لفظ نئیں بن سکیا"
+    },
+    {
+      "kind": "addition",
+      "subject": "چاہندا اے",
+      "rationale": "عبرانی وِچ صرف ”لرעہ“ اے، پنجابی جملہ پورا کرن لئی وادھو"
+    }
+  ],
+  "translation": "تے سرداراں نے بادشاہ نوں آکھیا: ایس بندے نوں مروا دِتو، میاں، کیوں جو اوہ ایس طرحاں لڑائی دے بندیاں دے ہتھ ہولا کردا اے جیہڑے ایس شہر وِچ رہِ گئے نیں، تے سارے قوم دے ہتھ، اوہناں نال ایہجیاں گلاں آکھ کے؛ کیوں جو ایہہ بندہ اس قوم دا بھلا نئیں لبھدا، سگوں برائی ⟨چاہندا اے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "991e05c94929d169274f59c05c829f960b69eb83ae5b150ea730f5e495ffa383",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/38\/1-4.1792108475151.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "سرداراں نے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "مروا دِتو"
+    },
+    {
+      "surface": "נא",
+      "gloss": "میاں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایس بندے نوں"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایس"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "על",
+      "gloss": "اس اُتے"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ایس طرحاں"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "ہولا کردا اے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لڑائی دے بندیاں دے ہتھ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "بندیاں دے"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "لڑائی دے"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "رہِ گئے"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "شہر وِچ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ایس"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "سارے قوم دے ہتھ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم دے"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "آکھ کے"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "اوہناں نال"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "ایجیاں گلاں"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ایہناں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "لبھدا"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "بھلا"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "قوم دا"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اس"
+    },
+    {
+      "surface": "כי",
+      "gloss": "سگوں"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "برائی"
+    }
+  ],
+  "timestamp": "2026-10-15T23:54:35.152913188Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 63:4",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "خیسِد",
+      "rationale": "חסد وفاداری نال جُڑی مہربانی اے — اِکو 'رحم' یا 'پیار' نئیں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "טוב…מחיים",
+      "rationale": "'چنگا جان توں' — موازنہ دی سخت چھوٹ، عبرانی دا سار وزن"
+    }
+  ],
+  "translation": "کیوں جو تیرا خیسِد ⟨وفا> جان توں ودھ اے، میرے ہونٹھ تیری تعریف کرنگے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "dc79e24376d86015fac8a97b52f20ca2365d9ec20f1fd7deb0321802bda5c305",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/63\/1-4.1792112831410.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگا"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "تیرا خیسِد"
+    },
+    {
+      "surface": "מחיים",
+      "gloss": "جان توں ودھ"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "میرے ہونٹھ"
+    },
+    {
+      "surface": "ישבחונך",
+      "gloss": "تیری تعریف کرنگے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:07:11.411231857Z",
+  "model": "glm-5.3"
+}

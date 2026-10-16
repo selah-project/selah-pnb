@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "amos 5:24",
+  "book": "amos",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויגל",
+      "rationale": "'یِگل' دا مطلب 'لُڑھنا\/وَگنا' اے — پانی دے نال نال انصاف دا اِکو چِتر"
+    },
+    {
+      "kind": "alternative",
+      "subject": "איתן",
+      "rationale": "'ایتن' — 'مستقل\/سدا رہن والا'؛ کجھ مترجم 'زبردست' لیندے نیں، پر مطلب پکا پانی دا سدا وَگنا اے"
+    }
+  ],
+  "translation": "تے انصاف پانیاں وانگوں وَگے، تے صداقت سدا وَگدے وَہن وانگوں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d5eaed421cdd709104698850b82996d13217bc65fe642a6efecda9189b37aa96",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/amos\/5\/21-24.1792110846857.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "تے وَگے ⟨لُڑھے⟩"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "پانیاں وانگوں"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "تے صداقت"
+    },
+    {
+      "surface": "כנחל",
+      "gloss": "وَہن وانگوں"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "سدا وَگدے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:34:06.858964069Z",
+  "model": "glm-5.3"
+}

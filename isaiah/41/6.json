@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 41:6",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ہر اِک",
+      "rationale": "عبرانی جمع فعل نوں ہر بندے دے پدھر اُتے لیاؤن لئی وادھا۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יעזרו \/ חזק",
+      "rationale": "مدد تے مضبُوتی دے بوٹا اِکو جڑ توں گونجدے نیں، تے آیت 7 دا ויחזק اوہدے نال رَلدا اے۔"
+    }
+  ],
+  "translation": "ہر اِک بندہ ⟨את⟩ اپنے ساتھی نوں مدد دیندا اے، تے اپنے بھرا نوں آکھدا اے: مضبُوط رہ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "aac9fccaccc777b24a246d5a94144ed13ba8e67bb54095fd0c147cb3bfc54d0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/41\/6-7.1792123872211.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنے ساتھی نوں"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "اپنے ساتھی"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "مدد دیندا اے"
+    },
+    {
+      "surface": "ולאחיو",
+      "gloss": "تے اپنے بھرا نوں"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "آکھدا اے"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "مضبُوط رہ"
+    }
+  ],
+  "timestamp": "2026-10-16T04:11:12.211764309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 1:15",
+  "book": "esther",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "حکیماں نوں سوال",
+      "rationale": "بادشاہ سِدھا صلاحکاراں نوں سوال پُچھدا اے — 'کیہ کیتا جاوے'۔"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ביד הסריסים",
+      "rationale": "لفظی 'خواجہ سراواں دے ہتھ وِچ' — یعنی اوہناں دے ذریعے بھیجیا گیا۔"
+    }
+  ],
+  "translation": "دات موجب ملکہ وشتِی نال کیہ کیتا جاوے، کیوں جو اوہنے خواجہ سراواں دے ہتھوں بادشاہ اَخشویروش دے ⟨את⟩ حکم نوں نئیں منیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "000c78ed98783adeb85c44567e944948094a25e0548c23ad87b4b98452ddd4fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/esther\/1\/13-16.1792117841645.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כדת",
+      "gloss": "دات موجب"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "کیتا جاوے"
+    },
+    {
+      "surface": "במלכה",
+      "gloss": "ملکہ نال"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "وشتِی"
+    },
+    {
+      "surface": "על",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "منیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حکم"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "حکم"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "اَخشویروش"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ہتھوں"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "خواجہ سراواں دے"
+    }
+  ],
+  "timestamp": "2026-10-16T02:30:41.646832612Z",
+  "model": "glm-5.3"
+}

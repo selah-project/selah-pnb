@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 87,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "مسکن",
+      "rationale": "משכן عبادت دا ڈیرا\/سکونت اے — D2 موجب حرف-نقل، ڈیرا اکلا نئیں"
+    },
+    {
+      "kind": "you",
+      "subject": "قومی حوالہ",
+      "rationale": "صیون تے یعقوو دے دُواراں تے مسکن — قوم نال مخاطب سیاق"
+    }
+  ],
+  "translation": "یاہوہ صیون دے دُواراں نوں پیار کردا اے، یعقوو دے سبھ مسکناں توں ودھ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8c6aa5064dd80e36c9debcb9f6ad6cf7edec2ad45144a997687deff431543d13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/87\/1-4.1792113236663.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "پیار کردا اے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "دُواراں نوں"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صیون"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "سبھ…توں ودھ"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "مسکناں"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    }
+  ],
+  "timestamp": "2026-10-16T01:13:56.663997190Z",
+  "model": "glm-5.3"
+}

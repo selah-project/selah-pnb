@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 43:11",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "למות למות",
+      "rationale": "تِن واری دوہرایا گیا ل- پیشندی جوڑ — عبرانی دی عدالت وانگ ودھیا سُر، پنجابی وِچ دوہراؤ نال رکھیا"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "כה (یشعیاہ 39:17 ورگا) دا چُھٹا سنس — کجھ ترجمے 'جیہڑا دِتا جاوے' پا کے پورا کردے نیں"
+    }
+  ],
+  "translation": "تے اوہ آئیگا تے ⟨את⟩ مِتصرایم دی دھرتی نوں ماریگا — جو موت لئی اے، موت لئی؛ تے جو قید لئی اے، قید لئی؛ تے جو تلوار لئی اے، تلوار لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a2b7ec600564be6afff3d97d9455bca6314df696f77db8a3fed9be12beaa3e88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/43\/9-12.1792108596360.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובאה",
+      "gloss": "تے اوہ آئیگا"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "تے ماریگا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مِتصرایم دی دھرتی نوں"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "دھرتی"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "למות",
+      "gloss": "موت لئی اے"
+    },
+    {
+      "surface": "למות",
+      "gloss": "موت لئی"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "تے جو"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "قید لئی اے"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "قید لئی"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "تے جو"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "تلوار لئی اے"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "تلوار لئی"
+    }
+  ],
+  "timestamp": "2026-10-15T23:56:36.362141198Z",
+  "model": "glm-5.3"
+}

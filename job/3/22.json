@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 3:22",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שׂמחים\/ישישו",
+      "rationale": "دوویں ٹوکن اِکو 'خوشی' جڑ توں — שׂ-מ-ח تے שׂוּשׂ — مُڑ مُڑ خوشی دا واء، پنجابی وِچ صرف دُہرایا اے۔"
+    }
+  ],
+  "translation": "جو خوشی نال خوش ہندے نیں تے ایہناں نوں جدوں قبر لبھدی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "22a88e790012bdb87235cb39bbcf7ca653f93382488a821ac417baca27629b2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/3\/21-24.1792115309865.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השמחים",
+      "gloss": "خوش ہندے نیں"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "نال"
+    },
+    {
+      "surface": "גיל",
+      "gloss": "خوشی"
+    },
+    {
+      "surface": "ישישו",
+      "gloss": "ایہناں نوں خوش"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جدوں"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "لبھدی اے"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "قبر"
+    }
+  ],
+  "timestamp": "2026-10-16T01:48:29.865789747Z",
+  "model": "glm-5.3"
+}

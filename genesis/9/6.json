@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 9:6",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "بאדם",
+      "rationale": "'بندے دے ہتھوں' بمقابلہ 'انسان وچ\/انسان دے اندر' — عبرانی ب-ا-د-م دوویں پڑھیاں جاندیاں نیں۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שפך\/ישפך",
+      "rationale": "'ਡੋਲ੍ਹਦਾ\/ਡੋਲ੍ਹਿਆ ਜਾਵੇਗਾ' ਦਾ ਪਲਿੰਦਰੋਮ — ਲਹੂ ਦੇ ਬਦਲੇ ਲਹੂ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "ایلوہیم دی صورت وِچ",
+      "rationale": "ਪੰਜਾਬੀ ਜੁਮਲੇ ਵਿੱਚ 'ਇਲੋਹੀਮ ਦੀ' ਸਪਸ਼ਟ ਕਰਨਾ ਪਿਆ।"
+    }
+  ],
+  "translation": "جو بندے دا لہو ڈھاؤندا اے، بندے دے ہتھوں اوہدا لہو ڈھایا جائے گا، کیونکہ ایلوہیم نے ⟨את⟩ بندے نوں ایلوہیم دی صورت وِچ بنایا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "09c94cbdffc7e8f065de9626980ca30469f392f007bbe2f34846cf403b16608f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/9\/5-8.1792094769946.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "ڈھاؤندا اے"
+    },
+    {
+      "surface": "דם",
+      "gloss": "لہو"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "بندے دے ہتھوں"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "اوہدا لہو"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "ڈھایا جائے گا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "صورت وِچ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بنایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بندے"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "بندے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:06:09.947602917Z",
+  "model": "glm-5.3"
+}

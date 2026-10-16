@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 98:8",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 98,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "تالیاں وجاؤن",
+      "rationale": "עבری מחאו כף — ہتھ مَلنا\/تالی بجانا خوشی دا اِکو اشارہ، پنجابی اِدiom نال ملدا اے۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ירננו",
+      "rationale": "جڑ ר-נ-ن مول 'چرچڑاؤنا' — بھیج\/ترڑ دی آواز توں خوشی دا نعرہ؛ مول تصویر پنجابی وِچ گُم۔"
+    }
+  ],
+  "translation": "دریا تالیاں وجاؤن، پہاڑ رَل کے خوشی نال گاؤن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d0c70d0449de28f277a4e22571880ac3cd848c2108023311254a4152dd585472",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/98\/5-8.1792113499447.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נהרות",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "ימחאו",
+      "gloss": "تالیاں وجاؤن"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ہتھیلی"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "رَل کے"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "خوشی نال گاؤن"
+    }
+  ],
+  "timestamp": "2026-10-16T01:18:19.448456398Z",
+  "model": "glm-5.3"
+}

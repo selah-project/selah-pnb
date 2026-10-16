@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 72:1",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اپنے \/ اپنی",
+      "rationale": "عبرانی وِچ سروانمی ضمیر وشیش اُتے اے پر پنجابی وچ لفظ لگدا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "לשלמה",
+      "rationale": "سرلوکا اے ('شلوموہ لئی') یا 'شلوموہ ولوں' — پراتی روایت دوویں پڑھدیاں اے"
+    },
+    {
+      "kind": "invitation",
+      "subject": "دعا",
+      "rationale": "ایہہ بادشاہ لئی دعا اے — ایلوہیم توں منگ"
+    }
+  ],
+  "translation": "لِشُلوموہ لئی۔ ایلوہیم، اپنے فیصلے بادشاہ نوں دے، تے اپنی صداقت بادشاہ دے پُتر نوں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a48fef1a85418dbb54979a0547751fddc0df576b4ea71bd982194e4e10d4ed60",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/72\/1-4.1792112938399.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשלמה",
+      "gloss": "لِشُلوموہ لئی"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "اپنے فیصلے"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "بادشاہ نوں"
+    },
+    {
+      "surface": "תן",
+      "gloss": "دے"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "تے اپنی صداقت"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "پُتر نوں"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ دے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:08:58.399922995Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 2:2",
+  "book": "ezekiel",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "روح",
+      "rationale": "רוח دا مادن 'ہوا\/ساہ' اے — ایتھے 'روح' واضح اے پر شکل رکھی گئی"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨مینوں⟩ وچ",
+      "rationale": "'وچ' دا مفعول عبرانی وِچ صرف ضمیر 'بי' نال دتا"
+    }
+  ],
+  "translation": "تے جدوں اوہ میرے نال گل کر رہیا سی تے روح ⟨مینوں⟩ وچ آ گئی، تے اوہنے مینوں میریاں لَتیں اُتے کھلوایا، تے میں ⟨את⟩ اوہنوں سُنیا جیہڑا میرے نال گل کردا سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2fa70f0dc9bac73f5fd46b045468bb0a495b2f46e4d916cb021c47c406292974",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/2\/1-4.1792108934265.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "تے آ گئی"
+    },
+    {
+      "surface": "בי",
+      "gloss": "مینوں وچ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جدوں"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گل کر رہیا سی"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میرے نال"
+    },
+    {
+      "surface": "ותעמדני",
+      "gloss": "تے اوہنے مینوں کھلوایا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "میریاں لَتیں"
+    },
+    {
+      "surface": "ואשמע",
+      "gloss": "تے میں سُنیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہنوں جیہڑا گل کردا اے"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "گل کردا ہویا"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میرے نال"
+    }
+  ],
+  "timestamp": "2026-10-16T00:02:14.265990790Z",
+  "model": "glm-5.3"
+}

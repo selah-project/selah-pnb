@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 1:17",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "وِچ",
+      "rationale": "بِرْقِیع توں دوجے ناں نال جُڑن لئی پنجابی نے ⟨وِچ⟩ منگیا، عبرانی وِچ صرف اِک ب اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "رقِیع",
+      "rationale": "ברקיע دا مول سوچ اے 'تݨا ہویا پھیلاؤ' — رقِیع اوسے سوچ دا سریاکی\/فارسی رشتہ دار اے"
+    }
+  ],
+  "translation": "تے ایلوہیم نے ⟨את⟩ اوہناں نوں رقِیع وِچ، اسماناں دے ⟨وِچ⟩، دھرتی اُتے چانݨ دین لئی رکھیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3d7ee85ee00b330d68da31cd2ba362a971dd108816d683c5d937666260e90550",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/1\/17-20.1792094679831.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "تے…رکھیا"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "اوہناں نوں"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم نے"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "رقِیع وِچ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "اسماناں دے"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "چانݨ دین لئی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "دھرتی"
+    }
+  ],
+  "timestamp": "2026-10-15T20:04:39.831773161Z",
+  "model": "glm-5.3"
+}

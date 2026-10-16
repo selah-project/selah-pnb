@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 33:1",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے … لوک",
+      "rationale": "پنجابی مخاطب لئی وکاریدہ اے، عبرانی صیرفہ اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צדיקים\/ישרים",
+      "rationale": "سچّے تے سِدھے — دونے سِدھائی دی تصویر، پنجابی وِچ وی وکھو وکھ رکھے"
+    },
+    {
+      "kind": "invitation",
+      "subject": "رنّو",
+      "rationale": "بول کے سدّن والی آیت، سچیاں نوں مخاطب"
+    }
+  ],
+  "translation": "رنّو، اے سچّے لوک، یاہوہ وِچ؛ سِدھے لوکاں لئی تعریف سوہنی لگدی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "12f1ff0fdfb9ce6aa72204f5f9b800fe6b773fb0848b7aeb7d920f85a0e27421",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/33\/1-2.1792124114460.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רננו",
+      "gloss": "رنّو"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "اے سچّے لوک"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "یاہوہ وِچ"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "سِدھے لوکاں لئی"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "سوہنی لگدی اے"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "تعریف"
+    }
+  ],
+  "timestamp": "2026-10-16T04:15:14.461157210Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,153 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 18:21",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פסחים על שתי הסעפים",
+      "rationale": "'اڈنا' بنیادی مطلب اے (پساخ = پھدکنا); 'ٹاہنیاں' دا مطلب چیراں والی ٹاہنی، 'دھڑیاں' دا دلاں دے ٹوٹے — دوویں پرانے ترجمیاں وِچ نیں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פסחים",
+      "rationale": "ایہو جڑ عید پسخ نال اے (خروج 12:13 'اڈ جانا') — پنجابی وِچ ایہہ رشتہ مک جاندا اے"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "مفعول نشان ⟨את⟩ رکھیا، پنجابی وِچ وکھرا لفظ نئیں"
+    },
+    {
+      "kind": "you",
+      "subject": "لوک",
+      "rationale": "ایلیاہو سارے قوم نوں سدّا ماردا اے"
+    }
+  ],
+  "translation": "تے ایلیاہو سارے لوکاں کول آیا تے آکھیا: تسیں کِن چِر لئی دو ٹاہنیاں اُتے اڈدے پھرنگے؟ جے یاہوہ ⟨ہی⟩ ایلوہیم اے تاں اوہدے مگروں ٹرو، تے جے بعل ⟨ہی⟩ اے تاں اوہدے مگروں ٹرو۔ تے لوکاں نے اوہدا اِک لفظ ⟨ وی ⟩ جواب نئیں دِتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "89de9cf74c8d70d13359da6100c330ee6c813adf9b19db53b96309e4dbe54d8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/18\/21-24.1792104675615.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ایلیاہو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوکاں"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تائیں"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "کِن چِر"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تسیں"
+    },
+    {
+      "surface": "פסחים",
+      "gloss": "اڈدے پھرنگے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دو"
+    },
+    {
+      "surface": "הסעפים",
+      "gloss": "ٹاہنیاں"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ٹرو"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "اوہدے مگروں"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "بعل"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ٹرو"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "اوہدے مگروں"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "جواب دِتا"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوکاں نے"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "اِک لفظ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "لفظ"
+    }
+  ],
+  "timestamp": "2026-10-15T22:51:15.615848537Z",
+  "model": "glm-5.3"
+}

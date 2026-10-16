@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 15:5",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوہ",
+      "rationale": "عبرانی وِچ فعل دی صیغہ ذات کردا نوں دسدی اے، پنجابی نوں ضمیر چاہیدی اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לקח\/נתן",
+      "rationale": "دیندا\/لیندا دا اُلٹا جوڑا — وچھوڑݨ تے گھنݨ — پنجابی وِچ محفوظ اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "בנשך",
+      "rationale": "سود دا کے مطلب: سود (KJV 'usury' vs ASV 'interest') — اتھے سود رکھیا اے"
+    }
+  ],
+  "translation": "اپنی چاندی سود اُتے نئیں دیندا، تے بےقصور ⟨اتے⟩ رشوت نئیں لیندا — جو ایہناں نوں کردا اے، اوہ ہمیشہ لئی نئیں ہلیگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b85364eb3dbb3d189f6631d2ebf0bf5e4c281ad0816e4095de98cdd5631e76b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/15\/5-5.1792111890698.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כספו",
+      "gloss": "اپنی چاندی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دیندا"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "سود اُتے"
+    },
+    {
+      "surface": "ושחד",
+      "gloss": "تے رشوت"
+    },
+    {
+      "surface": "על",
+      "gloss": "اتے"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "بےقصور"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "لیندا"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کردا اے"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایہناں نوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "ہلیگا"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشہ لئی"
+    }
+  ],
+  "timestamp": "2026-10-16T00:51:30.699237423Z",
+  "model": "glm-5.3"
+}

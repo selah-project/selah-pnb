@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 5:10",
+  "book": "hosea",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "کوڑھا اڈیلنا",
+      "rationale": "عبرانی عبارت: 'میری خفگی پانی وانگ اڈیلاں گا' — غضب دا مکمل ڈھاہ"
+    },
+    {
+      "kind": "you",
+      "subject": "یہوداہ دے سردار",
+      "rationale": "خبر نہیں پر اوہناں دے خلاف الٰہی فیصلہ، اوہناں نوں دتا گیا"
+    }
+  ],
+  "translation": "یہوداہ دے سردار اوہ ہوئے جیوے ⟨اوہ⟩ جیہڑے حد بندی ہٹا دیندے نیں؛ میں اپنا کوڑھا ⟨زہر⟩ اوہناں اُتے پانی وانگ اڈیلانگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ea7228a07a1c959833b7a5e463e837d63fa3e709d76090717e3b576714feddda",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/hosea\/5\/9-12.1792110422845.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היו",
+      "gloss": "ہوئے"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ دے"
+    },
+    {
+      "surface": "כמסיגי",
+      "gloss": "جیوے ہٹاؤن والے"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "حد بندی"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "اوہناں اُتے"
+    },
+    {
+      "surface": "אשפוך",
+      "gloss": "میں اڈیلانگا"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "پانی وانگ"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "اپنا کوڑھا"
+    }
+  ],
+  "timestamp": "2026-10-16T00:27:02.846369699Z",
+  "model": "glm-5.3"
+}

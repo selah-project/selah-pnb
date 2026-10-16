@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 5:3",
+  "book": "ezekiel",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "گنتی وِچ تھوڑے",
+      "rationale": "بچے کٹھے دا نکا پیمانہ — گِنتی دا موڑ لڑی وِچ۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "چوغیاں",
+      "rationale": "כנפיך مول 'کھمبراں\/پَرّ' — کپڑے دے کنارے؛ 'چوغے دیاں اطراف' صورت رکھی۔"
+    }
+  ],
+  "translation": "تے اوتھوں گنتی وِچ تھوڑے لے، تے ⟨את⟩ اوہناں نوں اپنیاں چوغیاں وِچ بنھ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "17548a6126bf5336a61917c90a6f6bf5bb50e611114c888e7f05261d8f7e6d3d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/5\/1-4.1792109090246.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "تے لے"
+    },
+    {
+      "surface": "משם",
+      "gloss": "اوتھوں"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "تھوڑے"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "گنتی وِچ"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "تے بنھ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "اوہناں نوں"
+    },
+    {
+      "surface": "בכנפיך",
+      "gloss": "اپنیاں چوغیاں وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T00:04:50.247700782Z",
+  "model": "glm-5.3"
+}

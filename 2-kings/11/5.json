@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 11:5",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نیں",
+      "rationale": "پنجابی ضمنی جملے لئی کریا چاہیدی اے، عبرانی وِچ نئیں"
+    },
+    {
+      "kind": "measurement",
+      "subject": "تِجا حصہ",
+      "rationale": "فوج دے تِن حصےآں دی ونڈ — گنتی دا حکم"
+    }
+  ],
+  "translation": "تے اوہناں نوں حکم دِتا، آکھدا: ایہہ اوہ گل اے جیہڑی تُسیں کرنے او: تُہاڈے وِچوں تِجا حصہ، جیہڑے شبّات نوں آؤنے نیں، تے چوکیدار، بادشاہ دے گھر دی پہرا دیونے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "098ecdd1aeadeb978df1622597a1639f8b85f034d8dfc876a958172ab2cf4a62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/11\/5-8.1792105177775.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצום",
+      "gloss": "تے اوہناں نوں حکم دِتا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھدا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "اوہ گل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "کرنے او"
+    },
+    {
+      "surface": "השלשית",
+      "gloss": "تِجا حصہ"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "تُہاڈے وِچوں"
+    },
+    {
+      "surface": "באי",
+      "gloss": "آؤنے والے"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "شبّات"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "تے چوکیدار"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "پہرا"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ دے"
+    }
+  ],
+  "timestamp": "2026-10-15T22:59:37.776612131Z",
+  "model": "glm-5.3"
+}

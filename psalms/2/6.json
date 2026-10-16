@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נסכתי",
+      "rationale": "'تَراوڑا پا کے مسح کیتا‘ بمقابلہ ’نصب کیتا‘ — نصب چنیا گیا، مگر جڑ دا مول چِٹا(ڈھلنا) اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨آپ⟩",
+      "rationale": "عبرانی وِچ تاکید لئی وکھ لفظ نئیں، صرف واؤں-مشدد"
+    }
+  ],
+  "translation": "تے میں ⟨آپ⟩ اپنا بادشاہ صیون، اپنے پوتر پہاڑ اُتے، نصب کیتا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "780e99b9003d6a8cbb48b4c00d2ba0d664e906dbefaea84a48c723a4c19e5859",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/2\/5-8.1792111813966.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "تے میں"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "نصب کیتا اے"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "اپنا بادشاہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صیون"
+    },
+    {
+      "surface": "הר",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "اپنے پوتر"
+    }
+  ],
+  "timestamp": "2026-10-16T00:50:13.966808206Z",
+  "model": "glm-5.3"
+}

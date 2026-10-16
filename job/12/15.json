@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 12:15",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויהפכו ארץ",
+      "rationale": "'دھرتی نوں پلٹ دیندے نیں' — سیلاب دی تصویر، مطلب تباہی"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ויבשו",
+      "rationale": "جڑ دا مول مطلب 'شرمندا ہونا' وی اے پر ایتھے پانی دے سیاق وِچ 'سک جانا' ای اے"
+    }
+  ],
+  "translation": "دیکھو، اوہ پانیاں نوں روکدا اے تے اوہ سک جاندے نیں؛ تے اوہناں نوں ٹوردا اے تے اوہ دھرتی نوں پلٹ دیندے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1918f7a0cb6ae538439044e5127df1d65cb5d5dd8a2d0fea7d6a6edd0ed57fe2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/12\/13-16.1792115647186.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "دیکھو"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "اوہ روکدا اے"
+    },
+    {
+      "surface": "במים",
+      "gloss": "پانیاں نوں"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "تے اوہ سک جاندے نیں"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "تے اوہناں نوں ٹوردا اے"
+    },
+    {
+      "surface": "ויהפכו",
+      "gloss": "تے اوہ پلٹ دیندے نیں"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "دھرتی نوں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:54:07.186961158Z",
+  "model": "glm-5.3"
+}

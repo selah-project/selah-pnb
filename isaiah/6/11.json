@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 6:11",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שאו \/ תשאה \/ שממה",
+      "rationale": "שׁאה تے שמם دیاں جڑاں دا تعاقب—ویرانی دا سُر؛ پنجابی وِچ 'ویران\/اُجاڑ' دی دُہرائی۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨سچ مُچ⟩",
+      "rationale": "אם دی زور داری لئی۔"
+    },
+    {
+      "kind": "you",
+      "subject": "ادونای",
+      "rationale": "اشعیا دا ادونای نوں سدّنا۔"
+    }
+  ],
+  "translation": "تے مَیں آکھیا: ادونای، کِن تک؟ تے اوہنے آکھیا: جے تک کہ شہر ویران ہو جان بغیر وسن والے دے، تے گھر بغیر بندے دے، تے دھرتی اُجاڑ بن جاوے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "62508e19535a5f4924492707308507317644706a56b2ca4a7fc395b30b38895b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/6\/9-12.1792105881163.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "تے میں آکھیا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "کن"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے اوہنے آکھیا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "جے تک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨سچ مُچ⟩"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "ویران ہو جان"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "بغیر"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "وسن والے دے"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "تے گھر"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "بغیر"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "بندے دے"
+    },
+    {
+      "surface": "והאדמה",
+      "gloss": "تے دھرتی"
+    },
+    {
+      "surface": "תשאה",
+      "gloss": "اُجاڑ بن جاوے"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ویرانا"
+    }
+  ],
+  "timestamp": "2026-10-15T23:11:21.164240782Z",
+  "model": "glm-5.3"
+}

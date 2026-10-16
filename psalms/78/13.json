@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اسیں",
+      "rationale": "عبرانی وِچ کارندہ دی کوئی جماعت نئیں، پنجابی فعل منگدا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בקע",
+      "rationale": "پاڑنا — 13 تے 15 آیتاں وِچ اِکو فعل سمندر تے چٹاناں لئی، عبرانی وِچ اِکو جوڑ اے"
+    }
+  ],
+  "translation": "اسیں کیتی سمندر نوں پاڑیا تے اوہناں نوں لنگھایا، تے پانیاں نوں ڈھیر وانگو کھلوایا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "72c6c5410ab05fc6c4f97fac561837ad9097507f1b394ff4793951fcaa5d00eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/78\/13-16.1792113049899.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "پاڑیا"
+    },
+    {
+      "surface": "ים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "ויעבירם",
+      "gloss": "تے اوہناں نوں لنگھایا"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "تے کھلوایا"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پانیاں نوں"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "وانگو"
+    },
+    {
+      "surface": "נד",
+      "gloss": "ڈھیر"
+    }
+  ],
+  "timestamp": "2026-10-16T01:10:49.900252832Z",
+  "model": "glm-5.3"
+}

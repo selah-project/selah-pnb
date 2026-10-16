@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אילת השחר",
+      "rationale": "'سویر دی مادھ' — اِک سُر دا ناں اے؛ کجھ 'سویر دی طاقت' پڑھدے نیں (אילת = مادھ یا عِلیون ورگا)"
+    },
+    {
+      "kind": "elision",
+      "subject": "למנצח",
+      "rationale": "'سُر دسن والا' — عبرانی دا مطلب چوکھا کھلا اے، پنجابی نے اِک کم چُنیا"
+    }
+  ],
+  "translation": "سُر دسن والے لئی، سویر دی مادھ اُتے، داوِد دا زمور۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1f377ff2861ad5d39d4b6ab6e36301de183a672594ae4acfa7b61725f2b88b0b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/22\/1-4.1792112099909.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "سُر دسن والے لئی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "مادھ"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "سویر"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "زمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد لئی"
+    }
+  ],
+  "timestamp": "2026-10-16T00:54:59.910112609Z",
+  "model": "glm-5.3"
+}

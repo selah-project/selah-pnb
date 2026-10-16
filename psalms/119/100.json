@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 100,
+  "ref": "psalms 119:100",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "نگھالیاں",
+      "rationale": "נצר is 'guard\/keep watch over' — 'نگھالنا' keeps the guarding picture"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אתבונן\/עדותיך",
+      "rationale": "root play across the stanza: בין 'distinguish' undergirds the insight claims of vv. 98–100"
+    }
+  ],
+  "translation": "بُڈھیاں توں میں ودھ سمجھدا ہاں، کیونجے تیری حکمایتاں میں نے نگھالیاں نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ca75195e5bc9a719cc360d1115e5e3fe88c81cfbdb6c45cd3970420370d65d07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/119\/97-100.1792113893191.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזקנים",
+      "gloss": "بُڈھیاں توں"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "میں ودھ سمجھدا ہاں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "تیری حکمایتاں"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "میں نے نگھالیاں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:24:53.192114672Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 16:14",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ویساہ لیا",
+      "rationale": "וינפש نو‏ں دا جذر نَ-ف-ש (جان\/ساہ) اے — ساہ لینا اوہدے نیڑے ترین تصور اے۔"
+    }
+  ],
+  "translation": "تے بادشاہ تے سارا اوہ لوک جیہڑا ⟨את⟩ اوہدے نال سی، تھکّے ہوئے آیا، تے اوتھے ⟨ساہ⟩ لیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2cf21a1dc7d58e1874bd745e3be4a13a311665ef4984752676e76b78e3635516",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/16\/13-16.1792103522778.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سارا"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ اوہدے نال",
+      "marks": "سارا لوک جیہڑا اوہدے نال سی"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "تھکّے ہوئے"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "تے ساہ لیا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اوتھے"
+    }
+  ],
+  "timestamp": "2026-10-15T22:32:02.778872167Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 3:10",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨بند⟩",
+      "rationale": "فعل سگר 'بند کرنا' پنجابی وچ وکھرے لفظ نال پورا ہوندا اے"
+    }
+  ],
+  "translation": "کیونکہ اُس نے میرے پیٹ دے بوہ ⟨بند⟩ نہ کیتے، تے میرے اکھیاں توں محنت نہ لُکائی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ecfed7b6939c18312c618bd114b16097bd56db81b6e3a54b1d35f8248973ecc7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/3\/9-12.1792115302909.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "کیتے ⟨بند⟩"
+    },
+    {
+      "surface": "דלתי",
+      "gloss": "دے بوہ"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "میرے پیٹ"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "تے نہ لُکائی"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "محنت"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "میرے اکھیاں توں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:48:22.909942843Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "سوگ کردا ہویا",
+      "rationale": "קדר دا مُڈھلا مطلب 'کالا\/سواہ ورگا ہونا' اے — سوگ وِچ کالے کپڑے پاؤن دی تصویر"
+    },
+    {
+      "kind": "you",
+      "subject": "ایل نوں",
+      "rationale": "سِدھی مخاطبت — نمازی اپنے چٹان ایل نال گل کردا اے"
+    }
+  ],
+  "translation": "مَیں اپنی چٹان ایل نوں آکھواں گا: کیوں تُوں میتھوں بھلا دِتا؟ کیوں مَیں سوگ کردا ہویا جُلدا آں دشمن دے دباؤ وِچ؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "dd0bffdb5820e29ed6499137322efd3aa7881cb0c2854312e051700e8e3994fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/42\/9-12.1792112442750.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "آکھواں گا"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ایل نوں"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "اپنی چٹان"
+    },
+    {
+      "surface": "למה",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "میتھوں بھلا دِتا"
+    },
+    {
+      "surface": "למה",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "سوگ کردا ہویا"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "جُلدا آں"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "دباؤ وِچ"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "دشمن"
+    }
+  ],
+  "timestamp": "2026-10-16T01:00:42.751100159Z",
+  "model": "glm-5.3"
+}

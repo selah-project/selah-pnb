@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 1:5",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اے⟩",
+      "rationale": "عبرانی وِچ אשר دے نال کوئی فعل نئیں، پنجابی جملے لئی لازم اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "قربان گاہ اُتے دوالے چھڑکنا",
+      "rationale": "لہو دا چھڑکنا اک مقرر رسم اے، تھاں تے ترتیب دسی گئی اے"
+    }
+  ],
+  "translation": "تے اوہ ⟨את⟩ ڈنگر دے پُتر نوں یاہوہ دے ساہمنے ذبح کریگا، تے اہرون دے پتر، کاہن، ⟨את⟩ لہو نیڑے لیاؤنگے، تے ⟨את⟩ لہو نوں قربان گاہ اُتے دوالے چھڑکنگے، جیہڑی مِیل دے خیمے دے بوہے اُتے ⟨اے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7ab9af0c71b0302942b0f6a2cfe83901fe36afeeb8c96ce7d95b609a9e04c55f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/1\/5-8.1792097383366.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "ذبح کریگا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڈنگر دے پتر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پتر"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ڈنگر"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ساہمنے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "نیڑے لیاؤنگے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پتر"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لہو"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "لہو"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "چھڑکنگے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لہو"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "لہو"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "قربان گاہ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "دوالے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "پתח",
+      "gloss": "بوہے"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمے"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "مِیل"
+    }
+  ],
+  "timestamp": "2026-10-15T20:49:43.366939388Z",
+  "model": "glm-5.3"
+}

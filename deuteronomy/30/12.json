@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 30:12",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתה",
+      "rationale": "عبرانی دی مفعول نشانی ⟨את⟩ وجوں چھڈی گئی؛ پنجابی جملے وِچ جوابی ضمیر ‘اوہنوں’ فعل وِچ رل گئی"
+    },
+    {
+      "kind": "addition",
+      "subject": "تاں جو توں آکھےں",
+      "rationale": "לאמר نوں اگلی مثال نال جوڑن لئی واضح کیتا"
+    },
+    {
+      "kind": "secret",
+      "subject": "verse",
+      "rationale": "حکم دا اسماناں وِچ نہ ہونا — گُپت گݨ کے لبھݨ والی چیز نئیں، اِس دا انکار"
+    }
+  ],
+  "translation": "اوہ اسماناں وِچ نئیں، تاں جو توں آکھےں: کون ساڈے واسطے اسماناں اُتے چڑھے تے اوہنوں ساڈے واسطے لیاوے، تے اوہنوں سانوں سنواوے، تے اسیں ⟨את⟩ اوہنوں کرئیے؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1a63e0cb29759a638331b6fb4579cdde360e9da6799c109af65c0cd21026ce65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/30\/9-12.1792100440589.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "اسماناں وِچ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھےں"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "چڑھے"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ساڈے واسطے"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "اسماناں اُتے"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "تے لیاوے"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ساڈے واسطے"
+    },
+    {
+      "surface": "וישמענו",
+      "gloss": "تے سنواوے"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "اوہنوں (حکم نوں)"
+    },
+    {
+      "surface": "ונעשנה",
+      "gloss": "تے اسیں اوہنوں کرئیے"
+    }
+  ],
+  "timestamp": "2026-10-15T21:40:40.590303189Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 107:26",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جیون-زور دا نیڑےدا اے، روح نئیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ہلچل",
+      "rationale": "רעה سدا 'برائی' نئیں، ایتھے سمندری ہلچل دا سیاق اے"
+    }
+  ],
+  "translation": "اوہ اسماناں ول چڑھدے نیں، تہوماں وچ اتردے نیں؛ اوہناں دی جان ہلچل وچ پِگھل جاندی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "213f323a1eb252fb03113974b76d84387e4d33d740bcc49748feb77cb332705e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/107\/25-28.1792113664321.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "چڑھدے نیں"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "اسماناں ول"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "اتردے نیں"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "تہوماں وچ"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "اوہناں دی جان"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "ہلچل وچ"
+    },
+    {
+      "surface": "תתמוגג",
+      "gloss": "پِگھل جاندی اے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:21:04.322264060Z",
+  "model": "glm-5.3"
+}

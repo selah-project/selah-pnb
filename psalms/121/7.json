@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 121,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جیون-زور اے، صرف 'روح' نئیں"
+    },
+    {
+      "kind": "addition",
+      "subject": "اوہ",
+      "rationale": "دوجے فعل نال کرسی دا پرتاو، عبرانی وِچ نئیں"
+    }
+  ],
+  "translation": "یاہوہ تینوں ہر برائی توں راکھی کرےگا، اوہ ⟨את⟩ تیری جان نوں راکھی کرےگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f95f567b911d2f62c715c4d81895daa8baa9c04b89ec0e0baea6fcc293a459b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/121\/5-8.1792113957237.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "تینوں راکھی کرےگا"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ہر … توں"
+    },
+    {
+      "surface": "רע",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "اوہ راکھی کرےگا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تیری جان"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "تیری جان"
+    }
+  ],
+  "timestamp": "2026-10-16T01:25:57.238378795Z",
+  "model": "glm-5.3"
+}

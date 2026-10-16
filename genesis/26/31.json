@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 26:31",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וישבעו \/ שבע",
+      "rationale": "'قسم کھانا' دی جڑ 'ست' نال رلدی اے — اگلی آیت دے شِبعہ نال آوازی رشتہ، پنجابی وچ گم"
+    },
+    {
+      "kind": "elision",
+      "subject": "מאתו",
+      "gloss": "ایہہ مِتّ (H854) 'کولوں' اے، ذمے دی نشانی את نئیں — فیر وی نشان رکھیا گیا اے جیویں سِلہ دا قاعدہ کہندا اے"
+    }
+  ],
+  "translation": "تے اوہ سویرے سویرے اُٹھے تے اِک نے دوجے نوں قسم کھادی، تے یِتصخاق نے اوہناں نوں روانہ کیتا، تے اوہ ⟨את⟩ توں اُس دے کولوں شانت نال ٹُر گئے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "10d6e7aa241884c11c370f83d78c57be6045a987b2605a4919a51b7795e5f248",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/26\/29-32.1792095286713.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "سویرے سویرے اُٹھے"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "سویر"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "قسم کھادی"
+    },
+    {
+      "surface": "איש",
+      "gloss": "اِک"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "دوجے بھرا نوں"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "روانہ کیتا"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "یِتصخاق"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ٹُر گئے"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ توں اُس دے کولوں",
+      "marks": "یِتصخاق"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "شانت نال"
+    }
+  ],
+  "timestamp": "2026-10-15T20:14:46.714277824Z",
+  "model": "glm-5.3"
+}

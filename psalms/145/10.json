@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 145:10",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "خیسِد",
+      "rationale": "Tier-2 لفظ — ⟨⟩ وِچ وضاحت دتی، اکلا ترجمہ ردّ اے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "تعریف کردے نیں",
+      "rationale": "יודה دا مُڈھ 'سوٹنا\/ماننا' اے — 'اعتراف کردے نیں' وی جائز"
+    }
+  ],
+  "translation": "یاہوہ، تیرے سارے کم تیری تعریف کردے نیں، تے تیرے خیسِد ⟨تیرے نیک بندے⟩ تینوں برکت دیندے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "163d2630e6c7b183674557c80c55d896e259c6d7d31108df5f3b47a97f9be221",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/145\/9-12.1792114246509.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "تیری تعریف کردے نیں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "تیرے کم"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "تے تیرے خیسِد"
+    },
+    {
+      "surface": "יברכוכה",
+      "gloss": "تینوں برکت دیندے نیں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:30:46.509678254Z",
+  "model": "glm-5.3"
+}

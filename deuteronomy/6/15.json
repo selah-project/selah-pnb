@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 6:15",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "gloss": "",
+      "rationale": "عبرانی وِچ کوئی copula نئیں؛ پنجابی نوں 'اے' چاہیدا اے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "غصہ",
+      "rationale": "אף دا مُڈھلا مطلب ناس\/چہرہ اے — غصے دی عبرانی تصویر 'ناس وِچ بھڑکنا' (חרה) اے۔"
+    },
+    {
+      "kind": "you",
+      "subject": "اسرائیل",
+      "rationale": "واحد 'تُو' نال اسرائیل نوں سمجھایا گیا کہ غیرت دا ایل کیوں منع کردا اے۔"
+    }
+  ],
+  "translation": "کیونجے غیرت والا ایل یاہوہ تیرا ایلوہیم تیرے وِچکار اے — کِتے ای نہ ہووے کہ یاہوہ تیرے ایلوہیم دا غصہ تیرے اُتے بھڑکے، تے تینوں دھرتی دی سطح توں مِٹا دے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7594844095c98708fa98b750ee367d9e02bf6867226e3984820ff4410f59c518",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/6\/13-16.1792099670916.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "غیرت والا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تیرا ایلوہیم"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "تیرے وِچکار"
+    },
+    {
+      "surface": "פן",
+      "gloss": "کِتے ای نہ ہووے کہ"
+    },
+    {
+      "surface": "יחרה",
+      "gloss": "بھڑکے"
+    },
+    {
+      "surface": "אף",
+      "gloss": "غصہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تیرے ایلوہیم"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تیرے اُتے"
+    },
+    {
+      "surface": "והשמידך",
+      "gloss": "تے تینوں مِٹا دے"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "توں"
+    },
+    {
+      "surface": "פני",
+      "gloss": "سطح"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "دھرتی"
+    }
+  ],
+  "timestamp": "2026-10-15T21:27:50.917767893Z",
+  "model": "glm-5.3"
+}

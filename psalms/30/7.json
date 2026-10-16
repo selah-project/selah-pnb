@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 30:7",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ਆਪ",
+      "rationale": "ਵਅਨੀ 'ਤੇ ਮੈਂ' ਦੀ ਵਕ੍ਰ ਰੈਣਾ 'ਮੈਂ ਆਪ' ਨਾਲ دਿੱਤੀ"
+    }
+  ],
+  "translation": "تے میں آپ اپنی چین وِچ آکھیا: میں کدی نئیں ڈُلسی‌ہاں، ہمیشہ لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "be439b2a2394964e15424f73588b6afeeaa0184dc5e37e18041eb4262de767e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/30\/5-8.1792112194108.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "تے میں آپ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "בשלוי",
+      "gloss": "اپنی چین وِچ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ڈُلسی‌ہاں"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشہ لئی"
+    }
+  ],
+  "timestamp": "2026-10-16T00:56:34.109901903Z",
+  "model": "glm-5.3"
+}

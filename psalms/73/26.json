@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 73:26",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צור",
+      "rationale": "KJV 'طاقت' کہندا اے، پر لفظ دی شکل 'چٹان\/پتھر' اے — JPS تے YLT چٹان رکھدے نیں"
+    },
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "عبرانی وِچ کوپula نئیں، پنجابی جملہ مکمل کرن لئی چاہیدا"
+    }
+  ],
+  "translation": "مُکدا اے میرا ماس تے میرا دل؛ میرے دل دی چٹان تے میرا حصہ ایلوہیم ⟨اے⟩، ہمیشہ لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2cc8df8a4d01344a5592ca92d78a3473980c6b99e83385ee6a12ee5b76933da1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/73\/25-28.1792112978616.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "مُکدا اے"
+    },
+    {
+      "surface": "שארי",
+      "gloss": "میرا ماس"
+    },
+    {
+      "surface": "ולבבי",
+      "gloss": "تے میرا دل"
+    },
+    {
+      "surface": "צור",
+      "gloss": "چٹان"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "میرے دل دی"
+    },
+    {
+      "surface": "וחלקי",
+      "gloss": "تے میرا حصہ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشہ لئی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:09:38.617606984Z",
+  "model": "glm-5.3"
+}

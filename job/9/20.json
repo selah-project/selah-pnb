@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 9:20",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויעקשני دی کریا دا کرتا",
+      "rationale": "KJV 'اوہ (میرا مُونھ) مینوں ٹیڑھا ٹھہرائے گا' — جَے ایہو کریا اے تاں کرتا مُونھ اے؛ JPS تے اکثر مترجم کرتا یاہوہ نوں مندے نیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ٹیڑھا",
+      "rationale": "עקש 'تِل \/ جُٹھیاں کرنا' — 'ٹیڑھا کرنا' اوہدی جسمانی تصویر نیڑے رکھدا اے"
+    }
+  ],
+  "translation": "جے میں آپ نوں راستباز آکھاں، میرا اپنا مُونھ ای مینوں مجرم ٹھہرائے گا؛ جے میں کامل ہواں، اوہ ای مینوں ٹیڑھا ٹھہرائے گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "07b33aa8a154ded95739151868aa7cc156a380364261a8efa00d1e783b2a5cf9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/9\/17-20.1792115585789.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "אצדק",
+      "gloss": "راستباز آکھاں"
+    },
+    {
+      "surface": "פי",
+      "gloss": "میرا اپنا مُونھ ای"
+    },
+    {
+      "surface": "ירשיעני",
+      "gloss": "مینوں مجرم ٹھہرائے گا"
+    },
+    {
+      "surface": "תם",
+      "gloss": "کامل"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "ויעקשני",
+      "gloss": "اوہ ای مینوں ٹیڑھا ٹھہرائے گا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:53:05.790075129Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 39:4",
+  "book": "ezekiel",
+  "lang": "pnb",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "دستے",
+      "rationale": "אגפיך پُھلّی دے پر = فوج دے پر\/ٹولیاں؛ پنجابی وچ 'پر' فوج لئی نئیں چلدا۔"
+    },
+    {
+      "kind": "you",
+      "subject": "گوگ",
+      "rationale": "گوگ نوں سِدھا مخاطب — تُوں ڈیویں گا۔"
+    }
+  ],
+  "translation": "یِسرائیل دے پہاڑاں اُتے توں ڈیویں گا — توں تے تیرے سارے دستے تے اوہ قومیں جو ⟨את⟩ تیرے نال نیں؛ شکاری پرندیاں نوں، ہر پر والے پرندے نوں، تے کھیت دے جانور نوں میں تینوں کھاوݨ لئی دِتا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "83cbe533db1a380cefecac75c8d344738bf03fbb58e4feea44b3365816bb1f4a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/39\/1-4.1792110108316.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "پہاڑاں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "תפול",
+      "gloss": "توں ڈیویں گا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "توں"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سارے"
+    },
+    {
+      "surface": "אגפיך",
+      "gloss": "تیرے دستے"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "تے قومیں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ تیرے نال",
+      "marks": "قومیں جو تیرے نال نیں"
+    },
+    {
+      "surface": "לעיט",
+      "gloss": "شکاری پرندے نوں"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "پرندے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "پر والے"
+    },
+    {
+      "surface": "וחית",
+      "gloss": "تے جانور"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "کھیت دے"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "میں تینوں دِتا اے"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "کھاوݨ لئی"
+    }
+  ],
+  "timestamp": "2026-10-16T00:21:48.317523528Z",
+  "model": "glm-5.3"
+}

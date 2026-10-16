@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 19:18",
+  "book": "joshua",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "עברית ויהי emphasis — پنجابی copula پایا گیا۔"
+    },
+    {
+      "kind": "alternative",
+      "subject": "یِزرعیل ⟨تک⟩",
+      "rationale": "מקום-اسم دے انت والی ہیگ یِزرعیلہ طرف دا نشان اے، ”تک“ دا مطلب۔"
+    }
+  ],
+  "translation": "تے اوہناں دا ٹعلا سی: یِزرعیل، تے کِسُلّوت، تے شُونیم۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f956bf34ce2910556de0fe2c35102d84c910d8bdb82fe9cdc1820fe95ce9e9f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joshua\/19\/17-20.1792101140098.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے سی"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "اوہناں دا ٹعلا"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "یِزرعیل ⟨تک⟩"
+    },
+    {
+      "surface": "והכסולת",
+      "gloss": "تے کِسُلّوت"
+    },
+    {
+      "surface": "ושונם",
+      "gloss": "تے شُونیم"
+    }
+  ],
+  "timestamp": "2026-10-15T21:52:20.098791984Z",
+  "model": "glm-5.3"
+}

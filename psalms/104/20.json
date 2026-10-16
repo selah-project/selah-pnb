@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "توں",
+      "rationale": "آیت سدھی یاہوہ دے مخاطب اے — ‘توں ہنیرا رکھدا ایں’۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "رینگدے نیں",
+      "rationale": "רמשׂ — تِیر کے چلݨا، ہولی حرکت؛ ‘باہر نکلݨا’ (KJV creep forth) وی جائز اے۔"
+    }
+  ],
+  "translation": "توں ہنیرا رکھدا ایں تے رات ہو جاندی اے؛ اوہدے وِچ جنگل دے سارے جانور رینگدے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4906a052b5537e6a05aaea946159345b7b9ba26f4c52b35185186f363c706637",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/104\/17-20.1792113543368.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "توں رکھدا ایں"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ہنیرا"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "تے ہو جاندی اے"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "رات"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوہدے وِچ"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "رینگدے نیں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "جانور"
+    },
+    {
+      "surface": "יער",
+      "gloss": "جنگل دے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:19:03.369239034Z",
+  "model": "glm-5.3"
+}

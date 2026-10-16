@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 26:10",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חי יהוה",
+      "rationale": "عبرانی قسم 'یاہوہ زندہ اے' — 'یاہوہ دے جیوں دی قسم' ریت دا پنجابی روپ"
+    },
+    {
+      "kind": "crux",
+      "subject": "כי אם",
+      "rationale": "'یاہوہ خود مارے گا' (کےجیوی) بمقابلہ 'سوائے ایہہ کہ یاہوہ مارے' (وائیکلف، ینگ) — اتھے پہلا روپ لیا"
+    }
+  ],
+  "translation": "تے داوِد نے آکھیا: یاہوہ دے جیوں دی قسم، یاہوہ اوہدے وِچ نئیں مارے گا، یاں اوہدا دن آوے گا تے اوہ مر جاوے گا، یاں جنگ وِچ اترے گا تے مِٹ جاوے گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2f6a56f3a536360a070684ed38632b70195ba5a206c3af16e9bf0e676f4d4294",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/26\/9-12.1792102986678.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد نے"
+    },
+    {
+      "surface": "חי",
+      "gloss": "دے جیوں دی قسم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨کہ⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "יגפנו",
+      "gloss": "اوہدے وِچ مارے گا"
+    },
+    {
+      "surface": "או",
+      "gloss": "یاں"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "اوہدا دن"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "آوے گا"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "تے مر جاوے گا"
+    },
+    {
+      "surface": "או",
+      "gloss": "یاں"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "جنگ وِچ"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "اترے گا"
+    },
+    {
+      "surface": "ונספה",
+      "gloss": "تے مِٹ جاوے گا"
+    }
+  ],
+  "timestamp": "2026-10-15T22:23:06.679471088Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 104:32",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩",
+      "rationale": "ה participle پچھلی آیتاں دے کماں دا کرتا دسدا اے؛ پنجابی جملے لئی ضمیر دتی گئی۔"
+    }
+  ],
+  "translation": "⟨اوہ⟩ جیہڑا دھرتی ول ویکھدا اے تے اوہ کانپ اُٹھدی اے؛ پہاڑاں نوں چھوندا اے تے اوہ دھوں اُگلدے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3dd1526d433936a330fb5192208e4a4da5c035a5f911b10addb33dfcdfb23f01",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/104\/29-32.1792113553295.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המביט",
+      "gloss": "ویکھدا اے"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "دھرتی ول"
+    },
+    {
+      "surface": "ותרעד",
+      "gloss": "کانپ اُٹھدی اے"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "چھوندا اے"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "پہاڑاں نوں"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "دھوں اُگلدے نیں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:19:13.296984759Z",
+  "model": "glm-5.3"
+}

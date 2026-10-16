@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 2:17",
+  "book": "ecclesiastes",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הבל",
+      "rationale": "ہبل — 'واپھ \/ کھوکھلاپن' بمقابلہ روايتی 'فردا'؛ لفظ دا مول دھوآں\/ساہ اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "ורעות רוח",
+      "rationale": "رُوح دی ٹِیٹھائی — 'ہوا دا چُگھنا' (عبرانی مول) بمقابلہ 'ہوا دا پچھا'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "המעשה שנעשׂה",
+      "rationale": "اکو جڑ ע-ש-ה دا دہراؤ — 'کَم جیہڑا کیتا گیا'، پنجابی وِچ جڑ نئیں دسدی"
+    }
+  ],
+  "translation": "تے میں ⟨את⟩ جیون نوں نفرت کیتی، کیوں جو اوہ کَم جیہڑا سورج ہیٹھ کیتا گیا اے، میرے اُتے ماڑا اے، کیوں جو سب کجھ ہبل اے تے رُوح اُتے ٹِیٹھائی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c1c669dab5203901d782a63b4894168e24168b4354b61b7ce2442b2bb17daf6f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ecclesiastes\/2\/17-20.1792117451992.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "تے میں نفرت کیتی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جیون"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "جیون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ماڑا"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "میرے اُتے"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "اوہ کَم"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "جیہڑا کیتا گیا اے"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ہیٹھ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سورج"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "سب کجھ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ہبل"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "تے ٹِیٹھائی"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "رُوح"
+    }
+  ],
+  "timestamp": "2026-10-16T02:24:11.993238889Z",
+  "model": "glm-5.3"
+}

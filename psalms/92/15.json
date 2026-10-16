@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 92:15",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "چکنے",
+      "rationale": "דשנים دا پہلا مطلب 'موٹا\/چرٻا'، پھر زرخیز — پنجابی 'چکنا' دوویں پاسے چھوندا اے"
+    }
+  ],
+  "translation": "ہلیاویں بُڈھے ویلے وی پھل دِےنگے، چکنے تے ہرے-بھرے رہسنگے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e412f0d7e0e31b96a367318f0332ee2c9e539cbdac9c9c401c93314e702759b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/92\/13-16.1792113363152.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "ہلیاویں"
+    },
+    {
+      "surface": "ינובון",
+      "gloss": "پھل دِےنگے"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "بُڈھے ویلے"
+    },
+    {
+      "surface": "דשנים",
+      "gloss": "چکنے"
+    },
+    {
+      "surface": "ורעננים",
+      "gloss": "تے ہرے-بھرے"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "رہسنگے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:16:03.153687105Z",
+  "model": "glm-5.3"
+}

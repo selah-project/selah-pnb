@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joel 2:9",
+  "book": "joel",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩",
+      "rationale": "پنجابی فعل لئی ضمیر چاہیدی، عبرانی وِچ نئیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "دوڑدے نیں",
+      "rationale": "שׁקט (שוק) شکار وانگوں دوڑنا\/لَلھارنا اے — اِک لفظ وچ اوہ picture مُکدا اے"
+    }
+  ],
+  "translation": "شہر وِچ اوہ دوڑدے نیں، دیوار اُتے اوہ بھجدے نیں، گھراں وِچ ⟨اوہ⟩ چڑھدے نیں، کھڑکیاں وِچوں آؤندے نیں، چور ⟨وانگوں⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "eeeb14485d6d9c10b1dd5a1d016b40b8cd5b1d92a1118722b4577f0d45b13424",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joel\/2\/9-12.1792110747087.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעיר",
+      "gloss": "شہر وِچ"
+    },
+    {
+      "surface": "ישקו",
+      "gloss": "اوہ دوڑدے نیں"
+    },
+    {
+      "surface": "בחומה",
+      "gloss": "دیوار اُتے"
+    },
+    {
+      "surface": "ירצון",
+      "gloss": "اوہ بھجدے نیں"
+    },
+    {
+      "surface": "בבתים",
+      "gloss": "گھراں وِچ"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "چڑھدے نیں"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "وِچوں"
+    },
+    {
+      "surface": "החלונים",
+      "gloss": "کھڑکیاں"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "آؤندے نیں"
+    },
+    {
+      "surface": "כגנב",
+      "gloss": "چور وانگوں"
+    }
+  ],
+  "timestamp": "2026-10-16T00:32:27.087674895Z",
+  "model": "glm-5.3"
+}

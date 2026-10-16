@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 2:5",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יברכך",
+      "rationale": "لفظی 'تینوں برکت دیوے' — پر ایہہ عبرانی بولی دا سلیقہ اے جیہڑا 'لعنت دےوے' لئی ورتیا جاندا اے؛ یلت نے لفظی رکھیا، کجے تے کجھ نے 'کُفر کرے'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "שלח ידך",
+      "rationale": "'اپنا ہتھ پیٹو\/ودھا' — عبرانی اکھاٹ 'ہتھ سیلݨا' یعنی زور لاوݨا"
+    },
+    {
+      "kind": "addition",
+      "subject": "ہُن",
+      "rationale": "נא عطف دا ذرہ اے، پنجابی وِچ 'ہُن\/جاں' نال پیش کیتا"
+    }
+  ],
+  "translation": "پر ہُن اپنا ہتھ ودھا، تے اوہدی ہڈی نوں تے اوہدے ماس نوں چھوہ — جے اوہ تیرے منہ اگے تینوں برکت نہ دیوے ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "dcc2ad8e5586abc31c88729202a96bda0340f7952bb1329573ea994d70a22086",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/2\/5-8.1792115384506.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אולם",
+      "gloss": "پر"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ودھا"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ہُن"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "اپنا ہتھ"
+    },
+    {
+      "surface": "וגע",
+      "gloss": "تے چھوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "اوہدی ہڈی نوں"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے کول"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "اوہدے ماس نوں"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "تیرے منہ اگے"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "تینوں برکت دیوے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:49:44.507127824Z",
+  "model": "glm-5.3"
+}

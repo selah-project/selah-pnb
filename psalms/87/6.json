@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 87:6",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 87,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "register of peoples",
+      "rationale": "اوہ قوماں دا ریکارڈ کھول کے جمے ہوئیاں نوں گݨدا اے — گݨتی تے لکھت دی آیت۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "گݨسی جدوں",
+      "rationale": "עמים بכתוב literally قوماں لِکھن دے وقت وِچ؛ پنجابی وِچ ਕریا دا ویلے والا جوڑ دسیا گیا۔"
+    }
+  ],
+  "translation": "یاہوہ گݨسی جدوں قوماں دا لکھیا جائے گا: ایہہ اوتھے جمیا۔ سلاہ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "db8918deef8cc9863fb10534a7683a7ed9bffce3d6117e01ab82f51826a57c37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/87\/5-7.1792113225882.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "گݨسی"
+    },
+    {
+      "surface": "בכתוב",
+      "gloss": "جدوں لکھیا جائے گا"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "قوماں دا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "جمیا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اوتھے"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سلاہ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:13:45.883608777Z",
+  "model": "glm-5.3"
+}

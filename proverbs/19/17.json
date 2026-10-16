@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 19:17",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ملاویہ یہوہ",
+      "rationale": "غریب اُتے مہربانی نوں یاہوہ نوں قرض دینا آکھنا — عبرانی دی اُپما، پنجابی وِچ اوویں رکھی اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מלוה\/ישלם",
+      "rationale": "قرض دینا تے ادا کرنا دا ٹبر، ملیا کے رکھیا اے"
+    }
+  ],
+  "translation": "جو یاہوہ نوں ⟨قرض⟩ دیندا اے، اوہ دلوں غریب اُتے مہربان کردا اے؛ تے اوہدا اِہدا یاہوہ اوہنوں ادا کریگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bad42d7a68c4700fffe7c247ac07c1e0cb354901859946ed401a490fc0e3ff7c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/19\/17-20.1792114916792.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלוה",
+      "gloss": "قرض دیندا اے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "مہربان کردا اے"
+    },
+    {
+      "surface": "דל",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "וגמלו",
+      "gloss": "تے اوہدا اِہدا"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ادا کریگا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہنوں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:41:56.793099295Z",
+  "model": "glm-5.3"
+}

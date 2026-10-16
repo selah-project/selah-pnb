@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 113,
+  "ref": "psalms 119:113",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "סעפים",
+      "rationale": "'دو-مانیاں والے' بمقابلہ 'وہمیلے خیال' — لفظ اک ای اے پر بندے نیں خیال نئیں، یا خیال نیں بندے نئیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "تورات",
+      "rationale": "تورات حرف-نقل اے، پہلی واری ⟨ہدایت⟩ وضاحت جائز"
+    }
+  ],
+  "translation": "دو-مانیاں والیاں نوں میں نفرت کیتی اے، تے تیری تورات نوں میں پیار کیتا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0012912ccfab3190faede15b8ae883b42dc59729d781b0882da2feb139e89989",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/119\/113-116.1792113920706.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סעפים",
+      "gloss": "دو-مانیاں والیاں نوں"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "نفرت کیتی میں"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "تے تیری تورات نوں"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "پیار کیتا میں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:25:20.706902653Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 21:13",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משא",
+      "rationale": "بَر — وزن گو کہہ سکدے نیں پر 'oracle\/ burden' دوناں پڑھائیاں نیں۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בערב …בערב",
+      "rationale": "'اَرَب' دو واری دوہرایا گیا — آوازی دوہراؤ۔"
+    },
+    {
+      "kind": "you",
+      "subject": "قافلے والیو",
+      "rationale": "دِدان دے قافلیاں نوں سدھی سنیہا۔"
+    }
+  ],
+  "translation": "بَر اَرَب دا بَر۔ جنگل وِچ، اَرَب وِچ، تُسیں رات بتاؤ گے، اے دِدان قافلے والیو۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7034096a3a50d196a17900691383f539e0c4b375babff40a04c993096788bec4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/21\/13-16.1792106113892.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "بَر"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "اَرَب دا"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "جنگل وِچ"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "اَرَب وِچ"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "تُسیں رات بتاؤ گے"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "قافلے والیو"
+    },
+    {
+      "surface": "דדנים",
+      "gloss": "اے دِدان"
+    }
+  ],
+  "timestamp": "2026-10-15T23:15:13.893448595Z",
+  "model": "glm-5.3"
+}

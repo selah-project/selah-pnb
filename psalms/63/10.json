@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 63:10",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "جو",
+      "rationale": "عبرانی جمع کنجی لفظ نئیں دندا؛ پنجابی جملہ لئی چاہیدا۔"
+    }
+  ],
+  "translation": "تے اوہ جو تباہی لئی میری جان نوں کھوجدے نیں، اوہ دھرتی دیاں تھلویاں تہاں وِچ آئنگے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a6bd11b0433fd2e8ac46bc2ccb62e89be14c7c212bf14565ba135586b13f9937",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/63\/9-12.1792112756258.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "تے اوہ"
+    },
+    {
+      "surface": "לשואה",
+      "gloss": "تباہی لئی"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "کھوجدے نیں"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میری جان نوں"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "آئنگے"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "تھلویاں تہاں وِچ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "دھرتی دیاں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:05:56.259297830Z",
+  "model": "glm-5.3"
+}

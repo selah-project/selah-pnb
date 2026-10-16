@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 6:10",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "השמן",
+      "rationale": "موٹا\/چکنا کرنا — KJV 'fat', BSB 'calloused'؛ حرف-نقل والا مطلب 'موٹا' رکھیا۔"
+    },
+    {
+      "kind": "hapax",
+      "subject": "השע",
+      "rationale": "שׁועַע دی ایہ جُڑ تنخ وِچ کُجھ تھانواں تک؛ 'مُڑ بند کر' دا سادہ مطلب۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "مُڑ",
+      "rationale": "ושب دا عمل والا مطلب پنجابی وِچ پورا کرن لئی وادھو قید۔"
+    }
+  ],
+  "translation": "ایس قوم دے دِل نوں موٹا کر، تے اوہدیاں کنّاں نوں بھاری، تے اوہدیاں اکھیاں مُڑ بند کر؛ کتے اوہ اپنیاں اکھیاں نال ویکھے، تے اپنیاں کنّاں نال سُنے، تے اپنے دِل نال سمجھے، تے ⟨مُڑ⟩ آوے تے اوہدے لئی شفا ہووے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "62508e19535a5f4924492707308507317644706a56b2ca4a7fc395b30b38895b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/6\/9-12.1792105881163.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השמן",
+      "gloss": "موٹا کر"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل نوں"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم دے"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایس"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "تے اوہدیاں کناناں نوں"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "بھاری"
+    },
+    {
+      "surface": "ועיניו",
+      "gloss": "تے اوہدیاں اکھیاں"
+    },
+    {
+      "surface": "השע",
+      "gloss": "مُڑ بند کر"
+    },
+    {
+      "surface": "פן",
+      "gloss": "کتے"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ویکھے"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "اپنیاں اکھیاں نال"
+    },
+    {
+      "surface": "ובאזניו",
+      "gloss": "تے اپنیاں کناناں نال"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "سُنے"
+    },
+    {
+      "surface": "ולבבו",
+      "gloss": "تے اپنے دل نال"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "سمجھے"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "تے ⟨مُڑ⟩ آوے"
+    },
+    {
+      "surface": "ורפא",
+      "gloss": "تے شفا ہووے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدے لئی"
+    }
+  ],
+  "timestamp": "2026-10-15T23:11:21.164034803Z",
+  "model": "glm-5.3"
+}

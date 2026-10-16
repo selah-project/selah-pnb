@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 63:7",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אם",
+      "rationale": "عبرانی وِچ 'جے\/جد' — سیاق وِچ وقتی مطلب 'جد' اے، شرطی نئیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "گُوندا آں",
+      "rationale": "הגה بُڑبُڑاٹ\/لَے لَے کر سوچنا اے — 'مذہبی غور' نئیں"
+    }
+  ],
+  "translation": "جد میں تینوں اپنے بسترے اُتے یاد کردا آں، پہراں دی رات وِچ میں تیرے بارے گُوندا آں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e27d25f1bef020b9d973f8f67dfe6f62fa2ad021cd065a6e8ddb3d763dc5ff25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/63\/5-8.1792112810657.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جد"
+    },
+    {
+      "surface": "זכרתיך",
+      "gloss": "تینوں یاد کردا آں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "اپنے بسترے"
+    },
+    {
+      "surface": "באשמרות",
+      "gloss": "پہراں دی رات وِچ"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "گُوندا آں"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تیرے بارے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:06:50.658452334Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 19:13",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מה לך פה",
+      "rationale": "پُرکھی الیہودی سوال اے 'تیرا کی اے ایتھے' — چنگا سوال 'توں ایتھے کی کر رہا ایں' نئیں"
+    },
+    {
+      "kind": "you",
+      "subject": "آواز",
+      "rationale": "آواز ایلیاہو نوں سدّی سنوائی — مخاطب ایلیاہو اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨آئی⟩، ⟨اے⟩",
+      "rationale": "عبرانی وِچ copula تے کریا دا فعل نئیں، پنجابی جملہ منگدا اے"
+    }
+  ],
+  "translation": "تے ایہہ ہویا کہ جدوں ایلیاہو نے ⟨اوہ⟩ سنیا، تاں اوہنے اپنا منہ اپنی چادر وِچ لُکایا، تے نِکل کے غار دے مُنہ اُتے کھلو گیا، تے ویکھو، اوہدے کول اِک آواز ⟨آئی⟩ تے آکھیا: تیرا کی ⟨اے⟩ ایتھے، ایلیاہو؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6c89fcf01dbb56d6bcf0dd5ba297cce3bf430e11a7ff22afe2c2574e374644b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/19\/13-16.1792104726385.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے ایہہ ہویا"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "جدوں سنیا"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ایلیاہو نے"
+    },
+    {
+      "surface": "וילט",
+      "gloss": "لُکایا"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "اپنا منہ"
+    },
+    {
+      "surface": "באדרתו",
+      "gloss": "اپنی چادر وِچ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "تے نِکلیا"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "تے کھلو گیا"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "مُنہ اُتے"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "غار دے"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "تے ویکھو"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اوہدے کول"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کی"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیرا"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ایتھے"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ایلیاہو"
+    }
+  ],
+  "timestamp": "2026-10-15T22:52:06.386325319Z",
+  "model": "glm-5.3"
+}

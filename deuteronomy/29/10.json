@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 29:10",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "نِکے بال",
+      "rationale": "טף ٹبر\/نِکے بال — بھجدا پھردا ٹبر، صرف 'بال' نئیں"
+    },
+    {
+      "kind": "addition",
+      "subject": "والیاں",
+      "rationale": "עץ تے מים اِکو عبرانی لفظ نیں — جمع بنان والا نشان پنجابی نے پایا"
+    }
+  ],
+  "translation": "تُہاڈے نِکے بال، تُہاڈِیاں ذالِیاں تے تیرا پَرواسی جیہڑا تیرے ڈیریاں وِچ اے — لکڑِیاں کَٹن والے توں لے کے تیرا پانی کَڈھن والے تیک —",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "613764cbd906a2d63bb9cfe5d19264aead3614839c7c7a0fe55c8496ca3849b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/29\/9-12.1792100421380.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טפכם",
+      "gloss": "تُہاڈے نِکے بال"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "تُہاڈِیاں ذالِیاں"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "تے تیرا پَرواسی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "מחניך",
+      "gloss": "تیرے ڈیرِیاں"
+    },
+    {
+      "surface": "מחטב",
+      "gloss": "لکڑِیاں کَٹن والے توں"
+    },
+    {
+      "surface": "עציך",
+      "gloss": "تیریاں لکڑِیاں"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تیک"
+    },
+    {
+      "surface": "שאב",
+      "gloss": "کَڈھن والے"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "تیرا پانی"
+    }
+  ],
+  "timestamp": "2026-10-15T21:40:21.381493245Z",
+  "model": "glm-5.3"
+}

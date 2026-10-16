@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 45:2",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "את קלו בבכי",
+      "rationale": "عبرانی 'آواز دتی رووے وِچ' — سدھا ہی رکھیا گیا، پنجابی وِچ وی چلدا اے"
+    }
+  ],
+  "translation": "تے اوہنے رووے وِچ ⟨את⟩ اپنی آواز چھڈّی، تے مِتصرایم نے سنیا، تے فرعون دے گھر نے سنیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "34e071bd88db5976584ff5d54f956cbd86a23506c73f23f19c45e05fd7437335",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/45\/1-4.1792096029717.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "تے دتی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنی آواز"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "اپنی آواز"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "رووے وِچ"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "تے سنیا"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "تے سنیا"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    }
+  ],
+  "timestamp": "2026-10-15T20:27:09.718066501Z",
+  "model": "glm-5.3"
+}

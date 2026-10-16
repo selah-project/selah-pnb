@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 8:16",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "רטב",
+      "rationale": "مول مطلب 'رس نال بھیجا' اے — 'ہرا' شکل دی گلاس اے، نہ کہ لفظ دی پوری تصویر۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "הוא",
+      "rationale": "کِدے پُچھے دا 'اوہ' (منافق) اے، کِدے بوٹی — عبارت دا ضمیر وکھرا پڑھیا گیا اے۔"
+    }
+  ],
+  "translation": "اوہ سورج توں پہلاں ہرا ⟨رہندا اے⟩، تے اوہدے باغ اُتے اوہدیاں نویں شاخاں نِکلاں گیاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1fbb6e9064788810727e4e0f96ccd6f54c98634d3b252371107e7a33bc4756d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/8\/13-16.1792115507188.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רטوب",
+      "gloss": "ہرا (رس نال بھریا)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "توں پہلاں"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "سورج"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "גנתו",
+      "gloss": "اوہدے باغ"
+    },
+    {
+      "surface": "ינקתו",
+      "gloss": "اوہدیاں نویں شاخاں"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "نِکلاں گیاں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:51:47.189706266Z",
+  "model": "glm-5.3"
+}

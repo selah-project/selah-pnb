@@ -1,0 +1,140 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 17:14",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جیون-زور اے، صرف 'روح' نئیں — ایتھے 'جان' نیڑے ترین اے۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "בנפשו הוא",
+      "rationale": "'اوہدی جان وِچ اوہ اے' — ترجمے 'اک اے نال' (jps) جاں 'اوہدی جان اے' (kjv) دے وچ ونڈے ہوئے نیں۔"
+    },
+    {
+      "kind": "you",
+      "subject": "یِسرائیل دے پُتراں",
+      "rationale": "حکم سدھی نسبت یِسرائیل نال اے: 'نہ کھاؤ'۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נפש\/דם",
+      "rationale": "آیت دا کلیدی جوڑ 'جان—لہو' دو واری دُہرایا گیا اے — خون بارے تورات دی بنیاد۔"
+    }
+  ],
+  "translation": "کیونکہ ہر ماس دی جان اوہدا لہو اے، اوہدی جان ⟨نال⟩ ⟨اے⟩؛ تے میں یِسرائیل دے پُتراں نوں آکھیا: ہر ماس دا لہو نہ کھاؤ، کیونکہ ہر ماس دی جان اوہدا لہو ⟨اے⟩؛ اوہدے سارے کھان والے کاٹے جان گے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a730804f036026d31fa4f1ec807632a2a81dd5b2a57f8e21085bc3befa7b01be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/17\/13-16.1792097859918.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ماس"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "اوہدا لہو"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "اوہدی جان وِچ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ ⟨اے⟩"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "تے میں آکھیا"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "پُتراں نوں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "דם",
+      "gloss": "لہو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ماس"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "کھاؤ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ماس"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "اوہدا لہو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨اے⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "אכליו",
+      "gloss": "اوہدے کھان والے"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "کاٹے جان گے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:57:39.919097668Z",
+  "model": "glm-5.3"
+}

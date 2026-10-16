@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 22:1",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "عبرانی وِچ کاروبار فعل نئیں، پنجابی نے ⟨ہوندی اے⟩ ورگا سموہ لفظ منگدا"
+    },
+    {
+      "kind": "crux",
+      "subject": "חן",
+      "rationale": "چن: مہر\/فضل — کجھ مترجم لین گئے 'محبت والی بخشش'، لفظ دی شکل 'چن' ہی اے"
+    }
+  ],
+  "translation": "چُنیا ہویا ناں بہت دولت توں ودھ اے، چاندی تے سونے توں چنگی مہر۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "da30ecec23518da05e20c566ab391ef5a453dbaa5d01661c9410f34e9853b227",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/22\/1-4.1792114962474.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נבחר",
+      "gloss": "چُنیا ہویا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناں"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "دولت"
+    },
+    {
+      "surface": "רב",
+      "gloss": "بہت"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "چاندی"
+    },
+    {
+      "surface": "ומזהב",
+      "gloss": "تے سونے"
+    },
+    {
+      "surface": "חן",
+      "gloss": "مہر"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:42:42.474728468Z",
+  "model": "glm-5.3"
+}

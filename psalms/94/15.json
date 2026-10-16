@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ہون گے⟩",
+      "rationale": "عبرانی وِچ کوئی فعل نئیں — ‘سارے سِدھے-دِل اُوہدے پچھوں’؛ پنجابی جملہ لئی فعل پایا گیا۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "עד צדק ישוב משפט",
+      "rationale": "لفظی: ‘انصاف تک فیصلہ مُڑسی’ — کئی پڑھائیاں: فیصلہ انصاف ول واپس آؤے گا، جاں انصاف دی خبر تک۔"
+    }
+  ],
+  "translation": "کیونکہ فیصلہ انصاف ول مُڑسی، تے اُوہدے پچھوں سارے سِدھے-دِل ⟨ہون گے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c9a08e5c29c1506f3893aaf998809516621aba1058ba6867a065c6c93e25ca0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/94\/13-16.1792113434394.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "مُڑسی"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "فیصلہ"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "تے اُوہدے پچھوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "سِدھے"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دِل"
+    }
+  ],
+  "timestamp": "2026-10-16T01:17:14.395366593Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 146,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "سُپرِیفے",
+      "rationale": "הלל دا مُڈھلی مطلب چمکنا\/ساف ہونا اے؛ پنجابی وچ تعریف کرن دے لحظے نال ہلّیلو آکھیا گیا اے۔"
+    }
+  ],
+  "translation": "یاہ نوں سُپرِیفے کرو، میں اِکو ویلے اپنی جانِ ساہ ⟨את⟩ یاہوہ نوں سُپرِیفے کرے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "cd9c1e02f2015f113f5c19e5cd83121533a352060ea047a6cf44a0c908ab641f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/146\/1-4.1792114254007.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "سُپرِیفے کرو"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاہ"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "سُپرِیفے کراں"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میری جان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:30:54.007900059Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 4:7",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בא אלהים",
+      "rationale": "فعل جمع اے — پلشتیم ایلوہیم نوں کئی دیوتے سمجھدے نیں؛ جمع جمع ای رکھیا، کیونجے متن ایویں کہندا اے۔"
+    },
+    {
+      "kind": "idiom",
+      "subject": "אתמול שלשם",
+      "rationale": "مہا ‘کل پرسوں’ یعنی ‘پہلاں کدی نئیں’ — شاید مطلب وقت دا نئیں، گھٹناں دا اے۔"
+    }
+  ],
+  "translation": "تے پلشتیم ڈر گئے، کیونجے اوہناں آکھیا: ایلوہیم پڑاؤ وِچ آئے نیں۔ تے اوہناں آکھیا: سانوں افسوس! کیونجے ایجہی گل کل نئیں تے پرسوں نئیں ہوئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e22cc62d0726d92c285ce54fc5a4b4e97306e999a63b7ef63e166f9958f7657a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/4\/5-8.1792102292445.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "تے ڈر گئے"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "پلشتیم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آئے نیں"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تک"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "پڑاؤ"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "افسوس"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "سانوں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ہوئی"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "ایجہی"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "کل"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "پرسوں"
+    }
+  ],
+  "timestamp": "2026-10-15T22:11:32.446311335Z",
+  "model": "glm-5.3"
+}

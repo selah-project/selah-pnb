@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 6:30",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הוות",
+      "rationale": "מکھ مفسر 'تباخی\/مکاری' لیندے نیں، YLT 'چنگیاں شیواں' — جڑ مٹھاس\/خواہش والی وی اے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "تالو",
+      "rationale": "חך سچ مُچھ تالو\/مونہہ دا سواد-انگ اے، سوچ دا نئیں — پنجابی وِچ 'سواد پچھانا' وکھائی دندا اے۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עולה",
+      "rationale": "עולہ 6:29 تے 6:30 دوویں تھاواں دہرایا گیا — ایوب دا سوال پچھلی آیت نال جُڑدا اے۔"
+    }
+  ],
+  "translation": "کی میری زبان وِچ ظلم اے؟ جا کی میرا تالو تباخی نوں نئیں پچھاندا؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c85faf882637b583841736e2c5253523f37b9f5a1978e737583eec37f2d056d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/6\/29-30.1792115524600.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היש",
+      "gloss": "کی … اے"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "میری زبان وِچ"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ظلم"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جا کی"
+    },
+    {
+      "surface": "חכי",
+      "gloss": "میرا تالو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "پچھاندا"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "تباخی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:52:04.601032500Z",
+  "model": "glm-5.3"
+}

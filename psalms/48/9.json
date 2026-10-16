@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 48:9",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כאשר…כן",
+      "rationale": "“جِویں…اُویں” دی جوڑی عبرانی כאשר\/כן دی عکاسی کردی اے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "סלה",
+      "rationale": "سلہ موسیقی دا وقفہ اے، ترجمہ نئیں — حرف-نقل رکھیا۔"
+    }
+  ],
+  "translation": "جِویں اسیں سُنیا اے، اُویں اسیں ویکھیا اے، یاہوہ تصواوت دی شہر وِچ، ساڈے ایلوہیم دی شہر وِچ — ایلوہیم اوہنوں ہمیشہ لئی قایم رکھے گا۔ سلہ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7520bed6636c57f2bb25c0bab25bf7f36d6f75cd794f2c7a01afa28da7b3a100",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/48\/9-12.1792112537212.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "جِویں"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "اسیں سُنیا اے"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اُویں"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "اسیں ویکھیا اے"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "شہر وِچ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "تصواوت"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "شہر وِچ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ساڈے ایلوہیم"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "قایم رکھے گا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "لئی"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سلہ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:02:17.212933778Z",
+  "model": "glm-5.3"
+}

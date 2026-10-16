@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 31:10",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תקעו",
+      "rationale": "جڑّ دا مطلب کِلّے نال گڈنا اے — ٹنگنا، گڈنا، جوڑنا تن وکھرے رنگ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ٹنگی",
+      "rationale": "עקعب literally دیوار وِچ گڈنا — پنجابی ٹنگنا اوہو تصویر دیندا اے"
+    }
+  ],
+  "translation": "تے اوہناں ⟨את⟩ اوہدے ہتھیار عشتاروت دے گھر وِچ رکھے، تے ⟨את⟩ اوہدی لاش بیت شان دی دیوار اُتے ٹنگی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f01ec8cba7e950f22fbeb6521a363df0fe4a8509179030ebc21b71a5d5856dec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/31\/9-12.1792103084449.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "تے رکھے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہدے ہتھیار"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "اوہدے ہتھیار"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر وِچ"
+    },
+    {
+      "surface": "עשתרות",
+      "gloss": "عشتاروت دے"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "اوہدی لاش"
+    },
+    {
+      "surface": "גויתו",
+      "gloss": "اوہدی لاش"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "ٹنگی"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "دیوار اُتے"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "שן",
+      "gloss": "شان دی"
+    }
+  ],
+  "timestamp": "2026-10-15T22:24:44.450643163Z",
+  "model": "glm-5.3"
+}

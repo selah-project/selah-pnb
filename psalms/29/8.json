@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יחיל",
+      "rationale": "جڑ חול = بلانا\/مار کھانا؛ 'ہلا دینا' ریت اے پر 'تڑپنا\/بل کھانا' وی جائز"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יחיל…יחיל",
+      "rationale": "فعل دی دوہرائی بج دے نال — آواز-کم دے سلسلے دا انگ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "قادش دے بیابان",
+      "rationale": "متن وچ بیابان نال جُڑا ہویا اے؛ پنجابی وِچ مضاف الیہ دی ساخت"
+    }
+  ],
+  "translation": "یاہوہ دا آواز بیابان نوں ہلا دندا اے، یاہوہ قادش دے بیابان نوں ہلا دندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "007ebbf8d910a3c8e7e7d2e2d2e22dba0019bd0f8e94a2bfbc19dc384540295b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/29\/5-8.1792112162125.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "ہلا دندا اے"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "بیابان"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "ہلا دندا اے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "بیابان"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قادش"
+    }
+  ],
+  "timestamp": "2026-10-16T00:56:02.126396560Z",
+  "model": "glm-5.3"
+}

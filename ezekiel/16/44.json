@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "ezekiel 16:44",
+  "book": "ezekiel",
+  "lang": "pnb",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "המשל\/ימשל",
+      "rationale": "اکو جڑ دو واری — قول دین والا قول دیندا اے؛ پنجابی وِچ وزن رکھن دی کوشش کیتی اے۔"
+    },
+    {
+      "kind": "idiom",
+      "subject": "جیہی ماں، اوہی دھی",
+      "rationale": "'Like mother, like daughter' — پنجابی اکھانت دے بیان نال چکیا اے۔"
+    },
+    {
+      "kind": "invitation",
+      "subject": "قاری نوں",
+      "rationale": "הנہ 'ویکھ' قاری نوں سدّا اے — نویں بولی\/مضمون شروع ہوندا اے۔"
+    }
+  ],
+  "translation": "ویکھ، ہر اوہ جیہڑا اپنے اُتے اکھانت کہندا اے، تیرے بارے ایہہ کہندا ہووےگا: جیہی ماں، اوہی دھی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1637f107a9beea5361044937165237a388109f0e17ba4a46f75720d50f865180",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/16\/41-44.1792109331527.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ویکھ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "המשל",
+      "gloss": "جو اپنے اُتے اکھانت کہندا اے"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تیرے بارے"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "ایہہ کہندا ہووےگا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کے"
+    },
+    {
+      "surface": "כאמה",
+      "gloss": "جیہی ماں"
+    },
+    {
+      "surface": "בתה",
+      "gloss": "اوہی دھی"
+    }
+  ],
+  "timestamp": "2026-10-16T00:08:51.528567622Z",
+  "model": "glm-5.3"
+}

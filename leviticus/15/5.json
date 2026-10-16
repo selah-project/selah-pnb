@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 15:5",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نوں",
+      "rationale": "پنجابی مفعول نشان منگدا اے، عبرانی כבס دا اکارت ואיש اے"
+    }
+  ],
+  "translation": "تے جو بندہ اوہدے بستر نوں چھوہے، اوہ اپنے کپڑے دھووے تے پانی وِچ نہاوے، تے شام تک اُپوتر رہے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "78721a5269acdcf92bcd6355f88ecfd946ea7775fe5d0303ea6a9804bbcc0e75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/15\/5-8.1792097782876.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "تے جو بندہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "چھوہے"
+    },
+    {
+      "surface": "במשכבו",
+      "gloss": "اوہدے بستر نوں"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "دھووے"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "اپنے کپڑے"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "تے نہاوے"
+    },
+    {
+      "surface": "במים",
+      "gloss": "پانی وِچ"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "تے اُپوتر رہے"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "شام"
+    }
+  ],
+  "timestamp": "2026-10-15T20:56:22.876663648Z",
+  "model": "glm-5.3"
+}

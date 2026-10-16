@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 9:9",
+  "book": "amos",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "چھان-بی \/ بی",
+      "rationale": "כברה چھان بی اے پر متن وِچ 'بی' شبد نئیں آیا — کجھ ترجمے 'پتھر' پڑھدے نیں (BSB)، کجھ 'دانہ' (KJV)؛ צרור اِک بنھے ہوئے ٹُکڑے\/دانے دا مطلب اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "بی",
+      "rationale": "تشبیہ دی سمجھ لئی 'بی' شبد وادھو کیتا گیا، عبرانی وِچ صرف چھان-بی دا ذکر اے۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "تے اِک بی نئیں ڈیگے گا",
+      "rationale": "گنتی دی بولی — کنے کو دانے ڈیگݨ گے: اِک وی نئیں۔"
+    }
+  ],
+  "translation": "کیونکہ ویکھو، میں ⟨حکم⟩ دیندا آں، تے میں ساریاں قوماں وِچ ⟨את⟩ یِسرائیل دے گھر نوں ہلاواں گا، جویں چھان-بی وِچ ⟨بی⟩ چھاہیا جاندا اے، تے اِک ⟨بی⟩ دھرتی اُتے نئیں ڈیگے گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f8267812af290365fb9bdbdf6006b6398bce3cd4105759b310e0b4fd1d4ca2e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/amos\/9\/9-12.1792110903006.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ویکھو"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "حکم دیندا آں"
+    },
+    {
+      "surface": "והנעותי",
+      "gloss": "تے میں ہلاواں گا"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ساریاں … وِچ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "قوماں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یِسرائیل دے گھر نوں"
+    },
+    {
+      "surface": "בית",
+      "gloss": "… دا گھر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جویں"
+    },
+    {
+      "surface": "ינוע",
+      "gloss": "چھاہیا جاندا اے"
+    },
+    {
+      "surface": "בכברה",
+      "gloss": "چھان-بی وِچ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ڈیگے گا"
+    },
+    {
+      "surface": "צרור",
+      "gloss": "اک بی"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "دھرتی اُتے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:35:03.007228745Z",
+  "model": "glm-5.3"
+}

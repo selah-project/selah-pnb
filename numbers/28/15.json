@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 28:15",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על התמיד",
+      "rationale": "literally 'regarding the continual burnt offering' → 'نیتن دی سوختہ قربانی توں وادھو'"
+    },
+    {
+      "kind": "addition",
+      "subject": "وی",
+      "rationale": "وנסכو and-joined؛ پنجابی جملے لئی 'وی' فطری اے"
+    }
+  ],
+  "translation": "تے اِک وَڈّا بکرا بکریاں وِچوں، گناہ دی قربانی لئی، یاہوہ لئی؛ نیتن دی سوختہ قربانی توں وادھو اوہ کیتا جاوے، تے اوہدا پین دا قربانی ⟨وی⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e620ba4d296853dcfb047de5567517438ceb8993db43c0fdf682b54eaa08b8c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/28\/13-16.1792099185365.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושעיר",
+      "gloss": "تے وَڈّا بکرا"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "بکریاں وِچوں"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "اِک"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "گناہ دی قربانی لئی"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ لئی"
+    },
+    {
+      "surface": "על",
+      "gloss": "توں وادھو"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "سوختہ قربانی"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "نیتن دی"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "اوہ کیتا جاوے"
+    },
+    {
+      "surface": "ונסכו",
+      "gloss": "تے اوہدا پین دا قربانی"
+    }
+  ],
+  "timestamp": "2026-10-15T21:19:45.366572738Z",
+  "model": "glm-5.3"
+}

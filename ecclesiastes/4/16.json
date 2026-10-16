@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 4:16",
+  "book": "ecclesiastes",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לכל אשר היה לפניהם",
+      "rationale": "'سارے جیہڑے اگوں ٹردے سن' — بادشاہ دی اگوائی دے لوک، یا اوہدے توں پہلے دے بادشاہ؛ دو ودھاوان نیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הבל",
+      "rationale": "ہیبل — ساہ\/دھواں، 'ویہالت' مٹاؤنا نئیں، اکو صورت رکھی"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ורעיון רוח",
+      "rationale": "لفظی 'روح دا کھچ\/لبھ' — ریتاں 'ہوا دا رِڈکنا'، 'بے کار محنت'"
+    }
+  ],
+  "translation": "سارے لوکاں دا کوئی انت نئیں، ساریاں اوہناں دے جیہڑے اوہناں توں پہلاں سن؛ پچھلے وی اوہدے وِچ خوش نئیں ہونگے، کیونجے ایہہ وی ہیبل اے تے روح دا کھچ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "045fec749268d343a4a42f5e81aeb0e65c2239db708c9d75bfc8cccc23b26d2a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ecclesiastes\/4\/13-16.1792117407330.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "کوئی نئیں"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "انت"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوکاں دا"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ساریاں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "היה",
+      "gloss": "سن"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "اوہناں توں پہلاں"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "האחרונים",
+      "gloss": "پچھلے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "خوش ہونگے"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوہدے وِچ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ہیبل"
+    },
+    {
+      "surface": "ורעיון",
+      "gloss": "تے کھچ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    }
+  ],
+  "timestamp": "2026-10-16T02:23:27.331491812Z",
+  "model": "glm-5.3"
+}

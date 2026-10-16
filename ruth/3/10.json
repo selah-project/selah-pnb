@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 3:10",
+  "book": "ruth",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את (v10)",
+      "rationale": "اتھے وی 'توں' ضمیر اے، مفعول دا نشان نئیں۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "ہون",
+      "rationale": "'غریب ہون' — عبرانی وِچ صفتاں ای نیں، پنجابی کوپلہ منگدا اے۔"
+    }
+  ],
+  "translation": "تے اوہنے آکھیا: “توں یاہوہ ولوں برکت والی ایں، میری دھی؛ تے توں اپنا پچھلا خیسِد ⟨سُچجی رحمت⟩ پہلے توں چنگا کیتا اے، کہ جواناں دے پچھوں نئیں ٹری، اگرچہ اوہ غریب ہون تے اگرچہ امیر۔”",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5ad07fb4d443009a91fc14b91094c8ce705cc209cff39ba028e2d246c041f243",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ruth\/3\/9-12.1792116918765.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے اوہنے آکھیا"
+    },
+    {
+      "surface": "ברוכה",
+      "gloss": "برکت والی"
+    },
+    {
+      "surface": "את",
+      "gloss": "توں"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ ولوں"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "میری دھی"
+    },
+    {
+      "surface": "היטבת",
+      "gloss": "چنگا کیتا"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "تیرا خیسِد"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "پچھلا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "پہلے"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "کہ نہ"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "ٹریں"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پچھوں"
+    },
+    {
+      "surface": "הבחורים",
+      "gloss": "جواناں دے"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگرچہ"
+    },
+    {
+      "surface": "דל",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "تے اگرچہ"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "امیر"
+    }
+  ],
+  "timestamp": "2026-10-16T02:15:18.766663052Z",
+  "model": "glm-5.3"
+}

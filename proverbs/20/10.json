@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 20:10",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אבן ואבן איפה ואיפה",
+      "rationale": "دوہراؤ ایہدا ودھاء اے — دو وکھرے وزن\/ناپ دا دارا؛ پنجابی وِچ دوہراؤ رکھیا گیا اے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "אבן",
+      "rationale": "ایتھے 'پتھر' وزن دا اے، عمارت دا نئیں — کجھ مترجم 'وکھرے وزن' آکھدے نیں، صورت دا گوانڈھ اے"
+    }
+  ],
+  "translation": "پتھر تے پتھر، ایفہ تے ایفہ — اوہ دونوں ہی یاہوہ لئی مکروہ نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0b57c84e8816b0afce4a7d833df3bcb143f9b89999e98825a6d957e7bb66b826",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/20\/9-12.1792114879496.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "اک پتھر ⟨وزن⟩"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "تے اک پتھر"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "اک ایفہ ⟨ناپ⟩"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "تے اک ایفہ"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "مکروہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "دونوں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:41:19.497491500Z",
+  "model": "glm-5.3"
+}

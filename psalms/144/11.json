@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 144:11",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וימינם\/ימין שקר",
+      "rationale": "'اوہناں دا سجّا ہتھ … سجّا ہتھ' — عبرانی دی واپسی (چیازم دا آر پار)، پنجابی وِچ وی دوہرایا۔"
+    },
+    {
+      "kind": "you",
+      "subject": "یاہوہ (ضمنی)",
+      "rationale": "پہلی شخص دی عرضی — ربّ ول سِدھی گild کيتی گئی اے۔"
+    }
+  ],
+  "translation": "مینوں چھڑا، تے مینوں اوپریاں دے پُتراں دے ہتھ توں بچا، جِنہاں دا منہ جھوٹ بولدا اے تے اوہناں دا سجّا ہتھ جھوٹ دا ہتھ اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fa4b39483378402d6989b6af92f97147696edaea31adf9fe7f45740254aa48c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/144\/9-12.1792114250975.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פצני",
+      "gloss": "مینوں چھڑا"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "تے مینوں بچا"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ہتھ توں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں دے"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "اوپریاں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جِنہاں"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "اوہناں دا منہ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "بولدا اے"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "جھوٹ"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "تے اوہناں دا سجّا ہتھ"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "سجّا ہتھ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "جھوٹ دا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:30:50.976177670Z",
+  "model": "glm-5.3"
+}

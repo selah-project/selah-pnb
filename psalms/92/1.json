@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "مزמور",
+      "rationale": "מזמור ساز دے نال بجائیا ہویا نظم اے؛ 'زمر-نظم' اوہدیاں دو دھاراں رکھدا اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨دا⟩",
+      "rationale": "پنجابی وِچ تعلق دا لفظ چاہیدا اے جیہڑا عبرانی دی ساخت لئی نئیں لکھدا۔"
+    }
+  ],
+  "translation": "زمر-نظم، اِک گیت، شبّات دے دن لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "75aa2654dc0b02aebda872bbc4bf764367c9e56852a0f3d23ae13035f9c8688f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/92\/1-4.1792113385849.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "زمر-نظم"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "گیت"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "دن لئی"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "شبّات ⟨دا⟩"
+    }
+  ],
+  "timestamp": "2026-10-16T01:16:25.850106391Z",
+  "model": "glm-5.3"
+}

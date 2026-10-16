@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 2:12",
+  "book": "ecclesiastes",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩",
+      "rationale": "پنجابی سوال لئی 'اوہ بندہ' منگدا اے؛ عبرانی وِچ صرف האדם اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "את אשר כבר עשוהו",
+      "rationale": "'جو بادشاہ مگروں آوے اوہ ای اوہ کم کر سکدا اے جو پہلاں ہو چکیا' — جاں 'اوہ کم ویکھے گا جو بادشاہ نے پہلاں کر لیا'; دونواں پڑھائیاں پرچلت نیں"
+    }
+  ],
+  "translation": "تے میں مُڑ کے ویکھن لگا سیانت نوں تے ولولےآں نوں تے مورکھتا نوں، کیوں جے ⟨اوہ⟩ بندہ کی اے جو بادشاہ مگروں آوے؟ ⟨את⟩ اوہ گل جیہڑی پہلاں ہی کر چکے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "80321160a3071df02b380ba2779c238f184354f0827387fe41c7034980dc9009",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ecclesiastes\/2\/9-12.1792117427836.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופניתי",
+      "gloss": "تے میں مُڑ کے"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ویکھن لگا"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "سیانت نوں"
+    },
+    {
+      "surface": "והוללות",
+      "gloss": "تے ولولےآں نوں"
+    },
+    {
+      "surface": "וסכלות",
+      "gloss": "تے مورکھتا نوں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جے"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کی"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "اوہ بندہ"
+    },
+    {
+      "surface": "שיבוא",
+      "gloss": "جو آوے"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "مگروں"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہ گل جیہڑی پہلاں ہی کر چکے نیں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "پہلاں ہی"
+    },
+    {
+      "surface": "עשוהו",
+      "gloss": "کر چکے نیں"
+    }
+  ],
+  "timestamp": "2026-10-16T02:23:47.837575550Z",
+  "model": "glm-5.3"
+}

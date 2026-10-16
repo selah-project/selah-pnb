@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 78:60",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "משכן\/שכן",
+      "rationale": "مسکن (رہن دی تھاں) تے شکن (رہنا) اِکو جڑ نیں — مسکن چھڈّنا تے رہنا اک دوجے دے الٹ بن جاندا اے"
+    }
+  ],
+  "translation": "تے اوہنے چھڈّ دِتا شیلو دا مسکن، اوہ خیمہ جِتھے اوہ رکھیا سی انساناں وِچ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "799f7f342bb4b72181309fa0186dcf0126b45a2bd21c21bd6ec1bba169c44022",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/78\/57-60.1792113081442.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "تے چھڈّ دِتا"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "مسکن"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "شیلو دا"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمہ"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "جِتھے اوہ رکھیا سی"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "انساناں وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:11:21.442929845Z",
+  "model": "glm-5.3"
+}

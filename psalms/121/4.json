@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 121,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ינום \/ יישן",
+      "rationale": "دو وکھرے عبرانی فعل — اُگھلی نیندر تے ڈُونگھی نیندر — پنجابی وِچ دو کمندڑے لبھے نیں تاں جو فرق رہِے"
+    },
+    {
+      "kind": "invitation",
+      "subject": "دیکھو",
+      "rationale": "הנה پاکٹھی نوں سدّدا اے — 'دیکھو'، مزمل دے سنن والے نوں مخاطب کردا اے"
+    }
+  ],
+  "translation": "دیکھو — نہ سُمدا اے تے نہ نیندر آؤندی اے اوہ جیہڑا یِسرائیل دی رکھوالتی کردا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8f07faf0f11916aa1ad6ab96a29c64b818bcebbde0b41505d274b77833588e39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/121\/1-4.1792113954138.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "دیکھو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "سُمدا اے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "نیندر آؤندی اے"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "رکھوالتی کرن والا"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-10-16T01:25:54.139991026Z",
+  "model": "glm-5.3"
+}

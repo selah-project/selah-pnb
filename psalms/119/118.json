@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 118,
+  "ref": "psalms 119:118",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "סלית",
+      "rationale": "سלה دا متیبہ 'تولنا\/رد کرنا' — KJV 'trodden down'، JPS 'made light of'، ایتھے 'رد کر دتا'۔"
+    },
+    {
+      "kind": "hapax",
+      "subject": "תרמיתם",
+      "rationale": "תרמית دھوکھا — تورات وِچ صرف مِتصرایم دے نکاسی (زفورہ بارے) نال ملدی اے، تنخ وِچ کٹھی تھاں۔"
+    }
+  ],
+  "translation": "توں سارے بھٹکے ہوئیاں نوں تیرے فرضاں توں ⟨ توں ⟩ رد کر دتا اے، کیوں جو جھوٹ اے اوہناں دا دھوکھا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a4883c5a39ebe37aec8aa6c88f09eda5e0a94d92f61eb925fce7ea87fbecaee4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/119\/117-120.1792113896565.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סלית",
+      "gloss": "رد کر دتا اے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "שוגים",
+      "gloss": "بھٹکے ہوئیاں نوں"
+    },
+    {
+      "surface": "מחקיך",
+      "gloss": "تیرے فرضاں توں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "جھوٹ"
+    },
+    {
+      "surface": "תרמיתם",
+      "gloss": "اوہناں دا دھوکھا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:24:56.566174810Z",
+  "model": "glm-5.3"
+}

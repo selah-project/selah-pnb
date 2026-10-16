@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 38:4",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "شانت‏ی",
+      "rationale": "שלום is wholeness\/welfare; شانت‏ی نیڑے دا لفظ اے پر پورا 'سالمیت' نئیں دسدا"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "parallelism",
+      "rationale": "מתם\/שלום تے בשר\/עצמים — matching pair structure"
+    }
+  ],
+  "translation": "میرے ماس وِچ ٹھیکائی نئیں، تیرے غصے دے مُنہ توں؛ میریاں ہڈیاں وِچ شانت‏ی نئیں، میرے پاپ دے مُنہ توں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "767248106c5f8a526ac050d409d1b966e81905a1157fe78e9c7a797217642993",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/38\/1-4.1792112415787.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "ٹھیکائی"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "میرے ماس وِچ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "دے مُنہ توں"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "تیرے غصے"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شانت‏ی"
+    },
+    {
+      "surface": "בעצמי",
+      "gloss": "میریاں ہڈیاں وِچ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "دے مُنہ توں"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "میرے پاپ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:00:15.787985754Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 32:5",
+  "book": "ezekiel",
+  "lang": "pnb",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "تیرے لاشاں دے ڈھیر",
+      "rationale": "רמותך یا تاں רום توں 'تیری اُچائی' اے یا רמה 'ڈھیر' توں 'تیرے لاشاں دا ڈھیر' — KJV 'height'، JPS 'remains'۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "نال",
+      "rationale": "על دے بغیر دوجی جملے وِچ پنجابی 'نال' منگدا اے۔"
+    }
+  ],
+  "translation": "تے میں ⟨את⟩ تیرا ماس پہاڑاں اُتے رکھاں گا، تے دھانیاں نوں تیرے لاشاں دے ڈھیر نال بھر دیواں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e5633830e5fc24685ae250da5e045fbf1822becc8f2c9ad347a3d517e7741ec8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/32\/5-8.1792109872411.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "تے میں رکھاں گا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تیرا ماس"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "تیرا ماس"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "پہاڑاں"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "تے میں بھر دیواں گا"
+    },
+    {
+      "surface": "הגאיות",
+      "gloss": "دھانیاں"
+    },
+    {
+      "surface": "רמותך",
+      "gloss": "تیرے لاشاں دے ڈھیر"
+    }
+  ],
+  "timestamp": "2026-10-16T00:17:52.412341179Z",
+  "model": "glm-5.3"
+}

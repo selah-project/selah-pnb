@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 24:20",
+  "book": "joshua",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ناس کر دیوے گا",
+      "rationale": "כלה دا مقدم مطلب 'مکا دینا\/ختم کرنا' اے — 'ناس کرنا' اوہدی شکلیılık نیڑے اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "כי",
+      "rationale": "'جے' یا 'کیونجے' — حالت شرطی (جے) سبھ توں عام پرکھ"
+    }
+  ],
+  "translation": "جے تسیں یاہوہ نوں چھڈ دیو تے اوپری دیوے دی عبادت کرن لگے، تاں اوہ مُڑ کے تہاڈے نال برائی کریگا تے تہاڈا ⟨את⟩ ناس کر دیوے گا، اُس توں بعد جیہڑا تہاڈے نال بھلائی کیتی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ddfa6e961e9ee9ac254b2062ec70179d9df427332086c57aceced4a5edc15e70",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joshua\/24\/17-20.1792101327438.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "جے"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "تسیں چھڈ دیو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ نوں"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "تے عبادت کرو گے"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "دیوے دی"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "اوپرے"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "تے مُڑ کے"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "برائی کریگا"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تہاڈے نال"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "تے ناس کر دیوے گا"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ تہاڈا"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "اُس توں بعد"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "بھلائی کیتی"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تہاڈے نال"
+    }
+  ],
+  "timestamp": "2026-10-15T21:55:27.439548114Z",
+  "model": "glm-5.3"
+}

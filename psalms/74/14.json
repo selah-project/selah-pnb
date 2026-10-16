@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 74:14",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اوہنوں⟩",
+      "rationale": "عبرانی وِچ ضمیر متن وچ پہلے توں آئی اے، پنجابی جملے لئی وادھو لوڑیدا۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "לציים",
+      "rationale": "'بیابان دے واسی' یا 'جنگلی جانور' — دووے پڑھائیاں موجود نیں۔"
+    },
+    {
+      "kind": "hapax",
+      "subject": "plural of לויתן",
+      "rationale": "سر جمع وِچ اے — اِک لویاتن دے کئی سر، اساطیری تصویر۔"
+    }
+  ],
+  "translation": "توں نے لویاتن دے سر کُچھ سُٹے، ⟨اوہنوں⟩ بیابان دے واسیاں لئی خوراک بنا دتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e380654d7fe66c6dd0049f625c92bb1a533cbbc6c38bf76f3da97a9022af5cab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/74\/13-16.1792113005614.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "توں"
+    },
+    {
+      "surface": "רצצת",
+      "gloss": "کُچھ سُٹے"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "سر"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "لویاتن دے"
+    },
+    {
+      "surface": "תתננו",
+      "gloss": "بنا دتا"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "خوراک"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "لوکاں لئی"
+    },
+    {
+      "surface": "לציים",
+      "gloss": "بیابان دے واسیاں لئی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:10:05.615367217Z",
+  "model": "glm-5.3"
+}

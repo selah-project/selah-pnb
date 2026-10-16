@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 36:25",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "پاسے",
+      "rationale": "צלע پہلوں دا پہلو اے — پسلی — بائبلی عبرانی وچ خیمے دے پاسے لئی"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ویہہ تختے",
+      "rationale": "آیت تختیاں دی گنتی دسدی اے"
+    }
+  ],
+  "translation": "تے مسکن دے دوجے پاسے لئی، اُتر ول، اوہنے ویہہ تختے بنائے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5c989036cdd483609883608c8d9a616fcad9bccd7c5e33d0d49ffb73b71bc5af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/36\/25-28.1792097253605.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "تے پاسے لئی"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مسکن دے"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "دوجے"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ول"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "اُتر"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "اوہنے بنائے"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ویہہ"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "تختے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:47:33.605837624Z",
+  "model": "glm-5.3"
+}

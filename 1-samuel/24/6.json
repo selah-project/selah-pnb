@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויך לב דוד אתו",
+      "rationale": "'داوِد دا دل اوہنوں ماریا' — عبرانی دا ٹھیک اُکھاں اِدiom اے، پنجابی وِچ وی ایویں ای چلدا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "عبا",
+      "rationale": "ایس آیت وِچ عبرانی وِچ صرف 'شاؤُل دا' اے — عبا پچھلی آیت توں سمجھ لئی ⟨⟩ وِچ دتا"
+    }
+  ],
+  "translation": "تے اِس توں بعد داوِد دا دل اوہنوں ⟨אתו⟩ ماریا، ایس لئی کہ اوہنے ⟨את⟩ اوہ کنارہ کتریا سی جیہڑا شاؤُل دے ⟨عبا⟩ دا سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c5079000283f3c087f6cb50e8a8294767bbf070e33d5533b6263b31ae2150c53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/24\/5-8.1792102820615.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے ہویا"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "مگروں"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اِس"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "تے ماریا"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد دا"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "داوِد نوں"
+    },
+    {
+      "surface": "על",
+      "gloss": "ایس لئی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "کتریا سی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کنارہ نوں"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "کنارہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "شاؤُل دے"
+    }
+  ],
+  "timestamp": "2026-10-15T22:20:20.616855159Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 1:7",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ہوئی اے \/ نیں",
+      "rationale": "عبرانی وِچ کنیوں دا واعدہ نئیں، صفتاں کھلیاں نیں"
+    },
+    {
+      "kind": "you",
+      "subject": "یہوداہ",
+      "rationale": "دوجی وار براہ راست مخاطب — 'تُہاڈی زمین'"
+    }
+  ],
+  "translation": "تُہاڈی زمین اجڑی ہوئی اے، تُہاڈے شہر اگّ نال سُڑ گئے نیں؛ تُہاڈی بھومی تُہاڈے اگے اوپری کھا رہے نیں ⟨את⟩ اوہدے نوں، تے اوہ اجڑی اے، جیویں اوپریاں دی پلٹائی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "818241d23022fe02b67d7d043b9190ccc1e32e753c10d71bf5b6f521c7bc6dd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/1\/5-8.1792105740610.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארצכם",
+      "gloss": "تُہاڈی زمین"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "اجڑی ہوئی"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "تُہاڈے شہر"
+    },
+    {
+      "surface": "שרפות",
+      "gloss": "سُڑیاں ہوئیاں"
+    },
+    {
+      "surface": "אש",
+      "gloss": "اگّ نال"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "تُہاڈی بھومی"
+    },
+    {
+      "surface": "לנגדכם",
+      "gloss": "تُہاڈے اگے"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "اوپری"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "کھا رہے نیں"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "اوہدے نوں"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "تے اجڑی"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "جیویں پلٹائی"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "اوپریاں دی"
+    }
+  ],
+  "timestamp": "2026-10-15T23:09:00.611646643Z",
+  "model": "glm-5.3"
+}

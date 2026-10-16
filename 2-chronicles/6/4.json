@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 6:4",
+  "book": "2-chronicles",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "את (H854)",
+      "rationale": "ایتھے את وضاحتی مفعولی نشان نئیں سگوں 'دے نال' والا حرف اے — ایس لئی ⟨את⟩ نشان نئیں لایا"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩",
+      "rationale": "מלא دا مفعول عبرانی وِچ چھڈیا گیا اے — پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בפיו \/ בידיו",
+      "rationale": "مُوں نال آکھنا — ہتھاں نال پورا کرنا: منہ\/ہتھ دی جوڑی، طاقت دا متوازن جوڑ"
+    }
+  ],
+  "translation": "تے اوہنے آکھیا: برکت والا اے یاہوہ، یِسرائیل دا ایلوہیم، جیہڑا اپنے مُوں نال میرے پیو ⟨את⟩ داوِد نال گل کردا رہیا تے اپنے ہتھاں نال ⟨اوہ⟩ پورا کردا اے، آکھدا ہویا:",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "de24a3eb168abc4c2c7cc023515f4de6a617e6c80ee31dcd9fa8d242fa5559c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/6\/1-4.1792121702816.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے اوہنے آکھیا"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "برکت والا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گل کردا رہیا"
+    },
+    {
+      "surface": "בפיو",
+      "gloss": "اپنے مُوں نال"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ نال"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "میرے پیو"
+    },
+    {
+      "surface": "ובידיו",
+      "gloss": "تے اپنے ہتھاں نال"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "پورا کردا اے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھدا ہویا"
+    }
+  ],
+  "timestamp": "2026-10-16T03:35:02.817968540Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 3:19",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "זרובבל",
+      "rationale": "ایج را متی 1:12 وِچ شألتِیل دا پُتر آکھدا اے، ایتھے پِدایاہ دا — پرلس دوناں تختاں دی جوڑ۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "دی",
+      "rationale": "'ובן' اکو واسطہ اے؛ پنجابی جملے لئی 'دی پتراں' دُہرایا گیا۔"
+    }
+  ],
+  "translation": "تے پِدایاہ دی پتراں: زِرُبّابِل تے شِمعی۔ تے زِرُبّابِل دی پتراں: مِشُلّام تے حَنانیاہ، تے شِلومِت اوہناں دی بھین۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d441a7b1d2903a43143979383fa29da12645cdc39cbcf82fde7ac14156c42565",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/3\/17-20.1792120281539.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "تے دی پتراں"
+    },
+    {
+      "surface": "פדיה",
+      "gloss": "پِدایاہ"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "زِرُبّابِل"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "تے شِمعی"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "تے دی پتراں ⟨دی⟩"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "زِرُبّابِل"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "مِشُلّام"
+    },
+    {
+      "surface": "וחנניה",
+      "gloss": "تے حَنانیاہ"
+    },
+    {
+      "surface": "ושלמית",
+      "gloss": "تے شِلومِت"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "اوہناں دی بھین"
+    }
+  ],
+  "timestamp": "2026-10-16T03:11:21.540360079Z",
+  "model": "glm-5.3"
+}

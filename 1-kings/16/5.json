@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 16:5",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הלא",
+      "rationale": "על سوال والا نفی اے — 'کی … نئیں' — ریت دا سوال جیہڑا اثر منوان لئی اے، کوئی شک نئیں۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "book of chronicles",
+      "rationale": "راج دی تاریخ کتاب ول اشارہ — شاہکار گنتی\/تاریخ دی روایت۔"
+    }
+  ],
+  "translation": "تے بَعشا دے باقی معاملیاں، تے جو اوہنے کیتا، تے اوہدی بہادری — کی اوہ لِکھے ہوئے نئیں نیں دناں دے معاملیاں دی کتاب وِچ، یِسرائیل دے بادشاہاں لئی؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "358ddb6159f4f329c581e58cc5d04a4ad391262b9aaa95365cdda115335db540",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/16\/5-8.1792104593590.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "تے باقی"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "معاملے"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "بَعشا دے"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "تے جو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کیتا"
+    },
+    {
+      "surface": "וגבורתו",
+      "gloss": "تے اوہدی بہادری"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "کی … نئیں"
+    },
+    {
+      "surface": "הם",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "لِکھے ہوئے نیں"
+    },
+    {
+      "surface": "על",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "کتاب"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "معاملیاں دی"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "دناں دی"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "بادشاہاں لئی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل دے"
+    }
+  ],
+  "timestamp": "2026-10-15T22:49:53.591413759Z",
+  "model": "glm-5.3"
+}

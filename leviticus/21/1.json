@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 21:1",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جان اے، 'مُردہ' دا لفظ عبرانی وچ نئیں — سیاقوں مردہ جان مراد اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩",
+      "rationale": "عبرانی وچ فعل تیجے شخص دا اے پر ضمیر لکھی نئیں"
+    },
+    {
+      "kind": "you",
+      "subject": "کاہناں نال",
+      "rationale": "حکم سدھی طور تے اہرون دے پتراں کاہناں نوں اے"
+    }
+  ],
+  "translation": "تے یاہوہ نے موشے نوں آکھیا: کاہناں نال، اہرون دیاں اولاداں نال آکھ، تے اوہناں نوں آکھ: کسے جان لئی ⟨اوہ⟩ اپنی قوم وِچ میلیا نہ ہووے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a6508db9da17225b0f10434f35683c180c6502314d0992536520fa4b7174f560",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/21\/1-4.1792097972922.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ نے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاہناں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "اولاداں"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون دیاں"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "تے آکھیں"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "اوہناں نوں"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "کسے جان لئی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "میلا ہووے"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "اپنی قوم وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T20:59:32.922798522Z",
+  "model": "glm-5.3"
+}

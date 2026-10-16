@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 45:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ہوּצק — ڈھلیا",
+      "rationale": "ਹੁਤ਼ਸਾਕ 'انڈیلیا\/ڈھالیا' اے — رعایت بولاں اُتے انڈیلی گئی، ٹپکدی ہوئی؛ 'ٹُلی' نرم قسم اے۔"
+    },
+    {
+      "kind": "you",
+      "subject": "بادشاہ نوں",
+      "rationale": "سِدھی خطاب — گیت دا بادشاہ، 'توں… تیرے… تینوں'۔"
+    }
+  ],
+  "translation": "توں آدمیاں دیاں اولاداں توں سوہنا ایں؛ تیرے بولاں وِچ رعایت ⟨ٹُلی اے⟩، اس لئی ایلوہیم نے تینوں ہمیشہ لئی برکت دتی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2f0ced1bac9db241d0082f3c5f0d669dda6b700031a2644694911d4ac6ca1979",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/45\/1-4.1792112587486.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יפיפית",
+      "gloss": "سوہنا ایں"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "دیاں اولاداں توں"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمیاں"
+    },
+    {
+      "surface": "הוצק",
+      "gloss": "⟨ٹُلی اے⟩"
+    },
+    {
+      "surface": "חן",
+      "gloss": "رعایت"
+    },
+    {
+      "surface": "בשפתותיך",
+      "gloss": "تیرے بولاں وِچ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اس"
+    },
+    {
+      "surface": "כן",
+      "gloss": "لئی"
+    },
+    {
+      "surface": "ברכך",
+      "gloss": "تینوں برکت دتی"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشہ لئی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:03:07.487754889Z",
+  "model": "glm-5.3"
+}

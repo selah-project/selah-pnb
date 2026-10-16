@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "lamentations 5:19",
+  "book": "lamentations",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "رہوے گا",
+      "rationale": "عبرانی نِجھری لفظی جملہ اے — کوئی کریا نئیں؛ پنجابی copula ⟨⟩ نال پایا گیا۔"
+    },
+    {
+      "kind": "you",
+      "subject": "توں",
+      "rationale": "سِدھی مخاطبت یاہوہ ول — گردش دے وِچکار پکڑی ہوئی دعا۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תשב \/ כסאך",
+      "rationale": "‘بیٹھنا’ تے ‘تخت’ دی جوڑی — بادشاہی بیٹھݨ دی تکرار، پنجابی وِچ ‘بہ تخت’ نال رکھی۔"
+    }
+  ],
+  "translation": "توں، یاہوہ، ہمیشاں لئی بہ تخت بیٹھا ایں؛ تیرا تخت پیڑھی توں پیڑھی تک ⟨رہوے گا⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ce1e2780465f0675caff8161e62ac3f4953f6e76840915a6601ec7b23b9a77a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/lamentations\/5\/17-20.1792117342354.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "توں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشاں لئی"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "بہ تخت بیٹھا ایں"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "تیرا تخت"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "پیڑھی توں"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "پیڑھی تک"
+    }
+  ],
+  "timestamp": "2026-10-16T02:22:22.355239401Z",
+  "model": "glm-5.3"
+}

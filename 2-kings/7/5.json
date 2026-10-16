@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 7:5",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "عبرانی وِچ کوئی فعل نئیں، اِین (אין) نال پنجابی ⟨سی⟩ چاہیدا اے"
+    },
+    {
+      "kind": "mystery",
+      "subject": "خالی پڑاؤ",
+      "rationale": "اِدھر کیوں کوئی نئیں — آیت دا جواب واپس 7:6 وِچ اے، کہانی جان بُجھ کے دیر کردی اے"
+    }
+  ],
+  "translation": "تے اوہ پچھلے پہر وِچ اُٹھے، ارم دے پڑاؤ وِچ جان لئی، تے ارم دے پڑاؤ دے کَنے تک پہنچے، تے ویکھو، اوتھے کوئی بندہ ⟨نئیں سی⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "66bb0eb6efa151f93d665b6e9dccb94fd85aeac346f71261276feee1aeab7444",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/7\/5-8.1792105093584.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "تے اوہ اُٹھے"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "پچھلے پہر وِچ"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "جان لئی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "پڑاؤ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ارم دے"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "پہنچے"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "کَنے"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "پڑاؤ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ارم دے"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "تے ویکھو"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اوتھے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "کوئی بندہ"
+    }
+  ],
+  "timestamp": "2026-10-15T22:58:13.585326482Z",
+  "model": "glm-5.3"
+}

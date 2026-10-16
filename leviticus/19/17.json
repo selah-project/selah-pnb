@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 19:17",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הוכח תוכיח",
+      "rationale": "فعل دی دوہری آواز — 'لَوریا کرو، چنگی طرحاں للاریا' — پنجابی وِچ اِکو لفظ دو واری رکھیا گیا اے۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "وְלֹא תִשָּׂא עָלָיו חֵטְא",
+      "rationale": "'اوہدے اُتے پاپ نئیں چُکیو' — کجھ مترجم 'اوہدے پاپ نوں نئیں چُکدے'، کجھ 'اوہدے کارن پاپ نئیں چُکدے' پڑھدے نیں۔"
+    },
+    {
+      "kind": "you",
+      "subject": "اسرائیل",
+      "rationale": "پابندیاں دا خطاب پوری قوم نال اے۔"
+    }
+  ],
+  "translation": "اپنے بھرا نوں ⟨את⟩ اپنے دل وِچ نئیں نفرت کریں دا؛ اپنے ساتھی نوں ⟨את⟩ للاریا کرو، تے اوہدے اُتے پاپ نئیں چُکیو۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ccbaff01e3173c16ada5e3f6fa7e518d1258e7d2ab91f54fa1b99f025509e4af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/19\/17-20.1792097975420.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תשנא",
+      "gloss": "نفرت کریں دا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنے بھرا نوں"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "اپنے بھرا"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "اپنے دل وِچ"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "للاریا"
+    },
+    {
+      "surface": "תוכיח",
+      "gloss": "للاریا کرو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنے ساتھی نوں"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "اپنے ساتھی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "چُکیو"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اوہدے اُتے"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "پاپ"
+    }
+  ],
+  "timestamp": "2026-10-15T20:59:35.420961350Z",
+  "model": "glm-5.3"
+}

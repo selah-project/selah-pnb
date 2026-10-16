@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 4:5",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "دا",
+      "rationale": "פרכת המסך دی اضافت لئی پنجابی نوں 'دا' چاہیدا اے جو عبرانی تعمیر وِچ ہے پر وکھرے لفظ دی شکل وِچ نئیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "صندوق",
+      "rationale": "ארון دی اصلی مطلب 'ڈبہ\/بکس' اے؛ 'صندوق' ریتی دا لفظ اے تے شکل نیڑے رکھدا اے"
+    }
+  ],
+  "translation": "تے جدوں پڑاؤ روانہ ہوندا اے، اہرون تے اوہدے پتر آؤندے نیں، تے اوہ ⟨את⟩ ماسک دا پردہ اتاردے نیں، تے اوہدے نال ⟨את⟩ گواہی دا صندوق ڈھانپدے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "968df9d9129a9fe67f60856e89afca25dc0c6ace946d74fe86aa26d51ec305ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/4\/5-8.1792098322267.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "آؤندے نیں"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "تے اوہدے پتر"
+    },
+    {
+      "surface": "בנסע",
+      "gloss": "جدوں روانہ ہوندا اے"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "پڑاؤ"
+    },
+    {
+      "surface": "והורדו",
+      "gloss": "تے اوہ اتاردے نیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ماسک دا پردہ"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "پردہ"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "ماسک"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "تے ڈھانپدے نیں"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اوہدے نال"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گواہی دا صندوق"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "گواہی دا"
+    }
+  ],
+  "timestamp": "2026-10-15T21:05:22.268436635Z",
+  "model": "glm-5.3"
+}

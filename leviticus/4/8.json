@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 4:8",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨دا⟩",
+      "rationale": "پنجابی نوں نسبت لئی ’دا‘ چاہیدا اے، عبرانی وِچ اسم حالیہ نئیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "چُکے گا",
+      "rationale": "ירים دا مول ’چُکدا اے\/اُچا کردا اے‘ اے — بلیوان ہوئے چربی نوں اُچا کر کے وکھاؤن دی رسم"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חלב\/חלב",
+      "rationale": "چربی دا لفظ ترے واری دُہرایا گیا اے — ذبح دی رسم دی تال اے، پنجابی وِچ وی دُہراؤ رکھیا"
+    }
+  ],
+  "translation": "تے ⟨את⟩ سارا چربی بیل دا، جیہڑا گناہ دی قربانی ⟨دا⟩ اے، اوہ اوہدے توں چُکے گا: ⟨את⟩ اوہ چربی جیہڑا اندریاں اُتے ڈھکدا اے، تے ⟨את⟩ سارا اوہ چربی جیہڑا اندریاں اُتے اے،",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "aef5e4c9403ed12c549938706cf0eb87c1f8d9be8bb98625fbd53a3ed74d2096",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/4\/8-8.1792123381925.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "سارا چربی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "چربی"
+    },
+    {
+      "surface": "פר",
+      "gloss": "بیل"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "گناہ دی قربانی"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "چُکے گا"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "اوہدے توں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہ چربی جیہڑا اندریاں اُتے ڈھکدا اے"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "چربی"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "ڈھکدا اے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "اندریاں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "سارا اوہ چربی جیہڑا اندریاں اُتے اے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "چربی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "اندریاں"
+    }
+  ],
+  "timestamp": "2026-10-16T04:03:01.926397233Z",
+  "model": "glm-5.3"
+}

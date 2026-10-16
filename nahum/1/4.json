@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nahum 1:4",
+  "book": "nahum",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אמלל ×2",
+      "rationale": "‘ملول’ دا تُنب نال دُہراؤ — کنول\/ہلاونا، آیت دی مُڑدی لَے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "גוער",
+      "rationale": "גָעַר ‘ڈانھنا\/گَلّ کٹنا’ — ‘ڈانھنا’ نیڑے ترین رکھیا اے"
+    }
+  ],
+  "translation": "اوہ سمندر نوں ڈانھدا اے تے اوہنوں سُکا دیندا اے، تے سارے دریا سُکا دیندا اے؛ باشان ⟨وِچ⟩ سُوس پے گئی اے تے کرمل، تے لبنان دا پھل سُوس پے گیا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2ebbb6931ae5855cb340590379b9f43170167cde96d4d885128229fa5f4b1321",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/nahum\/1\/1-4.1792111233751.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גוער",
+      "gloss": "ڈانھدا اے"
+    },
+    {
+      "surface": "בים",
+      "gloss": "سمندر نوں"
+    },
+    {
+      "surface": "ויבשהו",
+      "gloss": "تے سُکا دیندا اے اوہنوں"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سارے"
+    },
+    {
+      "surface": "הנהרות",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "החריב",
+      "gloss": "سُکا دیندا اے"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "سُوس پے گئی اے"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "باشان ⟨وِچ⟩"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "تے کرمل"
+    },
+    {
+      "surface": "ופרח",
+      "gloss": "تے پھل"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "لبنان دا"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "سُوس پے گیا اے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:40:33.752634971Z",
+  "model": "glm-5.3"
+}

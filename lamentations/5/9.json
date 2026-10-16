@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 5:9",
+  "book": "lamentations",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نال",
+      "rationale": "עברانی وِچ 'جان نال' دا نال-و نشان نئیں، پنجابی نال منگدا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "חרב המדבר",
+      "rationale": "کجھ ترجمے 'بِلا دی تلوار' (ذاتی)، کجھ 'بِلا وِچ تلوار' (تھاں) — باواب دا اُتھلیٹی پڑھا جائز"
+    }
+  ],
+  "translation": "اپنی جان ⟨نال⟩ اسیں اپنی روٹی لیاندے نیں، بِلا دی تلوار دے مونہہ توں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "dad04d08ae50ed2f6dbdeef38a54c9b836a41977d4ed733eeddbd9d3e4a90712",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/lamentations\/5\/9-12.1792117340402.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנפשנו",
+      "gloss": "اپنی جان"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "لیاندے نیں"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "اپنی روٹی"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "دے مونہہ توں"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "تلوار"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "بِلا"
+    }
+  ],
+  "timestamp": "2026-10-16T02:22:20.403248948Z",
+  "model": "glm-5.3"
+}

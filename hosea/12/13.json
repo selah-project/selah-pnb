@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 12:13",
+  "book": "hosea",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ذال",
+      "rationale": "אשה بُنیادی طور تے 'عورت\/ذال' اے؛ 'ذال لئی خدمات' عبرانی دی تصویر نوں سانبھدا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "באשה…ובאשה",
+      "rationale": "'ذال لئی… تے ذال لئی' دوہراؤ عبرانی دا بھاری وزن رکھدا اے، پنجابی وِچ وی دوہرایا گیا"
+    },
+    {
+      "kind": "alternative",
+      "subject": "שדה ארם",
+      "rationale": "'میدانِ اَرام' ٹھیک تصویر اے؛ 'ملکِ اَرام' (KJV) کردار دا ترجمہ اے، میدان دا نئیں"
+    }
+  ],
+  "translation": "تے یعقوو بھجّ گیا اَرام دے میدان ولّوں، تے یِسرائیل نے ذال لئی خدمات کیتیاں، تے ذال لئی اوہناں دی رکھوالی کیتی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "46b4d4b6dc765202222b342c48e87a245e42046b168da7cd2e16064f8115b9b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/hosea\/12\/13-15.1792110549978.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "تے بھجّ گیا"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "میدان"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "اَرام"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "تے خدمات کیتیاں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل نے"
+    },
+    {
+      "surface": "באשה",
+      "gloss": "ذال لئی"
+    },
+    {
+      "surface": "ובאשה",
+      "gloss": "تے ذال لئی"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "رکھوالی کیتی"
+    }
+  ],
+  "timestamp": "2026-10-16T00:29:09.978887014Z",
+  "model": "glm-5.3"
+}

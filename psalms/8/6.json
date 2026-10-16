@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 8:6",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מאלהים",
+      "rationale": "متن 'ایلوہیم' آکھدا اے — جنہاں نئیں؛ یونانی تے مُڈھلیاں ترجمیاں 'فرشتے' کر دیندیاں نیں؛ حرف-نقل رکھیا"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תחסרהו\/תעטרהו",
+      "rationale": "دو مصدر یکسان وزن — گھٹانا تے تاج پاؤنا مُقابل رچھدا اے"
+    }
+  ],
+  "translation": "توں اوہنوں ایلوہیم توں تھوڑا جیہا گھٹایا اے، تے جلال تے شوکت نال اوہنوں تاج پاؤندا ایں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "268bfcd211b5d4c36c7f6e12facb2d85493245ab393c1b5c4a8577bb5f61ff54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/8\/5-8.1792111907310.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותחסרהו",
+      "gloss": "توں اوہنوں گھٹایا اے"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "تھوڑا جیہا"
+    },
+    {
+      "surface": "מאלהים",
+      "gloss": "ایلوہیم توں"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "تے جلال"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "تے شوکت"
+    },
+    {
+      "surface": "תעטרהו",
+      "gloss": "اوہنوں تاج پاؤندا ایں"
+    }
+  ],
+  "timestamp": "2026-10-16T00:51:47.310915504Z",
+  "model": "glm-5.3"
+}

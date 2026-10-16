@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 20:7",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "اسماناں توں",
+      "rationale": "שמים دویتا اے — 'دو' اے، پنجابی وِچ دویتا کھُل جاندی اے پر 'اسماناں' جمع نال دوائی دا نشان رہندا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "משמי קדשו",
+      "rationale": "'اوہدے پوتر اسماناں توں' یا 'اوہدے مقدس مکان توں' — KJV 'holy heaven'، جنیوا 'sanctuarie'"
+    }
+  ],
+  "translation": "ہن میں جاندی آں کہ یاہوہ اپنے مسح ہوئے ⟨ماشیاخ⟩ نوں بچاؤندا اے؛ اوہ اوہنوں اپنے پوتر اسماناں توں جواب دیوے گا، اپنی سجے ہتھ دی بچاؤ والی طاقت نال۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "407b48d910194a22cdae93bf36cd16b5a136ef15bcee0f67f64355c84fbc1ebb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/20\/5-8.1792112106403.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "ہن"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "میں جاندی آں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "הושיע",
+      "gloss": "بچاؤندا اے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "اپنے مسح ہوئے ⟨ماشیاخ⟩ نوں"
+    },
+    {
+      "surface": "יענהו",
+      "gloss": "اوہ اوہنوں جواب دیوے گا"
+    },
+    {
+      "surface": "משמי",
+      "gloss": "اسماناں توں"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "اپنے پوتر"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "طاقت نال"
+    },
+    {
+      "surface": "ישע",
+      "gloss": "بچاؤ والی"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "اپنی سجے ہتھ دی"
+    }
+  ],
+  "timestamp": "2026-10-16T00:55:06.404315050Z",
+  "model": "glm-5.3"
+}

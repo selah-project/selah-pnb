@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 13:23",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨نیں⟩",
+      "rationale": "عبرانی وِچ کوئی فعل نئیں، پنجابی سوال مُکدا اے — 'کتنے… نیں؟'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חטאות\/חטאתי",
+      "rationale": "اکو جڑ ח-ט-א دو واری — 'پاپ' تے 'میرا پاپ' — پنجابی وِچ تکرار رہ گیا۔"
+    },
+    {
+      "kind": "invitation",
+      "subject": "ایلوہ نوں سوال",
+      "rationale": "ایوب خدا نوں سدھا پچھدا اے: کِتنے؟ دس۔"
+    }
+  ],
+  "translation": "میرے کِتنے قصور تے پاپ نیں؟ میری سرکشی تے میرا پاپ مینوں دس۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a455f1b1c4bd559dde3698b0fa191b8eb7851ba0399fd9e51d07de977f477286",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/13\/21-24.1792115643928.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "کِتنے"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرے ⟨نیں⟩"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "قصور"
+    },
+    {
+      "surface": "וחטאות",
+      "gloss": "تے پاپ"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "میری سرکشی"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "تے میرا پاپ"
+    },
+    {
+      "surface": "הדיעני",
+      "gloss": "مینوں دس"
+    }
+  ],
+  "timestamp": "2026-10-16T01:54:03.928901293Z",
+  "model": "glm-5.3"
+}

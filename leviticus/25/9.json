@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 25:9",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "دن",
+      "rationale": "عبرانی وِچ בעשור دے نال 'دن' دا لفظ نئیں، پنجابی جملے لئی ⟨⟩ وِچ پایا"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ستویں مہینے دا دسواں دن",
+      "rationale": "آیت دن تے مہینے دی گنتی نال وقت ٹھیک کردی اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "העברת \/ תעבירו",
+      "rationale": "اوہی proto 'لنگھنا' شوفار لئی دو واری — 'شوفار لنگھاؤ' دی اکو تصویر، ایہہ دہراؤ پنجابی وِچ ہلکا رہ گیا"
+    }
+  ],
+  "translation": "تے توں شوفار دی ہنکار لنگھائیں مہینے وِچ، ستویں ⟨مہینے⟩، مہینے دے دسویں ⟨دن⟩، کِفوریم ⟨دا⟩ دن ⟨وِچ⟩؛ تُسیں شوفار بجاؤ ساری اپنی دھرتی وِچ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9c3360af99f28ed494964a26737d076c89e5bc4552227a53ddbf154e20495d0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/25\/9-12.1792098134958.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והעברת",
+      "gloss": "توں لنگھائیں"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "شوفار"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "ہنکار"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "مہینے وِچ"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "ستویں"
+    },
+    {
+      "surface": "בעשור",
+      "gloss": "دسویں ⟨دن⟩"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "مہینے دے"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "دن ⟨وِچ⟩"
+    },
+    {
+      "surface": "הכפרים",
+      "gloss": "کِفوریم"
+    },
+    {
+      "surface": "תעבירו",
+      "gloss": "تُسیں بجاؤ"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "شوفار"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "اپنی دھرتی"
+    }
+  ],
+  "timestamp": "2026-10-15T21:02:14.959172648Z",
+  "model": "glm-5.3"
+}

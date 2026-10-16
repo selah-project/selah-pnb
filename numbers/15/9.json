@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 15:9",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "تیل",
+      "rationale": "ہین دے نال وضاحت لئی 'تیل' دا لفظ — عبرانی وِچ صرف ادھا ہین اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "عشرونیم\/ہین",
+      "rationale": "آیت ناپ-تول وچ اے: تن دسواں حصے آٹا تے ادھا ہین تیل"
+    },
+    {
+      "kind": "elision",
+      "subject": "בן הבקר",
+      "rationale": "لفظی 'بچّھے دا پُتر' — پنجابی وِچ صرف 'گاں' رہِ گیا"
+    }
+  ],
+  "translation": "تے اوہ گاں دے نال اک اناج دی قربانی چڑھائےگا — باریک آٹا تن اسیواں، تیل نال رلایا ہویا — ادھا ہین ⟨تیل⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6cc536ac4fdff24196fd86a631f3253c273d4d54a5527620e9f99c20d25b7b24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/15\/9-12.1792098701308.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "چڑھائےگا"
+    },
+    {
+      "surface": "על",
+      "gloss": "دے نال"
+    },
+    {
+      "surface": "בן",
+      "gloss": "گاں"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "وچّھواں دی نسل دا"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "اناج دی قربانی"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "باریک آٹا"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "تن"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "اسیواں"
+    },
+    {
+      "surface": "בלול",
+      "gloss": "رلایا ہویا"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "تیل نال"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "ادھا"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "ہین"
+    }
+  ],
+  "timestamp": "2026-10-15T21:11:41.309035791Z",
+  "model": "glm-5.3"
+}

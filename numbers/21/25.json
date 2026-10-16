@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 21:25",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نوں",
+      "rationale": "پنجابی مفعول دا نِشان منگدی اے، عبرانی نوں صرف ⟨את⟩ نال دسدا اے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "دھِیاناں",
+      "rationale": "בנות دا پتھر مطلب 'شہر دیاں دھیاں' یعنی قصبے؛ شکل (دھیاں) رکھی اے، 'قصبے' نئیں"
+    }
+  ],
+  "translation": "تے یِسرائیل نے ⟨את⟩ ایہناں ساریاں شہراں نوں لے لئیاں، تے یِسرائیل اِموریاں دے ساریاں شہراں وِچ وسیا — حیشبون وِچ تے اوہدیاں ساریاں دھِیاناں وِچ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6e0f7b63a9168f9f21ae87713da43ab7f60b547a00cb3a08bcf4c0000d55ed3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/21\/25-28.1792098905162.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "لے لئیاں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایہناں ساریاں شہراں نوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساریاں"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "شہراں"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ایہناں"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "وسیا"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ساریاں وِچ"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "شہراں"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "اِموریاں دے"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "حیشبون وِچ"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "تے ساریاں وِچ"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "اوہدیاں دھِیاناں"
+    }
+  ],
+  "timestamp": "2026-10-15T21:15:05.163230998Z",
+  "model": "glm-5.3"
+}

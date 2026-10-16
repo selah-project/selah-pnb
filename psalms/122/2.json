@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 122,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "عبرانی نال مخاطب دی نشانی نئیں دندا، پنجابی مخاطب منگدا اے"
+    },
+    {
+      "kind": "you",
+      "subject": "یروشلایم نوں",
+      "rationale": "سدیا ہویا شہر مخاطب اے"
+    }
+  ],
+  "translation": "ساڈے پیر کھلوندے نیں تیرے دواراں وِچ، اے یروشلایم۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fada0221024951a7a1377830d44fecf2faf73c73fd36e54566392241ebf71cce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/122\/1-4.1792114029543.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עמדות",
+      "gloss": "کھلوندے"
+    },
+    {
+      "surface": "היו",
+      "gloss": "نیں"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "ساڈے پیر"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "تیرے دواراں وِچ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "اے یروشلایم"
+    }
+  ],
+  "timestamp": "2026-10-16T01:27:09.544222853Z",
+  "model": "glm-5.3"
+}

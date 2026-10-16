@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 3:25",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "داوِد",
+      "rationale": "یوآب دا بچن سِدھا داوِد نُوں مخاطب اے۔"
+    },
+    {
+      "kind": "idiom",
+      "subject": "تیرا نکلنا تے تیرا آؤنا",
+      "rationale": "موضَع-مقابلہ عبرانی محاورہ ‘تیرے آؤن جان دا پتہ لگائے’ — لفظی دوہرائی رکھی اے۔"
+    }
+  ],
+  "translation": "توں جاندا ایں ⟨את⟩ اَبنیر نوں، نیر دے پتر نوں، کہ اوہ تینوں پھسلان آیا اے، تے ⟨את⟩ تیرے نکلن نوں تے ⟨את⟩ تیرے آؤن نوں جانن لئی، تے ⟨את⟩ سَب کجھ نوں جو توں کردا ایں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5f79440de16903dc2230ce547381bfd1d19ec3c4958f5ce70272fd5c52758832",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/3\/25-28.1792103137471.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "توں جاندا ایں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَبنیر نوں"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "اَبنیر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پتر"
+    },
+    {
+      "surface": "נר",
+      "gloss": "نیر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לפתתך",
+      "gloss": "تینوں پھسلان"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آیا اے"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "تے جانن لئی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تیرا نکلنا"
+    },
+    {
+      "surface": "מוצאך",
+      "gloss": "تیرا نکلنا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "تیرا آؤنا"
+    },
+    {
+      "surface": "מבואך",
+      "gloss": "تیرا آؤنا"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "تے جانن لئی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سَب کجھ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سَب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "توں"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کردا ایں"
+    }
+  ],
+  "timestamp": "2026-10-15T22:25:37.473123344Z",
+  "model": "glm-5.3"
+}

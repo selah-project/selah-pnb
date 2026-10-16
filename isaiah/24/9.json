@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 24:9",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "گیت وِچ نئیں پیتیا جائیگی شراب",
+      "rationale": "بعض مترجم 'گیت سمیت' پڑھدے نیں — عبرانی پیشہ دا مطلب 'گیت دے نال' وی تے 'گیت دے بغیر' وی لیا جا سکدا اے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "نشہ آلا شربت",
+      "rationale": "שכר شراب توں تِکھڑی نشہ آلی شراب نوں کہندا اے، عام پانی نئیں۔"
+    }
+  ],
+  "translation": "گیت وِچ نئیں پیتیا جائیگی شراب، کڑوا ہو جائیگا نشہ آلا شربت اوہدے پین آلےآں لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d73783ffe5f8117bd48bcd3c0527dd82a24470e279d27e65b90a3021c0690c90",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/24\/9-12.1792106233354.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשיר",
+      "gloss": "گیت وِچ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יין",
+      "gloss": "پیتیا جائیگی شراب"
+    },
+    {
+      "surface": "יין",
+      "gloss": "شراب"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "کڑوا ہو جائیگا"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "نشہ آلا شربت"
+    },
+    {
+      "surface": "לשתיו",
+      "gloss": "اوہدے پین آلےآں لئی"
+    }
+  ],
+  "timestamp": "2026-10-15T23:17:13.355202471Z",
+  "model": "glm-5.3"
+}

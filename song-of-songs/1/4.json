@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 1:4",
+  "book": "song-of-songs",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨تیرے پچھے⟩",
+      "rationale": "دوڑ دا ٹیچا عبرانی وِچ صرف پہلے فعل نال جُڑیا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "وנשמחה",
+      "rationale": "عبرانی 'تے اسیں خوش ہوواں گے' — دوواں فعل خُشی دے نیں؛ پنجابی وِچ دونواں نوں وکھرا رکھیا"
+    },
+    {
+      "kind": "crux",
+      "subject": "מישרים",
+      "rationale": "'سِدھے\/ٹِیکے لوک' (میسار = سِدھائی) یا 'جائز طور تے' — KJV 'the upright'، JPS 'sincerely'"
+    },
+    {
+      "kind": "you",
+      "subject": "دلہن توں محب",
+      "rationale": "سارا مخاطبہ ڈاریکٹ اے — 'مینوں کھِچ'، 'تیرے پیار' — محب نوں مخاطب"
+    }
+  ],
+  "translation": "مینوں اپنے پچھے کھِچ، اسیں ⟨تیرے پچھے⟩ دوڑاں گے؛ بادشاہ مینوں اپنے کمرے وِچ لے گیا، اسیں تیرے وِچ خُشی کراں گے تے اداس ہوں گے ⟨نئیں بلکہ⟩ رَج کراں گے؛ اسیں تیرے پیار شراب توں یاد کراں گے؛ سِدھے دل والے تینوں پیار کردے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "708639b00a5304c6985f489c6d7714dab9c2c2bae967edba93b746438fe76cd3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/song-of-songs\/1\/1-4.1792116646098.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משכני",
+      "gloss": "مینوں کھِچ"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "اپنے پچھے"
+    },
+    {
+      "surface": "נרוצה",
+      "gloss": "اسیں دوڑاں گے"
+    },
+    {
+      "surface": "הביאני",
+      "gloss": "مینوں لے گیا"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "חדריו",
+      "gloss": "اپنے کمرے وِچ"
+    },
+    {
+      "surface": "נגילה",
+      "gloss": "اسیں خُشی کراں گے"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "تے اداس ہوں گے ⟨نئیں بلکہ⟩ رَج کراں گے"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تیرے وِچ"
+    },
+    {
+      "surface": "נזכירה",
+      "gloss": "اسیں یاد کراں گے"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "تیرے پیار"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "شراب توں"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "سِدھے دل والے"
+    },
+    {
+      "surface": "אהבוך",
+      "gloss": "تینوں پیار کردے نیں"
+    }
+  ],
+  "timestamp": "2026-10-16T02:10:46.099638173Z",
+  "model": "glm-5.3"
+}

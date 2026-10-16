@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 34:26",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ראשית",
+      "rationale": "'پہلاں' — فارسی 'بهترین' ('سروں') دے مقابلے سادہ اُتلا پہلا۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "גדی",
+      "rationale": "'بچہ' — عبرانی یعنی بکری دا بچہ؛ 'چوہا' توں وکھرا۔"
+    }
+  ],
+  "translation": "پہلاں تیری زمین دے پہل پھل یاہوہ تیرے ایلوہیم دے گھر لیاوسیں؛ تُوں بچہ نئیں پکاوسیں دُدھ وِچ، اوہدی ماں دے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2d6bd0adbc87d9a368c6f1c18a6b150108173d678c61e712bcb3ca3b2ecaa4ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/34\/25-28.1792097158635.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "پہلاں"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "پہل پھل"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "تیری زمین دے"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "لیاوسیں"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تیرے ایلوہیم دے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תבשল",
+      "gloss": "پکاوسیں"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "بچہ"
+    },
+    {
+      "surface": "בחלב",
+      "gloss": "دُدھ وِچ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "اوہدی ماں دے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:45:58.635981906Z",
+  "model": "glm-5.3"
+}

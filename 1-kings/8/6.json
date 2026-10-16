@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 8:6",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אל x4",
+      "rationale": "عبرانی چار وار 'אל' دہراندی اے — تھاں توں قدس تک اک سوچی ول — پنجابی 'تک' نال دہرایا اے۔"
+    },
+    {
+      "kind": "elision",
+      "subject": "דביר",
+      "rationale": "دبیر — قدس قدساں دا اوہ وکھرا اندرونی کمرہ؛ حرف-نقل رکھیا، ترجمہ نئیں۔"
+    }
+  ],
+  "translation": "تے کاہناں نے ⟨את⟩ یاہوہ دے عہد دے صندوق نوں اوہدی تھاں تک لیاند — گھر دے دبیر تک، قدساں دے قدس تک، کروباں دے پراں دے تھلے تک۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5debe3e4ed32217bf843fe82ab49ce537f7e98583486509e81228d12e603efb3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/8\/5-8.1792104290773.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "تے لیاند"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاہناں نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ دے عہد دے صندوق نوں"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "عہد دے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تک"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "اوہدی تھاں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تک"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "دبیر"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر دے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تک"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قدساں دے"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "قدس"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تک"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تھلے"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "پراں دے"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "کروباں"
+    }
+  ],
+  "timestamp": "2026-10-15T22:44:50.773992942Z",
+  "model": "glm-5.3"
+}

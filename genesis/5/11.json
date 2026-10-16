@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 5:11",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "دِن",
+      "rationale": "عبرانی 'یٰمے' دا مطلب ساری عمر اے، صرف دِن نئیں۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "نَو سو تے پَنج سال",
+      "rationale": "کل عمر دا حساب۔"
+    }
+  ],
+  "translation": "تے اِنوش دے سارے دِن پَنج سال تے نَو سو سال بَنے، تے اوہ مَر گیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4f515e3036934676c57d5cecdb8efc917370915710efb561e7be7820307b9e49",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/5\/9-12.1792094666823.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "بَنے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "دِن"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "اِنوش"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پَنج"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "تے نَو"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "مَر گیا"
+    }
+  ],
+  "timestamp": "2026-10-15T20:04:26.824082081Z",
+  "model": "glm-5.3"
+}

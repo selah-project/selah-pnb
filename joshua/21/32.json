@@ -1,0 +1,134 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 21:32",
+  "book": "joshua",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "قاتل",
+      "rationale": "הרוצח دا عام مطلب 'قاتل\/قتل کرن والا' اے، خاص 'سوہنے دھاگے نال' نئیں"
+    },
+    {
+      "kind": "measurement",
+      "subject": "تن شہر",
+      "rationale": "آیت پناہ گاہ دے شہر تے گنتی نال مکدی اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "لئی",
+      "rationale": "عبرانی وِچ וابستگی اسمی اے، پنجابی نے 'لئی' دتی"
+    }
+  ],
+  "translation": "تے نفتالی دے قبیلے توں ⟨את⟩ پناہ گاہ دا شہر، قاتل لئی، ⟨את⟩ کدیش گلِیل وِچ تے ⟨את⟩ اوہدیاں چراگاہاں، تے ⟨את⟩ حمت دوعر تے ⟨את⟩ اوہدیاں چراگاہاں، تے ⟨את⟩ کرتن تے ⟨את⟩ اوہدیاں چراگاہاں — تن شہر۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7dc977a9060792cf01f6681291259fda8e705fd13c91b7f93f53703da1ec5228",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joshua\/21\/29-32.1792101203142.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "تے قبیلے توں"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "نفتالی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پناہ گاہ دا شہر"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "پناہ گاہ"
+    },
+    {
+      "surface": "הרוצח",
+      "gloss": "قاتل لئی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کدیش"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "کدیش"
+    },
+    {
+      "surface": "בגליל",
+      "gloss": "گلِیل وِچ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "اوہدیاں چراگاہاں"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "اوہدیاں چراگاہاں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "حمت دوعر"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "حمت"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "دوعر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "اوہدیاں چراگاہاں"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "اوہدیاں چراگاہاں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "کرتن"
+    },
+    {
+      "surface": "קרתן",
+      "gloss": "کرتن"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "اوہدیاں چراگاہاں"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "اوہدیاں چراگاہاں"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "تن"
+    }
+  ],
+  "timestamp": "2026-10-15T21:53:23.143324029Z",
+  "model": "glm-5.3"
+}

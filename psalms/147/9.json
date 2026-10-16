@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوہ",
+      "rationale": "عبرانی وِچ فاعل دی ضمیر کوئی نئیں، پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "چُوجیاں",
+      "rationale": "לבני ערב پنجابی وِچ 'کاواں دیاں چُوجیاں' دو لفظاں نال بنیا"
+    }
+  ],
+  "translation": "اوہ چوپایے نوں اوہدا کھاݨا دیندا اے، تے کاواں دیاں چُوجیاں نوں، جِہڑیاں پُکاردیاں نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2e9f803065a108849f0e10ecd8bdcca073963c32aaa21cb0542e9d4cfd08cb3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/147\/9-12.1792114243294.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "دیندا اے"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "چوپایے نوں"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "اوہدا کھاݨا"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "چُوجیاں نوں"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "کاواں دیاں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جِہڑیاں"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "پُکاردیاں نیں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:30:43.294894992Z",
+  "model": "glm-5.3"
+}

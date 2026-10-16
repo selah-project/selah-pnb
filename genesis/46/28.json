@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 46:28",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اُس نے",
+      "rationale": "عبرانی وِچ فاعل لکھیا نئیں — سیاق توں یعقوو"
+    },
+    {
+      "kind": "substitution",
+      "subject": "رستہ دسے",
+      "rationale": "להורת دا مول یارا اے — دسے گی ہدایت، بول چال وِچ رستہ دسنا"
+    }
+  ],
+  "translation": "تے اُس نے ⟨את⟩ یہوداہ نوں اپنے اگّے یوسف کول گھلیا، تاکو اوہدے اگّے گوشن ولّ رستہ دسے، تے اوہ گوشن دی زمین وِچ آ گئے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "79ba4d2b6828991c498ab8d8de64fbbb8a088a999d066f0910b8d62d21190287",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/46\/25-28.1792096002171.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "یہوداہ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "گھلیا"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "اپنے اگّے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "להורת",
+      "gloss": "تاکو رستہ دسے"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "اوہدے اگّے"
+    },
+    {
+      "surface": "גשנה",
+      "gloss": "گوشن ولّ"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "تے اوہ آ گئے"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "زمین وِچ"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "گوشن دی"
+    }
+  ],
+  "timestamp": "2026-10-15T20:26:42.172496845Z",
+  "model": "glm-5.3"
+}

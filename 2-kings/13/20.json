@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 13:20",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "آؤندے سن",
+      "rationale": "فعلی صیغہ 'آؤندے سن' (JPS دی ریت) تے 'آئے' دوویں پڑھے جاندے نیں — بادشاہیاں 13:21 دا سیاق ورتی گِنتی دا ویڑھا دسدا اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "سال دے آؤن اُتے",
+      "rationale": "בוא שנה سال دا ومِ (باہر دا موسم) دسدا اے — ویلے دا نشان"
+    }
+  ],
+  "translation": "تے اِلیشاع مر گیا، تے اوہنوں دفنایا گیا۔ تے موآب دے لُٹیرے ٹولے دھرتی وِچ آؤندے سن، سال دے آؤن اُتے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7b971ddd2d815b805b4e861976855288ac1bb7d4307c42daf7688b8b65960f6c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/13\/17-20.1792105376648.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "مر گیا"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "اِلیشاع"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "تے اوہنوں دفنایا"
+    },
+    {
+      "surface": "וגדודי",
+      "gloss": "تے لُٹیرے ٹولے"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب دے"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "آؤندے سن"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "دھرتی وِچ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آؤن"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    }
+  ],
+  "timestamp": "2026-10-15T23:02:56.650100469Z",
+  "model": "glm-5.3"
+}

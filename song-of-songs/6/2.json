@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 6:2",
+  "book": "song-of-songs",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "سُوسَن پھُل",
+      "rationale": "שושנים سفید کنول-ورگے پھُل نیں؛ سُوسَن پنجابی وِچ اوہو تصویر رکھدا اے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "چرن لئی",
+      "rationale": "לרעות دا پکّا مطلب چرواہا دا چراؤنا اے — 'وَپھرن' وی پڑھیا جا سکدا اے"
+    }
+  ],
+  "translation": "میرا پیارا اپنے باغ وِچ اُتریا اے، خُشبُدار بوٹیاں دیاں کیاریاں ول — باغاں وِچ چرن تے سُوسَن پھُل توڑن لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "86deea1028d5d6cf7d803e3b0354d532e5706514d306058ad9f26c30b015fbb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/song-of-songs\/6\/1-4.1792116689613.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "میرا پیارا"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "اُتریا اے"
+    },
+    {
+      "surface": "לגנו",
+      "gloss": "اپنے باغ وِچ"
+    },
+    {
+      "surface": "לערוגות",
+      "gloss": "کیاریاں ول"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "خُشبُدار بوٹیاں دیاں"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "چرن لئی"
+    },
+    {
+      "surface": "בגנים",
+      "gloss": "باغاں وِچ"
+    },
+    {
+      "surface": "וללקט",
+      "gloss": "تے توڑن لئی"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "سُوسَن پھُل"
+    }
+  ],
+  "timestamp": "2026-10-16T02:11:29.614094421Z",
+  "model": "glm-5.3"
+}

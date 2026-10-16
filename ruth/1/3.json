@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 1:3",
+  "book": "ruth",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "بندہ",
+      "rationale": "אישׁ נעמی لفظی 'نُعومی دا مرد' اے — 'پتی' کماؤ لفظ اے، حالت دا ناں نئیں"
+    }
+  ],
+  "translation": "تے ایلیملک، نُعومی دا بندہ، مر گیا، تے اوہ رہ گئی — اوہ تے اوہدے دو پتر۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9ba85873f7e43862b4af8929f849061e3a1ffc15c053bb06137f7e26cd893df9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ruth\/1\/1-4.1792117044747.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "تے مر گیا"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "ایلیملک"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "نُعومی دا"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "تے رہ گئی"
+    },
+    {
+      "surface": "היא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "تے اوہدے دو"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "پتر"
+    }
+  ],
+  "timestamp": "2026-10-16T02:17:24.748949615Z",
+  "model": "glm-5.3"
+}

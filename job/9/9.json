@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 9:9",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עש כסיל כימה",
+      "rationale": "تارہ جُمٹاں دے ناں نیں — ریت دے ناواں نال حرف-نقل یا مطلب، ایتھے حرف-نقل تے پہلی واری ⟨⟩ وِچ وضاحت۔"
+    },
+    {
+      "kind": "hapax",
+      "subject": "עש",
+      "rationale": "عَش تنخ وِچ صرف ایتھے آؤندا اے۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עשה\/עש",
+      "rationale": "بناؤندا (עשה) تے عَش (עש) اِکو آواز — اِکو آواز دا کھیل، پنجابی وِچ مٹ جاندا اے۔"
+    }
+  ],
+  "translation": "جہڑا عَش نوں، کِسیل نوں تے کِمّاہ نوں بناؤندا اے، تے تیمان دے کوٹھڑیاں نوں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0c51e8bd1914b1a3ee1084ecbb0bc5b003343e282b6507467ec596a13459b512",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/9\/9-12.1792115476022.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "بناؤندا اے"
+    },
+    {
+      "surface": "עש",
+      "gloss": "عَش ⟨چڑی دا اکھاٹ⟩"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "کِسیل ⟨تارہ جُمٹ⟩"
+    },
+    {
+      "surface": "וכימה",
+      "gloss": "تے کِمّاہ ⟨ستارہ جھنڈ⟩"
+    },
+    {
+      "surface": "וחדרי",
+      "gloss": "تے کوٹھڑیاں"
+    },
+    {
+      "surface": "תמן",
+      "gloss": "تیمان ⟨دکھن⟩"
+    }
+  ],
+  "timestamp": "2026-10-16T01:51:16.023020885Z",
+  "model": "glm-5.3"
+}

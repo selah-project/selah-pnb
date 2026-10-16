@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 89:23",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ישא",
+      "rationale": "נָשָׁא (חָסֵר וּמַלְאָךְ) 'قرض دا بھاری پاؤں گا' بنا_aliases لفظ; بہت ترجمے 'زیادتی کرے گا' لکھدے نیں، کجھ 'دباؤ کریگا'۔"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ظلم دا پُتر",
+      "rationale": "בֶן עַוְלָה عبرانی اڈیوم — 'ظلم کرن والا بندا'؛ پنجابی وِچ پُتر دا دوہرا لفظ رکھیا گیا۔"
+    }
+  ],
+  "translation": "دشمن اوہدے اُتے زیادتی نئیں کریگا، تے ظلم دا پُتر اوہنوں دکھ نئیں دیوے گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "53416db0c0e281c5143d59e983b3c907bb3de2cd2c51138b12acab80c8103f82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/89\/21-24.1792113291050.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "لא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "زیادتی کریگا"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "دشمن"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوہدے اُتے"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "تے … پُتر"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ظلم دا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "اوہنوں دکھ دیوے گا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:14:51.051628930Z",
+  "model": "glm-5.3"
+}

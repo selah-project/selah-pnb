@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 4:3",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨بن کے⟩",
+      "rationale": "לנחש 'ناگ لئی\/وچ' اے؛ پنجابی 'بن گیا' منگدا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "השליכהו\/וישליכהו",
+      "rationale": "ہ下达 تے من٘تے ہوئے فعل دی ورتوں — آیت دا تشدد تے دُہراؤ"
+    }
+  ],
+  "translation": "تے اوہنے آکھیا: اوہنوں دھرتی اُتے سُٹّ دے۔ تے اوہنے اوہنوں دھرتی اُتے سُٹّ دِتا، تے اوہ اِک ناگ بن گیا، تے موشے اوہدے اگّوں بھجّ گیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5b398b7c7d39fe4c6f93be38aab462308cb60fddd77a39b589623fe24e55484a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/4\/1-4.1792096231041.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے اوہنے آکھیا"
+    },
+    {
+      "surface": "השליכהו",
+      "gloss": "اوہنوں سُٹّ دے"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "دھرتی اُتے"
+    },
+    {
+      "surface": "וישליכהו",
+      "gloss": "تے اوہنے اوہنوں سُٹّ دِتا"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "دھرتی اُتے"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "تے ہویا"
+    },
+    {
+      "surface": "לנחש",
+      "gloss": "اِک ناگ ⟨بن کے⟩"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "تے بھجّ گیا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "اوہدے اگّوں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:30:31.042800314Z",
+  "model": "glm-5.3"
+}

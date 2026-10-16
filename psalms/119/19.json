@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "آں",
+      "rationale": "عبرانی وِچ کوئی کریا نئیں — 'میں پردیسی'؛ پنجابی نوں 'آں' چاہیدا اے۔"
+    },
+    {
+      "kind": "you",
+      "subject": "to یاہوہ",
+      "rationale": "دعا — منگ دا رُخ رب ول اے۔"
+    }
+  ],
+  "translation": "میں دھرتی اُتے پردیسی آں، اپنیاں حکماں نوں میر توں نہ لُکا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8410f7721cca6dca8b2bfa92cb74b33b0734243193ac14728053acf7f8f0f115",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/119\/17-20.1792113820578.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "پردیسی"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "دھرتی اُتے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "لُکا"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "میر توں"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "اپنیاں حکماں نوں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:23:40.578978487Z",
+  "model": "glm-5.3"
+}

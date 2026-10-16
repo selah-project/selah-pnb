@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 61:6",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 61,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "inheritance",
+      "rationale": "KJV 'ਮੈਨੂੰ... ਵਿਰਾਸਤ ਦਿੱਤੀ' ਬਨਾਮ ਇਬਰਾਨੀ 'ਡਰਨ ਵਾਲਿਆਂ ਦੀ ਵਿਰਾਸਤ' — ਪ੍ਰਾਪਤ ਕਰਤਾ ਦਾ ਪੜ੍ਹਨਾ ਸਪਸ਼ਟ ਨਹੀਂ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "are",
+      "rationale": "ਪੰਜਾਬੀ ਨੂੰ ਸਹਾਇਕ ਕਿਰਿਆ 'ਹਨ\/ਹੈ' ਚਾਹੀਦੀ ਹੈ ਜੋ ਇਬਰਾਨੀ ਵਿੱਚ ਨਹੀਂ ਹੈ।"
+    }
+  ],
+  "translation": "ਕਿਉਂਕਿ ਤੂੰ ਨੇ, ਹੇ ਪਰਮੇਸ਼ੁਰ, ਮੇਰੀਆਂ ਸੁੱਖਣਾਵਾਂ ਸੁਣ ਲਈਆਂ ਹਨ; ਤੂੰ ਨੇ ਤੇਰੇ ਨਾਮ ਤੋਂ ਡਰਨ ਵਾਲਿਆਂ ਦੀ ਵਿਰਾਸਤ ਦਿੱਤੀ ਹੈ।",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e514c71f90a4fc1c9677f6e8e9538a38e3818fd64769b312040f215d9a183196",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/61\/5-8.1792112821472.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ਕਿਉਂਕਿ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ਤੂੰ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ਹੇ ਪਰਮੇਸ਼ੁਰ"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ਸੁਣ ਲਈਆਂ ਹਨ"
+    },
+    {
+      "surface": "לנדרי",
+      "gloss": "ਮੇਰੀਆਂ ਸੁੱਖਣਾਵਾਂ"
+    },
+    {
+      "surface": "נתת",
+      "gloss": "ਦਿੱਤੀ ਹੈ"
+    },
+    {
+      "surface": "ירשת",
+      "gloss": "ਵਿਰਾਸਤ"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "ਡਰਨ ਵਾਲਿਆਂ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ਤੇਰੇ ਨਾਮ ਤੋਂ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:07:01.472914144Z",
+  "model": "glm-5.3"
+}

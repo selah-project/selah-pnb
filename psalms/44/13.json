@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 44:13",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רבית",
+      "rationale": "KJV\/ASV 'increase thy wealth' بمقابلہ JPS 'set their prices high' — عبرانی اَلگّا پر دسدا اے، گل کیندی وادھی دی اے"
+    },
+    {
+      "kind": "you",
+      "subject": "توں",
+      "rationale": "ایہہ سِدھی گل یاہوہ نال اے جیہڑا اپنی قوم نوں ویچ رہیا اے"
+    }
+  ],
+  "translation": "توں ⟨את⟩ اپنی قوم نوں بِنا دَولت دے ویچ دِتا ایں، تے اوہناں دی قیمت توں وادھا نئیں کیتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ae5db8211991fba40a7be49d8a8fef6e18c73abf8fefdfb9a9b7cf74c6b387de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/44\/13-16.1792112522855.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תמכר",
+      "gloss": "توں ویچ دِتا ایں"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "اپنی قوم"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "بِنا"
+    },
+    {
+      "surface": "הון",
+      "gloss": "دَولت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "רבית",
+      "gloss": "وادھا کیتا"
+    },
+    {
+      "surface": "במחיריהם",
+      "gloss": "اوہناں دی قیمت توں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:02:02.856616428Z",
+  "model": "glm-5.3"
+}

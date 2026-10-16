@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 37:36",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "סריס",
+      "rationale": "'eunuch' vs high official — pnb takes official sense"
+    },
+    {
+      "kind": "crux",
+      "subject": "והמדנים",
+      "rationale": "'Medanites' vs 'Midianites' — consonantal text has מדנים"
+    },
+    {
+      "kind": "addition",
+      "subject": "اک",
+      "rationale": "indefinite article supplied for pnb apposition"
+    }
+  ],
+  "translation": "تے مدیانیاں نے ⟨את⟩ اوہنوں مِتصرایم وِچ فوتیپر نوں ویچ دتا — فرعون دے اک سردار، قصائیاں دے سرdar۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0a69462e695018c9e73e085b15e3e5a5dbd4a04d267b1569e9530cdc3ddaf9ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/37\/33-36.1792095690514.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמדנים",
+      "gloss": "مدیانیاں نے"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "ویچ دتا"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "اوہنوں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم وِچ"
+    },
+    {
+      "surface": "לפוטיפר",
+      "gloss": "فوتیپر"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون دے"
+    },
+    {
+      "surface": "שר",
+      "gloss": "سرdar"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "قصائیاں دے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:21:30.515907927Z",
+  "model": "glm-5.3"
+}

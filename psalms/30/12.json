@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 30:12",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מספד\/מחול",
+      "rationale": "ماتم تے ناچ دا اُلٹا جوڑا — پنجابی وِچ تضاد رہندا اے، آواز دا نئیں۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "بوری",
+      "rationale": "שק کھردری جُٹ دا کپڑا اے جیہڑا ماتم وِچ پہندیاں نیں؛ 'بوری' اوہدی شکل دسدی اے۔"
+    }
+  ],
+  "translation": "تُوں نے میرا ماتم میرے لئی نچݨ وِچ پلٹ دتا، تُوں نے میری بوری کھولھی تے مینوں خوشی نال کمر بنھی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9868f0f34f6039889bf7a90527c922a354613e4b4377ce6cf4458660abda6040",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/30\/9-12.1792112149022.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הפכת",
+      "gloss": "تُوں نے پلٹ دتا"
+    },
+    {
+      "surface": "מספדי",
+      "gloss": "میرا ماتم"
+    },
+    {
+      "surface": "למחול",
+      "gloss": "نچݨ وِچ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرے لئی"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "تُوں نے کھولھی"
+    },
+    {
+      "surface": "שקי",
+      "gloss": "میری بوری"
+    },
+    {
+      "surface": "ותאזרני",
+      "gloss": "تے مینوں کمر بنھی"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "خوشی نال"
+    }
+  ],
+  "timestamp": "2026-10-16T00:55:49.023371007Z",
+  "model": "glm-5.3"
+}

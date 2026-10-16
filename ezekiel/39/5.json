@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 39:5",
+  "book": "ezekiel",
+  "lang": "pnb",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "عن پنی ہشده",
+      "rationale": "پنی دی حالت 'مُہان' نوں سادہ 'اُتے\/پاسے' نال دسیا گیا اے، جیویں آیت 4 دے پہاڑاں نال جوڑدا اے۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נאם אדני יהוה",
+      "rationale": "الٰہی آکھنے دا پکا جوڑا — 'ادونای یاہوہ دا آکھنا' — حزقی ایل دا وہن نشان اے۔"
+    },
+    {
+      "kind": "you",
+      "subject": "گوگ نوں",
+      "rationale": "خدا آیت 4 توں گوگ نال سِدھی گل کر رہیا اے۔"
+    }
+  ],
+  "translation": "میدان دے اُتے تُو ڈیگیں، کیوں جو میں ایہہ آکھیا اے — ادونای یاہوہ دا آکھنا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "772630f52476ff9fa725625d5c7816880788f4446f00e25fe9c72bc5534c4074",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/39\/5-8.1792110114221.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "פני",
+      "gloss": "پاسے"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "میدان دے"
+    },
+    {
+      "surface": "תפול",
+      "gloss": "ڈیگیں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "آکھیا اے"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "دا آکھنا"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-10-16T00:21:54.222100606Z",
+  "model": "glm-5.3"
+}

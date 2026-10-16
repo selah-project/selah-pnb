@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 7:9",
+  "book": "song-of-songs",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "میں",
+      "rationale": "عبرانی اِکو صیغہ اے؛ پنجابی نوں صیغے لئی دو ضمیر چاہیدے نیں"
+    },
+    {
+      "kind": "crux",
+      "subject": "תפוחים",
+      "rationale": "'سیب' بنیادی مطلب اے پر کئی مفسر آڑو یا مالٹے ورگی پھل منندے نیں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תמר\/סנסנים",
+      "rationale": "کھجور تے اوہدیاں پتّیاں دی ترتیب دا چِتر اے، پنجابی وِچ کھجور دی پتّ نال کجھ بچدا اے"
+    }
+  ],
+  "translation": "میں آکھیا: میں کھجور اُتے چڑھاں، اوہدیاں پتّیاں پھڑاں؛ تے ہن تیرے سینے انگوراں دے گچھیاں وانگوں ہون، تے تیری نک دی خوشبو سیباں وانگوں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2184022e642cde1860baa9f1e65f0b069d3fd6eddbb4bfcea15fdffc0da6ce1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/song-of-songs\/7\/9-12.1792116866851.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "میں آکھیا"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "میں چڑھاں"
+    },
+    {
+      "surface": "בתמר",
+      "gloss": "کھجور اُتے"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "میں پھڑاں"
+    },
+    {
+      "surface": "בסנסניו",
+      "gloss": "اوہدیاں پتّیاں"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "تے ہون"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ہن"
+    },
+    {
+      "surface": "שדיך",
+      "gloss": "تیرے سینے"
+    },
+    {
+      "surface": "כאשכלות",
+      "gloss": "گچھیاں وانگوں"
+    },
+    {
+      "surface": "הגפן",
+      "gloss": "انگوراں دے"
+    },
+    {
+      "surface": "וריח",
+      "gloss": "تے خوشبو"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "تیری نک دی"
+    },
+    {
+      "surface": "כתפוחים",
+      "gloss": "سیباں وانگوں"
+    }
+  ],
+  "timestamp": "2026-10-16T02:14:26.852012483Z",
+  "model": "glm-5.3"
+}

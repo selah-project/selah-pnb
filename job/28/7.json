@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 28:7",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اُوہ",
+      "rationale": "עין איה تے נתיב دا حوالہ پنجابی وِچ ضمیر منگدا اے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "شزفتو",
+      "rationale": "שזף دا مول مطلب 'تَنّنا' اے؛ 'ویکھیا' بہاولی صورت اے۔"
+    },
+    {
+      "kind": "hapax",
+      "subject": "שזף",
+      "rationale": "ایہ فعل تنخ وِچ صرف ایتھے آؤندا اے۔"
+    }
+  ],
+  "translation": "شکاری پنچھی اُوہ رستہ نئیں جاندے، تے شکاری چیل دی اکھ نے اُوہنوں نئیں ویکھیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8297eed3fe485dcd7ab9fa6e14f88d233b07233602ed65c18249473b8b237e36",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/28\/5-8.1792116103437.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נתיב",
+      "gloss": "رستہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "جاندے"
+    },
+    {
+      "surface": "עיט",
+      "gloss": "شکاری پنچھی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "שזפתו",
+      "gloss": "ویکھیا"
+    },
+    {
+      "surface": "עין",
+      "gloss": "اکھ"
+    },
+    {
+      "surface": "איה",
+      "gloss": "شکاری چیل"
+    }
+  ],
+  "timestamp": "2026-10-16T02:01:43.437943493Z",
+  "model": "glm-5.3"
+}

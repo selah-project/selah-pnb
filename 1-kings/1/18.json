@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 1:18",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אדניה \/ אדני",
+      "rationale": "ناں ادونیاہ ('یاہوہ میرا مالک اے') تے خطاب 'میرے سائیں' اِکو جڑ توں — طنز اوہدے ناں وِچ ہی اے"
+    },
+    {
+      "kind": "you",
+      "subject": "بثشیباع دا داؤد نوں",
+      "rationale": "سدھا خطاب: 'میرے سائیں بادشاہ، تُسیں نئیں جاندے'"
+    }
+  ],
+  "translation": "تے ہن ویکھو، ادونیاہ بادشاہ بن چکیا اے، تے ہن، میرے سائیں بادشاہ، تُسیں ایہہ نئیں جاندے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ba45c827b9501b407f2bc60d1fee5f6ce8a99c334c439c7e60c175509c0ee0d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/1\/17-20.1792103915667.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "تے ہن"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ویکھو"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "ادونیاہ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ بن چکیا اے"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "تے ہن"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "میرے سائیں"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "جاندے او"
+    }
+  ],
+  "timestamp": "2026-10-15T22:38:35.668470114Z",
+  "model": "glm-5.3"
+}

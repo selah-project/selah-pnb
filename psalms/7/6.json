@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 7:6",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جان دی طاقت اے، صرف 'روح' نئیں — پنجابی 'جان' ایہو شکل رکھدا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נפשי\/חיי",
+      "rationale": "جان تے جِندگی دی وارووار — عبرانی اکو ستھری دو وار دوہرا رہیا اے"
+    }
+  ],
+  "translation": "دشمن میری جان دا پچھا کرے تے ⟨اوہنوں⟩ پا لےوے، تے میری جِندگی نوں دھرتی وِچ رومڑے، تے میرا جلال دھوڑ وِچ وَسے۔ سلاہ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fa6cabe524eb8ce65b1b736d8fc7760c35142e0a7ec8224f42d2e20b9181d70b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/7\/5-8.1792111821476.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ירדף",
+      "gloss": "پچھا کرے"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "دشمن"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میری جان"
+    },
+    {
+      "surface": "וישג",
+      "gloss": "تے پا لےوے"
+    },
+    {
+      "surface": "וירמס",
+      "gloss": "تے رومڑے"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "دھرتی وِچ"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "میری جِندگی"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "تے میرا جلال"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "دھوڑ وِچ"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "وَسے"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سلاہ"
+    }
+  ],
+  "timestamp": "2026-10-16T00:50:21.477246853Z",
+  "model": "glm-5.3"
+}

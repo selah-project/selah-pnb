@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 52:9",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "וידבר אתו משפטים",
+      "rationale": " عبرانی دا محاورہ 'اوہدے نال فیصلے بولے' — یعنی عدالتی فیصلہ سنایا۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אתו (دوجا)",
+      "rationale": "ایہہ את ہے نئیں بلکہ قریبی 'نال' اے؛ پھر وی نشان دے ٹبر وِچ ⟨את⟩ نال رکھیا۔"
+    }
+  ],
+  "translation": "تے اوہناں ⟨את⟩ بادشاہ نوں پھڑ لیا، تے ⟨את⟩ اوہنوں بابل دے بادشاہ کول رِبلہ لے آئے، حماں دے دیس وِچ، تے اوہدے نال فیصلے کیتے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f774a354f1bb6caa333b9e0b66f66cd83ecdce04581c7779b6931039a7001c6d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/52\/9-12.1792108884746.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתפשו",
+      "gloss": "پھڑ لیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بادشاہ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "لے آئے"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "اوہنوں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "رِبلہ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "دیس وِچ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "حماں"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "کیتے"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ اوہدے نال",
+      "marks": "اوہدے نال"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "فیصلے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:01:24.747367542Z",
+  "model": "glm-5.3"
+}

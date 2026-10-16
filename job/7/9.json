@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 7:9",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوپر",
+      "rationale": "עלה دا مطلب اُتے چڑھنا اے — پنجابی وِچ سمfony دے بِنا مطلب ادھورا، بریکٹ نال"
+    },
+    {
+      "kind": "substitution",
+      "subject": "شیول",
+      "rationale": "شیول موت دی تھاں اے — قبر، دوزخ نئیں"
+    }
+  ],
+  "translation": "بدل مُک جاندا اے تے چلیا جاندا اے، اویں ہی جو شیول نوں اُتردا اے اوہ ⟨اوپر⟩ نئیں آؤندا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "47739897109f69893f391a71de4f6bad46473a337a7876d61244a8041a03378c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/7\/9-12.1792115454675.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "مُک جاندا اے"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "بدل"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "تے چلیا جاندا اے"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اویں ہی"
+    },
+    {
+      "surface": "יורד",
+      "gloss": "اُتردا اے"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شیول نوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "آؤندا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:50:54.676033497Z",
+  "model": "glm-5.3"
+}

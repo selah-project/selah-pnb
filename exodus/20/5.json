@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 20:5",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ਹਾਂ",
+      "rationale": "ਹਿਬਰੂ ਕੋਪੁਲਾ ਨਹੀਂ ਰੱਖਦਾ, ਪੰਜਾਬੀ ਵਾਕ ਲਈ ⟨ਹਾਂ⟩ ਚਾਹੀਦਾ ਹੈ"
+    },
+    {
+      "kind": "crux",
+      "subject": "ਪੋਕੇਦ ਅਵੋਨ",
+      "rationale": "'ਵਿਜ਼ਿਟਿੰਗ ਇਨੀਕੁਇਟੀ' — ਸਜ਼ਾ ਦੇਣਾ ਬਨਾਮ ਗਿਨਣਾ\/ਸੰਭਾਲਣਾ; ਇੱਥੇ ਦੰਡ ਦਾ ਪੱਖ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ਕਨਾ",
+      "rationale": "ਕਿਨਤਾ-ਦਿਲ ਜਾਂ ਈਰਖਾਲੂ — ਹਿਬਰੂ ਦਾ 'ਜੇਲੀਅਸ' ਸੁਭਾਅ ਦੱਸਦਾ ਹੈ"
+    },
+    {
+      "kind": "you",
+      "subject": "ਇਸਰਾਏਲ ਨੂੰ",
+      "rationale": "ਸੀਨਾਈ ਦੇ ਹੁਕਮਾਂ ਵਿੱਚ ਸਿੱਧਾ ਇਸਰਾਏਲ ਨੂੰ ਸੰਬੋਧਨ"
+    }
+  ],
+  "translation": "اوہناں نوں سجدہ نہ کرنا تے اوہناں دی عبادت نہ کرنی، کیوں جے میں یاہوہ تیڈا ایلوہیم آں، اِک قہر کرن والا ایل، جِہڑا پیوواں دی بدکرداری تے پُتراں تے، تیجے تے چوethے پیڑھی تے چکیندا اے، اوہناں لئی جِہڑے مینوں دشمن نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "41308f4f23a599796d492e03516d43c737d999f9f820f748a94e8c79ab307c7c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/20\/5-8.1792096586113.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "سجدہ کرنا"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اوہناں نوں"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תעבדם",
+      "gloss": "اوہناں دی عبادت کرنی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جے"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تیڈا ایلوہیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "قہر کرن والا"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "چکیندا اے"
+    },
+    {
+      "surface": "עון",
+      "gloss": "بدکرداری"
+    },
+    {
+      "surface": "אבת",
+      "gloss": "پیوواں دی"
+    },
+    {
+      "surface": "על",
+      "gloss": "تے"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پُتراں"
+    },
+    {
+      "surface": "על",
+      "gloss": "تے"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "تیجے پیڑھی"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "تے چوethے"
+    },
+    {
+      "surface": "רבעים",
+      "gloss": "پیڑھی"
+    },
+    {
+      "surface": "לשנאי",
+      "gloss": "مینوں دشمن نیں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:36:26.113915369Z",
+  "model": "glm-5.3"
+}

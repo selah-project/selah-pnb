@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "2-chronicles 6:42",
+  "book": "2-chronicles",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מُکھ پھیرنا",
+      "rationale": "عبرانی 'مُکھ پھیرنا' = منع کرنا\/رد کرنا؛ پنجابی وِچ ایہو محاورا چلیا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "خیسِد",
+      "rationale": "חסד رکھیا گیا، ⟨⟩ وِچ 'مہربانیاں' — اِک لفظ نال پورا مطلب نئیں پھڑدا"
+    },
+    {
+      "kind": "you",
+      "subject": "یاہوہ ایلوہیم نوں",
+      "rationale": "دعا دا سمبادھی مُخاطب یاہوہ اے"
+    }
+  ],
+  "translation": "اے یاہوہ ایلوہیم، اپنے مسح ہوئے دا مُکھ ناں پھیر، اپنے بندے داوِد دے خیسِد یاد رکھ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "723a8eab90368c9d660a59b69366d80a65d583938a4fa3d90518331166d23c27",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/6\/41-42.1792121564309.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ناں"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "پھیر ⟨مُکھ ناں پھیر⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مُکھ"
+    },
+    {
+      "surface": "משיחיך",
+      "gloss": "اپنے مسح ہوئے دا"
+    },
+    {
+      "surface": "זכרה",
+      "gloss": "یاد رکھ"
+    },
+    {
+      "surface": "לחסדי",
+      "gloss": "خیسِد ⟨مہربانیاں⟩"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "اپنے بندے"
+    }
+  ],
+  "timestamp": "2026-10-16T03:32:44.310065789Z",
+  "model": "glm-5.3"
+}

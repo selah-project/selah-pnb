@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 8:13",
+  "book": "song-of-songs",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩",
+      "rationale": "ہשמיעינی بس 'مینوں سُنا' اے؛ 'اوہ' (تیری آواز) جوڑیا گیا تاں جو گل صاف رہے"
+    },
+    {
+      "kind": "you",
+      "subject": "باغاں وِچ وسݨ والی",
+      "rationale": "سلیمان دا بولݨ، محبوبہ نوں سدّݨ"
+    },
+    {
+      "kind": "invitation",
+      "subject": "השמיעיני",
+      "rationale": "محبوبہ نوں اپنی آواز سُناؤن دی ارداس — کتاب دا آخری سدّا"
+    }
+  ],
+  "translation": "اے باغاں وِچ وسݨ والی، سنگتی تیری آواز کن دھر کے سُندے نیں؛ مینوں ⟨اوہ⟩ سُنا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e2fc1b5d59c398cafe0c0b459ab94cb44a8980fb594972db09c9f87d1d9bb620",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/song-of-songs\/8\/13-14.1792116851597.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היושבת",
+      "gloss": "وسݨ والی"
+    },
+    {
+      "surface": "בגנים",
+      "gloss": "باغاں وِچ"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "سنگتی"
+    },
+    {
+      "surface": "מקשיבים",
+      "gloss": "کن دھر کے سُندے نیں"
+    },
+    {
+      "surface": "לקולך",
+      "gloss": "تیری آواز"
+    },
+    {
+      "surface": "השמיעיני",
+      "gloss": "مینوں سُنا"
+    }
+  ],
+  "timestamp": "2026-10-16T02:14:11.597662554Z",
+  "model": "glm-5.3"
+}

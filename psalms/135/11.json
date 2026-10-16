@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 135:11",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ל- دا لامد",
+      "rationale": "لامد پچھلی آیت دی فعل نال جوڑدا اے؛ پنجابی وِچ ⟨کوں⟩ نال پیش کیتا"
+    }
+  ],
+  "translation": "سِیحون ⟨کوں⟩، عموری دا بادشاہ، تے عُوگ ⟨کوں⟩، باثان دا بادشاہ، تے کنعان دیاں ساریاں مملکتاں ⟨کوں⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6cca197ce9087e5bd4a9b5f425d10670a999cd0a54bb6d107f399bca57f677a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/135\/9-12.1792114045190.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לסיחון",
+      "gloss": "سِیحون ⟨کوں⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "عموری"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "تے عُوگ ⟨کوں⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "باثان"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "تے ساریاں"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "مملکتاں"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کنعان"
+    }
+  ],
+  "timestamp": "2026-10-16T01:27:25.191606502Z",
+  "model": "glm-5.3"
+}

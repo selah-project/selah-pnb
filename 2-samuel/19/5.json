@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 19:5",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نال",
+      "rationale": "عبرانی وِچ קولوکیشن 'آواز وڈی' اے، پنجابی 'نال' منگدا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בני … בני בני",
+      "rationale": "'میرا پُتر' چار واری دہرایا گیا — سوگ دا وزن دہراؤ نال اے"
+    }
+  ],
+  "translation": "تے بادشاہ نے ⟨את⟩ اپنے چہرے نوں ڈھک لیا، تے بادشاہ نے وڈی آواز نال چیخ ماری: میرا پُتر اَوشالوم! اَوشالوم، میرا پُتر، میرا پُتر!",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2833f676bee4b3aabb94c57ca4ca3288575400bc6b5d040637883b9028a34be3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/19\/5-8.1792103788331.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "تے بادشاہ نے"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "ڈھک کے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنے چہرے نوں"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "اپنے چہرے نوں"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "تے چیخ ماری"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ نے"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وڈی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "میرا پُتر"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "اَوشالوم"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "اَوشالوم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "میرا پُتر"
+    },
+    {
+      "surface": "בני",
+      "gloss": "میرا پُتر"
+    }
+  ],
+  "timestamp": "2026-10-15T22:36:28.332307094Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 62:5",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אך משאתו",
+      "rationale": "صرف\/یقیناً + اُچائی: کجھ مترجم 'اُس دی ساری صلاح' لئی، کجھ 'صرف اُسی دی اُچائی توں' لئی — یعنی دھرمانوہ تے صرف اِکو نیت۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יברכו\/יקללו",
+      "rationale": "مونہہ نال برکت تے وِچکار لعنت — چیاازم، باہروں اندر دا ٹکراؤ۔"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "سنگیت دا وقفہ، ترجمہ نئیں ہوندا — 'سلاہ' حرف-نقل رہندا اے۔"
+    }
+  ],
+  "translation": "صرف اُس دی اُچائی توں اوہ صلاح کردے نیں ⟨لئی⟩ کے اوہنوں لہا سٹن، اوہ جھوٹ نال خوش نیں، اپنے مونہہ نال اوہ برکت دیندے نیں تے اپنے وِچکار لعنت کردے نیں۔ سلاہ",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9d537e38c3eadc5d9a4de41c5fbc35229e0dddf0d45f491a5a72fa908c571301",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/62\/5-8.1792112793212.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "صرف"
+    },
+    {
+      "surface": "משאתו",
+      "gloss": "اُس دی اُچائی"
+    },
+    {
+      "surface": "יעצו",
+      "gloss": "اوہ صلاح کردے نیں"
+    },
+    {
+      "surface": "להדיח",
+      "gloss": "لہا سٹن"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "خوش نیں"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "جھوٹ"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "اپنے مونہہ نال"
+    },
+    {
+      "surface": "יברכו",
+      "gloss": "برکت دیندے نیں"
+    },
+    {
+      "surface": "ובקרבם",
+      "gloss": "تے اپنے وِچکار"
+    },
+    {
+      "surface": "יקללו",
+      "gloss": "لعنت کردے نیں"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سلاہ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:06:33.212668175Z",
+  "model": "glm-5.3"
+}

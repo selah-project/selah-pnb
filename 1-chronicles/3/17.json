@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 3:17",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אסר",
+      "rationale": "اشیر: ناں اے یا یِکنیاہ دی صفت 'قیدی' — KJV\/جنیوا ناں، ASV\/BSB صفت۔"
+    },
+    {
+      "kind": "alternative",
+      "subject": "אסר",
+      "rationale": "عبرانی ترتیب ناں بعِلوم پیش کردا اے: 'اشیر، شألتِیل اوہدا پُتر'۔"
+    }
+  ],
+  "translation": "تے یِکنیاہ ⟨قیدی⟩ دی پتراں: اشیر، شألتِیل اوہدا پُتر۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d441a7b1d2903a43143979383fa29da12645cdc39cbcf82fde7ac14156c42565",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/3\/17-20.1792120281539.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "تے دی پتراں"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "یِکنیاہ"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "اشیر ⟨قیدی⟩"
+    },
+    {
+      "surface": "שאלתיאל",
+      "gloss": "شألتِیل"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اوہدا پُتر"
+    }
+  ],
+  "timestamp": "2026-10-16T03:11:21.539970752Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "hosea 2:25",
+  "book": "hosea",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לא רחמה \/ לא עמי",
+      "rationale": " Hosea دے بچیاں دے ناں反过来 وَلدے نیں — 'نئیں رُچمی گئی' تے 'میرا قوم نئیں' ہُن مٹا دِتے جاندے نیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "وہ آکھے گا",
+      "rationale": "عبرانی יאמר اِکو اے — جلدی 'اوہ' (قوم) جاں 'اوہ' (بندہ)؛ ترجمے 'they' لکھدے نیں، متن اِکو singular رکھدا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "זרע (boآ)",
+      "rationale": "'اوہنوں بوآں گا' — کُڑی دا بوآ جاں بچیاں دا وادھا، جیویں ہوسیا 2:1-3 (1:10) دا سیاق دسدا اے"
+    }
+  ],
+  "translation": "تے میں اوہنوں آپ لئی دھرتی وِچ بوآں گا، تے میں ⟨את⟩ لُو-رُخامہ ⟨نئیں رُچمی گئی⟩ نوں رچھما کراں گا، تے میں لُو-عَمی ⟨میرا قوم نئیں⟩ نوں آکھاں گا: تُوں میرا قوم ایں، تے اوہ آکھے گا: تُوں میرا ایلوہ ایں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6fec8fedddb02aaf41659331e6ab37dadc165c57a0d9da86dba00d845b119ec8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/hosea\/2\/25-25.1792110391697.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזרעתיה",
+      "gloss": "تے میں اوہنوں بوآں گا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "آپ لئی"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "دھرتی وِچ"
+    },
+    {
+      "surface": "ורחמתי",
+      "gloss": "تے میں رچھما کراں گا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لُو-رُخامہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لُو-"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "رُخامہ"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "تے میں آکھاں گا"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "لُو-عَمی نوں"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "میرا قوم نئیں"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "میرا قوم"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُوں ایں"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "تے اوہ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "آکھے گا"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "میرا ایلوہ"
+    }
+  ],
+  "timestamp": "2026-10-16T00:26:31.697992627Z",
+  "model": "glm-5.3"
+}

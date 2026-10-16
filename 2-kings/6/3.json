@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 6:3",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نال",
+      "rationale": "ہبرو وِچ 'تیرے غلاماں دے نال' دا سادہ مطلب، پنجابی وِچ 'نال' دا حرف لوڑیا"
+    }
+  ],
+  "translation": "تے اِک نے آکھیا: مہربانی کر ⟨نا⟩ تے ⟨את⟩ اپنیاں غلاماں نال ٹُر۔ تے اُوہنے آکھیا: اَنا جاواں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ec4418d02451f2c11171621883be98d05d20a2646d11941f87f9b0c06bdf6039",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/6\/1-4.1792105019384.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "اِک نے"
+    },
+    {
+      "surface": "הואל",
+      "gloss": "مہربانی کر"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨نا⟩"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "تے ٹُر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "غلاماں"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "اپنیاں غلاماں"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "אני",
+      "gloss": "اَنا"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "جاواں گا"
+    }
+  ],
+  "timestamp": "2026-10-15T22:56:59.385432288Z",
+  "model": "glm-5.3"
+}

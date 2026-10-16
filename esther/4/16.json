@@ -1,0 +1,173 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "esther 4:16",
+  "book": "esther",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אבדתי אבדתי",
+      "rationale": "دہرائی — 'میں برباد ہوواں، میں برباد ہوواں' — رزاں مندی دا سُر اِکو دہرائی وِچ اے۔"
+    },
+    {
+      "kind": "invitation",
+      "subject": "לך כנוס",
+      "rationale": "حکمیہ فعل — 'جا، اکٹھا کر' — پورا آیت اِک سنیہا- summon اے۔"
+    },
+    {
+      "kind": "you",
+      "subject": "to Mordecai",
+      "rationale": "اِستیر دا جواب سدھا مردخای نوں مخاطب اے (پہلی شخص 'میں' تے دوجی شخص جمع حکم)۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "שלשת ימים לילה ויום",
+      "rationale": "روزے دا حساب — تن دن، رات تے دن۔"
+    }
+  ],
+  "translation": "جا، شوشن وِچ ملدے سارے یہودیاں نوں ⟨את⟩ اکٹھا کر، تے میرے لئی روزے رکھو — تن دن رات تے دن نہ کھاؤ تے نہ پیو۔ میں تے میریاں نوکرانیاں وی اِنج روزے رکھاں گی، تے فیر اِس طرح میں بادشاہ دے کول جاواں گی، جیہڑا قانون دے مطابق نئیں؛ تے جویں میں برباد ہوواں، میں برباد ہوواں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ef8d98583ba936436d0128653357c0eab0f8ad68bc29e665d8b4e66b44e5c8aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/esther\/4\/13-16.1792117783723.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "جا"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "اکٹھا کر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سارے یہودیاں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "یہودی"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "ملدے"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "شوشن وِچ"
+    },
+    {
+      "surface": "וצומו",
+      "gloss": "تے روزے رکھو"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "میرے لئی"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "کھاؤ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תשתו",
+      "gloss": "پیو"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "تن"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دن"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "رات"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "تے دن"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "ונערתי",
+      "gloss": "تے میریاں نوکرانیاں"
+    },
+    {
+      "surface": "אצום",
+      "gloss": "روزے رکھاں گی"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اِنج"
+    },
+    {
+      "surface": "ובכן",
+      "gloss": "تے فیر اِس طرح"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "جاواں گی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ دے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "כדת",
+      "gloss": "قانون دے مطابق"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "تے جویں"
+    },
+    {
+      "surface": "אבדתי",
+      "gloss": "میں برباد ہوواں"
+    },
+    {
+      "surface": "אבדתי",
+      "gloss": "میں برباد ہوواں"
+    }
+  ],
+  "timestamp": "2026-10-16T02:29:43.726110413Z",
+  "model": "glm-5.3"
+}

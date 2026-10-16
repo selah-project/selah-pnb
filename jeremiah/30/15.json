@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 30:15",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ہے",
+      "rationale": "אנוש مکمل جملہ اے — پنجے نوں copula چائیدی۔"
+    },
+    {
+      "kind": "you",
+      "subject": "صیون",
+      "rationale": "پچھلی آیتاں دی مخاطب صیون\/اسرائیل اے — 'تیرا درد'۔"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מה תזעק",
+      "rationale": "حرفliteral 'کیہ توں چیکدا اے' — سوال-پرستش، 'کیوں چیکدا اے' رکھیا۔"
+    }
+  ],
+  "translation": "تیرے ٹٹن اُتے کیوں چیکدا اے؟ تیرا درد لاعلاج اے؛ تیریاں بےدلیاں دی بہتات لئی، تیرے پاپ بھارو ہو گئے نیں — ایہہ میں تیرے نال کیتے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "99297e10cd8919fe9d434c72cf7f0c844a03727ca62dde7d34ca55c9554d468d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/30\/13-16.1792108119011.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "תזעק",
+      "gloss": "توں چیکدا اے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "שברך",
+      "gloss": "تیرے ٹٹن"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "لاعلاج"
+    },
+    {
+      "surface": "מכאבך",
+      "gloss": "تیرا درد"
+    },
+    {
+      "surface": "על",
+      "gloss": "لئی"
+    },
+    {
+      "surface": "רב",
+      "gloss": "بہتات"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "تیریاں بےدلیاں"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "بھارو ہو گئے"
+    },
+    {
+      "surface": "חטאתיך",
+      "gloss": "تیرے پاپ"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "میں کیتے"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیرے نال"
+    }
+  ],
+  "timestamp": "2026-10-15T23:48:39.012243818Z",
+  "model": "glm-5.3"
+}

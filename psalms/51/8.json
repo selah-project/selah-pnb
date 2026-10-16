@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 51:8",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "اندر دے حصے",
+      "rationale": "בטחות مول طور تے گردے نیں — عبرانی وِچ اندرونی مراد دا ٹھاٹھ، پنجابی وِچ 'اندر دے حصے'"
+    },
+    {
+      "kind": "secret",
+      "subject": "לُکے ہوئے حصے",
+      "rationale": "בסתם چھپائے ہوئے تھاں دی گل اے"
+    }
+  ],
+  "translation": "ویکھ، اندر دے حصیاں وِچ سچ تُوں چاہندا ایں، تے لُکے ہوئے حصے وِچ دانائی مینوں دسّسیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0e766f8045ad1ee404c5cb4d09eb034c4e86bb35eb7569190358b3c6579dca1a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/51\/5-8.1792112654382.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ہן",
+      "gloss": "ویکھ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "سچ"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "تُوں چاہندا ایں"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "اندر دے حصیاں وِچ"
+    },
+    {
+      "surface": "ובסתם",
+      "gloss": "تے لُکے ہوئے حصے وِچ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "دانائی"
+    },
+    {
+      "surface": "תודיעני",
+      "gloss": "مینوں دسّسیں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:04:14.383298707Z",
+  "model": "glm-5.3"
+}

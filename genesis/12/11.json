@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 12:11",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "את",
+      "rationale": "ایتھے אַתְּ 'توں' ضمیر اے، مفعول دا نشان אֵת نئیں — پر ٹوکن دا نشان رکھیا گیا اے۔"
+    },
+    {
+      "kind": "you",
+      "subject": "سارائی",
+      "rationale": "اِبرام دی گَل اپنی تریمتیلے سارائی نال سِدھی اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "تریمتیں",
+      "rationale": "عبرانی صرف 'اِک سوہنی تریمتیلے' آکھدا اے؛ پنجابی جملے لئی 'توں … تریمتیں' بھریا گیا۔"
+    }
+  ],
+  "translation": "تے جدوں اوہ مِتصرایم وڑن دے نیڑے آیا، تد اوہنے سارائی اپنی تریمتیلے نوں آکھیا: ویکھ ہن، میں جاندا واں کہ توں دیکھن وِچ اِک سوہنی تریمتیں ⟨את⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f9c794dd32348d6aa5697a71d6f0dd3016168a10bf1fa322dc143dcfbdc3ccf4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/12\/11-12.1792123266405.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے ہویا"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جدوں"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "نیڑے آیا"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "وڑن لئی"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "مِتصرایم"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سارائی"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "اوہدی تریمتیلے"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ویکھ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ہن"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "میں جاندا واں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "تریمتیلے"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "سوہنی"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "دیکھن وِچ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "توں"
+    }
+  ],
+  "timestamp": "2026-10-16T04:01:06.406432621Z",
+  "model": "glm-5.3"
+}

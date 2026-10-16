@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 12:8",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سن",
+      "rationale": "عبرانی وِچ معاون فعل نئیں، پنجابی وچ ماضی لئی لوڑیا"
+    },
+    {
+      "kind": "elision",
+      "subject": "את (دوجی تھاں)",
+      "rationale": "ایہہ את نال دا اے (H854)، ⟨את⟩ نشان نئیں؛ 'نال' دے روپ وِچ رلایا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "هילדים",
+      "rationale": "'مُندرے' — عبرانی لفظ عمر دے پہلو توں جوان مُندریاں لئی اے، بال نئیں"
+    }
+  ],
+  "translation": "تے اوہنے بزرگاں دی صلاح ⟨جیہڑی⟩ اوہناں اوہنوں دتی سی، چھڈّ دتی، تے اُنہاں مُندریاں نال صلاح کیتی ⟨جیہڑے⟩ اوہدے نال وڈے ہوئے سن، ⟨جیہڑے⟩ اوہدے ساہمنے کھلوتے سن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1bc376df9f0ffe44f749e8d1a71e6831b813149783005eef1671d1789ff90f1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/12\/8-8.1792123714976.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "چھڈّ دتی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بزرگاں دی صلاح"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "صلاح"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "بزرگاں دی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨جیہڑی⟩"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "اوہناں اوہنوں دتی"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "تے صلاح کیتی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ نال"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "مُندریاں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨جیہڑے⟩"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "وڈے ہوئے"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ اوہدے نال"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨جیہڑے⟩"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "کھلوتے"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "اوہدے ساہمنے"
+    }
+  ],
+  "timestamp": "2026-10-16T04:08:34.977063171Z",
+  "model": "glm-5.3"
+}

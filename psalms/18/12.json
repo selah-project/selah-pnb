@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 18:12",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "סתרו",
+      "rationale": "یاہوہ دا لُکا ٹکانا — ْسِتر لُکائی دا تھاں، اِیتھے پوری طرح لُکا۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שחקים",
+      "rationale": "شحاق اصل وِچ “پیسی ہوئی دھوڑ\/بھافی” — آسمان دے بدل، پنجابی وِچ “آسماناں” رکھیا اے۔"
+    }
+  ],
+  "translation": "اوہ رکھدا اے ہنیرے نوں اپنی لُکائی دی تھاں، اوہدے دوالے اوہدی جھونپڑی — پانیاں دا ہنیرا، آسماناں دے گھنے بدل۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9cf51954dd183cfb042f9c423f4bdb6e91bd98f8166bde785bb175b0addbb432",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/18\/9-12.1792112036851.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישת",
+      "gloss": "اوہ رکھدا اے"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ہنیرے نوں"
+    },
+    {
+      "surface": "סתרו",
+      "gloss": "اپنی لُکائی دی تھاں"
+    },
+    {
+      "surface": "סביבותיו",
+      "gloss": "اوہدے دوالے"
+    },
+    {
+      "surface": "סכתו",
+      "gloss": "اوہدی جھونپڑی"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "ہنیرا"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پانیاں دا"
+    },
+    {
+      "surface": "עבי",
+      "gloss": "گھنے بدل"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "آسماناں دے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:53:56.852251482Z",
+  "model": "glm-5.3"
+}

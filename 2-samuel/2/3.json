@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 2:3",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سن",
+      "rationale": "عبرانی وِچ אשר עמو توں بعد کوئی فعل نئیں؛ پنجابی رشتہ جملہ فعل منگدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ٹبر",
+      "rationale": "בית איש دے نال 'گھر' توں ودھ 'گھر والے\/ٹبر' اے"
+    }
+  ],
+  "translation": "تے اوہدے آدمی جیہڑے اوہدے نال سن، داوِد نے چڑھائے — ہر آدمی تے اوہدا ٹبر — تے اوہ خےبرون دے شہراں وِچ وس گئے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0e905cb85735a5fa2fc556902924befdced506971f552e9d777a60e5b71eab24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/2\/1-4.1792103130656.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנשיו",
+      "gloss": "تے اوہدے آدمی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑے"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "اوہدے نال"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "چڑھائے"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد نے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "تے اوہدا ٹبر"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "تے وس گئے"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "شہراں وِچ"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "خےبرون دے"
+    }
+  ],
+  "timestamp": "2026-10-15T22:25:30.658056097Z",
+  "model": "glm-5.3"
+}

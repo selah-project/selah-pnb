@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 5:6",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨مینہہ⟩",
+      "rationale": "مہمٹیر اُتے مضاف مینہہ دا دُہراؤ، پنجابی وِچ 'کہ مینہہ… نہ وَسّن' سِدھا جوڑ دیندا اے"
+    },
+    {
+      "kind": "hapax",
+      "subject": "ושית",
+      "rationale": "شایت تنخ وِچ ایسے آیت وِچ ای آؤندا اے، جَنگلی جھاڑی"
+    }
+  ],
+  "translation": "تے میں اوہنوں اجاڑ دیواں گا؛ اوہ نہ چھانٹی جاوے گی نہ واہی جاوے گی، تے کانڈے تے اُوٹ جَنگلی اُگّ جان گے؛ تے میں بدلاں نوں حکم کراں گا کہ اوہدا اُتے مینہہ نہ وَسّن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "61e2c11e0f8f5058643d2801dc4a7a76a076a82490f6108d8012de1a973b5479",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/5\/5-8.1792105907141.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשיתהו",
+      "gloss": "تے میں اوہنوں بناؤں گا"
+    },
+    {
+      "surface": "בתה",
+      "gloss": "اجاڑ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יזמר",
+      "gloss": "چھانٹی جاوے گی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יעדר",
+      "gloss": "واہی جاوے گی"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "تے چڑھ جان گے"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "کانڈے"
+    },
+    {
+      "surface": "ושית",
+      "gloss": "تے اُوٹ جَنگلی"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "بدلاں"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "میں حکم کراں گا"
+    },
+    {
+      "surface": "מהמטיר",
+      "gloss": "کہ مینہہ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اوہدا اُتے"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "نہ وَسّن ⟨مینہہ⟩"
+    }
+  ],
+  "timestamp": "2026-10-15T23:11:47.142115060Z",
+  "model": "glm-5.3"
+}

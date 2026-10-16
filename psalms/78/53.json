@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 78:53",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نے",
+      "rationale": "پنجابی کرم لئی چاہیدا، عبرانی وِچ نئیں"
+    }
+  ],
+  "translation": "تے اوہناں نوں بھروسے نال لے گیا تے اوہ نہ ڈرے، تے سمندر نے ⟨את⟩ اوہناں دے ویریاں نوں ڈھک لیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "235876a10c4c3a9ff0cc8b9400f0d479064f1e0007418d04a57222ffebbf93aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/78\/53-56.1792113084413.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "لے گیا"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "بھروسے نال"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "ڈرے"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اوہناں دے ویریاں نوں"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "اوہناں دے ویریاں"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "ڈھک لیا"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر نے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:11:24.414038018Z",
+  "model": "glm-5.3"
+}

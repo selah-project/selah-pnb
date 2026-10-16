@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نیں",
+      "rationale": "عبرانی وِچ کوئی کریا نئیں، پنجابی لئی جوڑیا"
+    },
+    {
+      "kind": "alternative",
+      "subject": "משפט",
+      "rationale": "'عدالت' وی جائز — بنیاد שפט 'فیصلہ کرنا'"
+    }
+  ],
+  "translation": "خوش ⟨نیں⟩ اوہ جیہڑے میشپات ⟨انصاف⟩ نوں رکھدے نیں، ہر ویلے صداقت کردے ⟨نیں⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c97acf7b309a65bd50d82d14ecca4a928e612d4104ddb5879a7055030dbe54d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/106\/1-4.1792113626711.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "خوش"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "جیہڑے رکھدے نیں"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "میشپات ⟨انصاف⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کردے نیں"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "صداقت"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ویلے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:20:26.712383Z",
+  "model": "glm-5.3"
+}

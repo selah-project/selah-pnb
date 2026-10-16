@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 24:5",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اپنی",
+      "rationale": "عبرانی وِچ ضمیر added suffix اے، پنجابی نوں صفت منگدی اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "שנה אחת",
+      "rationale": "اِک سال دا پیمانہ — گھر رہن دا ویلہ"
+    },
+    {
+      "kind": "crux",
+      "subject": "נקי",
+      "rationale": "'مُکلا\/معاف' — لشکر تے ہر کم توں آزاد؛ کجھ مترجم 'بے قصور' لیندے نیں"
+    }
+  ],
+  "translation": "جدوں کوئی بندہ نویں زنانی بیاہ لیندا اے، اوہ لشکر وِچ نئیں نکلےگا، تے اوہدے اُتے کسے کم لئی کوئی گل نئیں لنگھےگی؛ اوہ اِک سال اپنے گھر لئی مُکلا رہےگا، تے ⟨את⟩ اپنی زنانی نوں خوش کریگا جیہڑی اوہنے بیاہ لئی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "76336aa17e4422a892c2b47a6f36f236a34b4dede648dba622af7f8f1ad0534d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/24\/5-8.1792100314582.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "جدوں"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "بیاہ لیندا اے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زنانی"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "نویں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "نکلےگا"
+    },
+    {
+      "surface": "בצבא",
+      "gloss": "لشکر وِچ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "لنگھےگی"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اوہدے اُتے"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "کسے"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کم لئی"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "مُکلا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "رہےگا"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "اپنے گھر لئی"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "اِک سال"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "اِک"
+    },
+    {
+      "surface": "ושמח",
+      "gloss": "تے خوش کریگا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنی زنانی نوں"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "اپنی زنانی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "بیاہ لئی اے"
+    }
+  ],
+  "timestamp": "2026-10-15T21:38:34.583526782Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 4:3",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "יסרת",
+      "rationale": "جُڑ י-ס-ר 'تاڑنا\/سکھانا' دوویں؛ 'سکھایا' ریت دا معنی، 'تاڑنا' دھُندلا رہندا اے"
+    },
+    {
+      "kind": "you",
+      "subject": "ایوبُ نوں",
+      "rationale": "الیفز ایوبُ دی تعریف کردا اے"
+    }
+  ],
+  "translation": "ویکھ، تُو نے بہت ساریاں ⟨بندیاں⟩ نوں سکھایا، تے مُدھے ہتھ تُو مضبوط کردا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "36679d6eda4faac9cb3bc14fb9ac3a0f945961ebe142be20ebe7325e298cfca5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/4\/1-4.1792115343862.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ویکھ"
+    },
+    {
+      "surface": "יסרת",
+      "gloss": "تُو نے سکھایا"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "بہت ساریاں ⟨بندیاں⟩ نوں"
+    },
+    {
+      "surface": "וידים",
+      "gloss": "تے ہتھ"
+    },
+    {
+      "surface": "רפות",
+      "gloss": "مُدھے"
+    },
+    {
+      "surface": "תחזק",
+      "gloss": "تُو مضبوط کردا اے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:49:03.863585738Z",
+  "model": "glm-5.3"
+}

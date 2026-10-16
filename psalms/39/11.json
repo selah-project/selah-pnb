@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "مُک رہیا آں",
+      "rationale": "כליתی دا دوجا پڑھائی 'میں ختم ہو گئیا' — ماضی وی ہو سکدا اے۔"
+    },
+    {
+      "kind": "you",
+      "subject": "یاہوہ",
+      "rationale": "سدھی عرض خدا ولّ — اپنی مار ہٹا۔"
+    }
+  ],
+  "translation": "اپنی مار میرے توں ہٹا، تیری ہتھ دی زد توں میں مُک رہیا آں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a75b9bb1f70f079b5191a2916c300a640baed448ae17c46a93d60859d7c7c9d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/39\/9-12.1792112405686.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "ہٹا"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "میرے توں"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "اپنی مار"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "دی زد توں"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "تیری ہتھ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "مُک رہیا آں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:00:05.686877582Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 10:20",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ויחזק",
+      "rationale": "لفظی 'مضبوط کیتا' — پنجابی وچ 'سخت کر دتا' روایت دے مطابق"
+    }
+  ],
+  "translation": "تے یاہوہ نے ⟨את⟩ فرعون دا دل سخت کر دتا، تے اوہنے ⟨את⟩ یِسرائیل دے پتریاں نوں نئیں گھلیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bfcd9e32423b451923970c48b635a06b4d3ef142435fccaa540a5966ae9fa5e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/10\/17-20.1792096389431.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "سخت کر دتا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "فرعون دا دل"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "گھلیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یِسرائیل دے پترے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پترے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-10-15T20:33:09.432205028Z",
+  "model": "glm-5.3"
+}

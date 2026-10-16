@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 72:8",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "راج کریگا",
+      "rationale": "ערד (קצר) دا مول مطلب 'رَڑ جانا\/دباؤنا' اے، 'حاکم ہونا' نئیں"
+    }
+  ],
+  "translation": "تے اوہ سمندر توں سمندر تک تے دریا توں دھرتی دے کنڈھیاں تک راج کریگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c07e49b71e36c574ac965af47e929611dd9a30523244b42404434000e3de31ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/72\/5-8.1792112933937.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורד",
+      "gloss": "راج کریگا"
+    },
+    {
+      "surface": "מים",
+      "gloss": "سمندر توں"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "ים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "ומנהר",
+      "gloss": "تے دریا توں"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "کنڈھیاں"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "دھرتی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:08:53.938331633Z",
+  "model": "glm-5.3"
+}

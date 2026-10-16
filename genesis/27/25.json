@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 27:25",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جان دی طاقت اے، بھاویں پنجابی وِچ وکھری دuriesروپ ممکن اے"
+    },
+    {
+      "kind": "elision",
+      "subject": "ויגש",
+      "rationale": "את marker اینVERSE وِچ نئیں، کیونکہ مفعول صریح תوبה اے"
+    }
+  ],
+  "translation": "تے اُس نے آکھیا: ایہنوں میں ول لیاؤ، تے میں اپنے پُتر دے شکار توں کھاواں گا، تاں جو میری جان تینوں برکت دیوے۔ تے اُس نے ایہنوں اُس ول لیاندے ہوئے اُس نوں دِتّا تے اُس نے کھادھا؛ تے اُس نے اُس نوں شراب وی دِتی، تے اُس نے پیتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a97725cadf952c2bd17fcdd2ff455182b6973037247b70f844b49817d724003a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/27\/25-28.1792095417933.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے اُس نے آکھیا"
+    },
+    {
+      "surface": "הגשה",
+      "gloss": "ایہنوں لیاؤ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میں ول"
+    },
+    {
+      "surface": "ו אכלה",
+      "gloss": "تے میں کھاواں گا"
+    },
+    {
+      "surface": "מציד",
+      "gloss": "شکار توں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "میرے پُتر دے"
+    },
+    {
+      "surface": "למען",
+      "gloss": "تاں جو"
+    },
+    {
+      "surface": "תברכך",
+      "gloss": "تینوں برکت دیوے"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میری جان"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "تے اُس نے لیاندے ہوئے دِتّا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اُس نوں"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "تے اُس نے کھادھا"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "تے اُس نے لیاندا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اُس نوں"
+    },
+    {
+      "surface": "יין",
+      "gloss": "شراب"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "تے اُس نے پیتا"
+    }
+  ],
+  "timestamp": "2026-10-15T20:16:57.934008422Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "کَو مچاؤ ہوہَکے نال",
+      "rationale": "'ڈر نال خوش ہووو' — خوشی تے ڈر دی ٹکراؤنی، پنجابی وِچ دوویں رکھیاں"
+    },
+    {
+      "kind": "invitation",
+      "subject": "to kings and judges",
+      "rationale": "خدمت دا حکم، اگلی آیت دے مخاطباں نوں"
+    }
+  ],
+  "translation": "⟨את⟩ یاہوہ دی سیوا کرو ⟨دَر دے نال⟩ — ڈر نال، تے کَو مچاؤ ہوہَکے نال۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8d533ebe6cabfaf3f69d9f613443902ecf5dcc17aedfcc9ed447684e0a1ae411",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/2\/9-12.1792111779616.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "دی سیوا کرو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "ڈر نال"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "تے کَو مچاؤ"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "ہوہَکے نال"
+    }
+  ],
+  "timestamp": "2026-10-16T00:49:39.617099056Z",
+  "model": "glm-5.3"
+}

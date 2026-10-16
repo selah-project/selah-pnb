@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 109:23",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כנטותו",
+      "rationale": "ترجمہ کرن والے وکھرے نیں: KJV 'جھکدی سائیں' (declineth)، JPS 'لمبی ہوئی سائیں' (lengtheneth) — دونوں پڑھائیاں چلدیاں نیں۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ٹڈی دل",
+      "rationale": "ארבה ٹڈی دل اے — پنجابی وِچ ایہو وسنیک سمجھ جاندا اے، کوئی ودییا بول نئیں۔"
+    }
+  ],
+  "translation": "جیویں ڈھلدی سائیں میں ٹُر گیا آں، جیویں ٹڈی دل میں اُڈا دِتا گیا آں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "435c461fed7a48b2b615472f9cc58d672b82cf4e97ebaacf493f1e4ed725e059",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/109\/21-24.1792113697976.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כצל",
+      "gloss": "جیویں سائیں"
+    },
+    {
+      "surface": "כנטותו",
+      "gloss": "جیویں اوہدے جھکن تے"
+    },
+    {
+      "surface": "נהלכתי",
+      "gloss": "میں ٹُر گیا آں"
+    },
+    {
+      "surface": "ננערתי",
+      "gloss": "میں اُڈا دِتا گیا آں"
+    },
+    {
+      "surface": "כארבה",
+      "gloss": "جیویں ٹڈی دل"
+    }
+  ],
+  "timestamp": "2026-10-16T01:21:37.977641854Z",
+  "model": "glm-5.3"
+}

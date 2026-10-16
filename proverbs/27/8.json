@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 27:8",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נודדת\/נודד",
+      "rationale": "اکو فعل نالsimile دا جوڑ — چِڑی تے بندے اُتے اکو لفظ، پنجابی وِچ 'اُڈ جانا\/پھرنا' وشکار مطلب رکھدا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "اپنے\/اپنی",
+      "rationale": "عبرانی وِچ ضمیر صرف ממקומו وِچ اے؛ آہلے نال پنجابی واسطے 'اپنے' جوڑنا پیندا اے"
+    }
+  ],
+  "translation": "جیویں چِڑی اپنے آہلے توں اُڈ جاندی اے، اویں ای بندہ اپنی تھاں توں پھردا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ecf70c51ac4394523a4be221211784d1789f6bf649666812e138ca37d67919a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/27\/5-8.1792115202028.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כצפור",
+      "gloss": "جیویں چِڑی"
+    },
+    {
+      "surface": "נודדת",
+      "gloss": "اُڈ جاندی اے"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "اپنے آہلے"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اویں ای"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "נודד",
+      "gloss": "پھردا اے"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "اپنی تھاں توں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:46:42.029501785Z",
+  "model": "glm-5.3"
+}

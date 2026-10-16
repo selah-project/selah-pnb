@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 45:1",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "על שושנים",
+      "rationale": "سُوسن اُتے — ساز دا ناں اے یا دھُن دا، 'کميلے اُتے' یا 'سُوسن دے گیت اُتے'؛ حرف-نقل رکھیا گیا۔"
+    },
+    {
+      "kind": "hapax",
+      "subject": "ידידות",
+      "rationale": "ਯਦיצੂਤ — 'پیاراں' دی جمع، تنخ وِچ صرف ایتھے؛ اِکو پیار نئیں، پیاراں دا بہووچن۔"
+    }
+  ],
+  "translation": "مُنتظم لئی، گلِ سُوسن ⟨اُتے⟩، قورح دیاں اولاداں لئی — اِک سلعانہ نظم، پیاراں دا گیت۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2f0ced1bac9db241d0082f3c5f0d669dda6b700031a2644694911d4ac6ca1979",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/45\/1-4.1792112587486.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "مُنتظم لئی"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨اُتے⟩"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "گلِ سُوسن"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "دیاں اولاداں لئی"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورح"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "سلعانہ نظم"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "گیت"
+    },
+    {
+      "surface": "ידידת",
+      "gloss": "پیاراں دا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:03:07.487354036Z",
+  "model": "glm-5.3"
+}

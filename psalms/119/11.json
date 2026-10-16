@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "گناہ",
+      "rationale": "אחטא دا مُڈھلا مطلب 'نس جانا \/ نشانہ چُکّنا' اے — 'گناہ' پکی مذہبی صورت اے۔"
+    }
+  ],
+  "translation": "دل وِچ میں تیری گل لُکائی اے، تاں جو تیرے خلاف گناہ نہ کرےآں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "dc235ddb44b36c6fa72b283d64820a10dbee3cc83c52b6377d9b22d699f789da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/119\/9-12.1792113843257.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "دل وِچ"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "لُکائی اے"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "تیری گل"
+    },
+    {
+      "surface": "למען",
+      "gloss": "تاں جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "گناہ کرےآں"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیرے خلاف"
+    }
+  ],
+  "timestamp": "2026-10-16T01:24:03.258792514Z",
+  "model": "glm-5.3"
+}

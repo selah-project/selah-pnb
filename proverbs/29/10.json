@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 29:10",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جان بل کیتی اے، 'روح' نئیں — 'اوہدی جان دی کھوج' یعنی اوہدی بچاؤ دی منگ"
+    },
+    {
+      "kind": "crux",
+      "subject": "יבקשו נפשו",
+      "rationale": "'اوہدی جان ڈھوندے نیں' — بچاؤ لئی یا نقصان لئی؟ سیاق نفرت دے اُلٹ بچاؤ دسدا اے"
+    }
+  ],
+  "translation": "لہو والے بندے نیک بندے نالوں نفرت کردے نیں، تے سیدھے لوک اوہدی جان دی کھوج کردے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "347ef1b7fd26606cb72ca8827d1dac8af4e3dfd81df4fa4c33b5ccf0a2e8e397",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/29\/9-12.1792115145317.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "لہو والے"
+    },
+    {
+      "surface": "ישנאו",
+      "gloss": "نفرت کردے نیں"
+    },
+    {
+      "surface": "תם",
+      "gloss": "نیک"
+    },
+    {
+      "surface": "וישרים",
+      "gloss": "تے سیدھے"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "کھوج کردے نیں"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "اوہدی جان"
+    }
+  ],
+  "timestamp": "2026-10-16T01:45:45.318722531Z",
+  "model": "glm-5.3"
+}

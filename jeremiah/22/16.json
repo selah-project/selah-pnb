@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 22:16",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דן דין",
+      "rationale": "فعل تے اسم اکو جڑ توں — 'اُوں فیصلہ فیصلہ کردا سی' — پنجابی وچ فقرے دی جوڑ پھٹ جاندی اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "הלוא היא הדעת אתי",
+      "rationale": "'کیہ ایہو نئیں کہ مینوں جاندا سی' — مصنف دا سوال، یاہوہ نال جان-پچھان دا پیمانہ غریب دا انصاف"
+    }
+  ],
+  "translation": "اُوں غریب تے محتاج دا مقدمہ فیصلہ کردا سی، تدوں چنگا سی — کیہ ایہو نئیں کہ مینوں ⟨את⟩ جاندا سی؟ یاہوہ آکھدا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "595f8afa3fda109e88f91dea547e4d85141492c6fa3094d802d0390662876682",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/22\/13-16.1792107836355.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "اُوں فیصلہ کردا سی"
+    },
+    {
+      "surface": "דין",
+      "gloss": "مقدمہ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "غریب دا"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "تے محتاج دا"
+    },
+    {
+      "surface": "אז",
+      "gloss": "تدوں"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگا سی"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "کیہ نئیں"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ایہو"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "جاننا"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "مینوں"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "آکھدا اے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-10-15T23:43:56.356412428Z",
+  "model": "glm-5.3"
+}

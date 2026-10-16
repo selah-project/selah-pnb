@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 3:1",
+  "book": "ezekiel",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "حزقیل",
+      "rationale": "رْب دا سدّا حُکم آدم دے پتر (حزقیل) نوں: کھا تے جا کے آکھ۔"
+    },
+    {
+      "kind": "invitation",
+      "subject": "حُکم دی لڑی",
+      "rationale": "تن اِمریتِو زُباناں — کھا، جا، آکھ — متن پڑھن والے نوں وی کھِچدِیاں نیں۔"
+    },
+    {
+      "kind": "elision",
+      "subject": "مینوں",
+      "rationale": "عبرانی وِچ کریا نال لگا ضمیر اے (ויאמר אלי)، پنجابی نے وکھو وکھ لفظ منگے۔"
+    }
+  ],
+  "translation": "تے اوہنے مینوں آکھیا: اے آدم دے پتر، جو تُوں لَوَیں ⟨את⟩ اوہ کھا، ⟨את⟩ ایہہ کھرڑا کھا، تے جا کے یِسرائیل دے گھر نوں آکھ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "441a10aeac71e664c0f8b87082e1e091dda593eea6bd9db38bfaa21af70de85e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/3\/1-4.1792109075549.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے اوہنے آکھیا"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مینوں"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پتر"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جو تُوں لَوَیں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "تُوں لَوَیں"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "کھا"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "کھا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایہہ کھرڑا"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "کھرڑا"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "تے جا کے"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "آکھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-10-16T00:04:35.549782184Z",
+  "model": "glm-5.3"
+}

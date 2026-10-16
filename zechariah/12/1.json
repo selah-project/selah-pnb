@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 12:1",
+  "book": "zechariah",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "عبرانی وِچ جُملے دا کوئی فعل نئیں، پنجابی نے ⟨اے⟩ منگیا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "بوجھ",
+      "rationale": "משא مطلب اعلان دا بوجھ، نبوت دی سرخی دا روایتی ناں"
+    }
+  ],
+  "translation": "یِسرائیل اُتے یاہوہ دے بچن دا بوجھ ⟨اے⟩، یاہوہ آکھدا اے — جیہڑا اسماناں نوں پھیلاؤندا اے، تے دھرتی دی نیہہ رکھدا اے، تے آدمی دے روح نوں اوہدے وِچ گھڑدا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "44f3ab041d7ed0419f145c084d988af29903959b68d11b9b00c30789cc27c515",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/zechariah\/12\/1-4.1792111693851.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "بوجھ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "بچن دا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "آکھدا اے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "پھیلاؤندا اے"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "اسماناں نوں"
+    },
+    {
+      "surface": "ויסד",
+      "gloss": "تے نیہہ رکھدا اے"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "دھرتی"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "تے گھڑدا اے"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "اوہدے وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T00:48:13.852142167Z",
+  "model": "glm-5.3"
+}

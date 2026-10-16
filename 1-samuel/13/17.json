@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 13:17",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ראשים",
+      "rationale": "لفظی 'سراں' اے — ٹولیاں دے سر\/دَلے؛ 'ٹولیاں' وضاحت لئی ⟨⟩ وِچ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "تِن سر",
+      "rationale": "ٹولیاں دی گنتی — تِن"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ראשים\/הראש",
+      "rationale": "'سراں' تے فیر 'اِک سر' — اِکو لفظ دا دہراؤ، لُٹ مار دے سلسلے وِچ"
+    }
+  ],
+  "translation": "تے لُٹمار کرن والا پلشتیم دے پڑاؤ توں نکلیا — تِن سراں ⟨ٹولیاں⟩ نال؛ اِک سر عفرہ دے رستے ول مُڑیا، شوعال دی زمین ول۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2df49bf26ebbae0f4dd2635862a4c6fc76d011fe6138fffef9c77ee458c8da8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/13\/17-20.1792102423592.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "تے نکلیا"
+    },
+    {
+      "surface": "המשחית",
+      "gloss": "لُٹمار کرن والا"
+    },
+    {
+      "surface": "ממחנה",
+      "gloss": "پڑاؤ توں"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "پلشتیم دے"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "تِن"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "سر"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "اِک سر"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "اِک"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "مُڑیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ول"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "رستہ"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "عفرہ دے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ول"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "شوعال دی"
+    }
+  ],
+  "timestamp": "2026-10-15T22:13:43.593351112Z",
+  "model": "glm-5.3"
+}

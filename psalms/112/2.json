@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 112:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 112,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "یبارِخ",
+      "rationale": "ممکن اے معنی ہووے 'اوہ برکت دیوے' — پر زیادہ تر ترجمے 'برکت پاؤن گی' نوں مندے نیں"
+    }
+  ],
+  "translation": "دھرتی وِچ جبار ہووےگا اوہدا بیج، سِدھیاں دی نسل برکت والی ہووےگی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d4924ae05067b5716ba309e8db4bc8e4802d406f50a70a7b1937889f1361042b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/112\/1-4.1792113678705.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "جبار"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "دھرتی وِچ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہووےگا"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "اوہدا بیج"
+    },
+    {
+      "surface": "דור",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "سِدھیاں دی"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "برکت والی ہووےگی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:21:18.706678843Z",
+  "model": "glm-5.3"
+}

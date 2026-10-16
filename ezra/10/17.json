@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezra 10:17",
+  "book": "ezra",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "date",
+      "rationale": "کار دا انتظام اِک تاریخ تک گِنیا گیا اے — پہلے مہینے دا پہلا دن۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "نکریوت",
+      "rationale": "عبرانی 'ناکریوت' اوپری\/غیر جِنیا ہویا مطلب رکھدا اے، صِرف غیرملکی نئیں۔"
+    }
+  ],
+  "translation": "تے سارے اوہ بینے مُکّ گئے جِنہاں اوپریاں تریمتیاں نوں بٹھایا سی، اکتویں پہلے مہینے دے اِک دن تک۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "32c703d9edb2e7b06e18d9a534e27769f8117fe78ad8db436a511f81e74fbb06",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezra\/10\/17-20.1792119273079.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "مُکّ گئے"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "نال سارے"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "بینےآں"
+    },
+    {
+      "surface": "ההשיבו",
+      "gloss": "بٹھائے سن"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "تریمتیاں"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "اوپریاں"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "יום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "اِک"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "مہینے دے"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "پہلے"
+    }
+  ],
+  "timestamp": "2026-10-16T02:54:33.080146318Z",
+  "model": "glm-5.3"
+}

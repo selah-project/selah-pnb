@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 17:27",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בן נכר",
+      "rationale": "مُ字ّ 'پرسوائی دا پُتر' — غیر لوکاں وِچوں اِک بندا؛ 'پرسو بندہ' واٹک اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨توں⟩ ⟨نال⟩",
+      "rationale": "מאת تے אתו دے نال پنجابی جوڑ (توں، نال) دِتے گئے — ⟨את⟩ نشان دے نال۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "گھر دے سبھے بندے",
+      "rationale": "ختنہ ہوݨ والیاں دی پوری گِنتی — گھر جمے تے چاندی نال مُنگے، دو ٹولیاں وِچ۔"
+    }
+  ],
+  "translation": "تے اُوہدے گھر دے سبھے بندے — گھر وِچ جمے ہوئے تے پرسو بندے توں ⟨את⟩ چاندی نال مُنگے ہوئے — اُوہدے نال ⟨את⟩ ختنہ کیتے گئے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a6beab6822bee82278c6e44c2cb090a89e522747cbef60b090284250f8c6948d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/17\/25-27.1792094972261.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "تے سبھے"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "اُوہدے گھر دے"
+    },
+    {
+      "surface": "יליד",
+      "gloss": "جمے ہوئے"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "ומקנת",
+      "gloss": "تے مُنگے ہوئے"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندی"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "توں ⟨את⟩"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "پرسو"
+    },
+    {
+      "surface": "נמלו",
+      "gloss": "ختنہ کیتے گئے"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "اُوہدے نال ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-10-15T20:09:32.262336596Z",
+  "model": "glm-5.3"
+}

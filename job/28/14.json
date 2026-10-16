@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 28:14",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "تہوم",
+      "rationale": "תהום گھٹے ہوئے پانیاں دا ڈوہنگا اے، 'سمندر' توں گہرا"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לא בי \/ אין עמדי",
+      "rationale": "دوواں ادھیاں وِچ اکو انکار — 'نئیں میرے وِچ'، 'نئیں میرے نال' — متوازی آہنگ"
+    }
+  ],
+  "translation": "تہوم آکھدا اے: اوہ میرے وِچ نئیں؛ تے سمندر آکھدا اے: اوہ میرے نال نئیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f65b8ed679d2b1ab378e3f5690930de30c2f0b0e6618e7a7c5e8f87e983d67fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/28\/13-16.1792116094603.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "تہوم"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھدا اے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "בי",
+      "gloss": "میرے وِچ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "וים",
+      "gloss": "تے سمندر"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھدا اے"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "میرے نال"
+    }
+  ],
+  "timestamp": "2026-10-16T02:01:34.603838694Z",
+  "model": "glm-5.3"
+}

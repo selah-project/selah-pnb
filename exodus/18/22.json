@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 18:22",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "بھار",
+      "rationale": "Hebrew ve-nase'u ittak literally 'they will lift with you'; Punjabi needs the object 'بھار' supplied in brackets."
+    },
+    {
+      "kind": "you",
+      "subject": "to Moshe",
+      "rationale": "Yitro's advice continues in direct address to Moshe."
+    }
+  ],
+  "translation": "تے اوہ ہر ویلے ⟨את⟩ قوم دا فیصلہ کرن، تے ایہہ ہووے کہ ہر وڈا معاملہ اوہ تیرے کول لیاؤن، تے ہر نکا معاملہ اوہ آپ فیصلہ کرن؛ تے ⟨ایہہ⟩ تیرے توں ہولا ہووے، تے اوہ ⟨את⟩ تیرے نال ⟨بھار⟩ چکن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "85a8c5fa058ad4f40a39c13d40b4c4cb6914fd8dd8ad14fda21132dae84ff053",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/18\/21-24.1792096624840.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושפטו",
+      "gloss": "تے فیصلہ کرن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قوم"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ویلے"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "تے ایہہ ہووے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "معاملہ"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "وڈا"
+    },
+    {
+      "surface": "יביאו",
+      "gloss": "لیاؤن"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تیرے کول"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے ہر"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "معاملہ"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "نکا"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "فیصلہ کرن"
+    },
+    {
+      "surface": "הם",
+      "gloss": "اوہ آپ"
+    },
+    {
+      "surface": "והקל",
+      "gloss": "تے ہولا ہووے"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "تیرے توں"
+    },
+    {
+      "surface": "ונשאו",
+      "gloss": "تے چکن"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ تیرے نال"
+    }
+  ],
+  "timestamp": "2026-10-15T20:37:04.841173104Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 8:21",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כרת ברית",
+      "rationale": "عبرانی سچ مُچّ 'عہد کٹیا' آکھدا اے — گوشت دے ٹکڑیاں وِچوں لنگھ کے عہد بناؤن دی پرتھا؛ پنجابی وِچ 'عہد بنایا' ریت اے"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתם",
+      "rationale": "مفعولی ضمیر ⟨את⟩ ٹبر دا نشان بن کے اوہناں دے پچھوں آؤندا اے، وکھرا لفظ نئیں"
+    }
+  ],
+  "translation": "تے میں اوتھے صندوق لئی تھاں رکھیا — جتھے اوہ عہد اے جیہڑا یاہوہ نے ساڈے پیوآں نال بنایا، جدوں اوہ ⟨את⟩ اوہناں نوں مِتصرایم دی دھرتی توں کڈھدا سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "aa28da6106495960b6f25e40efbc56f7b27b9827e93385863a3acbb500a77bf6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/8\/21-24.1792104312551.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשם",
+      "gloss": "تے میں رکھیا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اوتھے"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "تھاں"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "صندوق لئی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جتھے"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اوتھے"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "عہد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ نے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "بنایا"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "ساڈے پیوآں"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "کڈھدے ویلے"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "اوہناں نوں"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "دھرتی توں"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم دی"
+    }
+  ],
+  "timestamp": "2026-10-15T22:45:12.551659652Z",
+  "model": "glm-5.3"
+}

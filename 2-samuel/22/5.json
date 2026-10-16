@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 22:5",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משברי",
+      "rationale": "سمندر دے وڈھے\/لہراں بمقابلہ 'موت دیاں پیڑاواں' (wycliffe\/geneva) — اِکو جڑ، دو روایتاں۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אפפני\/יבעתני",
+      "rationale": "دوہرا 'مینوں' نال متوازن جوڑا — گھیرنا\/ڈرانا — پنجابی وِچ تکرار نال تھوڑا جیہا بچدا اے۔"
+    },
+    {
+      "kind": "mystery",
+      "subject": "بلیعال",
+      "rationale": "بلیعال اِک دھندلا ول-موتی لفظ اے — بے کار، بربادی، شر — ناں بندے دا نئیں۔"
+    }
+  ],
+  "translation": "کیوں جو موت دے وڈھیاں نے مینوں گھیر لیا، بلیعال دے وہیراں نے مینوں ڈرایا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b65ca0144051ef5bc38f683dc73604406e7f894bd97708628f44c79ec5eee71b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/22\/5-8.1792103732285.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אפפני",
+      "gloss": "مینوں گھیر لیا"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "وڈھیاں"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت دے"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "وہیراں"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "بلیعال دے"
+    },
+    {
+      "surface": "יבעתני",
+      "gloss": "مینوں ڈرایا"
+    }
+  ],
+  "timestamp": "2026-10-15T22:35:32.286301525Z",
+  "model": "glm-5.3"
+}

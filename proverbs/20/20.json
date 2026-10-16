@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 20:20",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "پتلی",
+      "rationale": "אישון اکھ دے پتلی دا لفظ اے — 'ہنیرے دی پتلی' یعنی سبھ توں گوڑھا ہنیرا، مورت رکھی"
+    },
+    {
+      "kind": "crux",
+      "subject": "נרו",
+      "rationale": "'اودا دِیا' — کجھ مترجم مستقبل دی امید لئی وی لیندے نیں، لفظ صرف 'دِیا' اے"
+    }
+  ],
+  "translation": "جیہڑا اپنے پیو نوں تے ماں نوں فٹکارے، اودا دیا ہنیرے دی پتلی وِچ بجھ جاوے گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "748b86903346a29a87c3c9293d10a3738c5cd48239d46e83f3222714a58e2b75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/20\/17-20.1792114917996.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מקלל",
+      "gloss": "فٹکارے"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "اپنے پیو نوں"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "تے ماں نوں"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "بجھ جاوے گا"
+    },
+    {
+      "surface": "נרו",
+      "gloss": "اودا دِیا"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "پتلی وِچ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ہنیرے دی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:41:57.997899184Z",
+  "model": "glm-5.3"
+}

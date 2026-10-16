@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 18:3",
+  "book": "joshua",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "کہ",
+      "rationale": "לבוא مصدر اے — پنجابی جوڑ 'کہ وَنج' منگدا اے"
+    },
+    {
+      "kind": "you",
+      "subject": "یِسرائیل دے پُتراں",
+      "rationale": "یہوشوع دا سِدھا خطاب — 'تُساں کدوں تک'"
+    }
+  ],
+  "translation": "تے یہوشوع نے یِسرائیل دے پُتراں نوں آکھیا: تُساں کدوں تک سُست پئے ہو او، کہ ⟨את⟩ اوس دھرتی نوں وَنج مَلو جِہڑی یاہوہ نے، تُہاڈے پیؤاں دے ایلوہیم نے، تُہاکوں دِتّی اے؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "41539cac0c1f8898f77ebb824959dfdc05f35696e8945471499554c7b57532b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joshua\/18\/1-4.1792101112068.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یہوشوع نے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "کدوں"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تُساں"
+    },
+    {
+      "surface": "מתרפים",
+      "gloss": "سُست پئے ہو او"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "کہ وَنج"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "مَلو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دھرتی"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "دھرتی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جِہڑی"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دِتّی اے"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُہاکوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ نے"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ایلوہیم نے"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "تُہاڈے پیؤاں دے"
+    }
+  ],
+  "timestamp": "2026-10-15T21:51:52.069158168Z",
+  "model": "glm-5.3"
+}

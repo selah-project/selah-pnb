@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 21:18",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "וישכב עם אבתיו",
+      "rationale": "موت دی کنائی — ‘اپنے پیوواں نال لیٹا’، سُویا نئیں"
+    },
+    {
+      "kind": "addition",
+      "subject": "دے نال",
+      "rationale": "پنجابی جملے لئی ⟨⟩ وِچ پایا"
+    }
+  ],
+  "translation": "تے مَنَشّےہ اپنے پیوواں ⟨دے نال⟩ لیٹا، تے اوہنوں دفنایا گیا اوہدے گھر دے باغ وِچ، عُزّاہ دے باغ وِچ؛ تے امان اوہدا پُتر اوہدی تھاں راج کرن لگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "786749ba22c8d02d0acd4246740a4f77ff037717b5a2c0492ab61c67e7a47b5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/21\/17-20.1792105574696.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "لیٹا"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "مَنَشّےہ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "اپنے پیوواں"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "تے اوہنوں دفنایا گیا"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "باغ وِچ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "اوہدے گھر دے"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "باغ وِچ"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "عُزّاہ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "تے راج کرن لگا"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "امان"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اوہدا پُتر"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "اوہدی تھاں"
+    }
+  ],
+  "timestamp": "2026-10-15T23:06:14.697632630Z",
+  "model": "glm-5.3"
+}

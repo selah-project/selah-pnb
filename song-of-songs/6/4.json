@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 6:4",
+  "book": "song-of-songs",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "ایتھے אַתְּ ضمیر اے (تُوں)، ہ ppl-direct-object نشان את (H853) نئیں — ⟨את⟩ دا نشان نئیں لگدا"
+    },
+    {
+      "kind": "crux",
+      "subject": "כנדגלות",
+      "rationale": "'جھنڈیاں والیاں فوجاں' ورگا اے — کُجھ 'چانݨیاں (مدرا\/نجمے)' پڑھدے نیں؛ جھنڈیاں والیاں اوہو مُڈھلی تصویر اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יפה\/נאוה",
+      "rationale": "تن سوہݨپ دے وچّوں، ہر اِک وکھرے عبرانی لفظ نال — تِرساہ تے یروشلایم دا جوڑا"
+    }
+  ],
+  "translation": "سوہنی اے تُوں، میری سجݨے، تِرساہ ورگی؛ من موہنی یروشلایم ورگی؛ ڈراؤنی جھنڈیاں والیاں ⟨فوجاں⟩ ورگی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "86deea1028d5d6cf7d803e3b0354d532e5706514d306058ad9f26c30b015fbb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/song-of-songs\/6\/1-4.1792116689613.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "سوہنی"
+    },
+    {
+      "surface": "את",
+      "gloss": "تُوں"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "میری سجݨے"
+    },
+    {
+      "surface": "כתרצה",
+      "gloss": "تِرساہ ورگی"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "من موہنی"
+    },
+    {
+      "surface": "כירושלם",
+      "gloss": "یروشلایم ورگی"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "ڈراؤنی"
+    },
+    {
+      "surface": "כנדגלות",
+      "gloss": "جھنڈیاں والیاں ورگی"
+    }
+  ],
+  "timestamp": "2026-10-16T02:11:29.614450851Z",
+  "model": "glm-5.3"
+}

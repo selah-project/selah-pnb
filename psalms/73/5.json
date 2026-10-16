@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "چھوہے جاندے نیں",
+      "rationale": "נגע 'ہتھ لاونا\/چھوہنا' اے — چوٹ پہنچنا اوہدے نزدیک ترجمانی اے"
+    }
+  ],
+  "translation": "فانی بندیاں دی محنت وِچ اوہ نئیں، تے آدمیاں نال اوہ چھوہے نئیں جاندے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8143da0610d57f3fc6288973516239412e8d24cdde86d572ca5b226efd6b77d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/73\/5-8.1792112973480.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "محنت وِچ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "فانی بندے"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "اوہ نئیں"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "تے نال"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمیاں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "چھوہے جاندے نیں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:09:33.480862875Z",
+  "model": "glm-5.3"
+}

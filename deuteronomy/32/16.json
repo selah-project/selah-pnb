@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 32:16",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בזרים",
+      "rationale": "اوپرے دیوتے — کجھ ترجمے غیر قوماں دے دیوتے آکھدے نیں؛ موازنہ 32:12 دے اوپرے دیوتے نال۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יקנאהו\/יכעی�סהו",
+      "rationale": "دو متوازی فعل — ساڑنا تے غصہ دِونا — عبرانی مصرعے دی جوڑی، پنجابی وِچوں دوناں رکھے۔"
+    }
+  ],
+  "translation": "اوہ اوپریاں دیوتیاں نال اوہنوں ساڑدے رہے، مکروہ گلاں نال اوہنوں غصہ دِتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "984ffc9bc2d68474341d88b613dbae9148e9cafd8928321bacbf4f5550c88c13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/32\/13-16.1792100579920.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יקנאהו",
+      "gloss": "اوہنوں ساڑیا"
+    },
+    {
+      "surface": "בזרים",
+      "gloss": "اوپریاں نال"
+    },
+    {
+      "surface": "בתועבת",
+      "gloss": "مکروہاں نال"
+    },
+    {
+      "surface": "יכעיסהו",
+      "gloss": "اوہنوں غصہ دِتا"
+    }
+  ],
+  "timestamp": "2026-10-15T21:42:59.922051142Z",
+  "model": "glm-5.3"
+}

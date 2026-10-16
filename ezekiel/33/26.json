@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 33:26",
+  "book": "ezekiel",
+  "lang": "pnb",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "עמדתם על חרבכם",
+      "rationale": "تلوار اُتے کھلونا = تلوار اُتے بھروسا کرنا (bSB) — حرفی مورت رکھی اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "תירשו",
+      "rationale": "اقراریہ فعل اے پر سیاق سوال منگدا اے: 'کی تسیں دھرتی ورثے وِچ لَو گے؟'"
+    }
+  ],
+  "translation": "تسیں اپنی تلوار اُتے کھلوندے او، کریہت کردے او، تے ہر بندہ ⟨את⟩ اپنے یار دی زنانی نوں میلا کردا اے — تے دھرتی تسیں ورثے وِچ لَو گے؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1dd639c70eae9bc38f827517e9b76bcfed36093e2b8ebe75eded3ecd51e14f53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/33\/25-28.1792109951290.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עמדתם",
+      "gloss": "تسیں کھلوندے او"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "חרבכם",
+      "gloss": "تہاڈی تلوار"
+    },
+    {
+      "surface": "עשיתן",
+      "gloss": "تسیں کردے او"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "کریہت"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "تے ہر بندہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنے یار دی زنانی نوں"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "زنانی"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "اُہدے یار دی"
+    },
+    {
+      "surface": "טמאתם",
+      "gloss": "میلا کردا اے"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "تے دھرتی"
+    },
+    {
+      "surface": "תירשו",
+      "gloss": "تسیں ورثے وِچ لَو گے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:19:11.291770164Z",
+  "model": "glm-5.3"
+}

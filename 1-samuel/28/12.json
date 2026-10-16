@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 28:12",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ایں",
+      "rationale": "عبرانی وِچ کوپولا نئیں — “تے تُوں شاؤل”؛ پنجابی جملہ “ایں” منگدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ٹٹّیا",
+      "rationale": "רמה دا مُڈھلا مطلب سُٹّنا\/دھوکھا دینا — ایتھے دھوکھے نوں ٹٹّن دے نال لیاندا اے"
+    }
+  ],
+  "translation": "تے زنانی نے ⟨את⟩ شموایل نوں ویکھیا تے وڈی آواز نال چیک ماری، تے زنانی نے شاؤل توں آکھیا: “کیوں مینوں ٹٹّیا اے؟ تے تُوں ⟨ایہ⟩ شاؤل ایں۔”",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ec0a09f773261b76ecf72cc7eb340c3872193fdc1bfc35e972214acaf1ae316a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/28\/9-12.1792102929312.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "تے ویکھیا"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "زنانی نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شموایل نوں"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموایل"
+    },
+    {
+      "surface": "ותזעק",
+      "gloss": "تے چیک ماری"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "آواز نال"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وڈی"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "زنانی نے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "توں"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ کے"
+    },
+    {
+      "surface": "למה",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "רמיתני",
+      "gloss": "مینوں ٹٹّیا اے"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "تے تُوں"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    }
+  ],
+  "timestamp": "2026-10-15T22:22:09.313887528Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 24:19",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "גזל",
+      "rationale": "שאול חטאو وِچ فعل مُڑ واریں پہلے جملے توں منگیا جاندا اے — ⟨کھوہ لیندا اے⟩ بریکٹاں نال دتا۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "شیول",
+      "rationale": "D2 قاعدے مطابق شیول — موت دا تھاں، عدالت دا نئیں۔"
+    }
+  ],
+  "translation": "سُکائی تے گرمی برف دے پانیاں نوں کھوہ لیندیاں نیں؛ ایسے طرح شیول گناہگاراں نوں ⟨کھوہ لیندا اے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "413a27be091c0d8942678c66a29ee6385c11d96b0bd12cf7b2ce050ce76ee944",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/24\/17-20.1792116117722.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ציה",
+      "gloss": "سُکائی"
+    },
+    {
+      "surface": "גם",
+      "gloss": "تے"
+    },
+    {
+      "surface": "חם",
+      "gloss": "گرمی"
+    },
+    {
+      "surface": "یגזלו",
+      "gloss": "کھوہ لیندیاں نیں"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "پانیاں نوں"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "برف دے"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شیول"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "گناہگاراں نوں"
+    }
+  ],
+  "timestamp": "2026-10-16T02:01:57.723685329Z",
+  "model": "glm-5.3"
+}

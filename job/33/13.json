@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 33:13",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "ایلیہو ایوب نوں",
+      "rationale": "سمت پچھوکڑ اے — ایہناں آیتاں وِچ تاں نئیں، پر بھاشن اِک بندے نوں مخاطب اے (پیدائش نئیں، ایوب 33)۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "لא יענה",
+      "rationale": "KJV 'giveth not account' vs JPS 'will not answer' — عبرانی کہندا اے 'جواب نئیں دیندا'۔"
+    }
+  ],
+  "translation": "کیوں اوہدے نال جھیڑا لاوندا ایں؟ کیونجے اوہ اپنیاں ساریاں گلاں دا جواب نئیں دیندا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "94d11776796b992b52023942acad62db9c17102950dc015c9c277aaec71b3bb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/33\/13-14.1792124285655.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اوہدے نال"
+    },
+    {
+      "surface": "ריבות",
+      "gloss": "جھیڑا لاوندا ایں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساریاں"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "اوہدیاں گلاں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "جواب دیندا"
+    }
+  ],
+  "timestamp": "2026-10-16T04:18:05.656173239Z",
+  "model": "glm-5.3"
+}

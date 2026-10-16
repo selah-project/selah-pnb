@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "psalms 105:4",
+      "rationale": "تین امری سدیاں — یاہوہ، اوہدی طاقت تے اوہدا چہرہ لبھن نوں۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דרשו \/ בקשו",
+      "rationale": "'لبھو' دا دو واری آؤنا عبرانی دے دو وکھرے لبھن والیاں کریاں نوں کچھ دیند اے۔"
+    }
+  ],
+  "translation": "یاہوہ نوں لبھو تے اوہدی طاقت نوں، اوہدا چہرہ ہمیشہ لبھو۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "479a558f69a2717c6e0fa80ca306f14c443e691993689c0e8f6caefdabacf49b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/105\/1-4.1792113603395.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "لبھو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ نوں"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "تے اوہدی طاقت نوں"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "لبھو"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "اوہدا چہرہ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ہمیشہ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:20:03.396836207Z",
+  "model": "glm-5.3"
+}

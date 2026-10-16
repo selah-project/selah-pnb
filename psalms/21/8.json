@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 21:8",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "خیسِد",
+      "rationale": "חסד اِکو ویلے رحم، وفاداری تے چنگیائی اے؛ کوئی اِک پنجابی لفظ اوہدے پورے نئیں ہوندا"
+    },
+    {
+      "kind": "alternative",
+      "subject": "علیون",
+      "rationale": "'سب توں اُچے' دی تھاں لقب دے طور تے 'ایل عِلیون' وی جائز اے، پر ایتھے ایہ صفت اے ناں نئیں"
+    }
+  ],
+  "translation": "کیونکہ بادشاہ یاہوہ اُتے بھروسہ رکھدا اے، تے سب توں اُچے دے خیسِد ⟨نال⟩ اوہ نئیں ہلیگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9140d3c7680f8657d0052707d2e345ceeb481beecb6969b3c1527dbe66c04aad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/21\/5-8.1792112098496.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "بھروسہ رکھدا اے"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "یاہوہ اُتے"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "تے خیسِد"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "سب توں اُچے دے"
+    },
+    {
+      "surface": "בל",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "ہلیگا"
+    }
+  ],
+  "timestamp": "2026-10-16T00:54:58.497536080Z",
+  "model": "glm-5.3"
+}

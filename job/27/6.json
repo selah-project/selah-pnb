@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 27:6",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨مینوں⟩",
+      "rationale": "عبرانی وِچ صیغہ 'میرا دل مینوں لمبھسی' دا 'مینوں' کلمے وِچ رلا کے دسدا اے؛ پنجابی لئی وکھرا ضروری۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "יחרף מימי",
+      "rationale": "مطلب 'میرے جیوندے دناں وِچ' یا 'میرے دناں توں'; مترجماں دوویں پاسے گئے نیں۔"
+    }
+  ],
+  "translation": "میں اپنی راستبازی نوں مظبوط پھڑیا اے تے اوہنوں نئیں چھڈاں گا؛ میرے سارے دِناں وِچ میرا دل ⟨مینوں⟩ نئیں لمبھسی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0934fe33eea176bbf262959dfada883b99561d0ad27bccec034829090a68ff18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/27\/5-8.1792116073781.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בצדקתי",
+      "gloss": "میری راستبازی"
+    },
+    {
+      "surface": "החזקתי",
+      "gloss": "مظبوط پھڑیا اے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "ארפה",
+      "gloss": "چھڈاں گا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "لمبھسی"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "میرا دل"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "میرے سارے دِناں وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T02:01:13.782406106Z",
+  "model": "glm-5.3"
+}

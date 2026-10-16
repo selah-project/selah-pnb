@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 14:10",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ہتھ لائےگا",
+      "rationale": "לגעת دا مطلب 'چھونا\/ہتھ لانا' اے — پنجابی وِچ 'ہتھ لانا' اوہو تصویر رکھدا اے۔"
+    },
+    {
+      "kind": "idiom",
+      "subject": "יסיף עוד",
+      "rationale": "'ہور ودھاوے' — پنجابی وِچ اِک 'ہور' کافی اے، دونواں ٹوکن رکھے گئے نیں۔"
+    }
+  ],
+  "translation": "تے بادشاہ نے آکھیا: جو کوئی تیرے نال آکھے، اوہنوں میرے کول لیاؤ، تے اوہ ہور تینوں ہتھ نئیں لائےگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b1802e3378ad2be28406f9b4f91b7775b657e4cff246c88d03f7a3dcf2f4eb18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/14\/9-12.1792103421602.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ نے"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "جو کوئی آکھے"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تیرے نال"
+    },
+    {
+      "surface": "והבאתו",
+      "gloss": "اوہنوں لیاؤ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میرے کول"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "ہور"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ہور"
+    },
+    {
+      "surface": "לגעת",
+      "gloss": "ہتھ لائےگا"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تینوں"
+    }
+  ],
+  "timestamp": "2026-10-15T22:30:21.603515369Z",
+  "model": "glm-5.3"
+}

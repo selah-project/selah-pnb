@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 7:18",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "زور لا گئے",
+      "rationale": "גברו دا مول 'تَکڑے\/غالب ہوئے' — سیلاب دی طاقت دا عبرانی تصور۔"
+    },
+    {
+      "kind": "idiom",
+      "subject": "پانیاں دے مُکھ اُتے",
+      "rationale": "'על פני המים' شبدی ترجمہ رکھیا — 'پانی دا اگلا حصہ'۔"
+    }
+  ],
+  "translation": "تے پانی زور لا گئے تے دھرتی اُتے بہت وادھو ہوئے، تے چاٹی پانیاں دے مُکھ اُتے ٹُر گئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ddb23997888ca2d933c65acc8d0e438d0dbaaf5007e29b5e40cedd0ed83f7c1a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/7\/17-20.1792094807155.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגברו",
+      "gloss": "تے زور لا گئے"
+    },
+    {
+      "surface": "המים",
+      "gloss": "پانی"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "تے وادھو ہوئے"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بہت"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "دھرتی"
+    },
+    {
+      "surface": "ו תלך",
+      "gloss": "تے ٹُر گئی"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "چاٹی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مُکھ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "پانیاں دے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:06:47.156321694Z",
+  "model": "glm-5.3"
+}

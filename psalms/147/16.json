@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "پالا",
+      "rationale": "כפור دی bu'as شتاب بُنیادی مطلب 'کپا' اے — ایتھے پالا (ہاڑے دی اِک خاص قسم) کھِنڈایا جاندا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "اوہ",
+      "rationale": "عبرانی وِچ فعل دا کردار پچھلی آیت توں آیا اے، پنجابی نوں اوہ چاہیدا"
+    }
+  ],
+  "translation": "اوہ برف نوں اُنّ ورگا دیندا اے، پالا نوں سوآہ ورگا کھِنڈا دیندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "378e2b0a21659f407e229e0d119048b6765719cbd9ac9f0f2cfe5281e25cdf2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/147\/16-16.1792124190019.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "دیندا اے"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "برف"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "اُنّ ورگا"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "پالا"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "سوآہ ورگا"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "کھِنڈا دیندا اے"
+    }
+  ],
+  "timestamp": "2026-10-16T04:16:30.019470012Z",
+  "model": "glm-5.3"
+}

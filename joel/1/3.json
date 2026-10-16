@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 1:3",
+  "book": "joel",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "preposition expanded",
+      "rationale": "عِلِیها اِک لفظ اے 'ایس بارے' — پنجابی دو لفظ منگدا اے"
+    }
+  ],
+  "translation": "ایس بارے اپنے پُتراں نوں دَسّو، تے تُہاڈے پُتر اپنے پُتراں نوں، تے اوہناں دے پُتر دوجی پیڑھی نوں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "45ec4144656b393b5be42ca51f70630482d559c7d6c577947af9d11450d8110e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joel\/1\/1-4.1792110652294.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עליה",
+      "gloss": "ایس بارے"
+    },
+    {
+      "surface": "לבניכם",
+      "gloss": "تُہاڈے پُتراں نوں"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "دَسّو"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "تے تُہاڈے پُتر"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "اپنے پُتراں نوں"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "تے اوہناں دے پُتر"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "پیڑھی نوں"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "دوجی"
+    }
+  ],
+  "timestamp": "2026-10-16T00:30:52.295129537Z",
+  "model": "glm-5.3"
+}

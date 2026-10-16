@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 23:4",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "עבות",
+      "rationale": "עבופ اس صورت وِچ تنخ وِچ اِکو واری آؤندا اے — گھنے بادل\/ہنیر"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨اُگدا⟩",
+      "rationale": "عبرانی گھا نوں صرف اسم رکھدا اے؛ پنجابی جملے لئی فعل پایا گیا"
+    },
+    {
+      "kind": "crux",
+      "subject": "מנגה ממטר",
+      "rationale": "چمک توں تے مینہہ توں — مطلب 'مینہہ مگروں چمک' یا 'چمک تے مینہہ دوویں' — مشہور اختلاف"
+    }
+  ],
+  "translation": "تے اوہ سویر دے چانݨ وانگوں اے، جد سورج چڑھدا اے — سویر بِناں بادلاں — چمک توں، مینہہ توں، دھرتی دا گھا ⟨اُگدا⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c277934e0e38c1ec7f1cb3759eae4009c23fb883d4aaffa2975176497c0d45c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/23\/1-4.1792103866480.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכאור",
+      "gloss": "تے چانݨ وانگوں"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "سویر دے"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "چڑھدا اے"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "سورج"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "سویر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "بادل"
+    },
+    {
+      "surface": "מנגה",
+      "gloss": "چمک توں"
+    },
+    {
+      "surface": "ממטר",
+      "gloss": "مینہہ توں"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "گھا"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "دھرتی توں"
+    }
+  ],
+  "timestamp": "2026-10-15T22:37:46.481518253Z",
+  "model": "glm-5.3"
+}

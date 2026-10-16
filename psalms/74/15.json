@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 74:15",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "איתן",
+      "rationale": "'مضبوط\/سدا وَگدا' — کجھ ترجمے 'طاقتور' آکھدے نیں، کجھ 'ہمیشہ چلدا'۔"
+    },
+    {
+      "kind": "alternative",
+      "subject": "הובשת",
+      "rationale": "جڑ ی-ב-ش 'شرمناک ہونا' تے 'سُک جانا' دوویں — ایتھے پانی سُکاوے دا مطلب اے۔"
+    }
+  ],
+  "translation": "توں نے چشمہ تے نالا پھاڑ کھولھیا؛ توں نے سدا وَگدے دریا سُکا دتے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e380654d7fe66c6dd0049f625c92bb1a533cbbc6c38bf76f3da97a9022af5cab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/74\/13-16.1792113005614.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "توں"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "پھاڑ کھولھیا"
+    },
+    {
+      "surface": "مעין",
+      "gloss": "چشمہ"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "تے نالا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "توں"
+    },
+    {
+      "surface": "הובשת",
+      "gloss": "سُکا دتا"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "سدا وَگدے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:10:05.615520461Z",
+  "model": "glm-5.3"
+}

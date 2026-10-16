@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 22:12",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "سلیماں نوں",
+      "rationale": "داوِد دا دعا-پیغام ہور وی سلیماں نوں اِیے اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "تاں جے",
+      "rationale": "پنجابی وِچ مقصد دا رشتہ دسن لئی جوڑ لازمی اے، عبرانی وِچ صرف infinitive construct وِ_ITER لשמור اے۔"
+    }
+  ],
+  "translation": "بیشک یاہوہ تینوں عقل تے سمجھ دوے، تے تینوں یِسرائیل اُتے حکم دےوے، تاں جے توں اپنے ایلوہیم یاہوہ دی تورات دی ⟨את⟩ نگہبانی کرےیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ba88944f0ecad370abea87942c98146394167862aa7fc3ea902e00d2049d0bcb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/22\/9-12.1792121282455.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "بیشک"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دویگا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تینوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "عقل"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "تے سمجھ"
+    },
+    {
+      "surface": "ויצוך",
+      "gloss": "تے تینوں حکم دےوے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "ולשמור",
+      "gloss": "تے نگہبانی کرن لئی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تورات"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "تورات"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تیرے ایلوہیم دا"
+    }
+  ],
+  "timestamp": "2026-10-16T03:28:02.456596755Z",
+  "model": "glm-5.3"
+}

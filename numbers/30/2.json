@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 30:2",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "عبرانی وِچ کوپولا نئیں، پنجابی جملے نے منگیا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "سردار",
+      "rationale": "ראשי حرفی 'سِراں' اے — قبیلےآں دے سِر، پنجابی 'سردار' قدرتی بند اے"
+    }
+  ],
+  "translation": "تے موشے نے یِسرائیل دے پُتراں دے قبیلےآں دے سرداراں کول بولیا، آکھدا: ایہ اوہ گل اے جیہڑی یاہوہ نے حکم کیتی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4f45dac93f39300938963c42701e97ecf03234ff69b3111d23558a7b8f4eba09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/30\/1-4.1792099265019.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "بولیا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "سرداراں"
+    },
+    {
+      "surface": "המטות",
+      "gloss": "قبیلےآں دے"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "پُتراں دے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھدا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "اوہ گل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم کیتی اے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-10-15T21:21:05.020393429Z",
+  "model": "glm-5.3"
+}

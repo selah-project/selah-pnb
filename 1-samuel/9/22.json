@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 9:22",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "تِیہہ بندے",
+      "rationale": "مہماناں دی گنتی دسی گئی اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "سن",
+      "rationale": "عبرانی وِچ کوئی کریا نئیں، پنجابی نوں 'سن' چاہیدا اے"
+    }
+  ],
+  "translation": "تے شموایل نے ⟨את⟩ شاؤل نوں تے ⟨את⟩ اوہدے نوجوان نوں لَے کے اوہناں نوں سِیہڑ-کمرے وِچ لے گیا، تے اوہناں نوں بلائیاں ہویاں وِچ سر دی تھاں دِتی، تے اوہ تقریباً تِیہہ بندے سن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "88561222bcb605aca7e0f93cd2e633a631bca7efc5704c639632b6b6296854e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/9\/21-24.1792102422247.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "تے-لیا"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموایل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شاؤل"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "اوہدا-نوجوان"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "اوہدا-نوجوان"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "تے-اوہناں-نوں-لیا-گیا"
+    },
+    {
+      "surface": "לשכתה",
+      "gloss": "سِیہڑ-کمرے-وِچ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "تے-دِتی"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اوہناں-نوں"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "تھاں"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "سر-دی"
+    },
+    {
+      "surface": "הקרואים",
+      "gloss": "بلائیاں-ہویاں-وِچ"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "تے-اوہ"
+    },
+    {
+      "surface": "כשלשים",
+      "gloss": "تقریباً-تِیہہ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندے"
+    }
+  ],
+  "timestamp": "2026-10-15T22:13:42.248867855Z",
+  "model": "glm-5.3"
+}

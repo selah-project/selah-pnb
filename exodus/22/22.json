@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 22:22",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ענה תענה \/ צעק יצעק \/ שמע אשמע",
+      "rationale": "مصدر مطلق دا دوہراوَں — پنجابی وِچ \"ستّ کے ستاؤ\"، \"چیخ کے چیخے\"، \"سُن کے سُناں\" نال زور دا اثر رکھیا گیا اے"
+    }
+  ],
+  "translation": "جے ستّ کے ستاؤ ⟨אתו⟩ اوہنوں، کیونکہ جے اوہ مینوں چیخ کے چیخے، تاں سُن کے سُناں گا اوہدیاں چیخاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9d0cc3bbf40d6230cab9c525993394b79a1b331df03b195daefc77b66308228a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/22\/21-24.1792096716579.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "ستّ کے"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "ستاؤ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "اوہنوں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "צעק",
+      "gloss": "چیخ کے"
+    },
+    {
+      "surface": "یצעק",
+      "gloss": "چیخے"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مینوں"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سُن کے"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "سُناں گا"
+    },
+    {
+      "surface": "צעקתו",
+      "gloss": "اوہدیاں چیخاں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:38:36.580614283Z",
+  "model": "glm-5.3"
+}

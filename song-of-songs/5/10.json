@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 5:10",
+  "book": "song-of-songs",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דגול מרבבה",
+      "rationale": "'دَہ ہزاراں وِچوں پرچم-وانگ اُچیچا' بنام 'چُنیا ہویا' (KJV chiefest) — جڑ דגל پرچم اے، تصویر اوہدی اے جیہڑا پرچم وانگ نظر آؤندا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "کوپولا عبرانی وِچ نئیں"
+    }
+  ],
+  "translation": "میرا محبوب چمکدا ہویا تے رَتّا ⟨اے⟩، دَہ ہزاراں وِچوں پرچم-وانگ اُچیچا ⟨اے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "683dc488b1be97ca2072cb6d26549d713d2e61ac8ac4bfa757045f65556c416f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/song-of-songs\/5\/9-12.1792116657610.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "میرا محبوب"
+    },
+    {
+      "surface": "צח",
+      "gloss": "چمکدا ہویا"
+    },
+    {
+      "surface": "ואדום",
+      "gloss": "تے رَتّا"
+    },
+    {
+      "surface": "דגול",
+      "gloss": "پرچم-وانگ اُچیچا"
+    },
+    {
+      "surface": "מרבבה",
+      "gloss": "دَہ ہزاراں وِچوں"
+    }
+  ],
+  "timestamp": "2026-10-16T02:10:57.611587054Z",
+  "model": "glm-5.3"
+}

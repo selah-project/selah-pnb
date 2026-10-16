@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 93:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 93,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נשאו...נשאו...ישאו",
+      "rationale": "چُکن دا فعل تن واری، دریا تن واری — تِناں جُملیاں دی تال"
+    },
+    {
+      "kind": "hapax",
+      "subject": "דכים",
+      "rationale": "דֳּכִי سارے تنخ وِچ صرف ایتھے، موجاں دا شور مار کے ٹُٹنا"
+    },
+    {
+      "kind": "you",
+      "subject": "یاہوہ",
+      "rationale": "ندائی خطاب — اے یاہوہ"
+    }
+  ],
+  "translation": "دریا چُکّے نیں، اے یاہوہ، دریا چُکّے نیں ⟨اپنی⟩ آواز، دریا چُکن گے اپنیاں شور ماریاں موجاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "831a0ae960a4e0f13d21c2fd8125f15c5390ff0b98d3dcc9db00ad1b9e5d9efa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/93\/1-4.1792113438026.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשאו",
+      "gloss": "چُکّے نیں"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "چُکّے نیں"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "چُکن گے"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "דכים",
+      "gloss": "شور ماریاں موجاں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:17:18.027346693Z",
+  "model": "glm-5.3"
+}

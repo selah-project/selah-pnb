@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 34:12",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חריה",
+      "rationale": "חֹר ‘چِٹا\/سِرومنی’ توں ‘اوہدے امیر’ — وِیلی چھاپ دے پنجابے ‘بادشاہ نوں بلاے گے’ وِچ ‘امیر’ نوں فاعل منگدے نیں"
+    },
+    {
+      "kind": "elision",
+      "subject": "אפס",
+      "rationale": "لفظی ‘نتائین\/مُک’ — پنجابی ‘مُکے ہوئے’ دھرکے رکھیا اے"
+    }
+  ],
+  "translation": "اوہدے امیر — اُتھے کوئی نہ ہووے؛ پاتشاہی نوں پکاریا جاوے گا تے اوہدے سارے سردار مُک جانگے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "31e1321b6205f10e684ddf76cf386a26c834645a4bb0a7dfd78470d0518dfcfc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/34\/9-12.1792106546904.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חריה",
+      "gloss": "اوہدے امیر"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "تے کوئی نئیں"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُتھے"
+    },
+    {
+      "surface": "מלוכה",
+      "gloss": "پاتشاہی"
+    },
+    {
+      "surface": "יקرאו",
+      "gloss": "پکاریا جاوے گا"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سارے"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "اوہدے سردار"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ہونگے"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "مُکے ہوئے"
+    }
+  ],
+  "timestamp": "2026-10-15T23:22:26.905674734Z",
+  "model": "glm-5.3"
+}

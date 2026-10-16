@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ایں",
+      "rationale": "عبرانی وِچ کوئی کاپلا نئیں؛ پنجابی 'توں … ایں' منگدی اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "نعرے",
+      "rationale": "רני 'مُکتی دا اُچل اِشارہ\/شاؤٹ' اے؛ 'گیت' (کےویو) ہولی اے"
+    },
+    {
+      "kind": "you",
+      "subject": "یاہوہ",
+      "rationale": "سدیا ہویا خطاب — مسیحی نئیں، یاہوہ الٰہی نوں"
+    }
+  ],
+  "translation": "توں میرے لئی پناہ ایں؛ تنگی توں توں مینوں راکھیں گا؛ مُکتی دے نعرے نال توں مینوں گھیریں گا۔ سِلاہ",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "929057b53e058c483a4deb1586a4e22673d6879e0027ed784a7b0d1bb6aaec36",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/32\/5-8.1792112364162.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "توں"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "پناہ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرے لئی"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "تنگی"
+    },
+    {
+      "surface": "תצרני",
+      "gloss": "توں مینوں راکھیں گا"
+    },
+    {
+      "surface": "רני",
+      "gloss": "نعرے"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "مُکتی دے"
+    },
+    {
+      "surface": "תסובבני",
+      "gloss": "توں مینوں گھیریں گا"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سِلاہ"
+    }
+  ],
+  "timestamp": "2026-10-16T00:59:24.163370226Z",
+  "model": "glm-5.3"
+}

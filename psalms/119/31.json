@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 119:31",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "یاہوہ نوں",
+      "rationale": "ایتھے دعا سدھی یاہوہ نوں اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "آ",
+      "rationale": "پکار دا لفظ، عبرانی وِچ صرف ناں اے۔"
+    }
+  ],
+  "translation": "میں تیریاں گواہیاں نال چمبڑیا ہاں، یاہوہ آ، می نوں شرم نا کروا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e97814e108f576a7b1560365e2fd281f50dcdf79a62f5e63efca382eb4c6291c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/119\/30-31.1792124203870.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבקתי",
+      "gloss": "میں چمبڑیا ہاں"
+    },
+    {
+      "surface": "בעדותיך",
+      "gloss": "تیریاں گواہیاں نال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ آ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תבישני",
+      "gloss": "می نوں شرم کروا"
+    }
+  ],
+  "timestamp": "2026-10-16T04:16:43.870689834Z",
+  "model": "glm-5.3"
+}

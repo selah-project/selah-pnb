@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 8:10",
+  "book": "ezra",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "census",
+      "rationale": "Continuation of the return-census list."
+    },
+    {
+      "kind": "crux",
+      "subject": "Shelomith",
+      "rationale": "The text names the ancestor Shelomith but no head of the family — versions supply a name or read 'son of Josiphiah' as the head."
+    }
+  ],
+  "translation": "تے شیلومیت دے پُتراں وِچوں یوسِفیَا دا پُتر، تے اوہدے نال اِک سو ساٹھ نَر۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "541e9952b427743723e80862aa5875b93e47435f17961abfdbb3d52f5983699b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezra\/8\/9-12.1792119212112.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "تے پُتراں وِچوں"
+    },
+    {
+      "surface": "שלומית",
+      "gloss": "شیلومیت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "יוספיה",
+      "gloss": "یوسِفیَا"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "تے اوہدے نال"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "اِک سو"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ساٹھ"
+    },
+    {
+      "surface": "הזכרים",
+      "gloss": "نَر"
+    }
+  ],
+  "timestamp": "2026-10-16T02:53:32.113898066Z",
+  "model": "glm-5.3"
+}

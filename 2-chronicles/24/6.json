@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 24:6",
+  "book": "2-chronicles",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "یہویاداع",
+      "rationale": "بادشاہ دا سوال سدھا سردار کاہن یہویاداع ولے۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "עבד יהוה",
+      "rationale": "'یاہوہ دا غلام' — کجھ مترجم 'عبد' نوں ٹیکس دا ذریعہ پڑھدے نیں، کجھ موشے دا لقب۔"
+    }
+  ],
+  "translation": "تے بادشاہ نے یہویاداع سردار نوں سدّیا، تے اوہنوں آکھیا: کیوں نئیں تُسیں لویاں اُتے چھاننی کیتی کہ اوہ یہوداہ تے یروشلایم توں موشے دے، یاہوہ دے غلام، تے یِسرائیل دی جماعت دے ٹیکس ⟨את⟩ لیاؤن، گواہی دے خیمے لئی؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4865c8f31af270c43530fd353ea649851153f320a1f1de8b3afedcd87abd2120",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/24\/5-8.1792122430306.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "سدّیا"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ نے"
+    },
+    {
+      "surface": "ליהוידע",
+      "gloss": "یہویاداع نوں"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہنوں"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "דרשת",
+      "gloss": "چھاننی کیتی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لویاں"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "لیاؤن لئی"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "یہوداہ توں"
+    },
+    {
+      "surface": "ומירושלם",
+      "gloss": "تے یروشلایم توں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشے تے جماعت دا ٹیکس"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "ٹیکس"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے دا"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "غلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "והקהל",
+      "gloss": "تے جماعت"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "یِسرائیل دی"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "خیمے لئی"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "گواہی دے"
+    }
+  ],
+  "timestamp": "2026-10-16T03:47:10.307899223Z",
+  "model": "glm-5.3"
+}

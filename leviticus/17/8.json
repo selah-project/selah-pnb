@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 17:8",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "موسیٰ نُوں",
+      "rationale": "حکم موسیٰ نوں اے — 'اوہناں نُوں آکھ' — جیہڑا فیر قوم تے پردیسیاں تک پُچھدا اے۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אישׁ אישׁ",
+      "rationale": "دو واری 'بندہ بندہ' — ہر اک بندے اُتے وکھو وکھ زور؛ پنجابی وِچ 'کوئی بندہ، ہر بندہ' نال دوہرایا۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "وس رہے کسے پردیسی",
+      "rationale": "عبرانی صرف 'پردیسی جیہڑا … وسے' اے؛ پنجابی جملے لئی 'کسے' پا کے رліا گیا۔"
+    }
+  ],
+  "translation": "تے اوہناں نُوں آکھ: کوئی بندہ، ہر بندہ — یِسرائیل دے گھر وِچوں جاں اوہناں وِچ وس رہے کسے پردیسی وِچوں — جیہڑا سوختہ قربانی جاں ذبیحہ چڑھاوے،",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "de48ba182fb91562d1681de799cd0dbc1ad5ec98604db5f6aa1bb830053597a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/17\/5-8.1792097896888.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלהם",
+      "gloss": "تے اوہناں نُوں"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "آکھ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "کوئی بندہ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ہر بندہ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "گھر وِچوں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "تے … وِچوں"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "پردیسی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "وس رہیا اے"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "اوہناں وِچ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "چڑھاوے"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "سوختہ قربانی"
+    },
+    {
+      "surface": "או",
+      "gloss": "جاں"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ذبیحہ"
+    }
+  ],
+  "timestamp": "2026-10-15T20:58:16.890080238Z",
+  "model": "glm-5.3"
+}

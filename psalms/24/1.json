@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 24:1",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اے⟩",
+      "rationale": "عبرانی وِچ کوئی فعل نئیں؛ پنجابی جملے لئی copula چاہیدی اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "دنیا",
+      "rationale": "תבל وسدی ہوئی دھرتی دا خاص لفظ اے، ہאارץ توں وکھرا"
+    }
+  ],
+  "translation": "داوِد لئی مزمور۔ یاہوہ دی ⟨اے⟩ دھرتی تے اوہدی ساری بھرائی، دنیا تے اوہدے وسنیک۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7f3f28bc1f22822331da424a7de5c649ad10418c3a0fa7ffef219a870f546dca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/24\/1-4.1792112192374.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد لئی"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ لئی"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "دھرتی"
+    },
+    {
+      "surface": "ומלואה",
+      "gloss": "تے اوہدی ساری بھرائی"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "دنیا"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "تے وسنیک"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اوہدے وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T00:56:32.375097060Z",
+  "model": "glm-5.3"
+}

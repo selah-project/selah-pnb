@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 37:22",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "سونا",
+      "rationale": "זהב — کجھ مترجم 'سنہری چمک' لیندے نیں (KJV 'موسم صاف'), کجھ پورا 'سونا'؛ لفظ دوویں سمبھوندا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "چمکدا",
+      "rationale": "سیاق دا صفت جیہڑا عبرانی صرف سونے دے ناں نال دسدا اے"
+    }
+  ],
+  "translation": "اُتر توں سونا ⟨چمکدا⟩ آؤندا اے؛ ایلوہ اُتے ڈراؤنا جلال اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "81d9625d85a0db5579533b0c0301a5775d9dd41ad51b038d83e146813a492fd8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/37\/21-24.1792116469155.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מצפון",
+      "gloss": "اُتر توں"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونا"
+    },
+    {
+      "surface": "יאתה",
+      "gloss": "آؤندا اے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ایلوہ"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ڈراؤنا"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "جلال"
+    }
+  ],
+  "timestamp": "2026-10-16T02:07:49.156582827Z",
+  "model": "glm-5.3"
+}

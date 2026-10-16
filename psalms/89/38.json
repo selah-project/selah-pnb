@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 89:38",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩ ⟨اے⟩",
+      "rationale": "کوئی ضمیر\/کاپلا عبرانی وِچ نئیں، پنجابی دی لوڑ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "سِلا",
+      "rationale": "סלה سنگیتک وقفے دا نشان اے، ترجمہ نئیں — حرف-نقل"
+    }
+  ],
+  "translation": "چن وانگ ⟨اوہ⟩ سداں ٹکسو رہوگا، تے اسمان وِچ اک ایمان والا گواہ ⟨اے⟩ — سِلا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e75d1dbc97a178cd633585fc2377983fd052a1d55d33dc8c99dc1d944e2419b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/89\/37-40.1792113268707.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כירח",
+      "gloss": "چن وانگ"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "ٹکسو رہوگا"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "سداں"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تے گواہ"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "اسمان وِچ"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "ایمان والا"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سِلا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:14:28.708155086Z",
+  "model": "glm-5.3"
+}

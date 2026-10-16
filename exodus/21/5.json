@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 21:5",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אמר יאמר",
+      "rationale": "اسمال مطلق — اکو کمال نال دو واری 'آکھے'، واضح کرن والی دہرائی۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "سائیں",
+      "rationale": "אדני ایتھے بندہ مالک اے، یاہوہ نئیں — بندے لئی 'سائیں' جائز اے۔"
+    }
+  ],
+  "translation": "تے جے غلام آکھے، سچ مُچّ آکھے: میں نے ⟨את⟩ اپنے سائیں نوں، ⟨את⟩ اپنی تریمت نوں تے ⟨את⟩ اپنے پتراں نوں پیار کیتا اے — میں آزاد نئیں نِکلساں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4fb8d9a4ae9dd3e86665aa1bf4f2a60d7ed35013124515229867744d8ecf9064",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/21\/5-8.1792096779249.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھے"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "سچ مُچّ آکھے"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "غلام"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "میں نے پیار کیتا اے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنے سائیں نوں"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اپنے سائیں نوں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنی تریمت نوں"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "اپنی تریمت نوں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اپنے پتراں نوں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "اپنے پتراں نوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "نِکلساں"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "آزاد"
+    }
+  ],
+  "timestamp": "2026-10-15T20:39:39.249723019Z",
+  "model": "glm-5.3"
+}

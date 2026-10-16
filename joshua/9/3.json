@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "گلاں نوں",
+      "rationale": "אשר clause needs an explicit noun in Punjabi"
+    }
+  ],
+  "translation": "تے گِبعون دے وسنیکاں سُنیا ⟨את⟩ اوہناں گلاں نوں جیہڑیاں یہوشُوا نے یرِیخو نال تے عای نال کیتیاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "81e65d0d4238f32dcf3c7e29e05612b69f8ca1ba6ccd68d8d69e5ead40d1f202",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joshua\/9\/2-3.1792123558045.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "تے وسنیک"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "گِبعون"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "سُنیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہناں گلاں نوں (אשר clause)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو گلاں"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کیتیاں"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یہوشُوا نے"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "یرِیخو نال"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "تے عای نال"
+    }
+  ],
+  "timestamp": "2026-10-16T04:05:58.046233891Z",
+  "model": "glm-5.3"
+}

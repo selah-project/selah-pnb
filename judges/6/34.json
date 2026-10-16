@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "judges 6:34",
+  "book": "judges",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לבשה",
+      "rationale": "لفظی 'پہنائی\/کپڑے وِچ لپیٹا' — مطلب اوہدے اُتے آ کے ڈھک گیا؛ ترجمے اکثر 'اوہدے اُتے آئی' لکھدے نیں، شکل گوا دیندے نیں۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויזעק אביעזר",
+      "rationale": "کُٹھے وِچ 'ابیعزر آپ پکاریا\/جاں بجی' (گدعون نے اُس نوں پکاریا) دوویں پڑھائیاں نیں — نِپھال توں 'پکاریا گیا' رکھیا۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שופר",
+      "gloss": "شوپھار — اِکو حرف-نقل، مینڈھے دا سنگی؛ 'ترمپٹ' ریت دا لفظ اے۔"
+    }
+  ],
+  "translation": "تے یاہوہ دی روح نے ⟨את⟩ گدعون نوں پہنائی، تے اوہنے شوپھار وِچ وجایا تے ابیعزر اوہدے مگروں پکاریا گیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f400795a03e4f0d40d078b59238be634684544a97733b3a091a8f48c2c10eca5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/judges\/6\/33-36.1792101526279.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורוח",
+      "gloss": "تے … دی روح"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לבשה",
+      "gloss": "پہنائی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گدعون نوں"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "گدعون"
+    },
+    {
+      "surface": "ויתקע",
+      "gloss": "تے اوہنے وجایا"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "شوپھار وِچ"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "تے پکاریا گیا"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "ابیعزر"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "اوہدے مگروں"
+    }
+  ],
+  "timestamp": "2026-10-15T21:58:46.280708165Z",
+  "model": "glm-5.3"
+}

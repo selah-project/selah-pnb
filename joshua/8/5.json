@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 8:5",
+  "book": "joshua",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "אתי دے نال عربی-عبرانی ساخت وچ کوئی کریالْا فعل نئیں، پنجابی نوں ⟨اے⟩ چاہیدا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לפניהם \/ לפנינו",
+      "rationale": "چھیتی واری آؤن والیاں آیتاں وِچ 'اگے\/مقابل' دی دوہرائی، چال دی سکیم بناندی اے"
+    }
+  ],
+  "translation": "تے اَناں تے سارا اوہ لوک جیہڑا میرے نال ⟨את⟩ اے، شہر ول نیڑے ہو آواں گے؛ تے ہووےگا، جدوں اوہ ساڈے مقابل باہر نکلنگے، جیویں پہلی واری، تے اسیں اوہناں اگے بھج جانے آ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4b6060b034fed8d9460c88986d707d9ed4cd7ca0cdbcb94c4c44f221c3f8ebd4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joshua\/8\/5-8.1792100882097.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "تے اَناں"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سارا"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "میرے نال ⟨את⟩"
+    },
+    {
+      "surface": "נקרב",
+      "gloss": "نیڑے ہو آواں گے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ول"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "تے ہووےگا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جدوں"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "باہر نکلنگے"
+    },
+    {
+      "surface": "לקראתנו",
+      "gloss": "ساڈے مقابل"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "پہلی واری"
+    },
+    {
+      "surface": "ונסנו",
+      "gloss": "تے اسیں بھج جانے آ"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "اوہناں اگے"
+    }
+  ],
+  "timestamp": "2026-10-15T21:48:02.098049731Z",
+  "model": "glm-5.3"
+}

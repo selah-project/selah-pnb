@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 118:18",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨تَکڑا⟩",
+      "rationale": "יַסֵּר…יִסְּרַנִּי دو واری تَکرار نال سختی دا پکّا اے؛ پنجابی نوں تَکڑا چاہیدا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יסר\/יסרני",
+      "rationale": "اکو جڑ دا تَکرار — 'تَنبیہ کیتی، تَنبیہ کیتی مَیں نوں' — پنجابی وِچ محفوظ اے"
+    }
+  ],
+  "translation": "یاہ نے مَیں نوں تَکڑا تَنبیہ کیتی، پر مَیں نوں موت دے حوالے نئیں کیتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "054739b81d58769ad3454f9c1db11c07dca8c746921a4c10b959f73f4a890008",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/118\/17-20.1792113787719.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "تَنبیہ کیتی ⟨تَکڑا⟩"
+    },
+    {
+      "surface": "יסרני",
+      "gloss": "مَیں نوں تَنبیہ کیتی"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاہ"
+    },
+    {
+      "surface": "ולמות",
+      "gloss": "پر موت نوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "נתנני",
+      "gloss": "مَیں نوں حوالے کیتا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:23:07.720075848Z",
+  "model": "glm-5.3"
+}

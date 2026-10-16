@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ہوندی اے",
+      "rationale": "دوجی تول دا فعل عبرانی نے نئیں دسیا؛ پنجابی جملہ منگدا سی۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "ענין",
+      "rationale": "'مشغولیت\/کارج' — کجھ مترجم 'دُکھاں' توں جوڑدے نیں (عبرانی עמל نال رلاء کے)۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ברב…ברב",
+      "rationale": "دوویں تولاں وِچ اکو 'بہت ساری … وِچ' — تشبیہ دی چوکٹی، پنجابی وِچ وی دہرائی گئی۔"
+    }
+  ],
+  "translation": "کیونکہ خواب بہت ساری مشغولیت وِچ آؤندا اے، تے مورکھ دی آواز بہت سارے بولاں وِچ ہوندی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "673c0bdcb3d48faa53297bc9d5e2aee1f7d214ecc60a1d397cb7399cae0c6460",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ecclesiastes\/5\/1-4.1792117490462.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آؤندا اے"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "خواب"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "بہت ساری … وِچ"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "مشغولیت"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "تے آواز"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "مورکھ"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "بہت ساریاں … وِچ"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "بولاں"
+    }
+  ],
+  "timestamp": "2026-10-16T02:24:50.463553015Z",
+  "model": "glm-5.3"
+}

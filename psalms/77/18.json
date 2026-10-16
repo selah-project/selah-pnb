@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 77:18",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חצציך",
+      "rationale": "ਪੰਜਾਬੀ'च ਪੜ੍ਹਨਾ: 'تیر' (بجلی دی کِلک) یا 'کنکریاں' — 'تیر' لیا، بجلی دے سیاق وِچ۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זרמו…נתנו…יתהלכו",
+      "rationale": "تن فعلاں دی ترتیب — وساء، آواز، ٹرنا — طوفان دا وادھا دسدی اے۔"
+    }
+  ],
+  "translation": "گاڑھے بدلاں نے پانی اڈیلیا؛ اڈاریاں نے آواز کیتی؛ اے تیرے تیر ادھر-ادھر ٹردے رہے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "237a6ef3212480a073053ad2f6687c93a9331e9aa81b618ee548636cfbb71808",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/77\/17-20.1792113010301.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זרמו",
+      "gloss": "اڈیلیا"
+    },
+    {
+      "surface": "مים",
+      "gloss": "پانی"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "گاڑھے بدلاں"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "کیتی"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "اڈاریاں"
+    },
+    {
+      "surface": "אף",
+      "gloss": "اے"
+    },
+    {
+      "surface": "חצציך",
+      "gloss": "تیرے تیر"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "ادھر-ادھر ٹردے رہے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:10:10.302632634Z",
+  "model": "glm-5.3"
+}

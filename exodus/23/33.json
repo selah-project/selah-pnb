@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 23:33",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "دیویاں",
+      "rationale": "אלהיהם ایتھے قوماں دے معبود نیں — عام لفظ ٹھیک اے، ایلوہیم ناں دی تھاں نئیں"
+    },
+    {
+      "kind": "idiom",
+      "subject": "פן",
+      "rationale": "'مُڑائی نہ کرن' — عبرانی دا 'کہائیں نہ' والا جوڑ، پنجابی وِچ منفی مقصد نال دتا اے"
+    },
+    {
+      "kind": "you",
+      "subject": "اسرائیل نوں",
+      "rationale": "خروج 20 توں چلی آؤن والی سِدھی ہدایت، مخاطب قوم اے"
+    }
+  ],
+  "translation": "او تیری اِکو دھرتی وِچ نئیں وَسݨگے، کیوں جو اوہ تینوں میرے خلاف پاپ کرن لئی مُڑائی نہ کرن، کیوں جو تُوں اوہناں دیویاں نوں سیوا کریں، کیوں جو ⟨את⟩ اوہ تیرے لئی پھندا بنݨگے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b3d37afa934727eef74f9bdd1f970ca506dd9c4c77c87c5c23210b24122fa317",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/23\/33-33.1792096696168.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "وَسݨگے"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "تیری اِکو دھرتی وِچ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "مُڑائی نہ کرن"
+    },
+    {
+      "surface": "יחטיאו",
+      "gloss": "پاپ کرن لئی"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ تینوں",
+      "marks": "تینوں"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرے خلاف"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "سیوا کریں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہناں دیویاں نوں"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "اوہناں دیویاں نوں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بنݨگے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیرے لئی"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "پھندا"
+    }
+  ],
+  "timestamp": "2026-10-15T20:38:16.169120153Z",
+  "model": "glm-5.3"
+}

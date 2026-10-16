@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 32:15",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "وשחתם",
+      "rationale": "لفظی 'تُسیں خراب کرو گے' — پنجابی وِچ 'بربادی بَن جاؤ گے' دا پینڈا لیایا، کیونکہ تُسیں اوہناں دی بربادی دا کارن بنو گے"
+    },
+    {
+      "kind": "elision",
+      "subject": "ויסף",
+      "rationale": "'تاں اوہ ہور ودھ کے' دا سموہ؛ 'ہور' نال رَل کے 'اوہ ہور' دتا"
+    }
+  ],
+  "translation": "کیونکہ جے تُسیں اوہدے پچھوں مُڑ جاؤ، تاں اوہ ہور اوہنوں بدیاں وِچ ٹِکا دیوےگا، تے تُسیں ایس سارے قوم لئی بربادی بَن جاؤ گے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a69f441f1e8ad518205c66b18daa656d75d7ec50ec4651fc88af0af37686d52f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/32\/13-16.1792099310732.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "תשובן",
+      "gloss": "مُڑ جاؤ"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "اوہدے پچھوں"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "تاں اوہ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ہور"
+    },
+    {
+      "surface": "להניחו",
+      "gloss": "اوہنوں ٹِکا دیوےگا"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "بدیاں وِچ"
+    },
+    {
+      "surface": "ושחתם",
+      "gloss": "بربادی بَن جاؤ گے"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایس"
+    }
+  ],
+  "timestamp": "2026-10-15T21:21:50.733267560Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 1:5",
+  "book": "song-of-songs",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "کالی-ساوی تے سوہنی",
+      "rationale": "ו دا مطلب 'پر' (KJV) یا 'تے' (YLTr) — 'کالی پر سوہنی' دے مقابلے 'کالی تے سوہنی'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שחורה\/שלמה",
+      "rationale": "ساوی رنگ تے سُلیمان دے ناں وِچ آواز دا میل، 'س' دی گونج"
+    },
+    {
+      "kind": "hapax",
+      "subject": "שחרחרת (1:6)",
+      "rationale": "ایہدا جوڑ ایتھے שחורہ نال اے، دونوں وار صرف تنخ دے اِتھے"
+    }
+  ],
+  "translation": "میں کالی-ساوی آں تے سوہنی آں، یروشلایم دیاں دھیاں، قیدار دے خیمیاں ورگی، سُلیمان دیاں پردیاں ورگی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ff01a4dd9d7ec2d7f1048913ac57122e870c2f44c8a5605eb99689e6cac96806",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/song-of-songs\/1\/5-8.1792116754676.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שחורה",
+      "gloss": "کالی-ساوی"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "ונאוה",
+      "gloss": "تے سوہنی"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "دھیاں"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم"
+    },
+    {
+      "surface": "כאהלי",
+      "gloss": "دے خیمیاں ورگی"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "قیدار"
+    },
+    {
+      "surface": "כיריעות",
+      "gloss": "پردیاں ورگی"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "سُلیمان"
+    }
+  ],
+  "timestamp": "2026-10-16T02:12:34.677607106Z",
+  "model": "glm-5.3"
+}

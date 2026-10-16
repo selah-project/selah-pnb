@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 13:17",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "گِنّدے",
+      "rationale": "יחשבו ایتھے 'کھاتے پاتے\/اہمیت دیندے' دے ارتھ وِچ اے، چِٹّی گنتی نئیں — پنجابی 'گِنّدے' اوہو کھنڈ وش دسدا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "میں",
+      "rationale": "עור دی فعل پہلی شخص دی ضمیمہ نال 'میں جگاواں گا' — عبرانی فعل دے اندر اے، وکھو وکھ نئیں"
+    },
+    {
+      "kind": "you",
+      "subject": "قاری نوں",
+      "rationale": "הננی 'ویکھو' سنن والے نوں سدّدا اے"
+    }
+  ],
+  "translation": "ویکھو، میں اُنہاں اُتے ⟨את⟩ مادِی نوں جگاواں گا، جو چاندی نئیں گِنّدے تے سونا ⟨اُس نوں⟩ پسند نئیں کردے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e6f1528e78f732d87ce9a35fae03f5db992620ec926562a3c27205aedf901714",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/13\/17-20.1792106009639.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "ویکھو"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "جگاواں گا"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "اُنہاں اُتے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مادِی"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "مادِی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "گِنّدے"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "تے سونا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יחפצו",
+      "gloss": "پسند کردے"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اُس وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T23:13:29.640550249Z",
+  "model": "glm-5.3"
+}

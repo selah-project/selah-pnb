@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "judges 1:24",
+  "book": "judges",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "خیسِد",
+      "rationale": "חסד ریت دا وفاداری والا رحمت اے — پنجابی 'رحمت' اِک پاسے رکھیا گیا، لوظ اِی برقرار"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨منا⟩",
+      "rationale": "'نا' اک نرم کرن والا ذرہ اے، 'منا' بریکٹاں وِچ"
+    }
+  ],
+  "translation": "تے پہریداراں نے اِک بندے نوں ویکھیا جیہڑا شہر توں نِکلیا، تے اوہنوں آکھیا: سانوں ⟨منا⟩ ⟨את⟩ شہر دا داخلہ ویکھا، تے اسیں تیرے نال خیسِد ⟨رحمت⟩ کرنگے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bfbd6d658551afc9c4164d4b0087372210940f72c2693ebb409819130c5c8352",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/judges\/1\/21-24.1792101301488.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "تے ویکھیا"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "پہریداراں نے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندے نوں"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "نِکلیا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہنوں"
+    },
+    {
+      "surface": "הראנו",
+      "gloss": "سانوں ویکھا"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨منا⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شہر دا داخلہ"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "داخلہ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر دا"
+    },
+    {
+      "surface": "ועשינו",
+      "gloss": "تے اسیں کرنگے"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تیرے نال"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "خیسِد"
+    }
+  ],
+  "timestamp": "2026-10-15T21:55:01.490052401Z",
+  "model": "glm-5.3"
+}

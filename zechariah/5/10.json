@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "فرشتہ",
+      "rationale": "متن دا لفظ malakh اے، رسول\/پیغمبر نئیں — تنخ دے فرشتے لئی پنجابی ریت دا لفظ ورتیا۔"
+    },
+    {
+      "kind": "you",
+      "subject": "فرشتے کول سوال",
+      "rationale": "نبی دا سوال ملاخ نال سدھی گلاں اے۔"
+    }
+  ],
+  "translation": "تے میں آکھیا اوہ فرشتے نوں جیہڑا میرے وِچ گل کردا سی: اوہ کتھے لے جاندیاں نیں ⟨את⟩ ایپھے نوں؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fa2c8ec70bd8f8165d479177909061ae65aece51093613bd53825b23a3a7ca85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/zechariah\/5\/9-11.1792111470953.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "تے میں آکھیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں… نوں"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "فرشتے نوں"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "گل کردا سی"
+    },
+    {
+      "surface": "בי",
+      "gloss": "میرے وِچ"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "کتھے"
+    },
+    {
+      "surface": "המה",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "لے جاندیاں نیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایپھے نوں"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "ایپھے نوں"
+    }
+  ],
+  "timestamp": "2026-10-16T00:44:30.954834008Z",
+  "model": "glm-5.3"
+}

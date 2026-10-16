@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "job 34:37",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יסיף\/יספוק",
+      "rationale": "אותו שורש-צליל: yosif (add) and yispok (clap) sound close in Hebrew; the echo is lost in Punjabi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אמריו",
+      "rationale": "אֵמֶר is a rarer word for 'saying\/utterance' than דָּבָר; rendered 'گلاں' (words\/sayings)"
+    },
+    {
+      "kind": "addition",
+      "subject": "apne\/apniya",
+      "rationale": "Punjabi possessive pronouns added where Hebrew suffixes חטאתו\/אמריו already carry 'his'"
+    }
+  ],
+  "translation": "کیوں جے اوہ اپنے گناہ اُتے بغاوت ودھاؤندا اے، ساڈے وِچکار ہتھ ماردا اے، تے اپنیاں گلاں ایل دے خلاف ودھاؤندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "962879fd937af09f115629d43fab09bada54a8bef18f2f850c6ae7c580647581",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/34\/37-37.1792116293287.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جے"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "ودھاؤندا اے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "اپنے گناہ"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "بغاوت"
+    },
+    {
+      "surface": "בינינו",
+      "gloss": "ساڈے وِچکار"
+    },
+    {
+      "surface": "יספוק",
+      "gloss": "ہتھ ماردا اے"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "تے ودھاؤندا اے"
+    },
+    {
+      "surface": "אמריו",
+      "gloss": "اپنیاں گلاں"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ایل دے خلاف"
+    }
+  ],
+  "timestamp": "2026-10-16T02:04:53.287866832Z",
+  "model": "glm-5.3"
+}

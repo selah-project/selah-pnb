@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 21:26",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "התאוה תאוה",
+      "rationale": "verb and cognate noun of the same root stacked — 'craves a craving'; the root-echo is kept with سِکّدا سِکّ."
+    },
+    {
+      "kind": "alternative",
+      "subject": "sārā din",
+      "rationale": "KJV 'he coveteth' supplies an unstated subject (the sluggard of v25); Punjabi leaves it open as the Hebrew does."
+    }
+  ],
+  "translation": "سارا دن سِکّدا سِکّدا رہندا اے، پر نیک دیندا اے تے روکدا نئیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "84f4548e8351d76146aa72aea0e2f8907670d4eb3da61c6c20aaaa98b26b10af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/21\/25-28.1792114939960.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "התאוה",
+      "gloss": "سِکّدا رہندا اے"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "سِکّ"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "پر نیک"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دیندا اے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "יחשך",
+      "gloss": "روکدا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:42:19.961521689Z",
+  "model": "glm-5.3"
+}

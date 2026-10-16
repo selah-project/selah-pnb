@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 10:29",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سن",
+      "rationale": "عبرانی وِچ کوئی فعل نئیں؛ پنجابی نوں ماضی دا فعل چاہیدا سی"
+    }
+  ],
+  "translation": "تے ⟨את⟩ اُوپھیر نوں، تے ⟨את⟩ حَوِیلہ نوں، تے ⟨את⟩ یُوواب نوں — ایہہ سارے یَقتان دے پُتر سن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0741288a5e05ad3123a128136ca148adf359fbccb1704843267d84e29bd46f13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/10\/29-32.1792094860135.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "اُوپھیر"
+    },
+    {
+      "surface": "אופר",
+      "gloss": "اُوپھیر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "حَوِیلہ"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "حَوِیلہ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "یُوواب"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "یُوواب"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "یَقتان"
+    }
+  ],
+  "timestamp": "2026-10-15T20:07:40.135902002Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 43:13",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اپنے",
+      "rationale": "عبرانی وِچ אחיכם دی اگلے پاسے 'تہاڈے' شامل اے، پنجابی 'اپنے' نال قدرتی ہوندا اے"
+    }
+  ],
+  "translation": "تے ⟨את⟩ اپنے بھرا نوں لَے جاؤ، تے اُٹھو، اُس بندے کول مُڑ جاؤ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f3cf59480239a9db7dc154829027e9fffeebfd17fc1de920ea78a0b0a93e9c95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/43\/13-16.1792095929348.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "اپنے بھرا نوں"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "اپنے بھرا"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "لَے جاؤ"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "تے اُٹھو"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "مُڑ جاؤ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "اوہ بندہ"
+    }
+  ],
+  "timestamp": "2026-10-15T20:25:29.349226074Z",
+  "model": "glm-5.3"
+}

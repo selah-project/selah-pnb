@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 11:19",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וחלו",
+      "rationale": "KJV\/JPS 'منگن گے' (חול توں) بمقابلہ مُڈھلی 'کمزور ہون گے' — سیاق بھیک منگنے والے سُلطان دا دسدا اے"
+    },
+    {
+      "kind": "elision",
+      "subject": "וחלו",
+      "rationale": "עبرانی صرف 'کریں گے' آکھدا اے؛ 'یارداد' ⟨⟩ وِچ پایا گیا تاں جو گل کھلھے"
+    }
+  ],
+  "translation": "تے تُوں دبک کے پئیں گا، تے کوئی ڈراؤن والا نئیں ہووےگا، تے بہت سارے تیرے چہرے دی یارداد منگن گے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bc62d85a8cddea47d71ca00ffc477c64651bc787b67151bcd7378b1207abcd14",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/11\/17-20.1792115676864.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורבצת",
+      "gloss": "تے تُوں دبک کے پئیں گا"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "تے کوئی نئیں"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "ڈراؤن والا"
+    },
+    {
+      "surface": "וחלו",
+      "gloss": "تے منگن گے ⟨یارداد⟩"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "تیرے چہرے دی"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "بہت سارے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:54:36.864931704Z",
+  "model": "glm-5.3"
+}

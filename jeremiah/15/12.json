@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 15:12",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הירע ברזל",
+      "rationale": "'کی لوہا (اُتر دا لوہا) توڑ سکدا اے' — KJV 'the steel' جدوں کہ عبرانی נחשת پیتل\/تانبا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ברזל ברזל",
+      "rationale": "لوہا دا دہراؤ — 'لوہا، اُتر دا لوہا' — زور ودھاؤن لئی"
+    }
+  ],
+  "translation": "کی کوئی لوہا توڑ سکدا اے — اُتر دا لوہا تے پیتل؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "35cb03879e86a88cfc5c7f39655df51a7eb77efda8f8645c15fb2e334fe6a6e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/15\/12-12.1792123840139.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הירע",
+      "gloss": "کی کوئی توڑ سکدا اے"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "لوہا"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "لوہا"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "اُتر دا"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "تے پیتل"
+    }
+  ],
+  "timestamp": "2026-10-16T04:10:40.139949595Z",
+  "model": "glm-5.3"
+}

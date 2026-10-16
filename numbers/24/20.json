@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 24:20",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ראשית\/אחריתו",
+      "rationale": "'پہلا' بمقابلہ 'انت' — عبرانی دا مُڈھ-مندا جوڑا، پنجابی وِچ 'پہلا\/انت' نال رکھیا گیا۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "עדי אבד",
+      "rationale": "'سدا لئی مُکنا' بمقابلہ 'تباہی تک پُہنچے گا' — עדدی وکھری وضاحتاں نیں۔"
+    }
+  ],
+  "translation": "تے اوہنے ⟨את⟩ عمالق نوں ویکھیا، تے اوہدا مثل اُٹھایا تے آکھیا: قوماں وِچوں پہلا عمالق اے، پر اوہدا انت سدا لئی مُک جاؤنا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9a1c4f95fbfc837165fe6a31afa07b6a96491cf87ec32aecbe53476753c9dcf9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/24\/17-20.1792099088559.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "تے ویکھیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عمالق نوں"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "عمالق"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "تے اُٹھایا"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "اوہدا مثل"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "پہلا"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قوماں وِچوں"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "عمالق"
+    },
+    {
+      "surface": "ואחריתו",
+      "gloss": "تے اوہدا انت"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "سدا لئی"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "مُک جاؤنا"
+    }
+  ],
+  "timestamp": "2026-10-15T21:18:08.560733617Z",
+  "model": "glm-5.3"
+}

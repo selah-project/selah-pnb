@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 4:2",
+  "book": "joshua",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "איש אחד איש אחד",
+      "rationale": "دوہراؤ 'اِک بندا اِک بندا' رکھیا گیا اے، جمع دی تھاں ونڈ دا نشان"
+    },
+    {
+      "kind": "measurement",
+      "subject": "باراں بندے",
+      "rationale": "باراں قبیلیاں دے حساب نال گنتی"
+    }
+  ],
+  "translation": "تُسیں قوم وِچوں باراں بندے چُکو، اِک بندا اِک بندا ہر قبیلیے توں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "302add0f9dd61a390f8ff10f9c6e7521801e07ce2c4614323c71999dbfbaea87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joshua\/4\/1-4.1792100781099.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "چُکو"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُسیں ⟨آپ لئی⟩"
+    },
+    {
+      "surface": "מן",
+      "gloss": "وِچوں"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "باراں ⟨دو⟩"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨-یاں⟩ ⟨دس⟩"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "اِک بندا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "اِک"
+    },
+    {
+      "surface": "איש",
+      "gloss": "اِک بندا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "اِک"
+    },
+    {
+      "surface": "משבט",
+      "gloss": "قبیلیے توں"
+    }
+  ],
+  "timestamp": "2026-10-15T21:46:21.100856741Z",
+  "model": "glm-5.3"
+}

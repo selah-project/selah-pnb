@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "esther 9:27",
+  "book": "esther",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ਨੇ",
+      "rationale": "ਪੰਜਾਬੀ ਨੂੰ ਕਰਤਾ ਦੇ ਨਾਂ ਦੀ ਲੋੜ ਸੀ; ਇਬਰਾਨੀ ਵਿੱਚ ਸਿਰਫ਼ ਕਿਰਿਆ ਹੈ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "ਵਕਬਲ",
+      "rationale": "ਕੁਝ ਰਿਵਾਇਤਾਂ ਇਸ ਨੂੰ ਅਰਾਮੀ 'ਕਬੂਲ ਕੀਤਾ' ਪੜ੍ਹਦੀਆਂ ਹਨ, ਕੁਝ 'ਲਿਖਤ ਵਿੱਚ' — ਪੰਜਾਬੀ ਵਿੱਚ 'ਕਬੂਲ ਕੀਤਾ' ਰੱਖਿਆ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ਸਾਲ ਅਤੇ ਸਾਲ",
+      "rationale": "ਹਰ ਸਾਲ ਅਤੇ ਸਾਲ ਦੀ ਗਿਣਤੀ — ਯਹੂਦੀ ਵੰਡ-ਵਿਆਪਤ ਦੁਹਰਾਉ।"
+    }
+  ],
+  "translation": "ਕਾਇਮ ਕੀਤਾ ਅਤੇ ਕਬੂਲ ਕੀਤਾ ਯਹੂਦੀਆਂ ਨੇ — ਆਪਣੇ ਉੱਤੇ, ਆਪਣੀ ਨਸਲ ਉੱਤੇ ਅਤੇ ਉਹਨਾਂ ਸਾਰਿਆਂ ਜੁੜਨ ਵਾਲਿਆਂ ਉੱਤੇ — ਕਿ ਅਤੇ ਨਾ ਮੁੜੇ ਕਿ ਹੋਣ ਕਰਦੇ ⟨את⟩ ਏਹ ਦੋਵੇਂ ਦਿਨ ਓਹਨਾਂ ਲਿਖਤ ਮੁਤਾਬਕ ਅਤੇ ਓਹਨਾਂ ਵੇਲੇ ਮੁਤਾਬਕ, ਹਰ ਸਾਲ ਅਤੇ ਸਾਲ।",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0152af1cbd7db126e387eea1b89d43164019033e09588030010baf5048fb67c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/esther\/9\/25-28.1792118155379.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קימו",
+      "gloss": "ਕਾਇਮ ਕੀਤਾ"
+    },
+    {
+      "surface": "וקבל",
+      "gloss": "ਅਤੇ ਕਬੂਲ ਕੀਤਾ"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "ਯਹੂਦੀ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ਆਪਣੇ ਉੱਤੇ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ਅਤੇ ਉੱਤੇ"
+    },
+    {
+      "surface": "זרעם",
+      "gloss": "ਓਹਨਾਂ ਦੀ ਨਸਲ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ਅਤੇ ਉੱਤੇ"
+    },
+    {
+      "surface": "ਛל",
+      "gloss": "ਸਾਰਿਆਂ"
+    },
+    {
+      "surface": "הנלוים",
+      "gloss": "ਜੁੜਨ ਵਾਲਿਆਂ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ਓਹਨਾਂ ਉੱਤੇ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ਅਤੇ ਨਾ"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "ਮੁੜੇ"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ਕਿ ਹੋਣ"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "ਕਰਦੇ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ਏਹ ਦੋਵੇਂ ਦਿਨ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ਦੋਵੇਂ"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ਦਿਨ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ਏਹ"
+    },
+    {
+      "surface": "ככתבם",
+      "gloss": "ਓਹਨਾਂ ਲਿਖਤ ਮੁਤਾਬਕ"
+    },
+    {
+      "surface": "וכזמנם",
+      "gloss": "ਅਤੇ ਓਹਨਾਂ ਵੇਲੇ ਮੁਤਾਬਕ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ਹਰ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ਸਾਲ"
+    },
+    {
+      "surface": "ושנה",
+      "gloss": "ਅਤੇ ਸਾਲ"
+    }
+  ],
+  "timestamp": "2026-10-16T02:35:55.380843138Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "ezra 8:36",
+  "book": "ezra",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ונשאו",
+      "rationale": "لفظی 'اُچا کیتا' (نسا) = 'اگے ودھایا\/سہارا دتا'؛ KJV دا 'furthered'۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עבר הנהר",
+      "rationale": "'دریا دا اوہ پاسہ' — فارسی انتظامی اصطلاح یوفرات لئی؛ پنجابی وِچ 'دریا اُس پار' رکھیا۔"
+    }
+  ],
+  "translation": "تے اوہناں بادشاہ دے فرمان بادشاہ دے صوبیداراں تے دریا اُس پار دے حاکماں نوں دتے، تے اوہناں نے ⟨את⟩ قوم نوں تے ⟨את⟩ ایلوہیم دے گھر نوں سہارا دتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "836a8df18bf9ab0ad607c84dca2fd5b56646df5121f496d678825613f0d554f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezra\/8\/33-36.1792119353500.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "تے دتے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بادشاہ دے فرمان"
+    },
+    {
+      "surface": "דתי",
+      "gloss": "فرمان"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ دے"
+    },
+    {
+      "surface": "לאחשדרפני",
+      "gloss": "صوبیداراں نوں"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ دے"
+    },
+    {
+      "surface": "ופחוות",
+      "gloss": "تے حاکماں"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "اوْرلے\/پار"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "ונשאו",
+      "gloss": "تے سہارا دتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قوم"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ایلوہیم دا گھر"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم دے"
+    }
+  ],
+  "timestamp": "2026-10-16T02:55:53.502257322Z",
+  "model": "glm-5.3"
+}

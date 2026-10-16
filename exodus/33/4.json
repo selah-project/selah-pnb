@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اپنے⟩",
+      "rationale": "عبرانی עליو صرف 'اُتے' اے؛ پنجابی وضاحت لئی 'اپنے' دا ودھا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "آرائش",
+      "rationale": "עדי مول مطلب 'سنگھار\/زیور' — آرائش سب توں نیڑےا قرینہ"
+    }
+  ],
+  "translation": "تے قوم نے ⟨את⟩ اُس ماڑے بچن نوں سنیا تے اوہ سوگ کرن لگے، تے کسے بندے نے اپنی آرائش اُتے نئیں پائی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0d2e37adbf7fcef459d792ef55cf27f9fda58bb2b78b2bd66a50665f6acd799a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/33\/1-4.1792097139990.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "تے سنیا"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اُس ماڑے بچن نوں"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "بچن"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ماڑے"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اُس"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "تے سوگ کرن لگے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "پائی"
+    },
+    {
+      "surface": "איש",
+      "gloss": "کسے بندے نے"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "اپنی آرائش"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اُتے ⟨اپنے⟩"
+    }
+  ],
+  "timestamp": "2026-10-15T20:45:39.991528128Z",
+  "model": "glm-5.3"
+}

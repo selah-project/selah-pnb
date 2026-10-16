@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "amos 5:21",
+  "book": "amos",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "سُنگھّاں",
+      "rationale": "אריח از روح — ساہ پھوکن دا مطلب 'سُنگھنا'؛ عبرانی وِچ قربانی دی خُشبو سُنگھن دا چِتر اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שנאתי\/מאסתי",
+      "rationale": "دو پارِمِل کریاواں رَل کے نفرت نوں بھاری کردیاں نیں"
+    }
+  ],
+  "translation": "میں تُہاڈے تہواراں نوں نفرت کیتی اے، میں اوہناں نوں رَدّ کیتا اے، تے تُہاڈیاں جمعیتاں وِچ ⟨میں⟩ سُنگھّاں نئیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d5eaed421cdd709104698850b82996d13217bc65fe642a6efecda9189b37aa96",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/amos\/5\/21-24.1792110846857.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "میں نفرت کیتی اے"
+    },
+    {
+      "surface": "מאסתי",
+      "gloss": "میں رَدّ کیتا اے"
+    },
+    {
+      "surface": "חגיכם",
+      "gloss": "تُہاڈے تہواراں نوں"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "אריח",
+      "gloss": "میں سُنگھّاں"
+    },
+    {
+      "surface": "בעצרתיכם",
+      "gloss": "تُہاڈیاں جمعیتاں وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T00:34:06.858461520Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 33:18",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "دی اکھ اُتے اے",
+      "rationale": "عبرانی وِچ کوئی فعل نئیں؛ 'اے' پنجابی نے پایا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "خیسِد",
+      "rationale": "חסד رحم+وفا+پیار دا گچھا اے؛ اِک لفظ نئیں ڈھلدا، ایس لئی عبرانی شکل رکھی"
+    }
+  ],
+  "translation": "ویکھو، یاہוہ دی اکھ اُتے اے اوہناں دے جیہڑے اوہنوں ڈردے نیں، اوہناں اُتے جیہڑے اوہدے خیسِد ⟨دی اُمید⟩ دی اُڈیک کردے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "807dad4e0ae498344a0a1c7e24ffe96f648a79a9ec0832cee397d0bd538c4880",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/33\/17-20.1792112293928.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ویکھو"
+    },
+    {
+      "surface": "עין",
+      "gloss": "اکھ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "اوہدے ڈرن والے"
+    },
+    {
+      "surface": "למיחלים",
+      "gloss": "اُڈیک کردے"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "اوہدے خیسِد لئی"
+    }
+  ],
+  "timestamp": "2026-10-16T00:58:13.929409460Z",
+  "model": "glm-5.3"
+}

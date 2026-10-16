@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "daniel 2:37",
+  "book": "daniel",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ایلاہ",
+      "rationale": "אלה آرامی صورت اے، عبرانی אלוה دی؛ ناں حرف-نقل ہوندا اے"
+    },
+    {
+      "kind": "you",
+      "subject": " Nebuchadnezzar",
+      "rationale": "دانی ایل بادشاہ نوں سدھا مخاطب اے — اے بادشاہ"
+    },
+    {
+      "kind": "addition",
+      "subject": "ایں",
+      "rationale": "عبرانی (آرامی) وِچ ہوݨ والا فعل کپیولا نئیں، پنجابی منگدا اے"
+    }
+  ],
+  "translation": "توں، اے بادشاہ، بادشاہواں دا بادشاہ ایں، کیوں جے اسماناں دے ایلاہ نے تیرے نوں راج، طاقت، زور تے وڈیائی دتی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b048f3ce3e136ccdc75a7bf5a9f673b704c205c1c898a28b998571226e0955f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/daniel\/2\/37-40.1792118256830.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנתה",
+      "gloss": "توں"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "اے بادشاہ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "מלכיא",
+      "gloss": "بادشاہواں دے"
+    },
+    {
+      "surface": "די",
+      "gloss": "کیوں جے"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایلاہ"
+    },
+    {
+      "surface": "שמיא",
+      "gloss": "اسماناں دے"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "راج"
+    },
+    {
+      "surface": "חסנא",
+      "gloss": "طاقت"
+    },
+    {
+      "surface": "ותקפא",
+      "gloss": "زور"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "وڈیائی"
+    },
+    {
+      "surface": "יהב",
+      "gloss": "دتی"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیرے نوں"
+    }
+  ],
+  "timestamp": "2026-10-16T02:37:36.831405694Z",
+  "model": "glm-5.3"
+}

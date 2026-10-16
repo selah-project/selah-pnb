@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "leviticus 14:57",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "وِچ",
+      "rationale": "عبرانی ب-یوم وچ علاں لئی پنجابی 'وِچ' منگدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "چھوت",
+      "rationale": "צרעات صرف چھوت نئیں، کھل تے کپڑیاں دی پھٹی وی — لفظ دی چوڑائی پنجابی وِچ تنگ ہوئی"
+    },
+    {
+      "kind": "measurement",
+      "subject": "دن دا فیصلہ",
+      "rationale": "آیت طہارت\/اَجیرھے دے دن ونڈن دی ہدایت اے — اِک گنن-ماپن والا بند"
+    }
+  ],
+  "translation": "سکھاون لئی — اَجیرھے دن ⟨وِچ⟩ تے سَپھّرن دے دن ⟨وِچ⟩ — ایہی تورات اے چھوت ⟨دی⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ef6770ee25d78d1dd8ca9b2bae76dd0ea41f523b2618571d8169b5e6182dd7ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/14\/57-57.1792097634927.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להורת",
+      "gloss": "سکھاون لئی"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "اَجیرھے دن"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "چھوت دے"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "تے سَپھّرن دے دن"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "چنگے دن"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ایہی"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "تورات"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "چھوت ⟨دی⟩"
+    }
+  ],
+  "timestamp": "2026-10-15T20:53:54.928272454Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "malachi 2:4",
+  "book": "malachi",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את (دوجا)",
+      "rationale": "ایہہ את ناں دا نشان نئیں، 'نال' والا اُلار اے — اِس لئی ⟨את⟩ نئیں لگایا"
+    },
+    {
+      "kind": "addition",
+      "subject": "قایم",
+      "rationale": "'رہے' نوں پنجابی وِچ پورا کرن لئی 'قایم' دا وادھا — عبرانی وِچ صرف 'ہونا' اے"
+    },
+    {
+      "kind": "you",
+      "subject": "کاہناں نوں",
+      "rationale": "خطاب جاری — تُساں کرتُوت دا اعلان"
+    }
+  ],
+  "translation": "تے تُساں جان لو گے کہ میں تُہاڈے کول ⟨את⟩ ایہہ حکم اِس لئی گھلیا اے کہ میرا عہد لوی ⟨את⟩ نال قایم رہے، یاہوہ تصواوت آکھدا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "dd82bcdabdf8b43f73f4a7e460cc05ae7a0ccce12245284aef255edbfdcdd1c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/malachi\/2\/1-4.1792111741567.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "تے تُساں جان لو گے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "میں گھلیا اے"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "تُہاڈے کول"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایہہ حکم"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "ایہہ حکم"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "کہ … رہے"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "میرا عہد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ نال"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لوی"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھدا اے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "تصواوت"
+    }
+  ],
+  "timestamp": "2026-10-16T00:49:01.568615441Z",
+  "model": "glm-5.3"
+}

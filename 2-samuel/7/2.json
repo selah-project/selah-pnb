@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 7:2",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "پَردہ",
+      "rationale": "היריעה کپاہ\/چمڑے دا لٹکدا پردہ اے، خیمے دی دیوار — 'پَردہ' نیڑے دا لفظ اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "یושב",
+      "rationale": "'بیٹھنا\/وسنا' — بادشاہ لئی 'وسنا' تے صندوق لئی 'بیٹھنا'، ایکو לفظ دو تھاواں تے"
+    }
+  ],
+  "translation": "کہ بادشاہ نے ناتن نبی نوں آکھیا: ویکھو، میں دیار دے رُکھاں دے گھر وِچ وس رہیا واں، تے ایلوہیم دا صندوق پَردے دے وِچکار بیٹھا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "31ccea80d0379e85173d7e2cb2180ba9f273e35533fd66c1cca8a7693c8cbbf7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/7\/1-4.1792103269174.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ نے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتن"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبی"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ویکھو"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ہُن"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "وس رہیا واں"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "گھر وِچ"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "دیار دے رُکھاں دے"
+    },
+    {
+      "surface": "וארון",
+      "gloss": "تے صندوق"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم دا"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "بیٹھا اے"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "وِچکار"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "پَردے دے"
+    }
+  ],
+  "timestamp": "2026-10-15T22:27:49.175024609Z",
+  "model": "glm-5.3"
+}

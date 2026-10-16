@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 9:26",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ים סוף",
+      "rationale": "لفظی 'سرکنڈ سمندر' — ریتی ترجمے 'لال سمندر' (ریڈ سی) نیں؛ سرکنڑاں دا سمندر مقصود اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "دے نال اے",
+      "rationale": "عبرانی وِچ 'אשר את' بہت سمجھوتے ول نال اے؛ پنجابی جملے لئی 'دے نال' جوڑیا"
+    }
+  ],
+  "translation": "تے بادشاہ شلوموہ نے عِتسیون-گِوِر وِچ جہازی بیڑا بنایا، جیہڑا ⟨את⟩ اِیلوت دے نال اے، سرکنڈ سمندر دے کنڈھے اُتے، اِدوم دے دیس وِچ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "391e4aa4ce5bf703c0e466d1ca6ab4933123c95d460f0b6ca60b7da7dffc8d35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/9\/25-28.1792104322457.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "تے جہازی بیڑا"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بنایا"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلوموہ"
+    },
+    {
+      "surface": "בעציון",
+      "gloss": "عِتسیون"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "گِوِر وِچ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اِیلوت"
+    },
+    {
+      "surface": "אלות",
+      "gloss": "اِیلوت"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "کنڈھے"
+    },
+    {
+      "surface": "ים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "سرکنڈ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "دیس وِچ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "اِدوم"
+    }
+  ],
+  "timestamp": "2026-10-15T22:45:22.458181707Z",
+  "model": "glm-5.3"
+}

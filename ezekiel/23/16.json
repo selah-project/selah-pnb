@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 23:16",
+  "book": "ezekiel",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "وَل",
+      "rationale": "כשדימה دی آخری ہے دی سمت دا نشان — 'کسدی دے پاس'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "سنیہے",
+      "rationale": "מלאכים لفظی 'ایلچی' — ایتھے بھیجے گئے پیغام بَردار"
+    }
+  ],
+  "translation": "تے اپنیاں اکھاں دے ویکھن نال اوہ اوہناں اُتے ٹریندی ہوئی، تے اوہنے اوہناں ول سنیہے بھیجے — کسدی ⟨وَل⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "dacb64c37969304caf8c5961234958764c13c2b9ee9ee0b393d1fcb25f11c250",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/23\/13-16.1792109652194.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותעגב",
+      "gloss": "تے ٹریندی ہوئی"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "اوہناں اُتے"
+    },
+    {
+      "surface": "למראה",
+      "gloss": "دیکھن نال"
+    },
+    {
+      "surface": "עיניה",
+      "gloss": "اپنیاں اکھاں"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "تے بھیجیا"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "سنیہے"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "اوہناں ول"
+    },
+    {
+      "surface": "כשדימה",
+      "gloss": "کسدی ⟨وَل⟩"
+    }
+  ],
+  "timestamp": "2026-10-16T00:14:12.196135049Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 98:9",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 98,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "انصاف",
+      "rationale": "שפט دوناں واری — 'judge' دی تھاں پنجابی 'انصاف کرنا'، جیہڑا فیصلہ سنان دے تصور نوں کھولھدا اے"
+    },
+    {
+      "kind": "elision",
+      "subject": "לפני",
+      "rationale": "فعل دی تھاں 'ساہمنے' — 'چہرے دے ساہمنے' دا پنجابی وِچ کوئی سچجیا جوڑ نئیں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לשפט\/ישפט",
+      "rationale": "شپפט مُڈھ دا دہراؤ — 'انصاف کرن لئی آؤندا اے… انصاف کریگا' دوناں واری اکو مُڈھ"
+    }
+  ],
+  "translation": "یاہوہ دے ساہمنے، کیوں جو اوہ آؤندا اے دھرتی نوں justice کرن لئی؛ اوہ تیبیل نوں صدق نال justice کریگا تے قوماں نوں سدھائی نال۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e797c9f279e53fd4058f59d6fad8424791762f76385941241fc44906669385ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/98\/9-9.1792113424814.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "دے ساہمنے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آؤندا اے"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "انصاف کرن لئی"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "دھرتی نوں"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "انصاف کریگا"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "تیبیل نوں"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "صدق نال"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "تے قوماں نوں"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "سدھائی نال"
+    }
+  ],
+  "timestamp": "2026-10-16T01:17:04.814882188Z",
+  "model": "glm-5.3"
+}

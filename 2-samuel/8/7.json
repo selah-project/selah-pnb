@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 8:7",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אל",
+      "rationale": "'אל עבדי' — 'غلاماں دے کول\/نال' بمقابلہ KJV دی 'تے' (on the servants)؛ عبرانی 'کول' آکھدا اے"
+    },
+    {
+      "kind": "hapax",
+      "subject": "שלט",
+      "rationale": "'שֶׁלֶט' (ڈال\/غ atra) دی سبھ توں ودھ ایہو تھاں اے؛ مطلب وِچ وی متفق نئیں"
+    }
+  ],
+  "translation": "تے داوِد نے سونے دیاں ⟨את⟩ ڈالاں لئیاں جیہڑیاں ہدَدعِزر دے غلاماں کول سی، تے اوہناں نوں یروشلایم لیایا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "25fcba5ea5436c48696b93dc5e4836f1ca700ab725e9fb0d8576aa72734df495",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/8\/5-8.1792103251469.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "لئیاں"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سونے دیاں ڈالاں"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "ڈالاں"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "سونے دیاں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "היו",
+      "gloss": "سی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "עבדی",
+      "gloss": "غلاماں"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "ہدَدعِزر"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "لیایا"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم"
+    }
+  ],
+  "timestamp": "2026-10-15T22:27:31.470136810Z",
+  "model": "glm-5.3"
+}

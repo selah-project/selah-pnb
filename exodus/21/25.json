@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "lex talionis",
+      "rationale": "Exact equivalence of injury for injury — a tariff of measure for measure."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כויה…כויה",
+      "rationale": "Threefold word-for-word repetition (X תחת X) builds a legal rhythm; Punjabi keeps the echo."
+    }
+  ],
+  "translation": "ساڑھا ساڑھے بدلے، زخم زخم بدلے، چوٹ دا نشاں چوٹ دے نشاں بدلے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "53e0b8cbd51981da536f2e3eda27d770934bb16c3914d1ab31d11e087bce34d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/21\/25-28.1792096715976.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "ساڑھا"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "بدلے"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "ساڑھے"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "زخم"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "بدلے"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "زخم"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "چوٹ دا نشاں"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "بدلے"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "چوٹ دے نشاں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:38:35.976972044Z",
+  "model": "glm-5.3"
+}

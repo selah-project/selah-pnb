@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 35:23",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "ایلوہیم\/ادونای",
+      "rationale": "دعا دا سِدھا ادھار، جاگن دا حکم ربّ نوں"
+    },
+    {
+      "kind": "idiom",
+      "subject": "جاگ اُٹھّ",
+      "rationale": "جاگنا\/ہوشیار ہونا — سریر دے جاگن دی مورت، مطلب مداخلت کرنا"
+    }
+  ],
+  "translation": "جاگ اُٹھّ تے میرے فیصلے لئی ⟨کھلو⟩، اے میرے ایلوہیم تے میرے ادونای، میرے جھگڑے لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "62a9386b2fa9834f237bbb5a747f8a9d777c61801934371a508b20b182a65367",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/35\/21-24.1792112260865.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העירה",
+      "gloss": "جاگ اُٹھّ"
+    },
+    {
+      "surface": "והקיצה",
+      "gloss": "تے ہشیار ہو"
+    },
+    {
+      "surface": "למשפטי",
+      "gloss": "میرے فیصلے لئی"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "اے میرے ایلوہیم"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "تے میرے ادونای"
+    },
+    {
+      "surface": "לריבי",
+      "gloss": "میرے جھگڑے لئی"
+    }
+  ],
+  "timestamp": "2026-10-16T00:57:40.865793217Z",
+  "model": "glm-5.3"
+}

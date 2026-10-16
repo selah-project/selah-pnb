@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 39:17",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "השׁה",
+      "rationale": "causative 'made her forget' (ylt) vs 'deprived her' (kjv\/asv) — ایتھے بھلا دتی دتی گئی اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "توں",
+      "rationale": "پنجابی دی المتیو شدت لئی 'توں' شامل کیتا گیا، عبرانی وِچ صرف فعل اے۔"
+    }
+  ],
+  "translation": "کیونجے ایلوہیم نے اوہنوں حکمت ⟨توں⟩ بھلا دتی اے، تے سمجھ وِچ اوہدے نال کوئی حصہ نئیں دتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b0824b03a1eb400679b7a1c8600f2827655390c27762f80533db61b8cf597d83",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/39\/17-20.1792116538348.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "השה",
+      "gloss": "بھلا دتی اے"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ایلوہیم نے"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "حصہ دتا"
+    },
+    {
+      "surface": "לה",
+      "gloss": "اوہدے نال"
+    },
+    {
+      "surface": "בבינה",
+      "gloss": "سمجھ وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T02:08:58.349378438Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 20:3",
+  "book": "joshua",
+  "lang": "pnb",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מגאל הדם",
+      "rationale": "لفظی “خون دا گوایل ⟨بدل لین والا رشتے دار⟩” — قریبی رشتے دار دا فرض سی؛ “وصول کرن والا” اوہدے نال رہندا اے۔"
+    },
+    {
+      "kind": "alternative",
+      "subject": "לנוס שמה רוצח",
+      "rationale": "عبرانی اَگے روپ اے — “قاتل دے نسّن لئی” — پنجابی جملہ وکارگے روپ منگدا اے۔"
+    }
+  ],
+  "translation": "تاں جو قاتل، جیہڑا بھُل نال، بِنا جانکاری دے جان ماردا اے، اوتھے نس سکے؛ تے اوہ تُہاڈے لئی پناہ بنن، خون دے وصول کرن والے توں ⟨بچن⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "37074ecb82818d098037b6f9d9124a57fb5df0627c523c4c7396dc92a7f20696",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joshua\/20\/1-4.1792101189801.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לנוס",
+      "gloss": "نس سکے"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "اوتھے"
+    },
+    {
+      "surface": "רוצח",
+      "gloss": "قاتل"
+    },
+    {
+      "surface": "مכה",
+      "gloss": "ماردا اے"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "بھُل نال"
+    },
+    {
+      "surface": "בבלי",
+      "gloss": "بِنا"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "جانکاری دے"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "تے اوہ بنن"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُہاڈے لئی"
+    },
+    {
+      "surface": "למקלט",
+      "gloss": "پناہ"
+    },
+    {
+      "surface": "מגאל",
+      "gloss": "وصول کرن والے"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "خون دے"
+    }
+  ],
+  "timestamp": "2026-10-15T21:53:09.802471753Z",
+  "model": "glm-5.3"
+}

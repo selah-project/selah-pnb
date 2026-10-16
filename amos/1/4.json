@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 1:4",
+  "book": "amos",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "کھا جاوے گی",
+      "rationale": "עכל ‘کھانا’ — اگّ لفظی طور تے قلعیاں نوں ‘کھا’ جاوے گی، عبرانی دی صُورت رکھی گئی"
+    }
+  ],
+  "translation": "تے میں حزایل دے گھر وِچ اگّ بھیجاں گا، تے اوہ بن-ہداد دے قلعیاں نوں کھا جاوے گی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "556b396dade6b4c5de378a20456f8a43db9a81aca80b568114318f8b13d623cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/amos\/1\/1-4.1792110809459.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "تے میں بھیجاں گا"
+    },
+    {
+      "surface": "אש",
+      "gloss": "اگّ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "گھر وِچ"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "حزایل"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "تے کھا جاوے گی"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "قلعیاں نوں"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "ہداد"
+    }
+  ],
+  "timestamp": "2026-10-16T00:33:29.461290686Z",
+  "model": "glm-5.3"
+}

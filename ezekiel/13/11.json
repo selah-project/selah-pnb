@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 13:11",
+  "book": "ezekiel",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "اے شیل پتھراں دی کِل",
+      "rationale": "عبرانی پتھراں نوں سدھا خطاب کردا اے ('تسیں، اے شیل دے پتھر') — پنجابی وِچ کِل دا اسم کڈھنا پیا۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩",
+      "rationale": "پنجابی فعل نوں فاعل دا اشارہ چاہیدا سی؛ عبرانی 'והוא' دی طرح وابستہ نئیں، کیونکہ ויפל تے ڈِگݨ والی دیوار اے۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "ואתנה",
+      "rationale": "کجھ مترجم 'تسیں' دے بجائے 'میں دینواں گا' پڑھدے نیں؛ نقل شدہ نحو دے مطابق شیل پتھراں نوں سدھا خطاب اے۔"
+    }
+  ],
+  "translation": "آکھ اوہناں مَلن والیاں نوں جیہڑے ادھوری سُرکی مَلدے نیں، کہ ⟨اوہ⟩ ڈِگ جاوے گی؛ واوڑدا مینہہ آوے گا، تے تسیں، اے شیل پتھراں دی کِل، ڈِگسو، تے زور دا Regents whirlwind زور دی آندھی اوہنوں پاڑ دِوے گی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "04a57dc34d8b131d1e4601f79bd961ed7a6d2ccc887a39cfd8862e807441d99d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/13\/9-12.1792109184759.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "آکھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "טחי",
+      "gloss": "مَلن والیاں"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "ادھوری سُرکی"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "تے ڈِگ جاوے"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ہووے"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "مینہہ"
+    },
+    {
+      "surface": "שוטף",
+      "gloss": "واوڑدا ہویا"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "تے تسیں"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "پتھراں"
+    },
+    {
+      "surface": "אלגביש",
+      "gloss": "شیل"
+    },
+    {
+      "surface": "תפלנה",
+      "gloss": "ڈِگسو"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "تے ہوا"
+    },
+    {
+      "surface": "סערות",
+      "gloss": "زور دی آندھی"
+    },
+    {
+      "surface": "תבקע",
+      "gloss": "پاڑ دِوے گی"
+    }
+  ],
+  "timestamp": "2026-10-16T00:06:24.761047992Z",
+  "model": "glm-5.3"
+}

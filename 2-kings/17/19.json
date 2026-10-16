@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 17:19",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חקות",
+      "rationale": "'رِیتاں' — مول مطلب 'لِکھیاں ہوئیاں مقرر ضابطے'۔"
+    }
+  ],
+  "translation": "یہوداہ نے وی یاہوہ اپنے ایلوہیم دیاں حکماں دی ⟨את⟩ پالنا نئیں کیتی، سگوں یِسرائیل دے رِیتاں اُتے ٹُریا جیہڑیاں اوہناں بنایاں سن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a20b12cd2146b1bea3684db4b89dc58a4d069828fa5184c98eb6b47448512664",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/17\/17-20.1792105485226.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ نے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "پالنا کیتی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حکماں دی"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "حکماں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "اپنے ایلوہیم"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ٹُریا"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "رِیتاں اُتے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل دے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑیاں"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "بنایاں سن"
+    }
+  ],
+  "timestamp": "2026-10-15T23:04:45.227227454Z",
+  "model": "glm-5.3"
+}

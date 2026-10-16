@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 9:19",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "کوئی فعل نئیں",
+      "rationale": "عبرانی وِچ ایہ آیت فعل توں اے — صرف تندیرا اے جو آیت 18 دے ذبح نال جُڑدی اے؛ پنجابی جملے ⟨اوہ⟩ جیہڑا دی لو لَیا"
+    }
+  ],
+  "translation": "تے ⟨את⟩ چربیاں — بیل توں تے مینڈھے توں — پوچھل، تے ⟨اوہ⟩ جو اندرنیاں نوں ڈھانکدا اے، تے گُردے، تے جگر دی پرت۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "90782fe8624baa7804f79d9147f8d2b6ee8cff8e6fc12a1403870be559b61e2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/9\/17-20.1792097602787.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "چربیاں"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "چربیاں"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "השור",
+      "gloss": "بیل"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "تے توں"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "مینڈھا"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "پوچھل"
+    },
+    {
+      "surface": "והמכסה",
+      "gloss": "تے ڈھانکدا"
+    },
+    {
+      "surface": "והכלית",
+      "gloss": "تے گُردے"
+    },
+    {
+      "surface": "ויתרת",
+      "gloss": "تے پرت"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "جگر"
+    }
+  ],
+  "timestamp": "2026-10-15T20:53:22.788992312Z",
+  "model": "glm-5.3"
+}

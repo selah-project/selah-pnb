@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 15:7",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על פני מצרים",
+      "rationale": "'مِتصرایم دے مُونہہ اُتے' — سرلِکھت 'مِتصرایم دے ساہمنے'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "حویلاہ توں شُور تک",
+      "rationale": "ہلاش دا جُغرافیائی پیمانہ دوناں انتاں نال"
+    }
+  ],
+  "translation": "تے شاؤل نے ⟨את⟩ عمالیک نوں ماریا، حویلاہ توں تُہاڈے شُور وِچ آؤن تک، جیہڑا مِتصرایم دے مُونہہ اُتے اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0a955b7d8dae29e8aef1339ddbc58eb33abd967e7699924eaa4a1d829a501b09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/15\/5-8.1792102568522.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "تے ماریا"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عمالیک"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "عمالیک"
+    },
+    {
+      "surface": "מחוילה",
+      "gloss": "حویلاہ توں"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "تُہاڈے آؤن"
+    },
+    {
+      "surface": "שור",
+      "gloss": "شُور"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مُونہہ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم"
+    }
+  ],
+  "timestamp": "2026-10-15T22:16:08.523308927Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 131:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 131,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אם לא",
+      "rationale": "عبرانی 'کیہ نئیں؟' = پنجابی 'بے شک' — شرطی روپ قوتِ حلفی وچ بدلیا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/زندگی-طاقت اے، صرف 'جان' نئیں"
+    },
+    {
+      "kind": "crux",
+      "subject": "גמול",
+      "rationale": "دُدھ چھڈیا ہویا بال — کجھ پڑھدے نیں 'گود وِچ بال'، پر جڑ ח-מ-ל توں دُدھ چھڈاؤناے"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨اپنی⟩",
+      "rationale": "عبرانی אמו سازندی سমبندھ وِچ اے؛ پنجابی نوں 'اپنی' چائیدا اے"
+    }
+  ],
+  "translation": "بے شک میں اپنی جان نوں ٹکایا تے چُپ کرایا اے، جیویں دُدھ چھڈیا ہویا بال ⟨اپنی⟩ ماں نال ہوندا اے؛ اویں ہی میری جان میرے وِچ دُدھ چھڈیا ہویا بال اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1c0cb547ae6b76470ef40cc8726145e6975bbcec089364c071e37d7b93009b6a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/131\/1-3.1792113990380.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "بے شک ⟨کیہ⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "میں ٹکایا"
+    },
+    {
+      "surface": "ודוממתי",
+      "gloss": "تے چُپ کرایا"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "اپنی جان نوں"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "جیویں دُدھ چھڈیا ہویا بال"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "نال"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ماں"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "اویں ہی دُدھ چھڈیا ہویا بال"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "میرے وِچ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میری جان"
+    }
+  ],
+  "timestamp": "2026-10-16T01:26:30.381044380Z",
+  "model": "glm-5.3"
+}

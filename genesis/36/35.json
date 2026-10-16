@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 36:35",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "عیبرو وِچ کوئی فعل نیہں؛ پنجابی جملے لئی 'سی' پایا گیا۔"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ہَدَد",
+      "rationale": "کجھ مترجم مَطریِق 'ہدد' لکھدے نیں؛ ساڈی ریت عبرانی آواز اے۔"
+    }
+  ],
+  "translation": "تے حُوشام مر گیا، تے اودے تھاں ہَدَد، بِدَد دا پُتر، جیہنے مُوآب دے میدان وِچ ⟨את⟩ مِدیان نوں ماریا، راج کرن لگا؛ تے اودی شہر دا ناں عَوّیت سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "746cedd1d45d5bec26ceaa6aad19da1bbdd4514685f815f6dfde2bf64e7e665f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/36\/33-36.1792095570246.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "تے مر گیا"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "حُوشام"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "تے راج کرن لگا"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "اودے تھاں"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "ہَدَد"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "بِدَد"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "جیہنے ماریا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مِدیان"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "مِدیان"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "میدان وِچ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مُوآب"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "تے ناں"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "اودی شہر دا"
+    },
+    {
+      "surface": "עוית",
+      "gloss": "عَوّیت"
+    }
+  ],
+  "timestamp": "2026-10-15T20:19:30.247037922Z",
+  "model": "glm-5.3"
+}

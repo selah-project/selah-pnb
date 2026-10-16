@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 5:10",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "بَتّ · حومر · ایفہ",
+      "rationale": "آیت پیماناں دی گنتی نال فصل دی تھڑ دسدی اے — دس ایکر انگور اِک بَتّ، حومر بیج اِک ایفہ۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "צמד",
+      "rationale": "ਸ਼ਬਦ ਦا مطلب «جوڑ» (بیلّاں دی جوڑی، دن دا کم) — «ایکر» رلیٹھ معنی اے؛ پنجابی وِچ «جوڑ» رکھیا۔"
+    }
+  ],
+  "translation": "کیونجے انگوراں دے باغ دے دس جوڑ اِک بَتّ ⟨پیمانہ⟩ بناون گے، تے اِک حومر بیج اِک ایفہ بناوے گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b11006f1e6d9ab8e268edf6389367ebe4432f963b552b337684334a8d8032c78",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/5\/9-12.1792105890559.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "دس"
+    },
+    {
+      "surface": "צמדי",
+      "gloss": "جوڑ"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "انگوراں دا باغ"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "بناون گے"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بَتّ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "اِک"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "تے بیج"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "حومر"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "بناوے گا"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "ایفہ"
+    }
+  ],
+  "timestamp": "2026-10-15T23:11:30.559776516Z",
+  "model": "glm-5.3"
+}

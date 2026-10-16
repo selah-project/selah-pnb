@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 19:2",
+  "book": "ezekiel",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "Hebrew lacks a copula in the question; Punjabi requires one."
+    },
+    {
+      "kind": "substitution",
+      "subject": "پالے",
+      "rationale": "רבתה literally means 'multiplied\/increased'; 'reared\/nourished' is the standard sense here."
+    }
+  ],
+  "translation": "تے آکھ: تیری ماں کیہ سی؟ اِک لویا، شیراں وِچکار بیٹھی، نکے شیراں وِچ اپنے بچے پالے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d8d884efe0a22ed50725aee063d41e73343fe339cfee654274f65f1f5099d9ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/19\/1-4.1792109423732.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "تے آکھ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "تیری ماں"
+    },
+    {
+      "surface": "לביא",
+      "gloss": "لویا"
+    },
+    {
+      "surface": "בין",
+      "gloss": "وِچکار"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "شیراں"
+    },
+    {
+      "surface": "רבצה",
+      "gloss": "بیٹھی"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "כפרים",
+      "gloss": "نکے شیراں"
+    },
+    {
+      "surface": "רבתה",
+      "gloss": "پالے"
+    },
+    {
+      "surface": "גוריה",
+      "gloss": "اپنے بچے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:10:23.733427291Z",
+  "model": "glm-5.3"
+}

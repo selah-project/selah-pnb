@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "اِک… دوجا… سویرے… شاماں",
+      "rationale": "دوہرے وقت دا حساب — سویر تے شام"
+    },
+    {
+      "kind": "you",
+      "subject": "تیار کرو گے",
+      "rationale": "یِسرائیل دے پُتراں ول جمع خطاب"
+    }
+  ],
+  "translation": "⟨את⟩ اِک لیلا سویرے تیار کرو گے، تے ⟨את⟩ دوجا لیلا شاماں دے وِچکار تیار کرو گے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c5b90edf946f889fa14d15da624c04cc5724aa28e13f03e1958766bb81328d77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/28\/1-4.1792099208201.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اِک لیلا"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "اوہ لیلا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "اِک"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "تیار کرو گے"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "سویرے"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "دوجا لیلا"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "اوہ لیلا"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دوجا"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "تیار کرو گے"
+    },
+    {
+      "surface": "בין",
+      "gloss": "وِچکار"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "شاماں دے"
+    }
+  ],
+  "timestamp": "2026-10-15T21:20:08.202624346Z",
+  "model": "glm-5.3"
+}

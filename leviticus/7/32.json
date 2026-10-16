@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 7:32",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "אתם רِitr 'تُساں دیو' — یِسرائیل نوں سِدھا مخاطب اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "پَر",
+      "rationale": "שוו ٹِبیا\/پَر دا مطلب اے — 'مونڈھا' (shoulder) غلط اے"
+    }
+  ],
+  "translation": "تے ⟨את⟩ سجّے پَر نوں کاہن لئی چڑھاوا دے دِتو، تُہاڈیاں سلامتی قربانیاں وِچوں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c428945c0500d8fec1e932a13dfd8954068f89c14f7b9c113f222bc982b4f4e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/7\/29-32.1792097429907.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "سجّا پَر"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "پَر"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "سجّا"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "دے دِتو"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "چڑھاوا"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "کاہن لئی"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "وِچوں قربانیاں"
+    },
+    {
+      "surface": "שלמיכם",
+      "gloss": "تُہاڈیاں سلامتیاں دیاں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:50:29.908148774Z",
+  "model": "glm-5.3"
+}

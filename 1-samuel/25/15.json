@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 25:15",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "چا کے",
+      "rationale": "'جدوں' دا جوڑ پنجابی جملہ بناؤندا اے، عبرانی وِچ بھیڑاں دا صرف مصدر اے۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "פקדנו",
+      "rationale": "'گھٹایا\/گوانجا' بمقابلہ 'پرچیا\/کھوجیا' — کجھ وی نئیں گھٹیا توں کجھ وی نئیں مِلیا تک معنی ممکن نیں۔"
+    }
+  ],
+  "translation": "تے اوہ بندے ساڈے لئی بہت چنگے سن، تے سانوں شرم نئیں کروایا، تے سانوں کجھ وی نئیں گھٹایا، سارے دن جدوں اسیں اوہناں نال ⟨את⟩ رلدے رہے، چا کے سانوں کھیت وِچ ہونا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f31918c70d8ab991d80eaaa3feb942cda977601c4cac09f9b1e91c21798a190b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/25\/13-16.1792102874089.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והאנשים",
+      "gloss": "تے اوہ بندے"
+    },
+    {
+      "surface": "טבים",
+      "gloss": "چنگے"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ساڈے لئی"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بہت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "הכלמנו",
+      "gloss": "شرم کروایا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "פקדנו",
+      "gloss": "گھٹایا"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "کجھ وی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "دن"
+    },
+    {
+      "surface": "התהלכנו",
+      "gloss": "رلدے رہے"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ اوہناں نال"
+    },
+    {
+      "surface": "בהיותנו",
+      "gloss": "سانوں ہونا"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "کھیت وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T22:21:14.090548198Z",
+  "model": "glm-5.3"
+}

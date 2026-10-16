@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 24:4",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ויחזק",
+      "rationale": "مول 'تنگ مچھیا\/سختی کیتی' — 'جِت گیا' مطلب دا ترجمہ اے۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "پڑتال",
+      "rationale": "لوک گِنن دی مہم ٹری — گنتی دا سلسلہ۔"
+    }
+  ],
+  "translation": "پر بادشاہ دا بچن جوآب تے تے فوج دے سرداراں اُتے جِت گیا، تے جوآب تے فوج دے سردار بادشاہ دے ساہمنے توں نِکھرے کہ ⟨את⟩ لوکائی دی، ⟨את⟩ یِسرائیل دی پڑتال کرن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f4111468f13fb10dfd6227c011b60d6c70e7e977581a6a2d23579809c0621d6a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/24\/1-4.1792103905749.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "جِت گیا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "بچن"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ دا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تے"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "جوآب"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سرداراں"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "فوج دے"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "تے نِکھرے"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "جوآب"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "تے سردار"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "فوج دے"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ساہمنے توں"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ دے"
+    },
+    {
+      "surface": "לפקד",
+      "gloss": "کہ پڑتال کرن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لوکائی"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوکائی دی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یِسرائیل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل دی"
+    }
+  ],
+  "timestamp": "2026-10-15T22:38:25.750504984Z",
+  "model": "glm-5.3"
+}

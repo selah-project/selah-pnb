@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 73:12",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "دَولت",
+      "rationale": "חיל طاقت، فوج، دَولت سبھ معنی رکھدا اے؛ اتھے موازنہ شریراں دی فتح\/مادھو پرچاوے اُتے اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "نیں",
+      "rationale": "عبرانی وِچ کوئی فعل نئیں؛ پنجابی جملہ لئی “نیں” پایا گیا۔"
+    }
+  ],
+  "translation": "ویکھو، ایہہ بدکار نیں، تے ہمیشہ آرام والے — ایہناں دَولت ودھا لئی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "76b9dbbdc790bd624493e24736de2792cb7d9b78b74ca3d8c08d3434ef6ddea3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/73\/9-12.1792112972831.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ویکھو"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "ושלוי",
+      "gloss": "تے آرام والے"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "השגו",
+      "gloss": "ودھا لئی اے"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "دَولت"
+    }
+  ],
+  "timestamp": "2026-10-16T01:09:32.832389571Z",
+  "model": "glm-5.3"
+}

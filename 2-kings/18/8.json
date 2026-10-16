@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ממגדל נוצרים עד עיר مבצר",
+      "rationale": "'پہرداراں دے برج توں قلعہ بندی نگر تک' — مطلب اے وسیع علاقے، نکے توں وڈے تھاواں تک"
+    },
+    {
+      "kind": "crux",
+      "subject": "ממגדל נוצרים",
+      "rationale": "'نگرانی دا برج' — کجھ مترجم اِک نال 'نگرانی چوکی' لکھدے نیں"
+    }
+  ],
+  "translation": "اوہنے ⟨את⟩ فلسطیاں نوں کُٹیا، عزہ تک تے ⟨ואת⟩ اوہدیاں حداں نوں، پہرداراں دے برج توں قلعہ بندی نگر تک۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f9ecda6c511acc5c8d9e2ff185d30b54354310136802932755bcd8d7183d15c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/18\/5-8.1792105426347.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "اوہنے"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "کُٹیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "فلسطی"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "فلسطی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "عزہ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اوہدیاں حداں"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "اوہدیاں حداں نوں"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "برج توں"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "پہرداراں دے"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "نگر"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "قلعہ بندی"
+    }
+  ],
+  "timestamp": "2026-10-15T23:03:46.348742950Z",
+  "model": "glm-5.3"
+}

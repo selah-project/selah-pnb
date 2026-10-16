@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 25:2",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ותבא במצור",
+      "rationale": "پٹھّی: 'شہر گھیرے وِچ داخل ہویا' — یعنی گھیرا کسدا گیا"
+    },
+    {
+      "kind": "measurement",
+      "subject": "اکترویں سال",
+      "rationale": "گھیرے دی مُدت دا حساب"
+    }
+  ],
+  "translation": "تے شہر گھیرے وِچ آ گیا، تِصدقیاہو بادشاہ دے اکترویں سال تک۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "793c1b79d6a46f73a9d80ef205e48a6527eba2c2b3bdf4185fe617aa96db5e88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/25\/1-4.1792105789141.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "تے آ گیا"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "گھیرے وِچ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "اکترویں"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "⟨⟩"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "بادشاہ دے"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "تِصدقیاہو"
+    }
+  ],
+  "timestamp": "2026-10-15T23:09:49.142379260Z",
+  "model": "glm-5.3"
+}

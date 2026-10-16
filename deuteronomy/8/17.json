@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 8:17",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "پنجابی وچ کارگری帮助 جملے لئی 'اے' چاہیدی اے جیہڑی عبرانی وِچ نئیں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כחי\/עצם ידי",
+      "rationale": "زور تے ہتھ دی طاقت دی جوڑی — خُود کَمائی دا دعویٰ، 8:18 وِچ ایہو لفظ یاہوہ ول مُڑدا اے"
+    }
+  ],
+  "translation": "تے تُسیں اپنے دِل وِچ آکھسو: میرا زور تے میرے ہتھ دی طاقت نے میرے لئی ⟨את⟩ ایہہ دَولت بنائی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b48ff8d6402ada310d27768ea942a00c289fb5bf0feef81d39a7987c6200ac34",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/8\/17-20.1792099848835.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "تے تُسیں آکھسو"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "اپنے دِل وِچ"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "میرا زور"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "تے طاقت"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "میرے ہتھ دی"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بنائی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرے لئی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایہہ دَولت"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "ایہہ دَولت"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایہہ"
+    }
+  ],
+  "timestamp": "2026-10-15T21:30:48.836411022Z",
+  "model": "glm-5.3"
+}

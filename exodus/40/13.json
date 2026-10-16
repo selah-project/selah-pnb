@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 40:13",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כהן کال",
+      "rationale": "عبرانی وِچ 'کاہن دا کم' دی وضاحت نئیں، صرف فعل וכהן اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משחת\/קדשת",
+      "rationale": "مسح تے پوتر کرن دے اِکو وزن والے فعل، پنجابی وِچ ترتیب دا ناگو ردو بدل دکھائی نئیں دیندا"
+    }
+  ],
+  "translation": "تے تُوں اہرون نوں ⟨את⟩ مقدس کپڑے پاویں ⟨את⟩، تے تُوں اوہنوں مسح کریں تے اوہنوں پوتر کریں، تے اوہ میرے لئی کاہنی کرے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "93e8ca27f7a020a821be726069d73ddf2bb37ea320b1e10138f4ef022d24314c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/40\/13-16.1792097333291.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והלבשת",
+      "gloss": "تے تُوں پاویں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اہرون"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مقدس کپڑے"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "کپڑے"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "تے تُوں مسح کریں"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ اوہنوں",
+      "marks": "اہرون"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "تے پوتر کریں"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ اوہنوں",
+      "marks": "اہرون"
+    },
+    {
+      "surface": "וכהן",
+      "gloss": "تے کاہنی کرے"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرے لئی"
+    }
+  ],
+  "timestamp": "2026-10-15T20:48:53.292207537Z",
+  "model": "glm-5.3"
+}

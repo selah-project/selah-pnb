@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 37:9",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "کٹے جانگے",
+      "rationale": "כרת دا مूکل 'کٹنا' اے — 'برباد ہونگے' نئیں، صورت رکھی گئی اے"
+    }
+  ],
+  "translation": "کیوں جو برائی کرن والے کٹے جانگے، تے جیہڑے یاہوہ دی اُڈیک کردے نیں، اوہی دھرتی دے وارث ہونگے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "94b52e3aa9128e32f461e630f0771a68e33165db4dbab5de9e058b803fd3b005",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/37\/9-12.1792112305335.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "برائی کرن والے"
+    },
+    {
+      "surface": "יכרתון",
+      "gloss": "کٹے جانگے"
+    },
+    {
+      "surface": "וקוי",
+      "gloss": "تے جیہڑے … دی اُڈیک کردے نیں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "اوہی"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "وارث ہونگے"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "دھرتی"
+    }
+  ],
+  "timestamp": "2026-10-16T00:58:25.336302001Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 23:12",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوہی",
+      "rationale": "אתו دا اشارہ واضح کرن لئی پنجابی وِچ پورا فعل پُورا کیتا گیا"
+    }
+  ],
+  "translation": "تے اوہنے جواب دِتا تے آکھیا: کی میں ⟨את⟩ اوہدا نئیں رکھواں گا جو یاہوہ میرے مونہہ وِچ پاؤے، ⟨את⟩ اوہی بولدا رہواں گا؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4d821b17d7ed8203e5c315bec57a0ddb536cbfea9a7357d220f4778193576097",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/23\/9-12.1792099024075.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "تے جواب دِتا"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "کی … نئیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہدا (جو یاہوہ پاؤے)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "پاؤے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "میرے مونہہ وِچ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "اوہی بولنا"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "رکھواں گا"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "بولدا"
+    }
+  ],
+  "timestamp": "2026-10-15T21:17:04.076854305Z",
+  "model": "glm-5.3"
+}

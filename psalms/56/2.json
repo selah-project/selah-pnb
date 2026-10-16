@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 56:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לחם\/ילחצני",
+      "rationale": "לחם (لڑنا) تے לחץ (دبانا) دی آواز ملدی اے — 'لڑدا لڑدا دباؤندا اے' دی غڑپ پنجابی وِچ جزوی رہندی اے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שאפני",
+      "rationale": "ਸ਼ਾਫ਼ 'سانس گھٹ کھا کے نگلنا' — 'نگل گیا' صرف اک پہلو دسدا اے۔"
+    },
+    {
+      "kind": "you",
+      "subject": "ایلوہیم",
+      "rationale": "سِدھی دعا ایلوہیم نوں۔"
+    },
+    {
+      "kind": "invitation",
+      "subject": "حنان",
+      "rationale": "میہر دی منگ — دعا دی میل بھرو آواز۔"
+    }
+  ],
+  "translation": "میری میہر کر، اے ایلوہیم، کیونجے فانی بندہ ⟨مینوں⟩ نگل گیا اے؛ سارا دن لڑدا ہویا اوہ میں نوں دباؤندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a38d85356925c49aedc5bc6ca629f47794193efb8e83720aad23df69d223b3d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/56\/1-4.1792112702799.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "میری میہر کر"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "اے ایلوہیم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "שאפני",
+      "gloss": "نگل گیا اے ⟨مینوں⟩"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "فانی بندہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لڑدا ہویا"
+    },
+    {
+      "surface": "ילחצני",
+      "gloss": "میں نوں دباؤندا اے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:05:02.800550802Z",
+  "model": "glm-5.3"
+}

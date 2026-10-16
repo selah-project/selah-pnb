@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 40:21",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "کف",
+      "rationale": "כף اصل وِچ کھلی ہتھلی\/تلی اے، 'ہتھ' نئیں"
+    },
+    {
+      "kind": "addition",
+      "subject": "عہدے",
+      "rationale": "משקהו اوہدے سروے دا مطلب 'اوہدے پیمانے دا کم'، پنجابی نوں 'عہدے' دا وادھو لفظ منگدا سی"
+    }
+  ],
+  "translation": "تے اوہنے ⟨את⟩ پیمانے والیاں دے سردار نوں اوہدے پیمانے دے عہدے اُتے مُڑ لایا، تے اوہنے پیالہ فرعون دی ہتھیلی اُتے رکھیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6f29a32fb94cab91aa1712ead137520fb620ea41ccf0685860fe441300813feb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/40\/21-23.1792095685035.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "مُڑ لایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پیمانے والیاں دے سردار نوں"
+    },
+    {
+      "surface": "שר",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "پیمانے والیاں دے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "משקהו",
+      "gloss": "اوہدے پیمانے دے عہدے"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "تے اوہنے رکھیا"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "پیالہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ہتھیلی"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    }
+  ],
+  "timestamp": "2026-10-15T20:21:25.036593340Z",
+  "model": "glm-5.3"
+}

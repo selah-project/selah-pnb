@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 34:5",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اوہنے⟩",
+      "rationale": "عبرانی فعل دا فاعل لکھیا نئیں، پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "elision",
+      "subject": "את (H854) 'دے نال'",
+      "rationale": "دوجا את اِوند قیدی اے ناں کہ نشان، فیر وی ⟨את⟩ رکھیا گیا"
+    }
+  ],
+  "translation": "تے یعقوو نے سنیا کی ⟨اوہنے⟩ ⟨את⟩ دیناہ نوں، اوہدی دھی نوں، میلا کیتا اے؛ تے اوہدے پتر ⟨את⟩ اوہدے مال دے نال کھیت وِچ سن؛ تے یعقوو اوہناں دے آن تک چُپ رہیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "acbba441ef351150b8f15d65c954d83b33d82e476362df2ccca2283dff75687f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/34\/5-8.1792095636736.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "تے یعقوو نے"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سنیا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "میلا کیتا اے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دیناہ نوں"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "دیناہ"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "اوہدی دھی"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "تے اوہدے پتر"
+    },
+    {
+      "surface": "היו",
+      "gloss": "سن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہدے مال دے نال"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "اوہدے مال"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "کھیت وِچ"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "تے چُپ رہیا"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "באם",
+      "gloss": "اوہناں دے آن"
+    }
+  ],
+  "timestamp": "2026-10-15T20:20:36.737561614Z",
+  "model": "glm-5.3"
+}

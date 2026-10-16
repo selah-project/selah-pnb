@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 38:5",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ماپے تے ڈور",
+      "rationale": "دھرتی دی عمارت دے ماپ تے سِروے دی ڈور — ناپ-ناپ دا بول اے۔"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כי תדע",
+      "rationale": "عبرانی 'کیوں جو تُو جاندا اے' تکریر سوال دا اے، صرف سچا سوال نئیں۔"
+    },
+    {
+      "kind": "you",
+      "subject": "ایوب",
+      "rationale": "راست سوال ایوب ول — یاہوہ دی گواہی دا ٹکرا۔"
+    }
+  ],
+  "translation": "کون نے اُسدے ماپے رکھے — کیوں جو تُو جاندا اے؟ یا کون نے اُس اُتے ڈور پھیلا دِتا؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "35623f0b1f61aaee2571be6a4edbafacd83698cf0771b2e2e12f37b8aa57a482",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/38\/5-8.1792116461369.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "שם",
+      "gloss": "رکھے"
+    },
+    {
+      "surface": "ממדיה",
+      "gloss": "اُسدے ماپے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "تُو جاندا اے"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "پھیلا دِتا"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "اُس اُتے"
+    },
+    {
+      "surface": "קו",
+      "gloss": "ڈور"
+    }
+  ],
+  "timestamp": "2026-10-16T02:07:41.370402547Z",
+  "model": "glm-5.3"
+}

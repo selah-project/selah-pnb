@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 5:15",
+  "book": "ecclesiastes",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לרוח",
+      "rationale": "'روح' نئیں — ایتھے ہوا دا مطلب اے (ہوا لئی محنت)، اِیلیہے دا مشہور مورت"
+    },
+    {
+      "kind": "crux",
+      "subject": "עמת",
+      "rationale": "'عَمّت' نوں 'نال\/مُطابق' یا 'سارے پاسے' — دونویں پڑھائیاں نیں"
+    }
+  ],
+  "translation": "تے ایہہ وی بری بیماری اے: جویں اوہ آیا، سارے پاسے اوویں اِی جاویگا — تے اوہدے لئی کیہ فیدا، جیہڑا ہوا لئی محنت کرے؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4198bf3345ce9fc8d5ebfbe5c36ef51455d5edb50a979a643fa438a780c1d8b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ecclesiastes\/5\/13-16.1792117546233.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "تے وی"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بری"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "بیماری"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "עמת",
+      "gloss": "پاسے"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "جویں اوہ آیا"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اوویں اِی"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "جاویگا"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "تے کیہ"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "فیدا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدے لئی"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "جیہڑا محنت کرے"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "ہوا لئی"
+    }
+  ],
+  "timestamp": "2026-10-16T02:25:46.234580416Z",
+  "model": "glm-5.3"
+}

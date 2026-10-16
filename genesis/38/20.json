@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 38:20",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوہدے نوں",
+      "rationale": "מצאה دا مفعول عبرانی وِچ پچھیتر وِچ لُکیا اے ('اوہنوں نہ لَبیا')"
+    },
+    {
+      "kind": "substitution",
+      "subject": "لَبیا",
+      "rationale": "מצאאہ 'نہ مِلیا' — لاہوری پنجابی وِچ 'نہ لَبیا' قدرتی اے"
+    }
+  ],
+  "translation": "تے یہوداہ نے ⟨את⟩ بکریاں دے چھوٹے بکرے نوں اپنے یار عدُلّامی دے ہتھ بھیجیا تاں جے اوہ عورت دے ہتھوں ضمانت واپس لے آوے، پر اوہ ⟨اوہدے نوں⟩ نہ لَبیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "36035d04b26f0f84ffc04c212e50a83983a380533ff71c6ee1d376c67c1122a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/38\/17-20.1792095753518.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "تے بھیجیا"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بکریاں دے چھوٹے بکرے نوں"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "چھوٹے بکرے"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "بکریاں دے"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "دے ہتھ"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "اپنے یار"
+    },
+    {
+      "surface": "העדלמי",
+      "gloss": "عدُلّامی"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "تاں جے لے آوے"
+    },
+    {
+      "surface": "הערבון",
+      "gloss": "ضمانت"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "دے ہتھوں"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "عورت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "پر نہ"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "لَبیا"
+    }
+  ],
+  "timestamp": "2026-10-15T20:22:33.520593561Z",
+  "model": "glm-5.3"
+}

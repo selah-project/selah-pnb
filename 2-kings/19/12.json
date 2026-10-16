@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 19:12",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "کیتا",
+      "rationale": "عبرانی سوال دا نشان نئیں دِندا؛ پنجابی وِچ سوال لئی چاہیدا"
+    },
+    {
+      "kind": "measurement",
+      "subject": "شہراں دی لسٹ",
+      "rationale": "اشوری فتحاں دی گنتی والی لسٹ — گوزان، حاران، رصف، تلاسّر دے عدن"
+    },
+    {
+      "kind": "you",
+      "subject": "حِزقیاہو نوں",
+      "rationale": "اشوری پیغام دی جاری للکار"
+    }
+  ],
+  "translation": "کیتا قومیں دے ایلوہیم ⟨את⟩ اوہناں بچا لئے، جِنہاں نوں میرے پیو-داداں برباد کیتا — ⟨את⟩ گوزان، تے ⟨את⟩ حاران، تے رصف، تے عدن دے پُتر جِہڑے تلاسّر وِچ سن؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "97553276df9e01b03d8d8d05d5b8032e0174dd0c5c0503f2c546e12717f6d0ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/19\/9-12.1792105443441.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "کیتا بچا لئے"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ اوہناں",
+      "marks": "قومیں دے ایلوہیم"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "دے ایلوہیم"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "قومیں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جِنہاں نوں"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "برباد کیتا"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "میرے پیو-داداں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گوزان"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "گوزان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "حاران"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "حاران"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "تے رصف"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "تے دے پُتر"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "عدن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جِہڑے"
+    },
+    {
+      "surface": "בתלאשר",
+      "gloss": "تلاسّر وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T23:04:03.442566052Z",
+  "model": "glm-5.3"
+}

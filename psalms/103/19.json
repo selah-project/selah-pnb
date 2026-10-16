@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 103:19",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "משלה صفتی فعل اے — 'راج کردی اے' لئی پنجابی مددгар فعل دِتا۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "دوہرے اسمان",
+      "rationale": "השמים دوہرا صیغہ اے — 'اسماناں' وِچ دوہراپن گواچیا۔"
+    }
+  ],
+  "translation": "یاہوہ نے اسماناں وِچ اُودا تخت ٹکایا، تے اُودی بادشاہی سب اُتے راج کردی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2ed312f170965d0b1999dbd283f2022e3498415a54f083213ea30f0eacb7e436",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/103\/17-20.1792113495914.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ نے"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "اسماناں وِچ"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "ٹکایا"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "اُودا تخت"
+    },
+    {
+      "surface": "ומלכותו",
+      "gloss": "تے اُودی بادشاہی"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سب اُتے"
+    },
+    {
+      "surface": "משלה",
+      "gloss": "راج کردی اے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:18:15.915295081Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 42:11",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ישאו",
+      "rationale": "لفظی 'چکن' — عبرانی 'آواز چکن' دی سوچ اے، پنجابی 'اُچی آواز پاون' نال دتی"
+    },
+    {
+      "kind": "crux",
+      "subject": "סלע",
+      "rationale": "'چٹان' عام اسم وی اے تے ادوم دا چٹانی شہر سیلع وی — ایناں ترجمے 'چٹان دے وسنیک' کردے نیں، اِتھے تھاں دا ناں رکھیا"
+    },
+    {
+      "kind": "addition",
+      "subject": "خوشی نال",
+      "rationale": "ירנו دا مادھم رن٘گ پنجابی گاؤن نال کھوہ جاندا اے، خوشی دا پھوک واضح کیتا"
+    }
+  ],
+  "translation": "بیابان تے اوہدے شہر اُچی آواز پاون، چوکیاں جیہڑیاں قیدار وِچ وسدیاں نیں؛ سیلع دے وسنیک ⟨خوشی نال⟩ گاؤن، پہاڑاں دیاں چوٹیاں توں چیخن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "283b51a72dc1ace145851846f3e4ecab8c5d3280644b94ba304ac661891ebf76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/42\/9-12.1792106677449.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "اُچی آواز پاون"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "بیابان"
+    },
+    {
+      "surface": "ועריו",
+      "gloss": "تے اوہدے شہر"
+    },
+    {
+      "surface": "חצרים",
+      "gloss": "چوکیاں"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "وسدیاں نیں"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "قیدار"
+    },
+    {
+      "surface": "ירנו",
+      "gloss": "گاؤن"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "وسنیک"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "سیلع"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "چوٹیاں توں"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "پہاڑاں دیاں"
+    },
+    {
+      "surface": "יצוחו",
+      "gloss": "چیخن"
+    }
+  ],
+  "timestamp": "2026-10-15T23:24:37.450223427Z",
+  "model": "glm-5.3"
+}

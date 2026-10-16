@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 69:9",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מוזר\/ונכרי",
+      "rationale": "دو قریبی مترادف — 'اوپرا' تے 'بدیسی' — اکو وارفتگی دا دُہرا بیان، پنجابی وِچ پھیرا کجھ کھُل جاندا اے۔"
+    }
+  ],
+  "translation": "مَیں اپنے بھراواں لئی اوپرا بنیا، تے میری ماں دے پُتراں لئی بدیسی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "deacf9bac66a1bf073997e0ba7b132c46ba3017dd3621a4741e2c45b4ae10746",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/69\/9-12.1792112864854.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מוזר",
+      "gloss": "اوپرا"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "مَیں بنیا"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "اپنے بھراواں لئی"
+    },
+    {
+      "surface": "ונכרי",
+      "gloss": "تے بدیسی"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "پُتراں لئی"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "میری ماں دے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:07:44.854614946Z",
+  "model": "glm-5.3"
+}

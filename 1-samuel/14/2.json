@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 14:2",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "چھ سو بندے",
+      "rationale": "گنتی — شاؤل دے نال رہن والیاں دی گنتی"
+    },
+    {
+      "kind": "substitution",
+      "subject": "انار ⟨دے رُکھ⟩",
+      "rationale": "הרמון چٹان دا ناں وی ہو سکدا اے (‘کلسا’، اِک تِکھی چوٹی)؛ املا اِکو اے"
+    }
+  ],
+  "translation": "تے شاؤل گِبعہ دے کنڈھے تے، مِگرون وِچ انار ⟨دے رُکھ⟩ ہیٹھ بیٹھا سی، تے لوک جیہڑے اوہدے نال سن، قریب چھ سو بندے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f3f239d979def61dfaad2a9f51b974d0d853c812f13eba13dc1898ace168f51e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/14\/1-4.1792102494544.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "تے شاؤل"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "بیٹھا سی"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "کنڈھے تے"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "گِبعہ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ہیٹھ"
+    },
+    {
+      "surface": "הרמון",
+      "gloss": "انار"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "במגרון",
+      "gloss": "مِگرون وِچ"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "تے لوک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑے"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "اوہدے نال"
+    },
+    {
+      "surface": "כשש",
+      "gloss": "قریب چھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندے"
+    }
+  ],
+  "timestamp": "2026-10-15T22:14:54.545782963Z",
+  "model": "glm-5.3"
+}

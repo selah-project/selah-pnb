@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "آؤ، ویکھو",
+      "rationale": "لفظاں نال پاٹھ نوں سدیا گیا اے — دوواں بول چال دیاں حکم دیاں شکلاں۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שם\/שמות",
+      "rationale": "שם (رکھیا) تے שמות (ویرانیاں) وِچ آواز دی سنگت اے، جیہڑی پنجابی وِچ کھو جاندی اے۔"
+    }
+  ],
+  "translation": "آؤ، ویکھو یاہوہ دے کماں نوں، جیہڑے اُس نے دھرتی وِچ ویرانیاں پائیاں نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4bb028f6c60e54043b340f871415b1dd75b009cf2e31c5010be783dc15d98f8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/46\/9-12.1792112521447.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "آؤ"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "ویکھو"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "کماں نوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑے"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اُس نے پائیاں"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ویرانیاں"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "دھرتی وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:02:01.447829982Z",
+  "model": "glm-5.3"
+}

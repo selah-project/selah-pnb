@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 19:1",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "نبی",
+      "rationale": "עברי נביא سامی رشتے دار لفظ اے؛ پیغمبر\/رسول رد نیں"
+    }
+  ],
+  "translation": "تے اہآب نے اِیزِبیل نوں دسیا ⟨את⟩ سارا جو ایلیاہو نے کیتا، تے ⟨את⟩ سارا جو اوہنے ماریا — ⟨את⟩ سارے نبیاں نوں تلوار نال۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ff60ce540c7eec4ff51cfc1258ed4c277a45583ce185b8a96852ffcc5426aac5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/19\/1-4.1792104764237.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "نے دسیا"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "اہآب"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "اِیزِبیل نوں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سارا جو ایلیاہو نے کیتا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کیتا"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ایلیاہو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "سارا جو اوہنے ماریا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "ماریا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سارے نبیاں نوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "نبی"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "تلوار نال"
+    }
+  ],
+  "timestamp": "2026-10-15T22:52:44.238410322Z",
+  "model": "glm-5.3"
+}

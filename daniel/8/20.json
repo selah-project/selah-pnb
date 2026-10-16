@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "daniel 8:20",
+  "book": "daniel",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "دو \/ نیں",
+      "rationale": "הקרנים جمع اے — 'دو' تے copula 'نیں' پنجابی نے دتے"
+    },
+    {
+      "kind": "addition",
+      "subject": "اوہ",
+      "rationale": "بادشاہاں دا اشارہ دین لئی 'اوہ' دا وادھا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "بادشاہ",
+      "rationale": "מלכי 'بادشاہ' نیں — 'مادای تے پارس دے بادشاہ' — ایہہ رومال دا کھلاڑ اے، عبرانی اسم جمع اے"
+    }
+  ],
+  "translation": "مینڈھا جیہڑا تُسیں ویکھیا اے، جیہدے دو سنگ نیں، اوہ مادای تے پارس دے بادشاہ نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b79ab87780cf7b9f740bd9afe9a8f5a3b37948d8fddfb1eaf173642ba8edb2b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/daniel\/8\/17-20.1792118576228.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האיל",
+      "gloss": "مینڈھا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "تُسیں ویکھیا اے"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "مالک"
+    },
+    {
+      "surface": "הקרנים",
+      "gloss": "دو سنگاں دا"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "مادای دے"
+    },
+    {
+      "surface": "ופרס",
+      "gloss": "تے پارس"
+    }
+  ],
+  "timestamp": "2026-10-16T02:42:56.229721036Z",
+  "model": "glm-5.3"
+}

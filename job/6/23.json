@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 6:23",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨کی میں آکھیا⟩",
+      "rationale": "پچھلی آیت دا سوال اگّوں چلدا اے، پنجابی لئی سُرت پہلاں منگی"
+    }
+  ],
+  "translation": "تے ⟨کی میں آکھیا⟩: دشمن دے ہتھ توں مینوں بچاؤ, تے ظالماں دے ہتھ توں میں دا فدیہ دیو؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0c0ccdd16e8d254307c775c38f0c185216d02efe2486d93b7125baf45b24150c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/6\/21-24.1792115463592.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומלטוני",
+      "gloss": "تے مینوں بچاؤ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ہتھ توں"
+    },
+    {
+      "surface": "צר",
+      "gloss": "دشمن"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "تے ہتھ توں"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "ظالماں"
+    },
+    {
+      "surface": "תפדוני",
+      "gloss": "میں دا فدیہ دیو"
+    }
+  ],
+  "timestamp": "2026-10-16T01:51:03.593059185Z",
+  "model": "glm-5.3"
+}

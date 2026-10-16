@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 73:28",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קרבת אלהים לי",
+      "rationale": "'ایلوہیم دی نیڑتا' اسم اے، فعل نئیں — KJV 'نیڑے جانا چنگا اے'، JPS 'نیڑتا میرا بھلا اے'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "کَم",
+      "rationale": "מלאכות دا مطلب کم\/خدمت اے، صرف 'کمال' نئیں"
+    }
+  ],
+  "translation": "تے میرے لئی ایلوہیم دی نیڑتا چنگی اے؛ میں ادونای یاہوہ نوں ⟨اوہدے وِچ⟩ اپنی پناہ رکھیا اے، تاں جے تیرے سارے کَم سنائے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2cc8df8a4d01344a5592ca92d78a3473980c6b99e83385ee6a12ee5b76933da1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/73\/25-28.1792112978616.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "تے میں"
+    },
+    {
+      "surface": "קרבת",
+      "gloss": "نیڑتا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم دی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرے لئی"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگی اے"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "میں رکھیا اے"
+    },
+    {
+      "surface": "באדני",
+      "gloss": "ادونای وِچ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "میری پناہ"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "سنائے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "מלאכותיך",
+      "gloss": "تیرے کَم"
+    }
+  ],
+  "timestamp": "2026-10-16T01:09:38.617900899Z",
+  "model": "glm-5.3"
+}

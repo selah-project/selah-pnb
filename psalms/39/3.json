@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 39:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נעכר",
+      "rationale": "'روڑھیا\/ کھلڑھیا' — زیادہ تر 'بھڑکیا' لے کے جاندے نیں، JPS 'روکیا گیا' — مُڈھلا مطلب پانی نوں گندا کرنا"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ہور⟩",
+      "rationale": "عبرانی وِچ نئیں، مگر 'بھڑکیا' دا پورا جملہ پنجابی وِچ منگدا اے"
+    }
+  ],
+  "translation": "چُپ ہو گیا میں، بے-آواز؛ ماں چُپ کیتی، چنگی گل توں وی؛ تے میرا دُکھ ⟨ہور⟩ بھڑکیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7c2ab32a375ff9e54959f3239a0df1553b2b559a7759a3e1daabf1d04a1ed9fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/39\/1-4.1792112446737.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "چُپ ہو گیا میں"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "بے-آواز"
+    },
+    {
+      "surface": "החשיתי",
+      "gloss": "ماں چُپ کیتی"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "چنگی گل توں وی"
+    },
+    {
+      "surface": "וכאבי",
+      "gloss": "تے میرا دُکھ"
+    },
+    {
+      "surface": "נעכר",
+      "gloss": "بھڑکیا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:00:46.738650837Z",
+  "model": "glm-5.3"
+}

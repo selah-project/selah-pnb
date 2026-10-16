@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 18:26",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "دَبَر",
+      "rationale": "دabra لفظ 'کلام\/معاملہ' دوویں اے؛ اتھے معاملہ ٹھیک اے"
+    },
+    {
+      "kind": "elision",
+      "subject": "הם",
+      "rationale": "زور والا 'اوہ خود' — پنجابی وِچ خود نال دتا"
+    }
+  ],
+  "translation": "تے اوہ ہر ویلے ⟨את⟩ قوم دا فیصلہ کردے؛ اوہ ⟨את⟩ اوکھے معاملے نوں موشے کول لیاؤندے، تے ہر نکّے معاملے دی اوہ خود فیصلہ کردے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bba99d2e4c5d04cad30ece01ac68fa339deeb7f04e6a5ff30b550c0440431446",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/18\/25-27.1792096591909.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושפטו",
+      "gloss": "تے فیصلہ کردے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قوم"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ویلے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوکھے معاملے"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "معاملے"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "اوکھے"
+    },
+    {
+      "surface": "יביאון",
+      "gloss": "لیاؤندے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے ہر"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "معاملے"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "نکّے"
+    },
+    {
+      "surface": "ישפוטו",
+      "gloss": "فیصلہ کردے"
+    },
+    {
+      "surface": "הם",
+      "gloss": "خود"
+    }
+  ],
+  "timestamp": "2026-10-15T20:36:31.910318165Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 30:15",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جاناں",
+      "rationale": "נפש ساہ\/جان\/جی اے، فلسفیجانا 'روح' نئیں۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ירבה\/ימעיט",
+      "rationale": "ودھوے\/گھٹوے دی سموتی جوڑی — برابری دا حکم اکو وزن نال۔"
+    },
+    {
+      "kind": "you",
+      "subject": "تُسیں",
+      "rationale": "نفس جامع تُوں — 'تہاڈیاں جاناں' — موسیٰ نوں آکھیا گیا حکم۔"
+    }
+  ],
+  "translation": "امیر نئیں ودھوےگا تے غریب نئیں گھٹوےگا ادھے شیکل توں، یاہوہ دی ترُومات ⟨את⟩ دین لئی، تہاڈیاں جاناں اُتے کفارہ کرن لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0026fa4643c4ed30338f5fbe4bca1e078a1cb7db93dc588fc9bf2231de52f10f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/30\/13-16.1792097025410.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העשיר",
+      "gloss": "امیر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "ودھوےگا"
+    },
+    {
+      "surface": "והדל",
+      "gloss": "تے غریب"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "ימעיט",
+      "gloss": "گھٹوےگا"
+    },
+    {
+      "surface": "ממחצית",
+      "gloss": "ادھے توں"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "شیکل"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "دین لئی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ دی ترُومات"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "ترُومات"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "کفارہ کرن لئی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "تہاڈیاں جاناں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:43:45.411707978Z",
+  "model": "glm-5.3"
+}

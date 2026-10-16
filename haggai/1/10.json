@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "haggai 1:10",
+  "book": "haggai",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نے",
+      "rationale": "پنجابی فعل لئی کرم اُتے مطلوب، عبرانی وِچ نئیں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כלאו\/כלאה",
+      "rationale": "اِکو амḍَل צو واری — اسمان تے دھرتی دوویں 'روک' دیندے نیں، سامان آواز دا جوڑ"
+    }
+  ],
+  "translation": "اس لئی تواڈے اُتے اسماناں نے شبنم روکی تے دھرتی نے اپنی فصل روکی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3559b18aa1d248de7a5905fc9c49bc5e7ae14d6e8791e730f3ea0c8c052470a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/haggai\/1\/9-12.1792111449664.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "اس"
+    },
+    {
+      "surface": "כן",
+      "gloss": "لئی"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "تواڈے اُتے"
+    },
+    {
+      "surface": "כלאו",
+      "gloss": "روکی"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "اسماناں"
+    },
+    {
+      "surface": "מטל",
+      "gloss": "شبنم"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "تے دھرتی"
+    },
+    {
+      "surface": "כלאה",
+      "gloss": "روکی"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "اپنی فصل"
+    }
+  ],
+  "timestamp": "2026-10-16T00:44:09.664978005Z",
+  "model": "glm-5.3"
+}

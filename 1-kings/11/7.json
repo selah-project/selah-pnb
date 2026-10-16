@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 11:7",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "بامہ",
+      "rationale": "במה 'اُچی تھاں \/ پوجا دی اُچی جاہ' — عبرانی شکل رکھی، 'مزار' یا 'مندر' نئیں"
+    },
+    {
+      "kind": "idiom",
+      "subject": "על פני ירושלם",
+      "rationale": "'یروشلایم دے ساہمنے' — مول 'یروشلایم دے منہ اُتے'"
+    },
+    {
+      "kind": "crux",
+      "subject": "מלך\/מולך",
+      "rationale": "v5 דا מלכם (مِلکوم) تے v7 צਾ למלך (مولیکھ) — اِکو بت دے دو عبرانی روپ نیں"
+    }
+  ],
+  "translation": "اوہ ویلے شلوموہ نے بامہ بنائی کموش لئی — موآب دا گھناؤنا بت — پہاڑ اُتے جیہڑا یروشلایم دے ساہمنے اے، تے مولیکھ لئی — عمون دے پُتراں دا گھناؤنا بت۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e57c78e1f7c9fca019d2ef49a9ee66025e2be40748568ca4db381e7aae6d132a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/11\/5-8.1792104396830.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "اوہ ویلے"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "بنائی"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومוہ نے"
+    },
+    {
+      "surface": "במה",
+      "gloss": "بامہ"
+    },
+    {
+      "surface": "לכמוש",
+      "gloss": "کموش لئی"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "گھناؤنا بت"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "پہاڑ اُتے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ساہمنے"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم"
+    },
+    {
+      "surface": "ולמלך",
+      "gloss": "تے مولیکھ لئی"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "گھناؤنا بت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عمون"
+    }
+  ],
+  "timestamp": "2026-10-15T22:46:36.831526676Z",
+  "model": "glm-5.3"
+}

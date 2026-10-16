@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 23:6",
+  "book": "joshua",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨دی⟩",
+      "rationale": "תורת משہ construct اے — پنجابی جوڑ 'تورات دی کتاب' منگدا اے۔"
+    },
+    {
+      "kind": "invitation",
+      "subject": "ہمت نال رہو",
+      "rationale": "حکم — یوشعوا قوم نوں سِدھی مخاطب کردا اے۔"
+    },
+    {
+      "kind": "you",
+      "subject": "یِسرائیل",
+      "rationale": "پورا آیت دوجری شخص جمع دا خطاب اے۔"
+    }
+  ],
+  "translation": "تے تسیں بہت ہمت نال رہو، نگہ رکھن لئی تے کرن لئی ⟨את⟩ سارا لکھیا ہویا جو موشے دی تورات دی کتاب وِچ اے، کہ اوہدے توں سجے پاسے تے کبھے پاسے نہ پھٹکو۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5f5a2ed8404013cbe60c3c7ed3c6193131bb971a95de5526e700e35030e42703",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joshua\/23\/5-8.1792101304154.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחזקתם",
+      "gloss": "تے تسیں ہمت نال رہو"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بہت"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "نگہ رکھن لئی"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "تے کرن لئی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سارا لکھیا ہویا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "הכתוב",
+      "gloss": "لکھیا ہویا"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "کتاب وِچ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "تورات ⟨دی⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے دی"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "کہ نہ"
+    },
+    {
+      "surface": "סור",
+      "gloss": "پھٹکو"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "اوہدے توں"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "سجے پاسے"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "تے کبھے پاسے"
+    }
+  ],
+  "timestamp": "2026-10-15T21:55:04.154946577Z",
+  "model": "glm-5.3"
+}

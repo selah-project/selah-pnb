@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 5:26",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "כפר",
+      "rationale": "مُڈھ لفظ 'ڈھکنا' اے؛ «کفارہ کرنا» ریت دا مفہوم اے، ڈھکائی دا تصیر ہار گیا"
+    },
+    {
+      "kind": "addition",
+      "subject": "تاکہ",
+      "rationale": "לאשמה دے مقصد دا انکشاف — پنجابی جملے لئی شامل کیتا"
+    },
+    {
+      "kind": "crux",
+      "subject": "אחת מכל",
+      "rationale": "«ساریاں وِچوں اِک اُتے» — گنڈھ جیہڑی کرکے گنہگار بندا اے؛ کجھ مترجم اِسنوں جُٹ دے طور تے پڑھدے نیں"
+    }
+  ],
+  "translation": "تے کاہن اوہدے واسطے یاہوہ دے ساہمنے کفارہ کریگا، تے اوہنوں معاف کیتا جاوےگا — اِنہاں ساریاں گلاں وِچوں اِک اُتے جیہڑیاں اوہ کرے ⟨تاکہ⟩ اِس وِچ گنہگار بنے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e72e9be578792134e9626e8076cc5fa5751bd4834d83410a45040802ed2338b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/5\/25-26.1792097396402.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "تے کفارہ کریگا"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اوہدے واسطے"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "دے ساہمنے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "تے معاف کیتا جاوےگا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہنوں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "اِک"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ساریاں وِچوں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑیاں"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "اوہ کرے"
+    },
+    {
+      "surface": "לאשמה",
+      "gloss": "گنہگار بنے"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اِس وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T20:49:56.403368947Z",
+  "model": "glm-5.3"
+}

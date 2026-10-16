@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 119:53",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "بھاہ",
+      "rationale": "זלעפה اک جلی ہوئی ہوا یا غصے دی لپھت اے؛ 'بھاہ' تصویر رکھدا اے، 'دہشت' نئیں"
+    },
+    {
+      "kind": "crux",
+      "subject": "זלעפה",
+      "rationale": "'دہشت' (KJV) بمقابلہ 'سڑدیاں غصے دی لپھٹ' (JPS\/ASV) — دونوں پرانے نیں"
+    }
+  ],
+  "translation": "بھاہ مینوں پھڑ گئی رشتیاں توں، جیہڑے تیری تورات نوں چھڈ گئے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9436762ab9cfb774137d9b4ea8f9a7e0d6bc0c56891c9a58eaa37b100b21d52c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/119\/53-56.1792113830227.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זלעפה",
+      "gloss": "بھاہ"
+    },
+    {
+      "surface": "אחזתני",
+      "gloss": "مینوں پھڑ گئی"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "رشتیاں توں"
+    },
+    {
+      "surface": "עזבי",
+      "gloss": "چھڈن والیاں نے"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "تیری تورات نوں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:23:50.227645768Z",
+  "model": "glm-5.3"
+}

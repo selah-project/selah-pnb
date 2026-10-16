@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 17:3",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "اِلیاہو نوں حکم",
+      "rationale": "ربّ دا سِدھا حکم: ٹُر جا، پھیر، لُک جا — تن حکمی فعل۔"
+    },
+    {
+      "kind": "you",
+      "subject": "اِلیاہو",
+      "rationale": "ایہہ بچن خاص طور تے اِلیاہو ول اے۔"
+    },
+    {
+      "kind": "idiom",
+      "subject": "על פני הירדן",
+      "rationale": "اکوتی 'یردن دے منہ اُتے' = یردن دے ساہمنے\/اوہلے۔"
+    }
+  ],
+  "translation": "ایتھوں ٹُر جا، تے اپنا رُخ چڑھدے پاسے ول پھیر، تے نہر کریتھ وِچ لُک جا، جیہڑی یردن دے ساہمنے اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bdbf93178e807a081979c543dea798b3abe00eb771bbc55599859ae788ef2d11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/17\/1-4.1792104571882.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ٹُر جا"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ایتھوں"
+    },
+    {
+      "surface": "ופנית",
+      "gloss": "تے پھیر"
+    },
+    {
+      "surface": "לך",
+      "gloss": "اپنا"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "چڑھدے پاسے ول"
+    },
+    {
+      "surface": "ונסתרת",
+      "gloss": "تے لُک جا"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "نہر وِچ"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "کریتھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "פני",
+      "gloss": "منہ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "یردن"
+    }
+  ],
+  "timestamp": "2026-10-15T22:49:31.883796356Z",
+  "model": "glm-5.3"
+}

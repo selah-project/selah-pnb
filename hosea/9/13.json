@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 9:13",
+  "book": "hosea",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اے⟩ · ⟨اوہدا اے⟩",
+      "rationale": "پنجابی نوں جوڑن والے فعل چائیدے جیہڑے عبرانی نے نئیں لکھے"
+    },
+    {
+      "kind": "crux",
+      "subject": "לצור",
+      "rationale": "کیہ ایفرایم تسور (شہر) وانگ اے، جاں 'جدوں میں تسور ویکھیا' — ترجمیاں وِچ دونواں راہ نیں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שתולה בנוה",
+      "rationale": "ودی روپ ⟨روپ⟩ — ٹرِست وِچ لائی ہوئی — کساد وِچ ٹُٹ جاندا اے"
+    }
+  ],
+  "translation": "ایفرایم — جدوں میں ویکھیا، تسور وانگ، سوہنی تھاں وِچ لائیا گیا ⟨اے⟩؛ تے ایفرایم ⟨اوہدا اے⟩ کہ اوہدے پُترّاں نوں قاتل کول کڈھے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f6243b485cf7bec4dc7695fe6fadca4abcc53382ac49bec8bccc0ae4a6405495",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/hosea\/9\/13-16.1792110586198.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אפרים",
+      "gloss": "ایفرایم"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جدوں"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "میں ویکھیا"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "تسور وانگ"
+    },
+    {
+      "surface": "שתולה",
+      "gloss": "لائیا گیا"
+    },
+    {
+      "surface": "בנוה",
+      "gloss": "سوہنی تھاں وِچ"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "تے ایفرایم"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "کڈھے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "قاتل"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "اوہدے پُترّاں نوں"
+    }
+  ],
+  "timestamp": "2026-10-16T00:29:46.198965331Z",
+  "model": "glm-5.3"
+}

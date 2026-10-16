@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 60:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "שנים עשר אלף",
+      "rationale": "count of the slain: twelve thousand"
+    },
+    {
+      "kind": "addition",
+      "subject": "نال",
+      "rationale": "Hebrew infinitive בהצותו takes no preposition; Punjabi needs نال 'with' for the struggle"
+    }
+  ],
+  "translation": "جدوں اوہ ⟨את⟩ اَرام نَہرایم نال تے ⟨את⟩ اَرام صُوبہ نال لڑیا، تے یُوآب واپس آیا تے لون دی وادی وِچ ⟨את⟩ ادُوم نوں ماریا — باراں ہزار۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "355980abfbaa019127ae05d270b32ba9952e398369a1570b8b40c234829c51d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/60\/1-4.1792112766710.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בהצותו",
+      "gloss": "جدوں اوہ لڑیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَرام نَہرایم"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "اَرام"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "نَہرایم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "اَرام صُوبہ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "اَرام"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "صُوبہ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "تے واپس آیا"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یُوآب"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "تے ماریا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ادُوم"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ادُوم"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "وادی وِچ"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "لون"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "باراں"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨دس⟩"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    }
+  ],
+  "timestamp": "2026-10-16T01:06:06.711175694Z",
+  "model": "glm-5.3"
+}

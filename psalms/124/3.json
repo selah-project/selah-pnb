@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 124:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 124,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "غصہ",
+      "rationale": "אף damsitsdams جڑ ਨکّ\/ناس اے، غصے دی مورت 'نکّ دی بھڑک'؛ 'غصہ' سادہ کیتا"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בלע\/חיים",
+      "rationale": "'جِوندے نگلنا' عبرانی دی جیوندی مورت اے، پنجابی وِچ اوہی مورت رکھی"
+    }
+  ],
+  "translation": "اودوں اوہ سانوں جِوندے ⟨ای>> جِوندے سانوں نگل جاندے، اوہناں دے غصے دی بھڑک وِچ ساڈے اُتے،",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "646c456f53e3f44dafbf952afe823ed620272788a889bbda1712b861c0f4c190",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/124\/1-4.1792113996392.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "اودوں"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "جِوندے ⟨ای>> جِوندے"
+    },
+    {
+      "surface": "בלעונו",
+      "gloss": "سانوں نگل جاندے"
+    },
+    {
+      "surface": "בחרות",
+      "gloss": "دی بھڑک وِچ"
+    },
+    {
+      "surface": "אפם",
+      "gloss": "اوہناں دے غصے"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ساڈے اُتے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:26:36.393083469Z",
+  "model": "glm-5.3"
+}

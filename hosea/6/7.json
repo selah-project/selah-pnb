@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 6:7",
+  "book": "hosea",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כְּאָדָם",
+      "rationale": "دو پڑھتاں: 'آدم وانگوں' (پہلا بندہ) جاں 'بندیاں وانگوں' (عام اسم آدم) — لفظ اِکو اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עָבְרוּ בְרִית",
+      "rationale": "لفظی 'عہد پار ہوئے' — پنجابی وِچ 'عہد توڑنا' ٹکسالی اِدیوم، لفظی 'پار ہوݨ' بھروار گم ہو جاندی اے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "שָׁם",
+      "rationale": "'اوتھے' تھاں دسیوَن وی ہو سکدا اے (گلگال\/شیچم ورگا پوتر تھاں) تے زور دا 'اودوں' وی"
+    }
+  ],
+  "translation": "تے اوہ آدم وانگوں عہد توڑ گئے، اوتھے اوہناں میرے نال دھوکھا کیتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c818525ae574dde31efd66e91023b645295c9302d2e625baff48fe1bbc7c577f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/hosea\/6\/5-8.1792110454034.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "تے اوہ"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "آدم وانگوں"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "عہد توڑ گئے"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "عہد"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اوتھے"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "دھوکھا کیتا"
+    },
+    {
+      "surface": "בי",
+      "gloss": "میرے نال"
+    }
+  ],
+  "timestamp": "2026-10-16T00:27:34.035792373Z",
+  "model": "glm-5.3"
+}

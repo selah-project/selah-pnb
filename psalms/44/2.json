@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 44:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פעל \/ פעלת",
+      "rationale": "اسم تے فعل اِکو جڑھ توں — کم کیتا — پنجابی وِچ ایہہ جوڑ کھوہ جاندا اے۔"
+    },
+    {
+      "kind": "you",
+      "subject": "ایلوہیم",
+      "rationale": "سدھی مخاطبت خدا ول۔"
+    }
+  ],
+  "translation": "ایلوہیم! ساڈے کناں نال سُنیا اے، ساڈے پیوآں نے سانوں دسیا اے — ⟨اوہ⟩ کم جیہڑا اُنہاں دِناں وِچ کیتا، پرانے دِناں وِچ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a528b06f9b565e1b18c9832c4a1b1b25612bf448352341f89a8b410c74eaec38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/44\/1-4.1792112513610.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "ساڈے کناں نال"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "سُنیا اے"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "ساڈے پیوآں نے"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "دسیا اے"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "سانوں"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "کم"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "کیتا"
+    },
+    {
+      "surface": "בימיהם",
+      "gloss": "اُنہاں دِناں وِچ"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "دِناں وِچ"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "پرانے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:01:53.611083645Z",
+  "model": "glm-5.3"
+}

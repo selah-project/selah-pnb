@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 45:10",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "ביקרותיך",
+      "rationale": "ایہہ صورت یְקָרَוֹת دے نال صرف ایتھے آؤندی اے — قیمتی عورتاں\/ملکہ دے پاسے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨عورتاں⟩",
+      "rationale": "ביקרות اسم صفت اے، پنجانی لفظ منگدا اے۔"
+    },
+    {
+      "kind": "you",
+      "subject": "بادشاہ نوں",
+      "rationale": "آیت بادشاہ (دُلہا) نوں مخاطب اے۔"
+    }
+  ],
+  "translation": "بادشاہاں دیاں دھیّاں تیریاں قیمتی ⟨عورتاں⟩ وِچ نیں؛ ملکہ تیرے سجّے پاسے کھلوتی اے، اُوپھیر دے خالص سونے وِچ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "15bd46efc475de8ce0b91834e51b08724dc0458c8621ee8945062f58d2a616a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/45\/9-12.1792112535140.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנות",
+      "gloss": "دھیّاں"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "بادشاہاں دیاں"
+    },
+    {
+      "surface": "ביקרותיך",
+      "gloss": "تیریاں قیمتی"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "کھلوتی اے"
+    },
+    {
+      "surface": "שגל",
+      "gloss": "ملکہ"
+    },
+    {
+      "surface": "לימינך",
+      "gloss": "تیرے سجّے پاسے"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "خالص سونے وِچ"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "اُوپھیر"
+    }
+  ],
+  "timestamp": "2026-10-16T01:02:15.141583529Z",
+  "model": "glm-5.3"
+}

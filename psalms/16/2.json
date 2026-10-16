@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "میری بھلائی تیرے توں نئیں",
+      "rationale": "בל עליך — 'تیرے توں اگے نئیں' یا 'تیرے کول نئیں' یا 'تیرے لئی نئیں'؛ ترجمے بہوں وکھرے نیں۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "میں نے",
+      "rationale": "عبرانی وِچ کرملا نئیں؛ پنجابی فعل منگدا اے۔"
+    }
+  ],
+  "translation": "میں نے یاہوہ نوں آکھیا: ادونای، توں ایں؛ میری بھلائی تیرے توں ہور ⟨کوئی چیز⟩ نئیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "dac7418744feaab5a3e0868637f42acc9b8efebf12029a003f62e88da584ce76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/16\/1-4.1792111961935.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "آکھیا اے"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ نوں"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "توں ایں"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "میری بھلائی"
+    },
+    {
+      "surface": "בל",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تیرے توں"
+    }
+  ],
+  "timestamp": "2026-10-16T00:52:41.935690942Z",
+  "model": "glm-5.3"
+}

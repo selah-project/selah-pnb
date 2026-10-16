@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 19:13",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פנת שבטיה",
+      "rationale": "پینّا = کنج\/سردار؛ 'قوماں دے کنج'، 'قبیلےآں دا سہارا' تے 'سردار' — سب پڑھیاں جاندیاں نیں۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "مورکھ",
+      "rationale": "נואלו دی جڑ ׶אל 'ڈھیلا' توں اے — اِکھاں 'مورکھ' پنجابی وِچ صورت اے۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נשאו \/ התעו",
+      "rationale": "دو بھِنّے فعل گواہی دے — 'دھوکھے وِچ آئے' تے 'گواہ لائے'، ایہو جوڑ آیت 14 وِچ مُڑدا اے۔"
+    }
+  ],
+  "translation": "ضوعان دے سردار مورکھ ہو گئے، نوف دے سردار دھوکھے وِچ آ گئے؛ اوہناں مِتصرایم نوں ⟨את⟩ گواہ لایا، اوہدیاں قوماں دے سردار۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5fabc8087edf6a27b3969907c2c408d1bd9b295faadc7a1a922b88b08a633a4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/19\/13-16.1792106147025.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נואלו",
+      "gloss": "مورکھ ہو گئے"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "צען",
+      "gloss": "ضوعان"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "دھوکھے وِچ آ گئے"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "נף",
+      "gloss": "نوف"
+    },
+    {
+      "surface": "התעו",
+      "gloss": "گواہ لایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مِتصرایم"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "שבטיה",
+      "gloss": "اوہدیاں قوماں"
+    }
+  ],
+  "timestamp": "2026-10-15T23:15:47.026015082Z",
+  "model": "glm-5.3"
+}

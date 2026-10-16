@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 14:4",
+  "book": "judges",
+  "lang": "pnb",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "תאנה",
+      "rationale": "ایہ لفظ تنخ وِچ صرف ایتھے آیا اے — موکا\/ویلا لبھن دا ارادہ"
+    },
+    {
+      "kind": "crux",
+      "subject": "הוא מבקש",
+      "rationale": "'اوہ لبھدا سی' — شِمشون اے جاں یاہوہ؟ عبرانی ضمیر دوویں پاسے جا سکدا اے"
+    },
+    {
+      "kind": "mystery",
+      "subject": "לא ידעו",
+      "rationale": "ماپیاں نئیں جاندے سی — گل یاہوہ کول چھپی ہوئی سی، پاٹھک توں وی پہلاں"
+    }
+  ],
+  "translation": "تے اوہدا پیو تے اوہدی ماں نئیں جاندے سی کیوں جو ⟨ایہ گل⟩ یاہوہ ⟨توں⟩ سی، کیوں جو اوہ پلشتیم ⟨توں⟩ موکا لبھدا سی؛ تے اُس ویلے پلشتیم یِسرائیل اُتے راج کردے سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "88cc8afca2cab2eade86b4e8e75e4bd80cedecccfc9b2fa05512b72ea86660b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/judges\/14\/1-4.1792101853991.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואביו",
+      "gloss": "تے اوہدا پیو"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "تے اوہدی ماں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "جاندے سی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "یاہوہ ⟨توں⟩"
+    },
+    {
+      "surface": "היא",
+      "gloss": "اوہ ⟨سی⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "موکا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "لبھدا سی"
+    },
+    {
+      "surface": "מפלשתים",
+      "gloss": "پلشتیم ⟨توں⟩"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "تے اُس ویلے"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "اُس"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "پلشتیم"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "راج کردے سی"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "یِسرائیل اُتے"
+    }
+  ],
+  "timestamp": "2026-10-15T22:04:13.992653548Z",
+  "model": "glm-5.3"
+}

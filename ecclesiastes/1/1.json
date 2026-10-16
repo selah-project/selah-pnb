@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 1:1",
+  "book": "ecclesiastes",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨نیں⟩",
+      "rationale": "عبرانی وِچ کوئی کریا نئیں؛ سرلیکھ اے"
+    },
+    {
+      "kind": "hapax",
+      "subject": "קהלת",
+      "rationale": "کوہیلت ایسے لفظ دا ناں اے جیہڑا صرف ایسے کتاب وِچ ملدا اے — جمع کروݨ والا، کٹھ کرن والا"
+    }
+  ],
+  "translation": "کوہیلت دے بچن، داوِد دا پتر، یروشلایم وِچ بادشاہ ⟨نیں⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "afe5a10b8e4d5804652009388f716bf5e3c9dd731419a59f6bb831e8b5edcc8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ecclesiastes\/1\/1-4.1792117444471.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "بچن"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "کوہیلت ⟨دی⟩"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پتر"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد ⟨دا⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "یروشلایم وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T02:24:04.471932406Z",
+  "model": "glm-5.3"
+}

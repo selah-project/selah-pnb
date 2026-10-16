@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "یاہوہ",
+      "rationale": "حکم دیاں پُکاراں — یاہوہ ولّ سِدھی اپیل"
+    },
+    {
+      "kind": "idiom",
+      "subject": "موت دی نیند",
+      "rationale": "عبرانی بولی 'میتھوں ای اُکا سُماں' تے 'موت دا نیند سُونا' دووے سمرتھ — پنجابی نے نیند دی بیبن لی اے"
+    }
+  ],
+  "translation": "ویکھ چا، میرا جواب دے، یاہوہ میرے ایلوہیم! میریاں اکھیاں نوں چمکا، کیوں جے میں موت دی نیند نہ سُماں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "efb8878d0b1df9c3cf30654fe996d1340f7774bfcdc4f52894d25d7b511b3322",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/13\/1-4.1792111964508.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "ویکھ چا"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "میرا جواب دے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "میرے ایلوہیم"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "چمکا"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "میریاں اکھیاں نوں"
+    },
+    {
+      "surface": "פן",
+      "gloss": "کیوں جے … نہ"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "سُماں"
+    },
+    {
+      "surface": "המות",
+      "gloss": "موت دی نیند"
+    }
+  ],
+  "timestamp": "2026-10-16T00:52:44.509050648Z",
+  "model": "glm-5.3"
+}

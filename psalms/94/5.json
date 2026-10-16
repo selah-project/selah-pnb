@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 94:5",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوہ",
+      "rationale": "عبرانی وِچ فعل دا فاعل لکھیا نئیں، پنجابی جملے لئی چایا"
+    },
+    {
+      "kind": "you",
+      "subject": "یاہوہ",
+      "rationale": "ایتھے پہلی واری مخاطب ناں دا پکار اے — شعر دا موڑ"
+    }
+  ],
+  "translation": "تیرے قوم نوں، اے یاہوہ، ⟨اوہ⟩ رگڑ کے کُچی دیندے نیں، تے تیری وراثت نوں دباؤندے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c13dc5e8a29ba9e5ffdec15748eca7753f18822d289bd2b9bfc61e2bc2d9d757",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/94\/5-8.1792113340152.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "تیرے قوم نوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "ידכאו",
+      "gloss": "رگڑ کے کُچی دیندے نیں"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "تے تیری وراثت نوں"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "دباؤندے نیں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:15:40.153112276Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 119:32",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "دوڑاںگا دا چِنھ",
+      "rationale": "עתיד دا مطلب حال\/عزم — عبرانی وِچ صیغہ مستقبل اے، پنجابی وِچ پکا مستقبل آیا"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ארוץ \/ תרחיב",
+      "rationale": "دوڑ تے کھولھ — تنگی توں کھلارے ول حرکت،両 دوناں پنجابی وِچ رکھی گئی"
+    }
+  ],
+  "translation": "تیرے حکماں دا راہ میہ دوڑاںگا، کیونجے تُوں میرا دل کھولھ دیندا ایں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6de8aafe59e8fc5a3ba39775e4486f5bd33d22f5a9009b2b29113013a2e8294d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/119\/32-32.1792124169153.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "رايہ"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "تیرے حکماں دا"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "میں دوڑاںگا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "תרחיב",
+      "gloss": "تُوں کھولھ دیندا ایں"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "میرا دل"
+    }
+  ],
+  "timestamp": "2026-10-16T04:16:09.154048755Z",
+  "model": "glm-5.3"
+}

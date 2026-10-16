@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 10:8",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "نسلاں وِچ ہمیشہ",
+      "rationale": "ریت دا ویلہ ناپیا گیا اے — ہمیشہ، نسلاں دے نسلاں تک"
+    },
+    {
+      "kind": "substitution",
+      "subject": "چوناچیں",
+      "rationale": "חצוצרہ لمبی بانسری اے؛ پنجابی چوناچی نیڑے ترین سُری اے پر اصل وادی دکھا نئیں سکدا"
+    }
+  ],
+  "translation": "تے اہرون دے پُتر کاہن چوناچیں وَجن گے، تے ایہہ تہاڈے لئی تہاڈیاں نسلاں وِچ ہمیشہ لئی اک ریت ہووے گی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "717952d3133a016172b31818774583bfda892fd96fc9a19050f0f015b9883edd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/10\/5-8.1792098505696.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "تے … دے پُتر"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "יתקעו",
+      "gloss": "اوہ وَجن گے"
+    },
+    {
+      "surface": "בחצצרות",
+      "gloss": "چوناچیں"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "تے ہووے گی"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تہاڈے لئی"
+    },
+    {
+      "surface": "לחקת",
+      "gloss": "اک ریت"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیشہ لئی"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "تہاڈیاں نسلاں وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T21:08:25.697899565Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 32:37",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩",
+      "rationale": "عبرانی وِچ کردار اگلی آیت توں آندا اے، ضمیر پنجابی نے پایا"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צור",
+      "rationale": "چٹان — موسیٰ دے گیت وِچ یاہوہ دا ناں-چِنت (32:4) ہن وProsecuttے دیاں دیوتاواں اُتے لتھّیا اے"
+    }
+  ],
+  "translation": "تے ⟨اوہ⟩ آکھے گا: اوہناں دے ایلوہیم کتھے نیں، اوہناں دا چٹان جس وِچ اوہ پناہ لیندے سن؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1587efc7bb06a7ec286b79766b3718ac91eb5701e7edb39f3647766155d4c912",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/32\/37-40.1792100537536.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "تے آکھے گا"
+    },
+    {
+      "surface": "אי",
+      "gloss": "کتھے"
+    },
+    {
+      "surface": "אלהימו",
+      "gloss": "اوہناں دے ایلوہیم"
+    },
+    {
+      "surface": "צור",
+      "gloss": "چٹان"
+    },
+    {
+      "surface": "חסיו",
+      "gloss": "پناہ لیندے سن"
+    },
+    {
+      "surface": "בו",
+      "gloss": "جس وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T21:42:17.536487488Z",
+  "model": "glm-5.3"
+}

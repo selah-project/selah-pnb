@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 78:65",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מתרונן מיין",
+      "rationale": "'شراب توں ہلاریاں ماردا' — کجھ ترجمے 'شراب توں سنبھلیا' (جپس\/بی ایس بی) آکھدے نیں؛ پر wod رنانہ دا مطلب ہلارنا\/خوشی نال غاراں کرنا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "انسان وانگوں سوں",
+      "rationale": "عبرانی خدا نوں سُتے تے جاگدے ہوئے دسدا اے — اِک سانگی اے، ساتھی مطلب نئیں"
+    }
+  ],
+  "translation": "تے ادونای اِک سُتے ہوئے وانگوں جاگیا، جیویں اِک جوان سورمہ شراب توں ہلاریاں ماردا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ee1bbbefdf39b4da71dd4c1339c015cb762bedd0ae23a1942a770b897d331a93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/78\/65-68.1792113073158.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקץ",
+      "gloss": "تے جاگیا"
+    },
+    {
+      "surface": "כישן",
+      "gloss": "سُتے وانگوں"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "سورمے وانگوں"
+    },
+    {
+      "surface": "מתרונן",
+      "gloss": "ہلاریاں ماردا"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "شراب توں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:11:13.158927299Z",
+  "model": "glm-5.3"
+}

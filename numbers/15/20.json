@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 15:20",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "گورن",
+      "rationale": "گورن دراصل 'پِسائی دا کھلا ویہڑا' اے — 'کھلی ہوئی اَٹے دا ویہڑا' 'threshing floor' دا پنجابی روپ اے، مکمل ترجمہ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תרימו … תרימו",
+      "rationale": "آیت وِچ 'اُچا کرنا' تن واری آؤندا اے — ترُومہ\/ترُومت\/ترُومہ دی گردش، ایہہ دہراؤ رکھیا گیا اے"
+    }
+  ],
+  "translation": "اپنی کُٹی ہوئی اَٹے دے پہلے توں اِک چپاتی ترُومہ دے طور تے اُچا کریا کرو، جِویں کھلی ہوئی اَٹے دے ترُومہ ⟨ویہڑے⟩ دی طرحاں ایسے طرحاں تسیں ⟨את⟩ اوہنوں اُچا کرو گے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "54afb633c34b273555b0df7fba7fdc900f3154b8c8136d9315c627e9b3017a8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/15\/17-20.1792098738387.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "پہلے توں"
+    },
+    {
+      "surface": "ערסתכם",
+      "gloss": "کُٹی ہوئی اَٹے دے"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "چپاتی"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "تسیں اُچا کریا کرو"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "ترُومہ"
+    },
+    {
+      "surface": "כתרומת",
+      "gloss": "جِویں ترُومہ"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "کھلی ہوئی اَٹے دے ویہڑے"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ایسے طرحاں"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "تسیں اُچا کرو گے"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "اوہنوں"
+    }
+  ],
+  "timestamp": "2026-10-15T21:12:18.388130603Z",
+  "model": "glm-5.3"
+}

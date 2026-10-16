@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 145:1",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "میں…کراں گا",
+      "rationale": "عبرانی پہلی شخص دی کوئی ضمیری شکل نئیں دندی؛ پنجابی فعل لئی لازمی اے"
+    }
+  ],
+  "translation": "داوِد دی مڈھانی۔میں تینوں اُچا کراں گا، اے میرے ایلوہ، اے سائیں بادشاہ، تے میں تیرا ناں برکت دواں گا سداں تے ہمیشہ تک۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c75e2c3935a863208f7b83342017afaf0e0381497f5a0e2093666fe8e45e4748",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/145\/1-4.1792114251689.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תהלה",
+      "gloss": "مڈھانی"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد دی"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "میں تینوں اُچا کراں گا"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "اے میرے ایلوہ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "اے سائیں بادشاہ"
+    },
+    {
+      "surface": "ואברכה",
+      "gloss": "تے میں برکت دواں گا"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "تیرا ناں"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "سداں"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تے ہمیشہ تک"
+    }
+  ],
+  "timestamp": "2026-10-16T01:30:51.689957227Z",
+  "model": "glm-5.3"
+}

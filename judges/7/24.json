@@ -1,0 +1,172 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "judges 7:24",
+  "book": "judges",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "پانی پھڑو",
+      "rationale": "'پانی لَینا' مطلب دریا دے پَار\/فورڈ ہتھ کَرنا اے، پانی پیونا نئیں۔"
+    },
+    {
+      "kind": "invitation",
+      "subject": "اترو",
+      "rationale": "گِدعون دا حکم افرایم ول سَدھا مخاطب اے — آیت پڑھن والے نوں وی سَݙدی اے۔"
+    },
+    {
+      "kind": "you",
+      "subject": "افرایم نوں",
+      "rationale": "לאמר نال پیغام براہِ راست خطاب بن جاندا اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨اوہناں توں پہلاں⟩",
+      "rationale": "להם دا مطلب 'اوہناں ⟨تے⟩' — پنجابی جملے لئی 'پہلاں' پایا گیا۔"
+    }
+  ],
+  "translation": "تے گِدعون نے سارے پہاڑ افرایم ⟨وِچ⟩ پیغامبر بھیجے، آکھدا: اترو مِدیان نال مِلن، تے ⟨اوہناں توں پہلاں⟩ پانی پھڑو بیت-بارہ تک تے ⟨את⟩ یَردن نوں؛ تے سارے افرایم دے بندیاں سَݙ ماریا، تے اوہناں ⟨את⟩ پانی پھڑ لئے بیت-بارہ تک تے ⟨את⟩ یَردن نوں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8699ab3f9bafa683adfbd66a3ac3ee0b966786419dd34a1a2f0cf0bc64631a3f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/judges\/7\/21-24.1792101639888.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומלאכים",
+      "gloss": "تے پیغامبر"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "بھیجے"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "گِدعون نے"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "הר",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "افرایم ⟨وِچ⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھدا"
+    },
+    {
+      "surface": "רדו",
+      "gloss": "اترو"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "مِلن"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "مِدیان نال"
+    },
+    {
+      "surface": "ולכדו",
+      "gloss": "تے پھڑو"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨اوہناں توں پہلاں⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پانی"
+    },
+    {
+      "surface": "המים",
+      "gloss": "پانی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "بارہ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "یَردن"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "یَردن نوں"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "تے سَݙ ماریا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندیاں"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "افرایم ⟨دے⟩"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "تے پھڑ لئے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پانی"
+    },
+    {
+      "surface": "המים",
+      "gloss": "پانی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "بارہ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "یَردن"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "یَردن نوں"
+    }
+  ],
+  "timestamp": "2026-10-15T22:00:39.889597059Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 9:9",
+  "book": "nehemiah",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ים סוף",
+      "rationale": "سُوف = کَن دی جھاڑی؛ ریتی 'لال سمندر' دے مُقابلے عبرانی 'کَنیاں دا سمندر'"
+    }
+  ],
+  "translation": "تے توں نے ⟨את⟩ ساڈے پیوآں دا دُکھ مِتصرایم وِچ ویکھیا، تے ⟨את⟩ اوہناں دی چیخ نوں سُوف سمندر اُتے سُنی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "325ef4c828f8ae8fafd90ea34927f1947bac8074a2dafb1e394f72c1cd21fc8e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/nehemiah\/9\/9-12.1792119788908.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "تے توں نے ویکھیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ساڈے پیوآں دا دُکھ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "دُکھ"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "ساڈے پیوآں دا"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "مِتصرایم وِچ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "اوہناں دی چیخ"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "اوہناں دی چیخ"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "توں نے سُنی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "سُوف"
+    }
+  ],
+  "timestamp": "2026-10-16T03:03:08.909261843Z",
+  "model": "glm-5.3"
+}

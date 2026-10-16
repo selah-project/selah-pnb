@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 33:26",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כאל ישרון",
+      "rationale": "'ایل ورگا کوئی نئیں، اے یِشورُن' (پکاریا ہویا) بمقابلہ 'یِشورُن دے ایل ورگا کوئی نئیں' (KJV) — 'ایل' ایتھے ناں ہی رہن دتا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שחקים",
+      "rationale": "لفظی 'دھوڑ\/پسین والے بدل' — 'بدل' اسدی ودھایا ہوئی سیاقی شکل اے"
+    }
+  ],
+  "translation": "کوئی نئیں ایل ورگا، اے یِشورُن؛ جیہڑا تیری مدد لئی اسماناں اُتے سوار اے، تے اپنی شان وِچ بدلاں اُتے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "67f3d8fca57661e18ca252ddd0319b9708581d1a1571610ed31b1af14c4eb4e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/33\/25-28.1792100573049.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "کوئی نئیں"
+    },
+    {
+      "surface": "כאל",
+      "gloss": "ایل ورگا"
+    },
+    {
+      "surface": "ישרון",
+      "gloss": "اے یِشورُن"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "سوار اے"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "اسماناں اُتے"
+    },
+    {
+      "surface": "בעזרך",
+      "gloss": "تیری مدد لئی"
+    },
+    {
+      "surface": "ובגאותו",
+      "gloss": "تے اپنی شان وِچ"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "بدلاں اُتے"
+    }
+  ],
+  "timestamp": "2026-10-15T21:42:53.049858192Z",
+  "model": "glm-5.3"
+}

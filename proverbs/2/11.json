@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 2:11",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תשמר \/ תנצרכה",
+      "rationale": "دو وکھرے عبرانی 'رکھوالی' کرن والے 动词 اِکو جیہے مطلب نال — پنجابی وِچ 'بھاری رہوے\/سامبھے' دو روپ رکھے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "מזמה",
+      "rationale": "ایہہ لفظ کئی واری مکھیاری (بُری چال) لئی وی اے — ایتھے چنگی سُوجھ دا بھاوَ اے"
+    }
+  ],
+  "translation": "سُوجھ بوُجھ تیرا اُپر بھاری رہوے، سمجھ تینوں سامبھے —",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c1ad0c5531a682a64dee5fa30ca5d40a87b36ecfd10576bbd17c8f81ae25b3be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/2\/9-12.1792114337543.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמה",
+      "gloss": "سُوجھ بوُجھ"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "بھاری رہوے"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تیرا اُپر"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "سمجھ"
+    },
+    {
+      "surface": "תנצרכה",
+      "gloss": "تینوں سامبھے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:32:17.544270363Z",
+  "model": "glm-5.3"
+}

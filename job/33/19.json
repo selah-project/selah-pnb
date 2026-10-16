@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 33:19",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ריב עצמיו אתן",
+      "rationale": "'ہڈیاں دا جھگڑا اِتن جہا' — ترجمے 'تکلیف دا ڈھیر' (KJV) یا 'اَٹھوں ہڈیاں تکڑیاں' (JPS) لیندے نیں؛ لفظی 'وِیروا + اِتن\/تکڑا' رکھیا۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אתן",
+      "rationale": "איתן دا مول 'پکا\/تکڑا\/سدا رہن والا' اے — 'سردرد' ورگی تشریح بعد دی سمجھ اے۔"
+    }
+  ],
+  "translation": "تے درد نال اوہنوں اوہدے بسترے اُتے سمجھایا جاندا اے، تے اوہدیاں ہڈیاں دا وِیروا تکڑا ہوندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3cd23454b2aa2a0891e94a601ab8c6e94937f82c27733765c568264499387708",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/33\/17-20.1792116293665.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוכח",
+      "gloss": "تے اوہنوں سمجھایا جاندا اے"
+    },
+    {
+      "surface": "במכאוב",
+      "gloss": "درد نال"
+    },
+    {
+      "surface": "על",
+      "gloss": "اوہدے"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "بسترے اُتے"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "تے وِیروا"
+    },
+    {
+      "surface": "עצמיו",
+      "gloss": "اوہدیاں ہڈیاں دا"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "تکڑا"
+    }
+  ],
+  "timestamp": "2026-10-16T02:04:53.666514098Z",
+  "model": "glm-5.3"
+}

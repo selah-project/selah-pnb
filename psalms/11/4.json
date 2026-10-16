@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 11:4",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اے⟩",
+      "rationale": "عبرانی وِچ کوپلا نئیں، پنجابی نال جملہ منگدا اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "پرکھدیاں نیں",
+      "rationale": "בחן دھات نوں پرکھن دا کم اے — یاہوہ انساناں نوں تولدا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "یاہوہ … یاہوہ",
+      "rationale": "ناں دو واری دہرایا — ہیکل تے تخت، اکھاں تے پلکاں دا جوڑا؛ ڈھانچہ پنجابی وِچ رکھیا گیا اے"
+    }
+  ],
+  "translation": "یاہوہ اپنے پوتر ہیکل وِچ ⟨اے⟩، یاہوہ دا تخت اسماناں وِچ ⟨اے⟩ — اوہدیاں اکھاں ویکھدیاں نیں، اوہدے پلکاں پرکھدیاں نیں آدم دے پتراں نوں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f02f3330c4fda7bdb82299e862584d872de357f9dcfc72725284e49181bcefae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/11\/1-4.1792112002451.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "ہیکل وِچ"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "اپنے پوتر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "اسماناں وِچ"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "اوہدا تخت"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "اوہدیاں اکھاں"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "ویکھدیاں نیں"
+    },
+    {
+      "surface": "עפעפיו",
+      "gloss": "اوہدے پلکاں"
+    },
+    {
+      "surface": "יבחנו",
+      "gloss": "پرکھدیاں نیں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پتر"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم دے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:53:22.452561498Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 36:21",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "עברי وِچ ہووݨ دا کریا نئیں، پنجابی نوں ⟨اے⟩ چاہیدی اے"
+    },
+    {
+      "kind": "elision",
+      "subject": "לאמר",
+      "rationale": "آکھ کے — عبرانی دا بول چال والا نشان، پنجابی وِچ وکھری گلاس نئیں بن سکدا"
+    }
+  ],
+  "translation": "تے اوہ چُپ راے تے اوہدے اُتے ⟨את⟩ اک گَل دا جواب نہ دِتا، کیوں جو بادشاہ دا حکم ⟨اے⟩ آکھ کے: اوہدے جواب نہ دیوو۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ca36c4a236b330a95c6fef8a7cb197cade9895cc3c991b9e4c96374a235022ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/36\/21-22.1792106532361.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחרישו",
+      "gloss": "تے چُپ راے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "جواب دِتا"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "اک گَل"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "اک گَل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "حکم"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ دا"
+    },
+    {
+      "surface": "היא",
+      "gloss": "اے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ کے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תענהו",
+      "gloss": "اوہدے جواب دیوو"
+    }
+  ],
+  "timestamp": "2026-10-15T23:22:12.361840899Z",
+  "model": "glm-5.3"
+}

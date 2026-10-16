@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 20:17",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جان-فورس اے، صرف روح نئیں — 'جان' ایہدے سبھ توں نیڑے اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "ہووݨ دا فعل",
+      "rationale": "عبرانی وِچ کوپلا نئیں، پنجابی وچ 'کردا سی' چاہیدا اے"
+    }
+  ],
+  "translation": "تے یہوناتان نے فیر داؤد نوں قسم کرایا، اوہدی محبت وِچ ⟨את⟩ اُس نوں، کیوں جے اوہدی آپݨی جان دی محبت نال اوہ اُس نوں پیار کردا سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "412ef326fcacdd60a42bc9303c70198c17f6db1dbac8c57450312d05b84266e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/20\/17-20.1792102737961.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "تے فیر"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "یہوناتان"
+    },
+    {
+      "surface": "להשביע",
+      "gloss": "قسم کرایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داؤد"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داؤد"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "اوہدی محبت وِچ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "اُس نوں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جے"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "محبت"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "اوہدی آپݨی جان"
+    },
+    {
+      "surface": "אהבו",
+      "gloss": "پیار کردا سی"
+    }
+  ],
+  "timestamp": "2026-10-15T22:18:57.962539391Z",
+  "model": "glm-5.3"
+}

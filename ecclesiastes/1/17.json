@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 1:17",
+  "book": "ecclesiastes",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רעיון רוח",
+      "rationale": "'ہوا اُتے زور مارنا' (ASV\/JPS) بمقابلہ 'روح دا دکھ' (KIV 'vexation of spirit') — قاہلت دا مُڑ والا فقرہ، ایتھے 'ریُن ⟨کوشش⟩' رکھیا گیا۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩ ⟨کوشش⟩",
+      "rationale": "پنجابی جملے لئی ضمیر تے وضاحت دا لفظ عبرانی وِچ نئیں۔"
+    },
+    {
+      "kind": "elision",
+      "subject": "הוא",
+      "rationale": "تاکیدی ضمیر اوہ، پنجابی وِچ الگ گلاس نال صرف بریکٹ وِچ آئی۔"
+    }
+  ],
+  "translation": "تے میں اپنا دل حکمت نوں جانن لئی دتا، تے مورکھتا تے بے-عقلی نوں جانن لئی؛ میں جان لیا کہ وی ایہہ ⟨اوہ⟩ ہوا دا اِک ریُن ⟨کوشش⟩ اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f8e4ddfd134e2f66f9d8524b8f85e73840c15349004a8d0c64adcb76e939e5d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ecclesiastes\/1\/17-18.1792117365266.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "تے دتا"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "اپنا دل"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "جانن لئی"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "تے جانن لئی"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "مورکھتا"
+    },
+    {
+      "surface": "ושכלות",
+      "gloss": "تے بے-عقلی"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "میں جان لیا"
+    },
+    {
+      "surface": "שגם",
+      "gloss": "کہ وی"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨اوہ⟩"
+    },
+    {
+      "surface": "רעיון",
+      "gloss": "ریُن ⟨کوشش⟩"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ہوا"
+    }
+  ],
+  "timestamp": "2026-10-16T02:22:45.267461184Z",
+  "model": "glm-5.3"
+}

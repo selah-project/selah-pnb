@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 22:13",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מנגה \/ נגדו",
+      "rationale": "n-g root alliteration in both words, lost in pnb"
+    }
+  ],
+  "translation": "اوہدے ساہمنے دی چمک توں اگّ دے انگارے بھڑک اٹھے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "33cfa62fbff39a9da83baa8367649746eb406fdb54efda4762c49266fb25f763",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/22\/13-16.1792103810548.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מנגה",
+      "gloss": "چمک توں"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "اوہدے ساہمنے دی"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "بھڑک اٹھے"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "انگارے"
+    },
+    {
+      "surface": "אש",
+      "gloss": "اگّ دے"
+    }
+  ],
+  "timestamp": "2026-10-15T22:36:50.549551021Z",
+  "model": "glm-5.3"
+}

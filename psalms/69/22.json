@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 69:22",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ראש",
+      "rationale": "רֹאשׁ — 'زہریلا بوٹا' (شاید پوست) عامَ 'زہر'؛ 'کڑواہٹ' (gall) وی متبادل اے۔"
+    },
+    {
+      "kind": "hapax",
+      "subject": "ברות",
+      "rationale": "'خوراک' لفظ تنخ وِچ بہت گھٹ تھاواں تے آؤندا اے۔"
+    }
+  ],
+  "translation": "تے اوہناں میری خوراک وِچ زہر پا دتا، تے میری پیاس وِچ اوہناں مینوں سرکہ پلایا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "042893099a01a6b6a9c9910293ba544ac57c0c197c7f3d958a3237b7a22c801c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/69\/21-24.1792112864700.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "تے اوہناں دتا"
+    },
+    {
+      "surface": "בברותי",
+      "gloss": "میری خوراک وِچ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "زہر"
+    },
+    {
+      "surface": "ולצמאי",
+      "gloss": "تے میری پیاس وِچ"
+    },
+    {
+      "surface": "ישקוני",
+      "gloss": "اوہناں مینوں پلایا"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "سرکہ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:07:44.701347278Z",
+  "model": "glm-5.3"
+}

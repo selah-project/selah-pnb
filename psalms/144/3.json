@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 144:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "یاہوہ",
+      "rationale": "سِدھی مخاطبت یاہوہ ول"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אדם\/אנוש",
+      "rationale": "אנוש ਮਰਨ ਵਾਲੇ ਦਾ ਅਰਥ — ਦੋਵੇਂ ਬੰਦੇ ਲਈ ਪਰ ਅੱਲਗ ਸ਼ਬਦ, ਮੌਤ ਦਾ ਸੰਕੇਤ"
+    }
+  ],
+  "translation": "یاہوہ، آدمی کی اے کہ تُو اوہنوں جاندا ایں، تے مرن والے دا پُتر کہ تُو اوہدے بارے سوچدا ایں؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b848aaeb70d75a694dd113c3d6f32b61b389fbc5a64c1624f2576f7f0a946101",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/144\/1-4.1792114188833.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "ותדעהו",
+      "gloss": "کہ تُو اوہنوں جاندا ایں"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "مرن والے دا"
+    },
+    {
+      "surface": "ותחשבהו",
+      "gloss": "کہ تُو اوہدے بارے سوچدا ایں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:29:48.834398630Z",
+  "model": "glm-5.3"
+}

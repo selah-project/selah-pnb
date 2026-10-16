@@ -1,0 +1,167 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 24:20",
+  "book": "2-chronicles",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עזבתם\/ויעזב",
+      "rationale": "‘تسیں چھڈیا — اوہنے چھڈیا’ — اِکو جڑ دا پلٹا، آیت دی چوٹی"
+    },
+    {
+      "kind": "substitution",
+      "subject": "پُو لیا",
+      "rationale": "לבשہ ‘کپڑ‏ا پایا’ — ‘روح نے اوہنوں پاتا’ دا ساہتک چِٹھا، پنجابی وِچ ‘پُو لیا’ نزدیک"
+    },
+    {
+      "kind": "you",
+      "subject": "لوکاں نوں",
+      "rationale": "زکریاہ دی گواہی سدھی یہوداہ دے لوکاں نوں\/addressed"
+    },
+    {
+      "kind": "alternative",
+      "subject": "کھلوندا",
+      "rationale": "‘لوکاں توں اُچا’ بمقابلہ ‘لوکاں دے ساہمنے’ — عبرانی ‘اوہناں توں اُپر’ اے"
+    }
+  ],
+  "translation": "تے ایلوہیم دی روح نے کاہن یہویاداع دے پتر زکریاہ ⟨את⟩ نوں پُو لیا، تے اوہ لوکاں توں اُچا کھلوندا، تے اوہناں نوں آکھیا: اِنج آکھدا اے ایلوہیم: تسیں یاہوہ دے حکماں ⟨את⟩ کیوں توڑدے او، تے کامیاب کیوں نئیں ہوندے؟ کیوں جو تسیں یاہوہ ⟨את⟩ نوں چھڈیا اے، سو اُوہنے تسیں ⟨את⟩ نوں چھڈیا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e5a76f2b82749c94eb134694161ca357e1c0bc5474cbdc5c001fda036d47fe69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/24\/17-20.1792122563740.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורוח",
+      "gloss": "تے روح"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم دی"
+    },
+    {
+      "surface": "לבשה",
+      "gloss": "نے پُو لیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زکریاہ نوں"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "زکریاہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پتر"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "یہویاداع"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "کھلوندا"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "توں اُچا"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "لوکاں"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اوہناں نوں"
+    },
+    {
+      "surface": "כה",
+      "gloss": "انج"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھدا اے"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "למה",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تسیں"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "توڑدے او"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حکماں نوں"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "حکماں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "תצליחו",
+      "gloss": "کامیاب ہوندے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "עזבתם",
+      "gloss": "چھڈیا اے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ نوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "چھڈیا"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ تسیں نوں"
+    }
+  ],
+  "timestamp": "2026-10-16T03:49:23.742121233Z",
+  "model": "glm-5.3"
+}

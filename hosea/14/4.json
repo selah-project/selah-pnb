@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 14:4",
+  "book": "hosea",
+  "lang": "pnb",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "معبود",
+      "rationale": "אלהים ایتھے بتاں لئی — قوماں دے معبود، ایس لئی معبود نا کہ ایلوہیم"
+    },
+    {
+      "kind": "crux",
+      "subject": "یתום",
+      "rationale": "ایتھم یتیم — کجھ مترجم 'بے ماں بچے' دسدے نیں؛ یتیم ای سُچجا اے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "אשר",
+      "rationale": "'کیوں جو' دی تھاں 'جہڑا' وی ہو سکدا اے — 'توں اوہ ہی جس وچ یتیم نوں رحم ملدا اے'"
+    }
+  ],
+  "translation": "اَشّور ساڈی بچت نئیں کریگی، گھوڑیاں اُتے اسیں نئیں سوار ہونگے، تے نہ ہی اسیں ہور آکھسن: ساڈے معبود ⟨نیں⟩ ساڈے ہتھاں دے بنائے ہوئے، کیوں جو تیرے وِچ یتیم نوں رحم ملدا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "93240e0eb19ba0b9cbe937718ae83124ada4802b3fc4673a19843ffbe2724b5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/hosea\/14\/4-4.1792124059724.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשור",
+      "gloss": "اَشّور"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יושיענו",
+      "gloss": "ساڈی بچت کریگی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "گھوڑیاں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "נרכב",
+      "gloss": "اسیں سوار ہونگے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ ہی"
+    },
+    {
+      "surface": "נאמר",
+      "gloss": "اسیں آکھسن"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ہور"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ساڈے معبود"
+    },
+    {
+      "surface": "למעשה",
+      "gloss": "بنائے ہوئے نوں"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "ساڈے ہتھاں دے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تیرے وِچ"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "رحم ملدا اے"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "یتیم نوں"
+    }
+  ],
+  "timestamp": "2026-10-16T04:14:19.725427026Z",
+  "model": "glm-5.3"
+}

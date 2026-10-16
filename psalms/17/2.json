@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 17:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "توں",
+      "rationale": "עיניך دی جُٹ لئی، عبرانی دا מלפניך پہلے ٹوکن وِچ آ چکیا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "سِدھیاں گالاں",
+      "rationale": "מישרים دا مول چتر 'سِدھیائی\/مُستوی' اے، نیتواں وِچ 'انصاف' بن جاندا اے"
+    }
+  ],
+  "translation": "تیرے ساہمنے توں میرا فیصلہ نِکلی، تیریاں اکھاں سِدھیاں گلاں ویکھن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "613f5ebf5e2899eea61296da291e5f5c715f3f5469ce6385da044a8b89f8f99f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/17\/1-4.1792111994499.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלפניך",
+      "gloss": "تیرے ساہمنے توں"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "میرا فیصلہ"
+    },
+    {
+      "surface": "יֵצֵא",
+      "gloss": "نِکلی"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "تیریاں اکھاں"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "ویکھن"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "سِدھیاں گلاں"
+    }
+  ],
+  "timestamp": "2026-10-16T00:53:14.499934274Z",
+  "model": "glm-5.3"
+}

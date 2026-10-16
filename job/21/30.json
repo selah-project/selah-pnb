@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 21:30",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עברות \/ עוברי",
+      "rationale": "v29 دے 'لنگھن والیاں' (עברי) تے v30 دے 'غصے' (עברות) — جڑ אکّے پر معنے وکھرے"
+    }
+  ],
+  "translation": "کیونکہ برے بندے نوں مصیبت دے دن توں بچایا جاندا اے، غصے دے دن ول اوہناں نوں لیا جاندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "469c473ab58b89006cff6650aea9397f6b6a54347bb14441e49d745b672ef942",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/21\/29-32.1792115985088.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "دے دن توں"
+    },
+    {
+      "surface": "איד",
+      "gloss": "مصیبت"
+    },
+    {
+      "surface": "יחשך",
+      "gloss": "بچایا جاندا اے"
+    },
+    {
+      "surface": "רע",
+      "gloss": "برا بندہ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "دے دن ول"
+    },
+    {
+      "surface": "עברות",
+      "gloss": "غصے"
+    },
+    {
+      "surface": "יובלו",
+      "gloss": "لیا جاندا اے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:59:45.089003981Z",
+  "model": "glm-5.3"
+}

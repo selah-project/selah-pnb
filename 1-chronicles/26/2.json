@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 26:2",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نیں",
+      "rationale": "عبرانی وِچ copula نئیں، پنجابی نوں چاہیدی اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "پُتراں دی گنتی",
+      "rationale": "ترتیب والے نمبر (پہلا توں چوتھا) — ونڈ دی لسٹ"
+    }
+  ],
+  "translation": "تے مشلمیاہو دے پُتر نیں: زکریاہو پہلاں والا، یدِیاعیل دوجا، زودیاہو تیجا، یتنیعیل چوتھا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2c1179243e6cd9e9ef75dca40a83e25cec0f0012f0c771aad78f642a1cfa1318",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/26\/1-4.1792121264050.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולמשלמיהו",
+      "gloss": "تے مشلمیاہو دے"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پُتر نیں"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "زکریاہو"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "پہلاں والا"
+    },
+    {
+      "surface": "ידיעאל",
+      "gloss": "یدِیاعیل"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دوجا"
+    },
+    {
+      "surface": "זבדיהו",
+      "gloss": "زودیاہو"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "تیجا"
+    },
+    {
+      "surface": "יתניאל",
+      "gloss": "یتنیعیل"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "چوتھا"
+    }
+  ],
+  "timestamp": "2026-10-16T03:27:44.051300477Z",
+  "model": "glm-5.3"
+}

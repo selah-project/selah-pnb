@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 2:14",
+  "book": "2-chronicles",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨توں⟩",
+      "rationale": "Hebrew uses third person 'let him send'; the ⟨توں⟩ marks the addressee implied by the letter's 'my lord'."
+    },
+    {
+      "kind": "you",
+      "subject": "سلیمان نوں",
+      "rationale": "Huram's letter continues its direct address to King Solomon."
+    }
+  ],
+  "translation": "تے ہنے ⟨توں⟩ کنک تے جؤ، تیل تے شراب، جیہڑے میرے مالک نے آکھے، اپݨے غلاماں نوں گھلے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c615cececd65840b6b0f8fbc10b4a1391ac4ce9129bc351f66d35e2abb28dc93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/2\/13-16.1792121749742.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "تے ہنے"
+    },
+    {
+      "surface": "החטים",
+      "gloss": "کنک"
+    },
+    {
+      "surface": "והשערים",
+      "gloss": "تے جؤ"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "تیل"
+    },
+    {
+      "surface": "והיין",
+      "gloss": "تے شراب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑے"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھے"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "میرے مالک"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "گھلے"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "اپݨے غلاماں نوں"
+    }
+  ],
+  "timestamp": "2026-10-16T03:35:49.743090623Z",
+  "model": "glm-5.3"
+}

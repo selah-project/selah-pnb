@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 12:42",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اے⟩",
+      "rationale": "عبرانی وِچ کوئی فعل نئیں، پنجابی نوں اے چاہیدا"
+    },
+    {
+      "kind": "crux",
+      "subject": "שמרים",
+      "rationale": "نگہبانیاں\/چوکسیاں — یا تاں یاہوہ دا خود رات نوں نگہبان ہونا، یا بنی یِسرائیل دی رات نوں منانا"
+    },
+    {
+      "kind": "measurement",
+      "subject": "نسلاں تیکر",
+      "rationale": "نسل در نسل ہوندے دِیاں نسلاں دی گنتی"
+    }
+  ],
+  "translation": "نگہبانیاں دی رات اوہ یاہوہ لئی ⟨اے⟩، اوہناں نوں مِتصرایم دی دھرتی توں کڈھن لئی؛ اوہی اوہ رات اے، یاہوہ لئی، نگہبانیاں دی، سارے بنی یِسرائیل لئی، اوہناں دِیاں نسلاں تیکر۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5596905f1927ef92250bc865a60405ee08d894b08fda6dfc6bf35fcfd44931f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/12\/41-44.1792096556271.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ליל",
+      "gloss": "رات"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "نگہبانیاں"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ-لئی"
+    },
+    {
+      "surface": "להוציאם",
+      "gloss": "اوہناں-نوں-کڈھن-لئی"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "دھرتی-توں"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہی"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "اوہ-رات"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اُس"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ-لئی"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "نگہبانیاں"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سارے-لئی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "اوہناں-دِیاں-نسلاں-تیکر"
+    }
+  ],
+  "timestamp": "2026-10-15T20:35:56.272494190Z",
+  "model": "glm-5.3"
+}

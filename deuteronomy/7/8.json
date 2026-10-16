@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 7:8",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שבעה\/נשבע",
+      "rationale": "قسم دا اسم تے قسم کھان دا فعل اوہو جڑ ש-ב-ع (ست) توں — عبرانی وِچ 'ست واری دہرا کے قسم'۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויפדך",
+      "rationale": "גאל پکھ دا فعل — رشتےدار دا فدیہ دے کے چھڑاؤنا؛ 'چھڑایا' نیڑے اے پر 'فدیہ' دی تصویر ہلڑی اے۔"
+    }
+  ],
+  "translation": "سگوں یاہوہ دے تُہاڈے نال پیار کرن توں، تے اوہدے اوہ قسم نبھاؤن توں جیہڑی اوہنے تُہاڈے پیکیاں نال کھادی سی، یاہوہ نے تُہانوں مضبوط ہتھ نال کڈھیا، تے غلاماں دے گھر وِچوں، پریعوہ مِتصرایم دے بادشاہ دے ہتھ توں، تُہانوں چھڑایا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8c90cbfc7db9154d1a9d1b9db95e9d9682cc03fee1fbc150201a00ad101bbcbe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/7\/5-8.1792099716348.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "سگوں"
+    },
+    {
+      "surface": "מאהבת",
+      "gloss": "پیار کرن توں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دے"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "تُہاڈے نال"
+    },
+    {
+      "surface": "ומשמרו",
+      "gloss": "تے اوہدے قسم نبھاؤن توں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہ قسم"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "قسم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "کھادی سی"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "تُہاڈے پیکیاں نال"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "کڈھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ نے"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "تُہانوں"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ہتھ نال"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "مضبوط"
+    },
+    {
+      "surface": "ויפדך",
+      "gloss": "تے تُہانوں چھڑایا"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "گھر وِچوں"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "غلاماں دے"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ہتھ توں"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پریعوہ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم"
+    }
+  ],
+  "timestamp": "2026-10-15T21:28:36.349802070Z",
+  "model": "glm-5.3"
+}

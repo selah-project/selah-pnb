@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 22:3",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מקשת",
+      "rationale": "'کمانھ توں' (جے\/ی ایل ٹی) بمقابلہ 'تیربازاں دے ہتھوں' (کے جے وی) بمقابلہ 'کمانھ دے بِناں' (جے پی ایس) — مطلب متحارب اے۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נדדו \/ ברחו",
+      "rationale": "دو وکھرے 'بھجّ جان' والے فعل اکو آیت وِچ — دوہری بھجّ، پنجابی وِچ بھاری محسوس نئیں ہوندا۔"
+    }
+  ],
+  "translation": "تیرے سارے سردار اکٹھے بھجّ گئے، کمانھ ⟨توں⟩ بنھے گئے؛ تیرے سارے لبھے ہوئے اکٹھے بنھے گئے، دوروں بھجّ گئے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b3e4ea3d07311a81b849e0c79b10142bf06d4098aa7c5770fa2ba336fa6ef54b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/22\/1-4.1792106201897.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "קציניך",
+      "gloss": "تیرے سردار"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "بھجّ گئے"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "اکٹھے"
+    },
+    {
+      "surface": "מקשת",
+      "gloss": "کمانھ توں"
+    },
+    {
+      "surface": "אסרو",
+      "gloss": "بنھے گئے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "נמצאיך",
+      "gloss": "تیرے لبھے ہوئے"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "بنھے گئے"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "اکٹھے"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "دوروں"
+    },
+    {
+      "surface": "ברחו",
+      "gloss": "بھجّ گئے"
+    }
+  ],
+  "timestamp": "2026-10-15T23:16:41.898740806Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 107:32",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "کرن",
+      "rationale": "jussive 'let them exalt\/praise' — cohortative sense carried by verb ending"
+    }
+  ],
+  "translation": "تے اوہنوں قوم دی کمیٹ وِچ اُچا کرن، تے بزرگاں دی کچہری وِچ اوہدی تعریف کرن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7541928a1e8f365b6ddaf9709c58f90261d45ee5693f33bf7174bacfb10d3808",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/107\/29-32.1792113652583.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירממוהו",
+      "gloss": "اوہنوں اُچا کرن"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "کمیٹ وِچ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم دی"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "کچہری وِچ"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "بزرگاں دی"
+    },
+    {
+      "surface": "יהללוהו",
+      "gloss": "اوہدی تعریف کرن"
+    }
+  ],
+  "timestamp": "2026-10-16T01:20:52.584097841Z",
+  "model": "glm-5.3"
+}

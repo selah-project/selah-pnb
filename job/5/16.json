@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 5:16",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "آس",
+      "rationale": "תקוה is literally a cord (attachment); the expectancy sense is figurative."
+    },
+    {
+      "kind": "addition",
+      "subject": "نے \/ اپنا",
+      "rationale": "Punjabi ergative construction requires the agent marker and possessive pronoun Hebrew leaves implicit."
+    }
+  ],
+  "translation": "تے کمنے لئی آس ہوئی، تے برائی نے اپنا مونہہ بند کر لیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c7d2aec0790f3f4feb2a623ec8498f6c0e9d95f0edbddc968efc20ed0c53fcff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/5\/13-16.1792115498387.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "تے ہوئی"
+    },
+    {
+      "surface": "לדל",
+      "gloss": "کمنے لئی"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "آس"
+    },
+    {
+      "surface": "ועלתה",
+      "gloss": "تے برائی نے"
+    },
+    {
+      "surface": "קפצה",
+      "gloss": "بند کر لیا"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "اپنا مونہہ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:51:38.388703095Z",
+  "model": "glm-5.3"
+}

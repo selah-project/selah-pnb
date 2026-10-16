@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 28:30",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ישגלנה",
+      "rationale": "شگَل (ہمبستری) بارے مشہور اختلاف — بہتے پانڑے یِشکَב (سویگا) پڑھدے نیں؛ کنسوننٹل متن دا شگَل رکھیا اے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תחללנו",
+      "rationale": "چَلَل دا مطلب 'حلال\/استعمال کرنا' — پنجابی 'فیدہ چُکنا' وِچ عبرانی دی مذہبی رنگت ہلکی ہو گئی۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תארש\/תבנה\/תטע",
+      "rationale": "تن 'تُوں کریں گا' فعل اِک سائز وِچ — تے ہر اِک دے مگروں 'نئیں'، پنجابی وِچ ایہہ تریمت قائم اے۔"
+    }
+  ],
+  "translation": "تُوں زنانی منگیں گا، تے دوجا بندہ اوہدے نال ہمبستری کریگا؛ تُوں گھر بنائیں گا تے اوہدے وِچ نئیں وسیں گا؛ تُوں انگور باغ لائیں گا تے اوہدا فیدہ نئیں چُکیں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d51b85027f55652c394a5760917aaf627d345cd88db741e89df476a11f2b1a2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/28\/29-32.1792100473256.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשה",
+      "gloss": "زنانی"
+    },
+    {
+      "surface": "תארש",
+      "gloss": "منگیں گا"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "تے بندہ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "دوجا"
+    },
+    {
+      "surface": "ישגלנה",
+      "gloss": "اوہدے نال ہمبستری کریگا"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "بنائیں گا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "وسیں گا"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوہدے وِچ"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "انگور باغ"
+    },
+    {
+      "surface": "תטע",
+      "gloss": "لائیں گا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "תחללנו",
+      "gloss": "اوہدا فیدہ چُکیں گا"
+    }
+  ],
+  "timestamp": "2026-10-15T21:41:13.256928474Z",
+  "model": "glm-5.3"
+}

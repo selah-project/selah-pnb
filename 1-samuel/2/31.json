@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 2:31",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "باہ",
+      "rationale": "זרוע لفظی 'بازو\/باہ' اے — طاقت دی تصویر؛ 'طاقت' لکھن نال انگ دی شکل مِٹ جاندی اے، ایس لئی 'باہ' رکھیا۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "نہ",
+      "rationale": "عبرانی وِچ מהיות זקן 'کہ بوڑھا ہووے' اے — منفی 'نہ' عبرانی نے نئیں دتا، سیاق توں منفی پڑھیا جاندا اے۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "دن آؤن دے نیں",
+      "rationale": "وقت دا حساب دِتا گیا اے — آن والے دناں دی خبر۔"
+    }
+  ],
+  "translation": "دیکھو، دن آؤن دے نیں تے میں ⟨את⟩ تیری باہ تے ⟨את⟩ تیرے پیو دے گھر دی باہ کٹاںگا، ⟨کہ⟩ تیرے گھر وِچ کوئی بوڑھا نہ ہووے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a38aa30a577eb2b6750a123445f5761feae53c54164958815e18a0aeafb4f510",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/2\/29-32.1792102203967.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "دیکھو"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دن"
+    },
+    {
+      "surface": "באים",
+      "gloss": "آؤن دے نیں"
+    },
+    {
+      "surface": "וגדעתי",
+      "gloss": "تے میں کٹاںگا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تیری باہ"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "تیری باہ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "تیرے پیو دے گھر دی باہ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "باہ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "تیرے پیو دے"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "کہ ہووے"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "بوڑھا"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "تیرے گھر وِچ کوئی"
+    }
+  ],
+  "timestamp": "2026-10-15T22:10:03.968222196Z",
+  "model": "glm-5.3"
+}

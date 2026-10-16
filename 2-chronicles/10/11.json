@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 10:11",
+  "book": "2-chronicles",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "بچھوآں",
+      "rationale": "עקרבים = بچھو یا گرہاں نال بَدھی کوڑی (چمٹی والی چابک) — دوویں پڑھائیاں پرچیت نیں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מוסיף … יסר",
+      "rationale": "پیو\/پُتر دی سمت وچ جُوا تے کوڑی دا پدھرا اُلٹ سہارا"
+    }
+  ],
+  "translation": "تے ہُن میرے پیو نے تہاڈے اُتے بھارا جُوا لاد دتا، تے میں تہاڈے جُوے اُتے ہور ودھاواں گا؛ میرے پیو نے ⟨את⟩ تُساں کوڑیاں نال تارنیتا، تے میں بچھوآں نال۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f88176b44a6d2a9f09a34db517896b256b1709b9215f0d40ba610adbec4bdba9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/10\/9-12.1792121973413.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "تے ہُن"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "میرے پیو نے"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "لاد دتا"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "تہاڈے اُتے"
+    },
+    {
+      "surface": "על",
+      "gloss": "جُوا"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "بھارا"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "تے میں"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "ہور ودھاواں گا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "تہاڈے جُوے"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "میرے پیو نے"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "تارنیتا"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "تُساں"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "کوڑیاں نال"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "تے میں"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "بچھوآں نال"
+    }
+  ],
+  "timestamp": "2026-10-16T03:39:33.414518471Z",
+  "model": "glm-5.3"
+}

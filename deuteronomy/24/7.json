@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 24:7",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان چکیندا",
+      "rationale": "נפש גנב — جان چوری، یعنی اغوا؛ نفش شبد 'جان' دا روپ رکھیا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "تاں",
+      "rationale": "عبرانی وِچ شرطی جملہ واو نال جُڑدا اے، پنجابی 'تاں' منگدا اے"
+    },
+    {
+      "kind": "you",
+      "subject": "توں",
+      "rationale": "حکم سننہار توں اے — پورا خطاب اسرائیل نال"
+    }
+  ],
+  "translation": "جے کوئی بندہ لبھیا جاوے جو اپنے بھراواں وِچوں، یِسرائیل دیاں اولاداں وِچوں کوئی جان چکیند اے، تے اوہدے نال ظلم کردا اے تے اوہنوں ویچ دندا اے، تاں اوہ چور مرےگا، تے توں اوہ برائی نوں اپنے وِچاروں مٹا دیویں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "76336aa17e4422a892c2b47a6f36f236a34b4dede648dba622af7f8f1ad0534d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/24\/5-8.1792100314582.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "جے"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "لبھیا جاوے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "چکیند اے"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "מאחיו",
+      "gloss": "اپنے بھراواں وِچوں"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "اولا… داں وِچوں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "והתעמר",
+      "gloss": "تے ظلم کردا اے"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوہدے نال"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "تے اوہنوں ویچ دندا اے"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "مرےگا"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "اوہ چور"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "تے مٹا دیویں"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "اوہ برائی نوں"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "اپنے وِچاروں"
+    }
+  ],
+  "timestamp": "2026-10-15T21:38:34.583874131Z",
+  "model": "glm-5.3"
+}

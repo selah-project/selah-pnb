@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اِس نے",
+      "rationale": "عبرانی وِچ فاعل دی کوئی علامت نئیں؛ پنجابی جملہ فاعل منگدا اے"
+    }
+  ],
+  "translation": "حیات اِس نے تیرے توں منگی، تُوں نے اُنوں دتی — دِناں دی لمبائی، سدا تے ہمیشہ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9140d3c7680f8657d0052707d2e345ceeb481beecb6969b3c1527dbe66c04aad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/21\/5-8.1792112098496.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "حیات"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "منگی"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "تیرے توں"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "تُوں نے دتی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اُنوں"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "لمبائی"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دِناں دی"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "سدا"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تے ہمیشہ"
+    }
+  ],
+  "timestamp": "2026-10-16T00:54:58.497020398Z",
+  "model": "glm-5.3"
+}

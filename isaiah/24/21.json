@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 24:21",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "יפקד",
+      "rationale": "פקד 'دوہرا ویکھے\/پھٹکارے' — ایتھے عدالتی پھٹکار دا مطلب اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "צבא המרום",
+      "rationale": "اُچے دا لشکر — سوے سوہنے (بلوٹ 12:4) جاں اُچے بادشاہ؛ مترجم متفرق نیں"
+    }
+  ],
+  "translation": "تے اُس دن ہووےگا، یاہوہ اُچیاں دے لشکر اُتے اُچے وِچ، تے دھرتی دے بادشاہاں اُتے دھرتی اُتے، پھٹکارےگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5bd407e41a4c5bcb7b224619115997a500d58beccf0366649f8bc4f8da970e05",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/24\/21-23.1792106230631.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "تے ہووےگا"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اُس"
+    },
+    {
+      "surface": "יפקد",
+      "gloss": "پھٹکارےگا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "لشکر"
+    },
+    {
+      "surface": "המרום",
+      "gloss": "اُچیاں دے"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "اُچے وِچ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "بادشاہاں"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "دھرتی دے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "دھرتی"
+    }
+  ],
+  "timestamp": "2026-10-15T23:17:10.631720881Z",
+  "model": "glm-5.3"
+}

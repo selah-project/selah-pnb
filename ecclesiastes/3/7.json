@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 3:7",
+  "book": "ecclesiastes",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "پاڑن\/سیون",
+      "rationale": "קרע\/תפר دا اُلٹ جوڑا — کرت پاڑن دا سوگ دی ریت نال گوانڈھ، کپڑے سیون نال۔"
+    }
+  ],
+  "translation": "ویلہ پاڑن دا، تے ویلہ سیون دا؛ ویلہ چُپ رہن دا، تے ویلہ بولن دا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "eff92defa97ce1f5d25f172896c59199ae84891171d7b4583df73e44508184f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ecclesiastes\/3\/6-7.1792124339544.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ویلہ"
+    },
+    {
+      "surface": "לקרוע",
+      "gloss": "پاڑن دا"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "تے ویلہ"
+    },
+    {
+      "surface": "לתפור",
+      "gloss": "سیون دا"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ویلہ"
+    },
+    {
+      "surface": "לחשות",
+      "gloss": "چُپ رہن دا"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "تے ویلہ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "بولن دا"
+    }
+  ],
+  "timestamp": "2026-10-16T04:18:59.544893312Z",
+  "model": "glm-5.3"
+}

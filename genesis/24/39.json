@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "genesis 24:39",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אולי",
+      "rationale": "'شاید' — سوال دی مکمل ساخت پنجابی وِچ 'ہو سکدا اے کہ…' نال بنی"
+    },
+    {
+      "kind": "addition",
+      "subject": "کہ",
+      "rationale": "عبرانی وِچ ذیلی جملے دا موصول لفظ نئیں، پنجابی منگدا اے"
+    }
+  ],
+  "translation": "تے میں اپنے سائیں نوں آکھیا: ہو سکدا اے کہ اوہ زنانی میرے پچھے نئیں آوے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9fab278f579303705eaf6a7e942b8750abc3759fa8f436964af1f5be934eb3a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/24\/37-40.1792095246192.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "تے میں آکھیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "אדנی",
+      "gloss": "اپنے سائیں"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ہو سکدا اے کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "آوے"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "اوہ زنانی"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "میرے پچھے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:14:06.193931639Z",
+  "model": "glm-5.3"
+}

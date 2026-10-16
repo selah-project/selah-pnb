@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 141:1",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 141,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "پسار دی بینت",
+      "rationale": "ایہہ مزمور پورا بینت اے — یاہوہ نوں سدھا پکار، 'جلدی کر' تے 'کَن لا' دیاں آگوائیاں۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "میں…اے",
+      "rationale": "پنجابی پست کریا 'میں پکاریا اے' منگدی اے؛ عبرانی קראתיך اکو ماضی دی شکل اے۔"
+    }
+  ],
+  "translation": "مزمور داوِد لئی۔ یاہوہ، میں تینوں پکاریا اے، میرے ول جلدی کر، میری آواز نوں کَن لا، جدوں میں تینوں پکاراں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d8d5ab5faecd126e6dd5f69cf8d88ebaaed02bba0296454339c2cfc5c4280d5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/141\/1-4.1792114186886.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد لئی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "میں تینوں پکاریا اے"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "جلدی کر"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرے ول"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "کَن لا"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "میری آواز"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "جدوں میں پکاراں"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تینوں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:29:46.887064697Z",
+  "model": "glm-5.3"
+}

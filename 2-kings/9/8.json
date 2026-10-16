@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 9:8",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "دیوار اُتے پیشاب کرن والا",
+      "rationale": "مَرد لئی عبرانی دی روڑی؛ بہت سارے ترجمے ایہنوں نرم کر کے 'ہر نَر' کردے نیں — سچ مُچھ تصویر رکھی گئی اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "עצור ועזוב",
+      "rationale": "'قید تے چھُٹیا' — کجھ مفسر 'غلام تے آزاد'، کجھ 'بند تے باقی رہ گیا' لیندے نیں"
+    }
+  ],
+  "translation": "تے اَخآو دا سارا گھر مُک جائے گا، تے میں اَخآو وِچوں دیوار اُتے پیشاب کرن والے نوں کٹھ پاواں گا — بند تے چھُٹا — یِسرائیل وِچ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ef9fc95e6c92bbced58637f31d26d1e5e1d72c43b026fda6bb4c0af57517bfe7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/9\/5-8.1792105107043.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "تے مُک جائے گا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "اَخآو"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "تے میں کٹھ پاواں گا"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "اَخآو وِچوں"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "دیوار اُتے پیشاب کرن والا"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "دیوار"
+    },
+    {
+      "surface": "ועצור",
+      "gloss": "بند"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "چھُٹا"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "یِسرائیل وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T22:58:27.045088769Z",
+  "model": "glm-5.3"
+}

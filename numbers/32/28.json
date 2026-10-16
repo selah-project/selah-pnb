@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 32:28",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "حکم دا مواد",
+      "rationale": "عبرانی صرف 'حکم دِتا' آکھدا اے، حکم دی فہرست اگلی آیت وچ آؤندی اے؛ ترجمے 'بارے\/دربارے' جوڑ کے جملہ پورا کردے نیں۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "نوں",
+      "rationale": "پنجابی فعل مفعول دے لئی 'نوں' منگدا اے، عبرانی وِچ صرف ל- اے۔"
+    }
+  ],
+  "translation": "تے موشے نے اوہناں نوں حکم دِتا ⟨את⟩ الِعزار کاہن تے ⟨את⟩ یِہوشُوآ نُون دے پُتر تے ⟨את⟩ یِسرائیل دے پُتراں دے قبیلےآں دے باپاں دے سرداراں بارے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8043a9b3e6e769bb0ce68d7c7bff03019a387bc20f5e6b00c57fb6c9ce4268f1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/32\/28-28.1792123379602.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "تے حکم دِتا"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اوہناں نوں"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الِعزار کاہن"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "الِعزار"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "یِہوشُوآ نُون دا پُتر"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یِہوشُوآ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "نון",
+      "gloss": "نُون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "قبیلےآں دے باپاں دے سردار"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "باپاں دے"
+    },
+    {
+      "surface": "המטות",
+      "gloss": "قبیلےآں دے"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "پُتراں دے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-10-16T04:02:59.603656276Z",
+  "model": "glm-5.3"
+}

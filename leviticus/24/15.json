@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 24:15",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אישׁ אישׁ",
+      "rationale": "doubled 'any man, any man' — Hebrew distributive emphasis kept by repetition."
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Mosheh is commanded to address the Israelites directly."
+    }
+  ],
+  "translation": "تے تُوں یِسرائیل دے پتراں نال آکھیں، آکھ کے: کوئی بندہ، ہر بندہ جد اوہ اپنے ایلوہیم نوں بددُعا کرے، اوہ اپنا پاپ چکیگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2a67669dd2498a209861ab6443f3a40175ed9f58b1df0152939da521fa82efb2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/24\/13-16.1792098099568.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "تے نال"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پتراں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "تُوں آکھیں"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ کے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ہر بندہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جد"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "بددُعا کرے"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "اپنے ایلوہیم"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "اوہ چکیگا"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "اپنا پاپ"
+    }
+  ],
+  "timestamp": "2026-10-15T21:01:39.569806411Z",
+  "model": "glm-5.3"
+}

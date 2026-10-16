@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 64:6",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ותמוגנו",
+      "rationale": "مول 'پگھلنا\/روہڑنا' — 'گلا دتا' اوس تصویر نوں پنجابی وِچ رکھدا اے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ביד עוננו",
+      "rationale": "'بدکرداریاں دے ہتھ' — کجھ مترجم 'کیونکہ' (بَرتی) پڑھدے نیں؛ ہتھ دی صورت رکھی گئی"
+    }
+  ],
+  "translation": "تے کوئی نئیں جو تیرے ناں نوں پکاردا، جو جاگ کے تینوں پکڑ لے، کیونکہ تُوں اپنا چہرہ ساہتوں لُکا دتا تے ساڈیاں بدکرداریاں دے ہتھ سانوں گلا دتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1c6f02b30f0d3eb0ec598fb5fa82f66cc4d035d7f4c504c36ab9be999cc6a01c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/64\/5-8.1792107117630.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואין",
+      "gloss": "تے کوئی نئیں"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "پکاردا"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "تیرے ناں نوں"
+    },
+    {
+      "surface": "מתעורר",
+      "gloss": "جاگ کے"
+    },
+    {
+      "surface": "להחזיק",
+      "gloss": "پکڑن لئی"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تینوں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "הסתרת",
+      "gloss": "تُوں لُکایا"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "اپنا چہرہ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ساہتوں"
+    },
+    {
+      "surface": "ותמוגנו",
+      "gloss": "تے سانوں گلا دتا"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ہتھ نال"
+    },
+    {
+      "surface": "עוננו",
+      "gloss": "ساڈیاں بدکرداریاں دے"
+    }
+  ],
+  "timestamp": "2026-10-15T23:31:57.631571650Z",
+  "model": "glm-5.3"
+}

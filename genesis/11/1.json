@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "بولی",
+      "rationale": "שׂפה دا مول مطلب ہونٹھ اے، ایتھے بولی — ہونٹھ دی صفت اِک ای اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "عبرانی وِچ copula نئیں، pnb جملہ منگدا اے"
+    }
+  ],
+  "translation": "تے ہویا: ساری دھرتی اِک بولی ⟨سی⟩ تے گلاں اِکو۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a483b5895629e339dfc2df94495c16eb4d1c8d8c0d5219776df6c3ceaec1da90",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/11\/1-4.1792094919089.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے ہویا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "دھرتی"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "بولی"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "اِک"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "تے گلاں"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "اِکو"
+    }
+  ],
+  "timestamp": "2026-10-15T20:08:39.089974245Z",
+  "model": "glm-5.3"
+}

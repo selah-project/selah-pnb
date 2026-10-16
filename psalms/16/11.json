@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 16:11",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "את",
+      "rationale": "ایتھے אֵت پیشond اے ('نال'، 'کول') — مفعول دا نشان אות نئیں؛ فیر وی نشان ⟨את⟩ رکھیا گیا اے تے 'نال' دا مفہوم سیاق دیندا اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'تیرے چہرے ⟨نال⟩' — پنجابی نوں پیشond چاہیدا اے جو عبرانی את پہلاں ای دیندا اے۔"
+    }
+  ],
+  "translation": "تُو مینوں جیون دا رستہ جانوں کرواویں گا، تیرے چہرے ⟨את⟩ خوشیاں دی بھرپُوری اے، تیرے سجے ہتھ وِچ سواد بھریاں مٹھیاں چیزاں ہمیشہ لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1ea27d92a513aff8ebdc3454bb7dd89781f140205582918d0cb43e46c184db65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/16\/9-11.1792111914245.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תודיעני",
+      "gloss": "تُو مینوں جانوں کرواویں گا"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "رستہ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "جیون دا"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "بھرپُوری"
+    },
+    {
+      "surface": "שמחות",
+      "gloss": "خوشیاں دی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تیرے چہرے"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "تیرے چہرے"
+    },
+    {
+      "surface": "נעیمות",
+      "gloss": "سواد بھریاں مٹھیاں چیزاں"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "تیرے سجے ہتھ وِچ"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "ہمیشہ لئی"
+    }
+  ],
+  "timestamp": "2026-10-16T00:51:54.246684671Z",
+  "model": "glm-5.3"
+}

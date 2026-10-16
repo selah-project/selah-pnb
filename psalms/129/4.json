@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 129,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": " عبرانی وِچ کوئی copula نئیں، پنجابی چاہندا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "کٹّ دتیاں",
+      "rationale": " hiphil 'اوہنے کٹوایا' — BSB 'مینوں رسیاں توں کٹّ کے وکھ کیتا' پڑھدا اے؛ ودھیا ترجمے 'رسیاں کٹّ دتیاں' نیں"
+    }
+  ],
+  "translation": "یاہوہ سچّا اے، اوہنے بُریاں دیاں رسیاں کٹّ دتیاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "58285c11522c46da220725c3eb2919fded4da33396d06c57f96d1c2ceab1b499",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/129\/1-4.1792113987480.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "سچّا"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "کٹّ دتیاں"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "رسیاں"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بُریاں دیاں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:26:27.481106049Z",
+  "model": "glm-5.3"
+}

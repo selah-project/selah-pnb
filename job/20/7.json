@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 20:7",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כגללו",
+      "rationale": "'اوہدی وِسرھ وانگوں' — کجھ پڑھدے نیں 'ڳوبر دی ڈھیری وانگوں' (KJV), کجھ 'مقدار وانگوں'"
+    },
+    {
+      "kind": "elision",
+      "subject": "איו",
+      "rationale": "اکلا 'کتھے؟' — پنجانی جملہ پورا کرن لئی 'اوہ' پایا گیا"
+    }
+  ],
+  "translation": "اوہدی وِسرھ وانگوں اوہ ہمیشاں لئی مُک جائے گا؛ اوہنوں ویکھن والے آکھن گے: اوہ کتھے اے؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "069c16e0745b9e2e5113f2773b6619d3c082ffbf70c966384b9301dc41c53185",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/20\/5-8.1792115916835.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כגללו",
+      "gloss": "اوہدی وِسرھ وانگوں"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ہمیشاں لئی"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "مُک جائے گا"
+    },
+    {
+      "surface": "ראיו",
+      "gloss": "اوہنوں ویکھن والے"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "آکھن گے"
+    },
+    {
+      "surface": "איו",
+      "gloss": "اوہ کتھے اے؟"
+    }
+  ],
+  "timestamp": "2026-10-16T01:58:36.836549169Z",
+  "model": "glm-5.3"
+}

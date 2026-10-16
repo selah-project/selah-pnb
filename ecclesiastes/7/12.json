@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 7:12",
+  "book": "ecclesiastes",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اے⟩",
+      "rationale": "عبرانی وِچ کوئی کریالہ نئیں — 'حکمت دا پرچھاواں اے' پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בצל … בצל",
+      "rationale": "اکو لفظ دو واری — حکمت تے چاندی دی پدھر برابر رکھن والی ترتیب، ترجمے وِچ وی دوہرائی اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חכמה\/החכמה",
+      "rationale": "آیت وِچ 'حکمت' تن واری — کلسٹر ترتیب دی ہڈی اے"
+    }
+  ],
+  "translation": "کیوں جو پرچھاواں ⟨اے⟩ حکمت دا، پرچھاواں چاندی دا؛ تے علم دا فائدہ — حکمت اوہدے مالکاں نوں جیوندی رکھدی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ad77871e5be5f099165824c9a33a57bdd351680d26b38bc1ed1c0d76f964092a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ecclesiastes\/7\/9-12.1792117528005.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "پرچھاواں"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "حکمت دا"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "پرچھاواں"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "چاندی دا"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "تے فائدہ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "علم دا"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "جیوندی رکھدی اے"
+    },
+    {
+      "surface": "בעליה",
+      "gloss": "اوہدے مالکاں نوں"
+    }
+  ],
+  "timestamp": "2026-10-16T02:25:28.006342402Z",
+  "model": "glm-5.3"
+}

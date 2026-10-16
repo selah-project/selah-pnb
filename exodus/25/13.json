@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 25:13",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ڈنڈے",
+      "rationale": "בד אתם برائے جان٘وی شامل ہن، 'بار' نئیں — ہو بھان٘ویں 'سباں' وی ہو سکدا اے"
+    },
+    {
+      "kind": "elision",
+      "subject": "שטים",
+      "rationale": "شٹیم اکاّ درخت دا ناں اے (کِکر ورگا کنڈی٘دارا)، اِکو املا رکھی"
+    }
+  ],
+  "translation": "تے تُوں شٹیم دی لکڑی دے ڈنڈے بنائیں، تے اوہناں نوں سونے نال مُڑھ دیویں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "36f3a6f19dbb4f1cf5cf098f719e7612f82e54f2d4759005fde5a36f8a23ea87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/25\/13-16.1792096855856.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "تے تُوں بنائیں"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "ڈنڈے"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "لکڑی دے"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "شٹیم"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "تے مُڑھ دیویں"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "اوہناں نوں (ڈنڈیاں نوں)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونا"
+    }
+  ],
+  "timestamp": "2026-10-15T20:40:55.857048108Z",
+  "model": "glm-5.3"
+}

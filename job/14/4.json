@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 14:4",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מי יתן",
+      "rationale": "عبرانی اچھا 'کون دے' = کاش دا اظہار؛ ایتھے سُچا سوال بندی اے، کاش والی خواہش نئیں"
+    },
+    {
+      "kind": "mystery",
+      "subject": "پاک اپاک توں",
+      "rationale": "سوال دا جواب 'اِک کوئی نئیں' نال بَند اے — انسانی حالت دی میتھ اُتّے مُہر"
+    }
+  ],
+  "translation": "کون پاک نوں اپاک توں ⟨نِکال کے⟩ دے سکدا اے؟ اِک کوئی نئیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a47a8fda9bb630af5392215d2db826f0b8631d2316cb3137f7f75ae32bb88ac2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/14\/1-4.1792115739999.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دے سکدا"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "מטמא",
+      "gloss": "اپاک توں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "اِک کوئی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:55:40.000262487Z",
+  "model": "glm-5.3"
+}

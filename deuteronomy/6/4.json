@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 6:4",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "شمع",
+      "rationale": "شمع یِسرائیل — سُنݨ دا ہُکم، تنخ دا سبھ توں وڈا سدا"
+    },
+    {
+      "kind": "you",
+      "subject": "یِسرائیل",
+      "rationale": "سمعی اعلان سِدھا اِسرائیل نوں مخاطب اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "אחד",
+      "rationale": "'اِک' بمقابلہ 'اِکُو' — اِک ہی یاہوہ اے، کوئی ہور نئیں؛ دوویں پڑھاں اِکو اعلام وچ آ کے کھڑیاں نیں"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨اِک⟩ اے",
+      "rationale": "عبرانی جملے وِچ 'اے' نئیں، اسمی جملہ اے — پنجابی نے ربط منگیا"
+    }
+  ],
+  "translation": "سُن، اے یِسرائیل: یاہوہ ساڈا ایلوہیم — یاہوہ ⟨اِک⟩ اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "450205fa0e8c99b45cfa23adcd99956390ed1c9d9dad9b29ece66b7fbd822170",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/6\/1-4.1792099716094.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "سُن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اے یِسرائیل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ساڈا ایلوہیم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "اِک"
+    }
+  ],
+  "timestamp": "2026-10-15T21:28:36.095759498Z",
+  "model": "glm-5.3"
+}

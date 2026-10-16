@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 24:15",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שתם",
+      "rationale": "KJV\/JPS read 'open (unveiled) eyes'; ASV\/YLT read 'shut eyes' — root שׁתם 'unveil' vs context 24:3,16 supporting 'open'۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נאם … ונאם",
+      "rationale": "doubled oracle formula, a parallelism the Punjabi carries by repeating آکھنا۔"
+    }
+  ],
+  "translation": "تے اوہنے اپنا مَثَل اُچا کیتا تے آکھیا: بلعام دا آکھنا، بعود دے پُتر دا، تے اوہ بندے دا آکھنا جیہدیاں اکھاں کھُلیاں نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "89b44a8c43887a2093bc4852eb13ce5672b499131a8707967ec21c0d2c98abc0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/24\/13-16.1792099042901.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "تے … اُچا کیتا"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "اپنا مَثَل"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "آکھنا"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بلعام"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "בער",
+      "gloss": "بعود"
+    },
+    {
+      "surface": "ונאם",
+      "gloss": "تے آکھنا"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "کھُلیاں"
+    },
+    {
+      "surface": "העין",
+      "gloss": "اکھاں"
+    }
+  ],
+  "timestamp": "2026-10-15T21:17:22.902890195Z",
+  "model": "glm-5.3"
+}

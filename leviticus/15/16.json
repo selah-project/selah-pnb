@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 15:16",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שכבת זרע",
+      "rationale": "'سویں دا بیج' — جمع کاری دا بیج؛ گلاس نوں 'وہݨا' نرم کیتا گیا اے۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "شام تک",
+      "rationale": "نجاسی دا ویلہ گݨیا گیا اے — دن دے مُکن تک۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "וטמא",
+      "gloss-note": "",
+      "rationale": "'نجس ہووے' — عبرانی طہارت دی بھاونا، پنجابی دے مذہبی لفظ نال۔"
+    }
+  ],
+  "translation": "تے جدوں کسے بندے توں بیج دا وہݨا نکلے، تے اوہ پانی وِچ ⟨את⟩ اپنا سارا ماس دھووے، تے شام تک نجس رہے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9406a1cffd24ad17e6be974a859665d58ed65dd3744e4a22d647f56e636709bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/15\/13-16.1792097852499.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "تے جدوں بندہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جدوں"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "نکلے"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "اوہدے توں"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "سویں دا"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "بیج"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "تے دھووے"
+    },
+    {
+      "surface": "במים",
+      "gloss": "پانی وِچ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنا سارا ماس"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "اپنا ماس"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "تے نجس رہے"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "شام"
+    }
+  ],
+  "timestamp": "2026-10-15T20:57:32.500285606Z",
+  "model": "glm-5.3"
+}

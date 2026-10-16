@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 17:2",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "وאיש ישראל",
+      "rationale": "عبرانی وِچ 'یِسرائیل دے بندے' — بندیاں دا جمع، سارے قوم نئیں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "האלה",
+      "rationale": "ایلا تھاں دا ناں اے تے 'بُور' (תרבות wycliffe دی 'Terebynte') سمجھیاں گئیاں ایلا-رُکھاں توں وکھرا اے — ناں رکھیا گیا"
+    }
+  ],
+  "translation": "تے شاؤل تے یِسرائیل دے بندیاں نے اِکٹھے ہو کے ایلا دے وادی وِچ ڈیرے لاۓ، تے پلتِستِیاں دے ساہمنے لڑائی دی صف بنائی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5f279194e07111354121701d7c1527f9b5ebe2d96a6fba597c53b430f4617099",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/17\/2-3.1792123671288.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "تے شاؤل"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "تے بندیاں نے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "اِکٹھے ہو کے"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ڈیرے لاۓ"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "وادی وِچ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ایلا"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "تے بنائی"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "لڑائی دی صف"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ساہمنے"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "پلتِستِیاں دے"
+    }
+  ],
+  "timestamp": "2026-10-16T04:07:51.288493525Z",
+  "model": "glm-5.3"
+}

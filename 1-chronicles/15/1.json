@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 15:1",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "صندوق",
+      "rationale": "ארון عبرانی وِچ 'ڈبّا' اے؛ 'ہارون' قراءة بھُل اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "اِک",
+      "rationale": "אהל اُتے عبرانی وِچ کوئی عدد-اوستا نئیں"
+    }
+  ],
+  "translation": "تے داوِد نے داوِد دی شہر وِچ اپنے لئی گھر بنائے، تے ایلوہیم دے صندوق لئی تھاں تیار کیتی، تے اوہدے لئی اِک خیمہ کھڑا کیتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bfedc40ce8e0d9d1664d5ab4b2a9b78692873ea38ebd49e539e679daa45f0c60",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/15\/1-4.1792120790342.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "بنائے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اپنے لئی"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "شہر وِچ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "ויכן",
+      "gloss": "تیار کیتی"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "تھاں"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "صندوق لئی"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم دے"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "کھڑا کیتا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدے لئی"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "اِک خیمہ"
+    }
+  ],
+  "timestamp": "2026-10-16T03:19:50.343679476Z",
+  "model": "glm-5.3"
+}

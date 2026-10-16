@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 132:6",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שדי יער",
+      "rationale": "'جنگل دے کھیت' یا تھاں دا ناں 'یعار' (کیرات یعاریم دا سنکेत) — حرف-نقل رکھیا"
+    },
+    {
+      "kind": "elision",
+      "subject": "אותה",
+      "rationale": "زمانے دی سوچ وِچ 'اوہ' صندوق اے؛ عبرانی صرف ضمیر اے، 'صندوق' پنجابی وِچ نئیں لکھیا"
+    }
+  ],
+  "translation": "ویکھو، اسیں اوہدا ذکر اِپھراتہ وِچ سنیا، تے اوہنوں یعار دے کھیتاں وِچ لبھیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bb87b8b264bc7567d707878fb2682a94a531c35bd177531ffc0507c582e30ce3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/132\/5-8.1792114028282.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ویکھو"
+    },
+    {
+      "surface": "שמענוה",
+      "gloss": "اوہدیاں گلّاں سنیاں"
+    },
+    {
+      "surface": "באפרתה",
+      "gloss": "اِپھراتہ وِچ"
+    },
+    {
+      "surface": "מצאנוה",
+      "gloss": "اوہنوں لبھیا"
+    },
+    {
+      "surface": "בשדי",
+      "gloss": "کھیتاں وِچ"
+    },
+    {
+      "surface": "יער",
+      "gloss": "یعار"
+    }
+  ],
+  "timestamp": "2026-10-16T01:27:08.283572361Z",
+  "model": "glm-5.3"
+}

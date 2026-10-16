@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 39:21",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "خیسِد",
+      "rationale": "חסד نوں חסד دے عبرانی لفظ وجوں رکھیا گیا — ⟨رحم، وفاداری⟩، اک پنجابی لفظ اوہدے سارے رنگ نئیں پھڑدا"
+    },
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "ایتھے את H854 اے، 'نال' دی پیشیضم — نشان دی تھاں preposition دا کم، پنجابی 'نال' دتا"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויט אליו חסד",
+      "rationale": "'خیسِد کِھلاریا' — عبرانی دی مورت 'خیسِد اوہدے ول ودھایا' اے، پنجابی وِچ فعل بدلیا"
+    }
+  ],
+  "translation": "تے یاہوہ ⟨את⟩ یوسف ⟨نال⟩ ہویا، تے اوہدے ول خیسِد ⟨کِھلریا⟩، تے اوہنوں بندی خانے دے سردار دیاں اکھیاں وِچ مہربانی دتی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e7021eb3202ab55b7f3374ae437367b22f0aaeb88576f12a8637770a72a1e3da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/39\/21-23.1792095731674.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے ہویا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یوسف نال"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "تے کِھلاریا"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اوہدے ول"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "خیسِد"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "تے دتی"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "مہربانی"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "اکھیاں وِچ"
+    },
+    {
+      "surface": "שר",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "بندی خانہ"
+    }
+  ],
+  "timestamp": "2026-10-15T20:22:11.675071509Z",
+  "model": "glm-5.3"
+}

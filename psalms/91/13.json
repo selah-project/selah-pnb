@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 91:13",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תנין",
+      "rationale": "سمندری\/زمینی وڈّا جنّ — 'وڈّا سَپ'، 'اژدہا' جاں 'گیدڑ' دے بدل موجود نیں۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שחל",
+      "rationale": "'دَہاڑن والا شیر' — پنجابی وِچ 'شیر' صورت رہی، دَہاڑن والا پہلو مُکیا۔"
+    }
+  ],
+  "translation": "شیر اتے سپ اُتے تُو_TLSئیں ٹردا، ببّر شیر اتے وڈّا سَپ نوں تُو_TLSئیں رَوڑیندا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "350e53d9d9d1a37ee4016964f01e5c78257c6a62f78b4d7de4dedb33cf8fdf58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/91\/13-16.1792113381220.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "اتے"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "شیر"
+    },
+    {
+      "surface": "ופתן",
+      "gloss": "اتے سپ"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "تُو_TLSئیں ٹردا"
+    },
+    {
+      "surface": "תרמס",
+      "gloss": "تُو_TLSئیں رَوڑیندا"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "ببّر شیر"
+    },
+    {
+      "surface": "ותנין",
+      "gloss": "اتے وڈّا سَپ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:16:21.220859577Z",
+  "model": "glm-5.3"
+}

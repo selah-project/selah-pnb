@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 9:11",
+  "book": "amos",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جھونپڑی",
+      "rationale": "סוכה 'جھونپڑی\/کچا بند' اے — 'تبری' (tabernacle) نئیں؛ بادشاہ دے گھر دی گرک حالت دا نشان اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "میں",
+      "rationale": "دوجی کریا نال کرمتی ضمیر ⟨میں⟩ وادھو کیتا گیا، عبرانی وِچ صرف کریا دے صیغے وِچ اے۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "پرانے دِہاڑیاں وانگ",
+      "rationale": "ویلے دا حوالہ — پرانے دِناں دے وانگ مُڑ بنائی جاوے گی۔"
+    }
+  ],
+  "translation": "اُس دن میں ⟨את⟩ داوِد دی ڈگی ہوئی جھونپڑی نوں کھلواؤں گا، تے اوہدیاں دراڑاں نوں ⟨میں⟩ بند کروں گا، تے اوہدے ملبے نوں میں کھلواؤں گا، تے اوہنوں پرانے دِہاڑیاں وانگ بناؤں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f8267812af290365fb9bdbdf6006b6398bce3cd4105759b310e0b4fd1d4ca2e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/amos\/9\/9-12.1792110903006.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "اُس … دِن"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اُس"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "میں کھلواؤں گا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داوِد دی جھونپڑی نوں"
+    },
+    {
+      "surface": "סכת",
+      "gloss": "جھونپڑی"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "הנפלת",
+      "gloss": "ڈگی ہوئی"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "تے بند کروں گا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دڑاڑاں نوں"
+    },
+    {
+      "surface": "פרציהן",
+      "gloss": "اوہدیاں دراڑاں"
+    },
+    {
+      "surface": "והרסתיו",
+      "gloss": "تے اوہدے ملبے"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "کھلواؤں گا"
+    },
+    {
+      "surface": "ובניתיה",
+      "gloss": "تے بناؤں گا"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "… دِہاڑیاں وانگ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "پرانے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:35:03.007660957Z",
+  "model": "glm-5.3"
+}

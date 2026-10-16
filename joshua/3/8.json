@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 3:8",
+  "book": "joshua",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "یَہوشُوا نوں",
+      "rationale": "ایہ جملہ یَہوشُوا نوں حکم اے جو اوہ کاہناں نوں آکھے۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "کنارے",
+      "rationale": "קצה מי הירדן — 'پانیاں دے کنارے\/سِرے' — کجھ مترجم 'پانی دے وِچالے' پڑھدے نیں کیوں جو اگّوں کھلون دا حکم یَردن وِچ اے۔"
+    }
+  ],
+  "translation": "تے توں ⟨את⟩ کاہناں نوں — جیہڑے عہد دے صندوق نوں چُکدے نیں — حکم کریں، آکھ کے: جدوں تسیں یَردن دے پانیاں دے کنارے تک پہنچو، یَردن وِچ ہی کھلو جاؤ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "86a2358d45a1ada112fb21cab48e93067e12010bcb825e11e7f364afb5ba08cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joshua\/3\/5-8.1792100753030.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "تے توں"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "حکم کریں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کاہناں"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاہناں نوں"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "چُکدے"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "عہد دا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ کے"
+    },
+    {
+      "surface": "כבאכם",
+      "gloss": "جدوں تسیں پہنچو"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "کنارے"
+    },
+    {
+      "surface": "מי",
+      "gloss": "پانیاں دے"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "یَردن"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "یَردن وِچ"
+    },
+    {
+      "surface": "תעמדו",
+      "gloss": "کھلو جاؤ"
+    }
+  ],
+  "timestamp": "2026-10-15T21:45:53.032042378Z",
+  "model": "glm-5.3"
+}

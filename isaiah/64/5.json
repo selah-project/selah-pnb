@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 64:5",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "copula",
+      "rationale": "عبرانی وِچ کوئی جوڑ نئیں، پنجابی جملے لئی ⟨نیں⟩ دتا گیا"
+    },
+    {
+      "kind": "crux",
+      "subject": "עדים",
+      "rationale": "حیض والا کپڑا — کجھ مترجم 'میلی پونچھیاں' ورگے نرم لفظ دیندے نیں، عبرانی سُچ منگدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נבל",
+      "glossnote": "",
+      "rationale": "'مرجھا گئے' — عبرانی دا مول چِٹا پینا\/لَتّڑنا اے، پتے دی تصویر نال جُڑیا"
+    }
+  ],
+  "translation": "تے اسیں سارے اِک ناپاک وانگ ہو گئے، تے ساڈیاں ساریاں نیکیاں حیض والے کپڑے وانگ ⟨نیں⟩، تے اسیں سارے پتے وانگ مرجھا گئے، تے ساڈیاں بدکرداریاں ہوا وانگ سانوں چُک لے گئیاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1c6f02b30f0d3eb0ec598fb5fa82f66cc4d035d7f4c504c36ab9be999cc6a01c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/64\/5-8.1792107117630.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונהי",
+      "gloss": "تے ہو گئے"
+    },
+    {
+      "surface": "כטמא",
+      "gloss": "ناپاک وانگ"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "اسیں سارے"
+    },
+    {
+      "surface": "וכבגד",
+      "gloss": "تے کپڑے وانگ"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "حیض والے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساریاں"
+    },
+    {
+      "surface": "צדקתינו",
+      "gloss": "ساڈیاں نیکیاں"
+    },
+    {
+      "surface": "ונבל",
+      "gloss": "تے مرجھا گئے"
+    },
+    {
+      "surface": "כעלה",
+      "gloss": "پتے وانگ"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "اسیں سارے"
+    },
+    {
+      "surface": "ועוננו",
+      "gloss": "تے ساڈیاں بدکرداریاں"
+    },
+    {
+      "surface": "כרוח",
+      "gloss": "ہوا وانگ"
+    },
+    {
+      "surface": "ישאנו",
+      "gloss": "سانوں چُک لے گئیاں"
+    }
+  ],
+  "timestamp": "2026-10-15T23:31:57.631318803Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 7:5",
+  "book": "ezekiel",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רעה…רעה",
+      "rationale": "دوہراؤ — 'بُرائی، اِکو بُرائی' — عبرانی دی چاپ پنجابی وِچ رکھی اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "پنجابی جملے لئی فعل-معاون درکار، عبرانی وِچ نئیں"
+    }
+  ],
+  "translation": "اِنج آکھدا اے ادونای یاہوہ: بُرائی، اِکو بُرائی — ویکھو، آ رہی اے।",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d81ea06f4e6d9b6e971559f65f7fa8c907b7f81dbccbee3845f6da485cec5a8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/7\/5-8.1792108974392.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "اِنج"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھدا اے"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بُرائی"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "اِکو"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بُرائی"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ویکھو"
+    },
+    {
+      "surface": "באה",
+      "gloss": "آ رہی اے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:02:54.393484939Z",
+  "model": "glm-5.3"
+}

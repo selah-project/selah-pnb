@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 95,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אם בשבועה",
+      "rationale": "قسم دے نال اِم دا مطلب یقیناً نئیں اے — منفی قسم دا صیغہ؛ پنجابی وچ نئیں بریکٹ نال پایا گیا۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "غصہ",
+      "rationale": "באפי دا سُچجا مطلب میری اکھ\/نکّ دی بھڑک توں اے — اپ نال غصہ دا ٹھاٹھ۔"
+    }
+  ],
+  "translation": "ایس لئی میں اپنے غصے وِچ قسمت کھادی: اوہ میرے آرام وِچ ⟨نئیں⟩ آؤنگے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "31ad06238abde40becff53422bc1a7a4603b320c8617d2636113f0bd59aad6f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/95\/9-11.1792113362829.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ایس لئی"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "قسمت کھادی"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "اپنے غصے وِچ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "آؤنگے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "میرے آرام"
+    }
+  ],
+  "timestamp": "2026-10-16T01:16:02.830653656Z",
+  "model": "glm-5.3"
+}

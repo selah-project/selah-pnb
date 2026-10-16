@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 1:23",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "tense of תשובו",
+      "rationale": "BSB reads past contrary-to-fact ('if you had repented'); KJV\/JPS read imperative 'turn you' — imperative chosen as the natural form"
+    },
+    {
+      "kind": "invitation",
+      "subject": "mūṛ jāo",
+      "rationale": "Wisdom's imperative summons the hearers to return"
+    }
+  ],
+  "translation": "میری ڈانٹ اُتے مُڑ جاؤ؛ ویکھو، میں تُہانوں آپݪی روح اُگّھلاں گا، آپݪے بچن ⟨אתכם⟩تُہانوں دساں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7808f2645761d34e9704998dc60d7db3709166d589bd16531da455231ab3cc49",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/1\/21-24.1792114318034.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תשובו",
+      "gloss": "مُڑ جاؤ"
+    },
+    {
+      "surface": "לתוכחתי",
+      "gloss": "میری ڈانٹ اُتے"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ویکھو"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "اُگّھلاں گا"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُہانوں"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "آپݲی روح"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "دساں گا"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "آپݲے بچن"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "تُہانوں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:31:58.035713938Z",
+  "model": "glm-5.3"
+}

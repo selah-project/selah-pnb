@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 35:25",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נפשנו",
+      "rationale": "'ہاہ! ساڈی جان' — KJV 'so would we have it' (ساڈی خواہش پوری ہوئی) بمقابلہ JPS 'we have our desire'؛ عبرانی دُعا نِروان دا کارکردگی اے، خواہش دا نئیں۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "نفس",
+      "rationale": "נפש سا ہوا\/جان\/جی اے، روح نئیں — 'جان' رکھیا اے۔"
+    },
+    {
+      "kind": "idiom",
+      "subject": "בלענוהו",
+      "rationale": "'نگل لیا' — عبرانی دی تباہی دی مورت، پنجابی وِچ ایہو بمب دی اے۔"
+    }
+  ],
+  "translation": "نہ اوہ آکھن اپنے دل وِچ: ہاہ! ساڈی جان ⟨پُج گئی⟩؛ نہ اوہ آکھن: اسیں ⟨את⟩ اوہدے نوں نگل لیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1a8a109cff1d3550a9527086c0ee2255af580618ec08de39586da90e95afd527",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/35\/25-28.1792112322871.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "آکھن"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "اپنے دل وِچ"
+    },
+    {
+      "surface": "האח",
+      "gloss": "ہاہ!"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "ساڈی جان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "آکھن"
+    },
+    {
+      "surface": "בלענוהו",
+      "gloss": "اوہدے نوں نگل لیا"
+    }
+  ],
+  "timestamp": "2026-10-16T00:58:42.871843702Z",
+  "model": "glm-5.3"
+}

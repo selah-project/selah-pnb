@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 5:17",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "جسنوں",
+      "rationale": "عبرانی وچ نسبتی عبارت اے، پنجابی نوں نسبت دی لوڑ اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "تربیت",
+      "rationale": "מוסר دا مول مطلب تازیانہ\/سزا اے، متھرا 'تربیت' نرمی کردی اے"
+    },
+    {
+      "kind": "invitation",
+      "subject": "دیکھ",
+      "rationale": "הנہ پاٹھ نوں سدّاں ول کھِچدا اے"
+    }
+  ],
+  "translation": "دیکھ، خوش اے اوہ بندہ جسنوں ایلوہ ٹوکدا اے، تے شدّای دی تربیت نوں نا رَٹّ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "427affed229b5bac39a9b491848528afae2021d0c6c465fa74b26aefc45bdc9c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/5\/17-20.1792115538810.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "دیکھ"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "خوش"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "יוכחנו",
+      "gloss": "ٹوکدا اے"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ایلوہ"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "تے تربیت"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "شدّای"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תמאס",
+      "gloss": "رَٹّ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:52:18.811419327Z",
+  "model": "glm-5.3"
+}

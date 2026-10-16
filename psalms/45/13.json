@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 45:13",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "פניך יחלו",
+      "rationale": " Hebrew idiom 'seek your face' = entreat favor; rendered as Punjabi idiom 'منہ-مہرتیں منگنا'"
+    },
+    {
+      "kind": "crux",
+      "subject": "עשירי עם",
+      "rationale": "'rich of the people' vs 'richest among the people' — construct reading varies"
+    }
+  ],
+  "translation": "تے صُور دی دھی تحفے نال تیریاں منہ-مہرتیں منگے گی، قوم دے امیر لوک تیرا من منگن گے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "93c3c4f42fc18c2bacbe957f23f284e141d83dbd9849018b792aac39529388e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/45\/13-16.1792112554831.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "تے صُور دی دھی"
+    },
+    {
+      "surface": "צר",
+      "gloss": "صُور"
+    },
+    {
+      "surface": "במנחה",
+      "gloss": "تحفے نال"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "تیریاں منہ-مہرتیں"
+    },
+    {
+      "surface": "יחלו",
+      "gloss": "منگن گے"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "امیر لوک"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم دے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:02:34.831887237Z",
+  "model": "glm-5.3"
+}

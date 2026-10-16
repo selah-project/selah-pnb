@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ادونای",
+      "rationale": "אדני יהוה دی تھاں تنخ وِچ ربّ لئی کوئی واری اِکلا آؤندا اے؛ پنجابی وِچ ادونای حرف-نقل رکھیا"
+    }
+  ],
+  "translation": "ادونای اُس اُتے ہسّیگا، کیوں جو اوہنے ویکھیا اے کہ اوہدا دن آؤندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7f39e792d4f5efedebbc23dec149e1cf447459271ba0112cc11d05abe51312f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/37\/13-16.1792112333315.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "ہسّیگا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اُس اُتے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ویکھیا اے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "آؤندا اے"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "اوہدا دن"
+    }
+  ],
+  "timestamp": "2026-10-16T00:58:53.316500101Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨نال⟩",
+      "rationale": "عبرانی دے بـ دا ترجما، پنجابی جملے لئی شامل"
+    }
+  ],
+  "translation": "بیل تے گدھا اِکٹھے ⟨نال⟩ ہل نئیں چاہیدا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5faad4859e290c27bb2a1b5c8330de0517480e280e5045e96b8660ed148784dc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/22\/9-12.1792100107999.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "ہل چاہیدا"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "بیل ⟨نال⟩"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "تے گدھا"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "اِکٹھے"
+    }
+  ],
+  "timestamp": "2026-10-15T21:35:08.000609256Z",
+  "model": "glm-5.3"
+}

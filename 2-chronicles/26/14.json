@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 26:14",
+  "book": "2-chronicles",
+  "lang": "pnb",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨تیار⟩",
+      "rationale": "عبرانی ויכן ‘تیار کیتے’ وِچ فعل اے پر پنجابی لسٹ وِچ وکھرا لازم آیا — لازم اشارہ بریکٹ نال۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "ולאבני קלעים",
+      "rationale": "‘گلی دے پتھر’ یا ‘گلی سٹن دے پتھر’ — KJV ‘slings to cast stones’ دے الٹ وتر۔"
+    }
+  ],
+  "translation": "تے عُزیاہو نے اوہناں لئی، ساری فوج لئی، ڈھالاں تے نیزے تے پگاڑ اتے زرہاں تے کماناں اتے گلی سٹن دے پتھر ⟨تیار⟩ کیتے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7311b477c395d6c908a7eec77ab4cfc0b5ec1fd7693309648fa0cd4e73ea1739",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/26\/13-16.1792122666316.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכן",
+      "gloss": "تیار کیتے"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اوہناں لئی"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "عُزیاہو نے"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "فوج لئی"
+    },
+    {
+      "surface": "מגנים",
+      "gloss": "ڈھالاں"
+    },
+    {
+      "surface": "ורמחים",
+      "gloss": "تے نیزے"
+    },
+    {
+      "surface": "וכובעים",
+      "gloss": "تے پگاڑ"
+    },
+    {
+      "surface": "ושרינות",
+      "gloss": "اتے زرہاں"
+    },
+    {
+      "surface": "וקשתות",
+      "gloss": "اتے کماناں"
+    },
+    {
+      "surface": "ולאבני",
+      "gloss": "اتے پتھر"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "گلی سٹن دے"
+    }
+  ],
+  "timestamp": "2026-10-16T03:51:06.317664287Z",
+  "model": "glm-5.3"
+}

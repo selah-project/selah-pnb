@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 26:17",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "عبرانی وِچ کپولا نئیں — 'میری آواز' اِکو کافی اے"
+    },
+    {
+      "kind": "you",
+      "subject": "ساؤل دا خطاب",
+      "rationale": "داوِد سِدھا شاؤل نال گل کردا اے — 'میرے پتر داوِد' تے 'سائیں بادشاہ' دوناں پاسے"
+    }
+  ],
+  "translation": "تے شاؤل نے ⟨את⟩ داؤد دی آواز پچھاتی تے آکھیا: کی ایہہ تیری آواز اے، میرے پتر داوِد؟ تے داوِد نے آکھیا: میری آواز ⟨اے⟩، سائیں بادشاہ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "480f4f2861ac7761bb775a6e651b8aab82f40e8d3abe1a6cd16e6d5ba012ae23",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/26\/17-20.1792103032137.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "تے پچھاتی"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داؤد دی آواز"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داؤد"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "הקולך",
+      "gloss": "تیری آواز"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پتر"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "میری آواز"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "سائیں"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    }
+  ],
+  "timestamp": "2026-10-15T22:23:52.138050293Z",
+  "model": "glm-5.3"
+}

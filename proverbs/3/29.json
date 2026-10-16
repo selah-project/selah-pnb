@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 3:29",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רעך\/רעה",
+      "rationale": "רֵעַ (یار) تے רָעָה (برائی) اکو جیہے اُچار — یار تے برائی دی سنسکت پنجابی وِچ مُک جاندی اے"
+    },
+    {
+      "kind": "you",
+      "subject": "to the reader",
+      "rationale": "آیت سِدھے پڑھن والے نوں مخاطب اے — پورا باب نصیحت دی خطاب اے"
+    }
+  ],
+  "translation": "اپنے یار بارے برائی نہ گھڑ، تے اوہ ⟨את⟩ تیرے نال بھروسے نال وسدا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8844867d968ec9db62dc0e11395174abb8bc87f1deb42f5348a1dc101146471b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/3\/29-32.1792114438831.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "گھڑ"
+    },
+    {
+      "surface": "על",
+      "gloss": "بارے"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "اپنے یار"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "تے اوہ"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "وسدا اے"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "بھروسے نال"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ تیرے نال",
+      "marks": "تیرے نال"
+    }
+  ],
+  "timestamp": "2026-10-16T01:33:58.831912279Z",
+  "model": "glm-5.3"
+}

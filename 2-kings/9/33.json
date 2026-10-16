@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 9:33",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اوہنوں⟩",
+      "rationale": "וירמסנה وِچ مفعول دا سرناؤں جُڑیا اے، پنجابی جملے لئی وکھ لفظ منگدا اے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ויז",
+      "rationale": "کُجھ مترجم 'چھڑک ماریا' توں 'اُچھلیا' کردے نیں — مگر בچن دا مول اچھالنا\/چھڑکنا ای اے"
+    }
+  ],
+  "translation": "تے اوہنے آکھیا: اوہنوں سٹو! تے اوہناں اوہنوں سٹیا، تے اوہدے لہو نے دیوار اُتے تے گھوڑیاں اُتے چھڑک ماریا، تے ⟨اوہنوں⟩ رَمیڈ سُٹیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "195f7a8a5469420232826c48a271aaf97612aa5415a4db170792b5617dc071c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/9\/33-36.1792105181184.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے اوہنے آکھیا"
+    },
+    {
+      "surface": "שמטהו",
+      "gloss": "اوہنوں سٹو"
+    },
+    {
+      "surface": "וישמטוה",
+      "gloss": "تے اوہناں اوہنوں سٹیا"
+    },
+    {
+      "surface": "ויז",
+      "gloss": "تے چھڑک ماریا"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "اوہدے لہو نے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "دیوار"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "گھوڑیاں"
+    },
+    {
+      "surface": "וירמסנה",
+      "gloss": "تے رَمیڈ سُٹیا"
+    }
+  ],
+  "timestamp": "2026-10-15T22:59:41.184779205Z",
+  "model": "glm-5.3"
+}

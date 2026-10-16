@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 135:9",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "جِنہاں ⟨اوہ⟩",
+      "rationale": "عبرانی وِچ اشارہی ضمیر نئیں، پنجابی رشتہ دار جملہ منگدا اے"
+    },
+    {
+      "kind": "you",
+      "subject": "اے مِتصرایم",
+      "rationale": "בתוככی دا دوجا شخص مُخاطب ہے — مِتصرایم نوں سدّیا گیا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "حیرانیاں",
+      "rationale": "מופת دا مُڈھلا مطلب عجیب کم\/نشانی"
+    }
+  ],
+  "translation": "جِنہاں ⟨اوہ⟩ نشانیاں تے حیرانیاں تیرے وِچارے بھیجیاں، اے مِتصرایم، فرعون تے اوہدے سارے نائیاں اُتے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6cca197ce9087e5bd4a9b5f425d10670a999cd0a54bb6d107f399bca57f677a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/135\/9-12.1792114045190.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "بھیجیا"
+    },
+    {
+      "surface": "אותות",
+      "gloss": "نشانیاں"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "تے حیرانیاں"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "تیرے وِچارے"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "اے مِتصرایم"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "فرعون اُتے"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "تے سارے"
+    },
+    {
+      "surface": "עבדיو",
+      "gloss": "نائے اوہدے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:27:25.191281713Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 112,
+  "ref": "psalms 119:112",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עקב",
+      "rationale": "عقب دا مطلب اِیڑا اے — انت\/آخری حد؛ پنجابی وِچ ایہہ تصویر ہار گئی"
+    },
+    {
+      "kind": "crux",
+      "subject": "انت تک",
+      "rationale": "עקב: 'انت تک' (KJV\/BSB) بمقابلہ 'ہر قدم اُتے' (JPS) — اِیڑے دی تصویر دو ولّیں کھلھدی اے"
+    }
+  ],
+  "translation": "میں اپنا دل نوں جھکا لیا اے تیرے قنوناں نوں کرن لئی، ہمیشہ، انت تک۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c25d66ebf54a4637bc1d45fc35c5552b129120b3f369161dad96001cefcd08b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/119\/109-112.1792113915756.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נטיתי",
+      "gloss": "میں جھکا لیا اے"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "اپنا دل نوں"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "کرن لئی"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "تیرے قنوناں نوں"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "انت تک"
+    }
+  ],
+  "timestamp": "2026-10-16T01:25:15.757126470Z",
+  "model": "glm-5.3"
+}

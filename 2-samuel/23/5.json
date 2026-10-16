@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 23:5",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כי לא כן",
+      "rationale": "کیوں جو نئیں ایویں —versions وکھرے پڑھدے نیں: ‘میرا گھر ایل دے نال ایویں نئیں’ (KJV) بمقابلہ ‘کیا میرا گھر ایل دے نال ایہو جیہا نئیں؟’ (JPS سوال)۔"
+    },
+    {
+      "kind": "alternative",
+      "subject": "לא יצמיח",
+      "rationale": "دوجا پڑھائی: ‘اوہ اُگن نئیں دیندا’ — کجھ مفسر ‘اوہ پھُٹ نئیں سکیگا’ (دشمن بارے) پڑھدے نیں۔"
+    }
+  ],
+  "translation": "کیوں جو میرا گھر ایل دے نال ایویں نئیں، کیوں جو اوہنے میرے لئی ہمیشہ دا عہد رکھیا، سَبھ وِچ ترتیبواں تے رکھیا ہویا؛ کیوں جو ایہو ساری میری نجات تے سارا میرا چاہ اے، کیوں جو اوہ ⟨اوہنوں⟩ اگے نئیں اُگاویگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b690968deb40faef342d74d4037030699f524e865a9c91e63673a58b67c483b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/23\/5-8.1792103867414.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ایویں"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "میرا گھر"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "عہد"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیشہ دا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "رکھیا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرے لئی"
+    },
+    {
+      "surface": "ערוכה",
+      "gloss": "ترتیبواں"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سبھ وِچ"
+    },
+    {
+      "surface": "ושמרה",
+      "gloss": "تے رکھیا ہویا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "میری نجات"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سارا"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "چاہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יצמיח",
+      "gloss": "اُگاویگا"
+    }
+  ],
+  "timestamp": "2026-10-15T22:37:47.414902579Z",
+  "model": "glm-5.3"
+}

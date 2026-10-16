@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 1:33",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨سن⟩",
+      "rationale": "عبرانی وِچ کوئی کپولا نئیں، پنجابی نوں 'سن' چاہیدا اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "نَسَب لڑی",
+      "rationale": "نسلاں دی لِکھت — ناواں دی گنتی، قتوراہ دی نسل"
+    }
+  ],
+  "translation": "تے مِدیان دے پُتر: عِیپھاہ، تے عِیپھیر، تے حَنوکھ، تے اَوِیداع، تے اِلداعاہ۔ ایہہ سارے قتوراہ دے پُتر ⟨سن⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "58bfa9bacaa49ccf42583cec363483557f06b36985c4fa19cf5e74c1b6e79422",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/1\/33-36.1792120126801.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "تے … دے پُتر"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "مِدیان"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "عِیپھاہ"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "تے عِیپھیر"
+    },
+    {
+      "surface": "וחנוך",
+      "gloss": "تے حَنوکھ"
+    },
+    {
+      "surface": "ואבידע",
+      "gloss": "تے اَوِیداع"
+    },
+    {
+      "surface": "ואלדעה",
+      "gloss": "تے اِلداعاہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "قتوراہ"
+    }
+  ],
+  "timestamp": "2026-10-16T03:08:46.801624904Z",
+  "model": "glm-5.3"
+}

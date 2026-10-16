@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 80:5",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "دُکھدا رہا ایں",
+      "rationale": "עשנת دا مطلب اے 'دُکھا' (عبرانی وِچ غصے دی مورت)؛ لفظی صورت پنجابی وِچ رکھی گئی اے"
+    },
+    {
+      "kind": "invitation",
+      "subject": "پوری آیت",
+      "rationale": "یاہوہ نوں سدھا مخاطب کر کے پچھیا گیا سوال — 'ادے تک؟'"
+    },
+    {
+      "kind": "you",
+      "subject": "یاہوہ نوں",
+      "rationale": "سدھی خطاب یاہوہ ایلوہیم تصواوت ول"
+    }
+  ],
+  "translation": "یاہوہ، ایلوہیم تصواوت، ادے تک؟ توں اپنی قوم دی دعا اُتے دُکھدا رہا ایں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bce9c4cb47de3c519a7356de021808b5a5c295bea022f83ed4bbb45227f3335f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/80\/5-8.1792113182719.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "تصواوت"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ادے"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "کدوں تک"
+    },
+    {
+      "surface": "עשנת",
+      "gloss": "دُکھدا رہا ایں"
+    },
+    {
+      "surface": "בתפלת",
+      "gloss": "دی دعا اُتے"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "اپنی قوم"
+    }
+  ],
+  "timestamp": "2026-10-16T01:13:02.720120281Z",
+  "model": "glm-5.3"
+}

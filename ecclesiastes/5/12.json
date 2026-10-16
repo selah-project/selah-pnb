@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 5:12",
+  "book": "ecclesiastes",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "جیہڑی",
+      "rationale": "عبرانی وِچ رشتے والا لفظ نئیں — 'اک بیمار برائی میں ویکھی' سِدھی اے، پنجابی جوڑ منگدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חולה",
+      "rationale": "لفظ دی شکل 'بیمار\/دُکھی' اے — 'بھاری' یا 'دکھ دین والی' برائی کہݨا شکل توں ہٹ جاندے نیں"
+    }
+  ],
+  "translation": "اک بیمار برائی اے جیہڑی میں سورج ہیٹھ ویکھی اے: دولت اوہدے مالک لئی رکھی ہوئی، اوہدی برائی لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4632ec4aaa2098b83ecc721b2b13f6a0616dadb8765a466c0c091d42c1aeb6c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ecclesiastes\/5\/9-12.1792117573882.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "اک … اے"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "بیمار"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "میں ویکھی اے"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ہیٹھ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سورج"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دولت"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "رکھی ہوئی"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "اوہدے مالک لئی"
+    },
+    {
+      "surface": "לרעתו",
+      "gloss": "اوہدی برائی لئی"
+    }
+  ],
+  "timestamp": "2026-10-16T02:26:13.883603522Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 10:20",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "فوج دا سردار",
+      "rationale": "گاد دے دستے دے سردار دی لسٹ — گنتی دا سلسلہ جاری اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "عبرانی وِچ کوئی فعل ربط نئیں، پنجابی نے ⟨سی⟩ منگیا"
+    }
+  ],
+  "translation": "تے قبیلہ گاد دے پُتراں دی فوج اُتے اِلیاساف ⟨سی⟩، بیٹا دِعوائیل دا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fd25d804d3c6123e966f779b7dd9123ed19dd5efef035efa6b1e1ec0ac6186ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/10\/17-20.1792098494612.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "فوج"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "قبیلہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں دے"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "اِلیاساف"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "دِعوائیل"
+    }
+  ],
+  "timestamp": "2026-10-15T21:08:14.613783053Z",
+  "model": "glm-5.3"
+}

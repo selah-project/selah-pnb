@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 4:25",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اے⟩",
+      "rationale": "عبرانی وِچ کپولا نئیں، پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "you",
+      "subject": "یِسرائیل",
+      "rationale": "موسیٰ قوم نال سدھی گل کر رہیا اے — پُتر جناوݨ توں لے کے مورتی بناؤن تک"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מתי מספر ↔ چند آدمی",
+      "rationale": "حرفیاً 'گِنتی دے آدمی' — وِچارے مَتریئے دا سوما اِتھے نئیں، اگلی آیت (4:27) وِچ آوندا اے"
+    }
+  ],
+  "translation": "جد تُسیں پُتر جناویںگے تے پُتراں دے پُتر، تے دیس وِچ پُرانے ہو جاؤ گے، تے آپ نوں بگاڑو گے، تے مورتی بناؤ گے — ہر شَے دی شبیہ — تے اوہ برائی کرو گے جیہڑی یاہوہ تیرے ایلوہیم دیاں اکھاں وِچ ⟨اے⟩، اوہنوں غصہ دلاؤن لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ae40f5c0ae8adc61a93f45f8eaddd5115f4fa77ee499088ccf13419f89fadeb5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/4\/25-28.1792099725055.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "جد"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "تُسیں جناویںگے"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "تے پُتراں دے"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ונושנתם",
+      "gloss": "تے تُسیں پُرانے ہو جاؤ گے"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "دیس وِچ"
+    },
+    {
+      "surface": "והשחתם",
+      "gloss": "تے تُسیں آپ نوں بگاڑو گے"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "تے تُسیں بناؤ گے"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "مورتی"
+    },
+    {
+      "surface": "תמונת",
+      "gloss": "شبیہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر شَے دی"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "تے تُسیں کرو گے"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "اکھاں وِچ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تیرے ایلوہیم دیاں"
+    },
+    {
+      "surface": "להכעיסו",
+      "gloss": "اوہنوں غصہ دلاؤن لئی"
+    }
+  ],
+  "timestamp": "2026-10-15T21:28:45.056109634Z",
+  "model": "glm-5.3"
+}

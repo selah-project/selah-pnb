@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 20:9",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "چھ دِناں",
+      "rationale": "کم دے دِناں دی گنتی — قاعدے دی نیہہ۔"
+    },
+    {
+      "kind": "you",
+      "subject": "تُوں",
+      "rationale": "حکم اِک بوہتے مخاطب اِسرائیل نوں۔"
+    }
+  ],
+  "translation": "چھ دِناں تے تُوں کم کریں تے سارا اپنا کم کر لوو۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "337709d88430ef699d043eaf84815bcb5628e8010c210e650de3c8ef37ad7842",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/20\/9-12.1792096669399.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دِناں تے"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "کم کریں"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "تے کر لوو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "اپنا کم"
+    }
+  ],
+  "timestamp": "2026-10-15T20:37:49.400201328Z",
+  "model": "glm-5.3"
+}

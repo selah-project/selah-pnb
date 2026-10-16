@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 25:9",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "וינוחו",
+      "rationale": "”'rest' here means to fall silent\/wait; lit. 'and they rested' rendered 'and they fell silent'"
+    },
+    {
+      "kind": "you",
+      "subject": "Nabal",
+      "rationale": "David's men speak to Nabal in David's name"
+    }
+  ],
+  "translation": "تے داوِد دے نوجوان آئے تے نابال نال ایہناں ساریاں گلاں وانگُوں گلاں کیتیاں، داوِد دے ناں نال، تے چُپ کر گئے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "733366f2509fa6d2418fbb48c99b903674ab00955dfd548eca02aeca49b6062a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/25\/9-12.1792102826507.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "آئے"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "دے نوجوان"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "تے گلاں کیتیاں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "نابال"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ساریاں وانگُوں"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "گلاں"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ایہناں"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ناں نال"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد دے"
+    },
+    {
+      "surface": "וינוחו",
+      "gloss": "تے چُپ کر گئے"
+    }
+  ],
+  "timestamp": "2026-10-15T22:20:26.508086768Z",
+  "model": "glm-5.3"
+}

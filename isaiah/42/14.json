@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 42:14",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨میں⟩",
+      "rationale": "אתאפק دے نال كریا دا كردار عبرانی وِچ فعل دی شکل وِچ چھپیا اے، پنجابی لئی وکھ لکھیا"
+    },
+    {
+      "kind": "crux",
+      "subject": "אשם",
+      "rationale": "KJV 'destroy and devour' پڑھدا اے، ASV\/JPS 'gasp and pant' — زچہ عورت دے سیاق دوجے نوں منگدا اے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "החשיתי",
+      "rationale": "'ہن تک چُپ رہیا' بمقابلہ 'چِرے چِرے توں چُپ ہاں' — מעולם دونواں پاسے جان سکدا اے"
+    }
+  ],
+  "translation": "بہت چِر توں میں چُپ رہیا ہاں، میں ماݨو چُپ کراں گا، ⟨میں⟩ اپنے آپ نوں روکواں گا؛ ہن جویں کوئی زچہ عورت میں چیکھاں گا، سانس پھوکاں گا تے ہانپاں گا، سب اِکو ویلے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ce744ac742634978006c718f1e4652dc374f105280324f4ffb59f3d4c75d46e7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/42\/13-16.1792106738930.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "החשיתי",
+      "gloss": "میں چُپ رہیا ہاں"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "بہت چِر توں"
+    },
+    {
+      "surface": "אחריש",
+      "gloss": "میں ماݨو چُپ کراں گا"
+    },
+    {
+      "surface": "אתאפק",
+      "gloss": "اپنے آپ نوں روکواں گا"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "جویں کوئی زچہ عورت"
+    },
+    {
+      "surface": "אפעה",
+      "gloss": "میں چیکھاں گا"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "سانس پھوکاں گا"
+    },
+    {
+      "surface": "ואשאף",
+      "gloss": "تے ہانپاں گا"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "سب اِکو ویلے"
+    }
+  ],
+  "timestamp": "2026-10-15T23:25:38.930956458Z",
+  "model": "glm-5.3"
+}

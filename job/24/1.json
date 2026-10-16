@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 24:1",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לא נצפנו עתים",
+      "rationale": "'times are not stored up by Shaddai' vs KJV's negative question 'not hidden from' — the syntax allows both readings"
+    },
+    {
+      "kind": "addition",
+      "subject": "کولوں \/ اوہنوں",
+      "rationale": "punjabi needs the preposition and pronoun that hebrew prefix מן and suffix ו imply"
+    }
+  ],
+  "translation": "کیوں شدّای ⟨کولوں⟩ ویلے لُکائے نئیں گئے، تے جیہڑے ⟨اوہنوں⟩ جاندے نیں اوہ اوہدے دن ویکھدے نئیں؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b89365a7508d833473dbff6c61f88fcf79aed3c280ae79e7fded76d84c496105",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/24\/1-4.1792116060783.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "משדי",
+      "gloss": "شدّای ⟨کولوں⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "נצפנו",
+      "gloss": "لُکائے گئے"
+    },
+    {
+      "surface": "עתים",
+      "gloss": "ویلے"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "تے جاندے نیں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "ویکھدے"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "اوہدے دن"
+    }
+  ],
+  "timestamp": "2026-10-16T02:01:00.783747467Z",
+  "model": "glm-5.3"
+}

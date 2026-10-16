@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 63:5",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "گاہاں \/ گا",
+      "rationale": "عبرانی مستقبل دا صیغہ اے پر پنجابی فعل دا وقت دسن لئی وادھا"
+    },
+    {
+      "kind": "you",
+      "subject": "تینوں \/ تیرے",
+      "rationale": "اِن آیت یاہوہ نوں سدھا مخاطب اے"
+    }
+  ],
+  "translation": "اِس لئی میں اپنی جان وِچ تینوں دھنّاں گاہاں، تیرے ناں وِچ اپنیاں ہتھیلیاں چُکاں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e27d25f1bef020b9d973f8f67dfe6f62fa2ad021cd065a6e8ddb3d763dc5ff25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/63\/5-8.1792112810657.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "اِس لئی"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "تینوں دھنّاں گاہاں"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "اپنی جان وِچ"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "تیرے ناں وِچ"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "چُکاں گا"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "اپنیاں ہتھیلیاں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:06:50.658058326Z",
+  "model": "glm-5.3"
+}

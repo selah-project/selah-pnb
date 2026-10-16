@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "جیہڑا",
+      "rationale": "عبرانی وِچ نسبتِ ضمیر نئیں، پنجابی جملے لئی پایا"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הים\/ימים",
+      "rationale": "اِکو لفظ سمندر — جمع دا دُہراؤ، پنجابی وِچ 'سمندر دیاں\/سمندراں دے' نال ذرا جیہا بچدا اے"
+    }
+  ],
+  "translation": "اسماناں دے پنچھی تے سمندر دیاں مچھیاں، جیہڑا سمندراں دے رستیاں تے لنگھدا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "eb58508ff3f199256c102446a6e0832d2f37da1a0fca7fb9c90c2143b34e5232",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/8\/9-10.1792111902989.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "پنچھی"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "اسماناں دے"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "تے مچھیاں"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر دیاں"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "لنگھدا اے"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "رستیاں تے"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "سمندراں دے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:51:42.990343983Z",
+  "model": "glm-5.3"
+}

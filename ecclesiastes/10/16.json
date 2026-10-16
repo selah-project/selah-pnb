@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "دھرتی",
+      "rationale": "siddha pukar — dharti nu awaz ditti jandi e"
+    },
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "pukar layi vaddiya, ebrani vich nai"
+    },
+    {
+      "kind": "crux",
+      "subject": "نער",
+      "rationale": "nia (jawan) vs bacha (kuj kotan tarjame 'bacha' likhde ne) — sabat te am 'nia' e"
+    }
+  ],
+  "translation": "ہائے تُوں، اے دھرتی، جد تیرا بادشاہ نِعا ہووے تے تیرے سردار سویرے ای کھاوندے نیں!",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a7bef985286695657c9a47bf990373100c1b6cd74c5cd2aa10812e10914e0dea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ecclesiastes\/10\/13-16.1792117512832.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "ہائے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تُوں"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "اے دھرتی"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "جد تیرا بادشاہ"
+    },
+    {
+      "surface": "נעر",
+      "gloss": "نِعا ہووے"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "تے تیرے سردار"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "سویرے ای"
+    },
+    {
+      "surface": "יאכלو",
+      "gloss": "کھاوندے نیں"
+    }
+  ],
+  "timestamp": "2026-10-16T02:25:12.833226337Z",
+  "model": "glm-5.3"
+}

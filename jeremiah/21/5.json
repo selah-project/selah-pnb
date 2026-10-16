@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 21:5",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אף",
+      "rationale": "עבری 'نَکّ\/ناسا' غصے دا چِتر اے — ترجمے وچ 'غصہ' کیتا، بتّ دا روپ ٹُٹ گیا۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אף חמה קצף",
+      "rationale": "غصے دے تن دُوپھان لگاٹا لگا کے — عبرانی وچ وی ایہو تِن لفظ، پنجابی وچ وی تِن۔"
+    }
+  ],
+  "translation": "تے اَناں آپ ⟨את⟩ تُہاڈے نال لڑساں، اُڈیکیا ہویا ہتھ نال تے مضبوط بازو نال، تے غصے نال، تے کہر نال، تے وڈی غضب نال۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5b3f0ecb90ef1b954a288709759eeeb7054788ef07c5c50828f60b5ff86e1588",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/21\/5-8.1792107893753.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונלחמתי",
+      "gloss": "تے لڑساں"
+    },
+    {
+      "surface": "אני",
+      "gloss": "اَناں آپ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ تُہاڈے نال",
+      "marks": "تُہاڈے نال"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ہتھ نال"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "اُڈیکیا ہویا"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "تے بازو نال"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "مضبوط"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "تے غصے نال"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "تے کہر نال"
+    },
+    {
+      "surface": "ובקצף",
+      "gloss": "تے غضب نال"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وڈی"
+    }
+  ],
+  "timestamp": "2026-10-15T23:44:53.754416640Z",
+  "model": "glm-5.3"
+}

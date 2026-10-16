@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 9:10",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اپنے",
+      "rationale": "לנערو وِچ جڑ والا ضمیر پنجابی جملے لئی صاف 'اپنے' نال کھلوندا اے"
+    }
+  ],
+  "translation": "تے شاؤل نے اپنے نَوں مُنڈے نوں آکھیا: تیری گل چنگی اے، آؤ، چلیئے۔ تے اوہ اُس شہر ول گئے جتھے اوتھے ایلوہیم دا بندہ سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "726618519fc0d1fa85f8e84a1328ca3c79d8fc170346a081a5076b45010040cc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/9\/9-12.1792102383327.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "לנערו",
+      "gloss": "اپنے نَوں مُنڈے نوں"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگی"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "تیری گل"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "آؤ"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "چلیئے"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "تے گئے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ول"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جتھے"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اوتھے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم دا"
+    }
+  ],
+  "timestamp": "2026-10-15T22:13:03.328286585Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 9:21",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "آ، تاں جو",
+      "rationale": "ہور نال پنجابی حالت لئی پکاریا تے مقصد دا جوڑ دتا، عبرانی وِچ نئیں"
+    },
+    {
+      "kind": "crux",
+      "subject": "مُورت",
+      "rationale": "מורה: 'خوف\/دہشت' (JPS, KJV) بمقابلہ یلت دا 'حاکم\/سردار' — جڑ י-ר-א توں 'خوف' ودھ پکا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "فانی بندے",
+      "rationale": "אנוש مڑ جان والا بندہ اے، ایڈم توں گھٹ سِدھ — 'فانی' اوہدے گھوٹ نوں رکھدا اے"
+    },
+    {
+      "kind": "elision",
+      "subject": "سِلاہ",
+      "rationale": "سنگیت دا وقفہ، ترجمہ نئیں ہوندا، اِکو صورت رکھیا"
+    }
+  ],
+  "translation": "یاہوہ آ، اوہناں اُتے خوف رکھ، تاں جو قوماں جان لاوݨ کہ اوہ فانی بندے نیں۔ سِلاہ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "60f23c74c0b7a0dda8c2730f3e0f7b723a2ac2caa1d68f3be95aacc4ba63cb00",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/9\/21-21.1792111889704.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "رکھ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "خوف"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اوہناں اُتے"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "جان لاوݨ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قوماں"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "فانی بندے"
+    },
+    {
+      "surface": "המה",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سِلاہ"
+    }
+  ],
+  "timestamp": "2026-10-16T00:51:29.705337737Z",
+  "model": "glm-5.3"
+}

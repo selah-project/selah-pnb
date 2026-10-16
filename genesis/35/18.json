@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 35:18",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جان اے، صرف 'روح' نئیں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בן אוני \/ בנימין",
+      "rationale": "ماں دا ناں 'میری تکلیف دا پُتر' پیو نے بدلیا 'سجے ہتھ دا پُتر' — دوواں ناواں وِچ 'بن' صدی اے"
+    }
+  ],
+  "translation": "تے ہویا، جد اوہدے جان نِکل رہی سی — کیوں جے اوہ مر گئی — تد اوہنے اوہدے ناں بن اونی رکھیا؛ پر اوہدے پیو نے اوہنوں بنیامین آکھیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6cd8e878af2df6832deba07b441bcee78f8fc312bff1d93a079b503c8462c15c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/35\/17-20.1792095616334.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے ہویا"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "جد … نِکل رہی سی"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "اوہدے جان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جے"
+    },
+    {
+      "surface": "מתה",
+      "gloss": "اوہ مر گئی"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "اوہنے … رکھیا"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اوہدے ناں"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن ⟨پُتر⟩"
+    },
+    {
+      "surface": "אוני",
+      "gloss": "اونی ⟨میری تکلیف⟩"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "پر اوہدے پیو نے"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہنوں"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "بنیامین"
+    }
+  ],
+  "timestamp": "2026-10-15T20:20:16.334977639Z",
+  "model": "glm-5.3"
+}

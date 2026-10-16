@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "genesis 41:51",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מנשה\/נשני",
+      "rationale": "ناں جڑ נ-ש-ہ توں بنیا: 'منشہ' ← 'اوہنے بھلا دتا' — ناں تے وضاحت اکو جڑ نال جُڑے نیں"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨اے⟩",
+      "rationale": "عبرانی پہلی شخص دی زبان نئیں دندا، پنجانی نویں جملہ منگدا اے"
+    }
+  ],
+  "translation": "تے یوسف نے پہلوںدے دا ناں منشہ رکھیا، کیونجے ایلوہیم نے مینوں ⟨את⟩ ساڑے میں مِہناواں تے ⟨את⟩ میرے پیو دے سارے گھر نوں بھلا دتا ⟨اے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "679e1d34b3f96c87934810b12fed48b5eca8b2df02bdbad91fc79e07f17dea11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/41\/49-52.1792095837776.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "رکھیا"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ناں"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناں"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "پہلوںدے"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "منشہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "נשני",
+      "gloss": "بھلا دتا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ساریاں مِہناواں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساریاں"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "مِہناواں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "سارے گھر نوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "میرے پیو دے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:23:57.777524425Z",
+  "model": "glm-5.3"
+}

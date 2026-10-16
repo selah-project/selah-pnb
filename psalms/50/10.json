@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 50:10",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אלף",
+      "rationale": "«ہزار» (KJV\/JPS) بمقابلہ «بیل» (ylt: بیلّاں دیاں پہاڑیاں) — دونواں 读یاں پرچلت نیں۔"
+    }
+  ],
+  "translation": "کیونکہ جنگل دی ساری چوپایہ میری اے، اتے ہزار پہاڑیاں دا مال۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d77fd03860119589c1943f3bab0ac4f0aff142a3d3b27d6235dae13d87fd5c06",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/50\/9-12.1792112530712.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میری اے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "چوپایہ"
+    },
+    {
+      "surface": "יער",
+      "gloss": "جنگل"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "مال"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "پہاڑیاں دے"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    }
+  ],
+  "timestamp": "2026-10-16T01:02:10.713672333Z",
+  "model": "glm-5.3"
+}

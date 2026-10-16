@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 7:16",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سب کچھ توں",
+      "rationale": " عبرانی وِچ מאסתי دا مفعول لکھیا نئیں؛ سیاق توں مراد جیون\/سب کجھ اے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הבל",
+      "rationale": "لفظ دا مورت ساہ\/ہوا اے — ادھورا پن تے مُک جان والا ہونا ایہدے توں نکلیا اے؛ 'فالت' پکا ترجمہ نئیں۔"
+    }
+  ],
+  "translation": "مینوں ⟨سب کچھ توں⟩ گھن اے؛ ہمیشاں لئی نئیں جیواں گا؛ مینوں چھڈّ دے، کیونجے میرے دن ہوا نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "cd39044740d7c572944c9015716ef9bbfe7dc89afba146913a7981b150cd6e07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/7\/13-16.1792115464784.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מאסתי",
+      "gloss": "مینوں گھن اے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "ہمیشاں لئی"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "جیواں گا"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "چھڈّ دے"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "مینوں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ہوا"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "میرے دن"
+    }
+  ],
+  "timestamp": "2026-10-16T01:51:04.785752735Z",
+  "model": "glm-5.3"
+}

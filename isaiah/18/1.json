@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צלצל",
+      "rationale": "'بازی گرں دا شور' (ASV\/JPS) بمقابلہ 'پَرّاں دی چھاں' (KJV، عبرانی صِلصال دی ودھ conflating)۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "הוי",
+      "rationale": "'ہائے\/افسوس' (woe) بمقابلہ 'اَہ' (ah، حیرانی) — JPS اَہ لیندے نیں۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "shor-shuha",
+      "rationale": "צלצל اتے בھومکبما (onomatopoeia) اے — 'بازی گر' دی آواز — 'پَرّاں دا شور-شُوہ' اک الٹ (approximation) اے۔"
+    }
+  ],
+  "translation": "ہائے اُوہ دھرتی — پَرّاں دا شور-شُوہ — جِہڑی کُوش دے دریاواں دے پار اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "09e49299305836eb392ba88b85b98d89ff37106566c1a06010df6da0936bf95f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/18\/1-4.1792106203573.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ہائے"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "دھرتی"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "شور-شُوہ"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "پَرّاں دا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جِہڑی"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "پار"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "دریاواں دے"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "کُوش"
+    }
+  ],
+  "timestamp": "2026-10-15T23:16:43.574571861Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 20:7",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "لَکَخ ‘لیا’",
+      "rationale": "عبرانی دا سادہ ‘لے جانا’ اے — ‘بیاہ کرنا’ پیش کرنا ایہدی تفسیر اے، ایس لئی ‘لے جاوے’ رکھیا"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לקחה \/ יקחנה",
+      "rationale": "اکو فعل ‘لے جانا’ شروع تے آخر وِچ — پنجابی وِچ وی ‘لیا\/لے جاوے’ نال ہم آواز رکھیا"
+    }
+  ],
+  "translation": "تے کون بندہ جیہڑا تریمت نوں منگنی وِچ چُکیا تے ⟨ابے⟩ اوہنوں نئیں لیا؟ اوہ جا کے اپنے گھر مُڑے، کِداں جو جنگ وِچ مرے تے ہور بندہ اوہنوں لے جاوے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3c6e5c116bb733251dbb74edf3234fe83f4973455a377d92ec70b7275a6317d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/20\/5-8.1792100220837.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "تے کون"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "ארש",
+      "gloss": "منگنی کیتی"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "تریمت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "لیا"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "جاے"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "تے مُڑے"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "اپنے گھر"
+    },
+    {
+      "surface": "פן",
+      "gloss": "کِداں جو"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "مرے"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "جنگ وِچ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "تے بندہ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ہور"
+    },
+    {
+      "surface": "יקחנה",
+      "gloss": "لے جاوے"
+    }
+  ],
+  "timestamp": "2026-10-15T21:37:00.838068880Z",
+  "model": "glm-5.3"
+}

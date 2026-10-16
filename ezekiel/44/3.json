@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 44:3",
+  "book": "ezekiel",
+  "lang": "pnb",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "سردار",
+      "rationale": "נשיא is 'exalted one, chieftain' — not 'prince' in a royal-dynasty sense."
+    },
+    {
+      "kind": "addition",
+      "subject": "ہی",
+      "rationale": "Punjabi adds emphasis particle for 'by its way he goes out'; Hebrew word order carries the emphasis."
+    }
+  ],
+  "translation": "⟨את⟩ اوہ سردار، اوہی سردار، اوتھے یاہوہ دے ساہمنے بیٹھ کے روٹی کھاوے گا؛ اوہ دروازے دے برامڈے دے راہ آوے گا تے اپنے راہ ہی باہر نکلے گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "511ad6149298f0bd907607dc5f53c7ce7c5afad3f60f7ea0e428da23a129fe80",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/44\/1-4.1792110320243.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہ سردار"
+    },
+    {
+      "surface": "הנשיא",
+      "gloss": "اوہ سردار"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "اوہی سردار"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ ای"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "بیٹھے گا"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوتھے"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "کھاوے گا"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "روٹی"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "دے ساہمنے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "دے راہ توں"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "برامڈے"
+    },
+    {
+      "surface": "השער",
+      "gloss": "دروازے دے"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "آوے گا"
+    },
+    {
+      "surface": "ומדרכו",
+      "gloss": "تے اپنے راہ ہی"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "باہر نکلے گا"
+    }
+  ],
+  "timestamp": "2026-10-16T00:25:20.244943564Z",
+  "model": "glm-5.3"
+}

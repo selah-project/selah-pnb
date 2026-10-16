@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 10:10",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نوں",
+      "rationale": "پنجابی دے مفعول نشان لئی، عبرانی وِچ ⟨את⟩ ہی اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "دیوتاواں",
+      "rationale": "אלהיהם ایتھے قوماں دے معبوداں لئی اے، ایلوہیم ناں نئیں — لفظ عام ورتیا گیا"
+    }
+  ],
+  "translation": "تے اوہناں ⟨את⟩ اوہدے ہتھیار اوہناں دیاں دیوتاواں دے گھر وِچ رکھے، تے ⟨את⟩ اوہدی کھوپری نوں داگون دے گھر وِچ ٹکیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4af851862c85f72b30c0a31452168cad91a854e5f39a406b705e992f97bdf75f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/10\/9-12.1792120577224.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "رکھیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہدے ہتھیار"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "اوہدے ہتھیار"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "اوہناں دیاں دیوتاواں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اوہدی کھوپری"
+    },
+    {
+      "surface": "גלגלתו",
+      "gloss": "اوہدی کھوپری"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "ٹکیا"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "داگون"
+    }
+  ],
+  "timestamp": "2026-10-16T03:16:17.225197417Z",
+  "model": "glm-5.3"
+}

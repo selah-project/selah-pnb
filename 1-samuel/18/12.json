@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 18:12",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "مُڑ چکیا",
+      "rationale": "סר دا مول مطلب 'مُڑنا\/ہٹ جانا' — یاہوہ شاؤل دے کولوں ہٹ گیا؛ 'چلا گیا' وِی جائز اے۔"
+    }
+  ],
+  "translation": "تے شاؤل داوِد توں ڈرن لگا، کیوں جے یاہوہ اوہدے نال سی تے شاؤل توں مُڑ چکیا سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9cbcbd1c84569f80b6e0663f5ac2250682273701ea7a4fdef6542f485ccafa35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/18\/9-12.1792102681068.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "تے ڈرن لگا"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "توں ساہمنے"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جے"
+    },
+    {
+      "surface": "היה",
+      "gloss": "سی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "اوہدے نال"
+    },
+    {
+      "surface": "ומעם",
+      "gloss": "تے …توں"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "סר",
+      "gloss": "مُڑ چکیا"
+    }
+  ],
+  "timestamp": "2026-10-15T22:18:01.070076052Z",
+  "model": "glm-5.3"
+}

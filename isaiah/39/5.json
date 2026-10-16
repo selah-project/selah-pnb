@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 39:5",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اے⟩",
+      "rationale": "عبرانی وِچ کوئی ضمیر نئیں، پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "invitation",
+      "subject": "سُن",
+      "rationale": "شمع طرز دا حکم — حِزقیاہو نُوں سدھی گلاّت"
+    }
+  ],
+  "translation": "تے یشعیاہو نے حِزقیاہو نُوں آکھیا: سُن، یاہوہ تصواوت دا بچن ⟨اے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f43e87876d296f2e8ba9598ef0784c4e916ca9e07395f605b0bb186da5cccb95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/39\/5-8.1792106590096.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "یشعیاہو نے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نُوں"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "حِزقیاہو"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سُن"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "بچن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "تصواوت دا"
+    }
+  ],
+  "timestamp": "2026-10-15T23:23:10.097271662Z",
+  "model": "glm-5.3"
+}

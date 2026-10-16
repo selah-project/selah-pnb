@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 2:16",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אכל תאכל",
+      "rationale": "اِکو فعل دو واری — یقین دی پکیائی؛ پنجابی کھاویں ہی نال دتی"
+    },
+    {
+      "kind": "you",
+      "subject": "آدم",
+      "rationale": "حکم سدھا آدم نوں اے"
+    }
+  ],
+  "translation": "تے یاہوہ ایلوہیم نے آدم نوں حکم کیتا تے آکھیا: باغ دے ہر رُکھ دا پھل تُوں کھا سکدے ایں، کھاویں ہی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "14f0223bd1b8e83407ebe79d114a0b4fa0171a216471f3943887d0585327e69a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/2\/13-16.1792094662532.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "تے حکم کیتا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ نے"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم نے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "رُکھ دا پھل"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "باغ دے"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "کھا سکدے ایں"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "کھاویں ہی"
+    }
+  ],
+  "timestamp": "2026-10-15T20:04:22.533673402Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 10:14",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "چھ سو سٹھ تے چھ ککر",
+      "rationale": "آیت سونے دا سالانہ وزن گن٘دی اے — 666 ککر۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "עברانی جملے وِچ کوئی فعل 'ہونا' نئیں، پنجابی نوں ⟨سی⟩ چاہیدا۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ککر",
+      "rationale": "ככر وزن دی اکائی (talent)، حرف-نقل رکھیا، ' ٹن' نئیں آکھیا۔"
+    }
+  ],
+  "translation": "تے سونے دا وزن جو اِک سال وِچ شلوموہ کول آیا ⟨اوہ⟩ چھ سو سٹھ تے چھ ککر سونا ⟨سی⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a9c2e69b2d3c01bb1e2d0741799a5121b8ec9e8582484c59d991ef04894bfd5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/10\/13-16.1792104291211.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے ⟨اوہ⟩ ہویا"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "وزن"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "سونے دا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "شلوموہ کول"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "اِک سال وِچ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "اِک"
+    },
+    {
+      "surface": "שש",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "سٹھ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "تے چھ"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "ککر"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونا"
+    }
+  ],
+  "timestamp": "2026-10-15T22:44:51.212767315Z",
+  "model": "glm-5.3"
+}

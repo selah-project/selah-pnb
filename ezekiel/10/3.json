@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 10:3",
+  "book": "ezekiel",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نے",
+      "rationale": "פعل מלא دا اردو-پنجابی ڈھانچے وِچ فاعلی 'نے' منگدا اے جیہڑا عبرانی وِچ کوئی نئیں۔"
+    }
+  ],
+  "translation": "تے کِروب گھر دے سجّے پاسے کھلوے ہوئے سن، جد بندا داخل ہویا، تے بادل نے ⟨את⟩ اندرونی صحن نوں بھر دتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f719189840129fc2207b8faeff97ad5f1014dd9e9f404b0a6fdf2bc2044970f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/10\/1-4.1792109233080.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והכרבים",
+      "gloss": "تے کِروب"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "کھلوے ہوئے سن"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "سجّے پاسے"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "گھر ⟨دے⟩"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "جد اوہ داخل ہویا"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "بندا"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "تے بادل نے"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "بھر دتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اندرونی صحن"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "صحن"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "اندرونی"
+    }
+  ],
+  "timestamp": "2026-10-16T00:07:13.081306852Z",
+  "model": "glm-5.3"
+}

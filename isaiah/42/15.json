@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 42:15",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨بݨا دیواں گا⟩",
+      "rationale": "לאיים اِک اسم اے (جزیرہ\/خُشکی) — كریا وڈی توں پھیلی اے، پنجابی لئی دہرائی"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אוביש",
+      "rationale": "جڑ یבש 'سُکنا' اے پر بل強ہ یbیش 'شرمندہ ہونا' وی — ایتھے پانی سُکن دا تصیر اے"
+    }
+  ],
+  "translation": "میں پہاڑاں نوں اجاڑ دیواں گا تے ٹبیاں نوں، تے اوہناں دی ساری گھاہ سُکا دیواں گا؛ تے میں دریاواں نوں خُشکی ⟨بݨا دیواں گا⟩ تے دلدلاں نوں سُکا دیواں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ce744ac742634978006c718f1e4652dc374f105280324f4ffb59f3d4c75d46e7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/42\/13-16.1792106738930.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחריב",
+      "gloss": "اجاڑ دیواں گا"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "پہاڑاں نوں"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "تے ٹبیاں نوں"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے اوہناں دی ساری"
+    },
+    {
+      "surface": "עשבם",
+      "gloss": "گھاہ"
+    },
+    {
+      "surface": "אוביש",
+      "gloss": "سُکا دیواں گا"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "تے میں…بݨا دیواں گا"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "دریاواں نوں"
+    },
+    {
+      "surface": "לאיים",
+      "gloss": "خُشکی ⟨بݨا دیواں گا⟩"
+    },
+    {
+      "surface": "ואגמים",
+      "gloss": "تے دلدلاں نوں"
+    },
+    {
+      "surface": "אוביש",
+      "gloss": "سُکا دیواں گا"
+    }
+  ],
+  "timestamp": "2026-10-15T23:25:38.931112008Z",
+  "model": "glm-5.3"
+}

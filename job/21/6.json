@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 21:6",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ایہناں گلاں نوں",
+      "rationale": "عبرانی صرف زکر دا فعل اے، مفعول لکھیا نئیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ہولی",
+      "rationale": "פלצות کولوں وی سخت لفظ اے — اِڈر، کہر؛ ‘ہولی’ سب توں نزدیک"
+    }
+  ],
+  "translation": "تے جے میں ⟨ایہناں گلاں نوں⟩ یاد کرداں تے میں گھبرا جاندا آں، تے ہولی میرے ماس نوں پھڑ لیندی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ef790e8718d28fb3292fd97390fe9bc3013636d181d4c3ae1d89b4bab442cd47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/21\/5-8.1792115900020.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "یاد کرداں"
+    },
+    {
+      "surface": "ונבהלתי",
+      "gloss": "گھبرا جاندا آں"
+    },
+    {
+      "surface": "ואחז",
+      "gloss": "پھڑ لیندی اے"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "میرے ماس نوں"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "ہولی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:58:20.021348749Z",
+  "model": "glm-5.3"
+}

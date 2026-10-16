@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 6:14",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "اسرائیل",
+      "rationale": "دوجی Person جمع — پورے قوم نوں منع کیتا گیا۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "معبداں",
+      "rationale": "אלהים ایتھے قوماں دے دیوتے لئی — عام لفظ، ناں نئیں۔"
+    }
+  ],
+  "translation": "ہور معبوداں دے پچھوں نہ ٹرو — تواڈے دوآلے دیاں قوماں دے معبوداں وِوں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7594844095c98708fa98b750ee367d9e02bf6867226e3984820ff4410f59c518",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/6\/13-16.1792099670916.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "ٹرو"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "دے پچھوں"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "معبداں"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ہور"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "معبوداں وِوں"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "قوماں دے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "סביבותיכם",
+      "gloss": "تواڈے دوآلے"
+    }
+  ],
+  "timestamp": "2026-10-15T21:27:50.917608502Z",
+  "model": "glm-5.3"
+}

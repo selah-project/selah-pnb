@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "پسندیدہ لفظ",
+      "rationale": "דברי חפץ — 'پسند دے لفظ'، 'من موہنے لفظ'، 'چنّے لفظ': مترجماں دا وکھرا راہ۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩",
+      "rationale": "پنجابی جملے لئی ضمیر چائیڈی، عبرانی وِچ نئیں۔"
+    }
+  ],
+  "translation": "قوہیلت نے پسندیدہ لفظ لبھن دی کوشش کیتی، تے جو لکھیا گیا ⟨اوہ⟩ سِدھا اے — سچائی دے لفظ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e3dcfb073f1e57222c2bfcf483985748a0824bee53af4ab7d88fd1a2c19c5000",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ecclesiastes\/12\/9-12.1792117743286.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "کوشش کیتی لبھن دی"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "قوہیلت نے"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "لبھن"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "پسندیدہ"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "تے لکھیا گیا"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "سِدھا"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "سچائی"
+    }
+  ],
+  "timestamp": "2026-10-16T02:29:03.287132770Z",
+  "model": "glm-5.3"
+}

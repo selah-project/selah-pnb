@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 23:25",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "خوش ہون",
+      "rationale": "عبرانی کامل دا مطلب اے — پیو ماں خوش ہون، حکم نئیں؛ دوویں پڑھائیاں موجود نیں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמח\/גיל",
+      "rationale": "دو وکھرے خوشی دے فعل اک جوڑے وِچ، پنجابی وِچ فرق گَھٹ دسدا اے"
+    }
+  ],
+  "translation": "تیرا پیو تے تیری ماں خوش ہون، تے اوہ جیہڑی تینوں جَنیا اے اوہ ون٘جھے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "929f07695fdc1a7ff9bd5989217ce13ede2cbd66efb7f9290379a5ee38dd539a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/23\/25-28.1792115013866.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "خوش ہووے"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "تیرا پیو"
+    },
+    {
+      "surface": "ואמך",
+      "gloss": "تے تیری ماں"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "تے ون٘جھے"
+    },
+    {
+      "surface": "יולדתך",
+      "gloss": "اوہ جیہڑی تینوں جَنیا اے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:43:33.866493422Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 38:9",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "گجّیا",
+      "rationale": "שאג בبر دا گرجنا اے — دل دے درد لئی 'چیخ\/ہمبسا' دھاریا گیا اے"
+    },
+    {
+      "kind": "idiom",
+      "subject": "עד מאד",
+      "rationale": "لفظی 'تک بے پناہ' — پنجابی وِچ 'بُری طرح' بندی اے"
+    }
+  ],
+  "translation": "میں ڈھیل ہو گئیا واں تے بُری طرح کچلے گئیا واں؛ میں اپنے دل دے ہمبسے توں گجّیا واں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0c9ba66623936e037b65b452ee7069c760922e6092b3a233072f9b81bc112027",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/38\/9-12.1792112418075.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפוגותי",
+      "gloss": "میں ڈھیل ہو گئیا واں"
+    },
+    {
+      "surface": "ונדכיתי",
+      "gloss": "تے بُری طرح کچلے گئیا واں"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بُری طرح"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "میں گجّیا واں"
+    },
+    {
+      "surface": "מנהמת",
+      "gloss": "ہمبسے توں"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "میرے دل دے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:00:18.075761745Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 2:9",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "چُپ ہو جان گے",
+      "rationale": "ידמو دا مطلب 'چُپ ہونا\/فنا ہونا' دوویں اے — ایناں نے 'چُپ' چُنیا، 'مَر جانا' وی جائز اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "خیسِد",
+      "rationale": "חסידو צاتیح صیغہ اے — 'اوہدیاں مخلص پرجاں'؛ اِکو لفظ وِچ دوجا واحد ہونا مشکل"
+    },
+    {
+      "kind": "alternative",
+      "subject": "زور نال",
+      "rationale": "بعض 'اپنے زور نال' پڑھدے نیں — 'بندہ اپنے زور نال غالب نئیں ہوندا'"
+    }
+  ],
+  "translation": "اوہ اپنے خیسِد ⟨دیواں⟩ دے پیراں نوں رکھے گا، تے بدلوک ہنیرے وِچ چُپ ہو جان گے، کیونکہ زور نال کوئی بندہ غالب نئیں ہوندا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c7772cce911e9becb4225e1edb4745d07b5bb38d314a26c6d8c2ff0ec9f551a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/2\/9-12.1792102118107.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רגלי",
+      "gloss": "پیراں نوں"
+    },
+    {
+      "surface": "חסידו",
+      "gloss": "اپنے خیسِد ⟨دیواں⟩"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "رکھے گا"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "تے بدلوک"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "ہنیرے وِچ"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "چُپ ہو جان گے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "زور نال"
+    },
+    {
+      "surface": "יגבר",
+      "gloss": "غالب ہوندا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "کوئی بندہ"
+    }
+  ],
+  "timestamp": "2026-10-15T22:08:38.108029893Z",
+  "model": "glm-5.3"
+}

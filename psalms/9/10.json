@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "משגב…משגב",
+      "rationale": "משגב پہاڑی چٹان\/اُچی تھاں — 'اُچی پناہ گاہ' تصویر رکھی، 'مستحکم قلعا' نئیں۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "بَצָרָה",
+      "rationale": "لفظی مطلب 'تنگی' اے، 'تنگی' رکھیا — 'مصیبت' پھیلیا ہویا اے۔"
+    }
+  ],
+  "translation": "تے یاہوہ دَکھے ہویاں لئی اُچی پناہ گاہ بنے گا، تنگی دے ویلیاں وِچ اُچی پناہ گاہ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9a0855fdb81753b149b2408f8975a12bebd5998c0a8072e84db230f89537978c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/9\/9-12.1792111932316.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے اوہ ہووےگا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "اُچی پناہ گاہ"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "دَکھے ہویاں لئی"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "اُچی پناہ گاہ"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "ویلیاں وِچ"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "تنگی"
+    }
+  ],
+  "timestamp": "2026-10-16T00:52:12.317126973Z",
+  "model": "glm-5.3"
+}

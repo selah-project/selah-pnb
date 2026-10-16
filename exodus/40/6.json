@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 40:6",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אהל מועד",
+      "rationale": "'مِلن دا خیمہ' — ریت 'میعاد دا خیمہ' یا 'جماعت دا خیمہ'؛ موעד مُلاقات دا مقرر ویلہ اے۔"
+    },
+    {
+      "kind": "you",
+      "subject": "موسیٰ نوں",
+      "rationale": "حکم سِدھا موسیٰ نوں۔"
+    }
+  ],
+  "translation": "تے تُوں ⟨את⟩ سوختہ قربانی دا مِزبح مِلن دے خیمے دے مسکن دے دَروازے توں اگے رکھیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6972e9038cb8b99c6e11b2fc1818f1877ae0f15374896d6007bc4b7b2ae62065",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/40\/5-8.1792097325306.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "تے تُوں رکھیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سوختہ قربانی دا مِزبح"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "مِزبح"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "سوختہ قربانی دا"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "توں اگے"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "دَروازے"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "مسکن"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمے"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "مِلن دے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:48:45.307340185Z",
+  "model": "glm-5.3"
+}

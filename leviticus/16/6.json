@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 16:6",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "کفارہ",
+      "rationale": "וכפر دا مول مطلب 'پوشنا\/ڈھکنا' اے — پنجابی 'کفارہ' اوہدے نیڑے ترین رشتہ دار اے پر مورت گوا چکی اے"
+    }
+  ],
+  "translation": "تے اہرون ⟨את⟩ اپنے گناہ دی قربانی دے بَل دی پیش کرے گا، تے اپنے واسطے تے اپنے گھر دے واسطے کفارہ کرے گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "944eda1228738cb0d634cd8c362a87d7b9f0c1241d839c15bf5b819456315147",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/16\/5-8.1792097822032.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "تے … پیش کرے گا"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گناہ دی قربانی دا بَل"
+    },
+    {
+      "surface": "פר",
+      "gloss": "بَل"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "گناہ دی قربانی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدے اپنے لئی اے"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "تے کفارہ کرے گا"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "اپنے واسطے"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "تے … واسطے"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "اپنے گھر دے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:57:02.033462852Z",
+  "model": "glm-5.3"
+}

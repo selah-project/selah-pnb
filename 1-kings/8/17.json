@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 8:17",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "עם לבב",
+      "rationale": "عبرانی سدھا ”دل دے نال” آکھدا اے — پنجابی ”دل وِچ” بندی اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨سی⟩",
+      "rationale": "عبرانی وِچ واسطہ فعل نئیں، پنجابی جملہ منگدا اے۔"
+    }
+  ],
+  "translation": "تے داوِد میرے پیو دے دل وِچ ⟨سی⟩ گھر بناؤن ⟨کرنا⟩ یاہوہ، یِسرائیل دے ایلوہیم، دے ناں لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c4ec29d73ee5995087e2fa4c1d7b21e9f4e6f79fbee626743c59d6164a87456c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/8\/17-20.1792104245501.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے ہویا"
+    },
+    {
+      "surface": "עם",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "میرے پیو"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "بناؤن"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "ناں لئی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-10-15T22:44:05.502439149Z",
+  "model": "glm-5.3"
+}

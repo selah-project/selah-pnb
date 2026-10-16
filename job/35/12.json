@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 35:12",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "יענה",
+      "rationale": "ענה دا مطلب 'دھیان دیندا\/سندا' اے — 'جواب دیندا' تنگ ترجمہ اے، اصل تصویر کن توں منہ موڑنے دی اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "دے کارن",
+      "rationale": "מפני 'دے چہرے توں' اے — پنجابی نے 'دے کارن' رکھیا، اکھر-تصویر ہلکی جئی بدلی۔"
+    }
+  ],
+  "translation": "اوتھے اوہ چیکھدے نیں پر اوہ جواب نئیں دیندا، برے لوکاں دے گھمنڈ دے کارن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "efe0cb4157b082ad044a9266f11ac4aadacd983ffe1215dd72d39a23ea7dc314",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/35\/9-12.1792116337036.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "اوتھے"
+    },
+    {
+      "surface": "יצעקו",
+      "gloss": "اوہ چیکھدے نیں"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "پر نئیں"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "جواب دیندا"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "دے کارن"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "گھمنڈ"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "برے لوکاں دے"
+    }
+  ],
+  "timestamp": "2026-10-16T02:05:37.038047001Z",
+  "model": "glm-5.3"
+}

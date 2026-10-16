@@ -1,0 +1,176 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 7:19",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נהרתם \/ יאריהם",
+      "rationale": "KJV 'streams\/rivers' تے ASV 'rivers\/streams' الٹ وار نیں — عبرانی وِچ נהר وڈا دریا تے יאר نہر\/وہند اے۔"
+    },
+    {
+      "kind": "elision",
+      "subject": "ובעצים ובאבנים",
+      "rationale": "KJV 'vessels of wood and stone' دا 'vessels' عبرانی وِچ نئیں — literal 'لکڑ وِچ تے پتھراں وِچ' رکھیا۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דם ×2",
+      "rationale": "آیت وِچ 'لہو' دو واری دہرایا جاندا اے — حکم تے نتیجے دوویں وِچ، پوری سرزمین دی ہر چیز تک۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "waters catalogued",
+      "rationale": "پانیاں دی پوری لسٹ — دریا، نہراں، دلدلاں، تالاب — مِتصرایم دے سارے پانی ہتھ وِچ آن دی گنتی اے۔"
+    }
+  ],
+  "translation": "تے یاہوہ نے موشے نال آکھیا: اہرون نوں آکھ، اپنا عصا چُک تے اپنا ہتھ مِتصرایم دے پانیاں اُتے، اوہناں دے دریاواں اُتے، اوہناں دے نہراں اُتے، اوہناں دے دلدلاں اُتے تے اوہناں دے پانیاں دے سارے جمع ٹھہرائے ہوئے تالاباں اُتے پھیلا، تے اوہ لہو بن جان، تے ساری مِتصرایم دی زمین وِچ لہو ہووےگا، لکڑ وِچ تے پتھراں وِچ وی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "daf180bc78bba41581e5725c4cfc07b05a2cd26ef0a949ff6240a5ea26456c0e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/7\/17-20.1792096300059.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ نے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "קח",
+      "gloss": "چُک"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "اپنا عصا"
+    },
+    {
+      "surface": "ונטה",
+      "gloss": "تے پھیلا"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "اپنا ہتھ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "پانیاں"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم دے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "נהרתם",
+      "gloss": "اوہناں دے دریاواں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "יאריהם",
+      "gloss": "اوہناں دے نہراں"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "אגמיהם",
+      "gloss": "اوہناں دے دلدلاں"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "מקוה",
+      "gloss": "جمع ٹھہرائے ہوئے"
+    },
+    {
+      "surface": "מימיהם",
+      "gloss": "اوہناں دے پانیاں دے"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "تے اوہ بن جان"
+    },
+    {
+      "surface": "דם",
+      "gloss": "لہو"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "تے ہووےگا"
+    },
+    {
+      "surface": "דם",
+      "gloss": "لہو"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین وِچ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم دی"
+    },
+    {
+      "surface": "ובעצים",
+      "gloss": "لکڑ وِچ"
+    },
+    {
+      "surface": "ובאבנים",
+      "gloss": "تے پتھراں وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T20:31:40.061296993Z",
+  "model": "glm-5.3"
+}

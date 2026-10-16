@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 13:17",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوہنے",
+      "rationale": "کھولھی دا کردار عبرانی وچ صرف فعل نال پچھانیا جاندا اے، پنجابی نوں صیغہ منگدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "فتح",
+      "rationale": "תשועה مُک‌تبی 'بچاء\/مدد' اے؛ 'فتح' سیاق دا گھیر دسدا اے"
+    },
+    {
+      "kind": "you",
+      "subject": "بادشاہ نوں",
+      "rationale": "اِلیشاع دا حکم تے اعلان یِسرائیل دے بادشاہ یہوآش ولّ سِدھا اے"
+    }
+  ],
+  "translation": "تے آکھیا: چڑھدے ولّوں دی کھڑکی کھولھ؛ تے ⟨اوہنے⟩ کھولھی۔ تے اِلیشاع نے آکھیا: تیر مار؛ تے اوہنے تیر ماریا۔ تے اوہنے آکھیا: یاہوہ دا فتح دا تیر، تے ارام اُتے فتح دا تیر؛ تے توں ⟨את⟩ ارام نوں اَپھیک وِچ مارسیں، مُکاؤن تک۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7b971ddd2d815b805b4e861976855288ac1bb7d4307c42daf7688b8b65960f6c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/13\/17-20.1792105376648.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "کھولھ"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "کھڑکی"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "چڑھدے ولّوں"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "تے کھولھی"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "اِلیشاع"
+    },
+    {
+      "surface": "ירה",
+      "gloss": "تیر مار"
+    },
+    {
+      "surface": "ויור",
+      "gloss": "تے تیر ماریا"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "تیر"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "فتح"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ دا"
+    },
+    {
+      "surface": "וחץ",
+      "gloss": "تے تیر"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "فتح"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "ارام اُتے"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "تے توں مارسیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ارام"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ارام"
+    },
+    {
+      "surface": "באפק",
+      "gloss": "اَپھیک وِچ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "مُکاؤن"
+    }
+  ],
+  "timestamp": "2026-10-15T23:02:56.649577873Z",
+  "model": "glm-5.3"
+}

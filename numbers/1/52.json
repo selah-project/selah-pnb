@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 1:52",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "نال",
+      "rationale": "עַل اُتے\/ہیٹھ دا معنی رکھدا اے، پر ڈیرے\/جھنڈے دے نال ٹکن دے سیاق وِچ پنجابی 'نال' قدرتی اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "گے",
+      "rationale": "עתید ׭ید مستقبل دا نشان، عبرانی وِچ وکھ لفظ نئیں"
+    }
+  ],
+  "translation": "تے یِسرائیل دے پُتر ڈیرے لاون گے، ہر بندہ اپنے ڈیرے نال تے ہر بندہ اپنے جھنڈے نال، اپنیاں فوجاں وِچ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5df44aecb31fd395a72c11daf93ca6af27c89ff0d29e83ea02ab915560dc82ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/1\/52-52.1792123369213.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחנו",
+      "gloss": "تے ڈیرے لاون گے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ہر بندہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "نال"
+    },
+    {
+      "surface": "מחנהו",
+      "gloss": "اپنے ڈیرے"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "تے ہر بندہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "نال"
+    },
+    {
+      "surface": "דגלו",
+      "gloss": "اپنے جھنڈے"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "اپنیاں فوجاں وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T04:02:49.215078562Z",
+  "model": "glm-5.3"
+}

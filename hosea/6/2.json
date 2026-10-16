@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 6:2",
+  "book": "hosea",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "מימים … השלישי",
+      "rationale": "دوہرا (dual) ימים = دو دن، تِجا دن — گنتی متن دی اے، متعین"
+    },
+    {
+      "kind": "crux",
+      "subject": "מימים",
+      "rationale": "کجھ مترجم 'دو دناں بعد' لیندے نیں، کجھ 'دو دناں وِچ' — dual دی مٹھاس اوہی رہندی اے"
+    }
+  ],
+  "translation": "اوہ سانوں دو دناں توں بعد جِوائے گا، تِجے دن وِچ اوہ سانوں چُکیسی تے اسیں اوہدے ساہمنے جِوئیے گے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ccd4e587470c4a05d8e068da3c391b409f88903cb9c8f66738ad549b22dd4730",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/hosea\/6\/1-4.1792110480868.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחינו",
+      "gloss": "سانوں جِوائے گا"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "دو دناں توں بعد"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "دن وِچ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "تِجے"
+    },
+    {
+      "surface": "יקמנו",
+      "gloss": "سانوں چُکیسی"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "تے اسیں جِوئیے گے"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "اوہدے ساہمنے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:28:00.869403487Z",
+  "model": "glm-5.3"
+}

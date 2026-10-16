@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 37:3",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "جاندا اے",
+      "rationale": "عبرانی وچ فعل نئیں — چانن دھرتی دے پرّاں اُتے کھلوندا اے؛ پنجابی جملے لئی فعل پایا گیا۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "پرّ",
+      "rationale": "כנפות مول پرّ\/کنڈا — دھرتی دے کنڈے، بادل دی طرحاں پرّاں نال ڈھکی۔"
+    }
+  ],
+  "translation": "سارے اسماناں تھلے اوہ اوہنوں ٹھیک چلاندا اے، تے اوہدا چانن دھرتی دے پرّاں اُتے ⟨جاندا اے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2fba9b30a419c2db1e04062441e1255097cc4af898950900bab143834125e3de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/37\/1-4.1792116442702.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "تھلے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "اسماناں"
+    },
+    {
+      "surface": "ישرהו",
+      "gloss": "اوہنوں ٹھیک چلاندا اے"
+    },
+    {
+      "surface": "ואורו",
+      "gloss": "تے اوہدا چانن"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "כנפות",
+      "gloss": "پرّاں"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "دھرتی دے"
+    }
+  ],
+  "timestamp": "2026-10-16T02:07:22.703001793Z",
+  "model": "glm-5.3"
+}

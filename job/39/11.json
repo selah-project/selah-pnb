@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 39:11",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מחنہ",
+      "rationale": "יגיע toil\/محنہ دا سموہ — محنے دا پھل، یعنی فصلاں"
+    },
+    {
+      "kind": "you",
+      "subject": "ایوب نوں",
+      "rationale": "پچھلے آیت والا سلسلہ — یاہوہ دا سِدھا سوال ایوب ول"
+    }
+  ],
+  "translation": "کیا تُو اوہدے اُتے بھروسا کریں گا کیونکہ اوہدا زور وڈا اے؟ تے آپنے محنے دا پھل اوہدے حوالے چھڈیں گا؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "cc30b123301086e93661dff0cb5320717c7c17f4635ac207e8116e9ba0765975",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/39\/10-11.1792124282129.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "התבטח",
+      "gloss": "کیا تُو بھروسا کریں گا"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوہدے اُتے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "وڈا"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "اوہدا زور"
+    },
+    {
+      "surface": "ותעזב",
+      "gloss": "تے چھڈیں گا"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اوہدے حوالے"
+    },
+    {
+      "surface": "יגיעך",
+      "gloss": "تیرا محنہ ⟨دا پھل⟩"
+    }
+  ],
+  "timestamp": "2026-10-16T04:18:02.129711503Z",
+  "model": "glm-5.3"
+}

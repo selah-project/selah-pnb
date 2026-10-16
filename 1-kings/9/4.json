@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 9:4",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "شلوموہ",
+      "rationale": "شرطی خطاب — جے توں ٹُریں — یاہوہ شلوموہ نال گل کردا اے"
+    },
+    {
+      "kind": "idiom",
+      "subject": "لפני",
+      "rationale": "میرے ساہمنے ٹُرݨ = میرے اگے جیون، سفر دی گل نئیں"
+    }
+  ],
+  "translation": "تے تُوں — جے توں میرے ساہمنے ٹُریں، جویں تیرا پیو داوِد ٹریا، پورے دل نال تے سِدھی راہ نال، کرن لئی سارا جیہڑا میں تینوں حکم کیتا اے، تے میرے حکم تے میرے فیصلے رکھیں،",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0ef2bfef0f6b83d0537cdb421d6a8e7a25a6cfa5af3db19c6cba72fe1b8e7bc0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/9\/1-4.1792104302860.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "تے تُوں"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "توں ٹُریں"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "میرے ساہمنے"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جویں"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ٹریا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "تیرا پیو"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "پورے"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "دل نال"
+    },
+    {
+      "surface": "ובישר",
+      "gloss": "تے سِدھی راہ نال"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "کرن لئی"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "צויתיך",
+      "gloss": "میں تینوں حکم کیتا"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "میرے حکم"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "تے میرے فیصلے"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "توں رکھیں"
+    }
+  ],
+  "timestamp": "2026-10-15T22:45:02.861821108Z",
+  "model": "glm-5.3"
+}

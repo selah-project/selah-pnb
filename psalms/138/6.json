@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 138:6",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 138,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "اُچے سوچ والیاں",
+      "rationale": "וגבה لفظی روپ وِچ 'اونچا\/گھمنڈ والا' اے — جسمانی اُچائی دا چِتر"
+    },
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "عبرانی وِچ کوئی קרِیا نئیں، پنجابی نے جملہ بناؤن لئی چاہی"
+    }
+  ],
+  "translation": "کیونجے یاہوہ اُچا اے، پَر اوہ نِویاں نوں ویکھدا اے، تے اُچے سوچ والیاں نوں دوروں جاندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "03f768f62ec1f0d8e16514526a6444e1d58a2434200d049e7785a2c6cbe84cfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/138\/5-8.1792114148558.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "רם",
+      "gloss": "اُچا اے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "پَر نِویاں نوں"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ویکھدا اے"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "تے اُچے سوچ والیاں نوں"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "دوروں"
+    },
+    {
+      "surface": "יידע",
+      "gloss": "جاندا اے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:29:08.559098075Z",
+  "model": "glm-5.3"
+}

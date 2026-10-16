@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 6:9",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے سُستی دے بندے",
+      "rationale": "عبرانی وِچ صفت 'עצל' پکاری دے طور تے اے، پنجابی نے vocative دی جگہ پوری لوڑی"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מתי ... מתי",
+      "rationale": "'کن چِر' دی دوہرائی — عبرانی دا ولیے والا سوال، پنجابی وِچ وی دوہرایا اے"
+    },
+    {
+      "kind": "invitation",
+      "subject": "سستی والے نوں سوال",
+      "rationale": "پاتر نوں سدھا مخاطب کر کے جگاؤن والے سوال"
+    }
+  ],
+  "translation": "کِن چِر تک، اے سُستی دے بندے، تُوں لیسیں؟ کِن چِر تُوں اپنی نیند توں جاگیں؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "532396e5db5b86b07b5ff7bba1564058f28ec2ef4836b75cf3c5851434f7d978",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/6\/9-12.1792114468197.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "کن چِر"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "اے سُستی دے بندے"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "تُوں لیسیں"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "کن چِر"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "تُوں جاگیں"
+    },
+    {
+      "surface": "משנתך",
+      "gloss": "اپنی نیند توں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:34:28.198310655Z",
+  "model": "glm-5.3"
+}

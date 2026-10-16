@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 32:42",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "دھیاں",
+      "rationale": "בנות لفظی 'دھیاں' اے — گرداناں پنڈاں لئی 'دھی-بستیاں' ورگا استعمال؛ پنجابی وِچ لفظی 'دھیاں' رکھیا گیا"
+    },
+    {
+      "kind": "crux",
+      "subject": "نوبح دا قبیلہ",
+      "rationale": "عبرانی وِچ نوبح دا قبیلہ نئیں دسیا گیا — کجھ قاری اوہنوں منشّے دے ٹبر نال جوڑدے نیں، متن خاموش اے"
+    }
+  ],
+  "translation": "تے نوبح گیا تے ⟨את⟩ کنات تے ⟨את⟩ اوہدیاں دھیاں فتح کیتاں، تے اوہنوں اپنے ناں نال نوبح آکھیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "00e76b02cda4862b5f97798ee6e706c09f1ba84ed998f99631420068abe474f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/32\/41-42.1792099252277.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונבח",
+      "gloss": "تے نوبح"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "گیا"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "تے فتح کیتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کنات"
+    },
+    {
+      "surface": "קנת",
+      "gloss": "کنات"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اوہدیاں دھیاں"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "اوہدیاں دھیاں"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "לה",
+      "gloss": "اوہنوں"
+    },
+    {
+      "surface": "נבח",
+      "gloss": "نوبح"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "اپنے ناں نال"
+    }
+  ],
+  "timestamp": "2026-10-15T21:20:52.278536538Z",
+  "model": "glm-5.3"
+}

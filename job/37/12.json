@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 37:12",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "کِترن",
+      "rationale": "תחבולות لفظی 'رسیاں دی کمانڈ\/سنگھار' (جہاز سیمان ورگا) — ایتھے شاعرانہ 'چلاون دا ہنر'۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "اوہناں نوں",
+      "rationale": "عبرانی فعل وِچ لکھیا نئیں، پنجابی جملے لئی پورا کیتا۔"
+    }
+  ],
+  "translation": "تے اوہ چکراں وِچ پھردی اے، اوہدے کِترن نال اوہناں دے کم لئی — سارا اوہ جیہڑا اوہ اوہناں نوں حکم کردا اے، دھرتی دے پردے اُتے، ساری دھرتی اُتے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "69b2eae1e74b0dffd42470f4e627f0e6c67bbe4b41b3a164ae80823d517a4346",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/37\/9-12.1792116375336.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "تے اوہ"
+    },
+    {
+      "surface": "מסבות",
+      "gloss": "چکراں وِچ"
+    },
+    {
+      "surface": "מתהפך",
+      "gloss": "پھردی اے"
+    },
+    {
+      "surface": "בתחבولתו",
+      "gloss": "اوہدے کِترن نال"
+    },
+    {
+      "surface": "לפעלם",
+      "gloss": "اوہناں دے کم لئی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "יצום",
+      "gloss": "حکم کردا اے اوہناں نوں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "פני",
+      "gloss": "پردے"
+    },
+    {
+      "surface": "תבل",
+      "gloss": "دھرتی دی"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "دھرتی اُتے"
+    }
+  ],
+  "timestamp": "2026-10-16T02:06:15.337750111Z",
+  "model": "glm-5.3"
+}

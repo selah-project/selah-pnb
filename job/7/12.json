@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 7:12",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "ایلوہیم\/رب دے الٹ، اِیوب پاسے",
+      "rationale": "اِیوب رب نوں سُوال پُچھدا اے — پہلا جمع دا بھنّا سُوال"
+    },
+    {
+      "kind": "crux",
+      "subject": "תנין",
+      "rationale": "سمندری ڈائنو\/اژدہا — کجھ ترجمے وہیل آکھدے نیں؛ تصویر بھارت دی رکھی گئی"
+    },
+    {
+      "kind": "alternative",
+      "subject": "כי = کیوں جو",
+      "rationale": "כی نوں ”کیوں جو” وی پڑھیا جا سکدا اے — طنز ودّھ گوڑھا ہو جاوے"
+    }
+  ],
+  "translation": "کی میں سمندر آں، جاں سمندری اژدہا، کہ تُو میرے اُتے پہرہ لایا اے؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "47739897109f69893f391a71de4f6bad46473a337a7876d61244a8041a03378c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/7\/9-12.1792115454675.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "کی سمندر"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جاں"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "سمندری اژدہا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "تُو لایا اے"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "میرے اُتے"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "پہرہ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:50:54.676539051Z",
+  "model": "glm-5.3"
+}

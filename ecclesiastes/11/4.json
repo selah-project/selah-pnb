@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ہوا",
+      "rationale": "רוח ہوا\/ساہ\/روح سبھ ہو سکدا اے — ایتھے موسمی ہوا دا سیاق اے، بِج بوئن والا"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמר \/ ראה",
+      "rationale": "دو وِردھک قافیے — اُڈیک تے ویکھنا — کمال تے اُڈیک دا وِپریت اکو جہی بنتر وِچ"
+    }
+  ],
+  "translation": "جِہڑا ہوا دی اُڈیک کردا اے، بِج نئیں بوئے گا؛ تے جِہڑا بَدلاں نوں ویکھدا اے، کٹی نئیں کریگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d138aca0704de1a9db0eef7ca0039ec2e27ef3e5e234cc7b7c29d720e593ddd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ecclesiastes\/11\/1-4.1792117632272.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "اُڈیک کردا اے"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ہوا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "بوئے گا"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "تے ویکھدا اے"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "بَدلاں نوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "کٹی کریگا"
+    }
+  ],
+  "timestamp": "2026-10-16T02:27:12.273578397Z",
+  "model": "glm-5.3"
+}

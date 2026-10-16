@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 99,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יודו",
+      "rationale": "'اوہ تعریف کرن گے' (آؤن والا) بمقابلہ 'تعریف کرن' (حکریہ) — مترجم ونڈے ہوئے نیں"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "عبرانی صفتاں نال کوپولا نئیں دندا"
+    }
+  ],
+  "translation": "اوہ تیرے ناں دی تعریف کرن — اوہ ⟨ایہہ⟩ وڈا تے ڈراؤنا اے، مقدس اے اوہ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "26528d91dd57b87863a3560a2ea61d7f173173cd0977bfa23dac6782166b6cee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/99\/1-4.1792113467042.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "تعریف کرن"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "تیرے ناں دی"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وڈا"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "تے ڈراؤنا"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:17:47.043381557Z",
+  "model": "glm-5.3"
+}

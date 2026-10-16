@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 58:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תפלסון",
+      "rationale": "جڑ פ-ל-س = رستہ ہموار کرنا تے تولنا — ظلم نوں ترازو نال ماپدے، تصویر پنجابی وِچ رکھی۔"
+    }
+  ],
+  "translation": "بلکہ دِل وِچ برائی کردے او، دھرتی اُتے تہاڈے ہتھاں دا ظلم تول ⟨تُل⟩ دیندے او۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "476db0d769a2558c08b8fad5a679c3e9d65646bb14f5559487010d517925623f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/58\/1-4.1792112713787.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "بلکہ"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "دِل وِچ"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "תפעלون",
+      "gloss": "کردے او"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "دھرتی اُتے"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ظلم"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "تہاڈے ہتھاں دا"
+    },
+    {
+      "surface": "תפלסון",
+      "gloss": "تول دیندے او"
+    }
+  ],
+  "timestamp": "2026-10-16T01:05:13.788456056Z",
+  "model": "glm-5.3"
+}

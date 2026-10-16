@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 30:1",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "شِٹِم",
+      "rationale": "שטים سندر دا رُکھ اے، شاہ مُکھی وِچ רیتاں دا ناں رکھیا گیا اے۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "mizbeach",
+      "rationale": "نئیں — ایہ آیت حکم اے، ناپ نئیں؛ نوٹ ہٹاؤ۔"
+    }
+  ],
+  "translation": "تے تُسیں خوشبو ساڑن دا قربانی-alt — نئیں: تے تُسیں اِک مذبح بناؤ گے خوشبو ⟨ساڑن⟩ لئی، سندر ⟨کاٹھ⟩ دے درختاں دا لکڑ توں اوہنوں بناؤ گے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c1adbe715a292f985d482873e77ea895e49169ad141f650e3592857536c02aff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/30\/1-4.1792096980126.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "تے تُسیں بناؤ گے"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "مذبح"
+    },
+    {
+      "surface": "מקטר",
+      "gloss": "ساڑن لئی"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "خوشبو"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "لکڑ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "شِٹِم دے رُکھاں دا"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "توں بنائیں"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "اوہنوں (مذبح نوں)"
+    }
+  ],
+  "timestamp": "2026-10-15T20:43:00.126728284Z",
+  "model": "glm-5.3"
+}

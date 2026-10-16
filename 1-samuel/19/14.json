@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 19:14",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "کہ لے آؤن",
+      "rationale": "לקחת دے مقصد لئی پنجابی جُملے نوں 'کہ' منگدا اے"
+    },
+    {
+      "kind": "mystery",
+      "subject": "جھوٹھ",
+      "rationale": "مِخل دا جھوٹھ — قاصداں توں حقیقت لکیائی گئی اے"
+    }
+  ],
+  "translation": "تے شاؤل نے قاصد گھلّے کہ ⟨את⟩ داوِد نوں لے آؤن، تے اوہنے آکھیا: اوہ بیمار اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8fa6772c4795ef4abb8547783040e32d54481cfc5aafd48aa9f9baca3ac74123",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/19\/13-16.1792102672994.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "تے گھلّے"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "قاصد"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "کہ لے آؤن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داوِد"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "تے اوہنے آکھیا"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "بیمار"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    }
+  ],
+  "timestamp": "2026-10-15T22:17:52.995378901Z",
+  "model": "glm-5.3"
+}

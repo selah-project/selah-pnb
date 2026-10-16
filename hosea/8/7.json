@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 8:7",
+  "book": "hosea",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רוח \/ סופתה",
+      "rationale": "ہوا بیجی، آندھی-طوفان وڈی — سبھ توں مشہور عبرانی نثر-مثال؛ پنجابی وِچ تصویر رہندی اے، آواز-جوڑ نئیں۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קמה \/ קמח",
+      "rationale": "کھلی فصل (קָמָה) تے آٹا (קֶמַח) — اکو کنوں دی چالاک آوازی کھیڈ۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "יבלעהו",
+      "rationale": "'نگل جانگے' — بُکھ نال کھا جانا، پر 'کھا جانگے' نالوں نگلن دی تِکھی تصویر رکھی۔"
+    }
+  ],
+  "translation": "کیوں جے اوہ ہوا بو دِتی اے تے آندھی-طوفان کٹّو گے؛ کھلی فصل اوہدے کوئی نئیں، کلی آٹا بِنا بنائے — جے بنائے وی، تاں پردیسی اوہنوں نگل جانگے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4a1bc1d98521bcab45a678ecebe74c1632eb79b3c6b554d344a64194bb829b0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/hosea\/8\/5-8.1792110648474.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جے"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ہوا"
+    },
+    {
+      "surface": "יזרעו",
+      "gloss": "بو دِتی اے اوہناں نے"
+    },
+    {
+      "surface": "וסופתה",
+      "gloss": "تے آندھی-طوفان"
+    },
+    {
+      "surface": "יקצרו",
+      "gloss": "کٹّو گے"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "کھلی فصل"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کوئی نئیں"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدے"
+    },
+    {
+      "surface": "צמח",
+      "gloss": "کلی-کونپل"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "بِنا"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "بناؤندا"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "آٹا"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "جے… وی"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "بنائے"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "پردیسی"
+    },
+    {
+      "surface": "یבלעהو",
+      "gloss": "اوہنوں نگل جانگے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:30:48.475129983Z",
+  "model": "glm-5.3"
+}

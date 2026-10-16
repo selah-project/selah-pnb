@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 40:1",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نے",
+      "rationale": "پنجابی فعل ماضی لئی کارکی ساکھ منگدا اے، عبرانی وِچ نئیں"
+    }
+  ],
+  "translation": "تے یاہوہ نے ⟨את⟩ ایوّو نوں جواب دتا تے آکھیا:",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0861b0336753d9d42fcd4fed95f86231a3761ee23ab492c70e05b2fe37917617",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/40\/1-4.1792116570736.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "جواب دتا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایوّو نوں"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ایوّو"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    }
+  ],
+  "timestamp": "2026-10-16T02:09:30.737052268Z",
+  "model": "glm-5.3"
+}

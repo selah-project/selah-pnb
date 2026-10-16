@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 23:25",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חלמתי חלמתי",
+      "rationale": "تکرار — 'میں خواب ویکھیا، میں خواب ویکھیا' — نبوت دے جھوٹے دعوے دی نقل، پنجابی وِچ تکرار رکھیا گیا اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ایہہ⟩",
+      "rationale": "לאמר دا پنجابی فعل چاہندا اے، عبرانی وِچ صرف 'آکھن لئی' اے۔"
+    }
+  ],
+  "translation": "میں سنیا ⟨את⟩ اوہ جو نبیاں نے آکھیا — جیہڑے میرے ناں وِچ نبوت کر کے جھوٹ آکھدے نیں، ⟨ایہہ⟩ آکھدے نیں: میں خواب ویکھیا اے، میں خواب ویکھیا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b0d38816f73541ba2fe3edca95d34aee2385b7db7e6dfef41d1856503e9ce78f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/23\/25-28.1792108012095.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "میں سنیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہ جو نبیاں نے آکھیا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "نبیاں نے"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "نبوت کردے"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "میرے ناں وِچ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "جھوٹ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھدے"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "میں خواب ویکھیا اے"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "میں خواب ویکھیا اے"
+    }
+  ],
+  "timestamp": "2026-10-15T23:46:52.095729784Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 3:2",
+  "book": "nehemiah",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על ידו",
+      "rationale": "عبرانی 'اوہدے ہتھ اُتے' — یعنی 'اوہدے نال\/اوہدے ولٹھے'، کول位于 دا محاورہ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "نالڈلھ",
+      "rationale": "'اوہدے ہتھ اُتے' دا مطلب 'اگلے حصے دے نال' اے، لفظی 'ہتھ' تصویر چھُٹ گئی"
+    }
+  ],
+  "translation": "تے اوہدے نالڈلھ مَرد یریحو دے بناؤندے، تے اوہدے نالڈلھ زَکّور پُتر اِمری نے بنایا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "58d85b9bbec9fa0effb6bf849852b28ee4c2088ad02f600908eeecbb369d97a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/nehemiah\/3\/1-4.1792119563751.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "تے … نال"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "اوہدے ہتھ (نالڈلھ)"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "بناؤندے"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "مَرد"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "یریحو"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "تے … نال"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "اوہدے ہتھ (نالڈلھ)"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "بنایا"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "زَکّور"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "اِمری"
+    }
+  ],
+  "timestamp": "2026-10-16T02:59:23.752777315Z",
+  "model": "glm-5.3"
+}

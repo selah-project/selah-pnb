@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 8:4",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Gehazi",
+      "rationale": "the king's direct imperative: 'tell me, I pray, all the great deeds'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨مہربانی⟩",
+      "rationale": "נא is a softener particle with no independent content; bracketed as a supplied courtesy word."
+    },
+    {
+      "kind": "mystery",
+      "subject": "divine timing",
+      "rationale": "the king asks for Elisha's deeds at the very hour the woman arrives — withheld coincidence the text does not explain."
+    }
+  ],
+  "translation": "تے بادشاہ خدا دے بندے الیشَع دے نوجوان گِیحزی نال گل کر رہا سی، آکھدا: میری اَگے ⟨את⟩ ساریاں وڈیائیاں دسّ، جیہڑیاں الیشَع نے کیتیاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "168f7387fedcea57ec622e000f8dc7b7097a97b4019af522a33ee47e5b8443f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/8\/1-4.1792105155916.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "تے بادشاہ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "گل کر رہا سی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "גחזי",
+      "gloss": "گِیحزی"
+    },
+    {
+      "surface": "נער",
+      "gloss": "نوجوان"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "خدا دے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھدا"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "دسّ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨مہربانی⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میری اَگے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ساریاں وڈیائیاں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساریاں"
+    },
+    {
+      "surface": "הגדלות",
+      "gloss": "وڈیائیاں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑیاں"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کیتیاں"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "الیشَع نے"
+    }
+  ],
+  "timestamp": "2026-10-15T22:59:15.917566500Z",
+  "model": "glm-5.3"
+}

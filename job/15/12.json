@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 15:12",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "ירזמון",
+      "rationale": "רזם دی ایہ شکل تنخ وِچ بہت گھٹ تھاواں تے — اکھ دا تریڑنا\/ماہنی مارنا"
+    },
+    {
+      "kind": "idiom",
+      "subject": "دل لَے جانا",
+      "rationale": "לקח לב — دل کسے نوں گھسِیٹ جاندا اے، پنجابی اِیہو محاورہ رکھیا"
+    }
+  ],
+  "translation": "کیہ تیرا دل تینوں لَے جاندا اے، تے کیہ تیریاں اکھاں ⟨ماہنی⟩ ماردیاں نیں؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fd16c8df6de2fc29ffa637e766b9dbd57924df8595451e80566920157cbd83d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/15\/9-12.1792115774790.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "יקחך",
+      "gloss": "تینوں لَے جاندا اے"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "تیرا دل"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "تے کیہ"
+    },
+    {
+      "surface": "ירזמון",
+      "gloss": "ماہنی ماردیاں نیں"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "تیریاں اکھاں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:56:14.791708888Z",
+  "model": "glm-5.3"
+}

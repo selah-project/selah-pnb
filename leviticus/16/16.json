@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 16:16",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כפר\/הכפרת",
+      "rationale": "کفارہ کرنا تے ڈھکن (کپورت) اکو جڑ — ڈھانپن دا رشتہ، پنجابی وِچ وکھرا رہ گیا"
+    },
+    {
+      "kind": "crux",
+      "subject": "אתם",
+      "rationale": "ایتھے אתם 'نال' (עמ) دا ہی اے، مفعولی نشان את نئیں — جڑ سوں دسدا اے"
+    }
+  ],
+  "translation": "تے مقدس تھاں لئی کفارہ کریگا — یِسرائیل دے پتراں دیاں نجاستاں توں تے اوہناں دیاں بغاوتاں توں، اوہناں دیاں ساریاں گناہاں ⟨توں⟩؛ تے ملاقات دے خیمے لئی وی اویں کریگا، جو ⟨את⟩ اوہناں نال اوہناں دیاں نجاستاں دے وِچ وسدا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "599dd9c9827c6af35139595dfc9803e5ec7682da8900d6118de49e069c81a5c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/16\/13-16.1792097873161.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "تے کفارہ کریگا"
+    },
+    {
+      "surface": "על",
+      "gloss": "لئی"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "مقدس تھاں"
+    },
+    {
+      "surface": "מטמאת",
+      "gloss": "نجاستاں توں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پتراں دیاں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "ומפשעיהם",
+      "gloss": "تے اوہناں دیاں بغاوتاں توں"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ساریاں"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "گناہاں"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "تے اویں"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کریگا"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "خیمے لئی"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ملاقات"
+    },
+    {
+      "surface": "השכן",
+      "gloss": "جو وسدا اے"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "اوہناں نال"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "טמאתם",
+      "gloss": "اوہناں دیاں نجاستاں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:57:53.162970907Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 99:7",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 99,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "تھمبا",
+      "rationale": "עמוד اِک کھلوندا تَنا اے — بادل دا تھمبا اوہی مورت رکھدا اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "عبرانی-participle اے، پنجابی ماضی چالو درکار۔"
+    }
+  ],
+  "translation": "بادل دے تھمبے وِچ اوہ اوہناں نال گل کردا سی؛ اوہ اوہدیاں گواہیاں رکھدے، تے فرض جیہڑا اوہنے اوہناں نوں دتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9c29dcd4b95be0f2df3d95f849a38c88835405d3fc8b3bf7d39bf94943a5617a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/99\/5-8.1792113501185.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעמוד",
+      "gloss": "تھمبے وِچ"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "بادل دے"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "اوہ بولدا سی"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "اوہناں نال"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "رکھدے"
+    },
+    {
+      "surface": "עדתיו",
+      "gloss": "اوہدیاں گواہیاں"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "تے فرض"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دتا"
+    },
+    {
+      "surface": "למו",
+      "gloss": "اوہناں نوں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:18:21.186690519Z",
+  "model": "glm-5.3"
+}

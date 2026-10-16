@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "job 31:36",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "אענדנו",
+      "rationale": "ענד 'بنھنا' سارے تنخ وِچ صرف ایتھے آیا اے"
+    },
+    {
+      "kind": "idiom",
+      "subject": "אם לא",
+      "rationale": "'اگر نئیں' = یقیناً — قسمت دا اِدوم، شرطی نئیں"
+    }
+  ],
+  "translation": "یقیناً میں اوہنوں اپنے موڈھے اُتے چُکیا، اوہنوں تاجاں وانگوں اپنے اُتے بنھیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d90c7d05fb5dcca40cc42a60937983bea6bb7ad1c33d316c1335f240472cd3f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/31\/33-36.1792116259914.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "یقیناً"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں ⟨تاں یقین⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "שכמי",
+      "gloss": "اپنے موڈھے"
+    },
+    {
+      "surface": "אשאנו",
+      "gloss": "چُکیا"
+    },
+    {
+      "surface": "אענדנו",
+      "gloss": "بنھیا"
+    },
+    {
+      "surface": "עטרות",
+      "gloss": "تاجاں وانگوں"
+    },
+    {
+      "surface": "לי",
+      "gloss": "اپنے اُتے"
+    }
+  ],
+  "timestamp": "2026-10-16T02:04:19.916092880Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 34:15",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גָוַע",
+      "rationale": "فعل دا مول مطلب 'ساہ باہر کرنا' اے — پنجابی 'دم توڑنا' ایہو تصویر رکھدا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מָשׁוּב",
+      "rationale": "'مٹی اُتے مُڑنا' پیدائش 3:19 دی گونج اے، تے שׁוּב تےבלِی حروف نال مِلدا اے"
+    }
+  ],
+  "translation": "سارا ماس اِکو ویلے دم توڑ دیوے گا، تے آدم مٹی اُتے مُڑ جائے گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3e81c30d735c885e4109c776cf315727eed44b727340578d589d817d0196cd21",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/34\/13-16.1792116390715.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יגוע",
+      "gloss": "دم توڑ دیوے گا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ماس"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "اِکو ویلے"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "تے آدم"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "مٹی"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "مُڑ جائے گا"
+    }
+  ],
+  "timestamp": "2026-10-16T02:06:30.716466037Z",
+  "model": "glm-5.3"
+}

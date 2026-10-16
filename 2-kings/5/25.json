@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 5:25",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אנה ואנה",
+      "rationale": "عبرانی 'ایتھے یا اُتھے' — پنجابی وِچ 'اِدے اُدے نئیں گیا' دی محاورے والی صورت"
+    },
+    {
+      "kind": "you",
+      "subject": "to Gechazi",
+      "rationale": "اِلیشع گےحزی نوں سِدھا مخاطب کردا اے — سوال تے جواب دوویں"
+    },
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "پنجابی فعل دا معاون 卡 'اے' عبرانی وِچ نئیں، ٹکسالی جملہ منگدا اے"
+    }
+  ],
+  "translation": "تے اوہ آ کے اپنے سائیں اگے کھلوندا اے، تے اِلیشع اُس نوں آکھدا اے: گےحزی، کِتوں آیاں؟ تے اوہ آکھدا اے: تیرا خادم اِدے اُدے نئیں گیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8edaa30a94dbf14b93d11841a4f61ec84cbf897279df5d741f932797871a9825",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/5\/25-27.1792104981340.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "تے اوہ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آ کے"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "کھلوندا اے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اگے"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "اپنے سائیں"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اُس نوں"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "اِلیشع"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "کِتوں"
+    },
+    {
+      "surface": "גחזי",
+      "gloss": "گےحزی"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "گیا"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "تیرا خادم"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "اِدے"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "اُدے"
+    }
+  ],
+  "timestamp": "2026-10-15T22:56:21.341075182Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 4:8",
+  "book": "hosea",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חטאת",
+      "rationale": "'پاپ' یا 'پاپ دی قربانی' — کاہن پاپ دی قربانی کھاندے سن (لاوی 6:26)، ایس لئی 'کھانا' قربانی ول اشارہ اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جان\/پرچھاویں اے، صرف 'روح' نئیں — 'اپنی جان چُکدے نیں' یعنی اوہناں دا جیون عصیان ول جھکدا اے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ישאו נפשו",
+      "rationale": "دوجا پڑھائی: 'اوہ اوہناں دے عصیان دا قصور چُکدے نیں' — נשא پاپ دا بوجھ چُکنا وی اے"
+    }
+  ],
+  "translation": "اوہ میرے لوکاں دا پاپ کھاندے نیں، تے اوہناں دے عصیان ول اپنی جان چُکدے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fcd5788ab055d9294abff3c4200c82b21c63ecbceaaaa619eb0df534fb0b6119",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/hosea\/4\/5-8.1792110485211.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "پاپ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "میرے لوکاں دا"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "کھاندے نیں"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے ول"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "اوہناں دے عصیان"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "چُکدے نیں"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "اپنی جان"
+    }
+  ],
+  "timestamp": "2026-10-16T00:28:05.212453950Z",
+  "model": "glm-5.3"
+}

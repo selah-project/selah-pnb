@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 6:3",
+  "book": "daniel",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سن \/ نہ",
+      "rationale": "پنجابی جُملے لئی لوڑیدا فعل تے نفی، متن وِچ نئیں"
+    },
+    {
+      "kind": "crux",
+      "subject": "חד مנהון",
+      "rationale": "KJV 'اوہناں وِچوں پہلا' vs JPS\/ASV 'اوہناں وِچوں اِک' — ارامی חد 'اِک' اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "טעמא",
+      "rationale": "لفظی 'سواد\/فیصلہ' — 'حساب دین\/جواب دہی' دا بھاو"
+    }
+  ],
+  "translation": "تے اوہناں توں اُتے تن سردار سن، جیہناں وِچوں اِک دانیایل سی، کہ اوہناں اَخشترپناں دی ایہناں نوں حساب دین، تے بادشاہ نوں کوئی نقصان نہ ہووے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ac30af728ec1bd744f920fa1ebd1ea33394aa6c11b7b042e28140fdc2aea8b6e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/daniel\/6\/1-4.1792118673098.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועלא",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "מנהון",
+      "gloss": "اوہناں توں"
+    },
+    {
+      "surface": "סרכין",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "תלתא",
+      "gloss": "تن"
+    },
+    {
+      "surface": "די",
+      "gloss": "جو"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "دانیایل"
+    },
+    {
+      "surface": "חד",
+      "gloss": "اِک"
+    },
+    {
+      "surface": "מנהון",
+      "gloss": "اوہناں وِچوں"
+    },
+    {
+      "surface": "די",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "להון",
+      "gloss": "اوہناں"
+    },
+    {
+      "surface": "אחשדרפניא",
+      "gloss": "اَخشترپناں"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "ایہناں نوں"
+    },
+    {
+      "surface": "יהבין",
+      "gloss": "دین"
+    },
+    {
+      "surface": "להון",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "טעמא",
+      "gloss": "حساب"
+    },
+    {
+      "surface": "ומלכא",
+      "gloss": "تے بادشاہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "להוא",
+      "gloss": "ہووے"
+    },
+    {
+      "surface": "נזק",
+      "gloss": "نقصان"
+    }
+  ],
+  "timestamp": "2026-10-16T02:44:33.099837249Z",
+  "model": "glm-5.3"
+}

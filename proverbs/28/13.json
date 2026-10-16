@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 28:13",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מכסה\/ומודה",
+      "rationale": "پوٹھی وِچ لُکاؤن تے منّن دا اِکو جیہا آواز-جیہڑا لُکاوے اوہ نئیں منّدا — پنجابی وِچ ایہہ جوڑ نئیں رہندا۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "پشע",
+      "rationale": "لفظ دی شکل 'بغاوت' اے — کرتوت\/گناہ نئیں؛ بغاوت رکھی اے۔"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ירחם",
+      "rationale": "'رحم پاندا اے' — کجھ مترجم 'رحم ملدا اے' لکھدے نیں؛ مگرودی صیغہ رحم کرن والے پاسوں اے۔"
+    }
+  ],
+  "translation": "اپنیاں بغاوتاں لُکاؤن والا کامیاب نئیں ہوندا، پر منّن والا تے چھڈّن والا رحم پاندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3002978ecd6e910ccfe75da8f0c6fd1b46b9c502ad660470b28e43e3f2733d77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/28\/13-16.1792115225788.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מכסה",
+      "gloss": "لُکاؤن والا"
+    },
+    {
+      "surface": "פשעיו",
+      "gloss": "اپنیاں بغاوتاں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יצליח",
+      "gloss": "کامیاب ہوندا"
+    },
+    {
+      "surface": "ומודה",
+      "gloss": "پر منّن والا"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "تے چھڈّن والا"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "رحم پاندا اے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:47:05.789041313Z",
+  "model": "glm-5.3"
+}

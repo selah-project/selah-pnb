@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 30:16",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הפר יפר",
+      "rationale": "מصدر مطلق — توڑے یقین توڑے — دوہرا فعل، پوری طرحاں توڑن دا زور۔"
+    },
+    {
+      "kind": "idiom",
+      "subject": "נשא את עונה",
+      "rationale": "'اوہدے پاپ دا بار چکنا' — عبرانی ادات 'پاپ چُکن\/چکنidia' دی سِدھی تصویر، پنجابی وِچ وی ایویں۔"
+    }
+  ],
+  "translation": "تے جے اوہ سُنن توں مگروں ⟨את⟩ اوہناں نوں توڑے — یقین توڑے — تاں اوہ ⟨את⟩ اوہدے پاپ دا بار چکیگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "722c5f42a2a4e717144969fa138bfd55839b79830edda62da925b070695ca1a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/30\/13-16.1792099321896.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "توڑے"
+    },
+    {
+      "surface": "יפר",
+      "gloss": "یقین توڑے"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "اوہناں نوں"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "مگروں"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "سُنن توں"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "بار چکیگا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہدے پاپ نوں"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "اوہدے پاپ"
+    }
+  ],
+  "timestamp": "2026-10-15T21:22:01.898128836Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 1:2",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "مونہہ",
+      "rationale": "פנی ای وliteral 'منہ\/صورت' اے، 'اُتے' دے نال ہوندے ہوئے 'دے مونہہ اُتے'"
+    },
+    {
+      "kind": "crux",
+      "subject": "רוח",
+      "rationale": "'روح' بمقابلہ 'ہوا\/ساہ' — ਪੰਜਾਬੀ 'روح' رکھیا اے، حالت اجہی اے جو متن دسدا اے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "היתה",
+      "rationale": "'سی' بمقابلہ 'ہو گئی' — موجودہ حالت نوں بنن والی حالت توں وکھرا کیتا"
+    }
+  ],
+  "translation": "تے دھرتی اُڈیک لئی ویران سی تے خالی، تے ہنیرا گہرائی دے مونہہ اُتے سی، تے ایلوہیم دی روح پانیاں دے مونہہ اُتے پھڑپھڑاندی سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "74811423b4ef720f67f63379fee8e2797e4ed37fb025781088bc80b89f4e564a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/1\/1-4.1792094689956.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "تے دھرتی"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "سی"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "ویران"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "تے خالی"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "تے ہنیرا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مونہہ"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "گہرائی"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "تے روح"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم دی"
+    },
+    {
+      "surface": "מרחפת",
+      "gloss": "پھڑپھڑاندی سی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مونہہ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "پانیاں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:04:49.957690539Z",
+  "model": "glm-5.3"
+}

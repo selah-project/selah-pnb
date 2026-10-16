@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אפך",
+      "rationale": "عبرانی وِچ 'نَک\/نتھنے' غصے دا چِتر اے؛ پنجابی وِچ 'نَک دا غصہ' سمجھ نئیں آؤندا، ایس لئی ⟨دا غصہ⟩ وضاحت"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אנף",
+      "rationale": "لفظی 'ساہ بھارے کھِچنا' — غصے دا جِسمانی چِتر، پنجابی 'غصے ہونا' وِچ گُم"
+    },
+    {
+      "kind": "invitation",
+      "subject": "سوال",
+      "rationale": "ربّ نوں پچھیا گیا سوال — مَت بھروا ادب والا مُخاطب"
+    }
+  ],
+  "translation": "کیہ توں ہمیشہ ساڈے اُتے غصے رسیں؟ کیہ اپنے نَک ⟨دا غصہ⟩ نوں پیڑھی توں پیڑھی تیک کھِچیں؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9c504668f1ec6f906c0111504ba6a86c3b79b89e0ac4e761d44556398726e56f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/85\/5-8.1792113215000.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלעולם",
+      "gloss": "کیہ ہمیشہ"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "غصے رسیں"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ساڈے اُتے"
+    },
+    {
+      "surface": "תמשך",
+      "gloss": "کھِچیں"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "تیرا نَک"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "پیڑھی توں"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "پیڑھی تیک"
+    }
+  ],
+  "timestamp": "2026-10-16T01:13:35.000849440Z",
+  "model": "glm-5.3"
+}

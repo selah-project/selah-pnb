@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 22:22",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רמים",
+      "rationale": "رֵמִים: جنگلی بیل (aurochs) بمقابلہ KJV 'unicornes' — ترجمہ ای وکھرا کر دندا اے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "مینوں اُتر دِتا",
+      "rationale": "עניתנی دی دوجی پڑھائی: 'مینوں اُتر دے' (بخشش منگدا اے) بمقابلہ ماضی 'اُتر دِتا'"
+    }
+  ],
+  "translation": "مینوں شیر دے مُونہوں بچا، تے جنگلی بیل دیاں سنگاں توں مینوں اُتر دِتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "989c506407807f19a4fb43f58f1bfc1569e7e6136cd123ef91e1a1adc5ab2b16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/22\/21-24.1792112040375.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "مینوں بچا"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "مُونہوں"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "شیر دے"
+    },
+    {
+      "surface": "ומקרני",
+      "gloss": "تے سنگاں توں"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "جنگلی بیل دیاں"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "مینوں اُتر دِتا"
+    }
+  ],
+  "timestamp": "2026-10-16T00:54:00.376421831Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 20:2",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "آں",
+      "rationale": "عبرانی وِچ کوئی کریا نئیں، پنجابی نوں 'آں' چاہیدی اے"
+    },
+    {
+      "kind": "you",
+      "subject": "یِسرائیل",
+      "rationale": "مخاطب دوجا شخص واحد — قوم یِسرائیل، عہد دا مُڈھ"
+    }
+  ],
+  "translation": "میں یاہوہ تیرا ایلوہیم آں، جیہنے تینوں مِتصرایم دی دھرتی توں، غلاماں دے گھر توں کڈھیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "69a775fb3ec2f7e067ade54b76e564d770df72874c6f1c38229a2acf4d17d8ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/20\/1-4.1792096635258.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تیرا ایلوہیم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہنے"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "تینوں کڈھیا"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "دھرتی توں"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "گھر توں"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "غلاماں دے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:37:15.258784349Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 45:14",
+  "book": "ezekiel",
+  "lang": "pnb",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "باتھ-کور-ہومر",
+      "rationale": "آیت مائع ناپاں دی میز اے: دسواں حصہ باتھ، دس باتھ = اِک ہومر"
+    },
+    {
+      "kind": "addition",
+      "subject": "نیں",
+      "rationale": "عبرانی نُوں (ה) نال مکمل جملہ بِنا مضموم فعل دے اے؛ پنجابی 'نیں' چاہیدی اے"
+    }
+  ],
+  "translation": "تے تیل دا مقرر حصہ: باتھ تیل دا — باتھ دا دسواں حصہ، اِک کور توں — دس باتھ اِک ہومر نیں، کیونکہ دس باتھ اِک ہومر نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e6a3873cc30c0d6a5ad9be35340372f75737db3e4d7c0efd5165f398a82f243a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/45\/13-16.1792110302589.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחק",
+      "gloss": "تے مقرر حصہ"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "تیل دا"
+    },
+    {
+      "surface": "הבת",
+      "gloss": "باتھ"
+    },
+    {
+      "surface": "ہשمن",
+      "gloss": "تیل دا"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "دسواں حصہ"
+    },
+    {
+      "surface": "הבת",
+      "gloss": "باتھ دا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "اِک کور"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "دس"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "باتھ"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "اِک ہومر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "دس"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "باتھ"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "اِک ہومر"
+    }
+  ],
+  "timestamp": "2026-10-16T00:25:02.590281720Z",
+  "model": "glm-5.3"
+}

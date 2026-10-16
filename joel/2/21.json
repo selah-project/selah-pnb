@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joel 2:21",
+  "book": "joel",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "عبرانی وچ پکار دا لفظ نئیں، پنجابی مخاطب منگدا اے"
+    },
+    {
+      "kind": "you",
+      "subject": "to the land",
+      "rationale": "کلام دھرتی نوں مخاطب اے، مونث امر دا صیغہ"
+    },
+    {
+      "kind": "invitation",
+      "subject": "رنجھ تے خوش ہو",
+      "rationale": "دو امر فعل، دھرتی نوں سدیا گیا"
+    }
+  ],
+  "translation": "نہ ڈر، اے دھرتی، رنجھ تے خوش ہو، کیونکہ یاہوہ نے کرن لئی وڈا کیتا ⟨اے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "82e2a67a6b76052e305ec376b5b6329f069746ecd048df173740b1e2d0160b82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joel\/2\/21-24.1792110753800.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "ڈر"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "اے دھرتی"
+    },
+    {
+      "surface": "גילי",
+      "gloss": "رنجھ"
+    },
+    {
+      "surface": "ושמחי",
+      "gloss": "تے خوش ہو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "وڈا کیتا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "کرن لئی"
+    }
+  ],
+  "timestamp": "2026-10-16T00:32:33.801429159Z",
+  "model": "glm-5.3"
+}

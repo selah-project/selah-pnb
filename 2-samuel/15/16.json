@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 15:16",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨تُر پیا⟩",
+      "rationale": "عبرانی 'اوہدے پیراں نال' آکھدی اے — پیر اُتے پئے تُرنا پنجابی وِچ پورا کرنا پیتا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "פלגשים",
+      "rationale": "פילגש نوں 'رکھیل' کیتا — تلخی قائم رکھن والا لفظ، ایہو اوہدا رول اے"
+    }
+  ],
+  "translation": "تے بادشاہ نِکلیا، تے اوہدا سارا گھر بار اوہدے پیراں نال ⟨تُر پیا⟩، تے بادشاہ نے ⟨את⟩ دس زنانیاں — رکھیلیاں — گھر دی راکھی لئی چھڈّیاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "19a1d22330635f4300dea5fe62eb52e33b4f4fa69f5028a74410113fb6ea966d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/15\/13-16.1792103507515.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "تے نِکلیا"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سارا"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "اوہدا گھر بار"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "اوہدے پیراں نال"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "تے چھڈّیا"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دس زنانیاں — رکھیلیاں"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دس"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "زنانیاں"
+    },
+    {
+      "surface": "פלגשים",
+      "gloss": "رکھیلیاں"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "راکھی لئی"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر دی"
+    }
+  ],
+  "timestamp": "2026-10-15T22:31:47.516426296Z",
+  "model": "glm-5.3"
+}

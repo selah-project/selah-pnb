@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 23:6",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ירדפוני",
+      "rationale": "רדף عام طور تے شکار\/دشمن دا پچھا کرن دا لفظ اے — چنگیائی تے خیسِد 'پچھا' کردے نیں، پنجابی وِچ ایہہ منظر کھرا رہیا۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨رحمت⟩",
+      "rationale": "خیسِد پہلی واری — نشان دے اندر وضاحت جائز اے۔"
+    },
+    {
+      "kind": "alternative",
+      "subject": "دناں دی لماائی",
+      "rationale": "לארך ימים 'لمبے چر لئی' وی ہو سکدا اے، پر 'سدا' (KJV 'for ever') متن توں ودھ اے۔"
+    }
+  ],
+  "translation": "یقیناً چنگیائی تے خیسِد ⟨رحمت⟩ ساری عمر میرا پچھا کرنگے، تے میں یاہوہ دے گھر وِچ دناں دی لماائی تک ٹکا رہواں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "437b3805d8dd14efde3cf52258f186cd44e8aaff39de9897338cf7b3111e3449",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/23\/5-6.1792112135730.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "یقیناً"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگیائی"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "تے خیسِد"
+    },
+    {
+      "surface": "ירדפוני",
+      "gloss": "میرا پچھا کرنگے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "دِناں دے"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "میرے جیون"
+    },
+    {
+      "surface": "ושבתי",
+      "gloss": "تے میں ٹکا رہواں گا"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "گھر وِچ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دے"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "لماائی تک"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دِناں دی"
+    }
+  ],
+  "timestamp": "2026-10-16T00:55:35.730933507Z",
+  "model": "glm-5.3"
+}

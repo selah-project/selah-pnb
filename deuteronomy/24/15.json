@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 24:15",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "תבוא עליו השמש",
+      "rationale": "لفظی 'اُس اُتے سورج آوے' یعنی ڈبّھے؛ پنجابی وِچ ڈبّھنا قدرتی اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "נשא את נפשו",
+      "rationale": "'اپنی جان چُکدا اے' — کجھ مترجم 'اُس اُتے دل رکھدا اے' (KJV\/ASV)، کجھ 'اِس نال جی گزاردا اے' پڑدے نیں"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "ایتھے אֵل اگلے اے، خدا دا ناں نئیں — کجھ پڑھائیاں ایہنوں על نال رلاندیاں نیں"
+    }
+  ],
+  "translation": "اُس دے دِن ہی اُس دا مُشت دیویں، تے اُس اُتے سورج نہ ⟨ڈبّھے⟩، کیونکہ اوہ غریب اے، تے اُس نوں ہی اوہ ⟨את⟩ اپنی جان چُکیا ہویا اے؛ تے اوہ یاہوہ ول تیرے خلاف پُکار نہ کرے، تے تیرے وِچ پاپ نہ بنے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6aaea6d8910b8e00cf423ccccbde75dab512cc0914e1836a2a4df4845ad17941",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/24\/13-16.1792100349144.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביומו",
+      "gloss": "اُس دے دِن"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "دیویں"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "اُس دا مُشت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "آوے"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اُس اُتے"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سورج"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "ואליו",
+      "gloss": "تے اُس نوں"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "چُکیا ہویا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنی جان"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "اپنی جان"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "پُکارے"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تیرے خلاف"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ول"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "تے بنے"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تیرے وِچ"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "پاپ"
+    }
+  ],
+  "timestamp": "2026-10-15T21:39:09.145177792Z",
+  "model": "glm-5.3"
+}

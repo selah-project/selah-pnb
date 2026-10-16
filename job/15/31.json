@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 15:31",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בשו נתעה",
+      "rationale": "مطلب مبہم: 'اوہ باطل وِچ رلدا اے' (ASV) یا 'باطل نال دھوکھیا ہویا'؛ ایتھے 'باطل وِچ رلدا ہویا' رکھیا۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שוא … שוא",
+      "rationale": "باطل اُتے بھروسہ تے باطل ای بدلہ — اِکو لفظ وِچوں طنز، آیت دی چھلنی ساخت۔"
+    }
+  ],
+  "translation": "دھوکھے وِچ رلدا ہویا باطل اُتے بھروسہ ناں کرے، کیونکہ باطل ای اُس دا بدلہ بنے گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "69403f399e61d840e3d98967f0f13daefcffbf2a7cbcfe2b65f15ffda7a26b21",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/15\/30-31.1792124286172.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ناں"
+    },
+    {
+      "surface": "יאמן",
+      "gloss": "بھروسہ کرے"
+    },
+    {
+      "surface": "בשו",
+      "gloss": "دھوکھے وِچ"
+    },
+    {
+      "surface": "נתעה",
+      "gloss": "رلدا ہویا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "باطل"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "بنے گا"
+    },
+    {
+      "surface": "תמורתו",
+      "gloss": "اُس دا بدلہ"
+    }
+  ],
+  "timestamp": "2026-10-16T04:18:06.172998849Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 7:16",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "اُسدے پِچھوں بند کر دتا",
+      "rationale": "ויסגר יהוה בעדו — 'یاہوہ نے اُسدے حق وِچ بند کیتا'، یعنی نُوح نوں جہاز وِچ بند کر کے رکھیا"
+    },
+    {
+      "kind": "crux",
+      "subject": "بعد والا ضمیر",
+      "rationale": "בעדו — نُوح نوں بند کیتا (KJV\/جے پی ایس) یا جہاز دا منہ بند کیتا؛ عبرانی صرف 'اُسدے باہر\/اُسدے حق وِچ' آکھدا اے"
+    }
+  ],
+  "translation": "تے جی آئے، نر تے مادہ، سار ماس وِچوں، جیویں ایلوہیم نے ⟨את⟩ اُسنوں حکم کیتا سی؛ تے یاہوہ نے اُسدے پِچھوں بند کر دتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7779818b5ecbfb020768820301cd4e596c3596d641f848a8e98d699cd97dd60e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/7\/13-16.1792094806874.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והבאים",
+      "gloss": "تے جی آئے"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نر"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "تے مادہ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "سار"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ماس وِچوں"
+    },
+    {
+      "surface": "באו",
+      "gloss": "آئے"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم کیتا"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "اُسنوں"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "ויסגר",
+      "gloss": "تے بند کیتا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "اُسدے پِچھوں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:06:46.876033959Z",
+  "model": "glm-5.3"
+}

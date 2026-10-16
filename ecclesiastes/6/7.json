@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 6:7",
+  "book": "ecclesiastes",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/ڳلا\/بھکھ دا لفظ اے، روح نئیں — 'جان' نزدیک ترین رہیا"
+    },
+    {
+      "kind": "addition",
+      "subject": "وی",
+      "rationale": "וגם دے زور لئی پنجابی وِچ 'وی' ودھایا"
+    }
+  ],
+  "translation": "انسان دا سارا محنت اودے مونہھ لئی اے، پر جان وی نئیں بھردی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e25dd4707c12d39be825e519c7342db0a22f56572462426e3cdb4b54ed67138c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ecclesiastes\/6\/5-8.1792117587088.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "محنت"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "انسان دا"
+    },
+    {
+      "surface": "لפיהו",
+      "gloss": "اودے مونہھ لئی"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "بھردی"
+    }
+  ],
+  "timestamp": "2026-10-16T02:26:27.089813326Z",
+  "model": "glm-5.3"
+}

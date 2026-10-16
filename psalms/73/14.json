@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 73:14",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ہر",
+      "rationale": "לבקרים ਬਹੁ-ਵਚਨ 'ਸਵੇਰਾਂ ਵੱਲ' — 'ਹਰ ਸਵੇਰੇ' ਪੰਜਾਬੀ ਦੀ ਰੀਤ ਬਣਾਉਂਦਾ ਹੈ"
+    },
+    {
+      "kind": "crux",
+      "subject": "תוכחתי",
+      "rationale": "'ਮੀਂ ਗ਼ਲਤੀ' ਜਾਂ 'ਝਿੜਕ' — KJV 'chastened', JPS 'chastisement'; ਇੱਥੇ 'ਝਿੜਕ\/ਸੁਧਾਈ' ਦਾ ਭਾਵ"
+    }
+  ],
+  "translation": "تے میں سارا دن پیڑت رہا، تے میری تھاپ ہر سویرے ⟨ہندی⟩ رہی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "43ec00c0195ae3f2ab7e08027a3c2ccb4931ea329e79132d461e46f9401a9d72",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/73\/13-16.1792112977352.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "تے میں رہا"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "پیڑت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "تے میری تھاپ"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "ہر سویرے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:09:37.352913484Z",
+  "model": "glm-5.3"
+}

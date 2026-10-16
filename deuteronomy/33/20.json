@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 33:20",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ברוך מרחיב גד",
+      "rationale": "'مبارک اوہ جیہڑا گاد نوں چوڑا کردا' — یا 'مبارک گاد، جیہنوں چوڑا کیتا گیا' (YLT وانگ)۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שכן",
+      "gloss-note": "",
+      "rationale": "'وسدا اے' — شیر دے ٹکن\/دبکن والا مطلب، مستقل وسن نئیں۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זרוע אף קדקד",
+      "rationale": "'بازو بلکہ سر دا تاج' — شکاری دا پورا شکار، اُتلے توں تھلے تک۔"
+    }
+  ],
+  "translation": "تے گاد بارے آکھیا: مبارک اوہ جیہڑا گاد نوں چوڑا کردا؛ اوہ شیرنی وانگ وسدا اے، تے بازو پھاڑدا اے، بلکہ سر دا تاج ⟨وی⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "45a4f86ff8126d6224031df365beb6b1ec601ca080e1ac3c536cbf075c024bf4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/33\/17-20.1792100537568.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולגד",
+      "gloss": "تے گاد بارے"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "مبارک"
+    },
+    {
+      "surface": "מרחיב",
+      "gloss": "چوڑا کرن والا"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "כלביא",
+      "gloss": "شیرنی وانگ"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "وسدا اے"
+    },
+    {
+      "surface": "וטרף",
+      "gloss": "تے پھاڑدا اے"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "بازو"
+    },
+    {
+      "surface": "אף",
+      "gloss": "بلکہ"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "سر دا تاج"
+    }
+  ],
+  "timestamp": "2026-10-15T21:42:17.569808878Z",
+  "model": "glm-5.3"
+}

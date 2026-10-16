@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 4:3",
+  "book": "zechariah",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "دو زیتون",
+      "rationale": "گنتی دی بُنت: دو رُکھ، اِک سجّے، اِک کھبّے — وکھالے دی پیمائش۔"
+    },
+    {
+      "kind": "alternative",
+      "subject": "عَلیها",
+      "rationale": "'اُس اُتے' — منورا اُتے یا اوہدے نال؛ KIV 'by it'، یلت 'by it' — 'اُتے' عبرانی دے نیڑے رہیا۔"
+    }
+  ],
+  "translation": "تے دو زیتون ⟨رُکھ⟩ اُس اُتے نیں، اِک گولے دے سجّے پاسے تے اِک اوہدے کھبّے پاسے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d69b3e0761022ff02835921d56b062d96785459481b82d2fb9eab3d597f2d5f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/zechariah\/4\/2-3.1792124126443.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "تے دو"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "زیتون ⟨رُکھ⟩"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "اُس اُتے"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "اِک"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "دے سجّے پاسے"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "گولے"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "تے اِک"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "שמאלה",
+      "gloss": "اوہدے کھبّے پاسے"
+    }
+  ],
+  "timestamp": "2026-10-16T04:15:26.444026777Z",
+  "model": "glm-5.3"
+}

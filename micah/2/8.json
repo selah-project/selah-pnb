@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 2:8",
+  "book": "micah",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שובי מלחמה",
+      "rationale": "'لڑائی توں مُڑن والے' (KJV: جنگ توں پرے رہن والے) بمقابلہ 'لڑائی واپس کردے' (JPS) — کون کس توں مُڑدا اے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ואתמול",
+      "rationale": "'ہنے\/کل' — یاد رکھو، پنجابی 'کل' دوویں پاسے ہو سکدا اے؛ سیاق ماضی دا اے"
+    }
+  ],
+  "translation": "تے ہنے میرا قوم دشمن وانگوں اُٹھ کھلوندا اے: رستے توں، بھروسے نال لنگھن والیاں توں تسیں سوہنا چوغا لہا دیندے او، لڑائی توں مُڑن والیاں توں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "647b80723728cdd5af2dbf66ff73331d07ceffe88b1393f0179c442382098790",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/micah\/2\/5-8.1792111059490.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתמול",
+      "gloss": "تے ہنے"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "میرا قوم"
+    },
+    {
+      "surface": "לאויב",
+      "gloss": "دشمن"
+    },
+    {
+      "surface": "יקומם",
+      "gloss": "اُٹھ کھلوندا اے"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "رستے توں"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "چوغا"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "سوہنا"
+    },
+    {
+      "surface": "תפשטון",
+      "gloss": "لہا دیندے او"
+    },
+    {
+      "surface": "מעברים",
+      "gloss": "لنگھن والیاں توں"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "بھروسے نال"
+    },
+    {
+      "surface": "שובי",
+      "gloss": "مُڑن والیاں توں"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "لڑائی"
+    }
+  ],
+  "timestamp": "2026-10-16T00:37:39.491369875Z",
+  "model": "glm-5.3"
+}

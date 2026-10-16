@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 2:10",
+  "book": "ezekiel",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "اگلے پاسیوں تے پچھلے پاسیوں",
+      "rationale": "פנים ואחור دا مطلب 'اگے تے پچھے' اے پر KJV\/JPS 'اندر تے باہر' آکھدے نیں — لپیٹ دے دوہرے پاسے"
+    },
+    {
+      "kind": "addition",
+      "subject": "سی \/ اوہنے",
+      "rationale": "عبرانی وِچ copula تے کرم دا ذات ضمیر نئیں، پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קינים והגה והי",
+      "rationale": "تِن ماتم دے لفظاں دی ترتیب — dirge، آہ تے ہائے — اوہناں دی آواز ای معنی دیندی اے"
+    }
+  ],
+  "translation": "تے ⟨اوہنے⟩ ⟨את⟩ اوہنوں میرے اگے پھیلا دِتا، تے اوہ اگلے پاسیوں تے پچھلے پاسیوں لکھی ہوئی ⟨سی⟩، تے اوہدے اُتے لکھیا ⟨سی⟩: ماتمی گیت تے آہیں تے ہائے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "cc10daeca51f883c05a4f8cc4af48ece0f0d91eadc10effd19d7ef1dcc52dc39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/2\/9-10.1792108963169.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפרש",
+      "gloss": "تے پھیلا دِتا"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "اوہنوں (کتاب دی لپیٹ نوں)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "میرے اگے"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "تے اوہ"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "لکھی ہوئی"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "اگلے پاسیوں"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "تے پچھلے پاسیوں"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "تے لکھیا"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "اوہدے اُتے"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "ماتمی گیت"
+    },
+    {
+      "surface": "והגה",
+      "gloss": "تے آہیں"
+    },
+    {
+      "surface": "והי",
+      "gloss": "تے ہائے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:02:43.170456622Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "הגיון",
+      "rationale": "הגיון دا ایہہ ساز والا حال تنخ وِچ کھاڑا دسن سبھ توں مشہور اے — بھنبھناہٹ ورگی دھُن۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עשור",
+      "rationale": "مول 'دس' اے — دس تاراں والے ساز لئی 'دس-تارے' رکھیا، گنتی دا روپ قایم۔"
+    }
+  ],
+  "translation": "دس-تارے ⟨ساز⟩ اُتے، تے نابل ⟨ساز⟩ اُتے، ہِگّایون ⟨دھُن⟩ دے نال کِنور اُتے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "75aa2654dc0b02aebda872bbc4bf764367c9e56852a0f3d23ae13035f9c8688f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/92\/1-4.1792113385849.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "دس-تارے"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "تے … اُتے"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "نابل"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "ہِگّایون"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "کِنور ⟨اتے⟩"
+    }
+  ],
+  "timestamp": "2026-10-16T01:16:25.850634503Z",
+  "model": "glm-5.3"
+}

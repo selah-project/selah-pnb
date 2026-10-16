@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 17:11",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "תשגשגי",
+      "rationale": "تنخ وِچ صرف ایتھے — 'ودھاؤنا\/پھیلاؤنا' دی بنیادی تصویر۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "נחלה",
+      "rationale": "פ ח-ל-ל لکیر: 'بیماری' (KJV 'grief')، پر جڑ دا مول 'زخم\/کچی لکیر' اے — 'بھاری بیماری' رکھیا۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ہووےگی⟩",
+      "rationale": "عبرانی جملے وِچ کریا گم اے، 'ڈھیر' تے 'فصل' دسیا اے؛ پنجابی لئی کریا چاہیدی۔"
+    }
+  ],
+  "translation": "تیرے پودے نوں لاؤن دے دن تُوں اوہنوں ودھائیں گی، تے سویرے تیرا بیج کھِڑاؤں گی — فصل دا ڈھیر بھاری بیماری دے دن تے نہ ٹلن والے درد وِچ ⟨ہووےگی⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "53bd39ee18239dcbb230b601ed0b7c7b6f74d41f8ade89c8b49155072f1d59bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/17\/9-12.1792106121035.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "נטעך",
+      "gloss": "تیرے پودے نوں"
+    },
+    {
+      "surface": "תשגשגי",
+      "gloss": "تُوں ودھائیں گی"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "تے سویرے"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "تیرا بیج"
+    },
+    {
+      "surface": "תפריחי",
+      "gloss": "کھِڑاؤں گی"
+    },
+    {
+      "surface": "נד",
+      "gloss": "ڈھیر"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "فصل دا"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "بھاری بیماری دے"
+    },
+    {
+      "surface": "וכאב",
+      "gloss": "تے درد"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "نہ ٹلن والا"
+    }
+  ],
+  "timestamp": "2026-10-15T23:15:21.036508164Z",
+  "model": "glm-5.3"
+}

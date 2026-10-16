@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 87:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 87,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جلال والیاں گلاں",
+      "rationale": "נכבדותivi جڑ כבד 'بھار' توں — بھار-بھریاں\/مریادار گلاں، بھار دی تصویر پنجابی وِچ گواچدی اے"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "سنگیت دا وقفہ — حرف-نقل سِلاہ، ترجمہ نئیں"
+    },
+    {
+      "kind": "you",
+      "subject": "صیون\/شہر نوں",
+      "rationale": "اے ایلوہیم دے شہر — سِدھا خطاب شہر نال اے"
+    }
+  ],
+  "translation": "جلال والیاں گلاں تیرے بارے آکھیاں جان دیاں نیں، اے ایلوہیم دے شہر۔ سِلاہ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8c6aa5064dd80e36c9debcb9f6ad6cf7edec2ad45144a997687deff431543d13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/87\/1-4.1792113236663.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נכבדות",
+      "gloss": "جلال والیاں گلاں"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "آکھیاں جان دیاں نیں"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تیرے بارے"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم دے"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سِلاہ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:13:56.664124032Z",
+  "model": "glm-5.3"
+}

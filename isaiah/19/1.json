@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 19:1",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אלילי",
+      "rationale": "عبرانی لفظ 'کُجھ کم دا نئیں' دا مطلب اِڈل اے — خالی\/ہٹھ دھرم دا نشان"
+    },
+    {
+      "kind": "crux",
+      "subject": "עב קל",
+      "rationale": "'پھُلی چِٹا بَدل' جاں 'ف.quick بادلا' — קל ہلکا\/تیز دوویں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מצרים ×4",
+      "rationale": "ناں چار واری دُہرایا گیا اے — آواز دی تکرار پنجابی وِچ رکھی اے"
+    }
+  ],
+  "translation": "مِتصرایم دا بَوجھ۔ ویکھو، یاہوہ اِک پھُلی چِٹے بَدل اُتے سوار اے، تے مِتصرایم وِچ آؤ گا، تے مِتصرایم دے اِڈل اوہدے ساہمنے ہِل جان گے، تے مِتصرایم دا دِل اوہدے وِچکار پِگھل جاوے گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5010e7714df50176ee4659e1bf0f70245b8102ea7f0110541ad7f01c6d89ca1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/19\/1-4.1792106173054.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "بَوجھ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم دا"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ویکھو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "سوار اے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "עב",
+      "gloss": "بَدل"
+    },
+    {
+      "surface": "קל",
+      "gloss": "پھُلی چِٹا"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "تے آؤ گا"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم وِچ"
+    },
+    {
+      "surface": "ונעו",
+      "gloss": "تے ہِل جان گے"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "اِڈل"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم دے"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "اوہدے ساہمنے"
+    },
+    {
+      "surface": "ולבב",
+      "gloss": "تے دِل"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم دا"
+    },
+    {
+      "surface": "ימס",
+      "gloss": "پِگھل جاوے گا"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "اوہدے وِچکار"
+    }
+  ],
+  "timestamp": "2026-10-15T23:16:13.055504581Z",
+  "model": "glm-5.3"
+}

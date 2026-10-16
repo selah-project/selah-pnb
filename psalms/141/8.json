@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 141,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תער",
+      "rationale": "شبد 'برہنہ\/ورت چھڈّݨ' — 'میری جان برہنہ ناں کر' (KJV 'destitute', JPS 'pour not out')۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "نیں",
+      "rationale": "ہِبرو وِچ کوپلا نئیں — 'میریاں اکھاں تیرے ول نیں' لئی پنجابی فعل پایا۔"
+    },
+    {
+      "kind": "you",
+      "subject": "یاہوہ ادونای",
+      "rationale": "سِدھی پکار ربّ ول — دعا دا مُکھ۔"
+    }
+  ],
+  "translation": "کیوں جے تیرے ول، اے یاہوہ، اے ادونای، میریاں اکھاں نیں؛ تیرے وِچ میں پناہ لئی اے؛ میری جان برہنہ ناں کر۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c1f94febd5895718902d127ecf6273399eae23403f6133940877d5aaf5369df5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/141\/5-8.1792114187032.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جے"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تیرے ول"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "میریاں اکھاں"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "تیرے وِچ"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "میں پناہ لئی اے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ناں"
+    },
+    {
+      "surface": "תער",
+      "gloss": "برہنہ ناں کر"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میری جان"
+    }
+  ],
+  "timestamp": "2026-10-16T01:29:47.033198223Z",
+  "model": "glm-5.3"
+}

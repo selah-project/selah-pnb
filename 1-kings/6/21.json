@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 6:21",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "خالص",
+      "rationale": "זהב סגור دا مطلب اے 'بند کیتا سونا' یعنی صاف کیتا ہویا؛ 'خالص' روایت دا مفہوم اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "زنجیراں لنگھا ئیاں",
+      "rationale": "ויעבר ברתיקות — 'زنجیراں لنگھایاں' بمقابلہ KJV 'جال بنا' یا جے پی ایس 'دیوار دے پار زنجیراں کھچیاں'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "ברתיקות",
+      "rationale": "زنجیر دا ایہہ لفظ تنخ وچ صرف ایتھے آیا اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "verse",
+      "rationale": "مندر دی سجاوٹ دا حساب — سونے نال مڑائی دا بیان"
+    }
+  ],
+  "translation": "تے شلوموہ نے ⟨את⟩ گھر نوں اندروں خالص سونے نال مڑایا، تے دبیر دے ساہمنے سونے دیاں زنجیراں لنگھا ئیاں، تے اوہنوں سونے نال مڑایا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d01613b6bed134d9b887c1db815d804771c1f7842882b93b9435517ea1e68911",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/6\/21-24.1792104077905.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "مڑایا"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلوموہ نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گھر"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "מפנימה",
+      "gloss": "اندروں"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونا"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "خالص"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "تے لنگھا ئیاں"
+    },
+    {
+      "surface": "ברתיקות",
+      "gloss": "زنجیراں"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونے دیاں"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ساہمنے"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "دبیر دے"
+    },
+    {
+      "surface": "ויצפהו",
+      "gloss": "تے اوہنوں مڑایا"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونے نال"
+    }
+  ],
+  "timestamp": "2026-10-15T22:41:17.905936914Z",
+  "model": "glm-5.3"
+}

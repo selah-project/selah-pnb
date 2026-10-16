@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 110,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "עַל־כֵּן",
+      "rationale": "عبرانی موٹا جوڑ 'اِس اُتے ایں' — پنجابی وِچ 'اِس لئی'۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩",
+      "rationale": "عبرانی ضمیر نئیں دندا؛ سر اُٹھان والا گاون والا ای اے جیہنوں پنجابی جملہ منگدا اے۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רֹאשׁ",
+      "rationale": "آیت 6 دے کُچیل ہوئے سر دے مگروں آیت 7 دا اُچا ہویا سر — تضاد اوہی لفظ نال۔"
+    }
+  ],
+  "translation": "رستے وِچ نالے دی ⟨توں⟩ پانی پیوے گا؛ اِس لئی ⟨اوہ⟩ سر اُٹھاویگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fad4c1116825250fbd1ec69d0503c0fa9124c7691d3c343a351555d85d80e40c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/110\/5-7.1792113732338.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מִנַּחַל",
+      "gloss": "نالے توں"
+    },
+    {
+      "surface": "בַּדֶּרֶךְ",
+      "gloss": "رستے وِچ"
+    },
+    {
+      "surface": "יִשְׁתֶּה",
+      "gloss": "پیوے گا"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "⟨اِس⟩"
+    },
+    {
+      "surface": "כֵּן",
+      "gloss": "لئی"
+    },
+    {
+      "surface": "יָרִים",
+      "gloss": "اُٹھاویگا"
+    },
+    {
+      "surface": "רֹאשׁ",
+      "gloss": "سر"
+    }
+  ],
+  "timestamp": "2026-10-16T01:22:12.339686627Z",
+  "model": "glm-5.3"
+}

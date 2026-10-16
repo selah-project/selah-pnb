@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 15:3",
+  "book": "2-chronicles",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨رہے⟩",
+      "rationale": "عبرانی وِچ فعل نئیں، صرف اسمی جملہ — پنجابی نوں فعل چاہیدا"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ללא … וללא … וללא",
+      "rationale": "تِن واری 'بِنا' دی تکرار — عبرانی دا تِن تُکّ والا ڈھانچا"
+    }
+  ],
+  "translation": "تے یِسرائیل لئی بہت دن ⟨رہے⟩ بِنا سچے ایلوہیم دے، تے بِنا سکھاؤن والے کاہن دے، تے بِنا تورات کے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c2b4d3426fb015ce11698ee7e9a5f15ce22d412854af8955918ba294fc2c9486",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/15\/1-4.1792122175690.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימים",
+      "gloss": "تے دن"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "بہت"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "یِسرائیل لئی"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "بِنا"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "سچے"
+    },
+    {
+      "surface": "וללא",
+      "gloss": "تے بِنا"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "سکھاؤن والے"
+    },
+    {
+      "surface": "וללא",
+      "gloss": "تے بِنا"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "تورات"
+    }
+  ],
+  "timestamp": "2026-10-16T03:42:55.691023793Z",
+  "model": "glm-5.3"
+}

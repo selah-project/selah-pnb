@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יש דבר",
+      "rationale": "پُچھیندا جملہ اے — 'کی کوئی ایہجی گل اے؟' — یا حقیقی 'اے کوئی گل جیہدے بارے آکھیا جاوے'؛ سارے پرانے ترجمے پُچھیندا پاسہ چُنندے نیں۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לעלמים",
+      "rationale": "لفظی 'سمیاں لئی' — پنجابی وِچ 'کنے سمیاں توں' قدرتی اے، جمع دی صورت رکھی گئی۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "کوئی",
+      "rationale": "پُچھیندا مزاج پنجابی وِچ 'کوئی' دے وادھے نال بندا اے، عبرانی وِچ صرف יש ہی اے۔"
+    }
+  ],
+  "translation": "کوئی گل اے جیہدے بارے آکھیا جاوے: “ویکھو، ایہہ نواں اے”؟ اوہ پہلاں ہی کنے سمیاں توں ہویا اے، جیہڑا ساڈے توں پہلاں ہویا سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "27f173a84f9a1ec94f8ebd53284a036761940cecce59e8b5ebee17c31b58bc0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ecclesiastes\/1\/9-12.1792117391907.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "اے ⟨کوئی⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گل"
+    },
+    {
+      "surface": "שיאמר",
+      "gloss": "آکھیا جاوے"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ویکھو"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "نواں"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اے"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "پہلاں ہی"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ہویا"
+    },
+    {
+      "surface": "לעלמים",
+      "gloss": "کنے سمیاں توں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ہویا"
+    },
+    {
+      "surface": "מלפננו",
+      "gloss": "ساڈے توں پہلاں"
+    }
+  ],
+  "timestamp": "2026-10-16T02:23:11.908549732Z",
+  "model": "glm-5.3"
+}

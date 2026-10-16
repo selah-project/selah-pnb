@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 22:4",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "את פני",
+      "rationale": "ר字面 'کِسے دا مُکھ' — حاضری\/اگے لیاؤݨ دی عبرانی ریت"
+    },
+    {
+      "kind": "crux",
+      "subject": "מצודה",
+      "rationale": "'جال\/قلعہ\/مضبوط تھاں' — عبرانی لفظ دوناں مطلب رکھدا اے"
+    }
+  ],
+  "translation": "تے اوہناں نوں اوہ مُوآب دے بادشاہ دے اگے لِایا، تے اوہ اوہدے نال رہے اوہناں ساریاں دِناں جِے داوِد قلعے وِچ سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9e6949e1d187902aa7707ff1db513f0301ecab4843dfe83992db6838e23bb091",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/22\/1-4.1792102851862.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "تے لِایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مُوآب دے بادشاہ دا مُکھ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مُکھ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مُوآب"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "تے رہے"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "اوہدے نال"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساریاں"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "دِناں"
+    },
+    {
+      "surface": "היות",
+      "gloss": "ہووݨ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "قلعے وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T22:20:51.863618685Z",
+  "model": "glm-5.3"
+}

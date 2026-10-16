@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "נאלחו",
+      "rationale": "ਅਲਚ ਤੋਂ ਆیا ਪਰਾਚੀਨ ਕਿਰਿਆ — 'خراب\/گیہونا ہو جانا'، تنخ وِچ ایہو تھاں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סר…יחדו",
+      "rationale": "'اپس ہو گئے…رَل کے' — اِکو دُہرائی والی چال، سب دا رَل کے بُرے ہونا"
+    }
+  ],
+  "translation": "سارے اپس ہو گئے، رَل کے گھینونے ہو گئے، کوئی چنگا کرن والا نئیں، اِک وی نئیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1675ac133eb6fe1c155b1bdc04dab86a95dd5b1cab077365e105fdbecfb2045d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/14\/1-4.1792111950681.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "סר",
+      "gloss": "اپس ہو گئے"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "رَل کے"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "گھینونے ہو گئے"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کرن والا"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگا"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "اِک"
+    }
+  ],
+  "timestamp": "2026-10-16T00:52:30.682446040Z",
+  "model": "glm-5.3"
+}

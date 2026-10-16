@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 26:18",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "گُنا",
+      "rationale": "عبرانی ‘سَت’ اِکلا اے؛ ‘سَت گُنا’ لئی ‘گُنا’ ⟨⟩ وِچ پایا گیا"
+    },
+    {
+      "kind": "measurement",
+      "subject": "שבע",
+      "rationale": "سَت گُنا — گِنتی والا لفظ، سزا دی پیمائش"
+    }
+  ],
+  "translation": "تے جے اِنّیاں تیک نئیں می دی گو مَندے، تاں مَیں تُہانوں تُہادیاں گُلتیاں اُتے سَت گُنا زيادہ سِکھا چُکّاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3a3e711e6513bf6e920b421d8374162b00af64263649142f7ff09d7e80d229fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/26\/17-20.1792098171759.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تِیک"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اِنّیاں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "می دی گو مَندے"
+    },
+    {
+      "surface": "לי",
+      "gloss": "می دی"
+    },
+    {
+      "surface": "ויספתי",
+      "gloss": "تاں مَیں… زيادہ چُکّاں"
+    },
+    {
+      "surface": "ליסרה",
+      "gloss": "سِکھا"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "تُہانوں"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "سَت ⟨گُنا⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "تُہادیاں گُلتیاں"
+    }
+  ],
+  "timestamp": "2026-10-15T21:02:51.760613090Z",
+  "model": "glm-5.3"
+}

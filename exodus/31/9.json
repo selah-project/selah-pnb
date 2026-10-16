@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 31:9",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "حوض",
+      "rationale": "הכיור شکل دے لفظ نیں — گول، پٹیا ہویا برتن؛ پنجابی وِچ ’حوض‘ اوہدی شکل رکھدا اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "فہرست",
+      "rationale": "مقدس برتناں دی گنتی چلدی اے — قربان گاہ، برتن، حوض، ٹعل"
+    }
+  ],
+  "translation": "تے ⟨את⟩ سوختگی قربانی دے قربان گاہ نوں تے ⟨את⟩ اوہدے سارے برتناں نوں، تے ⟨את⟩ حوض نوں تے ⟨את⟩ اوہدے ٹعل نوں،",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "954780386d6db2e9d459ab92924b3a38a6765780df5f0200aa7314a42a55e1d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/31\/9-12.1792096968486.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "سوختگی قربانی دے قربان گاہ نوں"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "قربان گاہ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "سوختگی قربانی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اوہدے سارے برتناں نوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "اوہدے برتن"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "حوض نوں"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "حوض"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اوہدے ٹعل نوں"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "اوہدا ٹعل"
+    }
+  ],
+  "timestamp": "2026-10-15T20:42:48.486763831Z",
+  "model": "glm-5.3"
+}

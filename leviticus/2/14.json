@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 2:14",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אביב קלוי",
+      "rationale": "'کچیاں کناں نوں اگّ وِچ بھنا ہویا' — ترجمے کناں نوں الگ کر کے پکا ہری کچی کنّ آکھدے نیں؛ لفظی ترتیب 'اَبیو — اگّ وِچ بھنیا' اے۔"
+    },
+    {
+      "kind": "alternative",
+      "subject": "כרמל",
+      "rationale": "دوجا پڑھائی: 'سرسبز کھیت' توں 'تازہ دانہ' — ایتھے 'کھیت دا دانہ' رکھیا۔"
+    }
+  ],
+  "translation": "تے جے تُوں یاہوہ نوں پہلی فصل دا ہدیہ چڑھاویں، کچیاں کناں نوں اگّ نال بھنا کے، کھیت دا کُٹیا ہویا دانہ — تُوں ⟨את⟩ اپنی پہلی فصل دا ہدیہ چڑھاویں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4bf049c7e6b94fc4688952fda3af1a3dd660aceba65beea823fc9a6f6b97c029",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/2\/13-16.1792097387984.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "تے-جے"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "چڑھاویں"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "ہدیئے"
+    },
+    {
+      "surface": "בכורים",
+      "gloss": "پہلی-فصل"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ-نوں"
+    },
+    {
+      "surface": "אביב",
+      "gloss": "کچیاں-کناں"
+    },
+    {
+      "surface": "קלוי",
+      "gloss": "بھنیا-ہویا"
+    },
+    {
+      "surface": "באש",
+      "gloss": "اگّ-نال"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "کُٹیا-دانہ"
+    },
+    {
+      "surface": "כרמל",
+      "gloss": "کھیت-دا"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "چڑھاویں-گا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنی پہلی فصل دا ہدیہ"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "ہدیئے"
+    },
+    {
+      "surface": "בכוריך",
+      "gloss": "پہلی-فصل"
+    }
+  ],
+  "timestamp": "2026-10-15T20:49:47.985656478Z",
+  "model": "glm-5.3"
+}

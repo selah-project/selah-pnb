@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 20:7",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויחרף",
+      "rationale": "جڑ دا مول مطلب 'لہا دینا\/ننگا کرنا' — 'گالیاں دتیاں'، 'تoksین کیتی'، 'لہاک ماریا' سب راہواں نیں۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "نے",
+      "rationale": "پنجابی فاعلی نے عبرانی فعل دی ترکیب وچ نئیں، جملہ بناؤن لئی پایا گیا۔"
+    }
+  ],
+  "translation": "تے اوہنے ⟨את⟩ یِسرائیل نوں گالیاں دتیاں، تے یہوناتن نے — پُتر شمعا دا، بھرا داوِد دا — اوہنوں ماریا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "26a010c565ec9d3066ff3bf123860f03e7364e961869ff9ca76fadf151186426",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/20\/6-7.1792124359336.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "تے اوہنے گالیاں دتیاں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یِسرائیل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل نوں"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "تے اوہنوں ماریا"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "یہوناتن نے"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "شمعا دا"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "بھرا"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد دا"
+    }
+  ],
+  "timestamp": "2026-10-16T04:19:19.336864394Z",
+  "model": "glm-5.3"
+}

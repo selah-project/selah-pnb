@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 8:19",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "חרוץ",
+      "rationale": "ایہ لفظ ہور تنخ وِچ نئیں آیا — 'کٹیا ہویا\/تراشیا ہویا' سونا، یعنی خالص کیتا ہویا۔"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ותבואתי",
+      "rationale": "'میری آمدنی\/فصل' — پہلے پاٹھک کھیتی دارے دے واسی سن، 'کھیتی' اوہناں دا پکھ اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "اے\/ودھ اے",
+      "rationale": "عبرانی توسیع نئیں کردی، 'چنگا\/ودھ' دا فعل پنجابی جملہ منگدا اے۔"
+    }
+  ],
+  "translation": "میرا پھل سونے توں، خالص سونے توں چنگا اے، تے میری کھیتی چُنی ہوئی چاندی توں ودھ اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "882fee0bfdff1b73ff7a7b46be74156dd1dcebbf151d0a5e9626c15e50eed09b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/8\/17-20.1792114536970.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چنگا"
+    },
+    {
+      "surface": "פריי",
+      "gloss": "میرا پھل"
+    },
+    {
+      "surface": "מחרוץ",
+      "gloss": "کٹے ہوئے سونے توں"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "تے چمکدے سونے توں"
+    },
+    {
+      "surface": "ותבואתי",
+      "gloss": "تے میری کھیتی"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "چاندی توں"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "چُنی ہوئی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:35:36.971712954Z",
+  "model": "glm-5.3"
+}

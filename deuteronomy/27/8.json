@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "באר היטב",
+      "rationale": "'باریکی نال کھود کے\/کھودیا ہویا' جاں 'نہایت صاف بیانیہ' — باؤر دا مول مطلب 'کھودنا\/کندھ کرنا' اے۔"
+    },
+    {
+      "kind": "elision",
+      "subject": "היטב",
+      "rationale": "'نہایت' نشان ⟨⟩ وِچ دتا گیا کیونجہ ہیٹو ادوَشی صفت اے جیہدی وکھ وادھو پنجابی لوڑ اے۔"
+    }
+  ],
+  "translation": "تے توں پتھراں اُتے ایس تورات دے ⟨את⟩ سارے بچن لکھیں، ⟨نہایت⟩ صاف بیان کر کے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a726ccf7e5c1c3038c01f39bb36aeb21a5be93f8eec6609eb2c047837b2946d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/27\/5-8.1792100323883.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וככתבת",
+      "gloss": "تے توں لکھیں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "پتھراں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سارے بچن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "دברי",
+      "gloss": "بچن"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ایس تورات"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ایس"
+    },
+    {
+      "surface": "באר",
+      "gloss": "بیان کر کے"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "⟨نہایت⟩ صاف"
+    }
+  ],
+  "timestamp": "2026-10-15T21:38:43.885051073Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 12:8",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תשמרם \/ תצרנו",
+      "rationale": "کیتِیب 'اوہناں نوں' بمقابلہ قری 'سانوں' — JPS 'سانوں بچاویں گا'، KJV 'اوہناں نوں'۔"
+    },
+    {
+      "kind": "you",
+      "subject": "یاہوہ نوں سدھا",
+      "rationale": "ربنوتی بندہ یاہوہ نوں سدھا مخاطب اے۔"
+    }
+  ],
+  "translation": "توں یاہوہ اوہناں نوں رکھیں گا، ایس نسل توں اوہناں نوں ہمیشہ لئی بچاویں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2e8bfb0f9c2067f461a0cddcb065e7801b95f1df499e42d5b5c06c36de471b82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/12\/5-8.1792111961619.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "توں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "תשמרם",
+      "gloss": "رکھیں گا"
+    },
+    {
+      "surface": "תצרנו",
+      "gloss": "بچاویں گا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ایس"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشہ لئی"
+    }
+  ],
+  "timestamp": "2026-10-16T00:52:41.620505383Z",
+  "model": "glm-5.3"
+}

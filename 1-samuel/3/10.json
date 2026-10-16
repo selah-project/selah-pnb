@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 3:10",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמואל שמואל",
+      "rationale": "ناں دو واری دُہرایا گیا — سدّے ہوئے بندے ول پکڑ، اوہدی تاثیر کائی نئیں جاوے"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כפעם בפעם",
+      "rationale": "ورتے-ورتے ورتے — ورے ورے، اِکو اِلَف دو واری"
+    }
+  ],
+  "translation": "تے یاہوہ آیا تے کھلوتیا، تے پہلیاں واریاں وانگوں سدّیا: ”شموایل، شموایل!“ تے شموایل نے آکھیا: ”آکھ، کیونکہ تیرا خادم سُن رہا اے۔“",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0c5e13e9fa98e0373fdb0caf232f518294f5856e8159d0b5f8ddb99cf25a9221",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/3\/9-12.1792102241063.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "تے آیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "تے کھلوتیا"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "تے سدّیا"
+    },
+    {
+      "surface": "כפעם",
+      "gloss": "ورے وانگوں"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "ورتے"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموایل"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموایل"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموایل نے"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "آکھ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سُن رہا"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "تیرا خادم"
+    }
+  ],
+  "timestamp": "2026-10-15T22:10:41.064036580Z",
+  "model": "glm-5.3"
+}

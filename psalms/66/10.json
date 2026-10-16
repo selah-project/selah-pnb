@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 66:10",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "צרפתנו\/כצרף",
+      "rationale": "اوہو جڑ دو واری — چمڑھیا\/چمڑھن وانگ — پنجابی وِچ اوہو دہرائی رکھی۔"
+    }
+  ],
+  "translation": "کیوں جو تُسیں سانوں پرکھیا، اے ایلوہیم؛ تُسیں سانوں چاندی چمڑھن وانگ چمڑھیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "56782ef46e878ffa6f08f37a011266e91bec69f83797b221aa3e3faf934ce059",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/66\/9-12.1792112768815.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "בחנתנו",
+      "gloss": "تُسیں سانوں پرکھیا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "צרפתנו",
+      "gloss": "تُسیں سانوں چمڑھیا"
+    },
+    {
+      "surface": "כצרף",
+      "gloss": "چمڑھن وانگ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:06:08.816769140Z",
+  "model": "glm-5.3"
+}

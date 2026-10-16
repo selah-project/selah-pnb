@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 5:21",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩",
+      "rationale": "یבוע دا کردار عبرانی وِچ لُکیا اے، پنجابی جملے لئی سبجیکٹ پایا۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שוט לשון",
+      "rationale": "چابک تے زبان دی آواز اکو جئی اے — عبرانی وچ بندی ای لُکائی اے، پنجابی وِچ رشتہ ٹُٹ گیا۔"
+    }
+  ],
+  "translation": "زبان دے چابک توں تُوں لُک جاویں گا، تے تباہی توں نہ ڈریں گا، جدوں ⟨اوہ⟩ آوے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "325f672c65ba168587457e0045b3f75e41c77dfda36e1be0051939b904abf201",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/5\/21-24.1792115513530.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשוט",
+      "gloss": "چابک توں"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زبان دے"
+    },
+    {
+      "surface": "תחבא",
+      "gloss": "لُک جاویں گا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ڈریں گا"
+    },
+    {
+      "surface": "משד",
+      "gloss": "تباہی توں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جدوں"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "آوے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:51:53.531247582Z",
+  "model": "glm-5.3"
+}

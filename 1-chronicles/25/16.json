@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 25:16",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سن",
+      "rationale": "عبرانی وِچ فعل نئیں"
+    },
+    {
+      "kind": "measurement",
+      "subject": "باراں",
+      "rationale": "گیاناں دی گنتی"
+    }
+  ],
+  "translation": "نَواں مَتنیاہو، اُہدے پُتر تے اُہدے بِراواں ⟨سن⟩ باراں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d24bc6f6b1db5cd42a7cd8198e5b468fd4cf7361418e326e83ffaf9e5eb743bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/25\/13-16.1792121159846.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "התשיעי",
+      "gloss": "نَواں"
+    },
+    {
+      "surface": "מתניהו",
+      "gloss": "مَتنیاہو"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "اُہدے پُتر"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "تے اُہدے بِراواں"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "باراں ⟨سن⟩"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "باراں"
+    }
+  ],
+  "timestamp": "2026-10-16T03:25:59.847120248Z",
+  "model": "glm-5.3"
+}

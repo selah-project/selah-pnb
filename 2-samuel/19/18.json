@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 19:18",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سن",
+      "rationale": "عبرانی وِچ کوئی کاپلا نئیں؛ پنجابی جملے لئی 'سن' پایا گیا۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "וצלחו",
+      "rationale": "KJV مطلب 'کشتی لنگھی' ( צלח توں 'تیردا') مقابلے JPS 'دوڑ کے اُترے' — ٹسّر 'پار کر گئے' رکھیا۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "نوجوان ⟨نوکر⟩",
+      "rationale": "נער سِدھا 'نوجوان' اے؛ 'نوکر' سیاق توں جوڑیا گیا، بریکٹاں وِچ۔"
+    }
+  ],
+  "translation": "تے بنیامین دے ہزار بندے اُس دے نال سن، تے صیبا، شاؤل دے گھر دا نوجوان ⟨نوکر⟩، تے اُس دے پندرہ پُتر تے اُس دے ویہہ نوکر ⟨את⟩ نال سن؛ تے اوہ بادشاہ توں اگے یاردن نوں پار کر گئے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fdc8563291645a93ad13c5e229a05ae2ba27eb55a3701f4e98f7c08dbd42c3b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/19\/18-19.1792123674611.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "اُس دے نال"
+    },
+    {
+      "surface": "מבנימן",
+      "gloss": "بنیامین دے"
+    },
+    {
+      "surface": "וציבא",
+      "gloss": "تے صیبا"
+    },
+    {
+      "surface": "נער",
+      "gloss": "نوجوان"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "וחמשת",
+      "gloss": "تے پنج"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دس"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "اُس دے پُتر"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "تے ویہہ"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "اُس دے نوکر"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ نال",
+      "marks": "اُس دے نال"
+    },
+    {
+      "surface": "וצלחו",
+      "gloss": "تے اوہ پار ہوئے"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "یاردن"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "توں اگے"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    }
+  ],
+  "timestamp": "2026-10-16T04:07:54.611692737Z",
+  "model": "glm-5.3"
+}

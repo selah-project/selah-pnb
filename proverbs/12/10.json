@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 12:10",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جان-تاکت اے، صرف 'روح' نئیں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ורחמי...אכזרי",
+      "rationale": "رحم دی جمع تے ظالم دا ٹکراؤ — بدکاراں دا 'ترس' ای ظلم اے"
+    }
+  ],
+  "translation": "نیوں دل آدمی اپنی چوپائے دی جان نوں پچھاݨدا اے، تے بدکاراں دے ترس درد ظالم ہوندے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0515d51e99208262472f592aff6a1f772cb943d75aba443c523cbfbe4bda4475",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/12\/9-12.1792114619513.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "پچھاݨدا-اے"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "نیوں-دل"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "اپنی-چوپائے-دی"
+    },
+    {
+      "surface": "ורחמי",
+      "gloss": "تے-ترس-درد"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکاراں-دے"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "ظالم"
+    }
+  ],
+  "timestamp": "2026-10-16T01:36:59.513922889Z",
+  "model": "glm-5.3"
+}

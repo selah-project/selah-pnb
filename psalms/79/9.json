@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 79:9",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 79,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמך … שמך",
+      "rationale": "آیت دے دونوں سرے ’تیرے ناں‘ نال بجھی اے — چکر جیہڑا پنجابی وِچ وی ٹکدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ڈھانڈ پا",
+      "rationale": "כפר دا مُڈھلا مطلب ’ڈھانڈنا\/کجھݨ‘ اے — ’معاف کر‘ ایس دا کردار اے، شکل نئیں"
+    },
+    {
+      "kind": "you",
+      "subject": "ایلوہیم",
+      "rationale": "سدیا ہویا دُعا — اِکّے صیغے دیاں حکمائتاں"
+    }
+  ],
+  "translation": "سانوں مدد دے، اے ساڈی نجات دے ایلوہیم، اس گل اُتے کہ تیرے ناں دا جلال ⟨اے⟩؛ تے سانوں چھٹی دے، تے ساڈے پاپاں اُتے ڈھانڈ پا، تیرے ناں لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "edf39761c57cdfb835e9bdffc14709e5c682091683f7a2016cd8716bf8408884",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/79\/9-12.1792113157571.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "سانوں مدد دے"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ایلوہیم ⟨ساڈی نجات دے⟩"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "ساڈی نجات"
+    },
+    {
+      "surface": "על",
+      "gloss": "اتے"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "اس گل"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "تیرے ناں دا"
+    },
+    {
+      "surface": "והצילנו",
+      "gloss": "تے سانوں چھٹی دے"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "تے ڈھانڈ پا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اتے"
+    },
+    {
+      "surface": "חטאתינו",
+      "gloss": "ساڈے پاپ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "لئی"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "تیرے ناں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:12:37.572095359Z",
+  "model": "glm-5.3"
+}

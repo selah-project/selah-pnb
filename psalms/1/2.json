@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 1:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "מوسر مُڑن والی جوڑی — 'سگوں'، لفظی 'کیونکہ جے' نئیں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יהגה",
+      "rationale": "הגה — بُڈبُڈاؤݨا\/واروار پڑھݨ، ہولی آواز نال ورجدے ہوئے"
+    }
+  ],
+  "translation": "سگوں اوہدا چاء یاہوہ دی تورات وِچ اے، تے اوہ اوہدی تورات اُتے دن تے رات وِچر رہندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0b7bde8d463856105adba8cd3bf11fb810073a8be120a6130bdb28fd37d54ef9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/1\/1-4.1792111852771.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "سگوں"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "تورات وِچ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دی"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "اوہدا چاء"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "تے اوہدی تورات اُتے"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "وِچردا اے"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "دن"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "تے رات"
+    }
+  ],
+  "timestamp": "2026-10-16T00:50:52.772793900Z",
+  "model": "glm-5.3"
+}

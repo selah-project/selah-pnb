@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "genesis 31:48",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اے⟩",
+      "rationale": "عبرانی وِچ copula نئیں، پنجابی جُملہ منگدا اے"
+    },
+    {
+      "kind": "you",
+      "subject": "لابن دا یعقوو نوں مخاطب",
+      "rationale": "ایہہ عہد دی گلّو班子成员 بھائیوال یعقوو نوں سدّی اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "گلعید",
+      "rationale": "ناں رکھن دی گواہی — تھاں دا ناں قایم ہوندا اے"
+    }
+  ],
+  "translation": "تے لابن نے آکھیا: ایہہ ڈھیر اَج میرے تے تیرے وِچکار گواہ ⟨اے⟩؛ اِس لئی اوہدا ناں گلعید رکھیا گیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1f0c037b833ef00dd676d440f215e097187483bd586a204f844715eddedf67d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/31\/45-48.1792095537391.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لابن"
+    },
+    {
+      "surface": "הגל",
+      "gloss": "ایہہ ڈھیر"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "گواہ"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "میرے وِچکار"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "تے تیرے وِچکار"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اَج"
+    },
+    {
+      "surface": "על",
+      "gloss": "اِس"
+    },
+    {
+      "surface": "כן",
+      "gloss": "لئی"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "رکھیا"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اوہدا ناں"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "گلعید"
+    }
+  ],
+  "timestamp": "2026-10-15T20:18:57.392788500Z",
+  "model": "glm-5.3"
+}

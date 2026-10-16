@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 21:13",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ذال",
+      "rationale": "عبرانی وِچ کجھ نسوانی صیغے نئیں، پنجابی 'ذال' منگدا اے"
+    },
+    {
+      "kind": "idiom",
+      "subject": "בבתוליה",
+      "rationale": "'اِپنی ببتولیائی وِچ' — عبرانی حالت بیت، لفظی 'ببتولی وِچ'، مطلب کنواری حالت وِچ ای"
+    }
+  ],
+  "translation": "تے اوہ ⟨اوہدی⟩ ذال ببتولیائی ⟨ہالے⟩ ای لَوے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9140dfa80f81c9a79f810af57a24a5fca1dcc9dd36c07f61470c19e049437d50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/21\/13-16.1792097930310.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "تے اوہ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ذال"
+    },
+    {
+      "surface": "בבתוליה",
+      "gloss": "اِپنی ببتولیائی وِچ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "لَوے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:58:50.311151920Z",
+  "model": "glm-5.3"
+}

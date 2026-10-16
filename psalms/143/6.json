@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 143:6",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 143,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "عَיֵפָה",
+      "rationale": "ਵੇਖਣ ਦੇ 'میرا سُکّیا' vs 'میری پیاس لگی' (Hiphil) — وکھرے پڑھائے؛ اِتھے عادیف اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "میری جان",
+      "rationale": "נפש سریر دا ساہ\/جان اے، مُڈھلا مطلب 'ساہ لیندا جیون' — 'روح' نئیں"
+    }
+  ],
+  "translation": "میں اپنیاں ہتھاں نوں تیرے ول کھلا پھیلا دِتا؛ میری جان تیرے لئی اُس تھاں وانگ اِک ویہلڑ تے ہوئی اِک اُکا سُکّی دھرتی وانگ اے۔ سلاہ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8819e593b95d1e83a7c349f50670be0586c1116177939e61aeaa365cf3685927",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/143\/5-8.1792114188417.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פרשתי",
+      "gloss": "میں کھلا پھیلا دِتا"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "اپنیاں ہتھاں نوں"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تیرے ول"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میری جان"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "دھرتی وانگ"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "ویہلڑ تے سُکّی"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیرے لئی"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سلاہ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:29:48.417900821Z",
+  "model": "glm-5.3"
+}

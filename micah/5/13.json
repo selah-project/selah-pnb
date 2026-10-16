@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "micah 5:13",
+  "book": "micah",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עריך",
+      "rationale": "KJV 'thine enemies' (root ער foe) بنام JPS\/ASV 'thy cities' — صیغہ تے سیاق (5:10 توں شہراں دی لڑی) شہراں نوں دسدے نیں۔"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשריך",
+      "rationale": "عبرانی بہو-گنتی (اشیریم مورتیاں) اے؛ شاہ مُکھی وِچ اِکو ناں رکھیا۔"
+    }
+  ],
+  "translation": "تے اَ میں تیرے اشیریم نوں تیرے وِچوں پٹاں گا، تے تیرے شہر برباد کراں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "83ab424e319d17e8643e8c46cfbd2e8eb7f4edfcb7702906a5b55b6a7cd9f410",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/micah\/5\/13-14.1792110971456.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתשתי",
+      "gloss": "پٹاں گا"
+    },
+    {
+      "surface": "אשיריך",
+      "gloss": "اشیریم"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "تیرے وِچوں"
+    },
+    {
+      "surface": "והשמדתי",
+      "gloss": "برباد کراں گا"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "تیرے شہر"
+    }
+  ],
+  "timestamp": "2026-10-16T00:36:11.456651472Z",
+  "model": "glm-5.3"
+}

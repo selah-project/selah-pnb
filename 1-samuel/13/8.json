@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 13:8",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨شموایل نے طے کیتا سی⟩",
+      "rationale": "عبرانی صرف ناں رکھدا اے 'אשר שמואל' — جو شموایل ⟨دا مقرر⟩؛ فعل ضمیمہ کیتا"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ست دن",
+      "rationale": "دناں دی گنتی — مُقرر وقت"
+    }
+  ],
+  "translation": "تے اوہنے ست دن چکے رہے اُس مُقرر وقت تک جیہڑا ⟨شموایل نے⟩ طے کیتا سی، پر شموایل گِلگال نئیں آیا؛ تے لوک اوہدے توں کھلر گیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7e3228584e1497bd82fa516d4fede5e538538af88760a14967f91e0959edf7a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/13\/5-8.1792102372589.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "تے اوہنے چکے رہے"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ست"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دن"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "مُقرر وقت تک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "⟨شموایل نے⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "پر نئیں"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموایل"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "گِلگال"
+    },
+    {
+      "surface": "ויפץ",
+      "gloss": "تے کھلر گیا"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوک"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "اوہدے توں"
+    }
+  ],
+  "timestamp": "2026-10-15T22:12:52.590674538Z",
+  "model": "glm-5.3"
+}

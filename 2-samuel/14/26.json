@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 14:26",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מקץ ימים לימים",
+      "rationale": "'دِناں دے انت توں دِناں تک' — یعنی سال دے انت توں انت تک، ہر سال"
+    },
+    {
+      "kind": "addition",
+      "subject": "وال",
+      "rationale": "כבד עליו دا فاعل وال اے، عبرانی صرف 'بھاری سی' آکھدا اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "دو سو شیکل",
+      "rationale": "بادشاہ دے وزن-پتھر (معیاری وزن) نال والاں دا وزن"
+    }
+  ],
+  "translation": "تے جدوں اوہ ⟨את⟩ اپنا سر منڈھدا سی — تے ہوندا ایہہ کہ دِناں دے انت توں دِناں تک، جدوں اوہ منڈھدا، کیونکہ ⟨وال⟩ اوہدے اُتے بھاری سی تے اوہ منڈھدا — تے اوہنے ⟨את⟩ سر دے والاں نوں تولیا: دو سو شیکل بادشاہ دے وزن دے پتھر وِچ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8c70be904243816a037ccda0a92822eda93e94f0e0a72f4067e8e1028a6ae3f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/14\/25-28.1792103490168.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובגלחו",
+      "gloss": "تے جدوں اوہ منڈھدا سی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنا سر"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "اوہدا سر"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "تے ہوندا ایہہ"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "انت توں"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دِناں دے"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "دِناں تک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جدوں"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "اوہ منڈھدا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "بھاری سی"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اوہدے اُتے"
+    },
+    {
+      "surface": "וגלחו",
+      "gloss": "تے اوہ منڈھدا"
+    },
+    {
+      "surface": "ושקל",
+      "gloss": "تے اوہنے تولیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سر دے وال"
+    },
+    {
+      "surface": "שער",
+      "gloss": "وال"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "سر دے"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "دو سو"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "شیکل"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "پتھر وِچ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ دے"
+    }
+  ],
+  "timestamp": "2026-10-15T22:31:30.168996377Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 6:12",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "העזובה",
+      "rationale": "'چھڈی ہوئی ⟨تھاں⟩' — 'وڈی' نوں کثرت دے طور تے وڈی گنتی سمجھیا (ASV 'many')۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨تھاں⟩",
+      "rationale": "ہعبیر دا اسم-صفت جوڑ پنجابی وِچ پورا کرن لئی۔"
+    }
+  ],
+  "translation": "تے یاہوہ ⟨את⟩ بندے نوں دور کریگی، تے دھرتی دے وِچکار چھڈی ہوئی ⟨تھاں⟩ وڈی ہووے گی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "62508e19535a5f4924492707308507317644706a56b2ca4a7fc395b30b38895b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/6\/9-12.1792105881163.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורחק",
+      "gloss": "تے دور کریگی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بندے نوں"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "بندے نوں"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "تے وڈی ہووے گی"
+    },
+    {
+      "surface": "העזובה",
+      "gloss": "چھڈی ہوئی"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "دے وِچکار"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "دھرتی"
+    }
+  ],
+  "timestamp": "2026-10-15T23:11:21.164404922Z",
+  "model": "glm-5.3"
+}

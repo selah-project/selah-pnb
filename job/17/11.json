@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 17:11",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מורשי",
+      "rationale": "ایہ لفظ تنخ وِچ صرف ایتھے آؤندا اے؛ 'چوڳ لئیاں' دی جاں 'دِل دے خزانے' پڑھیا جاندا اے۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "מורשי לבבי",
+      "rationale": "'دِل دیاں چوڳیاں'، 'دِل دے ارادے' جاں 'دِل دے سوہنے خواب' — ترجمے وکھرے نیں۔"
+    }
+  ],
+  "translation": "میرے دن لنگھ گئے، میریاں یوجناں ٹُٹ گئیاں، دِلیں دے ارادے لے لئے گئے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "050969a89630496a4744c107a379889634846bc987949476ecb337d38f01da9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/17\/9-12.1792115768312.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "میرے دن"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "لنگھ گئے"
+    },
+    {
+      "surface": "זמתי",
+      "gloss": "میریاں یوجناں"
+    },
+    {
+      "surface": "נתקו",
+      "gloss": "ٹُٹ گئیاں"
+    },
+    {
+      "surface": "מורשי",
+      "gloss": "لے لئے گئے"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "دِلیں دے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:56:08.313559363Z",
+  "model": "glm-5.3"
+}

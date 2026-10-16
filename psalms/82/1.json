@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 82:1",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 82,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ایلوہیم",
+      "rationale": "دوجی واری آیا جمع אלہים — 'دیوتے' (مثلاً خروج 32:8 دا رستہ) بمقابلہ 'مقصداں\/ججاں' (جے پی ایس)؛ ٹوکن فیصلہ کردا اے، لفظ نئیں، ایس لئی اِکو لفظ رکھیا"
+    },
+    {
+      "kind": "you",
+      "subject": "دیوتےآں\/ججاں نوں",
+      "rationale": "اگلی آیت توں پتہ چلدا اے کہ مخاطب اوہ ایلوہیم نیں جنہاں وِچکار فیصلہ ہو رہیا اے"
+    }
+  ],
+  "translation": "مزمور آساف لئی۔ ایلوہیم ایل دی سنگت وِچ کھلوندا اے، ایلوہیم ⟨دے⟩ وِچکار فیصلہ کردا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fd0b5a856df469a1725c7e70f3e40706c44adbb9d2a44daed8d77efdac23230a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/82\/1-4.1792113122697.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "آساف لئی"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "کھلوندا اے"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "سنگت وِچ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "وِچکار"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم ⟨دے⟩"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "فیصلہ کردا اے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:12:02.698501357Z",
+  "model": "glm-5.3"
+}

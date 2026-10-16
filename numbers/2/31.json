@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 2:31",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ڈیرے دی گنتی",
+      "rationale": "دان دے پورے لشکر دی گنتی 157,600"
+    },
+    {
+      "kind": "substitution",
+      "subject": "سبھ توں پچھے",
+      "rationale": "לאחרנہ دا مول چتر 'پچھم ول' اے (چڑھدے ول منہ کر کے)، مطلب آخری"
+    }
+  ],
+  "translation": "دان دے ڈیرے دے سارے گِنے ہوئے سو ہزار ترے تے پنجاہ ہزار تے چھ سو سن؛ اوہ اپنے جھنڈیاں نال سبھ توں پچھے ٹُرن گے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2222db554b47ed2da9af759a9de45042ed8d83123517d1c740aba8214134a2bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/2\/29-32.1792098270952.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "گِنے ہوئے"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ڈیرے دے"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "سو"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "تے ست"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "تے پنجاہ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "تے چھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "לאחרנה",
+      "gloss": "سبھ توں پچھے"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "ٹُرن گے"
+    },
+    {
+      "surface": "לדגליהם",
+      "gloss": "اپنے جھنڈیاں نال"
+    }
+  ],
+  "timestamp": "2026-10-15T21:04:30.953491535Z",
+  "model": "glm-5.3"
+}

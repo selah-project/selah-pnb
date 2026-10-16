@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 18:8",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "copula “اے”",
+      "rationale": "עֶרְוַת אָבִיךָ הִוא وِچ ہُوئو ضمیر بطور copula کم کردی اے؛ پنجابی “ایہہ … اے” نال پورا کیتا گیا۔"
+    },
+    {
+      "kind": "idiom",
+      "subject": "גַּלָּה עֶרְוָה",
+      "rationale": "“ننگ کھوہلنا” بول-چال اے، لفظی صورت رکھی گئی اے۔"
+    },
+    {
+      "kind": "you",
+      "subject": "اِک اِک سُنن والے نوں",
+      "rationale": "اِکو صیغے دی پکڑی ہوئی حکم والی گل۔"
+    }
+  ],
+  "translation": "تیرے پیو دی زنانی دا ننگ نہ کھوہلیں — ایہہ تیرے پیو دا ننگ اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a7fa3d19689258b4b6bc7d2bdc453037a605d0e8d68faa23090dc3c532fca4a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/18\/5-8.1792097803866.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "دا ننگ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "زنانی"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "تیرے پیو دی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "کھوہلیں"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "دا ننگ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "تیرے پیو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ایہہ اے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:56:43.867461394Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 17:12",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "המון\/יהמיון · שאון\/ישאון",
+      "rationale": "جڑ-گونج: ہ-מ-ہ تے ש-א-ہ دوویں جوڑے وِچ — سر-ورہیندی آواز دی نقل؛ پنجابی 'گرج' تے 'زور' نال کجھ گونج رکھی۔"
+    },
+    {
+      "kind": "idiom",
+      "subject": "הוי",
+      "rationale": "'ہائی!' — عبرانی ہ-ו-ی دا شہ-نعرہ، ماتمی آغاز۔"
+    }
+  ],
+  "translation": "ہائی! بہت ساریاں قومیں دا ہلڑ — سمندراں دی گرج وانگ گجدیاں نیں، تے قوماں دا زور — وڈھیاں پانیاں دے زور وانگ ٹردا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "53bd39ee18239dcbb230b601ed0b7c7b6f74d41f8ade89c8b49155072f1d59bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/17\/9-12.1792106121035.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ہائی!"
+    },
+    {
+      "surface": "המון",
+      "gloss": "ہلڑ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "قومیں دا"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "بہت ساریاں"
+    },
+    {
+      "surface": "כהמות",
+      "gloss": "گرج وانگ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "سمندراں دی"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "گجدیاں نیں"
+    },
+    {
+      "surface": "ושאון",
+      "gloss": "تے زور"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "قوماں دا"
+    },
+    {
+      "surface": "כשאון",
+      "gloss": "زور وانگ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پانیاں دے"
+    },
+    {
+      "surface": "כבירים",
+      "gloss": "وڈھیاں"
+    },
+    {
+      "surface": "ישאון",
+      "gloss": "ٹردا اے"
+    }
+  ],
+  "timestamp": "2026-10-15T23:15:21.036678521Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 18:11",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חבר חבר",
+      "rationale": " infin. abs. نوں دہرایا گیا اے — وشیشن دا زور؛ پنجابی وِچ دہرائی نال دتا گیا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אוב",
+      "rationale": "لفظی 'گونجدا مُہاڑ\/چمڑے دا بِلّ' — بھوت-پچھن والی دا ناں بنیا؛ 'بھوت' رکھیا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "וידעני",
+      "rationale": "لفظی 'جانن والا' — روح\/بھوت پچھن والا؛ 'جانکار' دی مثال نال واضح نئیں، crux اے"
+    }
+  ],
+  "translation": "تے منتر بنڈھن والا، منتر بنڈھن والا، تے بھوت پچھن والا، جانکار، تے مُردیاں کولوں پُچھن والا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "756c5d568d36c63ed13817f8bc4bba70be0e33ec811166d307ce0f3159a68fbb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/18\/10-11.1792123527088.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "تے منتر بنڈھن والا"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "منتر"
+    },
+    {
+      "surface": "ושאל",
+      "gloss": "تے پچھن والا"
+    },
+    {
+      "surface": "אוב",
+      "gloss": "بھوت"
+    },
+    {
+      "surface": "וידעני",
+      "gloss": "تے جانکار"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "تے پُچھن والا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کولوں"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "مُردیاں"
+    }
+  ],
+  "timestamp": "2026-10-16T04:05:27.088936779Z",
+  "model": "glm-5.3"
+}

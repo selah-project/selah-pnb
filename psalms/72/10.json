@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ישיבו",
+      "rationale": "جڑ שוב 'مُڑنا' — 'واپس بھیجنگے' (YLt) بمقابلہ 'پیش کرنگے\/دِنگے'؛ لفظی مطلب 'مُڑ کے خراج دِننا'۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "جزیرےآں دے بادشاہ",
+      "rationale": "عبرانی وچ 'איים' واحد اسم نال 'بادشاہ' سانجھا اے؛ پنجابی دو واری چھوہ لیندا اے۔"
+    }
+  ],
+  "translation": "ترشیش دے بادشاہ تے جزیرےآں دے بادشاہ خراج دِنگے، شبا تے سبا دے بادشاہ سوغات پیش کرنگے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "63f0d56d1d04716c83a1a61f91f75b1d1f3ec7aedc1192ba97e512b5c85cdda1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/72\/9-12.1792112886179.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "دے بادشاہ"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "ترشیش"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "تے جزیرےآں"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "خراج"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "دِنگے"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "دے بادشاہ"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "شبا"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "تے سبا"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "سوغات"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "پیش کرنگے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:08:06.180596226Z",
+  "model": "glm-5.3"
+}

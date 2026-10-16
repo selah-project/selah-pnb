@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اوہنے⟩",
+      "rationale": "عبرانی وِچ فعل دا کرتا کوئی نئیں، پنجابی جملہ منگدا اے۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דמי",
+      "rationale": "دمim plural: لہوآں — جمع دی شکل وِچ، اِکو لہو نئیں؛ پنجابی وِچ اِکو لفظ آیا۔"
+    }
+  ],
+  "translation": "تے ⟨اوہنے⟩ آکھیا: تُوں کی کیتا اے؟ تیرے بھرا دے لہو دی آواز میری طرف زمین توں چیکدی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "36506de47dcff9e45ababa2df96a4f965bde221c54e7f72affcb28c667ebeb99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/4\/9-12.1792094647729.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کی"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "کیتا اے"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "لہو دی"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "تیرے بھرا دے"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "چیکدی اے"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میری طرف"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-10-15T20:04:07.730057444Z",
+  "model": "glm-5.3"
+}

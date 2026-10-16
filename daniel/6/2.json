@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "daniel 6:2",
+  "book": "daniel",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "اَخشترپن",
+      "rationale": "אחשדרפני فارسی رَ loanword اے، 'کھیتر دا حاکم'؛ پنجابی وِچ حرف-نقل رکھیا"
+    },
+    {
+      "kind": "measurement",
+      "subject": "سو تے ویہہ",
+      "rationale": "اَخشترپناں دی گنتی"
+    },
+    {
+      "kind": "idiom",
+      "subject": "שפר קדם",
+      "rationale": "لفظی 'اگے چنگا ہویا' — 'پسند آیا\/منظور ہویا' دا ارامی محاورہ"
+    }
+  ],
+  "translation": "دارْیَوُش اگے چنگا لگیا، تے اوہنے بادشاہی اُتے سو تے ویہہ اَخشترپن مقرر کیتے، کہ اوہ ساری بادشاہی وِچ ہون۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ac30af728ec1bd744f920fa1ebd1ea33394aa6c11b7b042e28140fdc2aea8b6e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/daniel\/6\/1-4.1792118673098.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שפר",
+      "gloss": "چنگا لگیا"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "اگے"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "دارْیَوُش"
+    },
+    {
+      "surface": "והקים",
+      "gloss": "تے اوہنے مقرر کیتے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "بادشاہی"
+    },
+    {
+      "surface": "לאחשדרפניא",
+      "gloss": "اَخشترپن"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سو"
+    },
+    {
+      "surface": "ועשרין",
+      "gloss": "تے ویہہ"
+    },
+    {
+      "surface": "די",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "להון",
+      "gloss": "اوہ ہون"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ساری … وِچ"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "بادشاہی"
+    }
+  ],
+  "timestamp": "2026-10-16T02:44:33.099657393Z",
+  "model": "glm-5.3"
+}

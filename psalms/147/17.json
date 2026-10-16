@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 147:17",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "כפתים",
+      "rationale": "ایہہ لفظ تنخ وچ صرف ایتھے آؤندا اے — 'ٹوٹیاں\/کُڑیاں' دا مطلب سیاق توں لیا گیا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קרחו\/קרתו",
+      "rationale": "برف (کِرَح) تے ٹھنڈھ (کورہ) دی آواز ملدی اے — ایہہ جوڑ پنجابی وچ باقی نئیں رہندا"
+    },
+    {
+      "kind": "alternative",
+      "subject": "برف",
+      "rationale": "קרח دا مرفوع 'شِیل' وی ہو سکدا اے — پر 'برف' سادہ ترجمہ اے"
+    }
+  ],
+  "translation": "اوہ اپنی برف ٹوٹیاں وانگوں سٹدا اے؛ اوہدے ٹھنڈھ توں اگے کون کھلوندا؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4589482b212d111c5e480abc4637813234e773414154ac4a2f9cd7ae1bc7d3ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/147\/17-20.1792114283880.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משליך",
+      "gloss": "سٹدا اے"
+    },
+    {
+      "surface": "קרחو",
+      "gloss": "اپنی برف"
+    },
+    {
+      "surface": "כפתים",
+      "gloss": "ٹوٹیاں وانگوں"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "توں اگے"
+    },
+    {
+      "surface": "קרתו",
+      "gloss": "اوہدی ٹھنڈھ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "کھلوندا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:31:23.880693884Z",
+  "model": "glm-5.3"
+}

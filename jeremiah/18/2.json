@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 18:2",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "میں",
+      "rationale": "ہیفل صورت אשמיעך وچ فاعل لکھیا نئیں؛ پنجابی نوں 'میں' چاہیدا اے"
+    },
+    {
+      "kind": "invitation",
+      "subject": "اُٹھ تے جا ہیٹھ",
+      "rationale": "حکم یِرمیاہو نوں سدّا — orda imperative"
+    }
+  ],
+  "translation": "اُٹھ تے کُمہار دے گھر جا ہیٹھ، تے اوتھے میں تینوں ⟨את⟩ آپنیاں گَلاں سُنائاںگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "70b72f669050c089236245bd671e7a822fa671e64cba1a73f833ee9149d5d39a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/18\/1-4.1792107856683.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "اُٹھ"
+    },
+    {
+      "surface": "וירדת",
+      "gloss": "تے جا ہیٹھ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "کُمہار دے"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "تے اوتھے"
+    },
+    {
+      "surface": "אשמיעך",
+      "gloss": "میں تینوں سُنائاںگا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آپنیاں گَلاں"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "آپنیاں گَلاں"
+    }
+  ],
+  "timestamp": "2026-10-15T23:44:16.683761970Z",
+  "model": "glm-5.3"
+}

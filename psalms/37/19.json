@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 37:19",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوہ",
+      "rationale": "Pronoun added — Hebrew verb form implies the subject 'they'"
+    }
+  ],
+  "translation": "اوہ برے ویلے شرم نئیں کرنگے، تے کال دے دناں وِچ اوہ اُکتے جانگے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4db5cf25bd8637da31c422a8739f8d08d83ba362eb3cb88d01d279f67135a4de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/37\/17-20.1792112380780.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "شرم کرنگے"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ویلے"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "برے"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "تے دناں وِچ"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "کال دے"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "اُکتے جانگے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:59:40.781574567Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 9:20",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "بھجایا",
+      "rationale": "הניס دا مول مطلب 'بھجاؤنا' — مطلب پناہ ول کھچنا؛ 'بچایا' اوہدا اثر اے، شکل نئیں"
+    }
+  ],
+  "translation": "جو یاہوہ دے ⟨את⟩ بچن توں ڈردا سی، پَرعو دے غلاماں وِچوں، اوہنے ⟨את⟩ اپنے غلاماں تے ⟨ואת⟩ اپنے مال نوں گھراں ول بھجایا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fa10d8b2c4d577dcada5a42380744f250c4b7dba3d345b71496d6615b1339f1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/9\/17-20.1792096382334.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הירא",
+      "gloss": "جو ڈردا سی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بچن"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "بچن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "غلاماں وِچوں"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پَرعو"
+    },
+    {
+      "surface": "הניס",
+      "gloss": "بھجایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنے غلاماں"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "اپنے غلاماں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اپنے مال"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "اپنے مال"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ول"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "گھراں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:33:02.336116868Z",
+  "model": "glm-5.3"
+}

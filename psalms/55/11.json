@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 55:11",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اے⟩",
+      "rationale": "عبرانی وِچ کوئی فعل نئیں؛ پنجابی جملے لئی جوڑ دا لفظ"
+    }
+  ],
+  "translation": "دن تے رات اوہ اوہدیاں کندھاں اُتے چکر لاؤندے نیں، تے بدی تے تکلیف اوہدے وِچکار ⟨اے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ac333cb8fe8857c295668f5ef1a8d7060fe07603a3495b294a1e96f891a7827b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/55\/9-12.1792112655384.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "دن"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "تے رات"
+    },
+    {
+      "surface": "יסובבה",
+      "gloss": "اوہ اوہنوں چکر لاؤندے نیں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "חומתיה",
+      "gloss": "اوہدیاں کندھاں"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "تے بدی"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "تے تکلیف"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "اوہدے وِچکار"
+    }
+  ],
+  "timestamp": "2026-10-16T01:04:15.384815071Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 34:13",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פקד",
+      "rationale": "کجھ ترجمے 'حکم دتا' آکھدے نیں، کجھ 'نگرانی رکھی' — جڑ دا مول مطلب 'میں بازی کرنا\/لینا' اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "دی نگرانی",
+      "rationale": "پنجابی جملہ اسم دے بِنا پورا نئیں ہوندا؛ عبرانی وِچ صرف فعل اے"
+    }
+  ],
+  "translation": "کِس نے اُوہدے اُتے دھرتی ⟨دی نگرانی⟩ رکھی؟ تے کِس نے سارا سنسار رکھیا؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3e81c30d735c885e4109c776cf315727eed44b727340578d589d817d0196cd21",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/34\/13-16.1792116390715.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کِس"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "نگرانی رکھی"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اُوہدے اُتے"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "دھرتی"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "تے کِس"
+    },
+    {
+      "surface": "שם",
+      "gloss": "رکھیا"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "سنسار"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "سارا"
+    }
+  ],
+  "timestamp": "2026-10-16T02:06:30.716077338Z",
+  "model": "glm-5.3"
+}

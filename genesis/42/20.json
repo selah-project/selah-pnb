@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 42:20",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "بھراواں نوں",
+      "rationale": "حکم بھراواں ول سدھا اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "تاں جو",
+      "rationale": "عبرانی وِچ مقصد دا جوڑ نئیں، پنجابی syntax منگدا اے۔"
+    }
+  ],
+  "translation": "تے ⟨את⟩ اپنے نِکّے بھرا نوں میرے کول لیاؤ، تاں جو تہاڈیاں گلاں ثابت ہو جان، تے تسیں نہ مرو۔ تے اوہناں ایہو کیتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d104c970e2a5ef8838e0d24a1eede219368c1bf2f2cabca0d6f4673deafa5572",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/42\/17-20.1792095834505.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اپنے نِکّے بھرا نوں"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "اپنے بھرا نوں"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "نِکّے"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "لیاؤ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میرے کول"
+    },
+    {
+      "surface": "ויאמנו",
+      "gloss": "تاں جو ثابت ہو جان"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "تہاڈیاں گلاں"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "مرو"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "تے کیتا"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ایہو"
+    }
+  ],
+  "timestamp": "2026-10-15T20:23:54.512172148Z",
+  "model": "glm-5.3"
+}

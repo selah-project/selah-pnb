@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 13:2",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جان\/اپیٹھ اے، صرف 'روح' نئیں"
+    },
+    {
+      "kind": "crux",
+      "subject": "חמס",
+      "rationale": "KJV 'زور زُلھم کھاوے گی' — عبرانی وِچ دوجا نصف حصے وِچ کوئی فعل نئیں"
+    }
+  ],
+  "translation": "اِک بندے دے مُنہ دے پَھل توں چنگیائی کھاوےگا، پر دغا بازاں دی جان زور زُلھم والی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "259a96b14145fe009f7903fcfe0970fec25774a3d828f3318011ba1428967c73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/13\/1-4.1792114677257.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "دے پَھل توں"
+    },
+    {
+      "surface": "פי",
+      "gloss": "مُنہ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کھاوےگا"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگیائی"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "پر جان"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "دغا بازاں دی"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "زور زُلھم"
+    }
+  ],
+  "timestamp": "2026-10-16T01:37:57.258348615Z",
+  "model": "glm-5.3"
+}

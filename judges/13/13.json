@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 13:13",
+  "book": "judges",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "توں",
+      "rationale": "מכל ‏(سارے) نالوں پنجابی ‏'توں' پوسٹ پوزیشن منگدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "تریمتی",
+      "rationale": "האשה ‏'عورت\/زنانی' اے؛ ٹکسالی لہور وچ 'تریمتی' پرچلت اے"
+    },
+    {
+      "kind": "you",
+      "subject": "منوح",
+      "rationale": "فرشتہ منوح نوں سِدھا جواب دیندا اے"
+    }
+  ],
+  "translation": "تے یاہوہ دے فرشتے نے منوح نوں آکھیا: جو کجھ میں تریمتی نوں آکھیا اے، سارے ⟨توں⟩ اوہ گھلے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "964bde9e6ed31603fd2f7ba0a91557700d8d8edbb5573a0bb75fda4177fbe5b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/judges\/13\/13-16.1792101782482.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "فرشتے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "منوح"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "سارے ⟨توں⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو کجھ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "میں آکھیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "تریمتی"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "اوہ گھلے"
+    }
+  ],
+  "timestamp": "2026-10-15T22:03:02.482617089Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 15:33",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "حوشای",
+      "rationale": "داوِد حوشائے ارکی نوں سدھا مخاطب کردا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "بھار",
+      "rationale": "למשא دا پہلا مطلب اے ‘سار دا مال’، اتھے ‘بوجھ\/بھار’ دے ورتاریاں وچ"
+    }
+  ],
+  "translation": "تے داوِد نے اوہدے نال آکھیا: جے تُوں میرے نال ⟨את⟩ لنگھ گیا، تے تُوں میرے اُتے بھار بن جاوےں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6d0efb5a7e4dd2cb6d53d9e65707822c736260bc892c2fa0db0b8a65e800c34c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/15\/33-36.1792103509101.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدے نال"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "עברת",
+      "gloss": "لنگھ گیا"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ نال",
+      "marks": "داوِد"
+    },
+    {
+      "surface": "והית",
+      "gloss": "تے بن جاوےں"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "میرے اُتے"
+    },
+    {
+      "surface": "למשא",
+      "gloss": "بھار لئی"
+    }
+  ],
+  "timestamp": "2026-10-15T22:31:49.102236225Z",
+  "model": "glm-5.3"
+}

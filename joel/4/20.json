@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joel 4:20",
+  "book": "joel",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "تے یروشلایم ⟨وسیگی⟩",
+      "rationale": "دوجی ایتی وِچ کنایتی کار دا گلاس مکمل جملہ نئیں دندا؛ عبرانی صرف لفظ دہراندی اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לדור ודור",
+      "rationale": "دور و دور دی دہرائی — پنجابی وِچ 'نسلوں نسلتاں' نال صورت رکھی"
+    }
+  ],
+  "translation": "تے یہوداہ ہمیشہ واسطے وسے گا، تے یروشلایم نسلوں نسلتاں تیکے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0e0b6eb408dbc1b0f6fbd6e576c634e1cc8bbc2be8d770e2513278e9ca094e86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joel\/4\/17-20.1792110831929.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהודה",
+      "gloss": "تے یہوداہ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشہ واسطے"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "وسے گا"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "تے یروشلایم"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "نسلوں"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "نسلتاں تیکے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:33:51.930899066Z",
+  "model": "glm-5.3"
+}

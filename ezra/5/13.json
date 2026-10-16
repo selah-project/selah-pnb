@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezra 5:13",
+  "book": "ezra",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨کہ⟩",
+      "rationale": "پنجابی وجہ بیان کرن لئی 'کہ' منگدی اے، عبرانی (آرامی) وِچ نئیں"
+    },
+    {
+      "kind": "measurement",
+      "subject": "پہلا ور",
+      "rationale": "کورش دے راج دا پہلا ور سی وقت دے حساب نال دسیا گیا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "حکم",
+      "rationale": "טעם دا م字دا مطلب 'سواد' اے، فیصلے\/حکم لئی لیا گیا"
+    }
+  ],
+  "translation": "پر بابل دے بادشاہ کورش دے پہلے وری وِچ، کورش بادشاہ نے حکم رکھیا ⟨کہ⟩ ایہہ ایلوہ دا گھر بنایا جاوے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a07c4da2ceeef8267fb0cd0b22fdda7c4bf63bc54d8d591390e6d80d784cf694",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezra\/5\/13-16.1792119124646.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברם",
+      "gloss": "پر"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "وری وِچ"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "پہلے"
+    },
+    {
+      "surface": "לכורש",
+      "gloss": "کورش دے"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "די",
+      "gloss": "دے"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "کورش"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "رکھیا"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "حکم"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "ایلوہ"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "לבנא",
+      "gloss": "بنایا جاوے"
+    }
+  ],
+  "timestamp": "2026-10-16T02:52:04.647146084Z",
+  "model": "glm-5.3"
+}

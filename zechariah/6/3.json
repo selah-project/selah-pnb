@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 6:3",
+  "book": "zechariah",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سن",
+      "rationale": "عبرانی وِچ کوئی کریا نئیں؛ ⟨سن⟩ پایا گیا"
+    },
+    {
+      "kind": "crux",
+      "subject": "אמצים",
+      "rationale": "'تازتازے\/مضبوط' (شکل\/طاقت) بمقابلہ پرانے ترجمےآں وِچ 'سرخ\/گنجان' — لفظ اِدھر ای اے تنخ وِچ تے معomuضmnt اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "ברדים",
+      "rationale": "'دھبیدار' (اولے ورگے دھبے، جذر ב-ר-ד) بمقابلہ 'رنگ برنگے' — شکل نوں رکھیا گیا اے"
+    }
+  ],
+  "translation": "تے تیجے رتھ وِچ چٹے گھوڑے ⟨سن⟩، تے چوتھے رتھ وِچ دھبیدار تے تازتازے گھوڑے ⟨سن⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e74576df6465bce55df924615bbce4714a64480a427a9b21afd0505228ca428d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/zechariah\/6\/1-4.1792111523085.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובמרכבה",
+      "gloss": "تے تیجے رتھ وِچ"
+    },
+    {
+      "surface": "השלשית",
+      "gloss": "تیجے"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "گھوڑے"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "چٹے"
+    },
+    {
+      "surface": "ובמרכבה",
+      "gloss": "تے چوتھے رتھ وِچ"
+    },
+    {
+      "surface": "הרبעית",
+      "gloss": "چوتھے"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "گھوڑے"
+    },
+    {
+      "surface": "ברדים",
+      "gloss": "دھبیدار"
+    },
+    {
+      "surface": "אמצים",
+      "gloss": "تازتازے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:45:23.086386303Z",
+  "model": "glm-5.3"
+}

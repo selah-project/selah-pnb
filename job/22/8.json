@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 22:8",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اے⟩",
+      "rationale": "عبرانی وِچ کوئی کریا نئیں — 'بازو والے بندے لئی دھرتی' اسمی جملہ اے۔"
+    },
+    {
+      "kind": "idiom",
+      "subject": "נשוא פנים",
+      "rationale": "لفظی 'چُکیا ہویا منہ' — تعریف\/پَھوٹ منگن والا، مقبول بندہ؛ 'بازو' تے 'منہ' دی جوڑی طاقت دے دو رُخ دسدی اے۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "واشب باہ",
+      "rationale": "'اوہدے وِچ وسدا اے' — زمین دے سوڈوم دے بندے (KJV) یا تسیں زبردست لوک (کئی مفسر)؛ جوڑ دا اُلارا۔"
+    }
+  ],
+  "translation": "تے بازو والے بندے لئی ⟨اے⟩ دھرتی، تے جس دا منہ چُکیا جاندا اے اوہ اوہدے وِچ وسدا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1c7995cbd485173227245c7cb067b4f592ccae65d76188ac0ccf6de09839ef39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/22\/5-8.1792115924521.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "تے بندہ"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "بازو والا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدے لئی"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "دھرتی"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "تے جس دا … چُکیا جاندا"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "منہ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "وسدا اے"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اوہدے وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:58:44.522178471Z",
+  "model": "glm-5.3"
+}

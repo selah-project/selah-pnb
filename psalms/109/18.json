@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 109:18",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כמדו",
+      "rationale": "מד واحد اے 'پیمانہ\/چولا'؛ KJV 'like as with his garment' بمقابلہ 'اپنی چوڑی وانگوں' — لباس دا مطلب لیا گیا اے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "وڑ",
+      "rationale": "קרב لدھی 'اوہدیاں ہڈیاں وچ' دے برابر اے، 'باواں' نئیں۔"
+    }
+  ],
+  "translation": "تے اوہنے ملامت نوں اپنا لباس بنا کے پہن رکھیا، تے اوہ پانی وانگوں اوہدے وڑ وچ تے تیل وانگوں اوہدیاں ہڈیاں وچ اتر گئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d726760e8ad24e053ef4fc3d09ef9a0423cca03724ff79bba4bf68ea5f67ffa7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/109\/17-20.1792113733682.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "تے اوہنے پہن رکھیا"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "ملامت نوں"
+    },
+    {
+      "surface": "כמדו",
+      "gloss": "اپنے لباس وانگوں"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "تے اوہ آئی"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "پانی وانگوں"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "اوہدے وڑ وچ"
+    },
+    {
+      "surface": "וכשמן",
+      "gloss": "تے تیل وانگوں"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "اوہدیاں ہڈیاں وچ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:22:13.683446467Z",
+  "model": "glm-5.3"
+}

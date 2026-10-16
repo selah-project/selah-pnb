@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 61:5",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 61,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "selah",
+      "rationale": "ਸੇਲਾਹ ਇੱਕ ਸੰਗੀਤਕ ਵਿਰਾਮ ਹੈ, ਇਸ ਨੂੰ ਕੇਵਲ ਉਚਾਰਨ ਦੇ ਰੂਪ ਵਿੱਚ ਰੱਖਿਆ ਗਿਆ ਹੈ, ਅਨੁਵਾਦ ਨਹੀਂ ਕੀਤਾ ਗਿਆ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "עולמים",
+      "rationale": "'ਸਦੀਆਂ ਤੱਕ' ਬਨਾਮ 'ਹਮੇਸ਼ਾਂ ਲਈ' — ਬਹੁਵਚਨ ਰੂਪ 'ਯੁੱਗਾਂ ਤੱਕ' ਵੀ ਹੋ ਸਕਦਾ ਹੈ।"
+    }
+  ],
+  "translation": "ਮੈਂ ਤੇਰੇ ਡੇਰੇ ਵਿੱਚ ਸਦੀਆਂ ਤੱਕ ਪਰਦੇਸ ਕਰਾਂ, ਤੇਰੇ ਪਰਾਂ ਦੀ ਲੁਕੀ ਹੋਈ ਓਟ ਵਿੱਚ ਪਨਾਹ ਲਵਾਂ। ਸੇਲਾਹ।",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e514c71f90a4fc1c9677f6e8e9538a38e3818fd64769b312040f215d9a183196",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/61\/5-8.1792112821472.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אגורה",
+      "gloss": "ਮੈਂ ਪਰਦੇਸ ਕਰਾਂ"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "ਤੇਰੇ ਡੇਰੇ ਵਿੱਚ"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "ਸਦੀਆਂ ਤੱਕ"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "ਪਨਾਹ ਲਵਾਂ"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "ਲੁਕੀ ਹੋਈ ਓਟ ਵਿੱਚ"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "ਤੇਰੇ ਪਰਾਂ ਦੀ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ਸੇਲਾਹ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:07:01.472720388Z",
+  "model": "glm-5.3"
+}

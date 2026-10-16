@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 102:5",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לבי",
+      "rationale": "לב مطلب دل — احساس تے مرضی د‏‏ی گنجائش، صرف سینہ نئیں"
+    }
+  ],
+  "translation": "ماریا گیا آں گھاہ وانگر، تے سُکّ گیا اے میرا دل، کیونکہ میں بھُل گیا آں روٹی کھانے توں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1637c8fa76edae5b28ccf4206cff48971a4625b2172e769b74d0e33631a48276",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/102\/5-8.1792113453283.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוכה",
+      "gloss": "ماریا گیا آں"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "گھاہ وانگر"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "تے سُکّ گیا اے"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "میرا دل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "میں بھُل گیا آں"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "کھانے توں"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "روٹی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:17:33.283857122Z",
+  "model": "glm-5.3"
+}

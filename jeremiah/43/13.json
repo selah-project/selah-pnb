@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 43:13",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "بیت-شیمش",
+      "rationale": "בית שמש ایتھے مِتصرایم دا شہر اون\/ہیلیوپولس اے، فلسطین دا بیت-شیمش نئیں — شمش یعنی سورج دی تھاں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ستون",
+      "rationale": "מצבות توں مُراد کھڑے کیتے ستون یا مُورتیاں نیں، کجھ ترجمے صرف مورتیاں آکھدے نیں"
+    },
+    {
+      "kind": "elision",
+      "subject": "بیت-شیمش",
+      "rationale": "عبرانی دو ٹوکن (בית + שמש) اک جُڑے ناں نیں، پنجابی وِچ اِک واری لکھیا"
+    }
+  ],
+  "translation": "تے اوہ بیت-شیمش دے ستوناں نوں، جیہڑے مِتصرایم دی دھرتی وِچ نیں، توڑیگا، تے مِتصرایم دے ایلوہیم دیاں کوٹھیاں نوں اگّ وِچ ساڑیگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f7bfefa2d4fcd9474f48cfeb5c333334ff515a4eef972d0ae15cd39c700da75c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/43\/13-13.1792108526214.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושבר",
+      "gloss": "تے توڑیگا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ستوناں نوں"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "ستون"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت-شیمش دے"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "بیت-شیمش"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑے"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "دھرتی وِچ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم دی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "کوٹھیاں نوں"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "کوٹھیاں"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ایلوہیم دے"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "ساڑیگا"
+    },
+    {
+      "surface": "באש",
+      "gloss": "اگّ وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T23:55:26.215150200Z",
+  "model": "glm-5.3"
+}

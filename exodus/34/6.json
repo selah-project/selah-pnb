@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 34:6",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יהוה יהוה",
+      "rationale": "ناں دا دو واری اُچاریاں — شمع اسرائیل والی تکرار، سارے عبرانی ترجمیاں وِچ رکھیا گیا"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ארך אפים",
+      "rationale": "لفظی \"لمبیاں نَسّاں والا\" — یعنی دیر نال غصے وچ آؤن والا"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨رحمت⟩",
+      "rationale": "خیسِد نال وضاحت — پہلی واری ⟨⟩ وِچ جائز"
+    }
+  ],
+  "translation": "تے یاہوہ اوہدے چہرے اُتے لنگھیا تے پکاریا: یاہوہ، یاہوہ، ایل — رحم والا تے مہربان، دیر غصے والا، تے وڈا خیسِد ⟨رحمت⟩ تے سچ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b979dfa7ed0b504af275711cd3fd3cc778850328720949595d5771685a5d0e95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/34\/5-8.1792097143616.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "لنگھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "اوہدا چہرہ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "پکاریا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "رحم والا"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "تے مہربان"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "دیر"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "غصے والا"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "تے وڈا"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "خیسِد"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "تے سچ"
+    }
+  ],
+  "timestamp": "2026-10-15T20:45:43.617059789Z",
+  "model": "glm-5.3"
+}

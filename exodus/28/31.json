@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "کپڑے دا",
+      "rationale": "תכלت dyed cloth اے، پنجابی وِچ سامان دا لفظ لوڑیدا"
+    },
+    {
+      "kind": "crux",
+      "subject": "نیلا",
+      "rationale": "תכלت خاص گوہی رنگ اے — بنفشی\/نیلے دے وچکار؛ اِک لفظ نال پورا نئیں اتردا"
+    }
+  ],
+  "translation": "تے تُسیں ایفود دے جُبے نوں ⟨את⟩ مکمل نیلے ⟨کپڑے دا⟩ بناوو۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "18be3693f201b29cb80dcf31b15c0175d3e4fbfb0dfeeeda4fffba6a9507687d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/28\/29-32.1792096993605.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "تے تُسیں بناوو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جُبا"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "جُبا"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "ایفود دے"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "مکمل"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "نیلا"
+    }
+  ],
+  "timestamp": "2026-10-15T20:43:13.606590842Z",
+  "model": "glm-5.3"
+}

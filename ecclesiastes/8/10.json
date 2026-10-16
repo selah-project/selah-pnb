@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 8:10",
+  "book": "ecclesiastes",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ובאו…יהלכו",
+      "rationale": "ایہہ آیت عبرانی وِچ مشہور موڑ اے — کون آندا اے، کون مقدس تھاں توں چلدا اے، تے 'באשר כן עשו' دا پڑھ 'اتھے اوہناں ایسے کیتا' یا 'اتھے اوہناں چنگا کیتا' — مترجم اک دوجے توں وکھرے نیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ہوا",
+      "rationale": "הבל دی صفت 'وایہ\/بھاپ' اے — 'بے کار' رلیٹری مطلب اے، مول تصویر ہوا ورگی اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩",
+      "rationale": "ובאו دی نشانی لئی شوہِ تحت-الفظی شامل کیتا گیا"
+    }
+  ],
+  "translation": "تے اِسے لئی میں ویکھیا شریراں نوں دفنائے گئے، تے ⟨اوہ⟩ آئے، تے مقدس تھاں توں چلدے رہے، تے اوہ شہر وِچ بھُل گئے جتھے اوہناں اِسے کیتا — ایہہ وی ہوا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3965f14a778b1f219bcbcff5d8466f8d59c2570cf7ea3cfa5ce639dcb84d2dff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ecclesiastes\/8\/9-12.1792117650090.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובכן",
+      "gloss": "تے اِسے لئی"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "میں ویکھیا"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "شریراں نوں"
+    },
+    {
+      "surface": "קברים",
+      "gloss": "دفنائے گئے"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "تے آئے"
+    },
+    {
+      "surface": "וממקום",
+      "gloss": "تے اوس تھاں توں"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "چلدے رہے"
+    },
+    {
+      "surface": "וישתכחו",
+      "gloss": "تے بھُل گئے"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "شہر وِچ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جتھے"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اِسے"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "کیتا"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ہوا اے"
+    }
+  ],
+  "timestamp": "2026-10-16T02:27:30.092171902Z",
+  "model": "glm-5.3"
+}

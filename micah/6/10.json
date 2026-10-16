@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 6:10",
+  "book": "micah",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "רזון",
+      "rationale": "‏'پتلا\/گھٹ' — سارے تنخ وِچ صرف ایتھے"
+    },
+    {
+      "kind": "crux",
+      "subject": "האיש",
+      "rationale": "‏BSB ایہنوں 'کی میں ہور چُپ رہاں؟' والا پڑھاؤ دیندا اے؛ رِیتا پڑھاؤ 'کی اوتھے نیں؟' اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "اِیفا",
+      "rationale": "اناج دا ناپ — تُلی دھوکھے دی گل"
+    }
+  ],
+  "translation": "کی بدکار دے گھر وِچ ہن وی بدکاری دے خزانے نیں، تے اِیفا گھٹ-بھری جیہڑی لعنتی اے؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "14ecb6a1b26b324bf8125e185a8da189ca560aabba32e9cbc819594ea1fbcee0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/micah\/6\/9-12.1792111161541.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "ہن وی"
+    },
+    {
+      "surface": "האש",
+      "gloss": "کی ⟨اوتھے⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر وِچ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدکار دے"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "خزانے"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدکاری دے"
+    },
+    {
+      "surface": "ואיפת",
+      "gloss": "تے اِیفا"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "گھٹ-بھری"
+    },
+    {
+      "surface": "זעומה",
+      "gloss": "لعنتی"
+    }
+  ],
+  "timestamp": "2026-10-16T00:39:21.542395652Z",
+  "model": "glm-5.3"
+}

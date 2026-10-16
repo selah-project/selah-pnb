@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 28:24",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اِک … سی",
+      "rationale": "عبرانی دا کرناوی جملہ اے، پنجابی نوں 'سی' چاہیدی اے"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מרבק",
+      "rationale": "بَھس\/واڑ دا ایہہ لفظ سارے تنخ وِچ صرف ایتھے آیا اے"
+    }
+  ],
+  "translation": "تے اُس زنانے کول گھر وِچ بَھس دا اِک بچھڑا سی، تے اوہنے تیز کر کے ⟨את⟩ اوہنوں ذبح کیتا، تے آٹا لیا، تے گوندھیا، تے اوہنوں بغیر خمیری روٹیاں پکایا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e5a2cc75600b19ff486a0f12983903878d85de0fc9edf0bdedf3b1d9da4a1729",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/28\/21-24.1792102953306.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולאשה",
+      "gloss": "تے اُس زنانے کول"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "بچھڑا"
+    },
+    {
+      "surface": "מרבק",
+      "gloss": "بَھس دا"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "گھر وِچ"
+    },
+    {
+      "surface": "ותמהר",
+      "gloss": "تے تیز کر کے"
+    },
+    {
+      "surface": "ותזבחהו",
+      "gloss": "اوہنوں ذبح کیتا"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "تے لیا"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "آٹا"
+    },
+    {
+      "surface": "ותלש",
+      "gloss": "تے گوندھیا"
+    },
+    {
+      "surface": "ותפהו",
+      "gloss": "تے اوہنوں پکایا"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "بغیر خمیری روٹیاں"
+    }
+  ],
+  "timestamp": "2026-10-15T22:22:33.307680729Z",
+  "model": "glm-5.3"
+}

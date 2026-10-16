@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 19:10",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "copula 'اے\/نیں'",
+      "rationale": "عبرانی وِچ کاپلا نئیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אמת",
+      "rationale": "'سچ' اوہدے مطلب 'تھر-تھاؤ، پکا ہونا' دا اک پاسہ اے"
+    }
+  ],
+  "translation": "یاہوہ دا ڈر پاک اے، ہمیشہ لئی کھلوندا اے؛ یاہوہ دے فیصلے سچ نیں، سارے دے سارے نیائے والے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e3d8b64492fb67098dda35d7fd6715c9c7d301a740cbcebad64c390821f8f3e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/19\/9-12.1792112035865.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "ڈر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "טהורה",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "עומדת",
+      "gloss": "کھلوندا"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ہمیشہ لئی"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "فیصلے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "سچ"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "نیائے والے"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "سارے دے سارے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:53:55.866637262Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 10:7",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "کوئی",
+      "rationale": "عبرانی صرف نفی אין دیندا اے، پنجابی جملہ 'کوئی' منگدا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "על דעתך",
+      "rationale": "'تیرے علم دے مطابق' vs 'حالانکہ تُو جاندا ایں' — ترجمے وکھرے لفظاں نال اکو مطلب نوں پکڑدے نیں"
+    }
+  ],
+  "translation": "حالانکہ تُو جاندا ایں کہ میں مجرم نئیں، تے تیرے ہتھ توں ⟨کوئی⟩ چھڈاؤن والا نئیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6b666e50d6e5b6572b005bbb1a968f6147846d232114fd153962d4a1ac8d498a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/10\/5-8.1792115619863.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "حالانکہ"
+    },
+    {
+      "surface": "דעתך",
+      "gloss": "تُو جاندا ایں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "ארשע",
+      "gloss": "میں مجرم ⟨واں⟩"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "تے نئیں ⟨کوئی⟩ چھڈاؤن والا"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "تیرے ہتھ توں"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "چھڈاؤن والا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:53:39.864689183Z",
+  "model": "glm-5.3"
+}

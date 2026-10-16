@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 6:19",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אהל מועד",
+      "rationale": "'مِیل دی خیمہ' — موعد دا مطلب مقرر ویلہ\/ملاقات؛ ریتی ترجمے 'تلاقی دے خیمے' آکھدے نیں"
+    }
+  ],
+  "translation": "اوہ کاہن جیہڑا اِس نوں گناہ لئی چڑھاؤندا اے، ⟨את⟩ اِس نوں کھاوے؛ اِس نوں پوتر تھاں تے کھایا جاوے، مِیل دی خیمے دے وَڑ وِچ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "578d0f5ca20aa9595556b011070dcf61b41274c7f3804bf9d7f124fd9c0aaab2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/6\/17-20.1792097433000.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכהן",
+      "gloss": "اوہ کاہن"
+    },
+    {
+      "surface": "המחטא",
+      "gloss": "جیہڑا … گناہ لئی چڑھاؤندا اے"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "اِس قربانی نوں"
+    },
+    {
+      "surface": "יאכלנה",
+      "gloss": "اِس نوں کھاوے"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "تھاں تے"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پوتر"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "کھایا جاوے"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "دے وَڑ وِچ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمے"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "مِیل"
+    }
+  ],
+  "timestamp": "2026-10-15T20:50:33.001038461Z",
+  "model": "glm-5.3"
+}

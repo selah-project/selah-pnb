@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 10:11",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨نال⟩",
+      "rationale": "پنجابی 'پُرنا\/ولھیٹنا' نال اوزار دا 'نال' منگدا اے؛ عبرانی وِچ صرف دو مفعول نیں"
+    }
+  ],
+  "translation": "چمڑا تے ماس ⟨نال⟩ تُو نے مینوں پُرو، تے ہڈیاں تے ناڑاں ⟨نال⟩ تُو نے مینوں وَلھیٹیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5b244dc857c8dc500384d425383971a53fb7804a31da230e00b822d82ca665e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/10\/9-12.1792115620741.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עור",
+      "gloss": "چمڑا"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "تے ماس"
+    },
+    {
+      "surface": "תלבישני",
+      "gloss": "تُو نے مینوں پُرو"
+    },
+    {
+      "surface": "ובעצמות",
+      "gloss": "تے ہڈیاں"
+    },
+    {
+      "surface": "וגידים",
+      "gloss": "تے ناڑاں"
+    },
+    {
+      "surface": "תסככני",
+      "gloss": "تُو نے مینوں وَلھیٹیا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:53:40.741875891Z",
+  "model": "glm-5.3"
+}

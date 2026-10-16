@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 1:28",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ישחרנני",
+      "rationale": "שחר مُڈھ لفظ 'سویروں دا ہونا' اے — 'سویرے سویرے لَبھنا' بمقابلہ 'دِل وَلوں تَلوں لَبھنا' (KJV\/ASV 'دِلی نال')۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "میں",
+      "rationale": "אענہ دی پہلی شخص فعل وِچ 'میں' شامل اے، پنجابی صیغہ ساف کرن لئی۔"
+    }
+  ],
+  "translation": "اوہ ویلے اوہ مینوں پکاریں گے تے میں جواب نئیں دِتا کراں گا، اوہ سویرے سویرے مینوں لَبھن گے تے اوہ مینوں نئیں پاوانگے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ad5780c4251f8abf695d15eff359aaddf1e0af7378387140c35afecddcf0a001",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/1\/25-28.1792114359845.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "اوہ ویلے"
+    },
+    {
+      "surface": "יקראנני",
+      "gloss": "مینوں پکاریں گے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "جواب دِتا کراں گا"
+    },
+    {
+      "surface": "ישחרנני",
+      "gloss": "سویرے سویرے مینوں لَبھن گے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "ימצאנני",
+      "gloss": "مینوں پاوانگے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:32:39.846263041Z",
+  "model": "glm-5.3"
+}

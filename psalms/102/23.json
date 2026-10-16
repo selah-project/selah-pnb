@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 102:23",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اِکو ویلے",
+      "rationale": "יחדו مطلب 'رل کے\/متحد ہو کے' — قوماں جمع ہون دا انداز دسدا اے۔"
+    }
+  ],
+  "translation": "جدوں قوماں اِکٹھیاں ہون، تے پاتشاہیاں، یاہوہ ⟨את⟩ دی سیوا لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1a911999b1db84bce8f509248ec33996601627511da2e7176016adf9601d03eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/102\/21-24.1792113452508.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בהקבץ",
+      "gloss": "جدوں اِکٹھیاں ہون"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "قوماں"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "اِکو ویلے"
+    },
+    {
+      "surface": "וממלכות",
+      "gloss": "تے پاتشاہیاں"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "سیوا لئی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:17:32.509265793Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 107:11",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "המרו",
+      "rationale": "מרה — کڑواہٹ\/بغاوت: 'ورتے' (بغاوت کیتی) بمقابلہ یتّ دا 'changed'"
+    },
+    {
+      "kind": "addition",
+      "subject": "نوں",
+      "rationale": "پنجابی فعل لئی پکھ لگی، عبرانی وِچ کُجھ نئیں"
+    }
+  ],
+  "translation": "کیونجے اوہناں ایل دے کہے ورتے، تے علیون دی صلاح نوں ردّ کیتا،",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fa2b43ed24c66df6cd26b57e8a2bfa3111682000e5d407cf23a768b653f78263",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/107\/9-12.1792113596316.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "ورتے"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "کہے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "تے صلاح"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "علیون"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "ردّ کیتا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:19:56.317284105Z",
+  "model": "glm-5.3"
+}

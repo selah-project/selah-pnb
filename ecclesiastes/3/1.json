@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "عبرانی وِچ اِس دا کوئی کریا نئیں، پنجابی وچ جملہ لئی لوڑیدا"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ویلہ",
+      "rationale": "پوری آیت ویلے دی پیمائش دا اعلان اے، ہر کم دا اپنا وقت"
+    }
+  ],
+  "translation": "ہر شے لئی اِک مقرر ویلہ اے، تے اسماناں تھلے ہر مراد لئی اِک ویلہ اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "35d3cdeff773c389dec489fb2675c08a0708dc3dd42488493c2848219efeaa0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ecclesiastes\/3\/1-4.1792117413487.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "ہر شے لئی"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "مقرر ویلہ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "تے ویلہ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "مراد"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تھلے"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "اسماناں"
+    }
+  ],
+  "timestamp": "2026-10-16T02:23:33.488308015Z",
+  "model": "glm-5.3"
+}

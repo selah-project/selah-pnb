@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "2-kings 4:41",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "پیڑا",
+      "rationale": "عبرانی وِچ ہُکم سدھا اے، پنجابی جملے لئی پیڑا جوڑیا گیا"
+    },
+    {
+      "kind": "crux",
+      "subject": "دَبَر رَع",
+      "rationale": "'کوئی بری شے' — کجھ مترجم 'موت' یا 'زہر' منگدے نیں، عبرانی سدھا 'بری شے' اے"
+    }
+  ],
+  "translation": "تے اوہنے آکھیا: پیڑا آٹا لیاؤ۔ تے اوہنے اوہنوں دیگے وِچ سٹیا، تے آکھیا: لوکاں لئی پاؤ تے اوہ کھا جان، تے دیگے وِچ ہن کوئی بری شے نئیں سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "16b0c5072114224bff22c13dbdd384c7f3b488ac72cd1e5646f87dea477b7c4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/4\/41-44.1792104986124.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے اوہنے آکھیا"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "لیاؤ"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "آٹا"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "تے اوہنے سٹیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "دیگے"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "צק",
+      "gloss": "پاؤ"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "لوکاں لئی"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "تے اوہ کھا جان"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "היה",
+      "gloss": "سی"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "شے"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بری"
+    },
+    {
+      "surface": "בסיר",
+      "gloss": "دیگے وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T22:56:26.125475846Z",
+  "model": "glm-5.3"
+}

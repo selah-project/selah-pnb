@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 11:1",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "عظم وبشر",
+      "rationale": "עצם ובשר 'ہڈی تے ماس' رشتے داری دی عبرانی اِڈiom اے — لفظی رکھیا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "نیں",
+      "rationale": "عبرانی وِچ کوئی فعل نئیں؛ پنجابی نوں 'نیں' چاہیدا اے"
+    }
+  ],
+  "translation": "تے سارے یِسرائیل داوِد کول حِبرون اکٹھے ہوئے، آکھدے ہوئے: ویکھو، تیری ہڈی تے تیرا ماس اسیں نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "891e7cef11bab3288c754dbaee33bac5ca70ca163ddc5070b64244859a11946b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/11\/1-4.1792120651743.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "اکٹھے ہوئے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "حِبرون"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھدے ہوئے"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ویکھو"
+    },
+    {
+      "surface": "עצמך",
+      "gloss": "تیری ہڈی"
+    },
+    {
+      "surface": "ובשרך",
+      "gloss": "تے تیرا ماس"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "اسیں نیں"
+    }
+  ],
+  "timestamp": "2026-10-16T03:17:31.744399922Z",
+  "model": "glm-5.3"
+}

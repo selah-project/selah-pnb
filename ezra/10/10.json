@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 10:10",
+  "book": "ezra",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ותשיבו",
+      "rationale": "Hiphil of שוב — literally 'you have caused to dwell\/return'; versions render 'taken' (KJV) or 'married\/settled' (ASV, YLT)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "مעלתם",
+      "rationale": "מעל — to act covertly\/treacherously against; 'unfaithfulness' captures the covenant breach, not a legal 'transgression'"
+    },
+    {
+      "kind": "you",
+      "subject": "to the returned exiles",
+      "rationale": "Ezra addresses the assembled men of Judah and Benjamin directly"
+    }
+  ],
+  "translation": "تے عزرا کاہن نے اُٹھ کے اوہناں نوں آکھیا: تُسیں بےوفائی کیتی اے تے ایسے کر کے اوپریاں تریمتیاں نوں ⟨ویاہ وِچ⟩ لیاندا اے، یِسرائیل دے قصور نوں ہور ودھاؤن لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9f9f29d41547f27acca2cbb80ea88b76eef33363cefd452f4051d3d6e31f1b94",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezra\/10\/9-12.1792119268134.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "اُٹھیا"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "عزرا"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "اوہناں نوں"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تُسیں"
+    },
+    {
+      "surface": "מעלתם",
+      "gloss": "بےوفائی کیتی اے"
+    },
+    {
+      "surface": "ותשיבו",
+      "gloss": "لیاندا اے"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "تریمتیاں نوں"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "اوپریاں"
+    },
+    {
+      "surface": "להוסיף",
+      "gloss": "ہور ودھاؤن لئی"
+    },
+    {
+      "surface": "על",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "אשמת",
+      "gloss": "قصور"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل دے"
+    }
+  ],
+  "timestamp": "2026-10-16T02:54:28.135070792Z",
+  "model": "glm-5.3"
+}

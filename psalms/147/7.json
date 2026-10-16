@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 147:7",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "بانت سبھا",
+      "rationale": "حکری صیغے — عبادت والیاں نوں گاؤن دا سدا"
+    },
+    {
+      "kind": "alternative",
+      "subject": "گاؤ",
+      "rationale": "عبرانی ענו 'جواب دینا\/آواز پا کے گاؤنا' — یلت 'جواب دیو' پڑھدا اے"
+    }
+  ],
+  "translation": "یاہوہ نوں شکر نال گاؤ، ساڈے ایلوہیم نوں کِنّور نال رل کے گاؤ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "197f8a025a94d4651a5cf12482eb14957af0c5edf2fc3d77d11688bba581a8f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/147\/5-8.1792114296576.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "گاؤ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ نوں"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "شکر نال"
+    },
+    {
+      "surface": "زמרו",
+      "gloss": "رل کے گاؤ"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "ساڈے ایلوہیم نوں"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "کِنّور نال"
+    }
+  ],
+  "timestamp": "2026-10-16T01:31:36.576802766Z",
+  "model": "glm-5.3"
+}

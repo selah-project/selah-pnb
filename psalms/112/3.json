@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 112,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ہووےگا",
+      "rationale": "عبرانی وِچ دَولت کڈھ کے رکھی اے، فعل نئیں"
+    }
+  ],
+  "translation": "دَولت تے مال ⟨ہووےگا⟩ اوہدے گھر وِچ، تے اوہدا سِدھپن ہمیشہ لئی کھلوندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d4924ae05067b5716ba309e8db4bc8e4802d406f50a70a7b1937889f1361042b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/112\/1-4.1792113678705.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "دَولت"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "تے مال"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "اوہدے گھر وِچ"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "تے اوہدا سِدھپن"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "کھلوندا اے"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ہمیشہ لئی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:21:18.706839980Z",
+  "model": "glm-5.3"
+}

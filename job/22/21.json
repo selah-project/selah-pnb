@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 22:21",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עמו — اوہدے نال",
+      "rationale": "‘اوہدے’ کون اے — ایلوہیم (زیادہ تر مترجم) یا ایوب؛ عبرانی صرف ضمیر اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "ہووے گی",
+      "rationale": "عبرانی فعل ⟨ہووے گی⟩ نوں لفظ نئیں دیندا، پنجابی چاہوندا اے۔"
+    },
+    {
+      "kind": "you",
+      "subject": "ایوب",
+      "rationale": "الیفاز ایوب نوں مخاطب کردا اے۔"
+    },
+    {
+      "kind": "invitation",
+      "subject": "جُڑ … امن کر",
+      "rationale": "حکم دی صورت وچ سدھا سدا۔"
+    }
+  ],
+  "translation": "ہن اوہدے نال جُڑ، منو، تے امن کر؛ ایہناں نال تیری آمد چنگی ہووے گی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "34839cc85820da0747e4c67d47dfa331b923642de585cf389a9635a1e295fc00",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/22\/21-24.1792115929251.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הסכן",
+      "gloss": "جُڑ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "منو"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "اوہدے نال"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "تے امن کر"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ایہناں نال"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "تیری آمد"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "چنگی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:58:49.252225373Z",
+  "model": "glm-5.3"
+}

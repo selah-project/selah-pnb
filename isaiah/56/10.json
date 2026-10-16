@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 56:10",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوہناں دے",
+      "rationale": "عبرانی وِچ چوکیداراں دی نسبت ماحول توں، پنجابی نوں اِلزام لگاؤنا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "הזים",
+      "rationale": "'خواب ویکھن والے' (ASV\/JPS) بمقابلہ KJV 'سُتے ہوئے' — ہزاراہ دا مطلب خواب دیکھݨا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "چوکیدار",
+      "rationale": "تصّفیم originals — اگّوں تک جھات مارن والے، پہریدار"
+    }
+  ],
+  "translation": "اوہناں دے چوکیدار اَنھے نیں، سارے؛ اوہناں نوں کجھ پتہ نئیں؛ سارے گونگے کُتے نیں، بھون نئیں سکدے؛ خواب ویکھن والے، لیٹے ہوئے، اُنگھݨ دے عاشق۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f935ac1ebd796e2ebd9258ba87f2a9fc9e1ea4cc8af1004bb213a40f5b71460d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/56\/9-12.1792106919925.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צפו",
+      "gloss": "چوکیدار"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "اَنھے"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "پتہ"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "כלבים",
+      "gloss": "کُتے"
+    },
+    {
+      "surface": "אלמים",
+      "gloss": "گونگے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "سکدے"
+    },
+    {
+      "surface": "לנבח",
+      "gloss": "بھوننے"
+    },
+    {
+      "surface": "הזים",
+      "gloss": "خواب ویکھن والے"
+    },
+    {
+      "surface": "שכבים",
+      "gloss": "لیٹے ہوئے"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "عاشق"
+    },
+    {
+      "surface": "לנום",
+      "gloss": "اُنگھݨ دے"
+    }
+  ],
+  "timestamp": "2026-10-15T23:28:39.926156504Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 147:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "زخم",
+      "rationale": "עצבות לفظی مورت اے 'دُکھ\/سوگ' — پر اوہدے جوڑ مچھی تے پٹی نال بجھے نیں، ایس لئی 'زخم' نیڑے دا مورت اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "اوہ",
+      "rationale": "عبرانی فاعل پچھلی آیت دا یاہوہ اے؛ پنجابی نوں پہلے فقرے وِچ ضمیر چاہیدی اے پر آیت سرحد نال رکھی"
+    }
+  ],
+  "translation": "دلاں دے ٹُٹے ہوئیاں نوں شفا دیندا اے، تے اوہناں دے زخماں نوں بنھدا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "cb78caf90e42f8052cac8ae819476a99a726aed4815ae9bd9e92bb6a0c62b24c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/147\/1-4.1792114283275.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרפא",
+      "gloss": "شفا دیندا اے"
+    },
+    {
+      "surface": "לשבורי",
+      "gloss": "دے ٹُٹے ہوئیاں نوں"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دلاں"
+    },
+    {
+      "surface": "ומחבש",
+      "gloss": "تے بنھدا اے"
+    },
+    {
+      "surface": "לעצבותם",
+      "gloss": "اوہناں دے زخماں نوں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:31:23.276465327Z",
+  "model": "glm-5.3"
+}

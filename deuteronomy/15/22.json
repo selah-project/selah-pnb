@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 15:22",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "هטמא\/הטהור",
+      "rationale": "عبرانی א-و-ת مَیلاں-پاکیاں صیغے نیں؛ پنجابی نے ⟨بندے⟩ دا wastewater بندہ ⟨⟩ وِچ پایا اے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ہرن کوآیلال",
+      "rationale": "צבי اَیلال دوویں ہرن-ٹبر دے جانور نیں؛ پنجابی وِچ دوہاں لئی اِک لفظ رلا کے دتا"
+    }
+  ],
+  "translation": "اپنے دروازیاں اندر اوہنوں کھاویں گے؛ پاک تے ہرام ⟨بندے⟩ رَل کے کھا سکدے نیں، جیویں ہرن کوآیلال دی طرح۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0ea7295fa22fc75518b5c887c1e9f1421aba56a51a88ad9c4d3587615c324aeb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/15\/21-23.1792099932089.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשעריך",
+      "gloss": "اپنے دروازیاں اندر"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "اوہنوں کھاویں گے"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "ہرام"
+    },
+    {
+      "surface": "وהטהור",
+      "gloss": "تے پاک"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "رَل کے"
+    },
+    {
+      "surface": "כצבי",
+      "gloss": "جیویں ہرن کوآیلال"
+    },
+    {
+      "surface": "وכאיל",
+      "gloss": "دی طرح"
+    }
+  ],
+  "timestamp": "2026-10-15T21:32:12.089823791Z",
+  "model": "glm-5.3"
+}

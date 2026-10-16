@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 38:8",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויבם",
+      "rationale": "لیویرات-ویاہ دا خاص فعل — 'بھرا دی بیوہ نال ویاہ کر'؛ ترجمے 'دَفترُل حق ادا کر' (KJV) یا 'ویاہ کر' — سِدھا فعل رکھیا اے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "זרע",
+      "rationale": "'بیج' سِدھا روپ اے؛ 'اولاد' وکالت دا روپ اے پر وتروں پکھ توں 'بیج' ہی اے (39:9 نال میل)"
+    }
+  ],
+  "translation": "تے یہوداہ نے اونان نُوں آکھیا: اپنے بھرا دی زنانی کول جا، تے اوہدے نال بھرا-بیوہ-ویاہ کر، تے اپنے بھرا لئی بیج کھڑی کر۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "050f0b471b391b5e231a87e422aaf5cc56773378379e15137b045e0b383221a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/38\/5-8.1792095706943.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ نے"
+    },
+    {
+      "surface": "לאונן",
+      "gloss": "اونان نُوں"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "جا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "زنانی"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "اپنے بھرا دی"
+    },
+    {
+      "surface": "ויבם",
+      "gloss": "بھرا-بیوہ-ویاہ کر"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "اوہدے نال"
+    },
+    {
+      "surface": "והקם",
+      "gloss": "کھڑی کر"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "بیج"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "اپنے بھرا لئی"
+    }
+  ],
+  "timestamp": "2026-10-15T20:21:46.945555394Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 3:4",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תעלולים",
+      "rationale": "ਸ਼ਬਦ-ਸ਼ਕਲ 'ضدی بچے' (babes of caprice) بمقابلہ 'شرارتی\/ظالم' — قالب دی شکل رکھی۔"
+    }
+  ],
+  "translation": "تے اسیں نِعاداں نوں اوہناں دا سردار بناؤں گا، تے ضدی بچے اوہناں اُتے راج کرن گے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "68546ba517ea2c83dba0696bae3637875c12a666b302bffd146ec30d44c082bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/3\/1-4.1792105814441.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "تے اسیں … بناؤں گا"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "نِعاداں نوں"
+    },
+    {
+      "surface": "שריהם",
+      "gloss": "اوہناں دا سردار"
+    },
+    {
+      "surface": "ותעלوלים",
+      "gloss": "تے ضدی بچے"
+    },
+    {
+      "surface": "ימשלו",
+      "gloss": "راج کرن گے"
+    },
+    {
+      "surface": "בם",
+      "gloss": "اوہناں اُتے"
+    }
+  ],
+  "timestamp": "2026-10-15T23:10:14.443409572Z",
+  "model": "glm-5.3"
+}

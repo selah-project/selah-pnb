@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 10:21",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ایہو",
+      "rationale": "عبرانی وِچ دہرائے ہوئے بقیہ دے وشکار تعین دی پیڑھی نئیں، پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שאר ישוב",
+      "rationale": "یہاں 'بقیہ واپس مُڑے گا' اوہو آواز اے جیہڑی اشعیاہ 7:3 دے پُتر دے ناں شاآر یاشوو وِچ اے — ناں تے اعلان اِکو بولی نیں"
+    },
+    {
+      "kind": "elision",
+      "subject": "גיבור",
+      "rationale": "حرف-نقل گِبور رکھیا گیا، پہلی واری وضاحت ⟨طاقتور ایل⟩ دتی گئی"
+    }
+  ],
+  "translation": "بقیہ واپس مُڑے گا، یعقوو دا ⟨ایہو⟩ بقیہ، ایل گِبور ⟨طاقتور ایل⟩ ول۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0edb7d33f5b0366564d447ac0e6df73b27e7c076fd9885fbde12317685757563",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/10\/21-24.1792106031533.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאר",
+      "gloss": "بقیہ"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "واپس مُڑے گا"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "بقیہ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ول"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "گِبور"
+    }
+  ],
+  "timestamp": "2026-10-15T23:13:51.533873599Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 17:10",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "המס ימס",
+      "rationale": "مصدر مطلق تے فعل دا دہراؤ — پگھریگا ای پگھریگا — شدت والی شکل اے"
+    },
+    {
+      "kind": "idiom",
+      "subject": "בן חיל",
+      "rationale": "لفظی ’بہادری دا پُتر‘ — پنجابی وِچ وی صورت رکھی اے، ’بہادر بندہ‘ دا مطلب اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אתו",
+      "rationale": "ایتھے H854 ’دے نال‘ اے، مفعول دا نشان نئیں — فیر وی ⟨את⟩ رکھیا گیا اے"
+    }
+  ],
+  "translation": "تے اوہ وی، بہادری دا پُتر جیہدا دل شیر دے دل وانگ اے، پگھریگا ای پگھریگا، کیونکہ سارا یِسرائیل جاندا اے کہ تیرا پیو بہادر اے تے بہادری دے پُتر نیں جیہڑے ⟨את⟩ اوہدے نال نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f92f1e4f1f5ec5d0ab0abe1b74466ac2b7b34eaf000104e85feeb1716055037d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/17\/9-12.1792103571644.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "تے اوہ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "بہادری"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہدا"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "دل"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "دل وانگ"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "شیر"
+    },
+    {
+      "surface": "המס",
+      "gloss": "پگھریگا ای"
+    },
+    {
+      "surface": "ימס",
+      "gloss": "پگھریگا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "جاندا اے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "بہادر"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "تیرا پیو"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "تے پُتر"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "بہادری"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑے"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "اوہدے نال"
+    }
+  ],
+  "timestamp": "2026-10-15T22:32:51.645091628Z",
+  "model": "glm-5.3"
+}

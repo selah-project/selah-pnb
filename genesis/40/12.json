@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 40:12",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اے⟩",
+      "rationale": "پنجابی نوں کریا چاہیدی اے، عبرانی وِچ کوئی نئیں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלשת…שלשת",
+      "rationale": "'تنّ… تنّ' دی دوہرائی — خواب دی کلید اوہو گنتی اے"
+    }
+  ],
+  "translation": "تے یوسف نے اوہنوں آکھیا: ایہہ اوہدا مطلب ⟨اے⟩: تنّ ٹاہݨیاں — تنّ دِناں نوں — اوہ ⟨ایہہ⟩ نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a8628611c0edbc6a7d9a212e4b176936238313896bd312950490f5a2071d3d39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/40\/9-12.1792095714155.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہنوں"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف نے"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "اوہدا مطلب"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "تنّ"
+    },
+    {
+      "surface": "השרגים",
+      "gloss": "ٹاہݨیاں"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "تنّ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دِناں نوں"
+    },
+    {
+      "surface": "הם",
+      "gloss": "اوہ نیں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:21:54.157915863Z",
+  "model": "glm-5.3"
+}

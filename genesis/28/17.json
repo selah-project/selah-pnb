@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 28:17",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אין זה כי אם",
+      "rationale": "عبرانی دا محاورہ ‘نئیں سِواے’ — لفظی ‘ایہہ نئیں کیونکہ جے’، پنجابی وِچ اِک اِکھا کیتا گیا۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "پنجابی دی ضمیر ‘اے’ عبرانی وِچ نئیں، جملہ بنن لئی پایا گیا۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בית אלהים",
+      "rationale": "بیت ایلوہیم — اگلی آیت وِچ ایھے نام بیت-ایل بن جاوے گا؛ پنجابی وِچ جوڑ گوا دیوا نئیں۔"
+    }
+  ],
+  "translation": "تے اوہ ڈر گیا تے آکھیا: کیہ خوفناک اے ایہہ تھاں! ایہہ نئیں سِواے بیت ایلوہیم، تے ایہہ اسماناں دا دروازہ اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "95d3350d114a51b409032a466a12d11f402b27bb4d9b32d0024f38c42bd145fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/28\/17-20.1792095419512.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "ڈر گیا"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "خوفناک"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "تھاں"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "سِواے"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨بلکہ⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "تے ایہہ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دروازہ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "اسماناں دا"
+    }
+  ],
+  "timestamp": "2026-10-15T20:16:59.520398922Z",
+  "model": "glm-5.3"
+}

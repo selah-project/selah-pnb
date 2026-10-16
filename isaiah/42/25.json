@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 42:25",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "روس",
+      "rationale": "אף سُچّا مطلب نَکّ\/نتھنے اے؛ غصے دی صورت وِچ 'روس' راہ دتی اے، مگر اِک پکا لفظ دی تھاں اے"
+    },
+    {
+      "kind": "idiom",
+      "subject": "دل اُتے نہ لیا",
+      "rationale": "על לב שׂים — 'دل اُتے رکھنا' عبرانی اِڈیؤم اے، پنجابی 'دل اُتے لیانا' دتا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "اپنا",
+      "rationale": "אפו دی پرائی گلاسی لئی پنجابی 'اپنا' چاہیدا سی"
+    }
+  ],
+  "translation": "تے اوہنے اوہدے اُتے اپنے اَکھرش دی گرمی، اپنا ਰوس، اَتے جنگ دی طاقت ٹُکی؛ تے اوہنے اوہنوں چاروں پاسوں اگّ نال للکایا، پر اوہ نہ جانیا؛ تے اوہدے وِچ بھڑکا، پر اوہ اوہنوں دل اُتے نہ لیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "96a66b88b65ba79abb49d0e756e37209f44c525613043685b4f8e7aadd1c6d31",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/42\/25-25.1792106649305.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישפך",
+      "gloss": "تے ٹُکی"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اوہدے اُتے"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "گرمی"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "اپنا ਰوس"
+    },
+    {
+      "surface": "ועזוז",
+      "gloss": "تے طاقت"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ دی"
+    },
+    {
+      "surface": "ותלהטהו",
+      "gloss": "تے للکایا"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "چاروں پاسوں"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "پر نہ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "جانیا"
+    },
+    {
+      "surface": "ותבער",
+      "gloss": "تے بھڑکا"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوہدے وِچ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "پر نہ"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "لیا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    }
+  ],
+  "timestamp": "2026-10-15T23:24:09.306071738Z",
+  "model": "glm-5.3"
+}

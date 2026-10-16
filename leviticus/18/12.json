@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 18:12",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ماس",
+      "rationale": "שאר لفظی روپ وِچ 'ماس\/گُوشت' اے — رشتے دا سگوں ویہار؛ 'نیڑے دی رشتے دار' روايتی نرمی اے"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ننگائی کھولھنا",
+      "rationale": "ערוה גלות — جنسی تعلق دا کنایہ"
+    }
+  ],
+  "translation": "تیرے پیو دی بھین دی ننگائی نہ کھولھ، اوہ تیرے پیو دا ماس ⟨اے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1024c7c36b88be9e668d61a1c67f471dcfdc591d7fed26ad0f667bdcf5c97d03",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/18\/9-12.1792097792203.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "ننگائی"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "بھین"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "تیرے پیو دی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "کھولھ"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "ماس"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "تیرے پیو دا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    }
+  ],
+  "timestamp": "2026-10-15T20:56:32.204483902Z",
+  "model": "glm-5.3"
+}

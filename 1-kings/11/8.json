@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 11:8",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "اوپریاں",
+      "rationale": "נכרי 'اوپرا\/بدیسی' — 'بیگانیاں' وی جائز اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "اپنیاں",
+      "rationale": "נשיו وِچ گروہی ضمیر اے، پنجابی صفت 'اپنیاں' اوہدے تھاں وکھری لکھی"
+    }
+  ],
+  "translation": "تے اویں اوہنے اپنیاں ساریاں اوپریاں تریمتاں لئی کیتا، جیہڑیاں اپنے دیوتاواں لئی خوشبو واپردیاں تے قربانی دیندیاں سن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e57c78e1f7c9fca019d2ef49a9ee66025e2be40748568ca4db381e7aae6d132a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/11\/5-8.1792104396830.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "تے اویں"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کیتا"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ساریاں لئی"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "اپنیاں تریمتاں"
+    },
+    {
+      "surface": "הנכריות",
+      "gloss": "اوپریاں"
+    },
+    {
+      "surface": "מקטירות",
+      "gloss": "خوشبو واپردیاں"
+    },
+    {
+      "surface": "ומזבחות",
+      "gloss": "تے قربانی دیندیاں"
+    },
+    {
+      "surface": "לאלהיהן",
+      "gloss": "اپنے دیوتاواں لئی"
+    }
+  ],
+  "timestamp": "2026-10-15T22:46:36.831684181Z",
+  "model": "glm-5.3"
+}

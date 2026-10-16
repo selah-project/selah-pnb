@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 11:30",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "عبرانی و‌ِچ کریا نئیں، پنجابی منگدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "اولاد",
+      "rationale": "ولد مطلب اے نویں جَمیا پتر\/بالا؛ اولاد آون والی کہانی دا مُڈھ اے"
+    }
+  ],
+  "translation": "تے سارای بانجھ سی، اوہدے کوئی اولاد نئیں سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e6f48ac4a94a4e9ee9cef3b9acbf058591b0f52dc402ee82a9a9724d10cfc8fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/11\/29-32.1792094940062.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "تے سی"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سارای"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "بانجھ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کوئی نئیں"
+    },
+    {
+      "surface": "לה",
+      "gloss": "اوہدے"
+    },
+    {
+      "surface": "ולד",
+      "gloss": "اولاد"
+    }
+  ],
+  "timestamp": "2026-10-15T20:09:00.063172575Z",
+  "model": "glm-5.3"
+}

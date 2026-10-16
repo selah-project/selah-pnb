@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "joshua 15:60",
+  "book": "joshua",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوہو … اے",
+      "rationale": "ہیبرو صرف היא رکھدا اے؛ پنجابی وضاحت لئی 'اوہو' تے 'اے' دتے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "دو شہر",
+      "rationale": "شہراں دی گنتی"
+    },
+    {
+      "kind": "crux",
+      "subject": "היא",
+      "rationale": "היא ناں دی پچھان کردا اے — 'ایہہ اوہو اے' بمقابلہ آسان 'یعنی'؛ پرانے شہر دا پرانا ناں دسیا گیا"
+    }
+  ],
+  "translation": "قِریت بعل — ایہہ اوہو قِریت یِعارِیم اے — تے ہَرابّہ: دو شہر تے اوہناں دے پنڈ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "79b8d69c71435e2884296c1ccdb0e54575faefbfa4b455ed1a366efcf0f6e840",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joshua\/15\/57-60.1792101082411.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרית",
+      "gloss": "قِریت"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "بعل"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ایہہ اوہو … اے"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "قِریت"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "یِعارِیم"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "تے ہَرابّہ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "تے اوہناں دے پنڈ"
+    }
+  ],
+  "timestamp": "2026-10-15T21:51:22.411945079Z",
+  "model": "glm-5.3"
+}

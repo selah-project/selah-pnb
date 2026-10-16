@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 15:11",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לתמם",
+      "rationale": "لفظی ”اپنے پورے وِچ” — مطلب بھولی بھالی بےگناہی، ترجمے ”بےگناہی” رکھیا"
+    },
+    {
+      "kind": "measurement",
+      "subject": "دَو سو بندے",
+      "rationale": "گنتی مَصرُوف اے — بلائے ہوئے دَو سو بندے"
+    }
+  ],
+  "translation": "تے ⟨את⟩ نال اَوشالوم دے یروشلایم توں دَو سو بندے گئے، بلائے ہوئے، تے اپنی بےگناہی وِچ ٹُردے، تے اوہناں نوں کِسے گل دا پتہ نئیں سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2f9b65b202d8697f061b683cabc6f35670a5f11505bf6137667edfca4e58158c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/15\/9-12.1792103506612.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ نال"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "اَوشالوم دے"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "گئے"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "دَو سو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "مירושלם",
+      "gloss": "یروشلایم توں"
+    },
+    {
+      "surface": "קראים",
+      "gloss": "بلائے ہوئے"
+    },
+    {
+      "surface": "והלכים",
+      "gloss": "تے ٹُردے"
+    },
+    {
+      "surface": "לתמם",
+      "gloss": "اپنی بےگناہی وِچ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "اوہناں نوں پتہ سی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کِسے"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گل"
+    }
+  ],
+  "timestamp": "2026-10-15T22:31:46.613905307Z",
+  "model": "glm-5.3"
+}

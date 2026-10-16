@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 21:27",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "נדן (میان)",
+      "rationale": "تلوار دے میان لئی ایہہ لفظ تنخ وِچ صرف ایتھے آیا اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "اوہدے",
+      "rationale": "נדנہ دی جزمی ضمیر پنجابی وچ 'اوہدے میان' نال ای ٹھیک ہوئی۔"
+    }
+  ],
+  "translation": "تے یاہوہ نے فرشتے نوں آکھیا، تے اُس نے اپنی تلوار اوہدے میان وِچ واپس پا لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "928737a46f07a8631d033b9545ebf962c6950f27276e7969288724f1fba6fb13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/21\/25-28.1792120990635.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ نے"
+    },
+    {
+      "surface": "למלאך",
+      "gloss": "فرشتے نوں"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "تے واپس پا لئی"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "اپنی تلوار"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "נדנה",
+      "gloss": "اوہدے میان"
+    }
+  ],
+  "timestamp": "2026-10-16T03:23:10.636552736Z",
+  "model": "glm-5.3"
+}

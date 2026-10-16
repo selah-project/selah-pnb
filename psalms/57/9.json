@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עורה\/אעירה",
+      "rationale": "تن بار 'جاگ' دی آواز، عبرانی وِچ تِن واری اوہو جڑ، پنجابی وِچ وی دہرایا گیا۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "شچر",
+      "rationale": "'میں سویر نوں جگاواں گا' (سویر اک بینڈے وانگ) بمقابلہ 'میں سویر چڑھن توں پہلاں جاواں گا' — دوویں پڑھائیاں نیں۔"
+    },
+    {
+      "kind": "hapax",
+      "subject": "ہے نیبیل",
+      "rationale": "ہے نیبیل عبرانی ہنر اے، دوجے پاسے کِنّور؛ پنجابی جملے لئی پکار والا 'ہے' ⟨⟩ توں باہر پایا گیا۔"
+    },
+    {
+      "kind": "you",
+      "subject": "اجیہے نبی نوں",
+      "rationale": "بولی اپنے جلال تے وجن والیاں نوں سدّدا اے۔"
+    },
+    {
+      "kind": "invitation",
+      "subject": "جاگ",
+      "rationale": "حکم دی شکل نال سدّا — ویکن نوں جگاؤن دا۔"
+    }
+  ],
+  "translation": "جاگ، میرا جلال، جاگ، ہے نیبیل تے ہے کِنّور؛ میں سویرے نوں جگاواں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "88b234e884a18acd4462a9af204869aa65553829ce71268139fe7702a98395d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/57\/9-12.1792112664137.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "جاگ"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "میرا جلال"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "جاگ"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "ہے نیبیل"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "تے ہے کِنّور"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "میں جگاواں گا"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "سویرے نوں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:04:24.137607843Z",
+  "model": "glm-5.3"
+}

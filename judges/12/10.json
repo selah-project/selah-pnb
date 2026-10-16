@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 12:10",
+  "book": "judges",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوہنوں",
+      "rationale": "נקבר غیرمباشر صورت اے — پنجابی 'اوہنوں دفنا گیا' لئی مفعول منگدا اے۔"
+    }
+  ],
+  "translation": "تے اِبصان مر گیا تے اوہنوں بیت-لہم وِچ دفنا گیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "390e0e866fa2330430cbbe6ea86daa0bd30d64931aeefe742b6463b778cf585f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/judges\/12\/9-12.1792101762597.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "تے مر گیا"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "اِبصان"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "تے دفنا گیا"
+    },
+    {
+      "surface": "بבית",
+      "gloss": "بیت-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لہم"
+    }
+  ],
+  "timestamp": "2026-10-15T22:02:42.598419378Z",
+  "model": "glm-5.3"
+}

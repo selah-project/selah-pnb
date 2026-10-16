@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 7:4",
+  "book": "song-of-songs",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نیں",
+      "rationale": "عبرانی وِچ کوپلا نئیں، پنجابی واک اِس لئی 'نیں' پایا۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שני … תאמי",
+      "rationale": "'دو' تے 'جُڑواں' دی سانجھ — عبرانی وِچ שני\/תאמی دی آہز نال گنتی والی لَے اے۔"
+    }
+  ],
+  "translation": "تیرے دو چھاتیاں دو چِترے وانگوں نیں، اِک گزیل دے جُڑواں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "64ce6cd2d6a1f5e11738c4c9da89684b1d7739574dcc86367b122a1426b72231",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/song-of-songs\/7\/1-4.1792116882313.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שני",
+      "gloss": "دو"
+    },
+    {
+      "surface": "שדיך",
+      "gloss": "تیرے چھاتیاں"
+    },
+    {
+      "surface": "כשני",
+      "gloss": "دو … وانگوں"
+    },
+    {
+      "surface": "עפרים",
+      "gloss": "چِترے"
+    },
+    {
+      "surface": "תאמי",
+      "gloss": "جُڑواں"
+    },
+    {
+      "surface": "צביה",
+      "gloss": "اِک گزیل"
+    }
+  ],
+  "timestamp": "2026-10-16T02:14:42.314326671Z",
+  "model": "glm-5.3"
+}

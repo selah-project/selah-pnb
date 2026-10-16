@@ -1,0 +1,137 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 15:7",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "اسرائیل نوں",
+      "rationale": "پورا حکم مخاطب واحد نال — تُوں نئیں کریں گا۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "کوئی",
+      "rationale": "عبرانی وِچ کوئی نئیں، پنجابی جملے لئی دِتا۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אביון … האביון",
+      "rationale": "آیت دے دووے سِروں غریب دا لفظ — چوکور ڈھانچہ۔"
+    }
+  ],
+  "translation": "کیوں جے تیرے وِچ کوئی غریب ہووے، تیرے بھراواں وِچوں اِک، تیرے دروازےآں وِچوں اِک وِچ، تیری زمین وِچ جیہڑی یاہوہ تیرا ایلوہیم تینوں دیندا اے، تے تُوں ⟨את⟩ اپنا دل نئیں سخت کریں تے نہ ⟨את⟩ اپنا ہتھ اپنے غریب بھرا توں بند کریں،",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "28b1fff41988a6bfadd7cdf73b8731394c6aa4151dbf25580eaa81edede5fdcb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/15\/5-8.1792100044950.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جے"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہووے"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تیرے وِچ"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "کوئی غریب"
+    },
+    {
+      "surface": "מאחד",
+      "gloss": "وِچوں اِک"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "تیرے بھراواں"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "اِک وِچ"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "تیرے دروازےآں"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "تیری زمین وِچ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تیرا ایلوہیم"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دیندا اے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تینوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תאמץ",
+      "gloss": "سخت کریں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنا دل"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "اپنا دل"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תקפץ",
+      "gloss": "بند کریں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنا ہتھ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "اپنا ہتھ"
+    },
+    {
+      "surface": "מאחיך",
+      "gloss": "اپنے بھرا توں"
+    },
+    {
+      "surface": "האביון",
+      "gloss": "غریب"
+    }
+  ],
+  "timestamp": "2026-10-15T21:34:04.951651824Z",
+  "model": "glm-5.3"
+}

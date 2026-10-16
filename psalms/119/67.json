@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 119:67",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "دُکھ سہّیا",
+      "rationale": "ענה دا مول مطلب 'دبایا\/تھکیا' — ترجمے ' afflicted' دسدے نیں، لفظ ودھیرے کھلا اے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "پہلاں میں بھُکھ نال جِتیا",
+      "rationale": "ענה دا پہلا مطلب، پر سیاق تے 'دُکھ سہّنا' ودھیرے قدرتی"
+    }
+  ],
+  "translation": "טרם ਮیں دُکھ سہّیا، میں رستے بھُلیا سی، پر ہن میں تیرا بچن منّیا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "295c5fedf81a2f6ab28bc09a73b62f9eaa5dd778958f4d309f4eeb595176a8f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/119\/65-68.1792113853595.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טרם",
+      "gloss": "ਘر"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "میں دُکھ سہّیا"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "שגג",
+      "gloss": "رستے بھُلیا سی"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "پر ہن"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "تیرا بچن"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "میں منّیا اے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:24:13.596278794Z",
+  "model": "glm-5.3"
+}

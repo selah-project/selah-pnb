@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 34:5",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "רותה",
+      "rationale": "'سیراب' — عبرانی وِچ تلوار دا لہو پینا پیاس بجھانے ورگا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חרמי",
+      "rationale": "חרם حرام کیتی ہوئی شے اے — وبال\/فنا کرن لئی وقف"
+    },
+    {
+      "kind": "you",
+      "subject": "ہیںנה",
+      "rationale": "سُنیاں نوں مخاطب کر کے ویکھو دا اعلان"
+    }
+  ],
+  "translation": "کیوں جو اسماناں وِچ میری تلوار سیراب ہوئی اے؛ ویکھو، اوہ ادوم اُتے اتریگی، تے میری حرام کیتی قوم اُتے، فیصلے لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "51766db3d86bbdc89dfd6cee9811e070c6635de387aa77ff4ae8f89f0a4372ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/34\/5-8.1792106586257.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "רותה",
+      "gloss": "سیراب ہوئی اے"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "اسماناں وِچ"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "میری تلوار"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ویکھو"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ادوم"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "اتریگی"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "חרמי",
+      "gloss": "میری حرام کیتی"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "فیصلے لئی"
+    }
+  ],
+  "timestamp": "2026-10-15T23:23:06.258295183Z",
+  "model": "glm-5.3"
+}

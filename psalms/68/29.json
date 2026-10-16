@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 68:29",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ایہو",
+      "rationale": "زو پڑھ وِچ اے پر پنجابی جملے لئی وکھرا چُکنا ٹھیک لگیا"
+    },
+    {
+      "kind": "crux",
+      "subject": "עוזה",
+      "rationale": "مُرکب فعل: 'زور کر' (یلت\/جےپیئیس) بمقابلہ 'زور منگ' (کےجےوی) — متیں پہلے پاسے رکھیا"
+    }
+  ],
+  "translation": "تیرے ایلوہیم نے تیرا زور حکم کیتا اے؛ اے ایلوہیم، زور کر — ⟨ایہو⟩ جیہڑا تُوں سانوں کم کیتا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2370dfcffe6a436facc24f2f75ec82f5be09e01dc89cb952d8319197ecf0aca4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/68\/29-32.1792112929374.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "حکم کیتا اے"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تیرے ایلوہیم نے"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "تیرا زور"
+    },
+    {
+      "surface": "עוזה",
+      "gloss": "زور کر"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "اے ایلوہیم"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ایہو"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "کم کیتا اے"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "سانوں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:08:49.375241873Z",
+  "model": "glm-5.3"
+}

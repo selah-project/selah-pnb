@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 74:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "למשאות נצח",
+      "rationale": "کجھ ترجمے 'ہمیشہ دیاں وِیرانیاں ول جا' آکھدے نیں، کجھ 'وِیرانیاں نوں ہمیشہ لئی مکا دے'"
+    },
+    {
+      "kind": "addition",
+      "subject": "نے",
+      "rationale": "عبرانی وِچ فاعلی نشان نئیں، پنجابی فعل منگدا اے"
+    }
+  ],
+  "translation": "اپنیاں پَیراں ⟨چُکّ⟩ ہمیشہ دیاں وِیرانیاں ول؛ سب کجھ جو دشمن نے مقدس تھاں وِچ برائی نال بگاڑیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "064e49d03dbdcc4cffb63d4566098b25fe5a5867a68e7e0fa3d7ad05241f9919",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/74\/1-4.1792113051669.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרימה",
+      "gloss": "چُکّ"
+    },
+    {
+      "surface": "פעמיך",
+      "gloss": "اپنیاں پَیراں"
+    },
+    {
+      "surface": "למשאות",
+      "gloss": "وِیرانیاں ول"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "ہمیشہ دیاں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب کجھ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "برائی نال بگاڑیا"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "دشمن نے"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "مقدس تھاں وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:10:51.670317301Z",
+  "model": "glm-5.3"
+}

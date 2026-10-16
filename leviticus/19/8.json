@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 19:8",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جان اے — `روح` نئیں"
+    }
+  ],
+  "translation": "تے اوہدے کھان والے اوہدا قص چکن گے، کیونکہ اوہناں نے ⟨את⟩ یاہوہ دے مقدس ⟨شیء⟩ نوں پلیت کیتا؛ تے اوہ جان اپنی قوم وِچوں کاٹی جاوے گی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d5afeb929d4b000f574ca67650360a92ee191ae9b8594ea880768493d7a8ff5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/19\/5-8.1792097866168.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכליו",
+      "gloss": "تے اوہدے کھان والے"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "اوہدا قص"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "چکن گے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ دا مقدس"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دا"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "پلیت کیتا"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "تے کاٹی جاوے گی"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "اوہ جان"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "اپنی قوم وِچوں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:57:46.169764796Z",
+  "model": "glm-5.3"
+}

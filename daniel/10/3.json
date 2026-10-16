@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 10:3",
+  "book": "daniel",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "וסוך — تیل",
+      "rationale": "عبرانی کولوں 'سرھاںں لینا' یعنی تیل نال مسح کرنا اے؛ 'تیل لایا' ودیا کولوں اے۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "تِن ہفتیاں دِناں دے",
+      "rationale": "دوبارہ گنتی — وراثت نال بجھی ہوئی مِدت۔"
+    }
+  ],
+  "translation": "میں پسندیدہ روٹی نئیں کھادی، نہ ماس تے شراب میرے مُوہں وِچ آئی، تے میں تیل نئیں لایا، جد تک تِن ہفتیاں دِناں دے پُوریاں نئیں ہو گئیاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3aca032882614d295d1faee0573a2bd2d25aea6b0d8d6debb9afed6192c51bf0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/daniel\/10\/1-4.1792118719747.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "روٹی"
+    },
+    {
+      "surface": "חמדות",
+      "gloss": "پسندیدہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "میں کھادی"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "تے ماس"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "تے شراب"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آئی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "میرے مُوہں"
+    },
+    {
+      "surface": "וסוך",
+      "gloss": "تے تیل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "סכתי",
+      "gloss": "میں لایا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "جد تک"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "پُوریاں ہو گئیاں"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "تِن"
+    },
+    {
+      "surface": "שבועים",
+      "gloss": "ہفتیاں"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دِناں دے"
+    }
+  ],
+  "timestamp": "2026-10-16T02:45:19.748273259Z",
+  "model": "glm-5.3"
+}

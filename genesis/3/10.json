@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "آں \/ گیا",
+      "rationale": "عبرانی دے مختصر فعل پنجابی وِچ پورے ٹسّ نال چاہیدے نیں"
+    }
+  ],
+  "translation": "تے اوہنے آکھیا: میں ⟨את⟩ تیرا کوݪ باغ وِچ سنیا تے میں ڈر گیا، کیونجہ میں ننگا آں، تے میں آپ نوں لکا لیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "703b82f66348f46dda85bfc56d513db0b776617151ac51414debac6bff4db2e7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/3\/9-12.1792094646938.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تیرا کوݪ"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "تیرا کوݪ"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "میں سنیا"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "باغ وِچ"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "تے میں ڈریا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "ننگا"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "تے میں لکا گیا"
+    }
+  ],
+  "timestamp": "2026-10-15T20:04:06.939712323Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 31:11",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "سوگندھی دھوآں",
+      "rationale": "קטרת دھوئیں دی قربانی اے — بھاہ اُتے چاڑھیا خوشبو؛ ’خوشبو‘ اکلا ادھورا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "کرنگے",
+      "rationale": "יעשו مستقل صیغہ وی ہو سکدا اے تے حکم وی — ’بنایا کرن‘ اوہناں دوہاں نوں جوڑدا اے"
+    }
+  ],
+  "translation": "تے ⟨את⟩ مسح دا تیل، تے ⟨את⟩ خوشبودار خوشبو دا سوگندھی دھوآں مقدس تھاں لئی — جِنّا میں تینوں حکم دتا اے، اوہ اوہناں نوں بنایا کرنگے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "954780386d6db2e9d459ab92924b3a38a6765780df5f0200aa7314a42a55e1d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/31\/9-12.1792096968486.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "مسح دا تیل"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "تیل"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "مسح"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "خوشبودار خوشبو دا سوگندھی دھوآں"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "سوگندھی دھوآں"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "خوشبودار خوشبو"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "مقدس تھاں لئی"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "جِنّا"
+    },
+    {
+      "surface": "אשر",
+      "gloss": "⟨جو⟩"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "میں تینوں حکم دتا اے"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "اوہ بنایا کرنگے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:42:48.487145685Z",
+  "model": "glm-5.3"
+}

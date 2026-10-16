@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 51:7",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جمیا ہاں",
+      "rationale": "חוללתی دا مول چِکھڑنا\/بھنوالی کرنا اے — جم دی تِکھی تصویر، پنجابی وِچ صرف 'جمیا' رہِ گا"
+    }
+  ],
+  "translation": "ویکھ، گناہ وِچ میں جمیا ہاں، تے خطا وِچ میری ماں مینوں پیٹ وِچ رکھیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0e766f8045ad1ee404c5cb4d09eb034c4e86bb35eb7569190358b3c6579dca1a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/51\/5-8.1792112654382.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ویکھ"
+    },
+    {
+      "surface": "בעוון",
+      "gloss": "گناہ وِچ"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "میں جمیا ہاں"
+    },
+    {
+      "surface": "ובחטא",
+      "gloss": "تے خطا وِچ"
+    },
+    {
+      "surface": "יחמתני",
+      "gloss": "مینوں پیٹ وِچ رکھیا"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "میری ماں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:04:14.383136522Z",
+  "model": "glm-5.3"
+}

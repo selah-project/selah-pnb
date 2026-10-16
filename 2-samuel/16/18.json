@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 16:18",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לא אהיה",
+      "rationale": "متن وِچ ‘نئیں میں ہوواں’ پڑھدے جو دِکھدا نئیں؛ بہوتیاں دی نظر وِچ لو یاהیہ ⟨اُوہدا ہی میں ہوواں⟩ اے، یَلٹَ\/کےجےویں وی ایدائی لے چکے نیں"
+    },
+    {
+      "kind": "elision",
+      "subject": "ואתו",
+      "rationale": "ایہہ עם نال والا اے (H854 ‘اُوہدے نال’)، مُفعول دا نشان نئیں — فیر وی نشان ⟨את⟩ رکھیا گیا اے"
+    },
+    {
+      "kind": "secret",
+      "subject": "حوشائی دی دوہری بولی",
+      "rationale": "حوشائی دے لفظ اوشالوم نوں دسدے نیں پر داوِد ولے پڑھائے جاندے نیں"
+    }
+  ],
+  "translation": "تے حوشائی نے اوشالوم نوں آکھیا: نئیں، سگوں جِہنوں یاہوہ نے چنیا، تے ایہہ قوم، تے سارے یِسرائیل دے جوان — ⟨اُوہدا⟩ ہی میں ہوواں، تے ⟨את⟩ اُوہدے نال رہواں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a5dada841d873b00fd59d8a13bdecf5a536ba3c14fa74285ef6a9dcf02ae47eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/16\/17-20.1792103570323.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "حوشائی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "اوشالوم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "سگوں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جِہنوں"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "چنیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "تے قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سارے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "جوان"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨اُوہدا⟩"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "میں ہوواں"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "تے ⟨את⟩ اُوہدے نال"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "رہواں گا"
+    }
+  ],
+  "timestamp": "2026-10-15T22:32:50.323838949Z",
+  "model": "glm-5.3"
+}

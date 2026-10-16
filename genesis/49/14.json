@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 49:14",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חמר גרם",
+      "rationale": "'ہڈیاں والا گدا' (جے پی ایس) بمقابلہ 'تکڑا گدا' (کے جے وی) — لفظی صورت 'گوں-ہڈی' اے، رکھیا گیا۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "המשפתים",
+      "rationale": "دوہرا صیغہ — 'مال-موریاں' بمقابلہ 'بھیڈاں دے واڑ' — لفظی شکلاں جوڑ کے رکھیاں نیں۔"
+    }
+  ],
+  "translation": "یساکار ہڈیاں والا گدا اے، جیہڑا دو مال-موریاں ⟨دے⟩ وچکار لیٹدا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a765db9d8f7e6499de592b4b7d254fb16c3bf7299eb54e08f70cfc5ffd9c672e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/49\/13-16.1792096086847.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יששכר",
+      "gloss": "یساکار"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "گدا"
+    },
+    {
+      "surface": "גרם",
+      "gloss": "ہڈیاں والا"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "لیٹدا اے"
+    },
+    {
+      "surface": "בין",
+      "gloss": "وچکار"
+    },
+    {
+      "surface": "המשפתים",
+      "gloss": "دو مال-موریاں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:28:06.848491020Z",
+  "model": "glm-5.3"
+}

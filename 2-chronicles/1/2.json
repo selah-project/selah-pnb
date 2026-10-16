@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 1:2",
+  "book": "2-chronicles",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נשיא",
+      "gloss-note": "",
+      "rationale": "'ناثی' = اُچا کیتا ہویا، سردار — بادشاہ یا شیخ، 'گورنر' نئیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ראשי האבות",
+      "rationale": "'باپاں دے مُرید' — گھرانیاں\/قبیلےآں دے مُکھی، 'مُریداں' توں 'گھراں دے' وادھو وضاحت"
+    }
+  ],
+  "translation": "تے شلوموہ نے سارے یِسرائیل نال گل کیتی — ہزاراں دے سرداراں نال، سوآں دے نال، قاضیاں نال، تے سارے یِسرائیل دے ہر ناثی نال، گھراں دے مُریداں نال۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "74a559d3fb215ed5566435f912a8be0f953b235e04da055d2384f22a2279d1ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/1\/1-4.1792121500754.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلوموہ نے"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "سرداراں نال"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "ہزاراں دے"
+    },
+    {
+      "surface": "והמאות",
+      "gloss": "تے سوآں دے"
+    },
+    {
+      "surface": "ולשפטים",
+      "gloss": "تے قاضیاں نال"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "تے سارے"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ناثی"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل دے"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "مُریداں"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "گھراں\/باپاں دے"
+    }
+  ],
+  "timestamp": "2026-10-16T03:31:40.755002334Z",
+  "model": "glm-5.3"
+}

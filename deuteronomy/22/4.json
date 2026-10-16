@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 22:4",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "سِدھا حکم گواہ نوں — 'نئیں ویکھیں'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הקם תקים",
+      "rationale": "مصدر مطلق تے فعل اِکو جڑ توں — 'اُٹھا کے اُٹھائیں'، پکی تاکید"
+    }
+  ],
+  "translation": "نئیں ویکھیں ⟨את⟩ تیرے بھرا دی خچر یا اُس دا بیل راہے وِچ ڈگے ہوئے، تے اوہناں توں اکھ پھیر لئیں؛ اُٹھا کے اُٹھائیں اُس دے نال۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5ac9a73a6cec47aec85e53dab9b9141d9ee06032c09bc004bad12048237c28e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/22\/1-4.1792100249883.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ویکھیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تیرے بھرا دی خچر"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "خچر"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "تیرے بھرا دی"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "שורו",
+      "gloss": "اُس دا بیل"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "ڈگے ہوئے"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "راہے وِچ"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "تے اکھ پھیر لئیں"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "اوہناں توں"
+    },
+    {
+      "surface": "הקם",
+      "gloss": "اُٹھا کے"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "اُٹھائیں"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "اُس دے نال"
+    }
+  ],
+  "timestamp": "2026-10-15T21:37:29.885018088Z",
+  "model": "glm-5.3"
+}

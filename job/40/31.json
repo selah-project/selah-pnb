@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 40:31",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "بھالے",
+      "rationale": "צלצל مُڈھ 'جھنکار\/بھنکار' — اتھے مچھی پھڑن والا نوکیلا بھالا مراد اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "کی … جا سکدی",
+      "rationale": "سوال تے اہلیت عبرانی دے هـ سوالی جز توں آندی اے، پنجابی وچ وضاحت چاہیدی"
+    }
+  ],
+  "translation": "⟨کی⟩ اوہدی کھل برچھیاں نال بھری جا سکدی اے، جاں اوہدا سر مچھی دے بھالیاں نال؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "26f5f4d136ad7fce20d7e1a277e0e6ac80ad39bc2a91ee078ed41cb8ad21ae26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/40\/29-32.1792116583315.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "התמלא",
+      "gloss": "بھری جا سکدی اے"
+    },
+    {
+      "surface": "בשכות",
+      "gloss": "برچھیاں نال"
+    },
+    {
+      "surface": "עורו",
+      "gloss": "اوہدی کھل"
+    },
+    {
+      "surface": "ובצלצל",
+      "gloss": "تے بھالیاں نال"
+    },
+    {
+      "surface": "דגים",
+      "gloss": "مچھی دے"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "اوہدا سر"
+    }
+  ],
+  "timestamp": "2026-10-16T02:09:43.316656059Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 26:10",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ہے",
+      "rationale": "عبرانی وِچ کوپلا نئیں، پنجابی نوں فعل چاہیدا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "זמה",
+      "rationale": "'ماڑی سکیم\/ودھیچاری' — ترجمے 'mischief' تے 'wicked device' وچ ونڈے ہوئے نیں"
+    }
+  ],
+  "translation": "جہناں دے ہتھاں وِچ ودھیچاری اے، تے اوہناں دا سجا ہتھ رشوت نال بھریا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8abf0f1c75d1ad7f331abc0dd0de1a9916fb9243d0c731aa7052472fa2c06bb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/26\/9-12.1792112134217.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "جہناں"
+    },
+    {
+      "surface": "בידיהם",
+      "gloss": "اوہناں دے ہتھاں وِچ"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "ودھیچاری"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "تے اوہناں دا سجا ہتھ"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "بھریا اے"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "رشوت نال"
+    }
+  ],
+  "timestamp": "2026-10-16T00:55:34.217978412Z",
+  "model": "glm-5.3"
+}

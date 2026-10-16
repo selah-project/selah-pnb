@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 35:16",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מעוג",
+      "rationale": "مَعُوگ تنخ وِچ صرف ایتھے — مول 'روٹی دا ٹکڑا\/خوان'؛ 'دعوتاں' سیاق دی سمجھ اے۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "מעוג",
+      "rationale": "'feast-mockers' (KJV) بمقابلہ JPS 'backbiting' — ٹکڑے دی تصویر نال جُڑنا کھلا سوال اے۔"
+    }
+  ],
+  "translation": "منافقاں دے وِچ، دعوتاں دے ہسّے ٹھٹھے کردیاں، اوہ اپنے دند میرے خلاف پیسدے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1842c0a78bc403ba192c1e93d5d063e626a9f2b51a241a50d61b744a063ac05e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/35\/13-16.1792112301997.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחנפי",
+      "gloss": "منافقاں دے وِچ"
+    },
+    {
+      "surface": "לעגי",
+      "gloss": "ٹھٹھے کردیاں"
+    },
+    {
+      "surface": "מעוג",
+      "gloss": "دعوتاں دے"
+    },
+    {
+      "surface": "חרק",
+      "gloss": "پیسدے نیں"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "میرے خلاف"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "اوہناں دے دند"
+    }
+  ],
+  "timestamp": "2026-10-16T00:58:21.998960026Z",
+  "model": "glm-5.3"
+}

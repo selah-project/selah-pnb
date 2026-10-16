@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אתי",
+      "rationale": "'میرے نال' (ASV\/BSB) بمقابلہ 'میرے لئی' — עם نال 'نال' والا مطلب زور دتا"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תעשון \/ תעשו",
+      "rationale": "دوہری ممانعت اِکو فعل دے دو صیغیاں نال — چکلی سٹرکچر پنجابی وِچ 'نہ بناؤ… نہ بناؤ' نال رکھیا"
+    }
+  ],
+  "translation": "میرے نال ⟨את⟩ چاندی دے ایلوہیم تے سونے دے ایلوہیم نہ بناؤ — اپنے آپ لئی نہ بناؤ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "598982cf26ea88b589891e70f8c1b4f6725367465155bc69cbe58aa5e3d6d2bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/20\/21-24.1792096599016.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "بناؤ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "میرے نال ⟨את⟩"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندی"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "تے ایلوہیم"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "بناؤ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "اپنے آپ لئی"
+    }
+  ],
+  "timestamp": "2026-10-15T20:36:39.017720631Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מסה\/נסיתם",
+      "rationale": "تھاں دا ناں מסה اوہدے ہی جذر ن-ס-ה نال جُڑیا اے — 'آزمائش وِچ آزمایا' دا کھیل۔"
+    },
+    {
+      "kind": "you",
+      "subject": "اسرائیل",
+      "rationale": "دوجی Person جمع دا حکم، مَسّاہ دی گل یاد کروا کے۔"
+    }
+  ],
+  "translation": "اپنے ⟨את⟩ یاہوہ ایلوہیم نوں آزمائش وِچ نہ پاؤ، جیویں تساں اَور مَسّاہ وِچ آزمایا سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7594844095c98708fa98b750ee367d9e02bf6867226e3984820ff4410f59c518",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/6\/13-16.1792099670916.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "آزمائش وِچ پاؤ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "اپنے ایلوہیم"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "آزمایا سی"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "مَسّاہ وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T21:27:50.917945864Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 31:21",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עזרתי בשער",
+      "rationale": "‘دروازے وِچ میری مدت ویکھی’ — یعنی عدالت دے دروازے اُتے ویکھیا جو میں یتیم اُتے ودھیک پاسے واں؛ کجھ مترجم پڑھدے نیں ‘میری مدد’ یتیم دے حق وِچ، کجھ ‘میرا پہلو’ ۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "اپنا",
+      "rationale": "پنجابی ہتھ نال پہلو منگدی اے، عبرانی وِچ صرف یדی اے۔"
+    }
+  ],
+  "translation": "جے میں یتیم اُتے اپنا ہتھ لہرایا، کیوں جو میں نے دروازے وِچ میری مدد ویکھی؛",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e62f837fbc4509f27d6f303164333111b49ce26198068a34fb6172b3f91ae074",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/31\/21-24.1792116180341.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "הניפותי",
+      "gloss": "میں نے لہرایا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "یتیم"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "اپنا ہتھ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "میں نے ویکھی"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "دروازے وِچ"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "میری مدد"
+    }
+  ],
+  "timestamp": "2026-10-16T02:03:00.341562826Z",
+  "model": "glm-5.3"
+}

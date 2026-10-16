@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "lamentations 3:28",
+  "book": "lamentations",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נטל",
+      "rationale": "کاجے 'اوہ (خدا) نے اوہدے اُتے چُکیا' یا 'اوہ چُک چُکیا' — موضوع عبرانی وِچ نئیں دسیا"
+    },
+    {
+      "kind": "addition",
+      "subject": "اوہ",
+      "rationale": "כיא־נטל دا موضوع عبرانی وِچ گم اے، پنجابی لئی شامل کیتا"
+    }
+  ],
+  "translation": "اِکلو بیٹھے تے چُپ رہے، کیوں جے ⟨اوہ⟩ اوہدے اُتے چُکیا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b248cd7e741a04abc857fea2bf6b8b493e579edf1a0a2ed5d559d397e54e71b6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/lamentations\/3\/25-28.1792117143829.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "بیٹھے"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "اِکلو"
+    },
+    {
+      "surface": "וידם",
+      "gloss": "تے چُپ رہے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جے"
+    },
+    {
+      "surface": "נטל",
+      "gloss": "چُکیا"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اوہدے اُتے"
+    }
+  ],
+  "timestamp": "2026-10-16T02:19:03.830413233Z",
+  "model": "glm-5.3"
+}

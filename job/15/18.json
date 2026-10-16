@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 15:18",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨لوک⟩",
+      "rationale": "پنجابی جمع دی صاف سمجھ لئی 'دانا' نال 'لوک' پایا — عبرانی وِچ صفت ہی جمع اے۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "מאבותם",
+      "rationale": "'اپنے پیواں توں' — کجھ مترجم 'اپنے پیواں کولوں سُنیا' پڑھدے نیں، یعنی پیوواں نے دسیا؛ دوویں مطالعے موجود نیں۔"
+    }
+  ],
+  "translation": "جو دانا ⟨لوک⟩ دسدے نیں، تے اپنے پیواں توں نئیں لُکایا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "045d62d856cd4937b69d0bd74c781a588eb5979e5f4713ca197c41810b2f1809",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/15\/17-20.1792115835825.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "دانا"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "دسدے نیں"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "כחדו",
+      "gloss": "لُکایا"
+    },
+    {
+      "surface": "מאבותם",
+      "gloss": "اپنے پیواں توں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:57:15.825905986Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 124,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "بندے",
+      "rationale": "אדם نسلی سgeneric نسلی اسم اے، 'انسان\/آدم دی اولاد'؛ 'بندے' عام صیغہ دتا"
+    }
+  ],
+  "translation": "جے یاہوہ ساڈے ⟨لئی⟩ نہ ہوندا، جد بندے ساڈے اُتے چڑھ کھلوندے،",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "646c456f53e3f44dafbf952afe823ed620272788a889bbda1712b861c0f4c190",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/124\/1-4.1792113996392.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "جے … نہ ہوندا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "ہوندا"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ساڈے ⟨لئی⟩"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "چڑھ کھلوندے"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ساڈے اُتے"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "بندے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:26:36.392954601Z",
+  "model": "glm-5.3"
+}

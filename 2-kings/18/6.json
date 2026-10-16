@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 18:6",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "וידבק",
+      "rationale": "'چمبڑیا' — چپکن دا حرفی منظر رکھیا، 'وفادار رہا' ورگا مطلب نئیں"
+    },
+    {
+      "kind": "addition",
+      "subject": "نوں",
+      "rationale": "مفعول دا پچھیتر پنجابی گرامر لئی"
+    }
+  ],
+  "translation": "تے اوہ یاہوہ نال چمبڑیا رہا، اوہدے پچھوں توں نئیں مُڑیا، تے اوہدی ہدایتاں نوں منیں جیہڑیاں یاہوہ نے ⟨את⟩ موشے نوں دتیاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f9ecda6c511acc5c8d9e2ff185d30b54354310136802932755bcd8d7183d15c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/18\/5-8.1792105426347.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבק",
+      "gloss": "تے چمبڑیا رہا"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "یاہوہ نال"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "סר",
+      "gloss": "مُڑیا"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "اوہدے پچھوں توں"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "تے منیں"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "اوہدی ہدایتاں نوں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑیاں"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "دتیاں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے نوں"
+    }
+  ],
+  "timestamp": "2026-10-15T23:03:46.348447218Z",
+  "model": "glm-5.3"
+}

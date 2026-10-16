@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 3:18",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "دکھان",
+      "rationale": "עברי نے نشان نئیں دسیا؛ پنجابی جُملے لئی ⟨⟩ نال جوڑن والا لفظ چاہیدا سی۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "دباؤ کرن والا",
+      "rationale": "נגש دی ٹھیک تصویر ‘ڈن٘گ مارن والا، زبردستی کم کھوہن والا’ اے — ‘مالک’ جاں ‘سائیں’ بُرا جیہا بدل اے۔"
+    }
+  ],
+  "translation": "قیدی اکٹھے چین نال رہندے نیں، اوہ دکھان دباؤ کرن والے دی آواز نئیں سندے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d35fe2d4d5ee4ece28db970e2d86c0f4b03b53991b29abe1b1be270a26a2180e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/3\/17-20.1792115352989.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "اکٹھے"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "قیدی"
+    },
+    {
+      "surface": "שאננו",
+      "gloss": "چین نال رہندے نیں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "سندے"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "دکھان دباؤ کرن والے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:49:12.990432811Z",
+  "model": "glm-5.3"
+}

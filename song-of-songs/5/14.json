@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 5:14",
+  "book": "song-of-songs",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "גְּלִילֵי זָהָב",
+      "rationale": "'سونے دے چھلّے'، 'گھُمدے حلقے' یا 'چھڑیاں' — جِنیاں وِکھریاں روایتاں اِنے فارم"
+    },
+    {
+      "kind": "crux",
+      "subject": "בַּתַּרְשִׁישׁ",
+      "rationale": "تَرشیش کیہڑا قیمہ اے — بریل، ٹوپاز جاں کریسولائٹ — پکی شناخت نئیں"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨نیں⟩ ⟨اے⟩",
+      "rationale": "عبرانی وِچ کوئی فعل نئیں، پنجابی جملے لئی شامل کیتے"
+    }
+  ],
+  "translation": "اُسدے ہتھ سونے دے چھلّے نیں، تَرشیش نال بھرے ہوئے ⟨نیں⟩؛ اُسدا دھڑ ہاتھی دانت دا کم اے، نیلاں نال ڈھکیا ہویا ⟨اے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1efefcdf6a883c2c097881099c4b572768f305ab049f4ecebff6618b5b3c62a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/song-of-songs\/5\/13-16.1792116722146.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידיו",
+      "gloss": "اُسدے ہتھ"
+    },
+    {
+      "surface": "גלילי",
+      "gloss": "چھلّے"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونے دے"
+    },
+    {
+      "surface": "ממלאים",
+      "gloss": "بھرے ہوئے"
+    },
+    {
+      "surface": "בתרשיש",
+      "gloss": "تَرشیش"
+    },
+    {
+      "surface": "מעיו",
+      "gloss": "اُسدا دھڑ"
+    },
+    {
+      "surface": "עשת",
+      "gloss": "کم"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ہاتھی دانت"
+    },
+    {
+      "surface": "מעולפת",
+      "gloss": "ڈھکیا ہویا"
+    },
+    {
+      "surface": "ספירים",
+      "gloss": "نیلم"
+    }
+  ],
+  "timestamp": "2026-10-16T02:12:02.147293826Z",
+  "model": "glm-5.3"
+}

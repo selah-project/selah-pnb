@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 19:24",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "او اس دِنے",
+      "rationale": "دو ٹوکن اِکو پنجابی جملہ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שלישיה",
+      "rationale": "'تِجھا\/تیسرا' — تِن دی ٹولی دا تریجا ممبر، عدد دی شکل رکھی"
+    }
+  ],
+  "translation": "او اس دِنے یِسرائیل مِتصرایم تے اشور نال تِجھا ہووے گا — دھرتی دے وِچکار اِک برکت۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "89ade09efda90363b11acf681971accbce1a78d189b5abde9b8f2a6ee10b983e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/19\/21-24.1792106117905.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "او اس دِنے"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "او اس دِنے"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہووے گا"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "שלישיה",
+      "gloss": "تِجھا"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "مِتصرایم نال"
+    },
+    {
+      "surface": "ולאשור",
+      "gloss": "تے اشور نال"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "برکت"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "دے وِچکار"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "دھرتی"
+    }
+  ],
+  "timestamp": "2026-10-15T23:15:17.906689246Z",
+  "model": "glm-5.3"
+}

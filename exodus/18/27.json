@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לו",
+      "rationale": "'اپنے وَستے' — عبرانی دا چلن والا محاورہ، پنجابی وِچ وکھرا نئیں ہوندا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חתן",
+      "rationale": "'سُہرا' — دھی دا سَکّا، عبرانی وِچ یترو دا ناں نئیں لیا"
+    }
+  ],
+  "translation": "تے موشے نے ⟨את⟩ اپنے سُہرے نوں رخصت کیتا، تے اوہ اپنے دیس نوں تُر پیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bba99d2e4c5d04cad30ece01ac68fa339deeb7f04e6a5ff30b550c0440431446",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/18\/25-27.1792096591909.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "رخصت کیتا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنے سُہرے نوں"
+    },
+    {
+      "surface": "חתנو",
+      "gloss": "اپنے سُہرے"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "تُر پیا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨اپنے وَستے⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "اپنے دیس"
+    }
+  ],
+  "timestamp": "2026-10-15T20:36:31.910466101Z",
+  "model": "glm-5.3"
+}

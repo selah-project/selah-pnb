@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 15:18",
+  "book": "joshua",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "تے جد",
+      "rationale": "عبرانی ויהי نوں قدرتی پنجابی وچ 'تے جد' دے نال دہرایا گیا"
+    },
+    {
+      "kind": "crux",
+      "subject": "ותסיתהו",
+      "rationale": "'اوہنوں اکسایا' — کجھ مترجم 'صلاح دتی' آکھدے نیں، پر اصل لفظ 'کسنے'\/'بھڑکایا' اے"
+    },
+    {
+      "kind": "you",
+      "subject": "کالِب دھی نوں",
+      "rationale": "کالِب دا سُوال ماہ-لکھ 'تیرے لئی کی اے؟' سِدھا مخاطب اے"
+    }
+  ],
+  "translation": "تے جد اوہ آئی، تے اوہنے اوہنوں اکسایا کہ اوہ اپنے پیو توں ⟨את⟩ اِک کھیت منگے؛ تے اوہ گڈھے توں اتری، تے کالِب نے اوہنوں آکھیا: تیرے لئی کی اے؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "11455d8626ee999a483c0a7480f46d070baad979d9e52456f962640658b66a10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joshua\/15\/17-20.1792101079063.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے جد ہویا"
+    },
+    {
+      "surface": "בבואה",
+      "gloss": "جد اوہ آئی"
+    },
+    {
+      "surface": "ותסיתהו",
+      "gloss": "اوہنے اوہنوں اکسایا"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "منگن لئی"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ توں"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "اپنے پیو"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "کھیت"
+    },
+    {
+      "surface": "ותצנח",
+      "gloss": "اتری"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "توں"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "گڈھا"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "לה",
+      "gloss": "اوہنوں"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "کالِب"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کی"
+    },
+    {
+      "surface": "لך",
+      "gloss": "تیرے لئی"
+    }
+  ],
+  "timestamp": "2026-10-15T21:51:19.064574761Z",
+  "model": "glm-5.3"
+}

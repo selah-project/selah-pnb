@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 17:19",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "اپنا بوہا اُچا کردا اے",
+      "rationale": "مگبیح پِتجو — بوہا اُچا کرنا: وکھالہ\/ہُند کرنا بناں؛ کجھ مترجم 'گھر دا دروازہ' لے کے فخر دی گل سمجھدے نیں۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "تباہی",
+      "rationale": "شِوِر ٹُٹن\/بربادی دی شکل اے — 'حل' دا مطلب خواب دی تعبیر لئی الگ تھاں اے، ایتھے نئیں۔"
+    }
+  ],
+  "translation": "جیہڑا جھیڑے نوں پیار کردا اے، اوہ سرکشی نوں پیار کردا اے، تے جیہڑا اپنا بوہا اُچا کردا اے، اوہ تباہی لبھدا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8db65f0a543b42cbc2ca31b833896623203c0200c30ba7d4ae3dda3fd37d4705",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/17\/17-20.1792114792774.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "پیار کردا اے"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "سرکشی"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "پیار کردا اے"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "جھیڑا"
+    },
+    {
+      "surface": "מגביה",
+      "gloss": "اُچا کردا اے"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "اپنا بوہا"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "لبھدا اے"
+    },
+    {
+      "surface": "שבر",
+      "gloss": "تباہی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:39:52.775419038Z",
+  "model": "glm-5.3"
+}

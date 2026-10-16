@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 22:25",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "کھانے دی چیز",
+      "rationale": "לחם روٹی\/خوراک اے — قربانی دے جانوراں لئی ایہدی بھاوَی ورتوں اے"
+    },
+    {
+      "kind": "elision",
+      "subject": "בן נכר",
+      "rationale": "بُنّے پچھوں کوئی אל לोड نئیں لکھیا — اِک واک وِچ 'اِک پرائے بندے' پڑھیا گیا"
+    }
+  ],
+  "translation": "تے اِک پرائے بندے دے ہتھوں اپنے ایلوہیم دے ⟨את⟩ کھانے دی چیز ایہناں وِچوں کوئی نہ چڑھاؤ، کیونجے اوہناں دی خرابی اوہناں وِچ اے، اوہناں وِچ داغ اے، اوہ تہاڈے واسطے پسند نئیں کیتے جانگے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2e7d5e5d8f97a10237ced78f12a4d38cfe4bbd61fb3f714a33e82bf935f3fa73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/22\/25-28.1792097953944.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומיד",
+      "gloss": "تے … ہتھوں"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "پرائے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "چڑھاؤ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کھانے دی چیز"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "کھانے دی چیز"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "اپنے ایلوہیم دے"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "کوئی"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایہناں وِچوں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "اوہناں دی خرابی"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "اوہناں وِچ"
+    },
+    {
+      "surface": "מום",
+      "gloss": "داغ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "اوہناں وِچ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "پسند کیتے جانگے"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تہاڈے واسطے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:59:13.944984286Z",
+  "model": "glm-5.3"
+}

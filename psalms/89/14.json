@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 89:14",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "پنجابی نوں جملے لئی ⟨اے⟩ چاہیدی اے، عبرانی وِچ کوئی فعل نئیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "سجّی",
+      "rationale": "ימינך پوری صورت 'تیرا سجّا ہتھ' اے — 'تیری سجّی' دا مطلب ایہو اے"
+    }
+  ],
+  "translation": "تیرے لئی ⟨اے⟩ بازو، غلبے دے نال؛ تیرا ہتھ تکڑا اے، تیری سجّی ~=تیرا سجّا ہتھ~= اُچا ہووے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bd7c909ace50b8d7a0eefd8ecd82daebaa3f2d236bb70cb9c172f5a72315f6d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/89\/13-16.1792113267699.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "تیرے لئی"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "بازو"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "غلبہ"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "تکڑا اے"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "تیرا ہتھ"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "اُچا ہووے"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "تیری سجّی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:14:27.700173197Z",
+  "model": "glm-5.3"
+}

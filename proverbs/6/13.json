@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 6:13",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קרץ",
+      "rationale": "اکھاں پٹکاؤنا، بھونکنا یا اشارہ کرنا — مترجماں وِچ وتھ۔"
+    },
+    {
+      "kind": "hapax",
+      "subject": "קרץ",
+      "rationale": "ایہہ فعل تنخ وِچ صرف ایتھے آؤندا اے۔"
+    }
+  ],
+  "translation": "اوہ اکھاں نال_signal کردا اے، پیراں نال بولدا اے، انگلیاں نال اشارہ دیندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "338fb5966275f100afab75125c5f7f6a09d557dced00fefb7507f391693bf6cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/6\/13-16.1792114487628.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "اکھاں نال ⟨پٹکندا⟩ اے"
+    },
+    {
+      "surface": "בעינו",
+      "gloss": "اکھاں نال"
+    },
+    {
+      "surface": "מלל",
+      "gloss": "بولدا اے"
+    },
+    {
+      "surface": "ברגלו",
+      "gloss": "پیراں نال"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "اشارہ دیندا اے"
+    },
+    {
+      "surface": "באצבעתיו",
+      "gloss": "انگلیاں نال"
+    }
+  ],
+  "timestamp": "2026-10-16T01:34:47.629377852Z",
+  "model": "glm-5.3"
+}

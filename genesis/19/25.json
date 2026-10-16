@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 19:25",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نوں",
+      "rationale": "پنجابی مفعول لئی 'نوں' منگدی اے، عبرانی وِچ صرف את دا نشان اے"
+    }
+  ],
+  "translation": "تے اوہنے پلٹ دِتّا ⟨את⟩ اِنہاں شہراں نوں، تے ⟨את⟩ سارے میدان نوں، تے ⟨את⟩ شہراں دے سارے وسنیکاں نوں، تے دھرتی دا سارا اُگن والا کجھ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b19d4b0e2704cf570e10de690b29d58887f41cc803a01fc307afa28501e9a299",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/19\/25-28.1792095038110.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "تے پلٹ دِتّا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اِنہاں شہراں نوں"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "شہراں"
+    },
+    {
+      "surface": "האל",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "سارے میدان نوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "میدان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "شہراں دے سارے وسنیکاں نوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "وسنیک"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "شہراں دے"
+    },
+    {
+      "surface": "וצמח",
+      "gloss": "تے اُگن والا کجھ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "دھرتی دا"
+    }
+  ],
+  "timestamp": "2026-10-15T20:10:38.110743486Z",
+  "model": "glm-5.3"
+}

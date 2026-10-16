@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 30:2",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "مذبح دے ناپ",
+      "rationale": "ہتھا وِچ لمبائی، چوڑائی تے اُچائی — ناپ دی آیت۔"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ممینو",
+      "rationale": "ממנו دا دوجا پڑھائی: سنگ مذبح دے اِک ٹُکڑے توں ہون، یا 'اوسدے سنگ' — 'اوسے توں' رکھیا۔"
+    }
+  ],
+  "translation": "اِک ہتھا اوسدا لمبائی تے اِک ہتھا اوسدی چوڑائی ہووےگا، چوکور ہووےگا، تے دو ہتھا اوسدی اُچائی؛ اوسدے سنگ اوسے توں ⟨نکلنگے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c1adbe715a292f985d482873e77ea895e49169ad141f650e3592857536c02aff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/30\/1-4.1792096980126.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמה",
+      "gloss": "اِک ہتھا"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "اوسدی لمبائی"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "تے اِک ہتھا"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "اوسدی چوڑائی"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "چوکور"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہووےگا"
+    },
+    {
+      "surface": "ואמתים",
+      "gloss": "تے دو ہتھا"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "اوسدی اُچائی"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "اوسے توں"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "اوسدے سنگ"
+    }
+  ],
+  "timestamp": "2026-10-15T20:43:00.126894869Z",
+  "model": "glm-5.3"
+}

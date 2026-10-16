@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 64:1",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "مڑھن ہار",
+      "rationale": "למנצח دا مڈھلا مطلب 'چمکدا ہویا، اگوں کرن ہار' اے — قیادت دا کم، کوئی سرنامہ نئیں"
+    },
+    {
+      "kind": "elision",
+      "subject": "مزمور",
+      "rationale": "עברית وچ 'بݨݨ والا، سنگیت نال بجݨ والا نظم' — پنجابی وچ مکمل تصویر نئیں رہندی"
+    }
+  ],
+  "translation": "مڑھن ہار لئی، اِک مزمور، داوِد دا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f1ca18f044131ba021af68da3551d15de2fde9f46c864ce6e3a910ae8788107a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/64\/1-4.1792112826261.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "مڑھن ہار لئی"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد دا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:07:06.262295915Z",
+  "model": "glm-5.3"
+}

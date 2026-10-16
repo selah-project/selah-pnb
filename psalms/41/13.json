@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 41:13",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "سچائی",
+      "rationale": "תמי نقص-ناباہی مکمل ہون دا خیال اے — 'بھروسے یوگ' وی ہو سکدا اے"
+    },
+    {
+      "kind": "idiom",
+      "subject": "לפניך",
+      "rationale": "لفظی 'تیرے چہرے لئی' — پنجابی وِچ 'اپنے اگے' قدرتی اے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "بתמي دا تعلق",
+      "rationale": "KJV 'میری سچائی وِچ' (میں سچا ہو کے)، JPS 'میری سچائی دے سبب' — عبارت دوناں ولے کھلھی اے"
+    }
+  ],
+  "translation": "تے میں ⟨اے⟩ — اپنی سچائی وِچ تُوں مینوں تھمبھیا، تے مینوں اپنے اگے ہمیشہ لئی کھلوایا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3593f26d5df36ed03f4821da3686baaf04a5bb73a37c85932cce938e7107cb0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/41\/13-14.1792112385314.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "تے میں"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "اپنی سچائی وِچ"
+    },
+    {
+      "surface": "תמכת",
+      "gloss": "تُوں تھمبھیا"
+    },
+    {
+      "surface": "בי",
+      "gloss": "مینوں"
+    },
+    {
+      "surface": "ותציבני",
+      "gloss": "تے کھلوایا مینوں"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "اپنے اگے"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشہ لئی"
+    }
+  ],
+  "timestamp": "2026-10-16T00:59:45.315277809Z",
+  "model": "glm-5.3"
+}

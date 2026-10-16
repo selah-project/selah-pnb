@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 6:2",
+  "book": "joshua",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اُودے",
+      "rationale": "מלכה מُڈھ لفظ 'اُودے بادشاہ' دا پچھیتر عبرانی وِچ انوکھا اے، پنجابی نوں ضمیر چاہیدی اے"
+    },
+    {
+      "kind": "you",
+      "subject": "یہوشُوعا",
+      "rationale": "یاہوہ دا سدھا بچن یہوشُوعا نوں"
+    }
+  ],
+  "translation": "تے یاہوہ نے یہوشُوعا نوں آکھیا: ویکھ، میں تیرے ہتھ وِچ ⟨את⟩ یریخو نوں تے ⟨את⟩ اُودے بادشاہ نوں دِتا اے، بہادری دے سورمے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "be71cc7ae851ab512c4d6208c291dcb6079c0db26b396ef784b36f0d9c454956",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joshua\/6\/1-4.1792100772255.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ نے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یہوشُوعا"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ویکھ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "میں دِتا اے"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "تیرے ہتھ وِچ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یریخو"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "یریخو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اُودے بادشاہ"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "اُودے بادشاہ"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "سورمے"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "بہادری دے"
+    }
+  ],
+  "timestamp": "2026-10-15T21:46:12.256013161Z",
+  "model": "glm-5.3"
+}

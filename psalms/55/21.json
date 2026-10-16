@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 55:21",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שלח…בשלמיו",
+      "rationale": "شالَخ (گھلیاں) تے شْلومایو (اوہدے سُکھ-بھرے) وِچ ش-ל-م دی گونج اے — ہتھ 'شلوم' والیاں اُتے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "پھٹ کیتا",
+      "rationale": "חלל مُڈھ توں 'سُراخ کرنا\/زخم کرنا' اے؛ 'پھٹ کیتا' (توڑ دتا) ایہدے نالوں وکھرا معنی دیندا اے — 'ہلل' یعنی بے-حرمت کرنا وی اے۔"
+    }
+  ],
+  "translation": "اوہنے اپنیاں ہتھیاں اپنے سُکھ-بھرے ياراں اُتے گھلیاں؛ اوہنے اپنا عہد پھٹ کیتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "90a7f7bda4c6f34dcd96227750125f62b893a19f5cf6317094f0adfe1d6f9133",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/55\/21-24.1792112691085.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "اوہنے گھلیاں"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "اپنیاں ہتھیاں"
+    },
+    {
+      "surface": "בשלמיו",
+      "gloss": "اپنے سُکھ-بھرے ياراں اُتے"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "پھٹ کیتا"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "اپنا عہد"
+    }
+  ],
+  "timestamp": "2026-10-16T01:04:51.085958859Z",
+  "model": "glm-5.3"
+}

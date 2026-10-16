@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שירו\/שיר",
+      "rationale": "کریا تے اسم اِکو جڑھ שיר توں — گاؤ… گیت — پنجابی وِچ وی کلپ رکھی گئی اے۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "היטיבו נגן",
+      "rationale": "'چنگی طرح وجاؤ' (ہُنر نال) بمقابلہ 'خوشی نال وجاؤ' — جڑھ יטב دوویں پاسے جا سکدی اے۔"
+    },
+    {
+      "kind": "invitation",
+      "subject": "بندیاں نوں",
+      "rationale": "حکری صورتاں — گاؤ، وجاؤ — عبادت کرن والیاں نوں سدّیا گیا اے۔"
+    }
+  ],
+  "translation": "اُس نوں اِک نواں گیت گاؤ، چنگی طرح واجے نال وجاؤ، خوشی دی بانگ نال۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "74095db33ad4e30e044ae655a6afe39db5d7edd4b35844349154393985b5114a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/33\/3-4.1792124077427.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "گاؤ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اُس نوں"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "گیت"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "نواں"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "چنگی طرح"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "واجے نال وجاؤ"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "خوشی دی بانگ نال"
+    }
+  ],
+  "timestamp": "2026-10-16T04:14:37.427476901Z",
+  "model": "glm-5.3"
+}

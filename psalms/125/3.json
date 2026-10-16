@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 125:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 125,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שבט",
+      "rationale": "لاٹھی\/دندا (ڈنڈا) یا راج-چماٹ — راج دا مطلب وِکار وِچ اے، مگر اکھر دی مورت لاٹھی اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "גורל",
+      "rationale": "اکھر دی مورت کنکری\/پانسا اے جیہدے توں حصہ پیندا اے — 'حصہ' سمجھ وچ آیا مگر مورت گئی"
+    }
+  ],
+  "translation": "کیونکہ بدیاں دی لاٹھی نیاناں دے حصے اُتے آرام نئیں لویگی، تاں جو نیان اپنیاں ہتھ بدی ول نہ پسارن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6ddce91552d2f7f8294385cccee1e865d7d4e4a1a60a3410fc129e939f17cc08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/125\/1-4.1792114036750.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "آرام لویگی"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "لاٹھی"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "بدیاں دی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "حصے"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "نیاناں دے"
+    },
+    {
+      "surface": "למען",
+      "gloss": "تاں جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "پسارن"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "نیان"
+    },
+    {
+      "surface": "בעולתה",
+      "gloss": "بدی ول"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "اپنیاں ہتھ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:27:16.751349227Z",
+  "model": "glm-5.3"
+}

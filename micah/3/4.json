@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 3:4",
+  "book": "micah",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "hide the face",
+      "rationale": "Hebrew idiom for withdrawing favour, rendered literally in Punjabi."
+    },
+    {
+      "kind": "addition",
+      "subject": "tense",
+      "rationale": "Hebrew imperfects future sense; Punjabi future marking supplied."
+    }
+  ],
+  "translation": "اُوں اوہ یاہوہ نوں چیخن گے تے اوہ اوہناں دا جواب نہ دیوے گا، تے اوہ اُوں ویلے اوہناں توں اپنا چہرہ لُکا لوے گا، جیویں اوہناں نے اپنیاں کرتوتاں نال برائی کیتی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b1247595a3912c275f7cccfc69e32e4f17afe2b8f52d0f14d15ed00c1af87eed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/micah\/3\/1-4.1792111079188.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "اُوں"
+    },
+    {
+      "surface": "יזעקו",
+      "gloss": "چیخن گے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "جواب دیوے گا"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "اوہناں دا جواب"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "تے لُکا لوے گا"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "اپنا چہرہ"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "اوہناں توں"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ویلے"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "اُوں"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "הרעו",
+      "gloss": "برائی کیتی"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "اوہناں دیاں کرتوتاں"
+    }
+  ],
+  "timestamp": "2026-10-16T00:37:59.189370492Z",
+  "model": "glm-5.3"
+}

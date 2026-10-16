@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 22:33",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויתר",
+      "rationale": "اوہنے کھولھیا\/ہموار کیتا — کجھ مترجم 'کھولھ دتا'، کجھ 'سیدھا کیتا' (کمional 'תמים דרכו' نال)"
+    },
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "عبرانی وِچ copula نئیں، پنجابی نے منگیا"
+    },
+    {
+      "kind": "crux",
+      "subject": "דרכו",
+      "rationale": "اوہدا راہ — داؤد دا راہ، پر ضمیر مردُور 'اوہدے' دا"
+    }
+  ],
+  "translation": "ایل، میری مضبوط پناہ گاہ، میرا زور ⟨اے⟩، تے اوہنے میرا راہ کمل ⟨سیدھا⟩ کیتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "013663028b1bfc4424564e97a8027c9f5a3467f858a19734a0e3aefd70617ba7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/22\/33-36.1792103815179.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "میری مضبوج پناہ گاہ — میری مضبوط پناہ گاہ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "زور"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "تے اوہنے … کیتا"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "کمل"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "میرا راہ"
+    }
+  ],
+  "timestamp": "2026-10-15T22:36:55.179649645Z",
+  "model": "glm-5.3"
+}

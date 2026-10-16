@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 11:22",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "پھیردا واں",
+      "rationale": "פקד دوناں مطلب رکھدا اے — دیدباری تے سزا؛ ریتی ترجمے 'سزا دِتھی' نیں، پنجابی وچ دوہرا مطلب رکھیا"
+    },
+    {
+      "kind": "elision",
+      "subject": "ימתו (پہلا)",
+      "rationale": "دوجی واری آیا فعل اِکو کم کرن لئی کٹیا گیا — گلاس خالی، ترجمے وچ 'مرنگے' پہلے ٹوکن نال جُڑیا"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ימתו … ימתו",
+      "rationale": "فعل 'مرنا' دوویں ترانویاں وِچ دُہرایا گیا اے — تلوار\/کاہلی دی تلخ نبض"
+    }
+  ],
+  "translation": "ایس لئی یاہوہ تصواوت ایوں آکھدا اے: ویکھو، میں اوہناں توں پھیردا واں؛ اوہناں دے جوان تلوار نال مرنگے، اوہناں دے پتر تے دھیاں کاہلی نال مرنگے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8386188d0f72482e06f8af3985badd29251351d282795de100e0e2e291d24597",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/11\/21-22.1792123904747.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ایس لئی"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ایوں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھدا اے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "تصواوت"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ویکھو، میں"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "پھیردا واں"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "اوہناں توں"
+    },
+    {
+      "surface": "הבחורים",
+      "gloss": "جوان"
+    },
+    {
+      "surface": "י מתו",
+      "gloss": ""
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "تلوار نال"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "پتر"
+    },
+    {
+      "surface": "ובנותיהם",
+      "gloss": "تے دھیاں"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "مرنگے"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "کاہلی نال"
+    }
+  ],
+  "timestamp": "2026-10-16T04:11:44.748508342Z",
+  "model": "glm-5.3"
+}

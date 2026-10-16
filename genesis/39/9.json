@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 39:9",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوہ",
+      "rationale": "איננו وِچ کرتا بھار توں چھُپا اے — پنجابی جملے لئی صیغہ چاہیدا"
+    },
+    {
+      "kind": "addition",
+      "subject": "دے خلاف",
+      "rationale": "לֵאלֹהִים دا ל پنجابی وِچ 'کول\/لئی' نئیں چلدا، 'خلاف' جوڑیا"
+    },
+    {
+      "kind": "crux",
+      "subject": "אותך",
+      "rationale": "אֵת (نال\/سوا) پیشگی اے، مفعول دا نشان H853 نئیں — پر ٹوکن اینجن نے ⟨את⟩ ٹبر وِچ گنیا اے"
+    }
+  ],
+  "translation": "اوہ اِس گھر وِچ مینوں توں وڈا نئیں، تے اوہنے مینوں ⟨את⟩ کِجھ وی نئیں روکیا، سِوا ⟨את⟩ تیرے، کیونکہ تُوں اوہدی زنانی ایں؛ تے میں کِویں کراں اِیہہ وڈی برائی، تے ایلوہیم ⟨دے خلاف⟩ پاپھٹّاں؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c04e69d437915b05e37efcdb04985358cb19188ba060e1f823988496297f7117",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/39\/9-12.1792095732302.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איננו",
+      "gloss": "نئیں ⟨اوہ⟩"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وڈا"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "گھر وِچ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اِس"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "مینوں توں"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "روکیا"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "مینوں توں"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "کِجھ وی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "سِوا"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "تینوں"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "تُوں"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "اوہدی زنانی"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "تے کِویں"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "کراں"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "وڈی"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "اِیہہ"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "تے پاپھٹّاں"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ایلوہیم ⟨دے خلاف⟩"
+    }
+  ],
+  "timestamp": "2026-10-15T20:22:12.303631392Z",
+  "model": "glm-5.3"
+}

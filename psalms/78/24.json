@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 78:24",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "مان (manna)",
+      "rationale": "מן 'کیہ ایہہ اے؟' (مان ہُو، خروج 16:15) توں ناں نکلیا — 'مان' حرف-نقل نیڑے اے، 'کھان' دیسی لفظ نئیں"
+    },
+    {
+      "kind": "alternative",
+      "subject": "اسمان دا اناج",
+      "rationale": "'اسمان دا کَن' — דגן دا مول 'ودھوا\/فصلاں' یعنی اناج؛ 'اناج' سادھارن، 'کَن' پنجابی پنڈ دی تصویر"
+    }
+  ],
+  "translation": "تے اوہنے اوہناں اُتے مان وَسایا کہ اوہ کھا سکن، تے اسمان دا اناج اوہناں نوں دِتّا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "da57fde5bf333c2237b2715ecd4a86ab6c59a3732dd97f0a4f93e32741e3d531",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/78\/21-24.1792113056427.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימטر",
+      "gloss": "تے اوہنے وَسایا"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "اوہناں اُتے"
+    },
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "کہ کھا سکن"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "تے اناج"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "اسمان دا"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دِتّا"
+    },
+    {
+      "surface": "למו",
+      "gloss": "اوہناں نوں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:10:56.428761322Z",
+  "model": "glm-5.3"
+}

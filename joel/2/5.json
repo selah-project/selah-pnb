@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joel 2:5",
+  "book": "joel",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوہ",
+      "rationale": "فعل دا فاعل عبرانی وِچ صریح نئیں، پنجابی نوں لوڑیندا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "شوزل",
+      "rationale": "קול 'آواز\/صدا' اے؛ 'شوزل' وِچ شترمرغ دا شاعرانہ نین٘ہ اے پر عام ترجمہ 'آواز' بے روح ہو جاندی اے"
+    }
+  ],
+  "translation": "رتھاں دے شوزل وانگوں، پہاڑاں دے سروں اُتے اوہ اُچھلدے نیں؛ اگّ دے شعلے دے شوزل وانگوں جو ⟨את⟩ بھوسہ کھا جاندا اے، اِک زبردست قوم وانگوں جو جنگ لئی گچھی ہوئی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6af798d15abeb930621a55d63e9c20f8056d967729bdf5e77dec50bb75b43a78",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joel\/2\/5-8.1792110741861.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כקול",
+      "gloss": "شوزل وانگوں"
+    },
+    {
+      "surface": "מרכבות",
+      "gloss": "رتھاں دے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "سروں"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "پہاڑاں دے"
+    },
+    {
+      "surface": "ירקדון",
+      "gloss": "اوہ اُچھلدے نیں"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "شوزل وانگوں"
+    },
+    {
+      "surface": "להב",
+      "gloss": "شعلے"
+    },
+    {
+      "surface": "אש",
+      "gloss": "اگّ دے"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "کھا جاندا اے"
+    },
+    {
+      "surface": "קש",
+      "gloss": "بھوسہ"
+    },
+    {
+      "surface": "כעם",
+      "gloss": "قوم وانگوں"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "زبردست"
+    },
+    {
+      "surface": "ערוך",
+      "gloss": "گچھی ہوئی"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ لئی"
+    }
+  ],
+  "timestamp": "2026-10-16T00:32:21.861631981Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 11:22",
+  "book": "joshua",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨کجھ⟩",
+      "rationale": "عبرانی نے فعل دی کوئی جان نئیں دسی؛ پنجابی جملے لئی شامل کیتا"
+    },
+    {
+      "kind": "crux",
+      "subject": "عزّہ، گت، اشدود",
+      "rationale": "فلسطینی شہر — ایتھے ایہ اشارہ اے جو بعد وِچ گت دا داجل (2 سموئیل 21) اِنہاں ای بچیاں توں اے"
+    }
+  ],
+  "translation": "یِسرائیل دے پُتراں دی زمین وِچ کوئی عناقی نئیں رہا؛ صرف عزّہ، گت تے اشدود وِچ ⟨کجھ⟩ رہ گئے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e8cfe5ade3d5b313c28555380f135d5fae1130c9131752b66f9e5c7ec6832145",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joshua\/11\/21-23.1792100970784.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "رہا"
+    },
+    {
+      "surface": "ענקים",
+      "gloss": "عناقی"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین وِچ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں دی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "רק",
+      "gloss": "صرف"
+    },
+    {
+      "surface": "בעזה",
+      "gloss": "عزّہ وِچ"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "گت وِچ"
+    },
+    {
+      "surface": "ובאשדוד",
+      "gloss": "تے اشدود وِچ"
+    },
+    {
+      "surface": "נשארו",
+      "gloss": "رہ گئے"
+    }
+  ],
+  "timestamp": "2026-10-15T21:49:30.786175543Z",
+  "model": "glm-5.3"
+}

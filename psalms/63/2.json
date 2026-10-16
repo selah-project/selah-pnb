@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 63:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אשחרך",
+      "rationale": "جڑّ 'سویر ہونا' — 'سویرے سویرے لبھنا' (KJV early) بمقابلہ 'دل نال چاہنا' (earnestly)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جیون-زور اے، صرف 'روح' نئیں"
+    },
+    {
+      "kind": "addition",
+      "subject": "جتھے پانی نئیں",
+      "rationale": "عبرانی صرف 'بِنا پانی' اے — پنجابی جملے لئی رلاؤ"
+    }
+  ],
+  "translation": "ایلوہیم، تُوں میرا ایل ایں، میں سویرے سویرے تینوں لَونداں، میری جان تیرے لئی پیاسی اے، میرا ماس تیرے لئی ترسدا اے، اِک اُسری تھَکّی زمین وِچ، جتھے پانی نئیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "dc79e24376d86015fac8a97b52f20ca2365d9ec20f1fd7deb0321802bda5c305",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/63\/1-4.1792112831410.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میرا ایل"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُوں"
+    },
+    {
+      "surface": "אשחרך",
+      "gloss": "میں سویرے سویرے تینوں لَونداں"
+    },
+    {
+      "surface": "צמאה",
+      "gloss": "پیاسی اے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیرے لئی"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میری جان"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "ترسدا اے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیرے لئی"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "میرا ماس"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین وِچ"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "اُسری"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "تھَکّی"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "بِنا"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پانی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:07:11.410894635Z",
+  "model": "glm-5.3"
+}

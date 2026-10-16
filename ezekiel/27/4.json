@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 27:4",
+  "book": "ezekiel",
+  "lang": "pnb",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כללו\/כלילת",
+      "rationale": "و3 دے כלילת (پُوری) تے ایتھے دے כללו (پوری کیتی) اکو جڑ توں — صُور دے دعوے دا جواب اوہی لفظ نال دتا جاندا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "وچکار",
+      "rationale": "לב مُڈھ 'دل' اے — 'سمندراں دے دل وِچ' دا روپ، پنجابی وچ 'وچکار' قدرتی اے"
+    }
+  ],
+  "translation": "سمندراں دے وچکار تیرے ول نیں؛ تیرے بنان والیاں نے تیری خوبصورتی پوری کیتی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3935aa4a6db331ff826886ef1a5940ae6aeb838fe087472cbb2308ca0bac2c79",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/27\/1-4.1792109770815.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בלב",
+      "gloss": "وچکار"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "سمندراں دے"
+    },
+    {
+      "surface": "גבוליך",
+      "gloss": "تیرے ول"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "تیرے بنان والیاں نے"
+    },
+    {
+      "surface": "כללו",
+      "gloss": "پوری کیتی"
+    },
+    {
+      "surface": "יפיך",
+      "gloss": "تیری خوبصورتی"
+    }
+  ],
+  "timestamp": "2026-10-16T00:16:10.816378413Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 104:4",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "فرشتے\/ہوائاں",
+      "rationale": "KJV 'اپنے فرشتیاں نوں روحاں بناؤندا اے' بمقابلہ LXX\/عبرانی ترتیب 'اپنے پیغامبراں نوں ہوائاں بنا‏ؤندا اے' — کون بنائی جان والی شے اے تے کون مادی"
+    },
+    {
+      "kind": "hapax",
+      "subject": "להט",
+      "rationale": "چاٹن\/بلن دا فعل عبرانی تنخ وِچ بہت ہی گھٹ آؤندا اے؛ تصویر اگ دی لاٹ دی چاٹ ورگی اے"
+    }
+  ],
+  "translation": "جو اپنے فرشتیاں نوں ہوائاں بناؤندا اے، اپنے سیوکاں نوں بلدی اگ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "80e8b39750f89be9c4df9e4cea0680088468ffdd09e59397ae433aeecdae158c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/104\/1-4.1792113537747.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "بناؤندا اے"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "اپنے فرشتے"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "ہوائاں"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "اپنے سیوک"
+    },
+    {
+      "surface": "אש",
+      "gloss": "اگ"
+    },
+    {
+      "surface": "להט",
+      "gloss": "بلدی ہوئی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:18:57.748766149Z",
+  "model": "glm-5.3"
+}

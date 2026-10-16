@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 6:11",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "موشے نوں",
+      "rationale": "یاہوہ موشے نوں سِدھا حکم دندا اے — 'جا، گل کریں'"
+    },
+    {
+      "kind": "addition",
+      "subject": "اپنی",
+      "rationale": "عبرانی מארצו وِچ ضمیر 'اوہدے' اے؛ پنجابی وِچ 'اپنی' قدرتی اے"
+    }
+  ],
+  "translation": "جا، پھرعون نال، مِتصرایم دے بادشاہ نال، گل کریں، تے اوہ ⟨את⟩ یِسرائیل دے پُتراں نوں اپنی دھرتی توں })) جھلّے گا(( ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "545ea1f4a6602fa0bfabb86682381dc1b161d19c993465e9cb173a8b7fe77780",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/6\/9-12.1792096184616.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "جا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گل کریں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پھرعون"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم دے"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "جھلّے گا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یِسرائیل دے پُتراں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "اپنی دھرتی توں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:29:44.617685011Z",
+  "model": "glm-5.3"
+}

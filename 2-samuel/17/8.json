@@ -1,0 +1,137 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 17:8",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان وِچ کوڑھے",
+      "rationale": "ומרי נפש دا سُچجا مطلب ‘جان وِچ کڑوا’ اے، روایت ‘چِڑھیا ہویا’ نئیں"
+    },
+    {
+      "kind": "elision",
+      "subject": "את העם",
+      "rationale": "ایتھے את preposition ‘نال’ (H854) اے، مفعول دا نشان نئیں، ایس لئی bracket نئیں"
+    },
+    {
+      "kind": "you",
+      "subject": "اَوشالوم نوں",
+      "rationale": "ہوشای اَوشالوم نوں سدّ خطاب کردا اے: تُوں جاندائیں، تیرا پیو"
+    }
+  ],
+  "translation": "تے ہوشای نے آکھیا: “تُوں جاندائیں ⟨את⟩ اپنے پیو نوں تے ⟨את⟩ اوہدے بندیاں نوں — کی اوہ بہادر جوان نیں، تے جان وِچ کوڑھے نیں، جِویں رِچھ کھیت وِچ اولاد گوا چکیا ہوندا اے؛ تے تیرا پیو جنگ دا بندہ اے، تے اوہ لوکاں ⟨את⟩ نال رات نئیں کٹے گا۔”",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7562bbb4611d39fecddb8d8d2605f2e40edf7bef9b0a16b42966aec4b40f11e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/17\/5-8.1792103548333.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "ہوشای نے"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُوں"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "جاندائیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنے پیو نوں"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "اپنے پیو نوں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اوہدے بندیاں نوں"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "اوہدے بندیاں نوں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "بہادر جوان"
+    },
+    {
+      "surface": "המה",
+      "gloss": "نیں"
+    },
+    {
+      "surface": "ומרי",
+      "gloss": "تے کوڑھے"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان وِچ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "نیں"
+    },
+    {
+      "surface": "כדב",
+      "gloss": "جِویں رِچھ"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "اولاد گوا چکیا"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "کھیت وِچ"
+    },
+    {
+      "surface": "ואביך",
+      "gloss": "تے تیرا پیو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ دا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "رات کٹے گا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ نال"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوکاں"
+    }
+  ],
+  "timestamp": "2026-10-15T22:32:28.335157938Z",
+  "model": "glm-5.3"
+}

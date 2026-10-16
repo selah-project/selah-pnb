@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 102:19",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נברא",
+      "rationale": "'the people that shall be created' vs BSB 'not yet created' — verb form ambiguous between future and created."
+    },
+    {
+      "kind": "measurement",
+      "subject": "generations",
+      "rationale": "Writing inscribed for a future generation — time-counting framing."
+    }
+  ],
+  "translation": "ایہہ لِکھی جاوے آخری نسل لئی، تے جو قوم پیدا ہووے اوہ یاہ دی تعریف کرے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "38816c447df579f62a10ec9aa4bb74f1928f848fff819936d8a49ae76bdeed98",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/102\/17-20.1792113473972.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תכתב",
+      "gloss": "لِکھی جاوے"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "نسل لئی"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "آخری"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "تے قوم"
+    },
+    {
+      "surface": "נברא",
+      "gloss": "پیدا ہووے"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "تعریف کرے"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاہ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:17:53.973718299Z",
+  "model": "glm-5.3"
+}

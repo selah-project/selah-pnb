@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 67:7",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 67,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נתנה יבולה",
+      "rationale": "ماضی 'دتی اے' (KJV\/ASV) بمقابلہ امیدpcl'دیوے' (JPS) — عبرانی ماضی صورت دوویں پاسے پئی جا سکدی اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "اپنی",
+      "rationale": "יבולה ךsuffix 'ہ' فعل اُتے پہلاں آ چکیا، پنجابی وِچ 'اپنی' نال واضح کیتا"
+    }
+  ],
+  "translation": "دھرتی نے اپنی فصل دتی اے؛ ایلوہیم، ساڈا ایلوہیم، سانوں برکت دیوے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6737b1a022538e2485acd326143b059d2d1ab78b20b1ba544ee0db1fa876d90c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/67\/5-8.1792112827836.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "دھرتی"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "نے دتی"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "اپنی فصل"
+    },
+    {
+      "surface": "יברכנו",
+      "gloss": "سانوں برکت دیوے"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ساڈا ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-10-16T01:07:07.837636297Z",
+  "model": "glm-5.3"
+}

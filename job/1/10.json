@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 1:10",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "את",
+      "rationale": "ایہہ את (H859) ضمیر ’توں‘ اے، مفعولی نشان (H853) نہیں — ایس لئی ⟨את⟩ نشان نہیں لگیا۔"
+    },
+    {
+      "kind": "alternative",
+      "subject": "פרץ",
+      "rationale": "’پھٹ گیا‘ تاں، پر مطلب ودھیا\/پھیلیا — مویشی دھرتی وِچ پھیل گیا۔"
+    }
+  ],
+  "translation": "کی توں نے اِیہدے دوالے، اِیہدے گھر دوالے تے اِیدا سارا جو کجھ اِیدے اے، چار-پاسے باڑ نہیں لائی؟ ہتھاں دے کم نوں برکت دِتی، تے اِیدا مال دھرتی وِچ پھٹ گیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ea32cd530acba48f467ef0870a98f300b95b89696464165dc7cdc5f14e52e458",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/1\/9-12.1792115393878.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "کی … نہیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "توں"
+    },
+    {
+      "surface": "שכת",
+      "gloss": "باڑ لائی"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "اِیہدے دوالے"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "تے … دوالے"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "اِیدا گھر"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "تے … دوالے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اِیدے"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "چار-پاسے"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کم"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ہتھاں دا"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "برکت دِتی"
+    },
+    {
+      "surface": "ומקנהו",
+      "gloss": "تے اِیدا مال"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "پھٹ گیا"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "دھرتی وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:49:53.878964281Z",
+  "model": "glm-5.3"
+}

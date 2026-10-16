@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 45:10",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מה",
+      "rationale": "جے-'کیہ جنّدا ایں' بمقابلہ جے-'کیوں جنّدا ایں' — دوویں پڑھائیاں پرچلدیاں نیں"
+    },
+    {
+      "kind": "you",
+      "subject": "اُوہنوں جیہڑا آکھے",
+      "rationale": "پیو تے ماں ول سدھا سوال — مخاطب ہائے"
+    }
+  ],
+  "translation": "ہائے اُوہنوں جیہڑا پیو نوں آکھے: توں کیہ جنّدا ایں؟ تے زنانے نوں آکھے: توں کیہ جمدی ایں؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f00f181a25d2a7170dcc90a7659cdea7860554cc94dcd89a86b630970e9f8f35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/45\/9-12.1792106798016.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ہائے"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھے"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "پیو نوں"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "جنّدا ایں"
+    },
+    {
+      "surface": "ולאשה",
+      "gloss": "تے زنانے نوں"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "תחילין",
+      "gloss": "جمدی ایں"
+    }
+  ],
+  "timestamp": "2026-10-15T23:26:38.017559185Z",
+  "model": "glm-5.3"
+}

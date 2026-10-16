@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 19:14",
+  "book": "joshua",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سرحد",
+      "rationale": "عبرانی ונסב دا مفعول אתو اے؛ پنجابی جملے لئی 'سرحد' دو واری آیا — اِک واری ⟨אתو⟩ دے نشان لئی۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "سرحد",
+      "rationale": "سرحد دے موڑ تے نِکلن دی تھاں دا دسّن۔"
+    }
+  ],
+  "translation": "تے سرحد ⟨אתו⟩ اُتے چکر کٹدی اے، اُتلے ول حنّاتھون تک، تے اودے نِکلن والے سِرے یفتخ-ایل دے وادی وِچ ہن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "12d7bf4b6a4769e24aa785605c5e8ad60581a8961922c2d4a81af1bd57885d44",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joshua\/19\/13-16.1792101125012.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונסב",
+      "gloss": "تے چکر کٹدی اے"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "سرحد"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "اُتلے ول"
+    },
+    {
+      "surface": "חנתן",
+      "gloss": "حنّاتھون"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "تے ہن"
+    },
+    {
+      "surface": "תצאתיו",
+      "gloss": "اودے نِکلن والے سِرے"
+    },
+    {
+      "surface": "גי",
+      "gloss": "وادی"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "یفتخ-ایل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ایل⟩"
+    }
+  ],
+  "timestamp": "2026-10-15T21:52:05.013355492Z",
+  "model": "glm-5.3"
+}

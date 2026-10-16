@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 17:2",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בעיני יהוה",
+      "rationale": "لفظی 'یاہوہ دیاں اکھاں وِچ' — پنجابی وِچ وی لفظی رکھیا اے، 'نظر وِچ' دا محاورہ۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לעבר בריתו",
+      "rationale": "לעבר دی جڑ 'لنگھنا' اے — عہد توں لنگھن = بغاوت؛ 'توڑنا' صورت کھو دیندا اے۔"
+    }
+  ],
+  "translation": "جے تیرے وِچڑے، تیرے اِک دروازے وِچ، جیہڑا یاہوہ تیرا ایلوہیم تینوں دیندا اے، کوئی بندہ جاں ذنی نظر آوے، جیہڑوہ یاہوہ تیرے ایلوہیم دیاں اکھاں وِچ ⟨את⟩ برائی کردا اے، اوہدی بغاوت کر کے اوہدے عہد توں،",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e9b94d43cecdca996ba506d597951075fcd2c4829a758a2008a479aa130d0044",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/17\/1-4.1792100208156.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "جے"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "نظر آوے"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "تیرے وِچڑے"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "اِک وِچ"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "تیرے دروازیاں دے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تیرا ایلوہیم"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دیندا اے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تینوں"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "או",
+      "gloss": "جاں"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ذنی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کردا اے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "برائی"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "اکھاں وِچ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تیرے ایلوہیم دیاں"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "بغاوت کر کے لنگھن"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "اوہدے عہد توں"
+    }
+  ],
+  "timestamp": "2026-10-15T21:36:48.157672847Z",
+  "model": "glm-5.3"
+}

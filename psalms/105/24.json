@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 105:24",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויעצמהו מצריו",
+      "rationale": "עצם (تکڑا) تے מצר (تنگی\/ستاون) دے وچکار آوازی تال اے، پنجابی وِچ جزیرہ کھوہ جاندا اے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "مِتصرایم دی گونج",
+      "rationale": "מצריو 'اُدے ستاؤن ہار' اے پر مول وِچ مِتصرایم (تنگ دیش) نال تعلق رکھدا سوچیا جا سکدا اے"
+    }
+  ],
+  "translation": "تے اوہنے ⟨את⟩ اپنی قوم بہت ودھائی، تے اُہنوں اپنے ستاؤن ہاراں توں تکڑا کیتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "79d0158087fbc9d2fe8c53dc39bf1da2b4c44665467c4e90fafdc561aad4385c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/105\/21-24.1792113574896.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפר",
+      "gloss": "تے ودھائی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنی قوم"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "اپنی قوم"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بہت"
+    },
+    {
+      "surface": "ויעצמהו",
+      "gloss": "تے اُہنوں تکڑا کیتا"
+    },
+    {
+      "surface": "מצריו",
+      "gloss": "اپنے ستاؤن ہاراں توں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:19:34.897583362Z",
+  "model": "glm-5.3"
+}

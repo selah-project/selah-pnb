@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 142:6",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 142,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ایں",
+      "rationale": "Punjabi requires the copula ایں ('art'), Hebrew omits it."
+    },
+    {
+      "kind": "you",
+      "subject": "to YHWH",
+      "rationale": "Direct second-person address to یاہوہ."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מנוס\/מחסי",
+      "rationale": "v.5 refuge 'perished'; v.6 YHWH 'is my refuge' — deliberate reversal lost across verses."
+    }
+  ],
+  "translation": "میں تیرے اگے چیکے یاہوہ، میں آکھیا: توں میری پناہ ایں، زندگیاں دی دھرتی وِچ میرا حصہ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ae674d83557acf8694250d0bbacfd6bdc9e0175bad776174ee6071f57e9f6862",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/142\/5-8.1792114150473.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זעקתי",
+      "gloss": "میں چیکے"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تیرے اگے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "میں آکھیا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "توں"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "میری پناہ"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "میرا حصہ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "دھرتی وِچ"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "زندگیاں دی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:29:10.473761291Z",
+  "model": "glm-5.3"
+}

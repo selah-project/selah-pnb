@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 11:6",
+  "book": "hosea",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בדיו",
+      "rationale": "باد — شاخاں (KJV 'branches') یا دروازیاں دیاں کنڈیاں (JPS\/ASV 'bars')؛ شہراں دے بوجھ وِچ کنڈیاں ودھیرے ٹھیک لگدیاں نیں۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨اوہناں نوں⟩",
+      "rationale": "אותם دا مفعول عبرانی وِچ کریا وِچ رلیا اے، پنجابی لئی وکھو وکھ چاہیدا اے۔"
+    }
+  ],
+  "translation": "تے تلوار اوہدے شہراں وِچ گھمدی رہووے گی، تے اوہدیاں کنڈیاں نوں مکا دے گی، تے اوہناں دیاں اپنیاں تدبیراں توں ⟨اوہناں نوں⟩ کھا جاوے گی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "005f4fa2860f04403716e9d71d8dfb2af30144e20985f8a1d7984936c2ffed04",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/hosea\/11\/5-8.1792110626587.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחלה",
+      "gloss": "تے گھمدی رہندی اے"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "تلوار"
+    },
+    {
+      "surface": "בעריו",
+      "gloss": "اوہدے شہراں وِچ"
+    },
+    {
+      "surface": "וכלתה",
+      "gloss": "تے مکا دیندی اے"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "اوہدیاں کنڈیاں"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "تے کھا جاندی اے"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "اوہناں دیاں تدبیراں توں"
+    }
+  ],
+  "timestamp": "2026-10-16T00:30:26.588555464Z",
+  "model": "glm-5.3"
+}

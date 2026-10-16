@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 22:2",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "تاں",
+      "rationale": "عبرانی وِچ 'جے' دا 'تاں' نئیں، پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "فیر",
+      "rationale": "واپسی دا سوچ وشار عبرانی وِچ صرف فعل دے راہیں، پنجابی وِچ وادھو جوڑ"
+    }
+  ],
+  "translation": "تے جے تیرا بھرا تیرے نیڑے نئیں تے تُو اُسنوں نئیں پچھاندا، تاں اُس نوں اکٹھا کر کے اپنے گھر دے اندر لے آ، تے اوہ تیرے نال رہے جدوں تک تیرا بھرا اُسنوں لبھدا اے، تے فیر اُسنوں واپس کر دے اُسنوں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5ac9a73a6cec47aec85e53dab9b9141d9ee06032c09bc004bad12048237c28e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/22\/1-4.1792100249883.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "نیڑے"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "تیرا بھرا"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تیرے نیڑے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "ידעתו",
+      "gloss": "اُسنوں پچھانیں"
+    },
+    {
+      "surface": "ואספתו",
+      "gloss": "تے اُس نوں اکٹھا کریں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ول"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "اپنے گھر"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "تے اوہ رہے گا"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تیرے نال"
+    },
+    {
+      "surface": "עד",
+      "gloss": "جدوں تک"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "لبھدا اے"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "تیرا بھرا"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "اُسنوں"
+    },
+    {
+      "surface": "והשבתו",
+      "gloss": "تے اُسنوں واپس دے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اُسنوں"
+    }
+  ],
+  "timestamp": "2026-10-15T21:37:29.884682263Z",
+  "model": "glm-5.3"
+}

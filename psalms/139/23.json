@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 139:23",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to ایل",
+      "rationale": "Direct second-person imperatives addressed to God."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ודע … ודע",
+      "rationale": "Repetition of 'know' frames both halves of the verse; kept in Punjabi with جان both times."
+    }
+  ],
+  "translation": "مینوں چھان مار، اے ایل، تے میرا دل جان؛ مینوں پرکھ تے میرے خیالاں نوں جان۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1eda32a22fb1984b335321c369a0668a3e2046fbbda41aff5c9a3b27e93e8ce0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/139\/21-24.1792114124160.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חקרני",
+      "gloss": "مینوں چھان مار"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اے ایل"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "تے جان"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "میرا دل"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "مینوں پرکھ"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "تے جان"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "میرے خیال"
+    }
+  ],
+  "timestamp": "2026-10-16T01:28:44.161718169Z",
+  "model": "glm-5.3"
+}

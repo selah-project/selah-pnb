@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 4:7",
+  "book": "judges",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ומשכת \/ ומשכתי",
+      "rationale": "آیت 6 دا 'کھچ' (بارک دا کم) تے آیت 7 دا 'میں کھچاں گا' (یاہوہ دا کم) اکو فعل א — کم بارک دا دسیا گیا پر کھچنا یاہوہ کریگا۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "רכבו",
+      "rationale": "رتھاں\/گھوڑ سوار لشکر — عبرانی لفظ رتھ تے سواری دونواں ول اشارہ کردا اے۔"
+    }
+  ],
+  "translation": "تے میں تیرے کول کیشون ناݪے دوں ⟨את⟩ سِسرا نوں، یابین دے لشکر دے سردار نوں، کھچاں گا، تے ⟨את⟩ اوہدیاں رتھاں نوں تے ⟨את⟩ اوہدے ہجوم نوں، تے اوہنوں تیرے ہتھ دے دواں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bf02897ea53c5457116697c76ed5c493aa5f4812758605f7f23255c21e6f19e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/judges\/4\/5-8.1792101574566.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומשכתי",
+      "gloss": "تے میں کھچاں گا"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تیرے کول"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دوں"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ناݪے"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "کیشون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سِسرا نوں"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "سِسرا"
+    },
+    {
+      "surface": "שר",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "لشکر"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "یابین"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اوہدیاں رتھاں نوں"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "اوہدیاں رتھاں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اوہدے ہجوم نوں"
+    },
+    {
+      "surface": "המונו",
+      "gloss": "اوہدے ہجوم"
+    },
+    {
+      "surface": "ונתתיהו",
+      "gloss": "تے دے دواں گا"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "تیرے ہتھ"
+    }
+  ],
+  "timestamp": "2026-10-15T21:59:34.567446159Z",
+  "model": "glm-5.3"
+}

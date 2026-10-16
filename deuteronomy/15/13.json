@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 15:13",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תשלחנו…תשלחנו",
+      "rationale": "واکنسی — 'بھیجیں' دو واری، پنجابی وِچ اوہی دوہراؤ رکھیا"
+    },
+    {
+      "kind": "elision",
+      "subject": "חפשי",
+      "rationale": "'آزاد' مگر مقام موقوف توں آزاد ہون دا، پنجابی وِچ لفظ 'کر کے' دا وادھا کیتا گیا"
+    }
+  ],
+  "translation": "تے جدوں تُوں اوہنوں اپنے توں آزاد کر کے بھیجیں، نہ کر سکدا ایہناں نوں خالی بھیجیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "90206ecf89e263a8338873b7dc775a43a41fbcad121ff08945f9201c13a89c5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/15\/13-16.1792099962162.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "تے جدوں"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "تُوں اوہنوں بھیجیں"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "آزاد"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "اپنے توں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "تُوں اوہنوں بھیجیں"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "خالی"
+    }
+  ],
+  "timestamp": "2026-10-15T21:32:42.163487378Z",
+  "model": "glm-5.3"
+}

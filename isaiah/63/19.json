@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 63:19",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "היינו מעולם",
+      "rationale": "'اسیں اگّوں توں ہاں' — KJ 'اسیں تیرے ہاں' بمقابلہ YLT\/ASV 'اسیں اوہناں ورگے ہو گئے جنناں تُوں کدے راج نئیں کردا'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ لوک⟩ ⟨جِویں⟩",
+      "rationale": "عبرانی دی تلخ comparisons پنجابی وِچ صاف کرن لئی دتے"
+    },
+    {
+      "kind": "elision",
+      "subject": "לוא",
+      "rationale": "خواہش والی ول گئی ('کاش') — عبرانی شرطی ذرہ لُوּא"
+    },
+    {
+      "kind": "measurement",
+      "subject": "verse division",
+      "rationale": "عبرانی 63:19b (کاش تُوں اسمان پاڑ دیندا…) انگریزی بائیبل وِچ 64:1 اے"
+    }
+  ],
+  "translation": "اسیں ہوئے ہاں ⟨جِویں⟩ اگّوں توں ⟨اوہ لوک⟩ جِنناں اُتے تُوں کدے راج نئیں کیتا، جِنناں اُتے تیرا ناں نئیں سدھایا گیا۔ کاش تُوں اسمان پاڑ دیندا، تُوں اتر آؤندا — پہاڑ تیرے ساہمنے لرز جاندے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8a4f17accad15b6f8b001313a6ac8672a0951daec6faf19bacd8bfd28239f58e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/63\/18-19.1792123886369.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היינו",
+      "gloss": "اسیں ہوئے ہاں"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "اگّوں توں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "משלת",
+      "gloss": "راج کیتا"
+    },
+    {
+      "surface": "בם",
+      "gloss": "اوہناں اُتے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "سدھایا گیا"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "تیرا ناں"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "اوہناں اُتے"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "کاش"
+    },
+    {
+      "surface": "קרעת",
+      "gloss": "پاڑ دیندا"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "اسمان"
+    },
+    {
+      "surface": "ירדת",
+      "gloss": "اتر آؤندا"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "تیرے ساہمنے"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "נזלו",
+      "gloss": "لرز جاندے"
+    }
+  ],
+  "timestamp": "2026-10-16T04:11:26.369896729Z",
+  "model": "glm-5.3"
+}

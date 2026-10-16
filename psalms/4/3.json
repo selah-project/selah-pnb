@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 4:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "بنیا رہے گا",
+      "rationale": "عبرانی وِچ کوئی فعل نئیں، صرف ل- دا جوڑ؛ پنجابی جملہ فعل منگدا اے"
+    },
+    {
+      "kind": "you",
+      "subject": "بندیاں دے پُتراں نوں",
+      "rationale": "سختی نال مخاطب"
+    }
+  ],
+  "translation": "اے بندے دے پُترا، کد تیکر میرا جلال بدنامی لئی ⟨بنیا رہے گا⟩؟ تسیں ویر نوں پیار کرو گے تے جھوٹ نوں کھوجو گے۔ سِلاہ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8c174a185ab4aa0e751ac7befed73883264b6c3469270b59a657583123ea5fff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/4\/1-4.1792111831703.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُترا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندے دے"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تے کد"
+    },
+    {
+      "surface": "מה",
+      "gloss": "تیکر"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "میرا جلال"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "بدنامی لئی"
+    },
+    {
+      "surface": "תאהבון",
+      "gloss": "پیار کرو گے"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "ویر نوں"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "کھوجو گے"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "جھوٹ نوں"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سِلاہ"
+    }
+  ],
+  "timestamp": "2026-10-16T00:50:31.704656874Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 71:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "مینوں \/ اپنا",
+      "rationale": "عبرانی_suffix دی جاں پنجابی ضمیر چاہیدا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תצילני\/ותפלטני",
+      "rationale": "دو ویہارے فعل (ن-צ-ל تے פ-ל-ט) رل کہ بچاؤ دا جوڑ بندے نیں"
+    }
+  ],
+  "translation": "اپنی صداقت وِچ ⟨مینوں⟩ چھڈا دے تے مینوں بچا لے؛ ⟨اپنا⟩ کان میرے ول جھکا تے مینوں بخش دے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "38058d90d99057f2165ca77799e41e1aa7540a660bf582d3cd81aac6bf69eb7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/71\/1-4.1792112891758.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בצדקתך",
+      "gloss": "اپنی صداقت وِچ"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "چھڈا دے"
+    },
+    {
+      "surface": "ותפלטני",
+      "gloss": "بچا لے (مینوں)"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "جھکا"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میرے ول"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "⟨اپنا⟩ کان"
+    },
+    {
+      "surface": "והושיעני",
+      "gloss": "بخش دے (مینوں)"
+    }
+  ],
+  "timestamp": "2026-10-16T01:08:11.759418404Z",
+  "model": "glm-5.3"
+}

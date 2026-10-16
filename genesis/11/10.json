@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 11:10",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "عمراں",
+      "rationale": "نسلاں دی لسٹ — عمر تے سالاں دا گنتی سیاق"
+    },
+    {
+      "kind": "substitution",
+      "subject": "طوفان",
+      "rationale": "המבול مخصوص سیلح\/طوفان اے، عام 'مینہہ' نئیں"
+    }
+  ],
+  "translation": "ایہہ شیم دیاں نسلاں نیں: شیم سو سال دا سی، تے طوفان توں دو سال بعد اوہدے اَرفکشد نے ⟨את⟩ جمے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d600afaaff682b9f32b6c86c247364ca07dbbdb67574b0c482e52c0d1978d9ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/11\/9-12.1792094854811.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "نسلاں"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شیم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شیم"
+    },
+    {
+      "surface": "בן",
+      "gloss": "دا پُتر"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "سو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "اوہدے جمے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَرفکشد"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "اَرفکشد"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "دو سال"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "توں بعد"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "طوفان"
+    }
+  ],
+  "timestamp": "2026-10-15T20:07:34.812437629Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 40:11",
+  "book": "ezekiel",
+  "lang": "pnb",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "تے",
+      "rationale": "دوجی گنتی دے جوڑ لئی پنجابی ولّوں شامل"
+    },
+    {
+      "kind": "measurement",
+      "subject": "دس ہاتھ، تیرھاں ہاتھ",
+      "rationale": "گیٹ دی چوڑائی تے لمبائی دی ناپ"
+    }
+  ],
+  "translation": "تے اوس ناپیا ⟨את⟩ گیٹ دے منہ دی چوڑائی، دس ہاتھ، تے گیٹ دی لمبائی تیرھاں ہاتھ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "76f5ee42bbef492dccbfc26f2ce9efabf819932a6a42836847267b2fe2080f5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/40\/9-12.1792110151059.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "تے اوس ناپیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گیٹ دے منہ دی چوڑائی"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "چوڑائی"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "منہ"
+    },
+    {
+      "surface": "השער",
+      "gloss": "گیٹ دے"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دس"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ہاتھ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "لمبائی"
+    },
+    {
+      "surface": "השער",
+      "gloss": "گیٹ دی"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "تیرھاں (تین-دس)"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "⟨دس⟩"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ہاتھ"
+    }
+  ],
+  "timestamp": "2026-10-16T00:22:31.060375213Z",
+  "model": "glm-5.3"
+}

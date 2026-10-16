@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 15:22",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "שלשת ימים",
+      "rationale": "تن دن دی گنتی — بن وِچ پانی دی کھوج"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ים סוף",
+      "rationale": "مول: “سُپی\/کانے دا سمندر” — “لال سمندر” روایت دا ترجمہ نئیں"
+    }
+  ],
+  "translation": "تے موشے نے ⟨את⟩ یِسرائیل نوں سُپی دے سمندر توں روانہ کیتا، تے اوہ شُور دے بن وِچ نِکل گئے، تے تن دن بن وِچ ٹُرے، تے پانی نئیں لبھیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "cf8c720d123cbb9253908586f969c4be994690da457a19806077978c6dcb568e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/15\/21-24.1792096458658.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "روانہ کیتا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یِسرائیل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "מים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "سُپی دے"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "نِکل گئے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "بن"
+    },
+    {
+      "surface": "שור",
+      "gloss": "شُور"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ٹُرے"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "تن"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دن"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "بن وِچ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "لبھیا"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پانی"
+    }
+  ],
+  "timestamp": "2026-10-15T20:34:18.659225331Z",
+  "model": "glm-5.3"
+}

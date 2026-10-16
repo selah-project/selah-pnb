@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-samuel 14:51",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "عبرانی وِچ فعل نئیں، پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "اَویایل دے دو پُتر",
+      "rationale": "کجھ پڑھوکی قیش تے نیر دوویں نوں اَویایل دے پُتر منندے نیں، پر متن سِدھا صرف نیر لئی آکھدا اے"
+    }
+  ],
+  "translation": "تے قیش شاؤل دا پیو سی، تے نیر — اَبنیر دا پیو — اَویایل دا پُتر سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3ffed4de3ae8155c73a30ae9b480fd86c68f84ddcd75ad2196c88586413aff8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/14\/49-52.1792102533246.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וקיש",
+      "gloss": "تے قیش"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پیو"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل دا"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "تے نیر"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پیو"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "اَبنیر دا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אביאל",
+      "gloss": "اَویایل دا"
+    }
+  ],
+  "timestamp": "2026-10-15T22:15:33.247949Z",
+  "model": "glm-5.3"
+}

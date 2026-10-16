@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 17:1",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "اِفِس-دمّیم",
+      "rationale": "עפס דמים تھاں دا ناں اے — مطلب شاید 'خونی سرحد\/لہو دا کنارا'، پر ناں ای رکھیا اے"
+    },
+    {
+      "kind": "elision",
+      "subject": "באפס",
+      "gloss-split": "عبرانی اک تھاں-ناں دو ٹوکن בݨا کے لکھیا اے"
+    }
+  ],
+  "translation": "تے فلسطیاں نے ⟨את⟩ اپنے پڑاؤ جنگ لئی اکٹھے کیتے، تے سوکوہ وِچ اکٹھے ہوئے جیہڑا یہوداہ دا اے، تے سوکوہ تے عزیقاہ دے وچکار ڈیرے لائے، اِفِس-دمّیم وِچ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "13c0d90dfc27e96373041401212a137764c7d1f1e04a8c12f5d75bb21134eedc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/17\/1-4.1792102631487.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "اکٹھے کیتے"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "فلسطیاں نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنے پڑاؤ"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "اپنے پڑاؤ"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "جنگ لئی"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "اکٹھے ہوئے"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "سوکوہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "یہوداہ دا"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ڈیرے لائے"
+    },
+    {
+      "surface": "בין",
+      "gloss": "وچکار"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "سوکوہ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "تے وچکار"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "عزیقاہ"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "اِفِس-دمّیم وِچ ⟨حاشیے والا حصہ⟩"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "دمّیم"
+    }
+  ],
+  "timestamp": "2026-10-15T22:17:11.487843850Z",
+  "model": "glm-5.3"
+}

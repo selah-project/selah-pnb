@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 28:30",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "کپارہ",
+      "rationale": "لכפר literally 'to cover\/atone' — rendered in punjabi 'kufara' as a cover, a word meaning atonement\/expiation"
+    }
+  ],
+  "translation": "تے اِک بکری دا چھترا، تُہاڈے لئی کپارے لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7b07036bbc99ff88a0f7622431234aa1e18af56668b8fbf6428e815ba426e972",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/28\/29-31.1792099174143.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "چھترا"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "بکری دا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "اِک"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "کپارے لئی"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "تُہاڈے لئی"
+    }
+  ],
+  "timestamp": "2026-10-15T21:19:34.144217338Z",
+  "model": "glm-5.3"
+}

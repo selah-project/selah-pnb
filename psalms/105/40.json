@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 105:40",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "بٹیر",
+      "rationale": "שלו بٹیر (پرندہ) اے — بھار ودھ ہون کرکے اُڈاری ہولی، جویں Strong's وی آکھدا اے۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "اسمان دی روٹی",
+      "rationale": "روٹی وڈھ-تودھ کے دِتی جان والی چیز اے — 'رجھاؤݨ' نال گنتی والا ورتارا جُڑیا اے۔"
+    }
+  ],
+  "translation": "اوہناں نے منگیا تے اوہنے بٹیر لیاندے، تے اسمان دی روٹی نال اوہناں نوں رجھا دتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "13de54975d6c0cf9b7d16426a426cdfa39d7074471677b7046572bcaf8b6fda9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/105\/37-40.1792113564580.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "اوہناں نے منگیا"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "تے اوہنے لیاندے"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "بٹیر"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "تے روٹی"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "اسمان دی"
+    },
+    {
+      "surface": "ישביעם",
+      "gloss": "اوہناں نوں رجھا دتا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:19:24.581046430Z",
+  "model": "glm-5.3"
+}

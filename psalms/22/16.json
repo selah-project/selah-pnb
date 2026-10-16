@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מלקוחי",
+      "rationale": "ਇੱਕ ਲਫ਼ਜ਼ ਦੋ ਮطلب: 'جبھڑے' (ਦੋਹਰਾ) یا 'شکار' — جبھڑے پرانی سمجھ اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "مَیں تُوں",
+      "rationale": "תשפתני دی کرتا تُوں اے پر پنجابی وِچ صریح ضمیر لوڑی"
+    }
+  ],
+  "translation": "میرا زور کولھے دے ٹیکے وانگوں سکّ گیا، تے میری زبان میرے جبھڑیاں نال چمبڑ گئی، تے مَیں تُوں موت دی گَلّ وِچ پا دِتیاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "91233f5f52ffdf9ce5a2a3268ee7b28cec21719b3776c1eb5cb7f68dec3f8a7f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/22\/13-16.1792112083813.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "سکّ گیا"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "کولھے دے ٹیکے وانگوں"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "میرا زور"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "تے میری زبان"
+    },
+    {
+      "surface": "מדבק",
+      "gloss": "چمبڑ گئی"
+    },
+    {
+      "surface": "מלקוחי",
+      "gloss": "میرے جبھڑیاں نال"
+    },
+    {
+      "surface": "ולעפר",
+      "gloss": "تے گَلّ وِچ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت دی"
+    },
+    {
+      "surface": "תשפתנی",
+      "gloss": "مَیں پا دِتیاں"
+    }
+  ],
+  "timestamp": "2026-10-16T00:54:43.814050754Z",
+  "model": "glm-5.3"
+}

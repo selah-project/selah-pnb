@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 5:12",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נשא",
+      "rationale": "لفظی 'چکیا' — بادشاہت نوں اُچا چُکیا؛ 'اُچی کیتی' نزدیکی اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נשא \/ ממלכתו",
+      "rationale": "جد ن-س-آ 'چُکݨ\/سہݨ' دوویں پاسے مردا اے — جلد بازی وِچ تھوڑی گھٹ پئی"
+    }
+  ],
+  "translation": "تے داوِد نے جانیا جو یاہوہ نے اوہنوں یِسرائیل اُتے بادشاہ ثابت کیتا اے، تے جو اوہنے اوہدی بادشاہت اوہدے قوم یِسرائیل لئی اُچی کیتی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "549176226441194a42801fe28ea342aed0748070d7b875a313077a9fe0e36192",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/5\/9-12.1792103229366.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "تے جانیا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد نے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "ثابت کیتا اے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ نے"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "تے جو"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "اُچی کیتی اے"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "اوہدی بادشاہت"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "لئی"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "اوہدے قوم"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-10-15T22:27:09.367229290Z",
+  "model": "glm-5.3"
+}

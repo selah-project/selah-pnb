@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 30:15",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "המעט",
+      "rationale": "'کی تھوڑا اے' — عبرانی دا رستہ انکار دا سوال اے، مطلب: 'ایہہ لونگ اِتلا نئیں'۔"
+    },
+    {
+      "kind": "you",
+      "subject": "لیاہ دا جواب",
+      "rationale": "سدھی توازن راحیل نوں، چِڑھ نال بھریا سوال۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תחת",
+      "rationale": "'تھلے\/ہیٹھ' دا لفظ 'بدلے' دے معنی وِچ — وٹاندرے دی گل اے۔"
+    }
+  ],
+  "translation": "تے لیاہ نے اوہنوں آکھیا: کی ایہہ تھوڑا اے کہ توں ⟨את⟩ میرے شوہر نوں لے چکیں ایں، تے ہن ⟨את⟩ میرے پُتر دے مندراک وی لے لینیں؟ تے راحیل نے آکھیا: اِس لئی اوہ اج رات تیرے نال سویگا — تیرے پُتر دے مندراکاں دے بدلے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0446f70864e3991b592f6828ba120ab5829639625bf79a2d09e521c79c8f3542",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/30\/13-16.1792095447183.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "تے … آکھیا"
+    },
+    {
+      "surface": "לה",
+      "gloss": "اوہنوں"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "کی ایہہ تھوڑا اے"
+    },
+    {
+      "surface": "קחתך",
+      "gloss": "توں … لے چکیں ایں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میرے شوہر"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "میرے شوہر"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "تے … لے لینیں"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ہن … وی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میرے پُتر دے مندراک"
+    },
+    {
+      "surface": "דודאי",
+      "gloss": "مندراک"
+    },
+    {
+      "surface": "בני",
+      "gloss": "میرے پُتر دے"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "تے … آکھیا"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "راحیل"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "اِس لئی"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "اوہ … سویگا"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تیرے نال"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "اج رات"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "دے بدلے"
+    },
+    {
+      "surface": "דודאי",
+      "gloss": "مندراکاں"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "تیرے پُتر دے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:17:27.184718052Z",
+  "model": "glm-5.3"
+}

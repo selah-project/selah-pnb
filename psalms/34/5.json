@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 34:5",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "میں",
+      "rationale": "عبرانی وِچ فعل دی صورت پہلی شخص دسی دندی اے، ضمیر وکھرا نئیں"
+    }
+  ],
+  "translation": "میں ⟨את⟩ یاہوہ نوں لبھیا، تے اوہنے مینوں جواب دتا، تے میرے سارے خوفاں توں مینوں چھڈایا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "de242b39fc63e69dad226e202adf721f52a44cdb6065cba3550d269d034dd3f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/34\/5-8.1792112254611.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דרשתי",
+      "gloss": "میں لبھیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "تے جواب دتا"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "تے ساریاں توں"
+    },
+    {
+      "surface": "מגורותי",
+      "gloss": "میرے خوف"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "مینوں چھڈایا"
+    }
+  ],
+  "timestamp": "2026-10-16T00:57:34.612020893Z",
+  "model": "glm-5.3"
+}

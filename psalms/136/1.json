@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 136:1",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 136,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "הודו",
+      "rationale": "جماعت نوں سدّیا گیا فعل امر — خوبصورت انتظام نال گائے جان والے گیت دی سُر"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כי … כי",
+      "rationale": "دو واری כی نال تکرار، پنجابی وِچ دوویں واری کیوں جو رکھیا"
+    },
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "عبرانی وِچ کوئی کپولا نئیں، پنجابی جمله منگدا اے"
+    }
+  ],
+  "translation": "یاہوہ نوں دھنو، کیوں جو اوہ چنگا اے، کیوں جو اوہدا خیسِد ⟨ہمیشہ لئی⟩ اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f6106afd89616535912ecf0c88195e9b1dc2820b774689dd7f9538148c04e53e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/136\/1-4.1792114102834.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "دھنو"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ نوں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشہ لئی"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "اوہدا خیسِد"
+    }
+  ],
+  "timestamp": "2026-10-16T01:28:22.834535043Z",
+  "model": "glm-5.3"
+}

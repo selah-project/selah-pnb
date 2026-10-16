@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 34:20",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "میرے اگے خالی نہ دِکھے",
+      "rationale": "ערף دا مول مطلب 'گردن توڑنا' — لفظی چِتھّی نال دتا؛ 'خالی نہ دِکھے' عبرانی دی روایت اے، 'خالی ہتھ' پنجابی وچ سمجھ لئی۔"
+    },
+    {
+      "kind": "you",
+      "subject": "فدیہ دےویں",
+      "rationale": "حکم سدھا مخاطب اے — اسرائیل نوں۔"
+    }
+  ],
+  "translation": "تے خچر دا پہلوٹھا تُوں بھیڈ نال فدیہ دےویں؛ تے جے فدیہ نہ دےویں تاں اوہدی گردن توڑ دےویں۔ تیرے پتراں دا ہر پہلوٹھا فدیہ دےویں؛ تے کوئی میرے اگے خالی نہ دِکھے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b9cadb946a500c1f3cdbc0eb6d795b0fae08bcdf24406bb8b093ca3445a26e07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/34\/17-20.1792097070636.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופטר",
+      "gloss": "تے پہلوٹھا"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "خچر دا"
+    },
+    {
+      "surface": "תפדה",
+      "gloss": "فدیہ دےویں"
+    },
+    {
+      "surface": "בשה",
+      "gloss": "بھیڈ نال"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תפדה",
+      "gloss": "فدیہ دےویں"
+    },
+    {
+      "surface": "וערפתו",
+      "gloss": "اوہدی گردن توڑ دےویں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "پہلوٹھا"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "تیرے پتراں دا"
+    },
+    {
+      "surface": "תפדה",
+      "gloss": "فدیہ دےویں"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "دِکھن"
+    },
+    {
+      "surface": "פני",
+      "gloss": "میرے اگے"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "خالی"
+    }
+  ],
+  "timestamp": "2026-10-15T20:44:30.637444952Z",
+  "model": "glm-5.3"
+}

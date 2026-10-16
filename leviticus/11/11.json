@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "منع دا فرمان — نئیں کھاؤگے، گھنا کرو گے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שקץ \/ תשקצו",
+      "rationale": "ڳنڈھ ہوئی جڑ שקץ نال کریا واپس آندی اے — گھناؤنا → گھنا کرنا"
+    }
+  ],
+  "translation": "تے اوہ تہاڈے لئی گھناؤنے ہون گے — اوہناں دے ماس دا تسیں نئیں کھاؤگے، تے ⟨את⟩ اوہناں دی لاش نوں تسیں گھنا کرو گے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "babfaf4812f00d69ea3fb919034ae612c3dba15a23c38b8285a92fba21785235",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/11\/9-12.1792097547618.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "تے گھناؤنا"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ہون گے"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تہاڈے لئی"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "اوہناں دے ماس توں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "تسیں کھاؤ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اوہناں دی لاش نوں"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "اوہناں دی لاش"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "تسیں گھنا کرو گے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:52:27.619603932Z",
+  "model": "glm-5.3"
+}

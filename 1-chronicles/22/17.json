@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 22:17",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "کہ",
+      "rationale": "عبرانی وِچ حکم تے مقصد دے وچکار کوئی جوڑ نئیں، پنجابی نوں 'کہ' چاہیدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "شلومو",
+      "rationale": "לשלמה حرف-نقل اے — سلیمان دی ریت دی تھاں عبرانی آواز"
+    }
+  ],
+  "translation": "تے داوِد نے یِسرائیل دے ساریاں سرداراں نوں حکم دتا کہ اوہ اوہدے پُتر شلومو دی مدد کرن،",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7a1d1eec31ab0a9f0654063308885510e8603c5964bd1192b324bb5e138c2a92",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/22\/17-19.1792121209496.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "حکم دتا"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد نے"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ساریاں"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سرداراں نوں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل دے"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "مدد کرن"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اوہدے پُتر"
+    }
+  ],
+  "timestamp": "2026-10-16T03:26:49.496933900Z",
+  "model": "glm-5.3"
+}

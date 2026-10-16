@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 2:15",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "عبرانی ہوוא جُملے دا کوئی کرنتا نئیں دندا؛ پنجابی نوں 'ایہہ … اے' چاہیدا اے۔"
+    }
+  ],
+  "translation": "تے اُس اُتے تیل پاویں، تے اُس اُتے لوبان دَویں؛ ایہہ ہدیہ اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4bf049c7e6b94fc4688952fda3af1a3dd660aceba65beea823fc9a6f6b97c029",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/2\/13-16.1792097387984.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "تے-پاویں"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "اُس-اُتے"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "تیل"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "تے-دَویں"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "اُس-اُتے"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "لوبان"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ہدیہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ایہہ"
+    }
+  ],
+  "timestamp": "2026-10-15T20:49:47.985802179Z",
+  "model": "glm-5.3"
+}

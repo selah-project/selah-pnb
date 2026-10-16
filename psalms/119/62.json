@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 119:62",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "شکر",
+      "rationale": "להודות دا مول مطلب 'منّݨ\/اعتراف کرنا' — 'شکر کرنا' اوہد‏ی عام پنجابی جھلک اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "میں",
+      "rationale": "עברית وچ فعل دا صیغہ 'میں' دسدا اے، پنجابی نوں وکھو وکھ ضمیر چاہیدی اے۔"
+    }
+  ],
+  "translation": "ادھی رات نوں میں اُٹھاں تیرا شکر کرن لئی، تیرے نیاں دیاں صداقتاں اُتے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e444bba5aa249d029a8be610aad1dc0f13a0206eda6a5444bf22799cbdfac3a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/119\/61-64.1792113865548.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חצות",
+      "gloss": "ادھی"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "رات نوں"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "میں اُٹھاں"
+    },
+    {
+      "surface": "להודות",
+      "gloss": "شکر کرن لئی"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیرا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "نیاں دیاں"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "تیریاں صداقتاں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:24:25.548716849Z",
+  "model": "glm-5.3"
+}

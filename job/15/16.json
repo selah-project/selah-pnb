@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 15:16",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ظلم نوں پانی وانگوں پیونا",
+      "rationale": "عبرانی دا بندی شوپیکچر — جیویں ساہ ساہ پانی، اوویں بندہ زیتی نال زیتی نال ظلم پیوندا اے؛ پنجابی وِچ ٹھیک رکھیا۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "میلا",
+      "rationale": "ונאלח دا مول مطلب گڈیا-مڈھا (دودھ وِچ پانی رلا کے) — اخلاقی میلاہٹ ول ودھیا۔"
+    },
+    {
+      "kind": "you",
+      "subject": "ایوب نوں",
+      "rationale": "الیفاز دا چربالا وڈیک — بندے دی فطرت بارے، ایوب اُتے لاگو۔"
+    }
+  ],
+  "translation": "کتنا بوہتا گھناونا تے میلا بندہ، جیہڑا ظلم نوں پانی وانگوں پیوندا اے!",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c2da73cad3c57822a0f90ff034b844ea79b8cf9157f895dc6200e0541f372d0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/15\/13-16.1792115811796.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "کتنا بوہتا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "נתעב",
+      "gloss": "گھناونا"
+    },
+    {
+      "surface": "ונאלח",
+      "gloss": "تے میلا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "پیوندا اے"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "پانی وانگوں"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ظلم"
+    }
+  ],
+  "timestamp": "2026-10-16T01:56:51.798040460Z",
+  "model": "glm-5.3"
+}

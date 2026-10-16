@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 104:22",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "جدوں",
+      "rationale": "عبرانی وِچ کوئی زمانے دا لفظ نئیں؛ پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "اوہ",
+      "rationale": "کریا دا فاعل عبرانی جمع صیغے وِچ چھپا اے، پنجابی وِچ الگ لفظ منگدا اے"
+    }
+  ],
+  "translation": "جدوں سورج چاندا اے، اوہ اکٹھے ہو جاندے نیں تے اپنیاں مائراں وِچ لتھّ جاندے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9e7b141356948e4cd92bb06f6f5e2f705ad6ad6ab93b8c20b8b5a2a07d0ec7ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/104\/21-24.1792113486560.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תזרח",
+      "gloss": "چاندا اے"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سورج"
+    },
+    {
+      "surface": "יאספון",
+      "gloss": "اکٹھے ہو جاندے نیں"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے ⟨اپنیاں مائراں⟩ ول"
+    },
+    {
+      "surface": "מעונתם",
+      "gloss": "اپنیاں مائراں"
+    },
+    {
+      "surface": "ירبצון",
+      "gloss": "لتھّ جاندے نیں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:18:06.561767267Z",
+  "model": "glm-5.3"
+}

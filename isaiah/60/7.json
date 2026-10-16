@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 60:7",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תפארתי אפאר",
+      "rationale": "اوہو جڑ پ–ا–ر دو واری — 'میرے شوکت دے گھر نوں اَپنا شنگار بناساں'؛ پنجابی وِچ پھیر نئیں رہ سکیا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מזבחי",
+      "gloss": "قربان گاہ",
+      "rationale": "'میری قربان گاہ' — מזבחی وِچ پہلی شخص دی جڑ اے، ترجمے وِچ 'میری' تھوں پہلاں 'میری خوشی' آیا"
+    }
+  ],
+  "translation": "قیدار دا سارا اَجھا تیرے کول کٹھا ہوسی، نَبایوت دے مینڈھے تیری سیوا کرنگے؛ اوہ میری خوشی والے قربان گاہ اُتے چڑھنگے، تے اَپنی شوکت دے گھر نوں اَپنا شنگار بناساں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "00cb4385c2fef0c074be0944cca7dba7054fe21fb565244ba2bf8776676a51d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/60\/5-8.1792107054228.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "اَجھا"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "قیدار دا"
+    },
+    {
+      "surface": "יקבצו",
+      "gloss": "کٹھا ہوسی"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیرے کول"
+    },
+    {
+      "surface": "אילי",
+      "gloss": "مینڈھے"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "نَبایوت دے"
+    },
+    {
+      "surface": "ישרתונך",
+      "gloss": "تیری سیوا کرنگے"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "چڑھنگے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "خوشی"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "قربان گاہ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "تے گھر نوں"
+    },
+    {
+      "surface": "תפארתי",
+      "gloss": "شوکت دے"
+    },
+    {
+      "surface": "אפאר",
+      "gloss": "شنگار بناساں"
+    }
+  ],
+  "timestamp": "2026-10-15T23:30:54.229648662Z",
+  "model": "glm-5.3"
+}

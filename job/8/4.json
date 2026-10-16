@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 8:4",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ביד פשעם",
+      "rationale": "سرکشی دے ہتھ وِچ — مطلب اوہناں دی سرکشی دے سُٹے، حرفی ہتھ نئیں"
+    }
+  ],
+  "translation": "جے تیرے پُتراں نے اوہدے اگے گناہ کیتا تے اوہنے اوہناں نوں اوہناں دی سرکشی دے ہتھ وِچ سُٹ دِتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fafd15e4a70a24007137c865d5725f65764c8a9d7f7cdb57b19058387b9c1a59",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/8\/1-4.1792115532049.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "تیرے پُتراں نے"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "گناہ کیتا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدے اگے"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "تے اوہنے اوہناں نوں سُٹ دِتا"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ہتھ وِچ"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "اوہناں دی سرکشی دے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:52:12.050177416Z",
+  "model": "glm-5.3"
+}

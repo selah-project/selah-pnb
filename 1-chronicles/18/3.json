@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 18:3",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "اپنا ہتھ",
+      "rationale": "להציב ידו 'ہتھ قائم کرنا' = راج پھیلانا؛ شکل رکھی اے، معنی ہتھ دی طاقت دا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "حماۃ تک",
+      "rationale": "חמתہ: 'حماunkt تک' (تھاں دی حد) بمقابلہ 'حماۃ وِچ' — ترجمے ونڈے ہوئے نیں"
+    }
+  ],
+  "translation": "تے داوِد نے ⟨את⟩ ہدادعزر نوں ماریا، صوبہ دے بادشاہ نوں، حماۃ تک، جدوں اوہ اپنا ہتھ فرات دریاے اُتے قائم کرن لئی تریا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b66dd8990192fa8811abf5a0dc0f96ffa02afd2855977afc9212a9a28ec156fd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/18\/1-4.1792121003338.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "تے ماریا"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هدادعزر"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "هدادعزر"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "صوبہ"
+    },
+    {
+      "surface": "חמתה",
+      "gloss": "حماۃ تک"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "جدوں اوہ تریا"
+    },
+    {
+      "surface": "להציב",
+      "gloss": "قائم کرن لئی"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "اپنا ہتھ"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "دریاے اُتے"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "فرات"
+    }
+  ],
+  "timestamp": "2026-10-16T03:23:23.339373234Z",
+  "model": "glm-5.3"
+}

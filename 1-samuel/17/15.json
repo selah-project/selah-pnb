@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 17:15",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "بھیڈاں",
+      "rationale": "צאן جمع اے — بھیڈاں تے ٹکّے دوویں — لفظ دی شکل رکھی گئی"
+    },
+    {
+      "kind": "alternative",
+      "subject": "آؤن جاندا سی",
+      "rationale": "הלך ושב دو چال اِک پٹی وِچ — 'جا کے مُڑدا' بھی سَوَیندا اے، آؤن جان وِچکار دا مطلب وی اے"
+    }
+  ],
+  "translation": "تے داوِد شاؤل کولوں آؤن جاندا سی، اپنے پیو دیاں ⟨את⟩ بھیڈاں چران لئی بیت لِخِم وِچ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "23aa79b4a96161e2fdadfdecfcc3ea83e6a7faa6eb8a60af0439364dbbfbb56a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/17\/13-16.1792102627039.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "تے داوِد"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "جاندا سی"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "تے مُڑدا"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "کولوں"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "چران لئی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بھیڈاں"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "بھیڈاں"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "اپنے پیو دیاں"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لِخِم"
+    }
+  ],
+  "timestamp": "2026-10-15T22:17:07.040258711Z",
+  "model": "glm-5.3"
+}

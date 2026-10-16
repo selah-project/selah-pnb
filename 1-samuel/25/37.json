@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-samuel 25:37",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "wine gone out of Nabal",
+      "rationale": "بצאת היין מנבال — 'شراب دا نابل وِچوں نِکلن' یعنی نشے دا اُترنا، پنجابی وِچ سُچجی ریت نال 'جد نابل وِچوں شراب نِکلی' رکھیا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "his heart died",
+      "rationale": "לבו מת — دل مر گیا، مجازی صورت حرفی رکھی اے، 'دل ڈوب گیا' نئیں"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨دے⟩",
+      "rationale": "'پتھر بن دے ہویا' — پنجابی دی رو ⟨دے⟩ منگدی اے، عبرانی وِچ نئیں"
+    }
+  ],
+  "translation": "تے سویرے ہویا، جد نابل وِچوں شراب نِکلی، تے اوہدی تریمتی نے اوہنوں ⟨את⟩ ایہناں گلاں بارے دسیا، تے اوہدا دل اوہدے وِچ مر گیا، تے اوہ پتھر بن ⟨دے⟩ ہویا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a6fea93560bc84aa5a3671cff17ac336f52fcbc290904f6648846503a75f2b7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/25\/37-40.1792102943269.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے ہویا"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "سویرے"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "نِکلن اُتے"
+    },
+    {
+      "surface": "היין",
+      "gloss": "شراب"
+    },
+    {
+      "surface": "מנבל",
+      "gloss": "نابل وِچوں"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "تے دسیا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہنوں"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "اوہدی تریمتی نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایہناں گلاں نوں"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "گلاں"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ایہناں"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "تے مر گیا"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "اوہدا دل"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "اوہدے وِچ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "تے اوہ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ہویا"
+    },
+    {
+      "surface": "לאבן",
+      "gloss": "پتھر لئی"
+    }
+  ],
+  "timestamp": "2026-10-15T22:22:23.269634380Z",
+  "model": "glm-5.3"
+}

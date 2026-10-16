@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 11:6",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "غصہ",
+      "rationale": "אפו اِصل وچ 'اوہدی نَکّ' اے — غصے دی عبرانی مورت، پنجابی وچ غصہ"
+    },
+    {
+      "kind": "crux",
+      "subject": "ותצלח",
+      "rationale": "'روح شاؤل اُتے تُر پی' (KJV 'came upon') بمقابلہ 'زور نال آئی' (ASV 'mightily') — فعل دے دونوں پہلو"
+    }
+  ],
+  "translation": "تے ایہہ گلاں ⟨את⟩ سندیاں ای ایلوہیم دی روح شاؤل اُتے تُر پی، تے اوہدا غصہ بھاویں بھڑک اُٹھیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d1fdf19e0aec7b7a0182e32cbe18bab4225c670421f3abaf49ea7f0b3759d005",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/11\/5-8.1792102428044.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותצלח",
+      "gloss": "تے تُر پی"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "سندیاں ای"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایہہ گلاں"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "گلاں"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "تے بھڑک اُٹھیا"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "اوہدا غصہ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بھاویں"
+    }
+  ],
+  "timestamp": "2026-10-15T22:13:48.045261518Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 20:7",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "آں",
+      "rationale": "عبرانی وِچ کوئی copula نئیں — 'میں یاہوہ تہاڈے ایلوہیم'؛ پنجابی جملے لئی 'آں' پایا گیا، بریکٹ توں باہر رلی نال۔"
+    },
+    {
+      "kind": "you",
+      "subject": "اسرائیل",
+      "rationale": "حکم سدھا قوم نوں مخاطب اے — 'پوتر ہو جاؤ'۔"
+    },
+    {
+      "kind": "invitation",
+      "subject": "پوتر ہو جاؤ",
+      "rationale": "بندی دا حکم قوم نوں سدّدا اے۔"
+    }
+  ],
+  "translation": "تے اُتھے پوتر ہو جاؤ تے پوتر بنو، کیوں جو اَ میں یاہوہ تہاڈے ایلوہیم آں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "81eae7be84484b6eb4f18765251f4c3fc88d7fb023e0e78a42d6038537726f15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/20\/5-8.1792097941676.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והתקדשתם",
+      "gloss": "تے اُتھے پوتر ہو جاؤ"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "تے بنو"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "پوتر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אני",
+      "gloss": "اَ میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "تہاڈے ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-10-15T20:59:01.677283289Z",
+  "model": "glm-5.3"
+}

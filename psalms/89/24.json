@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 89:24",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מפניו",
+      "gloss-rationale": "",
+      "rationale": "مِלّפְּנָיו 'اوہدے مُہرے\/اگے' — عبرانی 'چہرے توں' دی واک، 'حاضر وِچ' دسدا اے۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צריו\/משנאיו",
+      "rationale": "دوہری واک — 'دشمن' تے 'نفرت کرن والے' متوازی جوڑے، عبرانی شعری ساخت اے۔"
+    }
+  ],
+  "translation": "تے میں اوہدے دشمناں نوں اوہدے اگے کُچھ کُچھاں گا، تے اوہدے نفرت کرن والیاں نوں مار ماریں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "53416db0c0e281c5143d59e983b3c907bb3de2cd2c51138b12acab80c8103f82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/89\/21-24.1792113291050.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכתותי",
+      "gloss": "تے میں … کُچھ کُچھاں گا"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "اوہدے اگے"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "اوہدے دشمناں نوں"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "تے اوہدے نفرت کرن والیاں نوں"
+    },
+    {
+      "surface": "אגוף",
+      "gloss": "مار ماریں گا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:14:51.051761919Z",
+  "model": "glm-5.3"
+}

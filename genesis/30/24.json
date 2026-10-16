@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 30:24",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יוסף\/יסף",
+      "rationale": "ناں یوسف تے کریا یسف (وادھا کرنا) — ناں دا مطلب اوہدے آپنے شبداں وِچ، پنجابی وِچ ایہہ رشتہ کھوہ جاندا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "ہور",
+      "rationale": "אחר ‘دوجا\/ہور' — پنجابی جملہ ہور نال سُچج بولدا اے"
+    }
+  ],
+  "translation": "تے اوہنے ⟨את⟩ اوہدا ناں یوسف رکھیا، آکھے دی: یاہوہ مینوں ہور اِک پُتر وادھا کرے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fde1c94bcb49b1a4499c2da29cfb885d381ad0a35d7d29a0a589ae220f764943",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/30\/21-24.1792095359655.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "تے اوہنے … رکھیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہدا ناں"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اوہدا ناں"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھے دی"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "وادھا کرے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مینوں"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ہور اِک"
+    }
+  ],
+  "timestamp": "2026-10-15T20:15:59.657139077Z",
+  "model": "glm-5.3"
+}

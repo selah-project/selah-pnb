@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 18:13",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בנפשו",
+      "rationale": "اِکلو ἑαυτοῦ کہندا اے — 'میں اپنی جان'؛ عبرانی صیغہ اِکو اے، ترجمے دو ول ونڈدے نیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "جان\/جی دی تھاں — ساہ، جیون"
+    },
+    {
+      "kind": "addition",
+      "subject": "ہوندا",
+      "rationale": "عبرانی ماضی اے پر مطلب مشروط اے — پنجابی وِچ فعل دا صیغہ دسدا اے"
+    }
+  ],
+  "translation": "جاں میں ⟨اوہدے⟩ جان نال جھوٹھ کیتا ہوندا، تے کوئی گل بادشاہ توں چھپی نئیں رہندی، تے تُوں آپ اُلٹے پاسے کھلو جاندا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "821b156a94c815aa36524c578d346c97aa143cb0a139a59ae304b6a256db2cb1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/18\/13-16.1792103686384.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "جاں"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "میں کیتا ہوندا"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "⟨اوہدے⟩ جان نال"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "جھوٹھ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے کوئی"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יכחד",
+      "gloss": "چھپی رہندی"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "تے تُوں آپ"
+    },
+    {
+      "surface": "תתיצב",
+      "gloss": "کھلو جاندا"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "اُلٹے پاسے"
+    }
+  ],
+  "timestamp": "2026-10-15T22:34:46.384612266Z",
+  "model": "glm-5.3"
+}

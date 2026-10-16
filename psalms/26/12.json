@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 26:12",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "دعاواں دینا",
+      "rationale": "ברך لفظی طور ' genuflect\/برکت دینا' اے — ایتھے پرستا دا فعل اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "במישור",
+      "rationale": "'سدھی\/ہموار تھاں' — تصویری وی اے (ٹیڈھا-سدھا) تے ارضی وی (میدان)"
+    }
+  ],
+  "translation": "میرا پیر سدھی تھاں وِچ کھلوندا اے؛ محافلاں وِچ میں یاہوہ نوں دعاواں دیواں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8abf0f1c75d1ad7f331abc0dd0de1a9916fb9243d0c731aa7052472fa2c06bb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/26\/9-12.1792112134217.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רגלי",
+      "gloss": "میرا پیر"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "کھلوندا اے"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "سدھی تھاں وِچ"
+    },
+    {
+      "surface": "במקהלים",
+      "gloss": "محافلاں وِچ"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "میں دعاواں دیواں گا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-10-16T00:55:34.218312211Z",
+  "model": "glm-5.3"
+}

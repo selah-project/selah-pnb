@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 6:15",
+  "book": "2-chronicles",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "دسدا اے",
+      "rationale": "כיום הזה 'جیویں اَج دے دن' — پنجابی جملہ پورا کرن لئی ⟨⟩ وِچ فعل دتا۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מול\/יד",
+      "rationale": "مُولھ نال آکھنا تے ہتھ نال پورا کرنا — عبرانی دا جوڑ بھاشن وِچ برقرار اے۔"
+    }
+  ],
+  "translation": "جیہڑا اپنے بندے میرے پیو داوِد نال ⟨את⟩ اوہدی کل اوہ گل نبھا چُکیا جیہڑی تُوں اوہدے نال آکھی سی؛ تے اپنے مُولھ نال آکھیا تے اپنے ہتھ نال پورا کیتا اے، جیویں اَج دے دن ⟨دسدا اے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "588f90b2c30b76f7eac9af8b33c063f361dfa1c388e9db189e841c03f5c920f1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/6\/14-15.1792124439968.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "نبھا چُکیا"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "اپنے بندے"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "میرے پیو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہدی کل اوہ گل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "آکھی سی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدے نال"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "اپنے مُولھ نال"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "تے اپنے ہتھ نال"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "پورا کیتا اے"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "جیویں اَج دے دن"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایس"
+    }
+  ],
+  "timestamp": "2026-10-16T04:20:39.969302911Z",
+  "model": "glm-5.3"
+}

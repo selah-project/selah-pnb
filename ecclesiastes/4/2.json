@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ושבח",
+      "rationale": "شבח — 'تعریف کیتی' (JPS\/KJV) بمقابلہ שוה (כשוב) 'مُڑیا' (بعض قدیم تے جدید پڑھتاں) — متراجم ونڈے ہوئے نیں۔"
+    }
+  ],
+  "translation": "تے میں نے ⟨את⟩ اُنہاں مُردیاں دی تعریف کیتی جیہڑے پہلاں ای مر چکے نیں، زندہ لوکاں توں جیہڑے ہُن تک جِوندے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f6af2180538e3ce9e80a385de2e970bd47ac6839f9cc9947c1c6a73ee71573bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ecclesiastes\/4\/1-4.1792117490078.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "تے میں نے تعریف کیتی"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اُنہاں مُردیاں نوں"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "اُنہاں مُردیاں دی"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "پہلاں ای"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "مر چکے نیں"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "زندہ لوکاں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑے"
+    },
+    {
+      "surface": "המה",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "جِوندے نیں"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "ہُن تک"
+    }
+  ],
+  "timestamp": "2026-10-16T02:24:50.079137438Z",
+  "model": "glm-5.3"
+}

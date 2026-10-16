@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 22:4",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עקב",
+      "rationale": "ایڑی: 'عاجزی دا اَنٹھیم یاہوہ دا ڈر اے' (ینگ لیٹرل) بمقابلہ 'عاجزی تے ڈر دا بدلا دولت' (کے جے وی) — عبرانی وزن دے قواعد دوہراں پاسے پھیلدے نیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "دا سَودا",
+      "rationale": "עקב لغوی 'ایڑی\/انت' — 'سَودا' قیدی صورت اے"
+    }
+  ],
+  "translation": "عاجزی تے یاہوہ دا ڈر ⟨دا سَودا اے⟩ — دولت، تے جلال، تے جیون۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "da30ecec23518da05e20c566ab391ef5a453dbaa5d01661c9410f34e9853b227",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/22\/1-4.1792114962474.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "دا سَودا"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "عاجزی"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "دا ڈر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دولت"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "تے جلال"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "تے جیون"
+    }
+  ],
+  "timestamp": "2026-10-16T01:42:42.475207060Z",
+  "model": "glm-5.3"
+}

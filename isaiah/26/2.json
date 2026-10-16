@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 26:2",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "دروازے کھُلھو",
+      "rationale": "حُکم نال پاٹھ نوں سدیا گیا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "امانتاں",
+      "rationale": "אמונים ستھرتا\/وفا — پنجابی وِچ امانت دے نیڑے"
+    }
+  ],
+  "translation": "دروازے کھُلھو، تے اِک نیائوں والی قوم وڑے، جیہڑی امانتاں نوں رکھدی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c6631b478f19035b9145ed4ef31e301360bfa1bb9d389280d368b7fa869e7f3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/26\/1-4.1792106283555.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פתחו",
+      "gloss": "کھُلھو"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "دروازے"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "تے وڑے"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "نیائوں والی"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "رکھدی اے"
+    },
+    {
+      "surface": "אמנים",
+      "gloss": "امانتاں نوں"
+    }
+  ],
+  "timestamp": "2026-10-15T23:18:03.556608698Z",
+  "model": "glm-5.3"
+}

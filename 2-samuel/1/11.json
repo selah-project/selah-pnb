@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 1:11",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "בגדו",
+      "rationale": "בגדו جمع اے (کپڑے) — אותם וِچوں میم — کجھ ترجمے اکلا 'چولا' کردے نیں۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "پاڑے",
+      "rationale": "بندیاں لئی فعل دوبارہ عبرانی نے نئیں دتا، وِچوں سمجھیا جاندا اے — اِتھے پنجابی وی وِچوں رکھیا۔"
+    }
+  ],
+  "translation": "تے داوِد نے اپنے کپڑیاں نوں پھڑ کے پاڑے، تے سارے بندے وی جیہڑے ⟨את⟩ اوہدے کول سن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5619cd07f1b0d571aa6e268bbb265290d7488c073bb5ca52860133e7f48b4dca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/1\/9-12.1792103092895.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "تے-پھڑیا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد-نے"
+    },
+    {
+      "surface": "בבגדו",
+      "gloss": "اپنے-کپڑیاں-نوں"
+    },
+    {
+      "surface": "ויקרעם",
+      "gloss": "تے-پاڑے"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "تے-وی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑے"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ اوہدے-کول",
+      "marks": "سارے بندے جیہڑے اوہدے کول سن"
+    }
+  ],
+  "timestamp": "2026-10-15T22:24:52.896408463Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 23:4",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ہر⟩",
+      "rationale": "مذbeth اُتے اِکو وچکار اے پر اِک نئیں — ونڈوالا مفہوم، پنجابی لئی 'ہر' لوڑیا"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ست مذbeth",
+      "rationale": "بلعام ایلوہیم نوں گنتی دسدا اے — قربانی دا حساب"
+    }
+  ],
+  "translation": "تے ایلوہیم بلعام نوں ملیا، تے اوہنوں آکھیا: ⟨את⟩ ست مذبح میں نے ترتیب دتے نیں، تے ⟨ہر⟩ مذbeth اُتے اِک بیل تے اِک مینڈھا چڑھایا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d07dc78fabb8a37462ee67a5fe488d82abfd59c21b14b4e3050f66ac7b6b19dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/23\/1-4.1792099089488.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "تے…میلیا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بلعام"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے…آکھیا"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اوہنوں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ست مذbeth"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ست"
+    },
+    {
+      "surface": "המזבחת",
+      "gloss": "مذbeth"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "میں نے ترتیب دتے نیں"
+    },
+    {
+      "surface": "ואעל",
+      "gloss": "تے میں چڑھایا"
+    },
+    {
+      "surface": "פר",
+      "gloss": "بیل"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "تے اِک مینڈھا"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "مذbeth اُتے"
+    }
+  ],
+  "timestamp": "2026-10-15T21:18:09.489495516Z",
+  "model": "glm-5.3"
+}

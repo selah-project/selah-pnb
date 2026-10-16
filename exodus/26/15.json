@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 26:15",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "کیکر",
+      "rationale": "שטה سوٹی اتے کانڈیاں والا رُکھ اے — پنجابی 'کیکر' (acacia) اپنے آپ وِچ اوہو رُکھ اے، ایس لئی اپنے بولی دا لفظ چنیا"
+    }
+  ],
+  "translation": "تے توں مسکن لئی ⟨את⟩ تختے بناویں — کیکر دی لکڑ دے، کھلوندے ہوئے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5c167a40d41cfb18674fb26f2a8541d21e464493e32e8c5936416f410d7c7713",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/26\/13-16.1792096873800.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "تے توں بناویں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تختے"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "تختے"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "مسکن لئی"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "لکڑ دے"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "کیکر دی"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "کھلوندے ہوئے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:41:13.801289394Z",
+  "model": "glm-5.3"
+}

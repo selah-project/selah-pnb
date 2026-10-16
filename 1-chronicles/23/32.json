@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 23:32",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אהל מועד",
+      "gloss": "'مِلݨ دا خیمہ' — موعد = مقرر وقت\/مِلݨ؛ 'میعاد' دی تھاں سُچجی پنجابی 'مِلݨ'۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משמרת ×3",
+      "rationale": "شمر جڑ تِن واری دہری — چوکسی، چوکسی، چوکسی؛ ساخت پنجابی وِچ رکھی۔"
+    }
+  ],
+  "translation": "تے اوہناں نے ⟨את⟩ مِلݨ دے خیمے دی چوکسی رکھنی، تے ⟨את⟩ مقدس تھاں دی چوکسی، تے اپݨے بھراواں اہرون دے پتراں دی چوکسی — یاہوہ دے گھر دی سیوا وِچ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a067373f8aa202fcf6112a75de42ce041add037a749b0d45536867f3dda90a35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/23\/29-32.1792121226869.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "تے اوہناں نے رکھنی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مِلݨ دے خیمے دی چوکسی"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "چوکسی"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمے"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "مِلݨ دے"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "مقدس تھاں دی چوکسی"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "چوکسی"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "مقدس تھاں دی"
+    },
+    {
+      "surface": "ומשמרת",
+      "gloss": "تے چوکسی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پتراں دی"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "اوہناں بھراواں"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "سیوا وِچ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-10-16T03:27:06.870622646Z",
+  "model": "glm-5.3"
+}

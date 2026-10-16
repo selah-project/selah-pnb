@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 8:6",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩",
+      "rationale": "عبرانی وِچ فعل دا کردار لکھیا نئیں؛ پنجابی جملہ لئی اوہ چُکیا۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נות",
+      "rationale": "נוה 'چراگاہ\/وسیرا' دا ٹبر اے؛ 'وسیرا' دا مطلب 'رہن دی تھاں' — چھوٹا معنوی بدل۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "ושלם נות צדקך",
+      "rationale": "'تیری سِدھ دے وسیرے نوں پورا\/سلامت کریگا' — ترجمیاں وِچ 'پروان چڑھا'، 'ودھا' تے 'بحال کر' ورگے بدل نیں۔"
+    }
+  ],
+  "translation": "جے تُوں پاک تے سِدھا ایں، تاں ہن ⟨اوہ⟩ تیرے لئی جاگیگا تے تیری سِدھ دا وسیرا پورا کریگا،",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "dfe413fbc92753263dd6c5c295bde0023545c9410cf4c5314581b826b1a975d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/8\/5-8.1792115467700.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "זך",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "تے سِدھا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُوں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "تاں"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ہن"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "جاگیگا"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تیرے لئی"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "تے پورا کریگا"
+    },
+    {
+      "surface": "נות",
+      "gloss": "وسیرا"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "تیری سِدھ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:51:07.701026445Z",
+  "model": "glm-5.3"
+}

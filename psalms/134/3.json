@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 134:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 134,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "تینوں",
+      "rationale": "پیلاگرم دا وfarewell — جوابی برکت، اِکو ونگارا (تینوں)۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יברכך",
+      "rationale": "آیت 1–2 دے 'برکت دیو' دی الٹی واپسی — بندے یاہوہ نوں برکت دیندے نیں، یاہوہ بندے نوں برکت دیندا اے۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "اسماناں",
+      "rationale": "שמים دوہواسی (dual) اے — 'دو اسمان' دی سرفَر اِک لفظ وِچ، پنجابی جمع 'اسماناں' نال دتی گئی اے۔"
+    }
+  ],
+  "translation": "یاہوہ تینوں صیون توں برکت دیوے، اوہ جیہڑا اسماناں تے دھرتی دا بنان والا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9416ce6ae5af9e17335c739a8b2f3510b81a1506037e9a6fc535ce2dfed4d2db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/134\/1-3.1792113980461.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "تینوں برکت دیوے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "صیون توں"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بنان والا"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "اسماناں"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "تے دھرتی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:26:20.463011387Z",
+  "model": "glm-5.3"
+}

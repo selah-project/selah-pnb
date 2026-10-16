@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 20:2",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "פנים",
+      "rationale": "لفظی «مُہرِہ \/ منہ» — پنجابی وِچ «اپنا منہ دیوار ولّ» وی سِدھا اے، «مُہرِہ» رکھیا گیا۔"
+    }
+  ],
+  "translation": "تے اُس نے ⟨את⟩ اپنا مُہرِہ دیوار ولّ موڑیا تے یاہوہ نوں دعا کیتی، آکھدا ہویا:",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5dcf1d1281b42ee3d28f98d5098fdeecd2876064b644263751dd85d1a795b25d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/20\/1-4.1792105602508.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "تے موڑیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنا مُہرِہ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "اپنا مُہرِہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ولّ"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "دیوار"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "تے دعا کیتی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھدا ہویا"
+    }
+  ],
+  "timestamp": "2026-10-15T23:06:42.508966319Z",
+  "model": "glm-5.3"
+}

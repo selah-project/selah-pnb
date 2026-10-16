@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 2:12",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מטה → قبیلہ",
+      "rationale": "מטה دا مول مطلب ’شاخ\/ڈنّی‘ اے، پر اتھے قبیلہ لئی اے — مول مطلب پنجابی وِچ کھوہ لئا گیا۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "צורי שדי",
+      "rationale": "ایہہ بندے دا ناں تصُورِیشدّای اے، ’شدّای‘ خدا والا نئیں — پچھیتر اِکو ناں وِچ جُڑیا اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "نیں",
+      "rationale": "عبرانی وِچ copula نئیں، پنجابی جملے لئی لایا گیا۔"
+    }
+  ],
+  "translation": "تے اُودے نال پڑاؤ کرن والے شِمعون دے قبیلے دے نیں، تے شِمعون دے پُتراں دا سردار شلُومِیایل، تصُورِی-شدّای دا پُتر اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9d543fe84f25228419aebb86b9aaec13428e6107e5d5765b7715d1c2c697151b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/2\/9-12.1792098253573.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והחונם",
+      "gloss": "تے پڑاؤ کرن والے"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اُودے نال"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "قبیلہ"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شِمعون"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "تے سردار"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "پُتراں دا"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شِمعون"
+    },
+    {
+      "surface": "שלמיאל",
+      "gloss": "شلُومِیایل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "تصُورِی"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "شدّای"
+    }
+  ],
+  "timestamp": "2026-10-15T21:04:13.574554974Z",
+  "model": "glm-5.3"
+}

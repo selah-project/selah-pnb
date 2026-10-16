@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 24:14",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "lay hands on his head",
+      "rationale": "סמך ידים — witnesses publicly transfer guilt before stoning; literal gesture kept."
+    },
+    {
+      "kind": "substitution",
+      "subject": "بددُعا کرن والا",
+      "rationale": "המקלל from קלל 'make light\/curse'; the participle names the act of cursing, not a standing role."
+    }
+  ],
+  "translation": "بددُعا کرن والے نوں پڑاؤ دے باہر کڈھو، تے سارے سُنن والے ⟨את⟩ اپنے ہتھ اُس دے سر اُتے دھرن، تے ساری عملت ⟨את⟩ اُس نوں پتھراں مارے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2a67669dd2498a209861ab6443f3a40175ed9f58b1df0152939da521fa82efb2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/24\/13-16.1792098099568.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוצא",
+      "gloss": "کڈھو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بددُعا کرن والا"
+    },
+    {
+      "surface": "המקלל",
+      "gloss": "بددُعا کرن والا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تک"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "باہر"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "پڑاں توں"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "تے دھرن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "سُنن والے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنے ہتھ"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "اپنے ہتھ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "اُس دا سر"
+    },
+    {
+      "surface": "ורגמו",
+      "gloss": "تے پتھر مارن"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "اُس نوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "عملت"
+    }
+  ],
+  "timestamp": "2026-10-15T21:01:39.569647299Z",
+  "model": "glm-5.3"
+}

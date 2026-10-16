@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 24:17",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "جدوں",
+      "rationale": "عبرانی وِچ «בנפל» اسمِ فعل اے، ویلے دا نشان پنجابی نے پایا"
+    }
+  ],
+  "translation": "جدوں تیرا ویری ڈِگے، خُش نہ ہو، تے جدوں اوہ ٹُٹے، تیرا دل نہ اُچھلے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "059be322f064815aca8bbfbaf04daf006c053cf00d32f6c88eb372c06a51d87c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/24\/17-20.1792115078552.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנפל",
+      "gloss": "جدوں ڈِگے"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "تیرا ویری"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשמח",
+      "gloss": "خُش ہو"
+    },
+    {
+      "surface": "ובכשלו",
+      "gloss": "تے جدوں اوہ ٹُٹے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "اُچھلے"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "تیرا دل"
+    }
+  ],
+  "timestamp": "2026-10-16T01:44:38.553160791Z",
+  "model": "glm-5.3"
+}

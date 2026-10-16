@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 125:5",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 125,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "האון",
+      "rationale": "און دی ملٹی سَویں — کجھ نہ ہونا، برائی — اِک لفظ اے، پنجابی وِچ 'برائی کرن والے' دو ٹوکناں نال بجھیا۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "יוליכם",
+      "rationale": "یالخ دی سببّی شکل: 'نال لے جانا' (کیجویں\/جے پی ایس) بمقابلہ 'دُور کرنا\/کڈھنا' (بی ایس بی) — پنجابی وِچ نال لے جانا رکھیا۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שלום",
+      "rationale": "شالوم نال سلامتی دا پورا مطلب اے — 'امن' اکلا گھٹ کہندا اے۔"
+    }
+  ],
+  "translation": "تے جیہڑے اپنیاں ٹیڑھیاں راہاں ولّ جھکدے نیں، یاہوہ اوہناں نوں ⟨את⟩ برائی کرن والیاں دے نال لے جائے گا؛ یِسرائیل اُتے شالوم ہووے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "77e57cbb0eefeb92bde67babb3a747e55bb582fbf55cbe4469e75c45d3504480",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/125\/5-5.1792113953840.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמטים",
+      "gloss": "تے جیہڑے جھکدے نیں"
+    },
+    {
+      "surface": "עקלקלותם",
+      "gloss": "اپنیاں ٹیڑھیاں راہاں ولّ"
+    },
+    {
+      "surface": "יוליכם",
+      "gloss": "اوہناں نوں لے جائے گا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "برائی کرن والیاں"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "کرن والیاں"
+    },
+    {
+      "surface": "האון",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالوم"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-10-16T01:25:53.840823707Z",
+  "model": "glm-5.3"
+}

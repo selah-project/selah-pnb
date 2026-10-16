@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 28:9",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "تورات",
+      "rationale": "D2 دے مطابق تورات حرف-نقل اے، پہلی واری ⟨ہدایت⟩ وضاحت جائز اے۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "گھننا",
+      "rationale": "תועבה دا مطلب 'گھنن والی چیز' اے — 'نفرت' یا 'گناہ' نئیں۔"
+    }
+  ],
+  "translation": "جو اپنا کن تورات سُنن توں ہٹاؤندا اے، اوہدوں اِی اوہدی منت گھننا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5adb8c82565ed10a27f45a90d617a81dccea475c80677554a7a8ae2e4214d7af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/28\/9-12.1792115195765.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מסיר",
+      "gloss": "ہٹاؤندا اے"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "اوہدا کن"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "سُنن توں"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "تورات"
+    },
+    {
+      "surface": "גם",
+      "gloss": "اوہدوں اِی"
+    },
+    {
+      "surface": "תפלתו",
+      "gloss": "اوہدی منت"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "گھننی اے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:46:35.766283820Z",
+  "model": "glm-5.3"
+}

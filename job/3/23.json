@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 3:23",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "مرد",
+      "rationale": "לְגֶבֶר دا 'ל' — 'جیبَر لئی' — آیت 3:20 دے سوال نال جُڑدا اے؛ پنجابی جملے لئی شبد پایا۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויסך",
+      "gloss-vs-translation": "וַיָּסֶךְ — سکֹךְ: باغ لگا کے بند کرنا — 'بند کرنا' و 'گِھیرنا' دوویں پڑھائیاں نیں۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חכך",
+      "rationale": "גֶּבֶר 'بہادر بندہ' دا شبد اے — 'مرد' سادہ اے پر شکلاً 'جیبَر' رکھیا جا سکدا سی۔"
+    }
+  ],
+  "translation": "⟨مرد⟩ دے لئی جیہدا راہ لُکا ہویا اے تے جیہنوں ایلوہ نے چاروں پاسوں بند کر دتا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "22a88e790012bdb87235cb39bbcf7ca653f93382488a821ac417baca27629b2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/3\/21-24.1792115309865.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לגבר",
+      "gloss": "⟨مرد⟩ دے لئی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہدا"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "راہ"
+    },
+    {
+      "surface": "נסתרה",
+      "gloss": "لُکا ہویا اے"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "بند کر دتا اے"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ایلوہ"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "چاروں پاسوں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:48:29.865929441Z",
+  "model": "glm-5.3"
+}

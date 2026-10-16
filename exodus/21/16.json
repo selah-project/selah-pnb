@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 21:16",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ונמצא בידו",
+      "rationale": "'اوہدے ہتھ لَبھیا جاوے' — چور دے کول چُرایا ہویا بندہ ملے، یا چور خود پھڑیا جاوے"
+    },
+    {
+      "kind": "addition",
+      "subject": "اوہنوں",
+      "rationale": "על יומת دا مفعول، عبرانی وِچ صریح نئیں"
+    }
+  ],
+  "translation": "تے جیہڑا کوئی بندہ چُرائے تے ⟨اوہنوں⟩ ویچ دے، یا اوہ اوہدے ہتھ لَبھیے، اوہنوں موت دتی جائے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "89af2630d59f9915551a559bf157141f40ff3b9b6406428248f965bc49e9498b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/21\/13-16.1792096733960.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגנב",
+      "gloss": "تے جیہڑا چُرائے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "تے ویچ دے"
+    },
+    {
+      "surface": "ונמצא",
+      "gloss": "یا اوہ لَبھیے"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "اوہدے ہتھ"
+    },
+    {
+      "surface": "مות",
+      "gloss": "موت"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "اوہنوں موت دتی جائے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:38:53.961641768Z",
+  "model": "glm-5.3"
+}

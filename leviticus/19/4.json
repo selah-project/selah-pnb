@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 19:4",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "بتاں توں روکن دی سِدھی ہدایت۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "האלילים",
+      "rationale": "عبرانی لفظ 'پُڑول چیزاں\/فضول' دا مطلب اے؛ 'بتاں' عام ترجمہ اے۔"
+    }
+  ],
+  "translation": "بتاں ول منہ نہ کرو، تے پگھلائے دھات دے معبود اپنے لئی نہ بناؤ؛ میں آں یاہوہ تہاڈا ایلوہیم۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "37ba7efe264b872281cdaa3c0fb6515977c60b5b0daa822710022d809a8314cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/19\/1-4.1792097876320.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "منہ کرو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ول"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "بتاں"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "تے معبود"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "پگھلائے دھات دے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "بناؤ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "اپنے لئی"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "تہاڈا ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-10-15T20:57:56.321110573Z",
+  "model": "glm-5.3"
+}

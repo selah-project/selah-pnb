@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 26:1",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Moses and Eleazar",
+      "rationale": "Direct address of the divine command begins here; the addressees are Moshe and Elazar the priest."
+    },
+    {
+      "kind": "elision",
+      "subject": "بعد طاعون دے",
+      "rationale": "KJV\/Geneva add 'after the plague' from 26:1a context; the Hebrew tokens given begin directly with ויאמר."
+    }
+  ],
+  "translation": "تے یاہوہ نے موشے نال تے اہروں پتر کاہن الِعازر نال آکھیا:",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9f791db1380c77a7650ba7abcb71779213d542ef6b50378c002d1ea6d780ff41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/26\/1-4.1792099120119.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے نال"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "الِعازر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پتر"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہروں"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھدا ہویا"
+    }
+  ],
+  "timestamp": "2026-10-15T21:18:40.120384832Z",
+  "model": "glm-5.3"
+}

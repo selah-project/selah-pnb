@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 19:13",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "رات بھر",
+      "rationale": "عبرانی وِچ صرف «تלין» اے، پنجابی وِچ ویلے دی وضاحت چاہیدی سی"
+    }
+  ],
+  "translation": "اپنے سنگی نوں ⟨את⟩ دبائیں نئیں، تے نہ لُٹے؛ مزدور دی اُجرت تیرے کول رات بھر رُکے نئیں، سویرے تک۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0a7e723a21e15a976512eebd512f16781d6869e8b95bf9fd8821088a8d87f9c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/19\/13-16.1792097932114.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "دبائیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنے سنگی نوں"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "اپنے سنگی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "لُٹے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "رُکے"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "اُجرت"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "مزدور دی"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "تیرے کول ⟨את⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "سویرے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:58:52.115454794Z",
+  "model": "glm-5.3"
+}

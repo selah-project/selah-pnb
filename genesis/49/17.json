@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 49:17",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "שפיפון",
+      "rationale": "تنخ وچ صرف ایتھے آؤندا اے — سنگ والا سانپ (سراسٹیز) منیا جاندا اے، اوہی شکل رکھی گئی"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ڈسّدا ہویا",
+      "rationale": "הנשך وچ مستقبل دا فعل وِشیشنک تعمیر دا حصہ اے — عام وِشیشن 'ڈسّدا ہویا' رکھیا"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עקבי סוס \/ יפל אחור",
+      "rationale": "ایڑ دا ڈسّنا تے پچھے ڈگّنا — تصویر اِکو زنجیر وچ جُڑی اے"
+    }
+  ],
+  "translation": "دان ہووے راہ اُتے سانپ، پگڈنڈی اُتے شِپیفون، جو گھوڑے دیاں ایڑاں ڈسّدا اے، تے اوہدا سوار پچھاں ڈگّ پیندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "394052f12e7256459a5792e01727123053fc11bc1f1ed9e9fb100af42b2b85db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/49\/17-20.1792096101836.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ہووے"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "سانپ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "راہ"
+    },
+    {
+      "surface": "שפיפון",
+      "gloss": "شِپیفون"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "پگڈنڈی"
+    },
+    {
+      "surface": "הנשך",
+      "gloss": "ڈسّدا ہویا"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "ایڑاں"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "گھوڑے"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "تے ڈگّدا اے"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "اوہدا سوار"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "پچھاں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:28:21.837122719Z",
+  "model": "glm-5.3"
+}

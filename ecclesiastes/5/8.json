@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מלך לשדה נעבד",
+      "rationale": "بادشاہ خود کھیت دا سیواک اے (زمین کاشت کرن تے سب انحصار) — جےپئیس 'بادشاہ کھیت دا غلام اے'، دوجے 'بادشاہ کھیت توں سیوا لیندا اے'۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨اے⟩ ⟨ہے⟩",
+      "rationale": "عبرانی وِچ کوئی فعل ربط نئیں، پنجابی جملہ منگدا اے۔"
+    }
+  ],
+  "translation": "تے دھرتی دا فیدہ سب وِچ ⟨اے⟩ — بادشاہ ⟨ہے⟩ جیہڑا کھیت لئی کاشت ہوندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3bb4f776930c8569185c768a12a7729af61f2e989338b1c8829e9a8722be85ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ecclesiastes\/5\/5-8.1792117620596.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "تے فیدہ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "دھرتی دا"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سب وِچ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "اوہ ⟨اے⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ ⟨ہے⟩"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "کھیت لئی"
+    },
+    {
+      "surface": "نעבد",
+      "gloss": "کاشت ہوندا اے"
+    }
+  ],
+  "timestamp": "2026-10-16T02:27:00.597492038Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 8:42",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩",
+      "rationale": "עברी وِچ فعل دا فاعل لُکا اے؛ پنجابی صاف کرن لئی اوہ دا وادھا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ہتھ \/ بازو",
+      "rationale": "יד تے זרוע طاقت دی تصویر نیں — 'ہتھ' تے 'بازو' اوہو شکلاں رکھدیاں نیں، طاقت دا لفظ نئیں"
+    }
+  ],
+  "translation": "کیوں جو اوہ سُننگے ⟨את⟩ تیرے ناں نوں، وڈے نوں، تے ⟨את⟩ تیری ہتھ نوں، زور آلی نوں، تے تیری بازو نوں، کھلی پھیلی ہوئی نوں؛ تے ⟨اوہ⟩ آویگا تے اِس گھر ولّ دعا کریگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4a143d0460c8c285878751d6d015513725628e8b70ec75fa503ae81ea0b56a94",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/8\/42-43.1792123813649.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "سُننگے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تیرے ناں نوں"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "تیرے ناں نوں"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "وڈے"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "تیری ہتھ نوں"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "تیری ہتھ نوں"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "زور آلی"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "تے تیری بازو نوں"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "کھلی پھیلی ہوئی"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "تے آویگا"
+    },
+    {
+      "surface": "והתפלל",
+      "gloss": "تے دعا کریگا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ولّ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اِس"
+    }
+  ],
+  "timestamp": "2026-10-16T04:10:13.650036012Z",
+  "model": "glm-5.3"
+}

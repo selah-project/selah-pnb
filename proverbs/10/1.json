@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 10:1",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "عبرانی وِچ کوئی کپیلا نئیں، پنجابی نوں ⟨ایہہ⟩ ⟨اے⟩ منگدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "میثر",
+      "rationale": "משלי دا مطلب اے سُچا اُپدیش، واضح قصہ نئیں"
+    }
+  ],
+  "translation": "شلیموہ دے میثر۔ جُوّاک پُتر پیو نوں خوش کردا اے، پر مُورکھ پُتر ⟨ایہہ⟩ اپنی ماں دا دُکھ ⟨اے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6e3b4b10a59ea6a7ad6bc0a497da9583e82cd33a7bae639cfaf9633e41658884",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/10\/1-4.1792114580922.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "میثر"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلیموہ دے"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "جُوّاک"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "خوش کردا اے"
+    },
+    {
+      "surface": "אב",
+      "gloss": "پیو نوں"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "پر پُتر"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "مُورکھ"
+    },
+    {
+      "surface": "תוגת",
+      "gloss": "دُکھ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "اپنی ماں دا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:36:20.922897662Z",
+  "model": "glm-5.3"
+}

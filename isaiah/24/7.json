@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 24:7",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "تازہ انگور شراب",
+      "rationale": "תירוש اِکو واری نِچوڑیا تازہ انگور دا رس اے، ہر ویلے چڑی ہوئی شراب نئیں۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אבל\/אמללה\/נאנחו",
+      "rationale": "تِن سوگ دے فعل اِک لڑی وِچ — پنجابی وِچ وکھرے سوگ دے لفظ رکھے نیں۔"
+    }
+  ],
+  "translation": "تازہ انگور شراب سوگ کر رہیا اے، انگوری کمزور ہو گئی اے، سارے دل دے خوش لوک دکھ بھرے ساہ لے رہے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1c403e2cd84d7ebd52de58084e75109544b1c2e7e18dbf3110537078f8ab4105",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/24\/5-8.1792106270159.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "سوگ کر رہیا اے"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "تازہ انگور شراب"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "کمزور ہو گئی اے"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "انگوری"
+    },
+    {
+      "surface": "נאנחו",
+      "gloss": "دکھ بھرے ساہ لے رہے نیں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "שמחי",
+      "gloss": "خوش لوک"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل دے"
+    }
+  ],
+  "timestamp": "2026-10-15T23:17:50.160083453Z",
+  "model": "glm-5.3"
+}

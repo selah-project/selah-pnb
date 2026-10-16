@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 1:17",
+  "book": "lamentations",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ماہواری-ناپاک",
+      "rationale": "לנדה ماہواری دی ناپاکی والی عورت دا لفظ اے؛ 'ناپاک' اکلا اوہدی ساری تصویر نئیں دسدا"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨وہ⟩",
+      "rationale": "پنجابی خبر دی جملہ بنتر لئی ضمیر چاہیدی، عبرانی وِچ היתה اکلا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "צוה ... סביביו צריו",
+      "rationale": "KJV 'حکم کیتا کہ دشمن دوالے ہون' vs YLT 'اوہدے گوانڈی اوہدے دشمن نیں' — عبرانی بناں کریا دا جملہ اے"
+    }
+  ],
+  "translation": "صیون نے اپنیاں ہتھاں کھولیاں، اوہدے لئی کوئی تسلی دین والا نئیں؛ یاہوہ نے یعقوو بارے حکم کیتا کہ اوہدے دوالے اوہدے دشمن ہون؛ یروشلایم اوہناں وِچکار ماہواری-ناپاک ⟨وہ⟩ بن گئی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b6d838e68d376c7966ba354f7d79a3fc7ae665900c485c2290e6d0aed777290c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/lamentations\/1\/17-20.1792117209323.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פרשה",
+      "gloss": "کھولیاں"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صیون"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "اپنیاں ہتھاں"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "کوئی تسلی دین والا"
+    },
+    {
+      "surface": "לה",
+      "gloss": "اوہدے لئی"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم کیتا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "یعقوو بارے"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "اوہدے دوالے"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "اوہدے دشمن"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "بن گئی"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم"
+    },
+    {
+      "surface": "לנדה",
+      "gloss": "ماہواری-ناپاک"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "اوہناں وِچکار"
+    }
+  ],
+  "timestamp": "2026-10-16T02:20:09.323894851Z",
+  "model": "glm-5.3"
+}

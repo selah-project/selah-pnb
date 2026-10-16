@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 7:1",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ایلوہیم بنایا",
+      "rationale": "נתתיך אלהים: 'تینوں ایلوہیم بنایا' بمقابلہ 'ایلوہیم وانگوں' (جےنیوا\/جےپیئیس) — عبرانی سِدھا 'ایلوہیم' آکھدا اے، 'وانگوں' نئیں۔"
+    },
+    {
+      "kind": "you",
+      "subject": "موشے",
+      "rationale": "یاہوہ موشے نُوں سِدھا مخاطب اے۔"
+    }
+  ],
+  "translation": "تے یاہوہ نے موشے نوں آکھیا: ویکھ، میں تینوں پِرعوہ لئی ایلوہیم بنایا اے، تے تیرا بھرا اہرون تیرا نبی ہووےگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ee71af541d7458f4d1e20d0686b0bca12acbecdb09fdec292f50d49715435935",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/7\/1-4.1792096271314.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے … آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ویکھ"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "میں تینوں بنایا اے"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "پِرعوہ لئی"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "تے اہرون"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "تیرا بھرا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہووےگا"
+    },
+    {
+      "surface": "נביאך",
+      "gloss": "تیرا نبی"
+    }
+  ],
+  "timestamp": "2026-10-15T20:31:11.314794147Z",
+  "model": "glm-5.3"
+}

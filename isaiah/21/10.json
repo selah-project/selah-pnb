@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 21:10",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ובן גרני",
+      "rationale": "'تے میرے کھلیان دا پُتر' — JPS 'winnowing of my floor'، KJV 'corn of my floor'; بن-صیغہ دی سدھی شکل رکھی"
+    },
+    {
+      "kind": "you",
+      "subject": "לכם",
+      "rationale": "سمعیاہو سِدھا سنن والیاں نوں مخاطب کردا اے — 'تہاڈے نوں دسیا اے'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מדושה\/גורן",
+      "rationale": "وہائی دا دوہراってbppن — کُہائی تے کھلیان، علامت: لوک آنکھے بھاوَ دا داخلے وانگ رہے"
+    }
+  ],
+  "translation": "میری کُہائی ہوئی ⟨لوکو⟩ تے میرے کھلیان دا پُتر: جو میں نے ⟨את⟩ یاہوہ تصواوت توں، یِسرائیل دے ایلوہیم توں سنیا، اوہ میں تہاڈے نوں دسیا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "57878eca1b3aa738706909bb55e4ff59290939101f10add5d90986cf7df15de3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/21\/9-12.1792106111081.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מדשתי",
+      "gloss": "میری کُہائی ہوئی"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "تے پُتر"
+    },
+    {
+      "surface": "גרני",
+      "gloss": "میرے کھلیان دا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "میں سنیا"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ توں",
+      "marks": "یاہوہ تصواوت، یِسرائیل دا ایلوہیم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "تصواوت"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل دا"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "میں دسیا اے"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تہاڈے نوں"
+    }
+  ],
+  "timestamp": "2026-10-15T23:15:11.082322054Z",
+  "model": "glm-5.3"
+}

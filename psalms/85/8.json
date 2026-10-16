@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 85:8",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨رحمت⟩",
+      "rationale": "خیسِد حرف-نقل اے؛ پہلی واری ⟨⟩ وِچ وضاحت جائز"
+    },
+    {
+      "kind": "you",
+      "subject": "یاہوہ نوں",
+      "rationale": "سِدھی مخاطبت — سانوں وکھا، سانوں دے"
+    }
+  ],
+  "translation": "سانوں وکھا یاہوہ اپنا خیسِد ⟨رحمت⟩، تے اپنی مُکتی سانوں دے دیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9c504668f1ec6f906c0111504ba6a86c3b79b89e0ac4e761d44556398726e56f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/85\/5-8.1792113215000.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הראנו",
+      "gloss": "سانوں وکھا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "اپنا خیسِد"
+    },
+    {
+      "surface": "וישעך",
+      "gloss": "تے اپنی مُکتی"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "دے دیں"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "سانوں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:13:35.001098933Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 11:15",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "תקעים",
+      "rationale": "'ہتھ وچاؤنا' عبرانی وِچ ضمانت دی رسم اے، عام ہتھ ملیلا نئیں — شاہ مُکھی وِچ مورت رکھیا گیا۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "רע ירוע",
+      "rationale": "کی 'برا بندہ' تباہ ہووےگا (רע نری ناںور) یا 'برا طریقے نال'؟ جے‌ایم‌ایس\/KJV 'ضامن اوپرے دا' نوں کئنڈا نیں۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רע\/ירוע",
+      "rationale": "رع-یروع دی جڑدی آواز، پنجابی وِچ نئیں ٹِک سکی۔"
+    }
+  ],
+  "translation": "جو کوئی اوپرے لئی ضامن بندا اے اوہ بری طرح تباہ ہووےگا، تے جیہڑا ہتھ وچاؤن والیاں توں نفرت کردا اے اوہ بھروسے نال رہندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5a0f97c50cdc0ef735437a0bf3e6d07858a7f1a3ede01f731b49dffcce15b2f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/11\/13-16.1792114664124.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רע",
+      "gloss": "برا"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "تباہ ہووےگا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨جے⟩ کوئی"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ضامن بندا اے"
+    },
+    {
+      "surface": "זר",
+      "gloss": "اوپرے لئی"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "تے نفرت کردا اے"
+    },
+    {
+      "surface": "תקעים",
+      "gloss": "ہتھ وچاؤن والیاں توں"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "بھروسے نال رہندا اے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:37:44.125577901Z",
+  "model": "glm-5.3"
+}

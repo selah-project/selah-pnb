@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 116,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to the congregation",
+      "rationale": " Psalms 116 opens in the first person, a direct thanksgiving testimony addressed to the hearers."
+    }
+  ],
+  "translation": "محبت کردا آں میں، کیونکہ یاہوہ ⟨את⟩ میری آواز نوں، میریاں عرضیاں سُندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5897e4c1e51bf2c50d80e75a595ba47d56c93cfae3d2e2a5233a0143986693db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/116\/1-4.1792113811646.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "محبت کردا آں میں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "سُندا اے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میری آواز نوں"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "میری آواز"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "میریاں عرضیاں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:23:31.647354755Z",
+  "model": "glm-5.3"
+}

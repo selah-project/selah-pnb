@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 20:10",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ہے⟩",
+      "rationale": "عبرانی وِچ کپولا نئیں، پنجابی جملہ منگدا اے۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ستواں دِن",
+      "rationale": "ہفتے دی گنتی وِچ ستویں دِن دا وکھرا ہونا۔"
+    },
+    {
+      "kind": "you",
+      "subject": "تُوں",
+      "rationale": "حکم سدھا مخاطب نوں، تے اوہدے گھر والے وی اوہدے ماتحت۔"
+    }
+  ],
+  "translation": "تے ستواں دِن شبّات ⟨ہے⟩ یاہوہ تیرے ایلوہیم لئی؛ کوئی کم نہ کریں — نہ تُوں، نہ تیرا پُتر تے نہ تیری دھی، نہ تیرا نوکر تے نہ تیری نوکرانی، نہ تیرے ڈنگر، تے نہ تیرا پردیسی جیہڑا تیرے دروازیاں وِچ اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "337709d88430ef699d043eaf84815bcb5628e8010c210e650de3c8ef37ad7842",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/20\/9-12.1792096669399.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויום",
+      "gloss": "تے دِن"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ستواں"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "شبّات"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ لئی"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تیرے ایلوہیم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "کریں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کوئی"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "کم"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُوں"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "تے تیرا پُتر"
+    },
+    {
+      "surface": "ובתך",
+      "gloss": "تے تیری دھی"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "تیرا نوکر"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "تے تیری نوکرانی"
+    },
+    {
+      "surface": "ובהמתך",
+      "gloss": "تے تیرے ڈنگر"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "تے تیرا پردیسی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "تیرے دروازیاں وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T20:37:49.400413523Z",
+  "model": "glm-5.3"
+}

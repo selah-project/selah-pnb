@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 1:16",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מראתו",
+      "rationale": "پرندے دی فق (crop) لئی ایہہ لفظ تنخ وِچ صرف ایتھے آندا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "בנצתה",
+      "rationale": "'اوہدے کھنبھاں سمیت' — متروجم واڑے نیں: کھنبھ فق نال سُٹنے نیں یا الگ؟"
+    }
+  ],
+  "translation": "تے اوہدی فق ⟨את⟩ اوہدے کھنبھاں سمیت ہٹاوے، تے اوہنوں ⟨את⟩ قربان گاہ دے لاگے چڑھدے پاسے، راکھ دے تھاں ول سُٹے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8274a7219c2d6dc9f2d6bb90c82f52c357fcabf3663bc7c07cf77f9391902909",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/1\/13-16.1792097395287.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והסיר",
+      "gloss": "تے ہٹاوے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہدی فق"
+    },
+    {
+      "surface": "מראתו",
+      "gloss": "اوہدی فق"
+    },
+    {
+      "surface": "בנצתה",
+      "gloss": "اوہدے کھنبھاں سمیت"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "تے سُٹے"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "اوہنوں"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "دے لاگے"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "قربان گاہ"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "چڑھدے پاسے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ول"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "تھاں"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "راکھ"
+    }
+  ],
+  "timestamp": "2026-10-15T20:49:55.288634181Z",
+  "model": "glm-5.3"
+}

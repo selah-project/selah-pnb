@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 25:11",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ארבות ידיו",
+      "rationale": "'ہتھاں دیاں گھاتاں' — KJV 'لُٹّ دا مال'، اے-ایس-وی 'مکاری'؛ اصل تصویر گھات\/چال اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "گھمنڈ",
+      "rationale": "גאות اِکو لفظ نال 'شان' تے 'اکڑ' دوویں — ایتھے موآب دی اکڑ"
+    }
+  ],
+  "translation": "تے اوہ اپنیاں ہتھاں نوں اوہدے وِچکار کھولسی، جیویں تیراک تَرن لئی ہتھ کھولدا اے؛ تے اوہدے گھمنڈ نوں اوہدے ہتھاں دِیاں چالاں سمیت جھکایا جاوے گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "61954c91746a6d090d42579eafc2a9cd0bbc5359b221e5ee1ca03f41cd888df5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/25\/9-12.1792106259580.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופרש",
+      "gloss": "تے کھولسی"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "اپنیاں ہتھاں نوں"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "اوہدے وِچکار"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "کھولدا اے"
+    },
+    {
+      "surface": "השחה",
+      "gloss": "تیراک"
+    },
+    {
+      "surface": "לשחות",
+      "gloss": "تَرن لئی"
+    },
+    {
+      "surface": "והשפיל",
+      "gloss": "تے جھکایا جاوے گا"
+    },
+    {
+      "surface": "גאותו",
+      "gloss": "اوہدے گھمنڈ نوں"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سمیت"
+    },
+    {
+      "surface": "ארבות",
+      "gloss": "چالاں ⟨گھاتاں⟩"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "اوہدے ہتھاں دِیاں"
+    }
+  ],
+  "timestamp": "2026-10-15T23:17:39.581686326Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 8:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "زور",
+      "rationale": "עז دا مطلب 'زور\/طاقت' اے؛ یونانی ترجمے نے 'تثریح' پڑھیا — دو روایتاں نیں"
+    },
+    {
+      "kind": "addition",
+      "subject": "تاں",
+      "rationale": "مقصد دا جوڑ پنجابی نوں چاہیدا اے، عبرانی وِچ לہشبیت ای دسدا اے"
+    }
+  ],
+  "translation": "نِکے بالیاں تے دُدھ چُسّیاں دے مُونہوں تُوں نے زور دا نیو رکھیا اے، اپنے دُشمناں لئی، تاں بھڑو تے بدلہ لین والے نوں چُپ کرایا جاوے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6a6c2f52fd99c85af060df0d891eca0772a9f08a156742440f7d3fb3d35f6a97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/8\/1-4.1792111868608.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "مُونہوں"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "نِکے بالیاں"
+    },
+    {
+      "surface": "וינקים",
+      "gloss": "تے دُدھ چُسّیاں"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "نیو رکھیا اے"
+    },
+    {
+      "surface": "עז",
+      "gloss": "زور"
+    },
+    {
+      "surface": "لמען",
+      "gloss": "لئی"
+    },
+    {
+      "surface": "צורריך",
+      "gloss": "اپنے دُشمناں"
+    },
+    {
+      "surface": "להשבית",
+      "gloss": "چُپ کرایا جاوے"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "بھڑو"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "تے بدلہ لین والے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:51:08.609359424Z",
+  "model": "glm-5.3"
+}

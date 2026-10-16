@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 44:30",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جان اے، صرف 'روح' نئیں"
+    },
+    {
+      "kind": "you",
+      "subject": "یہوداہ دا خطاب",
+      "rationale": "سخن یوسف (مصر دے حاکم) نال اے، پِچھے پیو دا ذکر"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נפשו … בנפשו",
+      "rationale": "اوکھی جان جان نال بنھی — عبرانی دی دوہرائی، دوہرا رکھیا گیا"
+    }
+  ],
+  "translation": "تے ہُݨ جد میں تیرے بندے میرے پیو کول آواں تے اوہ مُنڈا ⟨את⟩ ساڈے نال نہ ہووے — جد کہ اوہدی جان اوہدے مُنڈے دی جان نال بنھی ہوئی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b1b73b251aa42cd16988a1f1c0c04126fe214b98ef2b5727dafbc8f3899be4a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/44\/29-32.1792096049922.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "تے ہُݨ"
+    },
+    {
+      "surface": "כבאי",
+      "gloss": "جد میں آواں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "تیرے بندے"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "میرے پیو"
+    },
+    {
+      "surface": "והנער",
+      "gloss": "اوہ مُنڈا"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "نہ ہووے"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ساڈے نال"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "اوہدی جان"
+    },
+    {
+      "surface": "קשורה",
+      "gloss": "بنھی ہوئی"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "اوہدے مُنڈے دی جان نال"
+    }
+  ],
+  "timestamp": "2026-10-15T20:27:29.923654006Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨کجھ⟩",
+      "rationale": "عبرانی وِچ مقدار دا لفظ نئیں، मिनہ 'وِچوں' ہی اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "המשיח",
+      "rationale": "کاہن لئی ماشیاخ دی تھاں 'مسح ہویا' — D2 دا اِی قاعدہ"
+    }
+  ],
+  "translation": "تے مسح ہویا کاہن پہلے دے لہو وِچوں ⟨کجھ⟩ لویگا تے ⟨את⟩ اُوہنوں مِلن دے خیمے وِچ لیاویگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "01074193af48863409aefde2dee522f4ce8d0e82d82ab34c8eae0a19360a99f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/4\/5-8.1792097495535.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "لویگا"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "مسح ہویا"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "لہو وِچوں"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "پہلا"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "لیاویگا"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ اُوہنوں",
+      "marks": "اُوہنوں (لہو)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمے"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "مِلن دے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:51:35.536915665Z",
+  "model": "glm-5.3"
+}

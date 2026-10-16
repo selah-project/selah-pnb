@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 24:5",
+  "book": "ezekiel",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דור",
+      "rationale": "'ڈھیر' (ہڈیاں\/لکڑ دا ڈھیر) بمقابلہ KJV 'جلانا' — جڑ دا مطلب گول ڈھیر اے، جلانा نئیں۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רתח רתחיה",
+      "rationale": "اُبھال\/اوہدا اُبھال — اکو جڑ دی دوہرائی، پنجابی وِچ وی دوہری رکھی۔"
+    }
+  ],
+  "translation": "ریوڑ دی چوݨ لَو، تے ہڈیاں دا ڈھیر وی اوہدے ہیٹھے رَکھ؛ اُبھال، اوہدا اُبھال، اوہدیاں ہڈیاں وی اوہدے وِچ پکا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a5713b41536115e2a3b619c601c23e33efb8e0e97c5f60902790baa1b4279785",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/24\/5-8.1792109678070.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מבחר",
+      "gloss": "چوݨ"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ریوڑ دی"
+    },
+    {
+      "surface": "לקוח",
+      "gloss": "لَو"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "تے … وی"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ڈھیر"
+    },
+    {
+      "surface": "העצמים",
+      "gloss": "ہڈیاں دا"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "اوہدے ہیٹھے"
+    },
+    {
+      "surface": "רתח",
+      "gloss": "اُبھال"
+    },
+    {
+      "surface": "רתחיה",
+      "gloss": "اوہدا اُبھال"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "בשלו",
+      "gloss": "پکا"
+    },
+    {
+      "surface": "עצמיה",
+      "gloss": "اوہدیاں ہڈیاں"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "اوہدے وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T00:14:38.071254913Z",
+  "model": "glm-5.3"
+}

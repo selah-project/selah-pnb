@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 86,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ענני\/עני",
+      "rationale": "اکو جڑ ע-נ-ہ — جواب دے تے غریب — پنجابی وِچ ایہہ مقافہ مکا گیا اے"
+    },
+    {
+      "kind": "you",
+      "subject": "to یاہوہ",
+      "rationale": "سارا زبور یاہوہ نوں سدھی گل اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨اے⟩",
+      "rationale": "سرناویں دی اِکابھارت پنجابی منگدی اے، عبرانی وِچ صرف اسم"
+    }
+  ],
+  "translation": "داوِد دی اُلانبھ ⟨اے⟩۔ یاہوہ، آپݨا کن جھکا کے مینوں جواب دے، کیوں جو غریب تے محتاج اِی میں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9bf46ba0d669e77375ecc6311d1ed76a626361b83e9a0d9085bd67760988709b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/86\/1-4.1792113303895.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "اُلانبھ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد دی"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "جھکا کے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "آپݪا کن"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "مینوں جواب دے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "עני",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "تے محتاج"
+    },
+    {
+      "surface": "אני",
+      "gloss": "اِی میں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:15:03.896034992Z",
+  "model": "glm-5.3"
+}

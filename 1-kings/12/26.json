@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 12:26",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "دل وِچ آکھیا",
+      "rationale": "عبرانی בלבו אמר 'دل وِچ آکھیا' سوچ دا پنجابی محاورہ اے، بارلے بول نئیں"
+    }
+  ],
+  "translation": "تے یَرَوُعام نے اپنے دل وِچ آکھیا: ہن بادشاہی داوِد دے گھر ول مُڑ جاوے گی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c0ff6b2a3315af840b7a0e5ac52824fcedeae5edfc2ed721f65307826d803bc7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/12\/25-28.1792104420990.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "یَرَوُعام نے"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "اپنے دل وِچ"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ہن"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "مُڑ جاوے گی"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "بادشاہی"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "گھر ول"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    }
+  ],
+  "timestamp": "2026-10-15T22:47:00.991453811Z",
+  "model": "glm-5.3"
+}

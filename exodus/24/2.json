@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 24:2",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "معاون فعل",
+      "rationale": "عبرانی imperfect پنجابی وِچ معاون فعل نال آئے"
+    }
+  ],
+  "translation": "تے موشے اکیلا یاہوہ کولوں نیڑے جاوےگا، پر اوہ نیڑے نہ آؤن، تے قوم اوہدے نال نہ چڑھےگی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "99c1979b4f2f9b89ef16d80c7a3ad64c56209db48fc19828b72770a7895511b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/24\/1-4.1792096796372.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "تے نیڑے جاوےگا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "اکیلا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کولوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "והם",
+      "gloss": "پر اوہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "آؤن"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "تے قوم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "چڑھےگی"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "اوہدے نال"
+    }
+  ],
+  "timestamp": "2026-10-15T20:39:56.373732213Z",
+  "model": "glm-5.3"
+}

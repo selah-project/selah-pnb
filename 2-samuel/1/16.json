@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 1:16",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "تیرا لہو تیرے سر اُتے اے",
+      "rationale": "לשלח ידך نئیں — דמיך על ראשך: ذمہ داری تیرے اُتے، لہو دی حیثیت نال"
+    },
+    {
+      "kind": "addition",
+      "subject": "اپنے",
+      "rationale": "عبرانی وِچ صرف 'تیرے سر' اے؛ 'اپنے' تاکید لئی جوڑی"
+    }
+  ],
+  "translation": "تے داوِد نے اوہدے نوں آکھیا: تیرا لہو تیرے ⟨اپنے⟩ سر اُتے اے، کیوں جو تیرا مُولھ تیرے خلاف گواہی دندا اے، آکھدا: اَناں آں جِنے ⟨את⟩ یاہوہ دے ماشیاخ نوں ماریا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b7b729e46a591d540646099deee06688839aefa1921c663221c56e711027b9ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/1\/13-16.1792103094928.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اوہدے نوں"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "تیرا لہو"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "تیرے سر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "تیرا مُولھ"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "گواہی دندا اے"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تیرے خلاف"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھدا"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "اَناں"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "جِنے ماریا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ دے ماشیاخ"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "ماشیاخ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-10-15T22:24:54.929608718Z",
+  "model": "glm-5.3"
+}

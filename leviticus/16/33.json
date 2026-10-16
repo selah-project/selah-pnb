@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 16:33",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כפר ×3",
+      "rationale": "آیت وِچ کفارہ کرن والا فعل تن واری واپس آندا اے — مکاناں لئی دو واری، لوکاں لئی اِک — ایہہ ترٹی پنجابی وِچ تھوڑی رہ جاندی اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "اوہ",
+      "rationale": "عبرانی وِچ کریا دا کردار اندر اے، پنجابی نوں ⟨⟩ توں باہر اوہ چاہیدا اے پر قاعدے موجب کھلا چھڈیا"
+    }
+  ],
+  "translation": "تے اوہ ⟨את⟩ مقدس مکانِ پاک نوں کفارہ کریگا، تے ⟨את⟩ میعاد دے خیمے نوں تے ⟨את⟩ قربانی گاہ نوں کفارہ کریگا، تے کاہناں لئی تے ساری قومِ جماعت لئی کفارہ کریگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1d3a8d3ce0f13146418a6c3e69e0f795069a2a6bb31222b9ebc1f74a596db30b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/16\/33-34.1792097807421.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "تے کفارہ کریگا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مقدس مکانِ پاک"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "مقدس مکان"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "میعاد دا خیمہ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمہ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "میعاد"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "قربانی گاہ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "قربانی گاہ"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "کفارہ کریگا"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "تے لئی"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاہناں"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "تے لئی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "جماعت"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "کفارہ کریگا"
+    }
+  ],
+  "timestamp": "2026-10-15T20:56:47.421631736Z",
+  "model": "glm-5.3"
+}

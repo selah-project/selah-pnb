@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 51:4",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "הקשיבו \/ האזינو",
+      "rationale": "دوہری سدّ — کن لاؤ، کن دھرو — قوم نوں آپے ول لیندی اے"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "سِدھا خطاب: میرے لوکو، میری قومو"
+    },
+    {
+      "kind": "crux",
+      "subject": "ארגיע",
+      "rationale": "KJV ‘آرام کرواؤں گا’ تے JPS ‘اچانک\/جلدی’ — رُت جوہ عجیب اے؛ پنجابی وِچ ‘جلدی لیاں گا’ لیا"
+    }
+  ],
+  "translation": "میرے لوکو، مینوں کن لاؤ، تے میری قومو، میرے ول کن دھرو؛ کیونکہ تورات میرے کولوں ⟨את⟩ نکلسی، تے میرا فیصلہ قوماں دے اُجالے لئی جلدی لیاں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "675be70d2c4c8aaa0725e5f4bb12a3e6d3ed66f349d95d30edd7c69e1964864e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/51\/1-4.1792106972467.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הקשיבו",
+      "gloss": "کن لاؤ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مینوں"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "میرے لوکو"
+    },
+    {
+      "surface": "ולאומי",
+      "gloss": "تے میری قومو"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میرے ول"
+    },
+    {
+      "surface": "האזינو",
+      "gloss": "کن دھرو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "تورات"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ میرے کولوں",
+      "marks": "میرے کولوں"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "نکلسی"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "تے میرا فیصلہ"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "اُجالے لئی"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "قوماں دے"
+    },
+    {
+      "surface": "ארגיע",
+      "gloss": "جلدی لیاں گا"
+    }
+  ],
+  "timestamp": "2026-10-15T23:29:32.468440448Z",
+  "model": "glm-5.3"
+}

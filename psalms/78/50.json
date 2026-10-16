@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יְפַלֵּס",
+      "rationale": "'وِسرایا\/تپّیا' (روڈ بنایا) بمقابلہ ylt دا 'توازن کیتا' — جڑ دے دوویں مطلب نیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נַפְשָׁם",
+      "rationale": "נפש ساہ\/جان دا لفظ اے، مُڑ دِتی ہوئی روح نئیں"
+    }
+  ],
+  "translation": "اُوں نے اپنے غصے لئی رستہ وِسرایا؛ اُوں اُہناں دی جان موت توں نئیں بخشی، تے اُہناں دی حیاتی وبا دے حوالے کر دِتی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e5c7cce20cd82460be456a416232e884abb74c42f60b5975ddb9b876424937ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/78\/49-52.1792113100073.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יפלס",
+      "gloss": "اُوں نے وِسرایا"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "رستہ"
+    },
+    {
+      "surface": "לאפו",
+      "gloss": "اپنے غصے لئی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "بخیا"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "موت توں"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "اُہناں دی جان"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "تے اُہناں دی حیاتی"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "وبا لئی"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "حوالے کر دِتی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:11:40.074450560Z",
+  "model": "glm-5.3"
+}

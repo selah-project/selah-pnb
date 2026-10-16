@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 23:18",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "دے نال",
+      "rationale": "عبرانی על 'اُتے' — پنجابی وِچ 'دے نال' سنگوڑ کے دسدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "چربی",
+      "rationale": "חלב مطلب 'چربی\/ودھیا حصہ'، صرف چربی نئیں پر نیڑے اے"
+    }
+  ],
+  "translation": "تُوں اپݨی قربانی دا لہو خمیر ⟨دے نال⟩ نئیں قربان کرےگا؛ تے نہ ہی تُوہف دا چربی سویر تک رہسی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "62b24199962a811747ff5d2728526c7f5b115435ef9b37156accf5b4ede11b2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/23\/17-20.1792096745937.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "قربان کرےگا"
+    },
+    {
+      "surface": "על",
+      "gloss": "…دے نال"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "خمیر"
+    },
+    {
+      "surface": "דם",
+      "gloss": "لہو"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "قربانی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ ہی"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "رہسی"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "چربی"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "تُوہف"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "سویر"
+    }
+  ],
+  "timestamp": "2026-10-15T20:39:05.938020686Z",
+  "model": "glm-5.3"
+}

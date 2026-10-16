@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 123,
+  "ref": "psalms 119:123",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "עיני כלו",
+      "rationale": "لہجہ: 'اکھاں مُک گئیاں' — اُڈیک وچ طاقت مک جانا، س Literal 'کالے ہو گئے' توں ودھ اِدرکی اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨تیرے⟩",
+      "rationale": "אמרת نال ایہہ تھاں 'قول' تے اے؛ پنجابی وچ 'تیرے قول' چاہیدا اے پر نصابی بندوست وِچ ایہہ صفت اگلے ٹوکن نال جُڑی اے۔"
+    }
+  ],
+  "translation": "میریاں اکھاں تیرے چھٹکارے لئی تے تیری صداقت دے ⟨تیرے⟩ قول لئی مُک گئیاں نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8ab7dffb29c8572f4537a19b3024d19d043d50f4049b89f95dd83e4d3980aeb8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/119\/121-124.1792113926242.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "میریاں اکھاں"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "مُک گئیاں نیں"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "تیرے چھٹکارے لئی"
+    },
+    {
+      "surface": "ולאמרת",
+      "gloss": "تے تیرے قول لئی"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "تیری صداقت دے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:25:26.242925132Z",
+  "model": "glm-5.3"
+}

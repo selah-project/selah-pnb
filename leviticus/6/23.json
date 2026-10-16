@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 6:23",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "کفارہ",
+      "rationale": "לכפר دا مول 'ڈھکنا' اے — کفارہ\/پرچاون دوناں پاسے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "میقات دا خیمہ",
+      "rationale": "אהל מועד دی ٹھیک شکل 'ملاقات دا خیمہ' وی اے — 'میقات' عبرانی موناں نال جوڑیا"
+    }
+  ],
+  "translation": "تے ہر گناہ دی قربانی جیہدا لہو میقات دے خیمے وِچ پاک تھاں وِچ کفارہ لئی لیا جاوے، اوہ نئیں کھادی جاوے؛ اگّ وِچ ساڑی جاوے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "791b5af4d2f12504b2eb949be4f1d56b7b9ba2f27ddfe0bc5ce4fde48dd86f54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/6\/21-23.1792097408434.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "تے ہر"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "گناہ دی قربانی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہدا"
+    },
+    {
+      "surface": "יובא",
+      "gloss": "لیا جاوے"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "اوہدے لہو وِچوں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اتھے"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمے"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "میقات"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "کفارہ لئی"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "پاک تھاں وِچ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "کھادی جاوے"
+    },
+    {
+      "surface": "באש",
+      "gloss": "اگّ وِچ"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "ساڑی جاوے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:50:08.435467261Z",
+  "model": "glm-5.3"
+}

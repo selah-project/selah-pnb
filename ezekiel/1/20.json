@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 1:20",
+  "book": "ezekiel",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨منگدا⟩",
+      "rationale": "ללכת دی کوئی فعل ایہو جہی پیشکش اے — 'روح دا جانا' — پنجابی جملے لئی فعل دی لوڑ"
+    },
+    {
+      "kind": "crux",
+      "subject": "רוח",
+      "rationale": "'روح' وِچ ہوا\/ساہ\/جیو دا سار دُکیا اے — 'spirit' نالوں کھلا؛ 'جیو دی روح' رکھیا گیا اے"
+    }
+  ],
+  "translation": "جتھے روح ہووے کہ اوتھے جاوے، اوہ جاندے نیں؛ اوتھے روح جانا ⟨منگدا⟩ اے، تے پہیے اُنہاں دے مقابل اُچے کیتے جاندے نیں، کیونجہ جیو دی روح پہیاں وِچ اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bfad28ead181742b8ddc879eac1c565a1153dc11044cc40319a507fa087a8eb5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/1\/17-20.1792108929987.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جتھے"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہووے"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اوتھے"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "جاوے"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "اوہ جاندے نیں"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "اوتھے"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "جانا"
+    },
+    {
+      "surface": "והאופנים",
+      "gloss": "تے پہیے"
+    },
+    {
+      "surface": "ינשאו",
+      "gloss": "اُچے کیتے جاندے نیں"
+    },
+    {
+      "surface": "לעמתם",
+      "gloss": "اُنہاں دے مقابل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونجہ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "جیو دی"
+    },
+    {
+      "surface": "באופנים",
+      "gloss": "پہیاں وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T00:02:09.988209688Z",
+  "model": "glm-5.3"
+}

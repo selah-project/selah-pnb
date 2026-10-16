@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 10:21",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "והקימו",
+      "rationale": "پُراݨے ترجمے ونڈدے نیں: کجھ (KJV, ASV) آکھدے نیں 'دوجیاں نے' مسکن کھلوایا، کجھ (JPS) 'ایہہ ای کھلوایا گیا' — عبرانی صرف 'تے کھلوایا' اے، فاعل بِنا۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "המקדש",
+      "rationale": "مقدس چیزاں یعنی مسکن دے پوتر برتاں لئی؛ شکل 'پوتر تھاں\/چیز' رکھی اے۔"
+    }
+  ],
+  "translation": "تے کہاتی پوتر چیز چکن والے روانہ ہوئے، تے کھلوایا ⟨את⟩ مسکن نوں، اوہناں دے آن تک۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0c15f53df13ebd7d8f03ea84d6bbf3d60e76f44d38c6ba23e9920d2f5dd19ab6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/10\/21-24.1792098472071.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונסעו",
+      "gloss": "تے روانہ ہوئے"
+    },
+    {
+      "surface": "הקהתים",
+      "gloss": "کہاتی"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "چکن والے"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "پوتر چیز"
+    },
+    {
+      "surface": "והקימו",
+      "gloss": "تے کھلوایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مسکن"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مسکن"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "באם",
+      "gloss": "اوہناں دے آن"
+    }
+  ],
+  "timestamp": "2026-10-15T21:07:52.071765800Z",
+  "model": "glm-5.3"
+}

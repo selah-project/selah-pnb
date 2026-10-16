@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 19:6",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מצור",
+      "rationale": "'متصرایم' (مصر) بمقابلہ KJV دی 'دفاع' والی پڑھائی — دونوں پرانیاں نیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "יארי",
+      "rationale": "יאור نیل دے چینل نیں؛ 'یعور-نہراں' رکھیا تاں عبرانی شکل رہوے"
+    }
+  ],
+  "translation": "تے نہراں وہل جان گیاں، متصرایم دیاں یعور-نہراں سُکڑ کے سُک جان گیاں، نرسل تے کَنّے مُر جان گے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d23145d290370af234e39ff744259cd2891968d0f8eae029b302d3f9c25810fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/19\/5-8.1792106124581.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והאזניחו",
+      "gloss": "وہل جان گیاں"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "نہراں"
+    },
+    {
+      "surface": "דללו",
+      "gloss": "سُکڑ جان گیاں"
+    },
+    {
+      "surface": "וחרבו",
+      "gloss": "سُک جان گیاں"
+    },
+    {
+      "surface": "יארי",
+      "gloss": "یعور-نہراں"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "متصرایم دیاں"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "نرسل"
+    },
+    {
+      "surface": "וסוף",
+      "gloss": "تے کَنّے"
+    },
+    {
+      "surface": "קמלו",
+      "gloss": "مُر جان گے"
+    }
+  ],
+  "timestamp": "2026-10-15T23:15:24.582323471Z",
+  "model": "glm-5.3"
+}

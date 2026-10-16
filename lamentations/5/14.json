@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 5:14",
+  "book": "lamentations",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "رُک گئے",
+      "rationale": "دوجی وار فعل عبرانی نے دُہریا نئیں، پنجابی توازن لئی منگیا۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "משער",
+      "rationale": "'دروازہ' شہر دے بوہے دا مطلب اے — بُڈھیاں دے بیٹھن دی تھاں، عدالت دا مرکز۔"
+    }
+  ],
+  "translation": "بُڈھے دروازے توں رُک گئے، جوان اپنی ساز توں ⟨رُک گئے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "55feb2082ad0c94562169a2af9adf4acda3b8f8c108d8187d6960a2d18b52d84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/lamentations\/5\/13-16.1792117324174.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זקנים",
+      "gloss": "بُڈھے"
+    },
+    {
+      "surface": "משער",
+      "gloss": "دروازے توں"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "رُک گئے"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "جوان"
+    },
+    {
+      "surface": "מנגינתם",
+      "gloss": "اپنی ساز توں ⟨رُک گئے⟩"
+    }
+  ],
+  "timestamp": "2026-10-16T02:22:04.175037195Z",
+  "model": "glm-5.3"
+}

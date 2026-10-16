@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 2:32",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "התשכח\/שכחוני",
+      "rationale": "اِکو جڑ ش-כ-ח دو واری — کُواری دا بھلاونا تے قوم دا یاہوہ نوں بھلانا اکو لفظ نال جُڑیا اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "دہیاں جیہناں دی گنتی نئیں",
+      "rationale": "י motאין מספר — دناں دی گنتی دا ناپ"
+    }
+  ],
+  "translation": "کی کُواری اپنی سنگار دی چیز بھلا سکدی اے، جاں دلہن اپنی کمربند؟ تے میرے لوکاں نے مینوں بھلا دتا اے — دہیاں جیہناں دی گنتی نئیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "682a3bce84006cc457d5550898c4cb8d713bcfe03b0235b67f1c64347c5601c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/2\/29-32.1792107293076.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "התשכח",
+      "gloss": "کی بھلا سکدی اے"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "کُواری"
+    },
+    {
+      "surface": "עדיה",
+      "gloss": "اپنی سنگار دی چیز"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "دلہن"
+    },
+    {
+      "surface": "קשריה",
+      "gloss": "اپنی کمربند"
+    },
+    {
+      "surface": "ועמי",
+      "gloss": "تے میرے لوکاں نے"
+    },
+    {
+      "surface": "שכחוני",
+      "gloss": "مینوں بھلا دتا اے"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دہیاں"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "جیہناں دی گنتی"
+    }
+  ],
+  "timestamp": "2026-10-15T23:34:53.077322969Z",
+  "model": "glm-5.3"
+}

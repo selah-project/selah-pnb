@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 21:8",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויקרא אריה",
+      "rationale": "“شیر وانگوں پکاریا” (KJV\/JPS) بمقابلہ “پکاریا: شیر آ!” — تے اوہ پکار ادونای ول سدھی اے جاں اپنے مالک ول، مترجم ونڈے ہوئے نیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אדני",
+      "rationale": "ادونای اِیتھے ربّ ول اشارہ منیا جاندا اے، پر لفظ آقا دا اے — پنجابی وِچ ادونای رکھیا"
+    }
+  ],
+  "translation": "تے اوہ شیر وانگوں پکاریا: “ادونای، پہرے دی جگہ اُتے اَنا ہمیشہ دِنے کھلوندا واں، تے اپنی پہریداری اُتے اَنا ساریاں راتاں چوکسی رہندا واں۔”",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b7182f630223fbd1087c8365412220fe075068049971970cb37fb53b34df13a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/21\/5-8.1792106152591.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "تے پکاریا"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "شیر وانگوں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "מצפה",
+      "gloss": "پہرے دی جگہ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "اَنا"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "کھلوندا واں"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "دِنے"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "اپنی پہریداری"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "اَنا"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "چوکسی رہندا واں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساریاں"
+    },
+    {
+      "surface": "הלילות",
+      "gloss": "راتاں"
+    }
+  ],
+  "timestamp": "2026-10-15T23:15:52.592885787Z",
+  "model": "glm-5.3"
+}

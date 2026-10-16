@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 6:3",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "اپنی جا",
+      "rationale": "یَدو سَری حد اے 'اپنا ہتھ' — یعنی اپنی ونڈی ہوئی تھاں؛ KJV 'اپنی تھاں'۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רעים\/רעו",
+      "rationale": "چرواہے آؤندے نیں تے چَردے نیں — اِکو جڑ رעה دی وارتی، فوجاں نوں چرواہیاں وانگ دسّیا گیا۔"
+    }
+  ],
+  "translation": "اوہدے کول چرواہے آؤن گے تے اوہناں دیاں اَجڑاں؛ اوہ اوہدے دوالے ٹِبے گڈّن گے، ہر پاسے ہر بندہ ⟨את⟩ اپنی جا چَرے گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "32efa101b00d951f973c79dc79dcecf6a779975f55aa2fabe32884eff73ac600",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/6\/2-3.1792123883023.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אליה",
+      "gloss": "اوہدے کول"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "آؤن گے"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "چرواہے"
+    },
+    {
+      "surface": "ועדריהם",
+      "gloss": "تے اوہناں دیاں اَجڑاں"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "گڈّن گے"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "اوہدے اُتے"
+    },
+    {
+      "surface": "אהלים",
+      "gloss": "ٹِبے"
+    },
+    {
+      "surface": "سביב",
+      "gloss": "دوالے"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "چَرن گے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ہر بندہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنی جا"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "اپنی جا"
+    }
+  ],
+  "timestamp": "2026-10-16T04:11:23.024304315Z",
+  "model": "glm-5.3"
+}

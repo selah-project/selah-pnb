@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 9:14",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "کنٹر",
+      "rationale": "ככר وزن اے (تقریباً 34 کلو) — پنجابی دا پرانا وزن 'کنٹر' رکھیا، کوئی ٹھیک برابر نئیں"
+    },
+    {
+      "kind": "measurement",
+      "subject": "سو تے ویہہ کنٹر سونا",
+      "rationale": "سونے دی گنتی-وزن دا قول"
+    }
+  ],
+  "translation": "تے خیرام نے بادشاہ نوں سو تے ویہہ کنٹر سونا گھلیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8c94d4a9b62792e2a226d9a5c0d9621e259ca33b1b3a0f207237ea81904eb57f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/9\/13-16.1792104348150.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "تے گھلیا"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "خیرام"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "بادشاہ نوں"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سو"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "تے ویہہ"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "کنٹر"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونا"
+    }
+  ],
+  "timestamp": "2026-10-15T22:45:48.151288080Z",
+  "model": "glm-5.3"
+}

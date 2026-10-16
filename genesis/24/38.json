@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "genesis 24:38",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אם לא",
+      "rationale": "عبرانی 'جے نئیں' = 'نئیں بلکہ'؛ اِکو ترجمے وِچ 'نئیں، سگوں' کیتا"
+    },
+    {
+      "kind": "addition",
+      "subject": "اِک",
+      "rationale": "پنجابی اسم توں پہلاں asyncd اے"
+    }
+  ],
+  "translation": "نئیں، سگوں تو میرے پیو دے گھر تے میری برادری کول جاویں گا، تے میرے پتر لئی اِک زنانی لَیسیں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9fab278f579303705eaf6a7e942b8750abc3759fa8f436964af1f5be934eb3a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/24\/37-40.1792095246192.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "میرے پیو دے"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "تو جاویں گا"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے کول"
+    },
+    {
+      "surface": "משפחתי",
+      "gloss": "میری برادری"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "تے تو لَیسیں گا"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زنانی"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "میرے پتر لئی"
+    }
+  ],
+  "timestamp": "2026-10-15T20:14:06.193798721Z",
+  "model": "glm-5.3"
+}

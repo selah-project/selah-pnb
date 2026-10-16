@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 129:7",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 129,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "חצן",
+      "rationale": "חיק\/چھاتی — کپڑے دا اوہ حصہ جتھے گٹھّاں رکھیاں جاندیاں نیں، پنجابی وِچ چھاتی ای سبھ توں نیڑے اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מעמר",
+      "rationale": "اصل معنی گٹھّیاں دی ڈیر بنا کے چُکن والا — پنجابی وِچ 'گٹھّاں بنان والا' ہی وَلّن والے دا جوڑ اے"
+    }
+  ],
+  "translation": "جیندے توں وَلّن والا ⟨اپنا⟩ ہتھ نئیں بھردا تے گٹھّاں بنان والا ⟨اپنی⟩ چھاتی نئیں بھردا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1c343390f858f8d7f7a50f537fd05a66a39f0fb326c675510ec2e78f0b160f5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/129\/5-8.1792114011581.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "بھردا"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "קוצר",
+      "gloss": "وَلّن والا"
+    },
+    {
+      "surface": "וחצנו",
+      "gloss": "تے اوہدی چھاتی"
+    },
+    {
+      "surface": "מעמר",
+      "gloss": "گٹھّاں بنان والا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:26:51.582723940Z",
+  "model": "glm-5.3"
+}

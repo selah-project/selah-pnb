@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 9:1",
+  "book": "daniel",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "عبرانی وِچ אשר دی اِک صفت اے، پنجابی نوں جُملے لئی سی چاہیدا اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "پہلا ورھا",
+      "rationale": "داریا‌وُش دے راج دا پہلا ورھا گِنیا گیا اے"
+    }
+  ],
+  "translation": "داریا‌وُش دے پہلے ورھے، جو اَخشوِرُوش دا پُتر سی، مادای دے بیج وِچوں، جیہڑا کسدیاں دی مملکت اُتے بادشاہ بنایا گیا،",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "74d62cb22e6b7225db46b483f329d99413e8537809ee9b866c6368f05877ddae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/daniel\/9\/1-4.1792118578937.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "ورھے"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "پہلے"
+    },
+    {
+      "surface": "לדריוש",
+      "gloss": "داریا‌وُش دے"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "اَخشوِرُوش"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "بیج وِچوں"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "مادای"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ بنایا گیا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "مملکت"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "کسدیاں دی"
+    }
+  ],
+  "timestamp": "2026-10-16T02:42:58.938358735Z",
+  "model": "glm-5.3"
+}

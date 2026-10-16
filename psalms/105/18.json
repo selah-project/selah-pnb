@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 105:18",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "באה נפשו",
+      "rationale": "'لوہا اوہدی جان وِچ آیا' (متن دی سدھی گل) بمقابلہ KJV 'اوہنوں لوہے وِچ رکھیا' — لوہا متجسّم ہو کے قید دی تصویر بن جاندا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جان-بھُوک اے، صرف روح نئیں"
+    }
+  ],
+  "translation": "اوہناں اوہدے پیراں نوں زنجیراں نال دکھیا — لوہا اوہدی جان وِچّ آ گیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f8327d44b013834f214f5d4c59b87ad829552042b07997840c8b507bc8c87c53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/105\/17-20.1792113605101.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "اوہناں دکھیا"
+    },
+    {
+      "surface": "בכבל",
+      "gloss": "زنجیراں نال"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "اوہدے پیر"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "لوہا"
+    },
+    {
+      "surface": "באה",
+      "gloss": "آ گیا"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "اوہدی جان وِچّ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:20:05.102078046Z",
+  "model": "glm-5.3"
+}

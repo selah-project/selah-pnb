@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 73:24",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "جلال وِچ لَے جانا",
+      "rationale": "כבוד אחר — 'مَگروں جلال' کہندی اے: جلال وِچ لَے جانا، یا جلال مَگروں (موت پچھوں)؟ مُترجم اِتھے وکھرے نیں"
+    },
+    {
+      "kind": "alternative",
+      "subject": "تُوں میتھوں لَے جاہیں",
+      "rationale": "תקחנی سادہ 'لَے جاہیں' اے — 'لَے جا کے قبول کریں گا' وادھا اے"
+    }
+  ],
+  "translation": "اپنی صلاح نال تُوں میتھوں رستہ دسیں گا، تے مَگروں جلال وِچ میتھوں لَے جاہیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6e00f4daa04ca29ea4052336dc5fca6306a2c0b5fb5c272cb95eccb282aae391",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/73\/21-24.1792112962331.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעצתך",
+      "gloss": "اپنی صلاح نال"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "تُوں میتھوں رستہ دسیں گا"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "تے مَگروں"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال وِچ"
+    },
+    {
+      "surface": "תקחנی",
+      "gloss": "میتھوں لَے جاہیں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:09:22.332091314Z",
+  "model": "glm-5.3"
+}

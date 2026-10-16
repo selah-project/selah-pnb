@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רב…רב \/ יוסיף…יוסיף",
+      "rationale": "دوہرائی: 'بہت وِچ بہت' تے 'ودھاؤندا… ودھاؤندا' — عبرانی دی چھوٹ پنجابی وِچ بھروں گنتی دے لفظاں نال رکھی اے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "כעס",
+      "rationale": "لفظی 'سِڑ\/غصہ' اے؛ قاہلت دے سیاق وِچ 'غمّ' لیا گیا۔"
+    }
+  ],
+  "translation": "کیونکہ بہت حکمت وِچ بہت غمّ اے، تے جیہڑا علم ودھاؤندا اے درد ودھاؤندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f8e4ddfd134e2f66f9d8524b8f85e73840c15349004a8d0c64adcb76e939e5d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ecclesiastes\/1\/17-18.1792117365266.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "بہت وِچ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "רב",
+      "gloss": "بہت"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "غمّ"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "تے ودھاؤندا اے"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "علم"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "ودھاؤندا اے"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "درد"
+    }
+  ],
+  "timestamp": "2026-10-16T02:22:45.267725346Z",
+  "model": "glm-5.3"
+}

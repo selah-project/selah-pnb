@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 83:16",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "סערה \/ סופה",
+      "rationale": "دو نیڑے دے وچھوہرے طوفان دے لفظ جوڑ وِچ نیں — پنجابی وِچ دو وکھرے لفظ رکھے"
+    }
+  ],
+  "translation": "ایسے اپنِ ہریک بھچھڑ نال اُہناں دا پچھا کر، تے اپنِ ہریک توپھان نال اُہناں نوں گھبرا دے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3a2aca48bae78c1fa2b32b6f4b36eeea1721c5d1353370da30cb41cfa9628ce8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/83\/13-16.1792113147515.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "ایسے"
+    },
+    {
+      "surface": "תרדפם",
+      "gloss": "اُہناں دا پچھا کر"
+    },
+    {
+      "surface": "בסערך",
+      "gloss": "تیرِ ہریک بھچھڑ وِچ"
+    },
+    {
+      "surface": "ובסופתך",
+      "gloss": "تے تیرِ ہریک توپھان وِچ"
+    },
+    {
+      "surface": "תבהלם",
+      "gloss": "اُہناں نوں گھبرا دے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:12:27.516379196Z",
+  "model": "glm-5.3"
+}

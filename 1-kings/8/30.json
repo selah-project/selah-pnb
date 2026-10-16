@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 8:30",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "دعا",
+      "rationale": "ועמך دے نال 'منت' دا دوجرے لفظ عبرانی وِچ نئیں، پنج syntactic balance لئی پایا — ⟨⟩ وِچ"
+    },
+    {
+      "kind": "idiom",
+      "subject": "אל מקום שבתך",
+      "rationale": "'تیرے وسن دی تھاں ول\/توں' — عبرانی مقام دا کمل، پنجابی وِچ 'توں' ودھیرا سُچجا"
+    },
+    {
+      "kind": "you",
+      "subject": "یاہوہ",
+      "rationale": "سِدھی یاہوہ نوں مخاطب"
+    }
+  ],
+  "translation": "تے تُوں اپنے بندے دی منت تے اپنے قوم یِسرائیل دی ⟨دعا⟩ سنےں، جیہڑے اِس تھاں ول منگن؛ تے تُوں اپنے وسن دی تھاں توں، اسماناں وِچ، سُنےں، تے سُن کے معاف کرےں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "cd4d2495d4b011263d5b5833a3b65d098031ca30d26d55eeab3eace11fd81f09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/8\/29-32.1792104345664.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "تے تُوں سنےں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دیاں"
+    },
+    {
+      "surface": "תחנת",
+      "gloss": "منت"
+    },
+    {
+      "surface": "عבדך",
+      "gloss": "اپنے بندے"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "تے اپنے قوم"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑے"
+    },
+    {
+      "surface": "יתפללו",
+      "gloss": "منگن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ولے"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "تھاں"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اِس"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "تے تُوں"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "سُنےں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "توں"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "تھاں"
+    },
+    {
+      "surface": "שבתך",
+      "gloss": "تیرے وسن دی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "اسماناں"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "تے سُن کے"
+    },
+    {
+      "surface": "וסלחת",
+      "gloss": "معاف کرےں"
+    }
+  ],
+  "timestamp": "2026-10-15T22:45:45.664950741Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 10:20",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "قبیلہ پھڑیا گیا",
+      "rationale": "قرعے نال چُنائی — قبیلہ در قبیلہ، گھرانہ در گھرانہ گھاٹی"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וילכד",
+      "rationale": "'پھڑیا گیا' — قرعہ دا کم جِویں شِکار پھڑیا جاوے؛ کجھ مترجم 'چُنیا گیا' لکھدے نیں، مگر اصل تصویر پکڑن دی اے"
+    }
+  ],
+  "translation": "تے شموایل نے یِسرائیل دے سارے قبیلےآں نوں ⟨את⟩ نیڑے لیایا، تے بنیامین دا قبیلہ پھڑیا گیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d5ec33a9a6839b5059ac19d56d15f5c03e1287bc46a02153301d809893476b1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/10\/17-20.1792102409927.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "نیڑے لیایا"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموایل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سارے قبیلے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "قبیلےآں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "تے پھڑیا گیا"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "قبیلہ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بنیامین"
+    }
+  ],
+  "timestamp": "2026-10-15T22:13:29.928397588Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "המה\/נשאו ראש",
+      "rationale": "שہر دی گونج تے سر اُچا کرن — دو مورتاں اِکو وِچار (بغاوت) دِکھاؤندیاں نیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "گرجدے نیں",
+      "rationale": "המה بُری آواز\/شور دا فعل اے — 'hum' ورگی گونج، صرف 'بغاوت' نئیں"
+    }
+  ],
+  "translation": "کیونکہ ویکھو، تیرے ویری گرجدے نیں، تے تیرے توں نفرت کرن والے سر اُچا کر چکے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "21d8328b83fadc756d7172552d095977548bff823a49a200eb389f27773326b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/83\/1-4.1792113176325.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ویکھو"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "تیرے ویری"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "گرجدے نیں"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "تے تیرے توں نفرت کرن والے"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "اُچا کر چکے نیں"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سر"
+    }
+  ],
+  "timestamp": "2026-10-16T01:12:56.326223961Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 5:5",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "شیول",
+      "rationale": "שאול نوں شیول ای رکھیا — دوزخ یا جہنم نئیں، موت دی تھاں بِنا کسے عدالت دے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "parallelism",
+      "rationale": "پیر\/قدم اتارنا تے پھدنا — موت تے شیول دا جوڑا، پنجابی وِچ وی دوہرا رکھیا"
+    }
+  ],
+  "translation": "اودھرے پیر موت ول اتردے نیں، شیول نوں اودھرے قدم پھد لیندے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "634bdf2d6c230691f8124e9cca7f27563ca1031179649cca180354209e6297ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/5\/5-8.1792114375165.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רגליה",
+      "gloss": "اودھرے پیر"
+    },
+    {
+      "surface": "ירדות",
+      "gloss": "اتردے نیں"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شیول"
+    },
+    {
+      "surface": "צעדיה",
+      "gloss": "اودھرے قدم"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "پھد لیندے نیں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:32:55.165889531Z",
+  "model": "glm-5.3"
+}

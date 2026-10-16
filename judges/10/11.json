@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 10:11",
+  "book": "judges",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نجات دتی",
+      "rationale": "فعل آیت 11 وِچ نئیں، سوال آیت 12 دے 'ואושיעה' تک مُکدا اے — پنجابی جملے لئی ⟨⟩ وِچ پایا"
+    },
+    {
+      "kind": "crux",
+      "subject": "הלא",
+      "rationale": "رفع\/انکار دا سوال: 'کی مَیں نئیں …؟' — مطلب 'اسیں کیتا سی'، پر لفظ صرف 'کی نئیں' اے"
+    },
+    {
+      "kind": "you",
+      "subject": "یِسرائیل دے پُتراں نوں",
+      "rationale": "سِدھی گل یِسرائیل دے پُتراں نال"
+    }
+  ],
+  "translation": "تے یاہوہ نے یِسرائیل دے پُتراں نوں آکھیا: کی مَیں ⟨تُہانوں نجات نئیں دتی⟩ مِتصرایم توں، تے اِموری توں، تے عَمّون دے پُتراں توں، تے پلشتِیاں توں؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "009c45b9a3ac5972de6712fe22ff7cfde225acf1d7fd5becc317e28a47adbdb5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/judges\/10\/9-12.1792101614502.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ نے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل دے"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "کی … نئیں"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "مِتصرایم توں"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "تے … توں"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "اِموری"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "تے … توں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عَمّون دے"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "تے … توں"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "پلشتِیاں"
+    }
+  ],
+  "timestamp": "2026-10-15T22:00:14.503564554Z",
+  "model": "glm-5.3"
+}

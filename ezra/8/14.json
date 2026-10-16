@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezra 8:14",
+  "book": "ezra",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سن",
+      "rationale": "عبرانی وچ کریا نئیں، پنجابی جملے لئی پایا۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ستر نَر",
+      "rationale": "گنتی جاری اے — لسٹ دا انگ۔"
+    }
+  ],
+  "translation": "تے بِگوِی دے پُتراں وِچوں عُوتای تے زبوود، تے اوہدے نال ستر نَر سن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "39fcbbadd3d8b8ef28363f7042fd0f00d5c7bce5af1fc2e0660d2344f4cd4a1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezra\/8\/13-16.1792119372308.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "تے پُتراں وِچوں"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "بِگوِی"
+    },
+    {
+      "surface": "עותי",
+      "gloss": "عُوتای"
+    },
+    {
+      "surface": "וזבוד",
+      "gloss": "تے زبوود"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "تے اوہدے نال"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ستر"
+    },
+    {
+      "surface": "הזכרים",
+      "gloss": "نَر"
+    }
+  ],
+  "timestamp": "2026-10-16T02:56:12.309580340Z",
+  "model": "glm-5.3"
+}

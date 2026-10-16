@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 78:22",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "فَرقہ\/مُکتی",
+      "rationale": "יְשׁוּעָה 'مُکتی\/بچاؤ' اے؛ پنجابی سنت وِچ 'فَرقہ' ریت دا لفظ اے پر 'مُکتی' مول تصویر نیڑے اے — 'مُکتی' نوں دوجا پڑھائی منگیا جاندا اے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ایمان نئیں لیایا",
+      "rationale": "'یقین نئیں کیتا' — אמן دا مول 'تیسری\/پکا کرنا' اے، 'ایمان لیانا' اِکو جِہیا ٹھیک اے"
+    }
+  ],
+  "translation": "کیونکہ اوہناں ایلوہیم اُتے ایمان نئیں لیایا، تے نہ اوہدے فَرقے اُتے بھروسہ کیتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "da57fde5bf333c2237b2715ecd4a86ab6c59a3732dd97f0a4f93e32741e3d531",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/78\/21-24.1792113056427.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "ایمان لیایا"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "ایلوہیم اُتے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "بھروسہ کیتا"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "اوہدے فَرقے اُتے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:10:56.428487593Z",
+  "model": "glm-5.3"
+}

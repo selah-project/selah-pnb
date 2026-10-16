@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 1:20",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "اسرائیل نوں",
+      "rationale": "موسیٰ دا لوکاں نال سِدھا خطاب: «تُسیں آ گئے او»۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "رہا",
+      "rationale": "عبرانی נתן participle اے «دَیندا»؛ پنجابی وِچ «دِے رہا اے» جاری صورت دتی۔"
+    }
+  ],
+  "translation": "تے میں تُہاکوں آکھیا: تُسیں اَموری دے پہاڑ تک آ گئے او، جِہڑا یاہوہ ساڈا ایلوہیم سانوں دِے رہا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "de8242910b62f82408b93fa2d4d20e394827557b59eafa809ab4805f55b048f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/1\/17-20.1792099555051.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "تے میں… آکھیا"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "تُہاکوں"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "تُسیں آ گئے او"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "הר",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "اَموری"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جِہڑا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ساڈا ایلوہیم"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دِے رہا اے"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "سانوں"
+    }
+  ],
+  "timestamp": "2026-10-15T21:25:55.052169015Z",
+  "model": "glm-5.3"
+}

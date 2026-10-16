@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 10:2",
+  "book": "nehemiah",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ایہہ نیں⟩",
+      "rationale": "لسٹ شروع کرن لئی پنجابی نوں اک چوغا چاہیدا اے جیہڑا عبرانی وِچ نئیں۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "مُہر لین والیاں دی لسٹ",
+      "rationale": "ن测绘اں دی گنتی والی لسٹ — آیت 2 توں 28 تک مُہر لین والے درج نیں۔"
+    },
+    {
+      "kind": "alternative",
+      "subject": "התרשתא",
+      "rationale": "'تِرشاتھا' فارسی عنوان اے (پارسی 'ترچتھا' توں)؛ کجھ ترجمے 'گورنر' لکھدے نیں پر حرف-نقل رکھیا۔"
+    }
+  ],
+  "translation": "تے مُہر لین والیاں اُتے ⟨ایہہ نیں⟩: نِحمیاہ تِرشاتھا، حَکلیاہ دا پُتر، تے تِصدقیاہ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b896c43f0faf2e327387537652390b1e524d31d8edb5f930261899d04a79cdfb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/nehemiah\/10\/1-4.1792119859585.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "החתומים",
+      "gloss": "مُہر لین والیاں"
+    },
+    {
+      "surface": "נחמיה",
+      "gloss": "نِحمیاہ"
+    },
+    {
+      "surface": "התרשתא",
+      "gloss": "تِرشاتھا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "חכליה",
+      "gloss": "حَکلیاہ"
+    },
+    {
+      "surface": "וצדקיה",
+      "gloss": "تے تِصدقیاہ"
+    }
+  ],
+  "timestamp": "2026-10-16T03:04:19.585897701Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 26:20",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בְּאֶפֶס עֵצִים",
+      "rationale": "پترCouncil 'لکڑیاں دے مُکن تے' — 'جتھے لکڑ نئیں' دا پرسنگک مطلب۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תכבה\/ישתק",
+      "rationale": "سمتی ترکيب — اگّ بُجھدی اے \/ جھیڑا چُپ ہوندا اے — مشہوری دی اکو تسبیح۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "ہو جاندا اے",
+      "rationale": "יִשְׁתֹּק 'چُپ ہووے' اے — پنجابی مکمل فعل منگدی اے۔"
+    }
+  ],
+  "translation": "لکڑیاں مُکن تے اگّ بُجھ جاندی اے، تے چُغلیاں مارن والے دے نہ ہون تے جھیڑا چُپ ہو جاندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a4d1658b670530c0c88c2c8dedb6453aa08a75076a469900f032720404026761",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/26\/17-20.1792115142489.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באפס",
+      "gloss": "مُکن تے"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "لکڑیاں"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "بُجھ جاندی اے"
+    },
+    {
+      "surface": "אש",
+      "gloss": "اگّ"
+    },
+    {
+      "surface": "ובאין",
+      "gloss": "تے…دے نہ ہون تے"
+    },
+    {
+      "surface": "נרגן",
+      "gloss": "چُغلیاں مارن والے"
+    },
+    {
+      "surface": "ישתק",
+      "gloss": "چُپ ہو جاندا اے"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "جھیڑا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:45:42.490075293Z",
+  "model": "glm-5.3"
+}

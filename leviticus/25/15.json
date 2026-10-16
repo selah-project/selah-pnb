@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 25:15",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "سالاں دی گنتی",
+      "rationale": "قیمت سالاں دی گنتی نال طے ہوندی اے — خرید و فروخت دی پیمائش"
+    },
+    {
+      "kind": "addition",
+      "subject": "دے",
+      "rationale": "عبرانی دی ساخت حالت (سملوٹ) پنجابی وِچ 'دے' نال آندی اے"
+    }
+  ],
+  "translation": "یوبیل توں بعد سالاں دی گنتی دے موجب تسیں اپنے سنگی توں ⟨את⟩ خریدنا؛ فصلاں دے سالاں دی گنتی دے موجب اوہ تینوں ویچے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d1ce4eac899fed536371a2406c0f5896084a8e27076b10caacde885917b0dc82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/25\/13-16.1792098083559.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "במספר",
+      "gloss": "گنتی دے موجب"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سالاں"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "توں بعد"
+    },
+    {
+      "surface": "היובל",
+      "gloss": "یوبیل"
+    },
+    {
+      "surface": "תקנה",
+      "gloss": "خریدنا"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "توں ⟨את⟩",
+      "marks": "اپنے سنگی"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "اپنے سنگی"
+    },
+    {
+      "surface": "بמספר",
+      "gloss": "گنتی دے موجب"
+    },
+    {
+      "surface": "שני",
+      "gloss": "سالاں"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "فصلاں"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "ویچے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تینوں"
+    }
+  ],
+  "timestamp": "2026-10-15T21:01:23.560381277Z",
+  "model": "glm-5.3"
+}

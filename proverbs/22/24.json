@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 22:24",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בעל אף",
+      "rationale": "لفظی: 'نَکّ دا مالک' — عبرانی وِچ غصہ نَکّ نال جُڑیا اے؛ پنجابی وِچ 'غصے دا مالک' رکھیا"
+    },
+    {
+      "kind": "you",
+      "subject": "to the reader",
+      "rationale": "ہدایت سِدھی مخاطب اے"
+    }
+  ],
+  "translation": "غصے دے مالک نال یاری نہ پا، تے ⟨את⟩ چڑھ بھرے بندے نال نہ ٹُر۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7191a4cd079789256875c6d53c0ddd0ea3b9f157776e2217f308ffd5ff543a77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/22\/21-24.1792115017203.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתרע",
+      "gloss": "یاری نہ پا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "غصے دے مالک نوں"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "مالک"
+    },
+    {
+      "surface": "אף",
+      "gloss": "غصے دا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "چڑھ بھرے بندے نوں"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "چڑھ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ٹُر"
+    }
+  ],
+  "timestamp": "2026-10-16T01:43:37.204257816Z",
+  "model": "glm-5.3"
+}

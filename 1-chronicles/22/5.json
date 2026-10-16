@@ -1,0 +1,131 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 22:5",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "←ہُن⟩ ←مَیں⟩ ←سامان⟩",
+      "rationale": "عبرانی وِچ نئیں، پنجابی جملے لئی شامل کیتے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "شکیمہ",
+      "rationale": "بھُل — شلومو ٹھیک اے، عبرانی ناں دی میز موجب"
+    },
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "دعا دا ذرہ، پنجابی وِچ ←…⟩ نال دسّیا"
+    }
+  ],
+  "translation": "تے داوِد نے آکھیا: شکیمہ ← دراصل: شلومو ← میرا پُتر نوجوان تے نرم اے، تے ایہہ گھر جیہڑا یاہوہ لئی بنایا جاوے، بہت وڈا بنے، سارے دیساں وِچ ناں تے شوکت لئی؛ ←مَیں⟩ ایس لئی ←ہُن⟩ اوہدے لئی تیاری کراں۔ تے داوِد نے اپنی موت توں پہلاں بہت زیادہ ←سامان⟩ تیار کیتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fc0903f3d8e8a14da401a75f92a665fc775d6896a85b1af4e12902d84716cb54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/22\/5-8.1792121260785.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد نے"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "میرا پُتر"
+    },
+    {
+      "surface": "נער",
+      "gloss": "نوجوان"
+    },
+    {
+      "surface": "ורך",
+      "gloss": "تے نرم"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "تے ایہہ گھر"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "بنایا جاوے"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ لئی"
+    },
+    {
+      "surface": "להגדיל",
+      "gloss": "وڈا کیتا جاوے"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "بہت زیادہ"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "ناں لئی"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "تے شوکت لئی"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "دیساں لئی"
+    },
+    {
+      "surface": "אכינה",
+      "gloss": "تیاری کراں"
+    },
+    {
+      "surface": "נא",
+      "gloss": "←مَیں منگدا ہاں⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدے لئی"
+    },
+    {
+      "surface": "ויכן",
+      "gloss": "تے تیار کیتا"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد نے"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "بہت زیادہ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "توں پہلاں"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "اوہدی موت"
+    }
+  ],
+  "timestamp": "2026-10-16T03:27:40.786072077Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 17:14",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩",
+      "rationale": "הוא بطاقت والا ضمیر اے — 'اوہی نِکا' — پنجابی وِچ وشیش安卓 دسن لئی بریکٹ وِچ شامل"
+    }
+  ],
+  "translation": "تے داوِد ⟨اوہ⟩ نِکا سی، تے تِن وڈے شاؤل دے پِچھے ٹُر گئے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "23aa79b4a96161e2fdadfdecfcc3ea83e6a7faa6eb8a60af0439364dbbfbb56a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/17\/13-16.1792102627039.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "تے داوِد"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨اوہ⟩"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "نِکا سی"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "تے تِن"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "وڈے"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ٹُر گئے"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پِچھے"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل دے"
+    }
+  ],
+  "timestamp": "2026-10-15T22:17:07.040083185Z",
+  "model": "glm-5.3"
+}

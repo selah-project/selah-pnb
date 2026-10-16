@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 26:4",
+  "book": "ezekiel",
+  "lang": "pnb",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوہ",
+      "rationale": "عبرانی دی جمع کریا 'اوہ بگاڑݙݙن' — کریا دا کول پنجابی وِچ ضمیر منگدا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צחיח סלע",
+      "rationale": "'دھپ وِچ ننگا پتھر' — دھوڑ دھک کے چمکدا چٹان، ذرا (26:14) دیاں جالاں دی تیاری"
+    }
+  ],
+  "translation": "تے اوہ صور دیاں کندھاں بگاڑݙݙن تے اودے برج ڈھاݙݙن؛ تے مَیں اودی دھوڑ اودے توں بُراہواں گا، تے ⟨את⟩ اُسے ننگے چمکدے پتھر بناواں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2ed03c3d1372b6b90791a95442a7e5b1a28d06af44da40ab788f32ec74b84394",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/26\/1-4.1792109701469.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושחתו",
+      "gloss": "تے اوہ بگاڑݙݙن"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "کندھاں"
+    },
+    {
+      "surface": "צר",
+      "gloss": "صور دیاں"
+    },
+    {
+      "surface": "והרסו",
+      "gloss": "تے ڈھاݙݙن"
+    },
+    {
+      "surface": "מגדליה",
+      "gloss": "اودے برج"
+    },
+    {
+      "surface": "וסחיתי",
+      "gloss": "تے مَیں بُراہواں گا"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "اودی دھوڑ"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "اودے توں"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "تے مَیں بناواں گا"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "اُسے (صور)"
+    },
+    {
+      "surface": "לצחיח",
+      "gloss": "ننگے چمکدے"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "پتھر"
+    }
+  ],
+  "timestamp": "2026-10-16T00:15:01.471739352Z",
+  "model": "glm-5.3"
+}

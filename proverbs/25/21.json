@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 25:21",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to the reader",
+      "rationale": "دوویں Imperative بندیاں نوں سدھیاں مخاطب نیں — پڑھن والا نوں حکم اے۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "האכלהו \/ השקהו",
+      "rationale": "دوویں causative عملاں وِچ جُڑے لاگا-پروت جوڑ نیں — کھوا دے\/پلا دے دی تول، پنجابی وِچ وی جوڑی بیٹھدی اے۔"
+    }
+  ],
+  "translation": "جے تیرا ورجوائی بھکھا ہووے، اوہنوں لوا کھوا دے، تے جے اوہ پیاسا ہووے، اوہنوں پانی پلا دے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7692eb697b4f720d957513373f9bc284efba48204600c2c72d10d141639bd363",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/25\/21-24.1792115060360.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "بھکھا"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "تیرا ورجوائی"
+    },
+    {
+      "surface": "האכלהו",
+      "gloss": "اوہنوں کھوا دے"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لوا"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "پیاسا"
+    },
+    {
+      "surface": "השקהו",
+      "gloss": "اوہنوں پلا دے"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پانی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:44:20.360746523Z",
+  "model": "glm-5.3"
+}

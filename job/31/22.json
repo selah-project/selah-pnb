@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 31:22",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "משכמה",
+      "rationale": "موڈھے دی ہڈی (شولڈر بلیڈ) — تنخ وِچ اِکو واری۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מקנה",
+      "rationale": "لفظ دی شکل ‘قنے ورگی سِلاں\/تِیر’ اے (ہڈی دا سِدھا تِیرا)؛ ‘ہڈی’ عام لفظ رکھیا گیا، شکل ٹُٹ گئی۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "تاں",
+      "rationale": "عبرانی وِچ شرط دا جواب پہلی آیت 21 دی ‘جے’ توں آندا اے؛ پنجابی ‘تاں’ منگدا اے۔"
+    }
+  ],
+  "translation": "تاں میرا موڈھا موڈھے-دی-ہڈی توں گِر پئے، تے میری باہت قنے-ورگی ہڈی توں ٹُٹ جاوے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e62f837fbc4509f27d6f303164333111b49ce26198068a34fb6172b3f91ae074",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/31\/21-24.1792116180341.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כתפי",
+      "gloss": "میرا موڈھا"
+    },
+    {
+      "surface": "משכמה",
+      "gloss": "موڈھے-دی-ہڈی توں"
+    },
+    {
+      "surface": "תפול",
+      "gloss": "گِر پئے"
+    },
+    {
+      "surface": "ואזרעי",
+      "gloss": "تے میری باہت"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "قنے-ورگی ہڈی توں"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "ٹُٹ جاوے"
+    }
+  ],
+  "timestamp": "2026-10-16T02:03:00.341773345Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 50:7",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "اخیری جملے دی کوپلا عبرانی وِچ نئیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "نیائے دی وسوں",
+      "rationale": "נוה צדק ٹھیک 'نیائے دی چراگاہ\/وسوں' — بھیڈاں دی مثال نال جُڑدا ہویا"
+    },
+    {
+      "kind": "crux",
+      "subject": "נאשם",
+      "rationale": "'اساں قصور وار نئیں' — دُشمن آپ نوں بے قصور آکھدے نیں، کیوں جو اسرائیل دا اپنا گُناہ ای اوہناں دی تباہی دا سبب اے"
+    }
+  ],
+  "translation": "سارے جیہڑے اوہناں نوں لَبھے اوہناں نوں کھا گئے، تے اوہناں دے دُشمناں نے آکھیا: اساں قصور وار نئیں، کیوں جو اوہناں یاہوہ دے خلاف گُناہ کیتا — نیائے دی وسوں، اوہناں پیوآں دی آس یاہوہ ⟨اے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ae20984ed204bbc34470735ddd9616be01060af876641dbfecb30157f0a9feee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/50\/5-8.1792108746416.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "מוצאיהם",
+      "gloss": "جیہڑے اوہناں نوں لَبھے"
+    },
+    {
+      "surface": "אכלום",
+      "gloss": "اوہناں نوں کھا گئے"
+    },
+    {
+      "surface": "וצריהם",
+      "gloss": "تے اوہناں دے دُشمناں نے"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "נאשם",
+      "gloss": "قصور وار"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨جو⟩"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "گُناہ کیتا"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ دے خلاف"
+    },
+    {
+      "surface": "נוה",
+      "gloss": "وسوں"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "نیائے دی"
+    },
+    {
+      "surface": "ומקוה",
+      "gloss": "تے آس"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "اوہناں پیوآں دی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-10-15T23:59:06.417610663Z",
+  "model": "glm-5.3"
+}

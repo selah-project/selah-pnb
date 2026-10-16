@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 125:1",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 125,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩",
+      "rationale": "عبرانی وِچ فعل اے دے نال کریکٹر لئی ضمیر نئیں، پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לא ימוט \/ ישב",
+      "rationale": "ہلن دا انکار تے وسن دا اقرار — اک جوڑی جیہڑی پنجابی وِچ وی ٹھہر جاندی اے"
+    }
+  ],
+  "translation": "عروجاں دا گیت۔ جیہڑے یاہوہ اُتے بھروسہ رکھدے نیں، اوہ تسیون پہاڑ ورگے نیں — نئیں ہلیگا، ہمیشہ لئی ⟨اوہ⟩ وسدا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6ddce91552d2f7f8294385cccee1e865d7d4e4a1a60a3410fc129e939f17cc08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/125\/1-4.1792114036750.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "گیت"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "عروجاں دا"
+    },
+    {
+      "surface": "הבטחים",
+      "gloss": "بھروسہ رکھن والے"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "یاہوہ اُتے"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "جویں پہاڑ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "تسیون"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "ہلیگا"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشہ لئی"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "وسدا ⟨اے⟩"
+    }
+  ],
+  "timestamp": "2026-10-16T01:27:16.750950330Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 2:25",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ופללו אלהים",
+      "rationale": "KJV 'the judge shall judge' (אלהים as judge) vs 'God shall judge\/intercede' — majority read God as subject of the verb."
+    },
+    {
+      "kind": "addition",
+      "subject": "دی خلاف",
+      "rationale": "Hebrew ל preposition supplied as 'against' to make the sin-against relation explicit."
+    },
+    {
+      "kind": "you",
+      "subject": "عیلی دے پُتراں کول",
+      "rationale": "Eli's reported speech directly addresses his sons, a question with no answer."
+    }
+  ],
+  "translation": "جے بندہ بندے ⟨دی خلاف⟩ گناہ کرے تاں ایلوہیم فیصلہ کرے؛ پر جے بندہ یاہوہ دے خلاف گناہ کرے تاں اوہدے لئی کون عرض کرے؟ تے اوہناں نے اپنے پیو دی آواز نئیں سنی، کیوں جے یاہوہ نوں اوہناں نوں مارن چِت سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4715785d3e8b4e896664cbf2250500a2dc7aff8f309b11bc1824431f7d31d106",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/2\/25-28.1792102202440.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "گناہ کرے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "بندے ⟨دی خلاف⟩"
+    },
+    {
+      "surface": "ופללו",
+      "gloss": "فیصلہ کرے"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "پر جے"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ دے خلاف"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "گناہ کرے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "יתפלל",
+      "gloss": "عرض کرے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدے لئی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "سنی"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "اپنے پیو دی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جے"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "چِت سی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "להמיתם",
+      "gloss": "اوہناں نوں مارن"
+    }
+  ],
+  "timestamp": "2026-10-15T22:10:02.440766137Z",
+  "model": "glm-5.3"
+}

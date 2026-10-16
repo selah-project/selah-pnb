@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 116:10",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 116,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כי",
+      "rationale": "'ایس لئی' (KJV) بمقابلہ 'کیونکہ میں بولدا آں' (JPS\/ASV) — כי دا سیاق دوویں پاسے کھولھدا اے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עניתי",
+      "rationale": "כנה ایتھے 'دُکھ سہنا' اے، جواب دینا نئیں — حالانکہ مول چِیرا 'جواب\/تھکاوٹ' اے۔"
+    }
+  ],
+  "translation": "میں یقین کیتا، ایس لئی میں بولیا؛ میں بہت دُکھی ہویا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9f58a11b1cc15e365db798881c68fda07224e8dec0b6059f3be84b87af347ac0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/116\/9-12.1792113774265.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האמנתי",
+      "gloss": "میں یقین کیتا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ایس لئی"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "میں بولیا"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "دُکھی ہویا"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بہت"
+    }
+  ],
+  "timestamp": "2026-10-16T01:22:54.266359306Z",
+  "model": "glm-5.3"
+}

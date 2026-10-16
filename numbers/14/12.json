@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 14:12",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "وِسروا دیاںگا",
+      "rationale": "ואורשנו دی جڑ یרש دا مطلب 'وِیری آدھِیکار دے کے ورثہ بناونا\/دا باہر کڈھنا' اے — 'وِسروا دینا' اوہدی تھاں دتی شکل اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨اوہنوں⟩",
+      "rationale": "אכנו تے ואורשנو وِچ مفعول دا نشان ו (-נו) پہلے فعل نال اے پر پنجابی جملہ دوویں تھاواں مفعول منگدا اے"
+    }
+  ],
+  "translation": "میں ⟨اوہنوں⟩ مہینے نال ماراںگا تے اوہنوں وِسروا دیاںگا، تے ⟨את⟩ تینوں اِک قوم بناؤاںگا — وڈی تے زوراور اوہدے توں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0af720cb9155d0fbdb297a963867fb40ce3c67ca85d60c01a0135f04447094f1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/14\/12-12.1792123388444.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אכנו",
+      "gloss": "میں ماراںگا"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "مہینے نال"
+    },
+    {
+      "surface": "ואורשנו",
+      "gloss": "تے اوہنوں وِسروا دیاںگا"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "تے بناؤاںگا"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ تینوں"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "اِک قوم"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وڈی"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "تے زوراور"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "اوہدے توں"
+    }
+  ],
+  "timestamp": "2026-10-16T04:03:08.444977260Z",
+  "model": "glm-5.3"
+}

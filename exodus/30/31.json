@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 30:31",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "לי توں بعد پنجابی جملے لئی کریا دی لوڑ، عبرانی وِچ صرف لامڈا اے"
+    },
+    {
+      "kind": "you",
+      "subject": "یِسرائیل دے پُتراں نال",
+      "rationale": "خدا موشے راہیں یِسرائیل دے پُتراں نوں مخاطب کردا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משחת \/ משח",
+      "rationale": "مسح دا تیل (שמן משחת) تے آیت 30 دی کریا תמשח اکو جڑ توں — پاک تیل تے کاہناں دی مسح اکو کم اے"
+    }
+  ],
+  "translation": "تے تُسیں یِسرائیل دے پُتراں نال آکھو گے، آکھ کے: مسح دا ایہہ تیل پاک ہووے گا، ایہہ میرے لئی ⟨اے⟩، تُہاڈیاں نسلاں تک۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d5c93fd219c1e6ec65e275b9911f93b1f914b38de9b9fd5849d4cd5c1ca9deef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/30\/30-31.1792123316450.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "تے ... نال"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتراں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "آکھو گے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ کے"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "تیل"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "مسح دا"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہووے گا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرے لئی"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "تُہاڈیاں نسلاں تک"
+    }
+  ],
+  "timestamp": "2026-10-16T04:01:56.451457980Z",
+  "model": "glm-5.3"
+}

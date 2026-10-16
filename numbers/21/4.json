@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 21:4",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ותקצר נפש",
+      "rationale": "'جان چھوٹی ہوئی' = صبر مُک گیا — پنجابی 'جان تنگ ہو گئی' اوہو مطلب"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "نفس = ساہ\/جان، 'روح' نئیں"
+    },
+    {
+      "kind": "crux",
+      "subject": "ים סוף",
+      "rationale": "'سُپ دا سمندر' — قلزم\/لال سمندر روایت اے، اکھری مطلب 'نرسیل والا سمندر'"
+    }
+  ],
+  "translation": "تے اوہ ہور پہاڑ توں قلزم سمندر والے رستے تُریے، اَدوم دی ⟨את⟩ زمین دے دوالے مُڑن لئی، تے رستے وِچ قوم دی جان تنگ ہو گئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5a5565236b19cab88eba94ea7deea28af558303e9fb9ad29fdfd29f46756ddd5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/21\/1-4.1792098891168.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "تُریے"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ہور پہاڑ توں"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "رستے"
+    },
+    {
+      "surface": "ים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "قلزم"
+    },
+    {
+      "surface": "לסבב",
+      "gloss": "دوالے مُڑن لئی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَدوم دی زمین"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "اَدوم دی"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "تنگ ہو گئی"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم دی"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "رستے وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T21:14:51.170007824Z",
+  "model": "glm-5.3"
+}

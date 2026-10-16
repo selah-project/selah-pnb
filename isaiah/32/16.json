@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 32:16",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "צדקה",
+      "rationale": "سدھرائی\/نیکی — عبرانی دا وسیع مطلب، اک لفظ چُنیا۔"
+    }
+  ],
+  "translation": "تے انصاف بندر وِچ وسے گا، تے سدھرائی فروٹ والی زمین وِچ ٹِکِی رہوے گی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "54a4ee93ff5d9edc23a90bf916d9c00ba12541e2f3e4a68dd9dc01f389597b7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/32\/13-16.1792106376335.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושכן",
+      "gloss": "تے وسے گا"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "بندر وِچ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "تے سدھرائی"
+    },
+    {
+      "surface": "בכרמל",
+      "gloss": "فروٹ والی زمین وِچ"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "ٹِکِی رہوے گی"
+    }
+  ],
+  "timestamp": "2026-10-15T23:19:36.337058844Z",
+  "model": "glm-5.3"
+}

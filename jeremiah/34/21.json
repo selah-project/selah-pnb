@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 34:21",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "میں",
+      "rationale": "عبرانی وِچ کرم صیغہ بِنا کتھن والا، پنجابی نوں صیغہ چاہیدا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جان-بل اے، روح نئیں — 'اوناں جاناں دے کھوجی'"
+    },
+    {
+      "kind": "crux",
+      "subject": "اُٹھیا اے",
+      "rationale": "העולים מעליכם: 'تواڈے توں اُٹھ کے چلیا گیا' — بابل دا لشکر یروشلایم دا محاصرہ چھڈ کے چلیا سی"
+    }
+  ],
+  "translation": "تے ⟨את⟩ صدقیاہو نوں، یہوداہ دے بادشاہ نوں، تے ⟨את⟩ اودے امیراں نوں میں اوناں دشمناں دے ہتھ تے اوناں جاناں دے کھوجیاں دے ہتھ تے بابل دے بادشاہ دے لشکر دے ہتھ دےواں گا، جیہڑا تواڈے توں اُٹھیا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4712c5b8bef20a79dd83c10b7f47fb5ffd0394c79b648bdc855551ec31050022",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/34\/21-22.1792108213330.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "صدقیاہو"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "صدقیاہو"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ دے"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اودے امیر"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "اودے امیر"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "میں … دےواں گا"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ہتھ وِچ"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "اوناں دشمن"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "تے ہتھ وِچ"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "کھوجیاں دے"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "اوناں جاناں"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "تے ہتھ وِچ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "لشکر"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "העלים",
+      "gloss": "اُٹھیا اے"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "تواڈے توں"
+    }
+  ],
+  "timestamp": "2026-10-15T23:50:13.331518491Z",
+  "model": "glm-5.3"
+}

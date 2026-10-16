@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 14:30",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אף כי לוא",
+      "rationale": "'تے اَگے تے اگر…' — عبرانی دا اُچیج کے بھرواس والا روپ، پنجابی وِچ 'تاں… ہوندی' نال پورا کیتا"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אכל אכל",
+      "rationale": "اِکو کریا دو وار — مکمل کھانے دا تاکیدی اِنفینیٹیو، پنجابی وِچ 'کھا لیندی' دو ٹوکناں نال وکھایا"
+    }
+  ],
+  "translation": "تے اَگے تے اگر اج قوم اپنے ویریاں دی لُٹ وِچوں، جو اوہناں نوں ملی سی، کھا لیندی، تاں ہن فلستیاں اُتے مار وَدھ کے وَدھی ہوندی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "531e3f0b0ef3d61561db3690af04afd544bf66c3034f5fc00ff520c4d56de94c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/14\/29-32.1792102535544.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "تے اَگے تے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨کہ⟩"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "کھا"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "لیندی"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اج"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "משלל",
+      "gloss": "لُٹ"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "اپنے ویریاں دی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "ملی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "تاں"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ہن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں ⟨صرف⟩"
+    },
+    {
+      "surface": "רבתה",
+      "gloss": "وَدھی ہوندی"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "مار"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "فلستیاں اُتے"
+    }
+  ],
+  "timestamp": "2026-10-15T22:15:35.545284806Z",
+  "model": "glm-5.3"
+}

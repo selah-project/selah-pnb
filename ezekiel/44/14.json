@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 44:14",
+  "book": "ezekiel",
+  "lang": "pnb",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نوں",
+      "rationale": "אותם מفعولی نشان اے؛ پنجابی نوں 'نوں” چاہیدا اے پر اِشارہ ⟨את⟩ ٹبر دا ⟨אותם⟩ نی رکھیا"
+    },
+    {
+      "kind": "addition",
+      "subject": "میں",
+      "rationale": "אני (میں) ایتھے نئیں پر ונתתی دی پہلی شخص صیغہ 'میں' دسدا اے"
+    }
+  ],
+  "translation": "تے میں ⟨אותם⟩ اوہناں نوں بیٹھک دے گھر دی چوکسی دے راکھے لاواں گا، اوہدی ساری خدمت لئی تے اوہدے وِچ جو کجھ کیتا جاوے، سارے لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "73571ef477b788dc5d12179ebb7d27122edc3fe8a10b7d8b8d6b7966c5320ae3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/44\/13-16.1792110341037.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "تے میں لاواں گا"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "اوہناں نوں — شومی مِشمرت دا اِشارہ"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "راکھے"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "چوکسی"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "بیٹھک دے گھر دی"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "اوہدی خدمت"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "تے سارے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو کجھ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کیتا جاوے"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوہدے وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T00:25:41.038471892Z",
+  "model": "glm-5.3"
+}

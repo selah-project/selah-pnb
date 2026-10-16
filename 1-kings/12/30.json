@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לפני האחד",
+      "rationale": "'اِک دے ساہمنے' — کجھ مترجم 'اِک ⟨وچھیر⟩ دی پوجا لئی' پڑھدے نیں (KJV)، متن صرف 'اِک دے اگے' آکھدا اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨دی⟩",
+      "rationale": "پنجابی 'اگے' نال تعلق دی لوڑ اے، عبرانی وِچ نئیں۔"
+    }
+  ],
+  "translation": "تے ایہہ گل پاپ بن گئی، تے لوک اِک ⟨دی⟩ اگے دان تک گئے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2be6b2ec286fa3886cd53339650ae541629007b54a4e34046fceac35f12437fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/12\/29-32.1792104478479.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بن گئی"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "گل"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "پاپ"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "گئے"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوک"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اگے"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "اِک ⟨دی⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    }
+  ],
+  "timestamp": "2026-10-15T22:47:58.479790910Z",
+  "model": "glm-5.3"
+}

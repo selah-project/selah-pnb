@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 3:2",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "بھسم",
+      "rationale": "אכל دا مطلب 'کھانا' اے — اگّ جھاڑی نوں 'کھا' نئیں رہی"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הסנה … הסנה … הסנה",
+      "rationale": "جھاڑی دا ناں تن واری دوہایا گیا اے — وارتالوپ پنجابی وِچ رہندا اے"
+    }
+  ],
+  "translation": "تے یاہوہ دا فرشتہ اوہدے اگے اگّ دے شعلے وِچ جھاڑی دے وچکاروں ظاہر ہویا؛ تے اوہنے ویکھیا، تے ویکھو، جھاڑی اگّ نال بل رہی اے، تے جھاڑی بھسم نئیں ہو رہی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c635f4f1e84e7914295bea088596bb7b31b5dd6ecd2d278b0de0f11859a0f5aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/3\/1-4.1792096188596.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "تے ظاہر ہویا"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "فرشتہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دا"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اوہدے اگے"
+    },
+    {
+      "surface": "בלבת",
+      "gloss": "شعلے وِچ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "اگّ دے"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "وچکاروں"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "جھاڑی"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "تے ویکھیا"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "تے ویکھو"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "جھاڑی"
+    },
+    {
+      "surface": "בער",
+      "gloss": "بل رہی اے"
+    },
+    {
+      "surface": "באש",
+      "gloss": "اگّ نال"
+    },
+    {
+      "surface": "והסנה",
+      "gloss": "تے جھاڑی"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "بھسم ہو رہی"
+    }
+  ],
+  "timestamp": "2026-10-15T20:29:48.597937144Z",
+  "model": "glm-5.3"
+}

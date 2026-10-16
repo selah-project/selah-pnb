@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 68:33",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "سنگیت دا وقفہ، حرف-نقل نال رکھیا — ترجمہ نئیں"
+    },
+    {
+      "kind": "addition",
+      "subject": "لئی",
+      "rationale": "پنجابی لئی ל-دے اگلے لاگو ہون والا لفظ، ⟨⟩ وِچ دینا چاہیدا سی پر ریتاں موجب کھلا رکھیا"
+    },
+    {
+      "kind": "invitation",
+      "subject": "مملکتاں",
+      "rationale": "دھرتی دیاں مملکتاں نوں گاؤن دا حکم — سدّا اے"
+    }
+  ],
+  "translation": "اے دھرتی دیاں مملکتاں، ایلوہیم لئی گاؤ، ادونای لئی ساز نال وجاؤ۔ سلاہ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "db787a3cfc0de424d527218d90fef0db47c5c089d15c0fb8004454cb3683a825",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/68\/33-36.1792112885011.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ממלכות",
+      "gloss": "اے مملکتاں"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "دھرتی دیاں"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "گاؤ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ایلوہیم لئی"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ساز نال وجاؤ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سلاہ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:08:05.012106556Z",
+  "model": "glm-5.3"
+}

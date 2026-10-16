@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 7:16",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "اسرائیل",
+      "rationale": "حکم سدھا اِسرائیل نوں — قومیں دا صفایا، ترس نہ کرنا، پرایا عبادت نہ کرنا۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "وאכלת",
+      "rationale": "'کھا جا' — عبرانی مَتھور 'کھانا' ہی اے، 'مِٹانا' نئیں؛ تصویر رکھی گئی۔"
+    },
+    {
+      "kind": "idiom",
+      "subject": "לא תחוס עינך",
+      "rationale": "'تیری اکھ ترس نہ کھاوے' — عبرانی دی اکھ داidiom اویں رکھیا، پنجابی وِچ وی ایہو بولی جاندی اے۔"
+    }
+  ],
+  "translation": "تے تُوں اُنہاں ساریاں قومیں نوں ⟨את⟩ کھا جاویں گی جہڑیاں یاہوہ تیرا ایلوہیم تینوں دیوے گا؛ تیری اکھ اوہناں اُتے ترس نہ کھاوے، تے تُوں اوہناں دے ایلوہیاں ⟨את⟩ دی عبادت نہ کریں، کیوں جو اوہ تیرے لئی پھندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "44eef7ea7cde91d9cc2426dccee8e8fb8792a0e067dd5db884dfd61cb4335a84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/7\/13-16.1792099824746.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "کھا جاویں گی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اُنہاں ساریاں قومیں نوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساریاں"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "قومیں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جہڑیاں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تیرا ایلوہیم"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دیوے گا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تینوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תחס",
+      "gloss": "ترس کھاوے"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "تیری اکھ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "اوہناں اُتے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "عبادت کریں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہناں دے ایلوہیاں دی"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "اوہناں دے ایلوہیاں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "پھندا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیرے لئی"
+    }
+  ],
+  "timestamp": "2026-10-15T21:30:24.747719365Z",
+  "model": "glm-5.3"
+}

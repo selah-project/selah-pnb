@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 31:9",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וסלעו",
+      "rationale": "سنگلاخ ٹعِلّا — کجھ مترجم 'اوہدا مضبوط قلعہ' لیندے نیں (KJV)، کجھ پتھر ای (JPS)؛ عبرانی سَלע اِک چٹانی ٹعِلّا اے۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "אור",
+      "rationale": "אוּר دا متیجے اگّ\/بھاہ دا اے، پر پرانے ترجمے 'روشنی' یا 'اگّ' دوویں لیندے نیں؛ میں اگّ رکھیا۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "جیہدا … اے",
+      "rationale": "عبرانی وِچ کوئی کریالہ فعل نئیں، پنجابی جملے لئی 'اے' پایا گیا۔"
+    }
+  ],
+  "translation": "تے اوہدا سنگلاخ ٹعِلّا ڈر توں لنگھ جاوےگا، تے اوہدے سردار نشان توں دبدبے جانگے — یاہوہ دا آکھنا اے — جیہدی اگّ صہیون وِچ اے تے جیہدا تنور یروشلایم وِچ اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "cbabc08e2aad7e74e0ba3d32b7e9fecc2130778bd6527655d781a279576904f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/31\/9-9.1792106353279.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וסלעו",
+      "gloss": "تے اوہدا سنگلاخ ٹعِلّا"
+    },
+    {
+      "surface": "ממגור",
+      "gloss": "ڈر توں"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "لنگھ جاوےگا"
+    },
+    {
+      "surface": "וחתו",
+      "gloss": "تے دبدبے جانگے"
+    },
+    {
+      "surface": "מנס",
+      "gloss": "نشان توں"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "اوہدے سردار"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "دا آکھنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہدی"
+    },
+    {
+      "surface": "אור",
+      "gloss": "اگّ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدے لئی"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "صہیون وِچ"
+    },
+    {
+      "surface": "ותנור",
+      "gloss": "تے تنور"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدے لئی"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "یروشلایم وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T23:19:13.280427205Z",
+  "model": "glm-5.3"
+}

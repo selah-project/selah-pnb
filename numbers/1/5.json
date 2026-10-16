@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 1:5",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "لئی",
+      "rationale": "عبرانی وِچ לامد לکھیا اے پر پنجابی جملے لئی 'لئی' لوڑیا"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ناں",
+      "rationale": "گنتی دی آیت — قبیلےآں دے مُکھیاں دے ناں گِنے جاندے نیں"
+    }
+  ],
+  "translation": "تے ایہہ نیں اُنہاں بندیاں دے ناں جِہڑے تُہاڈے نال ⟨את⟩ کھلوݨ گے: رئوبین لئی ایلتسور، شیدِیور دا پُتر۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4a8aa8cb6850d25706440f2c6814c883c5878af08a6406602e3ca8f678bfba01",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/1\/5-8.1792098176668.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "تے ایہہ نیں"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ناں"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "اُنہاں بندیاں دے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جِہڑے"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "کھلوݨ گے"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ تُہاڈے نال",
+      "marks": "تُہاڈے نال"
+    },
+    {
+      "surface": "לראובן",
+      "gloss": "رئوبین لئی"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "ایلتسور"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "شیدِیور"
+    }
+  ],
+  "timestamp": "2026-10-15T21:02:56.669117103Z",
+  "model": "glm-5.3"
+}

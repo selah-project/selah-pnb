@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 3:7",
+  "book": "judges",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בעיני יהוה",
+      "rationale": "'یاہوہ دیاں اکھاں وِچ' — عبرانی رِیت اے، سِدھی رکھی گیا 'اوہدے نظر وِچ' دی تھاں۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "האשרות",
+      "rationale": "اشیرا دیاں مورتاں\/دیوی — KJV 'groves' (بیریاں) غلط مشہور بھُل اے؛ 'اشراواں' (دیویاں) رکھیا۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "اوہ",
+      "rationale": "בני ישראל دا کرم کار نروار کرن لئی ⟨⟩ وِچ شامل کیتا۔"
+    }
+  ],
+  "translation": "تے یِسرائیل دے پُتراں نے یاہوہ دیاں اکھاں وِچ ⟨את⟩ برائی کیتی، تے اوہ ⟨את⟩ یاہوہ اپنے ایلوہیم نوں بُھلا گئے، تے اوہناں نے ⟨את⟩ بعلّاں تے ⟨את⟩ اشراواں دی سیوا کیتی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b54f8dccaf49c31fc6c03db547f6a9d4864903c8f20f25b334148812779cbeac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/judges\/3\/5-8.1792101390173.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "کیتی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتراں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "برائی"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "اکھاں وِچ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "וישכחו",
+      "gloss": "بُھلا گئے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "اپنے ایلوہیم"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "سیوا کیتی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بعلّاں"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "بعلّاں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اشراواں"
+    },
+    {
+      "surface": "האשרות",
+      "gloss": "اشراواں"
+    }
+  ],
+  "timestamp": "2026-10-15T21:56:30.174581764Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 11:4",
+  "book": "judges",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויהי מימים",
+      "rationale": "مطلب 'دناں پچھوں\/کجھ چِر مُڑ کے'، لفظی 'دن ہوئے'"
+    }
+  ],
+  "translation": "تے دناں مُڑ گئیاں، تے عَمّون دے پُتراں یِسرائیل نال جنگ کیتی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2427792c721612ec95aa51a3a8efbf472b5989fe4917b3bdc632ca09bb78f567",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/judges\/11\/1-4.1792101836532.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے ہویا"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "دناں ⟨مُڑ گئیاں⟩"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "تے جنگ کیتی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عَمّون دے"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-10-15T22:03:56.533931178Z",
+  "model": "glm-5.3"
+}

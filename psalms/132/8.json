@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 132:8",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to YHWH",
+      "rationale": "سِدھی مخاطبت — یاہوہ نوں صندوق نال اُٹھن دی پکار"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מנוחה",
+      "rationale": "آرام منزل — صندوق دی ٹکانگی دا لفظ، 'س定居' دا مطلب وی لاٹھا"
+    }
+  ],
+  "translation": "اُٹھ، اے یاہوہ، اپنے آرام دی تھاں ول، تُوں تے اپنی قوت دا صندوق۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bb87b8b264bc7567d707878fb2682a94a531c35bd177531ffc0507c582e30ce3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/132\/5-8.1792114028282.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "اُٹھ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "למנוחתך",
+      "gloss": "اپنے آرام دی تھاں ول"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُوں"
+    },
+    {
+      "surface": "וארון",
+      "gloss": "تے صندوق"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "اپنی قوت دا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:27:08.283830516Z",
+  "model": "glm-5.3"
+}

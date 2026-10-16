@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 11:7",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אונים",
+      "rationale": "اِک واری آؤن والا جمع رُپ — 'اوُن' یعنی طاقت\/بُرائی: 'قابلاں دِی' (JPS) بمقابلہ 'بدکاراں دِی' (KJV-قطار)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תאבד\/אבדה",
+      "rationale": "اِکو فعل אבד دو واری — ڈِھانچے دی ہم آوازی، پنجابی 'مُک\/برباد' نال کجھ رکھی اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "اُمید\/آس",
+      "rationale": "תקוה دا مول 'رسّی\/لگام' اے — اُمید بطور چِٹھیاں رسّی؛ مول تصویر پنجابی وِچ گَئی"
+    }
+  ],
+  "translation": "جد بدکار بندہ مَردا اے، اُمید مُک جاندی اے، تے ظالماں دِی آس وی برباد ہو جاندی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f062b502b3555d788633c3c73d1110edcf11ed908c5e08e65ccb17fc3c76daac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/11\/5-8.1792114643681.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "במות",
+      "gloss": "مَرن اُتے"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "مُک جاندی اے"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "اُمید"
+    },
+    {
+      "surface": "ותוחלת",
+      "gloss": "تے آس"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "ظالماں دِی"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "برباد ہو گئی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:37:23.682752110Z",
+  "model": "glm-5.3"
+}

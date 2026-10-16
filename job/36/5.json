@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 36:5",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اے⟩",
+      "rationale": "عبرانی وِچ کوئی کریا نئیں، پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "כח לב",
+      "rationale": "'طاقت تے دل' — ترجمے لفظ לב نوں 'سمجھ\/علم' کہندے نیں (KJV)، پر لفظ دل ای اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כביר…כביר",
+      "rationale": "دوہرا لفظ، عبرانی دی تکرار جو پنجابی وِچ رہ گئی اے"
+    }
+  ],
+  "translation": "دیکھو، ایل زبردست اے تے کسے نوں رَد نئیں کردا، زبردست طاقت تے دل والا ⟨اے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "78e5cf3a1af13bdb455f47633abea07ade59989055aec705fe3bc00747b378e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/36\/5-8.1792116322192.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "دیکھو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "زبردست"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "رَد کردا"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "زبردست"
+    },
+    {
+      "surface": "כח",
+      "gloss": "طاقت"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    }
+  ],
+  "timestamp": "2026-10-16T02:05:22.192963767Z",
+  "model": "glm-5.3"
+}

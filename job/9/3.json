@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 9:3",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩",
+      "rationale": "عبرانی وِچ فاعل دا ضمیر نئیں، پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "אחת מני אלף",
+      "rationale": "اِک واری ہزاراں وچوں — گنتی دا محاورہ"
+    },
+    {
+      "kind": "crux",
+      "subject": "אחת מני אלף",
+      "rationale": "کی 'ہزاراں وچوں اِک' جواب نئیں دے سکدا، یا 'ہزار وچوں اِک' دا سوال وی نئیں سُچ سکدا — ترجمیاں وِچ دو پڑھائیاں نیں"
+    }
+  ],
+  "translation": "جے اوہ اوہدے نال جھگڑا چاہوے تاں ⟨اوہ⟩ اوہدا اِک واری ہزاراں وچوں جواب نئیں دے سکدا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "933e089b68909e133c7cc479150acb612e93bd207f04ee6ec94751cdbd2ddabe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/9\/3-4.1792124282741.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "چاہوے"
+    },
+    {
+      "surface": "לריב",
+      "gloss": "جھگڑا"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "اوہدے نال"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "جواب دے سکدا"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "اِک واری"
+    },
+    {
+      "surface": "מני",
+      "gloss": "وچوں"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزاراں"
+    }
+  ],
+  "timestamp": "2026-10-16T04:18:02.742123942Z",
+  "model": "glm-5.3"
+}

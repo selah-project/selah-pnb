@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 25:6",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חסד",
+      "rationale": "خیسِد عبرانی آواز وِچ رکھیا گیا، ⟨⟩ وِچ وضاحت؛ کوئی اِک پنجابی لفظ (رحم، فضل) اوہدے پورے گھیر نوں نئیں پھڑدا"
+    },
+    {
+      "kind": "you",
+      "subject": "یاہوہ نوں",
+      "rationale": "حکمیا نال سِدھی پکار"
+    }
+  ],
+  "translation": "یاہوہ، اپنیاں رحمتاں یاد رکھ، تے اپنے خیسِد ⟨رحم، وفاداری⟩ نوں، کیوں جے اوہ ازل توں نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f7ebeadd221aa1a9245f9ca19263a00eaddb9c85ee6c267665cbf89101b3ed0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/25\/5-8.1792112165300.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "یاد رکھ"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "اپنیاں رحمتاں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "וחסדיך",
+      "gloss": "تے اپنے خیسِد"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جے"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "ازل توں"
+    },
+    {
+      "surface": "המה",
+      "gloss": "اوہ"
+    }
+  ],
+  "timestamp": "2026-10-16T00:56:05.300839959Z",
+  "model": "glm-5.3"
+}

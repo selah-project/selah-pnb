@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "judges 1:28",
+  "book": "judges",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "لَنگر",
+      "rationale": "מס زبردستی مزدوری\/ٹیکس دی بھاری اے — پنجابی 'لَنگر' (مزدوری تے لایا گیا بندہ) سب توں نیڑے دی شکل اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "והוריש ... הורישו",
+      "rationale": "اوہو جڑ ی-ر-ش دو واری — 'بے دخل کرنا ... بے دخل نئیں کیتا' — عبرانی دا کھیڈ پنجابی وچ باقی اے پر جڑ دا مِلان ویندا رہندا اے"
+    }
+  ],
+  "translation": "تے اَجیہا ہویا: جدوں یِسرائیل تکڑا ہویا، تے اوہناں ⟨את⟩ کنعانی نوں لَنگر بنایا، پر بے دخل نئیں کیتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7b2804b92da97afeeff116791ab6cc0e7326b5c49a1af8fe63bb969c9907a670",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/judges\/1\/25-28.1792101377090.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے اَجیہا ہویا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جدوں"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "تکڑا ہویا"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "تے اوہناں بنایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کنعانی نوں"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "کنعانی نوں"
+    },
+    {
+      "surface": "למס",
+      "gloss": "لَنگر"
+    },
+    {
+      "surface": "והוריש",
+      "gloss": "پر بے دخل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "کیتا"
+    }
+  ],
+  "timestamp": "2026-10-15T21:56:17.092182354Z",
+  "model": "glm-5.3"
+}

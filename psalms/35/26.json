@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 35:26",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ویسن⟩",
+      "rationale": "לבש 'پان' کرنا فعل اے؛ پنجابی جملے 'شرم دے کپڑے پاون' دی مورت رکھی — ویسن پنجابی دا جوڑ اے۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יבשו\/בשת",
+      "rationale": "شرم دا مورچہ: יבשו (شرمسار) تے בשת (شرم) اِکو جڑ توں گونجدے نیں — پنجابی وِچ ایہ گونج رلائی جاندی اے۔"
+    }
+  ],
+  "translation": "شرمسار ہون تے خفت ہون اِکو ویلے اوہ جیہڑے میری برائی اُتے خوش نیں؛ شرم تے بے عزتی ⟨ویسن⟩ اوہ جیہڑے میرے اُتے وڈھائی کردے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1a8a109cff1d3550a9527086c0ee2255af580618ec08de39586da90e95afd527",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/35\/25-28.1792112322871.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "شرمسار ہون"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "تے خفت ہون"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "اِکو ویلے"
+    },
+    {
+      "surface": "שמחי",
+      "gloss": "خوش نیں"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "میری برائی"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "⟨ویسن⟩"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "شرم"
+    },
+    {
+      "surface": "וכלמה",
+      "gloss": "تے بے عزتی"
+    },
+    {
+      "surface": "המגדילים",
+      "gloss": "وڈھائی کردے"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "میرے اُتے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:58:42.872033826Z",
+  "model": "glm-5.3"
+}

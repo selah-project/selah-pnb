@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 15:2",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "پקדתי",
+      "rationale": "'پرکھیا\/یاد رکھیا\/دھیا' — ترجمے 'I remember' تے 'I have visited' ونڈدے نیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "گھات رکھی",
+      "rationale": "'שם לו בדרך' سدھا 'اوہدے لئی راہ وِچ رکھیا' اے؛ 'گھات' سیاق دا مطلب اے"
+    }
+  ],
+  "translation": "ایویں یاہوہ تصواوت آکھدا اے: میں نے ⟨את⟩ اوہ پرکھیا اے جو عمالِق نے یِسرائیل نال کیتا، جدوں اوہنے اوہدے راہ وِچ گھات رکھی، جدوں اوہ مِتصرایم توں چڑھدا سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "515699c93f8316b01d7fa1de08c0bf88d896bf97bc4beb0b107cae6327e558f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/15\/1-4.1792102596966.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ایویں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھدا اے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "تصواوت"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "میں نے پرکھیا اے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جو عمالِق نے کیتا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کیتا"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "عمالِق"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "یِسرائیل نال"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جدوں"
+    },
+    {
+      "surface": "שם",
+      "gloss": "گھات رکھی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدے"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "راہ وِچ"
+    },
+    {
+      "surface": "בעלתו",
+      "gloss": "جدوں اوہ چڑھدا سی"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "مِتصرایم توں"
+    }
+  ],
+  "timestamp": "2026-10-15T22:16:36.967212602Z",
+  "model": "glm-5.3"
+}

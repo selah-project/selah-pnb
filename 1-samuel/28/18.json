@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 28:18",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חרון אפו",
+      "rationale": "لفظی 'اوہدے نَک دی بھڑ' — قہر دی شدت دا عبرانی چتر، 'غصہ' ہلکا پیندا اے"
+    },
+    {
+      "kind": "you",
+      "subject": "شاول",
+      "rationale": "شمُوایل شاول نوں سدھا مخاطب اے — نہ سنیا، نہ کیتا، دوجا واسطہ واحد"
+    }
+  ],
+  "translation": "کیونکہ توں یاہوہ دی آواز نہ سنی، تے عمالیک اُتے اوہدے قہر دا بھڑکا نہ کیتا، ایس لئی یاہوہ نے ایہہ گل اج تیرے نال کیتی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d1ec9e4d85d0d9496eb6be239ed05657996d7383be4652f1e7ad16daf600521f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/28\/17-20.1792103022517.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "توں سنیا"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "توں کیتا"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "بھڑکا"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "قہر دا"
+    },
+    {
+      "surface": "בעמלק",
+      "gloss": "عمالیک اُتے"
+    },
+    {
+      "surface": "על",
+      "gloss": "ایس"
+    },
+    {
+      "surface": "כן",
+      "gloss": "لئی"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "گل"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کیتی"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیرے نال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ نے"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اج"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایہہ"
+    }
+  ],
+  "timestamp": "2026-10-15T22:23:42.518545384Z",
+  "model": "glm-5.3"
+}

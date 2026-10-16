@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 24:35",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ادونای → سائیں",
+      "rationale": "אדני ایتھے بندے (اَوراہام) لئی اے، ایس لئی سائیں ٹھیک اے"
+    }
+  ],
+  "translation": "تے یاہوہ نے ⟨את⟩ میرے سائیں نوں بہت برکت دتی، تے اوہ وڈا ہو گیا؛ تے اوہنے اوہنوں دھن، واگاں، چاندی تے سونا، غلام تے غلاماں، اُٹھ تے گدھے دِتے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bd2d7f0eb189bf0756cf03c4b40165ecf269f055ccba20bff34e32ac3aa4a01f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/24\/33-36.1792095215689.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "تے یاہוה نے"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "برکت دتی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میرے سائیں نوں"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "میرے سائیں"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بہت"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "تے اوہ وڈا ہو گیا"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "تے اوہنے دِتے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہنوں"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "دھن"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "تے واگاں"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "تے چاندی"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "تے سونا"
+    },
+    {
+      "surface": "ועבדם",
+      "gloss": "غلام"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "تے غلاماں"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "تے اُٹھ"
+    },
+    {
+      "surface": "וחמרים",
+      "gloss": "تے گدھے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:13:35.689871073Z",
+  "model": "glm-5.3"
+}

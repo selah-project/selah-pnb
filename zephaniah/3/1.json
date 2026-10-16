@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 3:1",
+  "book": "zephaniah",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מראה",
+      "rationale": "مُختلف ترجمے: نافرمان (یرمیاہو 50:12 ورگا) یا چابھا مارن والی — جڑ توں معنی وکھرا اے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ہائے",
+      "rationale": "הוי اِک بان٘ہ (لمبی چیخ) اے، پنجابی وِچ 'ہائے' سب توں نیڑے اے پر چیخ دی گونج گھٹ اے۔"
+    }
+  ],
+  "translation": "ہائے اوہ نافرمان تے میلی ہوئی، اوہ شہر جو دباؤُ قابض اے!",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "55145628e3fe4c7b4f83faf509ed27ca8d44ccee802c73e77eab97dd692eb160",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/zephaniah\/3\/1-4.1792111380509.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ہائے"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "نافرمان"
+    },
+    {
+      "surface": "ונגאלה",
+      "gloss": "تے میلی ہوئی"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "دباؤُ قابض"
+    }
+  ],
+  "timestamp": "2026-10-16T00:43:00.509686891Z",
+  "model": "glm-5.3"
+}

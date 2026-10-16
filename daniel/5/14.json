@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 5:14",
+  "book": "daniel",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "پنجابی نوں سرکاری جملے لئی فعل چاہیدا؛ اردو-وِچ کوئی فعل نئیں"
+    },
+    {
+      "kind": "crux",
+      "subject": "ایلوہیم",
+      "rationale": "الاہین اردو جمع اے؛ اک حاکم دی جگہ یا 'خدا دے' — نقلی مترجماں 'دا' یا 'دی' وچ پھسدے ہن"
+    }
+  ],
+  "translation": "تے میں تہاڈے بارے سنیا اے کہ تیرے وِچ ایلوہیم دی روح اے، تے چانن تے عقل تے وادھو حکمت تیرے وِچ لبھی گئی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0947c236fe496869cae8123fbf2bc3b3756d996c40d17f047f6479dff12a9e7c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/daniel\/5\/13-16.1792118418774.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "تے میں سنیا"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تیرے بارے"
+    },
+    {
+      "surface": "די",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "אלהין",
+      "gloss": "ایلوہیم دی"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تیرے وِچ"
+    },
+    {
+      "surface": "ונהירו",
+      "gloss": "تے چانن"
+    },
+    {
+      "surface": "ושכלתנו",
+      "gloss": "تے عقل"
+    },
+    {
+      "surface": "וחכמה",
+      "gloss": "تے حکمت"
+    },
+    {
+      "surface": "יתירה",
+      "gloss": "وادھو"
+    },
+    {
+      "surface": "השתכחת",
+      "gloss": "لبھی گئی"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تیرے وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T02:40:18.775088214Z",
+  "model": "glm-5.3"
+}

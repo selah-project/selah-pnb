@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 51:9",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "پاک کر",
+      "rationale": "חטא دی پعل ਵिशेष طور تے 'پاکنوں چھٹکارا دینا' اے؛ بنیادی معنی 'پاپ کرنا' اے، ایس لئی عبرانی خود ہی پاپ تے پاک کرن دا کھیل کھیوندا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תחטאני\/תכבסני",
+      "rationale": "دوویں پعل فعل، مُڑے ہوئے مٹھے جوڑے دا واز — پنجابی وِچ ایہہ تال گُم ہو جاندی اے"
+    }
+  ],
+  "translation": "مینوں اُوسی نال پاک کر، تے میں پاک ہو جاناں؛ مینوں دھو، تے میں برف توں وی گورا ہو جاناں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fcfd381850c8a518c54c2a83a4ce83b479cb0cc31f557f8eedd98cc3183ecb09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/51\/9-12.1792112633103.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תחטאני",
+      "gloss": "مینوں پاک کر"
+    },
+    {
+      "surface": "באזוב",
+      "gloss": "اُوسی نال"
+    },
+    {
+      "surface": "ואטהר",
+      "gloss": "تے میں پاک ہو جاناں"
+    },
+    {
+      "surface": "תכבסני",
+      "gloss": "مینوں دھو"
+    },
+    {
+      "surface": "ומשלג",
+      "gloss": "تے برف توں"
+    },
+    {
+      "surface": "אלבין",
+      "gloss": "میں گورا ہو جاناں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:03:53.104467181Z",
+  "model": "glm-5.3"
+}

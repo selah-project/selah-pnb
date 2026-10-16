@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 30:3",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אדע",
+      "rationale": "'میں جاݨدا واں' (پکا) جاں 'میں ⟨کیوں⟩ جاݨاں' (سوال) — لہجہ متن وِچ کھلا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨کیوں⟩",
+      "rationale": "جے سوال پڑھیا جاوے تاں پنجابی لئی ہور لفظ منگدا اے"
+    }
+  ],
+  "translation": "تے میں نے نئیں سِکھیا حکمت، تے قدمِیاں دا گیان میں ⟨کیوں⟩ جاݨاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c1f519550c5932c037aff7281dde419de295c41d45ca261f3051263f39fa2982",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/30\/1-4.1792115267443.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "میں نے سِکھیا"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "تے گیان"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "قدمِیاں دا"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "میں جاݨاں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:47:47.444040274Z",
+  "model": "glm-5.3"
+}

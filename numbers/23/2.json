@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 23:2",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ہر⟩",
+      "rationale": "مذbeth اُتے اِکو وچکار اے پر اِک نئیں — ونڈوالا مفہوم، پنجابی لئی 'ہر' لوڑیا"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עלה\/ויעל",
+      "rationale": "چڑھانا قربانی 'چڑھن' والی اے — سوختہ قربانی دا جُڑنا اِتھے دسنوالا اے"
+    }
+  ],
+  "translation": "تے بالاق نے اوہی کیتا جیہڑا بلعام نے آکھیا، تے بالاق تے بلعام نے ⟨ہر⟩ مذbeth اُتے اِک بیل تے اِک مینڈھا چڑھایا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d07dc78fabb8a37462ee67a5fe488d82abfd59c21b14b4e3050f66ac7b6b19dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/23\/1-4.1792099089488.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "تے…کیتا"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بالاق"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بلعام"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "تے…چڑھایا"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بالاق"
+    },
+    {
+      "surface": "ובלעם",
+      "gloss": "تے بلعام"
+    },
+    {
+      "surface": "פר",
+      "gloss": "بیل"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "تے اِک مینڈھا"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "مذbeth اُتے"
+    }
+  ],
+  "timestamp": "2026-10-15T21:18:09.489138108Z",
+  "model": "glm-5.3"
+}

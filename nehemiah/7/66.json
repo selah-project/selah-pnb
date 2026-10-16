@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "nehemiah 7:66",
+  "book": "nehemiah",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "۴۲٬۳۶۰",
+      "rationale": "مکمل اکٹھ دی گنتی — چار ربوہ یعنی چالیہہ ہزار، دو ہزار تن سو سٹھ"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨بندیں⟩",
+      "rationale": "عبرانی گنتی دیندا اے، شے دی صفت پنجابی جُملہ منگدا اے"
+    }
+  ],
+  "translation": "سارا اکٹھ ⟨اکو سنیہے⟩ چار ربوہ، دو ہزار، تن سو تے سٹھ ⟨بندیں⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d35f2d1a32ee9a7a5dacd9f9de2c5cbf0ee8a0c229f4b88ada223216b074f80a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/nehemiah\/7\/65-68.1792119782278.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "اکٹھ"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "اکو"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "ربوہ ⟨دس ہزار⟩"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "دو ہزار"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "تن"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "تے سٹھ"
+    }
+  ],
+  "timestamp": "2026-10-16T03:03:02.279509273Z",
+  "model": "glm-5.3"
+}

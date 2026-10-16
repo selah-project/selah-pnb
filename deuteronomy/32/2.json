@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 32:2",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לקחי",
+      "rationale": "لفظی ‘میرا لیندا’ — مطلب میرا سکھایا ہویا؛ ‘لیکھا’ (ہدایت) رکھیا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יערף…תזל…כשעירם…וכרبיבים",
+      "rationale": "پانی دے چار وکھرے فعل — ٹپکنا، وہاؤنا، ہلڑ، مُینھ واوے — اِکو تصویر دے چار رنگ؛ پنجابی وِچ تن درجے رکھے"
+    }
+  ],
+  "translation": "میرا لیکھا مینہہ وانگوں ٹپکے، میری گل شبنم وانگوں وہاوے، ہلڑ وانگوں کُومی گھاہ اُتے، تے مُینھ واں وانگوں سوہنی وَل آؤندے بُوٹیاں اُتے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5ea134ecc658e6dcff41e48ec371637446f66eb77588760d54d8fcd24bfc9dfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/32\/1-4.1792100592658.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יערף",
+      "gloss": "ٹپکے"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "مینہہ وانگوں"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "میرا لیکھا"
+    },
+    {
+      "surface": "תזל",
+      "gloss": "وہاوے"
+    },
+    {
+      "surface": "כטל",
+      "gloss": "شبنم وانگوں"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "میری گل"
+    },
+    {
+      "surface": "כשעירם",
+      "gloss": "ہلڑ وانگوں"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "کُومی گھاہ"
+    },
+    {
+      "surface": "וכרביבים",
+      "gloss": "تے مُینھ واں وانگوں"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "سوہنی وَل آؤندے بُوٹیاں"
+    }
+  ],
+  "timestamp": "2026-10-15T21:43:12.659066480Z",
+  "model": "glm-5.3"
+}

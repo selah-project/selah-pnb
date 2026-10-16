@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 41:25",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משלו",
+      "rationale": "'اُس دا حاکم' بمقابلہ 'اُس ورگا' — کجھ مترجم مِشال نوں 'تیوین\/برابر' پڑھدے نیں۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חת",
+      "rationale": "لفظ دا مودھ مطلب 'کُچیا ہویا\/دہشت' اے — 'خوف' نرم صورت اے۔"
+    }
+  ],
+  "translation": "مٹی اُتے ⟨اُس دا⟩ کوئی حاکم نئیں؛ اوہ بے-خوفی لئی بنایا گیا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bbf8b7a157562680df971e1e30c7020c85d3f678a813e5c3f4b2f3224e25f878",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/41\/25-26.1792116577375.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "مٹی"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "اُس دا حاکم"
+    },
+    {
+      "surface": "העשו",
+      "gloss": "بنایا گیا"
+    },
+    {
+      "surface": "לבלי",
+      "gloss": "بِنا"
+    },
+    {
+      "surface": "חת",
+      "gloss": "خوف دے"
+    }
+  ],
+  "timestamp": "2026-10-16T02:09:37.376405029Z",
+  "model": "glm-5.3"
+}

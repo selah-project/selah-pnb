@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 21:20",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נקם ינקם",
+      "rationale": "فعلِ مطلق دی دوہرائی — «یقیناً بدلہ لیا جاوے گا»، عدالت دی سزا دی پکی ضمانت"
+    },
+    {
+      "kind": "alternative",
+      "subject": "بدلہ لیا جاوے گا",
+      "rationale": "נקם دا ہور پڑھائی «سزا پاویں گا» — کجھ ترجمے «خدا ای بدلہ لے گا» لیندے نیں کیوں جے فعل مَعلوم دا فاعل دتا نئیں گیا"
+    }
+  ],
+  "translation": "تے جدوں کوئی بندہ ⟨את⟩ اپنے غلام نوں یا ⟨את⟩ اپنی لَوندی نوں سوٹی نال مارے تے اوہ اوہدے ہتھ ہیٹھاں مر جاوے، تاں بدلہ یقیناً لیا جاوے گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d5352c7f5f844fac632059f2264444e8979e24fa55031a1f48b238c59e18606d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/21\/17-20.1792096783995.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "تے جدوں"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "مارے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "کوئی بندہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنے غلام نوں"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "اپنے غلام"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنی لَوندی نوں"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "اپنی لَوندی"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "سوٹی نال"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "تے مر جاوے"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ہیٹھاں"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "اوہدے ہتھ"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "بدلہ"
+    },
+    {
+      "surface": "ינקם",
+      "gloss": "یقیناً لیا جاوے گا"
+    }
+  ],
+  "timestamp": "2026-10-15T20:39:43.996888612Z",
+  "model": "glm-5.3"
+}

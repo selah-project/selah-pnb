@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "אחת ... שתים",
+      "rationale": "گنتی دی بݨتر — اِک، دو؛ سیمیٹک بول چال وِچ دہرائے جان دی طاقت"
+    },
+    {
+      "kind": "addition",
+      "subject": "وار \/ واری",
+      "rationale": "عبرانی صرف گنتی دیندی اے، پنجابی نوں وار\/واری چاہیدی اے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "שתים זו",
+      "rationale": "دوجی پڑھائی: دو وار سنیا اے دو وکھرے گل — اِک زور، دوجی خیسِد (اگلی آیت)"
+    }
+  ],
+  "translation": "اِک وار ایلوہیم نے بولا، دو واری ایہہ میں سنیا — کہ زور ایلوہیم ⟨دا⟩ اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0a379c45e89b57afba656b2e3fe66866950528260cc037bfb6ce8e6748a6f84b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/62\/9-12.1792112782446.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "اِک وار"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "بولا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "دو واری"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "میں سنیا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "زور"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ایلوہیم ⟨دا⟩"
+    }
+  ],
+  "timestamp": "2026-10-16T01:06:22.447178607Z",
+  "model": "glm-5.3"
+}

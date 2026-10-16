@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 23:20",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפשך",
+      "rationale": "נפש جان\/ساہ اے، 'دل دی تانگھ' نئیں — 'جان دی تانگھ' رکھیا گیا۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לרדת… רד",
+      "rationale": "ہبر 'اُترنا' دا دوہرا ہونا — زور دین والی دُہرائی، پنجابی وِچ وکھری نئیں رہ سکی۔"
+    },
+    {
+      "kind": "you",
+      "subject": "شاؤُل نوں",
+      "rationale": "زیفی والے بادشاہ نوں حکم دے نیڑے سدّھی گلاں کردے نیں: اُتر آ۔"
+    }
+  ],
+  "translation": "تے ہُݨ، اے بادشاہ، جیہڑی وی تیری جان دی تانگھ اے اُتردے ہوئے — اُتر آ، تے ساڈا کم اوہنوں بادشاہ دے ہتھ وِچ پھڑاؤنا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "de06ce1e93c96e25459a33b314c237251cad6c0ca6a460ad8b56267119b63dbc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/23\/17-20.1792102848870.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "تے ہُݨ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "جیہڑی وی"
+    },
+    {
+      "surface": "אות",
+      "gloss": "تانگھ"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "تیری جان دی"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "اے بادشاہ"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "اُتردے ہوئے"
+    },
+    {
+      "surface": "רד",
+      "gloss": "اُتر آ"
+    },
+    {
+      "surface": "ולנו",
+      "gloss": "تے ساڈا ⟨کم⟩"
+    },
+    {
+      "surface": "הסגירו",
+      "gloss": "اوہنوں پھڑاؤنا"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ہتھ وِچ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ دے"
+    }
+  ],
+  "timestamp": "2026-10-15T22:20:48.871777971Z",
+  "model": "glm-5.3"
+}

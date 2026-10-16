@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ruth 3:9",
+  "book": "ruth",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את (v9)",
+      "rationale": "ایہہ אלف-تاو نشان نئیں، اَت دا مطلب اے 'توں' — کنے دا ضمیر، ایس لئی ⟨את⟩ نئیں لایا گیا۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "כנפך",
+      "rationale": "پرندیں دا پر\/لِباس دا پللو — 'اپنی کناف پھیلا' ویاج دا اشارہ اے؛ 'پللو' اوہدے بدل رکھیا اے۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "גאל",
+      "rationale": "'مُکتائی والا' — سب پڑھدے نیں 'نیڑے دا ساک'، پر اوہدا مُڈھ 'مُکتائی کرنا' اے۔"
+    }
+  ],
+  "translation": "تے اوہنے آکھیا: “توں کون ایں؟” تے اوہنے آکھیا: “میں رُوت تیری داسی آں، تے اپنا پللو اپنی داسی اُتے پا دیویں، کیوں جے توں مُکتائی والا ایں۔”",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5ad07fb4d443009a91fc14b91094c8ce705cc209cff39ba028e2d246c041f243",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ruth\/3\/9-12.1792116918765.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے اوہنے آکھیا"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "את",
+      "gloss": "توں"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "تے اوہنے آکھیا"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "רות",
+      "gloss": "رُوت"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "تیری داسی"
+    },
+    {
+      "surface": "ופרשת",
+      "gloss": "تے پا دیویں"
+    },
+    {
+      "surface": "כנפך",
+      "gloss": "اپنا پللو"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "اپنی داسی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جے"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "مُکتائی والا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "توں"
+    }
+  ],
+  "timestamp": "2026-10-16T02:15:18.766399798Z",
+  "model": "glm-5.3"
+}

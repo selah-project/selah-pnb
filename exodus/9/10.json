@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 9:10",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "سُواں",
+      "rationale": "פיח بھٹھی دا جھلسا بھور اے؛ 'سُواں' نیڑے دا سچ مچ دا تصور اے۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שחין אבעבעת פרח",
+      "rationale": "آیت 9 والی ترتیب ایتھے الٹی اے — چیاسم، پنجابی وِچ اوہو جھات باقی رکھی گئی۔"
+    }
+  ],
+  "translation": "تے اوہناں بھٹھی دی سُواں ⟨את⟩ لئی تے پھرعہ اگے کھلوتے، تے موشے نے ⟨אתו⟩ اسمان ول سِٹ دتی، تے پھوڑے ہوگئے — چھالاں والے پھٹدے — بندے وِچ تے چوپائے وِچ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "581fcbeb5f6bef89bc7959ac6d6eac1c54558aaffbdc0330ee3aa4bd3abe3829",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/9\/9-12.1792096341174.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "تے اوہناں لئی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سُواں"
+    },
+    {
+      "surface": "פיח",
+      "gloss": "سُواں"
+    },
+    {
+      "surface": "הכבשן",
+      "gloss": "بھٹھی"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "تے کھلوتے"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اگے"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پھرعہ"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "تے سِٹیا"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "اوہ (سُواں)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "اسمان ول"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "تے ہویا"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "پھوڑا"
+    },
+    {
+      "surface": "אבעבעת",
+      "gloss": "چھالاں"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "پھٹدا"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "بندے وِچ"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "تے چوپائے وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T20:32:21.175617903Z",
+  "model": "glm-5.3"
+}

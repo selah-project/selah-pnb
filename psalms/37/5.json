@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 37:5",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "لڑھا دے",
+      "rationale": "גול جڑ 'لڑھنا' — 'سپرد کرنا' نئیں؛ پنجابی وِچ لڑھن دی مورت رکھی"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨اوہنوں⟩",
+      "rationale": "יעשה دا مفعول عبرانی وِچ کوئی نئیں؛ پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "you",
+      "subject": "پڑھن والا",
+      "rationale": "حکم دی گل سدھی مخاطب ول"
+    }
+  ],
+  "translation": "اپنا رستہ یاہوہ اُتے لڑھا دے تے اوہدے اُتے بھروسہ کر، تے اوہ ⟨اوہنوں⟩ کرے گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "98c18dcb6728e7f29dbb7de9d5244f72da13f2a491b26a5e734f7d4cce0ca2c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/37\/5-8.1792112348508.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גול",
+      "gloss": "لڑھا دے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "اپنا رستہ"
+    },
+    {
+      "surface": "ובטח",
+      "gloss": "تے بھروسہ کر"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اوہدے اُتے"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "تے اوہ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کرے گا"
+    }
+  ],
+  "timestamp": "2026-10-16T00:59:08.509121674Z",
+  "model": "glm-5.3"
+}

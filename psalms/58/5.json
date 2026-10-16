@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "زہر",
+      "rationale": "חמה مول 'تپّ\/غصہ' اے؛ سیاق وچ زہر دا کم کردا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חמת…חמת",
+      "rationale": "اکو لفظ دو واری — زہر تے سانپ دے زہر دی تلنگ، پنجابی وِچ ریزونانس گھٹ جاندا اے"
+    }
+  ],
+  "translation": "اوہناں دا زہر سانپ دے زہر ورگا اے، بہرے پتین ⟨زہریلا سانپ⟩ ورگا، جیہڑا اپنا کان بند کر لیندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "eb817a6b037371ddaaf7bf83a2a4b6b8f71815d55c3ab7cafac572118ebca6f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/58\/5-8.1792112726591.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "زہر"
+    },
+    {
+      "surface": "למו",
+      "gloss": "اوہناں دا"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "ورتے"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "زہر"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "سانپ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ورگا"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "پتین"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "بہرے"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "بند کر لیندا اے"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "اپنا کان"
+    }
+  ],
+  "timestamp": "2026-10-16T01:05:26.592243779Z",
+  "model": "glm-5.3"
+}

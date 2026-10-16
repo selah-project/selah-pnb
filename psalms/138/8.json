@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 138:8",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 138,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩",
+      "rationale": "יגמר دا مفعول عبرانی وِچ چھپیا اے، پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "you",
+      "subject": "داوِد یاہوہ نوں",
+      "rationale": "آیت سدھی یاہوہ مخاطب اے — 'نہ چھڈیں' دی منت"
+    },
+    {
+      "kind": "crux",
+      "subject": "יגמר",
+      "rationale": "'مُکریسی\/پورا کریسی' — کیہ یاہوہ دا کم بیٹھے گا یا پورا ہووےگا، دوویں پاٹھ نیں"
+    }
+  ],
+  "translation": "یاہوہ میرے واسطے ⟨اوہ⟩ مُکریسی؛ یاہوہ، تیرا خیسِد ہمیشہ لئی اے؛ اپنیاں ہتھاں دے کماں نوں نہ چھڈیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "03f768f62ec1f0d8e16514526a6444e1d58a2434200d049e7785a2c6cbe84cfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/138\/5-8.1792114148558.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "יגמר",
+      "gloss": "مُکریسی"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "میرے واسطے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "تیرا خیسِد"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشہ لئی"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "کماں نوں"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "اپنیاں ہتھاں دے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "چھڈیں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:29:08.559396671Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 20:2",
+  "book": "2-chronicles",
+  "lang": "pnb",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨کجھ لوک⟩",
+      "rationale": "عبرانی دی کریا اے 'تے آئے تے دسّیا' — کردار والا کوئی اسم نئیں۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨اے⟩",
+      "rationale": "پنجابی دی جوڑ کریا منگدی اے؛ عبرانی وِچ صرف ضمیر اے۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "מארם",
+      "rationale": "کی اَرام (سوریہ) اے یا اَدوم؟ LXX تے کجھ قولے 'ادوم' منگدے نیں، بھاویں عبرانی متن اَرام اے۔"
+    }
+  ],
+  "translation": "تے ⟨کجھ لوک⟩ آئے تے یاہوشفات نوں دسّیا، آکھدے ہوئے: تیرے اُتے اک وڈا ہجوم آیا اے سمندر دے پاروں، اَرام توں؛ تے ویکھو، اوہ حصصون تامر وِچ نیں — اوہ عین گدی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1bddc4c5e1f1683c8b7024070bb6ec8a823d4fd4a39c88b87ec727cd1421e95c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/20\/1-4.1792122322621.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "تے آئے"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "تے دسّیا"
+    },
+    {
+      "surface": "لیהושפט",
+      "gloss": "یاہوشفات نوں"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھدے ہوئے"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تیرے اُتے"
+    },
+    {
+      "surface": "המון",
+      "gloss": "ہجوم"
+    },
+    {
+      "surface": "רב",
+      "gloss": "وڈا"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "پاروں"
+    },
+    {
+      "surface": "לים",
+      "gloss": "سمندر توں"
+    },
+    {
+      "surface": "מארם",
+      "gloss": "اَرام توں"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "تے ویکھو اوہ"
+    },
+    {
+      "surface": "בחצצון",
+      "gloss": "حصصون وِچ"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "تامر"
+    },
+    {
+      "surface": "היא",
+      "gloss": "اوہ ⟨اے⟩"
+    },
+    {
+      "surface": "עין",
+      "gloss": "عین"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "گدی"
+    }
+  ],
+  "timestamp": "2026-10-16T03:45:22.622401451Z",
+  "model": "glm-5.3"
+}

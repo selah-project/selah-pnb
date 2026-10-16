@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 3:8",
+  "book": "lamentations",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "بند کر دِتی",
+      "rationale": "שתם ‘بند کرنا\/رُکنا‘ — دوا دا مونہہ بند کرن دا تصویر، KJV ‘shutteth out’"
+    }
+  ],
+  "translation": "تے وی جدوں میں چیکدا واں تے مدد منگدا واں، اوہنے میری دعا بند کر دِتی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f108a9a6b76c3eec05168b7f33cbdfd9855c89b6c8b6bf536d5181bb7514c819",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/lamentations\/3\/5-8.1792117089816.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "تے وی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جدوں کہ"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "میں چیکدا واں"
+    },
+    {
+      "surface": "ואשוע",
+      "gloss": "تے مدد منگدا واں"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "بند کر دِتی"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "میری دعا"
+    }
+  ],
+  "timestamp": "2026-10-16T02:18:09.817414173Z",
+  "model": "glm-5.3"
+}

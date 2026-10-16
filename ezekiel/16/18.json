@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 16:18",
+  "book": "ezekiel",
+  "lang": "pnb",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "ותכסים",
+      "rationale": "کجھ مترجم 'اوہناں نوں کپڑیاں نال وَلوڑیا' پڑھدے نیں؛ مینوں 'ڈھکیا' سُچ لگدا اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "اوہناں نال",
+      "rationale": "על למו عبرانی وِچ کُٹھا نئیں، پنجابی جملے لئی وادھو۔"
+    }
+  ],
+  "translation": "تے ⟨את⟩ اپنے کڑھائی والے کپڑے لئی تے اوہناں نال اوہناں نوں ڈھکیا، تے میرا تیل تے میرا خوشبو دار دھونا اوہناں اگے رکھیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e3871291f1a1296e9a2db91200bb5184e7e59401ec76bd4af1b1e8d1b0405e95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/16\/17-20.1792109301056.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקחי",
+      "gloss": "لے کے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کڑھائی والے کپڑے"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "کپڑے"
+    },
+    {
+      "surface": "רקמתך",
+      "gloss": "تیرے کڑھائی والے"
+    },
+    {
+      "surface": "ותכסים",
+      "gloss": "ڈھکیا"
+    },
+    {
+      "surface": "ושמני",
+      "gloss": "تے میرا تیل"
+    },
+    {
+      "surface": "וקטרתי",
+      "gloss": "تے میرا خوشبو دار دھونا"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "رکھیا"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "اوہناں اگے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:08:21.056987196Z",
+  "model": "glm-5.3"
+}

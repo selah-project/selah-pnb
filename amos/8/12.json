@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 8:12",
+  "book": "amos",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ٹُرن گے",
+      "rationale": "ונעו (لوڑھنا، ہلنا) — اِکھیاں سمندر توں سمندر رلنا-ٹُرنا، 'ٹُرن گے' نرم اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שוטטו\/נעו",
+      "rationale": "دو فعل اِکو جہے بھٹکن دے سوچ دہراوندے نیں — عبرانی دا ردوبدل پنجابی وِچ دو وکھرے فعل نال ٹھیک ہویا"
+    }
+  ],
+  "translation": "تے اوہ سمندر توں سمندر تک ٹُرن گے، تے اُترے توں چڑھدے تک اِڈّے اُڈّے پھرن گے، یاہوہ دا ⟨את⟩ بچن کھوجن، پر اوہنوں نئیں لبھن گے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f5da6ad650dbb48932aac2c2a58a335698b184334eae10d295d138eb8c5bf154",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/amos\/8\/12-12.1792124047200.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונעו",
+      "gloss": "تے ٹُرن گے"
+    },
+    {
+      "surface": "מים",
+      "gloss": "سمندر توں"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "ים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "ומצפון",
+      "gloss": "تے اُترے توں"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تے تک"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "چڑھدے"
+    },
+    {
+      "surface": "ישוטטו",
+      "gloss": "اِڈّے اُڈّے پھرن گے"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "کھوجن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ دا بچن"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "بچن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "پر نئیں"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "لبھن گے"
+    }
+  ],
+  "timestamp": "2026-10-16T04:14:07.200549360Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 12:16",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨نیں⟩",
+      "rationale": "عبرانی صرف 'لו' اے — 'اودے' — کوئی فعل نئیں، پنجابی وِچ ضمور دسیا گیا"
+    },
+    {
+      "kind": "crux",
+      "subject": "שגג ומשגה",
+      "rationale": "'گمراہ ہون والا تے گمراہ کرن والا' — شعر دی جوڑی اے: بھُلن والا تے بھُلان والا دوویں یاہوہ\/ایلوہیم دے اختیار ہیٹھ نیں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שגג\/משגה",
+      "rationale": "اِکو جڑ ש-ג-ג دی آپس وِچ تکرار — پنجابی وِچ 'گمراہ' دو واری ورت کے وزن رکھیا گیا"
+    }
+  ],
+  "translation": "اودے نال طاقت تے ٹھوس حکمت اے؛ گمراہ ہون والا تے گمراہ کرن والا — دوویں اودے ⟨نیں⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1918f7a0cb6ae538439044e5127df1d65cb5d5dd8a2d0fea7d6a6edd0ed57fe2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/12\/13-16.1792115647186.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עמו",
+      "gloss": "اودے نال"
+    },
+    {
+      "surface": "עז",
+      "gloss": "طاقت"
+    },
+    {
+      "surface": "ותושיה",
+      "gloss": "تے ٹھوس حکمت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اودے"
+    },
+    {
+      "surface": "שגג",
+      "gloss": "گمراہ ہون والا"
+    },
+    {
+      "surface": "ומשגה",
+      "gloss": "تے گمراہ کرن والا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:54:07.187096312Z",
+  "model": "glm-5.3"
+}

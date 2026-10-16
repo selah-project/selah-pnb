@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שהיה\/שיהיה · שנעשה\/שיעשה",
+      "rationale": "ہویا-ہووےگا تے کیتا-کیتا جاوےگا دی دوہری اکو جڑ والی واروار تکرار، عبرانی دی چھنکار پنجابی وِچ کجھ گھٹ محسوس ہُندی اے۔"
+    },
+    {
+      "kind": "idiom",
+      "subject": "תחת השמש",
+      "rationale": "لفظی 'سورج ہیٹھ' — کوہیلت دا مشہور فقرہ، پنجابی وِچ لفظی صورت ای رکھی۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "جاوےگا",
+      "rationale": "עשה دی مفعولی صورت لئی پنجایی مجہول 'کیتا جاوےگا' وادھا لفظ 'جاوےگا' منگدا اے۔"
+    }
+  ],
+  "translation": "جو ہویا، اوہو ہووےگا؛ تے جو کیتا گیا، اوہو کیتا جاوےگا؛ تے سورج ہیٹھ کوئی نواں نئیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "27f173a84f9a1ec94f8ebd53284a036761940cecce59e8b5ebee17c31b58bc0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ecclesiastes\/1\/9-12.1792117391907.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "جو"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "ہویا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہو"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "ہووےگا"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "تے جو"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "کیتا گیا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہو"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "کیتا جاوےگا"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کوئی"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "نواں"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ہیٹھ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سورج"
+    }
+  ],
+  "timestamp": "2026-10-16T02:23:11.908230531Z",
+  "model": "glm-5.3"
+}

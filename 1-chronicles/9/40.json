@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 9:40",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "عبرانی وِچ کوئی فعل اے جوڑ نئیں؛ پنجابی واک لئی چاہیدا"
+    },
+    {
+      "kind": "crux",
+      "subject": "מריב בעל \/ מרי בעל",
+      "rationale": "اکو بندے دے دو روپ — 'بعال نال جھیڑا'؛ سامویل وِچ مفی-بوشیت آؤندا اے"
+    }
+  ],
+  "translation": "تے یہوناتن دا پُتر مریب-بعال ⟨سی⟩، تے مریب-بعال نے ⟨את⟩ میکھا نوں جمیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8492f4dab857bb31b25b44fa570d8df7e1f528c388f1887e3833aaff3662c3c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/9\/37-40.1792120566547.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "تے پُتر"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "یہوناتن"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "مریب-بعال"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "مریب-بعال"
+    },
+    {
+      "surface": "ומרי",
+      "gloss": "تے مریب-بعال نے"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "مریب-بعال"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "جمیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میکھا"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "میکھا"
+    }
+  ],
+  "timestamp": "2026-10-16T03:16:06.548712203Z",
+  "model": "glm-5.3"
+}

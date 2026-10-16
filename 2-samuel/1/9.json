@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 1:9",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "השבץ",
+      "rationale": "تنخ وِچ صرف اِتھے آؤندا اے — الجھن\/تنگی، املا اِکو صورت رکھی گئی۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "השבץ",
+      "rationale": "گُتھی\/تنگی بمقابلہ دوجی پرکھ وِچ تیر (צבה توں، جویں YLT) — عبرانی لفظ الجھن دا اے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "نפש",
+      "rationale": "نَفش گلا ساہ\/جان اے، کوئی وکھری روح نئیں — جان رکھیا۔"
+    }
+  ],
+  "translation": "تے اوہنے مینوں آکھیا: میرے اُتے کھلو جا ⟨منا⟩ تے مینوں مار مُٹا، کیونجے گُتھی نے مینوں پھڑیا اے، کیونجے ساری ہن تک میری جان مینوں وِچ اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5619cd07f1b0d571aa6e268bbb265290d7488c073bb5ca52860133e7f48b4dca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/1\/9-12.1792103092895.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے-آکھیا"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مینوں"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "کھلو-جا"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨منا⟩"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "میرے-اُتے"
+    },
+    {
+      "surface": "ומתתני",
+      "gloss": "تے-مار-مُٹا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "אחזני",
+      "gloss": "پھڑیا-مینوں"
+    },
+    {
+      "surface": "השבץ",
+      "gloss": "گُتھی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ہن-تک"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میری-جان"
+    },
+    {
+      "surface": "בי",
+      "gloss": "مینوں-وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T22:24:52.895959068Z",
+  "model": "glm-5.3"
+}

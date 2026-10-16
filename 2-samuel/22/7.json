@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 22:7",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اپنے ایلوہیم",
+      "rationale": "'میرا' عبرانی وِچ صیغہ تعلیق وِچ اے (אלהי)، پنجابی نوں 'اپنے' چاہیدا اے — تھاں واضح کرن لئی۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "היכלו",
+      "rationale": "داؤد دے ویلے ہیکل نئیں سی — مطلب اوہدے سورگ والا محل اے یا شامل مقام۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אקרא ... אקרא",
+      "rationale": "'پکاریا … پکاریا' تکرار — پنجابی وِچ وی دوہرایا گیا اے۔"
+    }
+  ],
+  "translation": "میری تنگی وِچ میں یاہوہ نوں پکاریا، تے اپنے ایلوہیم نوں میں پکاریا، تے اوہنے اپنے ہیکل توں میری آواز سنی، تے میری پکار اوہدیاں کنّاں وِچ پہنچی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b65ca0144051ef5bc38f683dc73604406e7f894bd97708628f44c79ec5eee71b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/22\/5-8.1792103732285.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "تنگی وِچ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میری"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "میں پکاریا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "میں پکاریا"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "تے اوہنے سنی"
+    },
+    {
+      "surface": "מהיכלו",
+      "gloss": "اپنے ہیکل توں"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "میری آواز"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "تے میری پکار"
+    },
+    {
+      "surface": "באזניו",
+      "gloss": "اوہدیاں کنّاں وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T22:35:32.286672133Z",
+  "model": "glm-5.3"
+}

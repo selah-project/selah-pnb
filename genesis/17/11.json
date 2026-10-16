@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 17:11",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "اگلا",
+      "rationale": "ערלה ارتلہ مطلب 'اگلا' (غیر-ختنہ شدہ کھل) — لوک-پنجابی 'اگلا' ای ہے، پر وضاحت: ماس دا اگواڑا"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ختنہ کرو گے",
+      "rationale": "נמלתם 'ختنہ ہووو گے' (نیائیں صیغہ) وی اے؛ متعدی صیغہ چُنیا کیونجے את مفعول نوں پاس کردا اے"
+    }
+  ],
+  "translation": "تے تُساں ⟨את⟩ اپنے اگلے ماس دی ختنہ کرو گے، تے ایہہ میرے تے آپ وِچکار عہد دا نشان بنے گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "830bf8de48cd4b90be25c13d566580a155d0cba7b29fc22b571c328057bde33b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/17\/9-12.1792094967679.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונמלתם",
+      "gloss": "تے تُساں ختنہ کرو گے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنے اگلے ماس"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ماس"
+    },
+    {
+      "surface": "ערלתכם",
+      "gloss": "اپنے اگلے"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "تے بنے گا"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "نشان"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "عہد دا"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "میرے تے"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "تے آپ وِچکار"
+    }
+  ],
+  "timestamp": "2026-10-15T20:09:27.680207456Z",
+  "model": "glm-5.3"
+}

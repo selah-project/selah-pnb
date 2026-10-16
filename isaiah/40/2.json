@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 40:2",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על לב",
+      "rationale": "عبرانی ”دل اُتے” — پنجابی ”دل نال گلاں کرو”۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "צבאה",
+      "rationale": "لڑائی\/فوجی خدمت دا ویلہ (KJV ”warfare”) بمقابلہ جنگی سزا پورا ہوݨا (JPS ”time of service”)۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "כפלים",
+      "rationale": "”دوہرا” — سزا پوری وصول ہو گئی، یا مِل کے ہور (یونانیاں دا پیغام بھیجا)؟"
+    }
+  ],
+  "translation": "یروشلایم دے دل نال گلاں کرو تے اوہنوں پکاریو، کیونکہ اوہدی لڑائی پوری ہو گئی، کیونکہ اوہدا قصور معاف ہو گیا، کیونکہ اوہنے یاہوہ دے ہتھ توں اپنے ساریاں پاپاں دا دوہرا ⟨فَعْلَہ⟩ لے لیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2c47c8032b261dec1f5806e5a5b6003ca79c26a4981197e86ddd957385c3521a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/40\/1-4.1792106720223.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "گلاں کرو"
+    },
+    {
+      "surface": "על",
+      "gloss": "نال"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم"
+    },
+    {
+      "surface": "וקראו",
+      "gloss": "تے پکاریو"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "اوہنوں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "پوری ہو گئی"
+    },
+    {
+      "surface": "צבאה",
+      "gloss": "لڑائی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "נרצה",
+      "gloss": "معاف ہو گیا"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "اوہدا قصور"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "لے لیا"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ہتھ توں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "כפלים",
+      "gloss": "دوہرا"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ساریاں"
+    },
+    {
+      "surface": "חטאתיה",
+      "gloss": "پاپاں دا"
+    }
+  ],
+  "timestamp": "2026-10-15T23:25:20.223758386Z",
+  "model": "glm-5.3"
+}

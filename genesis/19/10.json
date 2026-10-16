@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 19:10",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اپنا",
+      "rationale": "עברית ਵਿੱਚ ਕਰਤਾ ਨਾਲ ਵਾਪਸ ਜਾਂਦਾ ਸਰਵਨਾਮ ਲੁਪਤ ਹੈ; ਪੰਜਾਬੀ ਨੂੰ ‘اپنا’ چاہیدا اے۔"
+    }
+  ],
+  "translation": "تے اوہ بندیاں نے ⟨את⟩ اپنا ہتھ اِگے کیتا تے ⟨את⟩ لُوط نوں اپنے کول گھر وِچ اندے کیتا، تے ⟨את⟩ دروازہ بند کر دتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a22d0585e144ec315aaf6f9bb35645a03cc58a1a7516e495636d871d7f1ca5e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/19\/9-12.1792095013599.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "اِگے کیتا"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "بندیاں نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنا ہتھ"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "اپنا ہتھ"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "اندا کیتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لُوط"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "لُوط نوں"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "اپنے کول"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "گھر وِچ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "دروازہ"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "دروازہ"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "بند کر دتا"
+    }
+  ],
+  "timestamp": "2026-10-15T20:10:13.599822201Z",
+  "model": "glm-5.3"
+}

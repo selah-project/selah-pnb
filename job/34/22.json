@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 34:22",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "موت دا پچھا",
+      "rationale": "تصلیمت عبرانی وِچ موت دی پرچھاویں دا گہرا ہنیرا اے، پنجابی وِچ اِکو لفظ نئیں"
+    }
+  ],
+  "translation": "کجھ ہنیرا نئیں تے موت دا پچھا نئیں کہ برائی کرن والے اوتھے لُک سکن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4e522a6dc3bda0f5a5d33fb9a866d9e44a6ebdfc17d58bc0586f9af5476f3d84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/34\/21-24.1792116318296.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "کجھ … نئیں"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ہنیرا"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "تے … نئیں"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "موت دا پچھا"
+    },
+    {
+      "surface": "להסתר",
+      "gloss": "کہ … لُک سکن"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اوتھے"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "کرن والے"
+    },
+    {
+      "surface": "און",
+      "gloss": "برائی"
+    }
+  ],
+  "timestamp": "2026-10-16T02:05:18.297679578Z",
+  "model": "glm-5.3"
+}

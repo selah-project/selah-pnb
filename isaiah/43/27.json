@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "isaiah 43:27",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אביך הראשון",
+      "rationale": "'پہلا پیو' کون — آدم، نوح، اَوراہام، یا یعقوو؟ مترجم آپس وچ وکھرے نیں۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "ומליציך",
+      "rationale": "מליץ: ترجمان، وچوں-بولن والے یا سکھاؤن والے — وکھرے مطلب نیں۔"
+    }
+  ],
+  "translation": "تیرا پہلا پیو گناہی ہویا، تے تیرے ترجمان میرے خلاف بغاوت کر گئے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fe49a81054e7a2701d57c200526619b14b534f5ddd80f4a03f24df34ec7d5459",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/43\/25-28.1792106740082.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "تیرا پیو"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "پہلا"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "گناہی ہویا"
+    },
+    {
+      "surface": "ומליציך",
+      "gloss": "تے تیرے ترجمان"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "بغاوت کر گئے"
+    },
+    {
+      "surface": "בי",
+      "gloss": "میرے خلاف"
+    }
+  ],
+  "timestamp": "2026-10-15T23:25:40.083105653Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 75:1",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 75,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אל תשחת",
+      "rationale": "'تُوں مٹاویں نہ' — اِک جانی پچھانی دھُن دے مُڈھلے بول منے جاندے نیں، بوہتے مترجم سرناویں وِچ اوویں ای رکھدے نیں۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "مُنتظم",
+      "rationale": "למנצח دا مطلب اے دوروں چمکدا\/اُگھا — مطلب دھُن دا آگو، ہنر دی تھاں"
+    }
+  ],
+  "translation": "مُنتظم نوں ⟨نا مٹاؤ⟩، زبور اَساپھ دا، اِک گیت۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b03b27197604dfb3d511b421df87fa378d82451e20f94e732280864af02e7751",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/75\/1-4.1792113028354.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "مُنتظم نوں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "مٹاؤ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "زبور"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "اَساپھ دا"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "گیت"
+    }
+  ],
+  "timestamp": "2026-10-16T01:10:28.354580833Z",
+  "model": "glm-5.3"
+}

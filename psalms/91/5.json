@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tīr",
+      "rationale": "מחץ اصل وچ 'چبھن والا' اے — تیر اسدے کم دے مطابق لفظ اے"
+    },
+    {
+      "kind": "you",
+      "subject": "توں",
+      "rationale": "سلاخ 91 پورا مخاطب اے — تسیں\/توں دا سِدھا مخاطب"
+    }
+  ],
+  "translation": "توں رات دے ڈر توں نہ ڈریں، نہ دن نوں اُڈن والے تیر توں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "82c889abb6220a00396e68e83043cf48610b5411a0092f94e088d667499849bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/91\/5-8.1792113391312.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ڈریں"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "ڈر"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "رات"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "تیر"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "اُڈن والے"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "دن نوں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:16:31.313198615Z",
+  "model": "glm-5.3"
+}

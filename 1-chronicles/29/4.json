@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 29:4",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "تِن ہزار کنٹر سونا تے سَت ہزار کنٹر چاندی",
+      "rationale": "دائود دی دَت دا وزن آیت وِچ گِنیا گیا اے — کناہ دا پورا حساب۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "کنٹر",
+      "rationale": "ככר اک عبرانی وزن اے (ٹیلنٹ)؛ پنجابی وِچ کوئی جُڑیا ہویا لفظ نئیں، اِس لئی حرف-نقل۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "کمریاں دیاں دیواراں",
+      "rationale": "הבתים جمع اے — 'کمریاں\/عمارتاں'؛ ویکھن والے کجھ مندر دی اِک عمارت لیندے نیں، کجھ کئی کمریاں۔"
+    }
+  ],
+  "translation": "تِن ہزار کنٹراں سونا، اُوفیر دے سونے توں، تے سَت ہزار کنٹر صاف کیتا ہویا چاندی، کمریاں دیاں دیواراں چڑھاؤن لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3705a9e8762755fb96bfdd09b44a49827ee8e1c03653c15599b8788a923badbb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/29\/4-4.1792124344670.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלשת",
+      "gloss": "تِن"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ככרי",
+      "gloss": "کنٹراں"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونا"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "سونے توں"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "اُوفیر"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "تے سَت"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "کنٹر"
+    },
+    {
+      "surface": "کסף",
+      "gloss": "چاندی"
+    },
+    {
+      "surface": "מזקק",
+      "gloss": "صاف کیتا ہویا"
+    },
+    {
+      "surface": "לטוח",
+      "gloss": "چڑھاؤن لئی"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "دیواراں"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "کمریاں دیاں"
+    }
+  ],
+  "timestamp": "2026-10-16T04:19:04.671379752Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 35:18",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "فعل نئیں — لسٹ جاری اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "کُلیاں",
+      "rationale": "יתד دے اجر نیں جیہڑے خیمے نوں زمین وِچ جوندے نیں؛ 'کُلی' مُڈھلا تصور اے"
+    }
+  ],
+  "translation": "⟨את⟩ مسکن دیاں کُلیاں تے ⟨את⟩ صحن دیاں کُلیاں، تے ⟨את⟩ اُہناں دے رسے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "387dd514d427b4d960d2ba6183ac039628bac466275594dee996bd2c5feb9df9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/35\/17-20.1792097119417.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مسکن دیاں کُلیاں"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "کُلیاں"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مسکن"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "صحن دیاں کُلیاں"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "کُلیاں"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "صحن"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "اُہناں دے رسے"
+    },
+    {
+      "surface": "מיתריהם",
+      "gloss": "اُہناں دے رسے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:45:19.418608921Z",
+  "model": "glm-5.3"
+}

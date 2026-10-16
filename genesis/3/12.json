@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "رَلائی",
+      "rationale": "נתתה حرفیاً 'دتی' اے؛ 'میرے نال رکھن لئی دتی' دا سُکڑیا روپ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נתתה\/נתנה",
+      "rationale": "اکو فعل 'دینا' دو واری — تُوں دتی، اوہنے دتا — آدم دے بچن وِچ صنعت، پنجابی وِچ رَلائی\/دتا نال ہلدی اے"
+    }
+  ],
+  "translation": "تے آدمی نے آکھیا: اوہ زنانی، جیہڑی تُوں نے میرے نال رَلائی، اوہنے ہی مینوں اوہ رُکھوں دتا، تے میں کھادا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "703b82f66348f46dda85bfc56d513db0b776617151ac51414debac6bff4db2e7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/3\/9-12.1792094646938.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "اوہ زنانی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "تُوں نے رَلائی"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "میرے نال"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ ہی"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "اوہنے دتا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مینوں"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "اوہ رُکھ"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "تے میں کھادا"
+    }
+  ],
+  "timestamp": "2026-10-15T20:04:06.940029565Z",
+  "model": "glm-5.3"
+}

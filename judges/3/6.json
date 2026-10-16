@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 3:6",
+  "book": "judges",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "دیوتے",
+      "rationale": "אלהיהם ایتھے قومیں دے معبوداں لئی اے، ایس لئی 'دیوتے' — ایلوہیم دی ناں والی صورت اِتھے نئیں۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לקחו\/נתנו",
+      "rationale": "لیاں\/دتیاں دی اُلٹی جوڑی — ویاہ دا دو-طرفہ سودا، عبرانی دی سترنگی وِچ اِکو جہی رکھی۔"
+    }
+  ],
+  "translation": "تے اوہناں نے ⟨את⟩ اوہناں دیاں دھیاں اپنیاں تریمتیں لئی لیاں، تے ⟨את⟩ اوہناں دیاں دھیاں اوہناں دے پُتراں نوں دتیاں، تے اوہناں نے ⟨את⟩ اوہناں دے دیوتے دی سیوا کیتی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b54f8dccaf49c31fc6c03db547f6a9d4864903c8f20f25b334148812779cbeac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/judges\/3\/5-8.1792101390173.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "لیاں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہناں دیاں دھیاں"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "اوہناں دیاں دھیاں"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اپنیاں لئی"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "تریمتیں بناؤن"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اوہناں دیاں دھیاں"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "اوہناں دیاں دھیاں"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "دتیاں"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "اوہناں دے پُتراں نوں"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "سیوا کیتی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہناں دے دیوتے"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "اوہناں دے دیوتے"
+    }
+  ],
+  "timestamp": "2026-10-15T21:56:30.174412314Z",
+  "model": "glm-5.3"
+}

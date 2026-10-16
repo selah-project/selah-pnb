@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 36:12",
+  "book": "2-chronicles",
+  "lang": "pnb",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جھکیا",
+      "rationale": "נכנע دا پنجوتروں مطلب 'گوڈا موڑنا' — جھکنا، عاجز ہونا"
+    },
+    {
+      "kind": "addition",
+      "subject": "بولدا",
+      "rationale": "مُونھ توں دا حوالہ پنجابی وِچ فعل چاہندا اے، عبرانی وِچ کوئی فعل نئیں"
+    }
+  ],
+  "translation": "تے اوہنے اوہ بُرائی کیتی جیہڑی اوہدے ایلوہیم یاہوہ دیاں اکھاں وِچ بُری سی؛ اوہ نبی یرمیاہو دے ساہمنے، جیہڑا یاہوہ دے مُونھ توں ⟨بولدا⟩ سی، جھکیا نئیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "aa9d8e32d9050b13d60f2800b306ba971e3d4f2895bf26512a739b0aaf678757",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/36\/9-12.1792123042219.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "تے اوہنے کیتی"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "اوہ بُرائی"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "اکھاں وِچ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "اوہدے ایلوہیم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "נכנע",
+      "gloss": "جھکیا"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ساہمنے توں"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یرمیاہو"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبی"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "مُونھ توں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-10-16T03:57:22.221120659Z",
+  "model": "glm-5.3"
+}

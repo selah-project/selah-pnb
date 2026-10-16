@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 22:15",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "دا (ایلوہیم یِسرائیل دا)",
+      "rationale": "عبرانی construct جوڑ 'אלהי ישראל' پنجابی وِچ 'دا' منگدا اے"
+    },
+    {
+      "kind": "you",
+      "subject": "אמרו לאיש",
+      "rationale": "حُلداہ دا سنیہا سدھا بادشاہ یوشیاہ ول، پر 'بندے' آکھ کے، درباری بول چال"
+    }
+  ],
+  "translation": "تے اوہنے اوہناں نوں آکھیا: اِنج آکھدا اے یاہوہ، یِسرائیل دا ایلوہیم: اُس بندے نوں آکھو جیہنے ⟨את⟩ تہاڈے نوں میرے کولے گھلیا اے،",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bcf8ea03a4703de88b9f98c2e660a6bcbb694ce4e748ede8e85f7372ac4f5f4a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/22\/13-16.1792105658693.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "تے…آکھیا"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "اوہناں نوں"
+    },
+    {
+      "surface": "כה",
+      "gloss": "انج"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھدا اے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل دا"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "آکھو"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "بندے نوں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہنے"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "گھلیا اے"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ تہاڈے نوں",
+      "marks": "تہاڈے نوں (میرے کول)"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میرے کولے"
+    }
+  ],
+  "timestamp": "2026-10-15T23:07:38.694981843Z",
+  "model": "glm-5.3"
+}

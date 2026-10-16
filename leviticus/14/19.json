@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 14:19",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "החטאת",
+      "rationale": "لفظی 'گناہ' — قربانی دا ناں اوہدے کارن توں اے"
+    }
+  ],
+  "translation": "تے کاہن گناہ دی قربانی ⟨את⟩ کرے گا، تے پاک ہون والے لئی اوہدی نجاست توں کفارہ کریگا، تے مگروں اوہلہ قربانی ⟨את⟩ ذبح کریگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bbe6019ed30ea7f0fd590a68014a4572f44a047c63fd32c6a09d5b593c41bceb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/14\/17-20.1792097700190.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "تے کرے گا"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گناہ دی قربانی"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "گناہ دی قربانی"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "تے کفارہ کریگا"
+    },
+    {
+      "surface": "על",
+      "gloss": "لئی"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "پاک ہون والے"
+    },
+    {
+      "surface": "מטמאתו",
+      "gloss": "اوہدی نجاست توں"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "تے مگروں"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "ذبح کریگا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہلہ قربانی"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "اوہلہ قربانی"
+    }
+  ],
+  "timestamp": "2026-10-15T20:55:00.191766984Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 3:15",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "گِنو",
+      "rationale": "حکم — موشے نوں گنتی دا آمر"
+    },
+    {
+      "kind": "measurement",
+      "subject": "census",
+      "rationale": "لِیوِیاں دی گنتی، اِک مہینے توں اُتّے ہر نر"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מבן חדש",
+      "rationale": "لفظی 'مہینے دے پُتر توں' — عمر دا عبرانی اظہار"
+    }
+  ],
+  "translation": "لِیوِی دی ⟨את⟩ اولاد نوں، اوہناں دے پیوواں دے گھراں مطابق، اوہناں دے خانداناں مطابق گِنو؛ ہر نر، اِک مہینے دے پُتر توں تے اُتّے، تُسیں اوہناں نوں گِنو۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "85dd3c746009793a061aa1c43851e077650f1735c992a698cb687c767e121685",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/3\/13-16.1792098292124.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פקוד",
+      "gloss": "گِنو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لِیوِی دی اولاد نوں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "اولاد"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لِیوِی"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "گھراں مطابق"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "اوہناں دے پیوواں دے"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "اوہناں دے خانداناں مطابق"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نر"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "پُتر توں"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "اِک مہینے دے"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "تے اُتّے"
+    },
+    {
+      "surface": "תפקדם",
+      "gloss": "تُسیں اوہناں نوں گِنو"
+    }
+  ],
+  "timestamp": "2026-10-15T21:04:52.124977570Z",
+  "model": "glm-5.3"
+}

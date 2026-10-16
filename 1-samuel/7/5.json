@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 7:5",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "کیبصو",
+      "rationale": "سموایل دا حکم — یِسرائیل نوں میتصرپھہ ول سدّا۔"
+    },
+    {
+      "kind": "you",
+      "subject": "بعدکم",
+      "rationale": "سموایل اپنی قوم نوں مخاطب اے۔"
+    }
+  ],
+  "translation": "تے سموایل نے آکھیا: ⟨את⟩ سارے یِسرائیل نوں میتصرپھہ اِکٹھا کرو، تے میں تواڈے واسطے یاہوہ اگے دعا کراں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4e4ff7bb999484b2a1d667a340b36987d2b66c72091a0d09ae01dc335a4fc87e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/7\/5-8.1792102321498.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "سموایل"
+    },
+    {
+      "surface": "קבצו",
+      "gloss": "اِکٹھا کرو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سارے یِسرائیل نوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "המצפתה",
+      "gloss": "میتصرپھہ"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "تے میں دعا کراں گا"
+    },
+    {
+      "surface": "בעדכם",
+      "gloss": "تواڈے واسطے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اگے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-10-15T22:12:01.498669463Z",
+  "model": "glm-5.3"
+}

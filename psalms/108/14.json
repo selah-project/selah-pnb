@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 108:14",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 108,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "بہادری",
+      "rationale": "חיל فوج، طاقت، دولت سارا اے — 'بہادری' اِک پاسے دا نیہہ رکھدا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "گے",
+      "rationale": "نעשה سوچݨ\/آسرے والی حالت اے؛ پنجابی مستقبل وِچ وادھا"
+    }
+  ],
+  "translation": "ایلوہیم نال اسیں بہادری کراں گے، تے اوہ ⟨اوہو⟩ ساڈے دشمناں نوں رونڈے گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c5a10fb86e0c45a426e6719a16b72a520b85b21633828df295e0b4a564b5d554",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/108\/13-14.1792113668632.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "ایلوہیم نال"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "اسیں کراں گے"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "بہادری"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "تے اوہ"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "رونڈے گا"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "ساڈے دشمناں نوں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:21:08.633488555Z",
+  "model": "glm-5.3"
+}

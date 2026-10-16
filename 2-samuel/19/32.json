@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 19:32",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "את בירדן",
+      "rationale": "آخری את بیردن عجیب اے — ترجمے اوہنوں ”یردن دے اُس پاسے” سمجھدے نیں؛ حرف-نقل والا نشان رکھیا گیا"
+    },
+    {
+      "kind": "elision",
+      "subject": "את (پہلا)",
+      "rationale": "اتھے את نال تعلق دا اسم اے، مفعول دا نشان نئیں — ”نال” نال لیاندا اے"
+    }
+  ],
+  "translation": "تے برزِلّای گِلعادی روگِلیم توں اتریا، تے بادشاہ دے نال ⟨את⟩ یردن پار ہویا، اوہنوں یردن ⟨את⟩ وِچوں روانہ کرن لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5140c72d81c8137d0ee21c34e9518fd493f18d22a66b04b0939440ead3661773",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/19\/29-32.1792103747596.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וברזלי",
+      "gloss": "تے برزِلّای"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "گِلعادی"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "اتریا"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "روگِلیم توں"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "تے پار ہویا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بادشاہ دے نال"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "یردن"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "اوہنوں روانہ کرن لئی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یردن وِچوں"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "یردن وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T22:35:47.597719503Z",
+  "model": "glm-5.3"
+}

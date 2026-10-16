@@ -1,0 +1,138 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 12:14",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "את פי יהוה",
+      "rationale": "'یاہوہ دا مُوہھا' — عبرانی محاورا اے، 'حکم' نئیں؛ پنجابی وِچ مُوہھا دا لفظی چتر رکھیا"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨بھلا ہووے گا⟩",
+      "rationale": "عبرانی وِچ واک پورا نئیں ہوندا (jps 'well'); پنجابی جملہ مُک منگدا اے"
+    },
+    {
+      "kind": "you",
+      "subject": "توں اِسرائیل",
+      "rationale": "شَرط والا سِدھا خطاب"
+    }
+  ],
+  "translation": "جے تُساں یاہوہ توں ڈرو گے تے ⟨את⟩ یاہوہ دی عبادت کرو گے تے اوہدی آواز نوں سُنو گے، تے یاہوہ دے مُوہھے دی نافرمانی نہ کرو گے، تے تُساں وی تے اوہ بادشاہ وی جیہڑا تُہاڈے اُتے راج کردا اے، یاہوہ اپنے ایلوہیم دے پِچھے ٹُرو گے — ⟨بھلا ہووے گا⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b9b57bec0d3214cc0a1bc968d8a9af358b67897e21f8313d1d1cd11c742df334",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/12\/13-16.1792102437666.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "تُساں ڈرو گے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "تے عبادت کرو گے"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "یاہوہ (اوہنوں)"
+    },
+    {
+      "surface": "ושמעתם",
+      "gloss": "تے سُنو گے"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "اوہدی آواز نوں"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תמרו",
+      "gloss": "نافرمانی کرو گے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مُوہھا"
+    },
+    {
+      "surface": "פי",
+      "gloss": "مُوہھے دی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "והיתם",
+      "gloss": "تے تُساں ہووو گے"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تُساں"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "تے وی"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "راج کردا اے"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "تُہاڈے اُتے"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "دے پِچھے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "اپنے ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-10-15T22:13:57.667713772Z",
+  "model": "glm-5.3"
+}

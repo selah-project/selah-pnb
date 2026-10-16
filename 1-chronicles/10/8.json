@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 10:8",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ויהי",
+      "rationale": "'تے ہویا' عبرانی دا کہانی-کھولن والا اے؛ پنجابی وِچ بھارا اے پر رکھیا گیا اے کیونکہ عبرانی وِچ اے۔"
+    }
+  ],
+  "translation": "تے دوجے دن ہویا، تے پلشتیم لُٹن آئے ⟨את⟩ مارے ہوئے، تے اوہناں نے ⟨את⟩ شاؤل تے ⟨את⟩ اوہدے پتر گِلبوع پہاڑ اُتے ڈِگّھے ہوئے پائے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "991b7ec85408e7da5b96635d84220b56b475265c6e0131cd838c9295b8af7a7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/10\/5-8.1792120659809.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے ہویا"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "دوجے دن"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "تے آئے"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "پلشتیم"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "لُٹن لئی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مارے ہوئے"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "مارے ہوئے"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "تے پائے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شاؤل"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اوہدے پتر"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "اوہدے پتر"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "ڈِگّھے ہوئے"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "پہاڑ اُتے"
+    },
+    {
+      "surface": "גלבע",
+      "gloss": "گِلبوع"
+    }
+  ],
+  "timestamp": "2026-10-16T03:17:39.810928570Z",
+  "model": "glm-5.3"
+}

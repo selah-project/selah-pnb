@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 23:18",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨سی⟩",
+      "rationale": "عبرانی وِچ کوپولا نئیں، پنجابی جملے لئی چاہیدا"
+    },
+    {
+      "kind": "measurement",
+      "subject": "مُکھ",
+      "rationale": "leaing پیڑھی وِچ درجہ بندی"
+    }
+  ],
+  "translation": "یِتصہار دے پُتراں وِچوں شِلومیٹ ⟨سی⟩ مُکھ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fb39018e92c27cb135a1338d3c8b341084648e816d6e9fecb05f41527cba897a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/23\/17-20.1792121187149.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "یِتصہار"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "شِلومیٹ"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "مُکھ"
+    }
+  ],
+  "timestamp": "2026-10-16T03:26:27.149996836Z",
+  "model": "glm-5.3"
+}

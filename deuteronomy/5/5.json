@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 5:5",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "دا",
+      "rationale": "عبرانی وِچ دبר نال اضافی ضمیر یا اضافہ نئیں، پنجابی دے ملکیت نوں چاہیدا"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בין … וביןיכם",
+      "rationale": "“وِچکار … تے تُہاڈے وِچکار” — عبرانی اکو بین دو واری دہراندی اے، جوڑی جو پنجابی وِچ پوری نئیں رہندی"
+    },
+    {
+      "kind": "elision",
+      "subject": "לאמר",
+      "rationale": "این٘ویں چھڈیا نئیں، ⟨⟩ وِچ دھریا — بعد وِچ آؤن والے بچناں دا پیش خیمہ"
+    }
+  ],
+  "translation": "میں اوہ ویلے یاہوہ تے تُہاڈے وِچکار کھلوندا سی، تاں جو تُہانوں یاہوہ دا ⟨את⟩ بچن دسّاں، کیونجے تُساں اگّ دے مُونہوں ڈر گئے سی تے پہاڑ اُتے چڑھے نئیں، ⟨آکھن لئی⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "52580cf7790301dbac38af6b4cffbf304f169a7cb8d6c38f57b533ee070d1515",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/5\/5-6.1792123568525.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "کھلوندا سی"
+    },
+    {
+      "surface": "בין",
+      "gloss": "وِچکار"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "تے تُہاڈے وِچکار"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "اوہ ویلے"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "دسّاں"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُہانوں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بچن"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "بچن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "יראתם",
+      "gloss": "ڈر گئے سی"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "دے مُونہوں"
+    },
+    {
+      "surface": "האש",
+      "gloss": "اگّ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "עליתם",
+      "gloss": "چڑھے"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "پہاڑ اُتے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨آکھن لئی⟩"
+    }
+  ],
+  "timestamp": "2026-10-16T04:06:08.526068332Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 20:5",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "کڈھدا اے",
+      "rationale": "דָלָہ اصل وِچ ٹیلی نال پانی کڈھن دا کم اے — پنجابی وِچ ایہو بُت اِی دتا گیا"
+    },
+    {
+      "kind": "addition",
+      "subject": "ہُندی اے",
+      "rationale": "عبرانی وِچ کوئی کریا نئیں، اُپما دا دوجا پاسہ مُکدا اے"
+    }
+  ],
+  "translation": "مَیہاں دی گہرائی وِچ بندے دے دل دی صلاح ہُندی اے، پر سُجھ والا بندہ اوہنوں کڈھدا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "941bd61dde4f75908ca4d36b5958c69d6aa15fd18098bb525ec322de6b2868ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/20\/5-8.1792114964841.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "مَیہاں"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "گہرے"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "صلاح"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "دل وِچ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندے دے"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "پر بندہ"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "سُجھ والا"
+    },
+    {
+      "surface": "ידלנה",
+      "gloss": "کڈھدا اے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:42:44.841620010Z",
+  "model": "glm-5.3"
+}

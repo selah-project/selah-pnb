@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 10:17",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "שא נא חטאתי",
+      "rationale": "عبرانی لفظی 'میرا پاپ چُکو' — پنجابی وچ 'معاف کرو' بنیا"
+    },
+    {
+      "kind": "you",
+      "subject": "فرعون توں موشے تے اہرون",
+      "rationale": "فرعون سِدھا موشے تے اہرون نال گل کردا اے"
+    }
+  ],
+  "translation": "تے ہن میاں، میڈا پاپ صرف اِس اِک واری معاف کرو، تے یاہوہ تُہاڈے ایلوہیم ول منتیں کرو، تاں جو اوہ میرے اُتوں صرف ⟨את⟩ اِس موت نوں ہٹا دے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bfcd9e32423b451923970c48b635a06b4d3ef142435fccaa540a5966ae9fa5e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/10\/17-20.1792096389431.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "تے ہن"
+    },
+    {
+      "surface": "שא",
+      "gloss": "چُکو"
+    },
+    {
+      "surface": "נא",
+      "gloss": "میاں"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "میڈا پاپ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "صرف"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "اِس واری"
+    },
+    {
+      "surface": "והעתירו",
+      "gloss": "تے منتیں کرو"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ ول"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "تُہاڈے ایلوہیم"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "تے اوہ ہٹاوے"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "میرے اُتوں"
+    },
+    {
+      "surface": "רק",
+      "gloss": "صرف"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اِس موت"
+    },
+    {
+      "surface": "המות",
+      "gloss": "موت"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اِس"
+    }
+  ],
+  "timestamp": "2026-10-15T20:33:09.431707857Z",
+  "model": "glm-5.3"
+}

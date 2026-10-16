@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 12:9",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "מאת",
+      "rationale": "קولوں دے نال ⟨את⟩ ٹبر دا نشان رکھیا گیا، את H854 اے، مفعول دا نشان نئیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בדק",
+      "rationale": "دراڑ — عمارت دا پھٹّ\/شگاف، بھاویں جہاز دے لیek دی مثال وی لغت وِچ اے"
+    }
+  ],
+  "translation": "تے کاہناناں منّ لِیا کہ ⟨את⟩ لوکاں کولوں چاندی نہ لئی جاوے، تے گھر دِیاں ⟨את⟩ دراڑاں نہ مُضبوط کیتیاں جان۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "333c61034ffc91e9d99407bf98b6e91c9ef5a2654df6e1af014ea0b0467a984d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/12\/9-12.1792105378932.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאתו",
+      "gloss": "منّ لِیا"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاہناناں"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "کہ نہ"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "لینا"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندی"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ کولوں"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوکاں"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "مُضبوط کرنا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دراڑاں"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "دراڑاں"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر دِیاں"
+    }
+  ],
+  "timestamp": "2026-10-15T23:02:58.933518326Z",
+  "model": "glm-5.3"
+}

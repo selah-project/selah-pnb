@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 37:12",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "دیوتاواں",
+      "rationale": "אלהי הגוים قومیں دے معبود نیں — ضابطے وِچ عام لفظ حلال اے کیونکہ ٹوکن قوماں دے ایلوہیم بارے اے، ناں יהוה دی تھاں نئیں"
+    },
+    {
+      "kind": "measurement",
+      "subject": "شہراں دی لسٹ",
+      "rationale": "گوزان، حاران، رِتصِف، عِدن، تلاسّر — فتح شدہ تھاواں دی گنتی، آشوری فخر دا حساب"
+    }
+  ],
+  "translation": "کی قومیں دے دیوتاواں نے ⟨את⟩ اوہناں نوں بچایا، جنہاں نوں میرے پیواں نے برباد کیتا — ⟨את⟩ گوزان تے ⟨את⟩ حاران تے رِتصِف تے عِدن دے پُتر، جیہڑے تلاسّر وِچ نیں؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "58a2d0b98f488fcc482ba781196e6d88a694931f50e6ace27ff4aa848dfffddb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/37\/9-12.1792106568144.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "کی بچایا"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "اوہناں نوں"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "دے دیوتاواں نے"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "قومیں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنہاں نوں"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "برباد کیتا"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "میرے پیواں نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گوزان"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "گوزان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "حاران"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "حاران"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "تے رِتصِف"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "تے دے پُتر"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "عِدن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "בתלשר",
+      "gloss": "تلاسّر وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T23:22:48.146101662Z",
+  "model": "glm-5.3"
+}

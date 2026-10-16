@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 27:2",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "councils ⟨سارے⟩ جلس",
+      "rationale": "بھُل — صرف “ساری جلس دے ساہمنے” درست اے؛ حشروم دے چار ساہمنے موشے، اِلعازار، سردار تے جلس نیں۔"
+    },
+    {
+      "kind": "idiom",
+      "subject": "לפני",
+      "rationale": "עبری “چہرے ول” پنجابی وِچ “دے ساہمنے”۔"
+    }
+  ],
+  "translation": "تے اوہ موشے دے ساہمنے، تے کاہن اِلعازار دے ساہمنے، تے سرداراں تے ساری councils ⟨سارے⟩ جلس دی ساہمنے، ملاقات دے خیمے دے بوہے اُتے کھلو گئیاں، آکھن لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f0ac881fcf965ae40240dc602f0cca64e82be45b7d500a2c86ab2349c068c1ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/27\/1-4.1792099204705.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותעמדנה",
+      "gloss": "کھلو گئیاں"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "دے ساہمنے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "تے دے ساہمنے"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "اِلعازار"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "تے دے ساہمنے"
+    },
+    {
+      "surface": "הנשיאם",
+      "gloss": "سرداراں"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سارے"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "جلس"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "بوہے اُتے"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمے"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ملاقات دے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھن لئی"
+    }
+  ],
+  "timestamp": "2026-10-15T21:20:04.706408534Z",
+  "model": "glm-5.3"
+}

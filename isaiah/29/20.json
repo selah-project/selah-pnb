@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 29:20",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אפס\/כלה\/נכרתו",
+      "rationale": "تِن وکھرے عبرانی فعل — مُکّنا، مک جانا، کٹّنا — اِکو جہد (نقص) دے تِن درجے، پنجابی وِچ وکھرے رکھے نیں۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שקדי און",
+      "rationale": "پتر وزن 'بیدار\/نِیند توں بِنا رہن والے' اے — 'مُچھ رکھن والے' اوہدی تصویر نوں دسدا اے، 'برائی دی تلاش کرن والے' نئیں۔"
+    }
+  ],
+  "translation": "کیونکہ ظالم مُکّ جاندا اے، تے مذاق کرن والا نیڑے ہوندا اے، تے اوہناں ساریاں دا جیہڑے برائی دا مُچھ ہر ویلے رکھدے نیں، کٹّ دتا جاندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ac75f15888eec7f42334ba135f8ae2d58b09525234354cf94ace340d4f67ca53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/29\/20-20.1792123713659.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "مُکّ جاندا اے"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "ظالم"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "تے نیڑے ہوندا اے"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "مذاق کرن والا"
+    },
+    {
+      "surface": "ונכרתו",
+      "gloss": "تے کٹّ دتا جاندا اے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساریاں"
+    },
+    {
+      "surface": "שקדי",
+      "gloss": "مُچھ رکھن والے"
+    },
+    {
+      "surface": "און",
+      "gloss": "برائی"
+    }
+  ],
+  "timestamp": "2026-10-16T04:08:33.659896971Z",
+  "model": "glm-5.3"
+}

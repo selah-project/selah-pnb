@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "job 9:33",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מוכיח",
+      "rationale": "daysman\/umpire\/arbiter\/mediator — 'فیصلہ کرن والا' وجہان دا سادہ نیونا؛ کجھ کہندے نیں بچان والا، کجھ پنج دا نتارا کرن والا"
+    },
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "عبرانی 'نئیں... اے' دی جگہ پنجابی 'کوئی... نئیں اے' منگدا اے، ⟨اے⟩ دتا"
+    }
+  ],
+  "translation": "ساڈے وِچکار کوئی فیصلہ کرن والا نئیں ⟨اے⟩، جو اپنا ہتھ سانوں دوواں اُتے رکھے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "933871900b4a241ea5300255c5268a3a0eecc49e69c48b81563f3ae23709be21",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/9\/33-35.1792115596953.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨اے⟩"
+    },
+    {
+      "surface": "בינינו",
+      "gloss": "ساڈے وِچکار"
+    },
+    {
+      "surface": "מוכיח",
+      "gloss": "فیصلہ کرن والا"
+    },
+    {
+      "surface": "ישת",
+      "gloss": "رکھے"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "اپنا ہتھ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "שנינו",
+      "gloss": "سانوں دوواں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:53:16.953951081Z",
+  "model": "glm-5.3"
+}

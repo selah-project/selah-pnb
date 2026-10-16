@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 26:25",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אויב",
+      "rationale": "عبرانی وِچ واحد نِردیسہ اے؛ پنجابی نوں 'دشمن دے ہتھ وِچ' لئی 'دے' چاہیدا سی، گرامر دا فرق۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "נקם ברית",
+      "rationale": "کجھ مترجم 'میرے عہد دا بدلہ' کہندے نیں؛ عبرانی صرف 'عہد دا بدلہ' آکھدا اے، کوئی ضمیر نئیں۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "במשקל",
+      "rationale": "ویجن آیت 26 وِچ، پر ایتھے دہرائی دی زنجیر دا انگ۔"
+    }
+  ],
+  "translation": "تے میں تہاڈے اُتے تلوار لیا واں، عہد دا بدلہ لین والی، تے تسیں اپنیاں شہراں وِچ جُٹ جاؤ، تے میں تہاڈے وِچکار طاعون گھلّاں، تے تسیں دشمن دے ہتھ وِچ دِتے جاؤ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3830eb8310ff9e447861bfff6904fe62b47c0408b847f80a38e745439a81eeb5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/26\/25-28.1792098163553.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והבאתי",
+      "gloss": "تے میں لیا واں"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "تہاڈے اُتے"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "تلوار"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "بدلہ لین والی"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "بدلہ"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "عہد دا"
+    },
+    {
+      "surface": "ונאספתם",
+      "gloss": "تے تسیں جُٹ جاؤ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "اپنیاں شہراں"
+    },
+    {
+      "surface": "ושלחתי",
+      "gloss": "تے میں گھلّاں"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "طاعون"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "تہاڈے وِچکار"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "تے تسیں دِتے جاؤ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ہتھ وِچ"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "دشمن دے"
+    }
+  ],
+  "timestamp": "2026-10-15T21:02:43.554307129Z",
+  "model": "glm-5.3"
+}

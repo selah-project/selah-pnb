@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וירד\/נרדה",
+      "rationale": "11:5 دا اترنا تے 11:7 دا اتریے — یاہوہ دا اترنایو دوجری واری بول چال دے طور تے دہرایا گیا اے"
+    }
+  ],
+  "translation": "تے یاہوہ اتریا ویکھن ⟨את⟩ شہر نوں تے ⟨את⟩ مینار نوں، جیہڑا آدم دے پتراں نے بنایا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "69d5a501e1f549f4d9adc257799f261adc105898adba55e5a1de8d8dc822b5e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/11\/5-8.1792094919657.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "اتریا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "ویکھن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شہر نوں"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "مینار نوں"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "مینار"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "بنایا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پتر"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "آدم"
+    }
+  ],
+  "timestamp": "2026-10-15T20:08:39.657672493Z",
+  "model": "glm-5.3"
+}

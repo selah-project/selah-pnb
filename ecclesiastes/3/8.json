@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "شالوم",
+      "rationale": "שלום صرف جنگ دی غیرحاضری نئیں، سلامتی تے مکمل بھلائی اے — ترجمے وِچ عبرانی لفظ رکھیا گیا۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מלחמה\/שלום",
+      "rationale": "جنگ تے شالوم دی جوڑی — عبرانی دے تُکّے والے ٹاکرے ویلہاں دی لسٹ دا انت اے۔"
+    }
+  ],
+  "translation": "پیار کرن دا ویلہ اے، تے نفرت کرن دا ویلہ؛ جنگ دا ویلہ اے، تے شالوم دا ویلہ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "de782f2d831db561683afb2016aba70cb7099f9c2c6f09c378770a3e7597c5ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ecclesiastes\/3\/8-8.1792124324343.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ویلہ"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "پیار کرن دا"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "تے ویلہ"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "نفرت کرن دا"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ویلہ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ دا"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "تے ویلہ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالوم دا"
+    }
+  ],
+  "timestamp": "2026-10-16T04:18:44.344044150Z",
+  "model": "glm-5.3"
+}

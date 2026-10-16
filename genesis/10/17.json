@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "کریا",
+      "rationale": "عبرانی وِچ ایس لڑی وِچ کوئی کریا نئیں — صرف ناواں دی تند اے، پنجابی نے 'نوں' تے '۔' دتے۔"
+    }
+  ],
+  "translation": "تے ⟨את⟩ حِوّی نوں، تے ⟨את⟩ عَرقی نوں، تے ⟨את⟩ سِینی نوں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bc613200da5eb1e09cbc1b28970cb6bfa0959dc458ac71ee07ab0c6f4f0b80ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/10\/17-20.1792094872248.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "حِوّی"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "حِوّی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "عَرقی"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "عَرقی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "سِینی"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "سِینی"
+    }
+  ],
+  "timestamp": "2026-10-15T20:07:52.248896169Z",
+  "model": "glm-5.3"
+}

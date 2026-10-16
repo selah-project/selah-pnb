@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨چیز⟩",
+      "rationale": "קדש اِک وِکانوں نئیں، 'مقدس چیز' دا ارتھ اے — پنجابی جملے لئی چیز وادھو اے۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "תושב",
+      "rationale": "'کاہن دا مہمان\/ٹکاواں' — مختلیف ترجمے مہمان تے رہائشی پردیسی دوویں کہندے نیں۔"
+    }
+  ],
+  "translation": "تے ہر اوپرا مقدس ⟨چیز⟩ نہ کھاوے؛ کاہن دا ٹکاواں تے مزدور مقدس ⟨چیز⟩ نہ کھاوے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9292fe2abb8122b02062b56f454d838cb41233e934176c3cceee65cfffb4ea3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/22\/9-12.1792097980581.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "تے ہر"
+    },
+    {
+      "surface": "זר",
+      "gloss": "اوپرا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کھاوے"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدس ⟨چیز⟩"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "ٹکاواں"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "کاہن دا"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "تے مزدور"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کھاوے"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدس"
+    }
+  ],
+  "timestamp": "2026-10-15T20:59:40.582321196Z",
+  "model": "glm-5.3"
+}

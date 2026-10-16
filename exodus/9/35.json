@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 9:35",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ביד משה",
+      "rationale": "'موشے دے ہتھ' — عبرانی طریقہ اے 'موشے دے ذریعے'، ایتھے شکل رکھی گئی"
+    },
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "ماضی پوری کرن لئی پنجابی فعل منگدا اے، عبرانی وِچ نئیں"
+    }
+  ],
+  "translation": "تے فرعون دا دل مضبوط ہو گیا، تے اوہنے ⟨את⟩ یِسرائیل دے پتراں نوں نئیں گھلیا، جویں یاہوہ نے موشے دے ہتھ آکھیا سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fdd47e6b7d4b94fd9974ecef5b7588f7a4c4048e0b5a6cf81bec5b7982bef6ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/9\/33-35.1792096329435.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "تے مضبوط ہویا"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون دا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "گھلیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یِسرائیل دے پتر"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پتر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جویں"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ نے"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے دے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:32:09.436859537Z",
+  "model": "glm-5.3"
+}

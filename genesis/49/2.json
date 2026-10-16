@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 49:2",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اے⟩",
+      "rationale": "عبرانی وِچ کریا ربط نئیں، پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "invitation",
+      "subject": "سنّو … گوڑھ سنّو",
+      "rationale": "دوہری سدّا، پورا بند پتے دا دھاناں اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ושמעו … ושמעו",
+      "rationale": "وعد آور دوہراوݨ 'سنّو سنّو' — پنجابی وِچ پہلی واری 'سنّو' دوجی 'گوڑھ سنّو' کیتا"
+    }
+  ],
+  "translation": "اِکٹھے ہو جاؤ تے سنّو، یعقوو دے پُترو، تے گوڑھ سنّو یِسرائیل، جو تُہاڈا پیو ⟨اے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "72ca4e87614fbb65035eed2c182194a3c9bc74cb9711d58a04ecc2bd0e4e299d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/49\/1-4.1792096111823.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הקבצו",
+      "gloss": "اِکٹھے ہو جاؤ"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "تے سنّو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو دے"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "تے گوڑھ سنّو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ول"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "تُہاڈے پیو"
+    }
+  ],
+  "timestamp": "2026-10-15T20:28:31.824862926Z",
+  "model": "glm-5.3"
+}

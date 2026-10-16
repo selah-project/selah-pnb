@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 22:9",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ושמרו\/משמרתי",
+      "rationale": "اکو جڑ ש-מ-ר — 'رکھن گے\/میری پہرہداری' دی دوہری گونج، پنجابی وِچ ہلکی رہ جاندی اے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ישאו עליו חטא",
+      "rationale": "پرانی عبرانی مکار 'گناہ چکن' اے — بھار چکن دی مورت، پنجابی وِچ اوویں رکھیا اے۔"
+    }
+  ],
+  "translation": "تے اوہ ⟨את⟩ میری پہرہداری رکھن گے، تے اس اُتے گناہ نہ چکن، تے اس وِچ نہ مرن، کیوں جو اوہنوں بے حرمت کر دیؤں؛ اَنا یاہوہ آں، اوہناں نوں مقدس کرن والا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9292fe2abb8122b02062b56f454d838cb41233e934176c3cceee65cfffb4ea3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/22\/9-12.1792097980581.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "رکھن گے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میری پہرہداری"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "میری پہرہداری"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "چکن"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اس اُتے"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "گناہ"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "تے مرن"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اس وِچ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "יחללהו",
+      "gloss": "اوہنوں بے حرمت کر دیؤں"
+    },
+    {
+      "surface": "אני",
+      "gloss": "اَنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "مقدس کرن والا اوہناں نوں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:59:40.582127021Z",
+  "model": "glm-5.3"
+}

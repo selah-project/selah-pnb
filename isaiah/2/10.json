@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 2:10",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מפני",
+      "rationale": "لفظی 'دے چہرے توں' — پنجابی 'دے مونہوں\/توں'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "to Israel",
+      "rationale": "امر صیغے — پتھر وِچ وڑ، مِٹی وِچ لُک — سُنیا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גאון",
+      "rationale": "لفظ جلال\/ابریشی — ایتھے یاہوہ دا، آیت 11 وِچ منکھاں دے اُچے ہون دا"
+    }
+  ],
+  "translation": "پتھر وِچ وڑ جاؤ تے مِٹی وِچ لُک جاؤ، یاہوہ دے ڈر دے مونہوں تے اُسدے جلال دی شوکت توں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b7d920db671c832a981092ae3c17743596a6042774dfb31b98b3917dc5525727",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/2\/9-12.1792105683573.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בוא",
+      "gloss": "وڑ جاؤ"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "پتھر وِچ"
+    },
+    {
+      "surface": "והטמן",
+      "gloss": "تے لُک جاؤ"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "مِٹی وِچ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "دے مونہوں"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "ڈر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ומהדר",
+      "gloss": "تے … شوکت توں"
+    },
+    {
+      "surface": "גאנו",
+      "gloss": "اُسدے جلال دی"
+    }
+  ],
+  "timestamp": "2026-10-15T23:08:03.574879669Z",
+  "model": "glm-5.3"
+}

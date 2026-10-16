@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 21:13",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שכם",
+      "rationale": "'مونڈھا' ( Literal: تُوں اوہناں نوں مونڈھا بنا دویں گا) — KJV\/JPS 'موڑ کے پچھا دکھاویں گا'، YLT 'نیشانہ بناویں گا'، ترجمہ آپشنز وکھرے نیں۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "اپنی کمان",
+      "rationale": "عبرانی وِچ صرف 'تیریاں ڈوراں' اے — کمان دا مطلب ڈور دے سیاق توں۔"
+    }
+  ],
+  "translation": "کیوں جو تُوں اوہناں دا مونڈھا بنا دیویں گا، اپنی کمان دیاں ڈوراں نال اوہناں دے مونہاں ⟨اُتے⟩ نشان بجھاویں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0044df2dba283a55fb7ded3279a7420f3729d437ed36f52db4edb4d696940dbe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/21\/13-14.1792112023385.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "תשיתמו",
+      "gloss": "تُوں بنا دیویں گا"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "مونڈھا"
+    },
+    {
+      "surface": "במיתריך",
+      "gloss": "اپنی کمان دیاں ڈوراں نال"
+    },
+    {
+      "surface": "תכונן",
+      "gloss": "نشان بجھاویں گا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "پنیہم",
+      "gloss": "اوہناں دے مونہاں"
+    }
+  ],
+  "timestamp": "2026-10-16T00:53:43.385677205Z",
+  "model": "glm-5.3"
+}

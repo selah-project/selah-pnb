@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 10:17",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "כנעתך",
+      "rationale": "כנעה صرف ایتھے آؤندی اے — گٹھا\/بنڈل دا مطلب"
+    },
+    {
+      "kind": "crux",
+      "subject": "قید وِچ واسی",
+      "rationale": "במצור دا مطلب 'گھیرے\/محاصرے وِچ' — کجھ ترجمے 'تیزی نال' لیندے نیں"
+    }
+  ],
+  "translation": "زمین توں اپنا گٹھا اِکٹھا کر، اے گھیرے وِچ بیٹھی ہوئی والی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8fa59c9d6972726d009ace5291eb36e8cf6ca6cbf84c3170850657f111264609",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/10\/17-20.1792107497515.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אספי",
+      "gloss": "اِکٹھا کر"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "زمین توں"
+    },
+    {
+      "surface": "כנעתך",
+      "gloss": "اپنا گٹھا"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "بیٹھی ہوئی والی"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "گھیرے وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T23:38:17.515911725Z",
+  "model": "glm-5.3"
+}

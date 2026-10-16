@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 5:12",
+  "book": "song-of-songs",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מלאת",
+      "rationale": "לکیر-واک לفظ، صرف ایتھے — 'بھرا ہویا، بھریا اکھ-گھاٹا' دا مطلب"
+    },
+    {
+      "kind": "crux",
+      "subject": "מלאת",
+      "rationale": "'بھریا ہویا ٹوئے\/اکھ-گھاٹا' بنام KJV 'fitly set' تے بسب 'mounted like jewels' — literal شکل بھرپور بھرا ہونا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ਰਹਿਣ\/دھونے دی نسبت",
+      "rationale": "عبرانی کبوتراں دیاں مونث جمع کریاواں (רחצות, ישבות) اکھاں ول اشارہ کردیاں نیں؛ پنجابی وِچ کبوتر مذکر ہوݨ نال صورت بدل جاندی اے"
+    }
+  ],
+  "translation": "اوہدیاں اکھاں کبوتراں وانگ نیں، پانی دے وَہناں اُتے، دُدھ وِچ دھوتے، بھرے ہوئے ⟨اکھ-گھاٹے⟩ اُتے بیٹھے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "683dc488b1be97ca2072cb6d26549d713d2e61ac8ac4bfa757045f65556c416f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/song-of-songs\/5\/9-12.1792116657610.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עיניו",
+      "gloss": "اوہدیاں اکھاں"
+    },
+    {
+      "surface": "כיונים",
+      "gloss": "کبوتراں وانگ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "وَہن"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پانی دے"
+    },
+    {
+      "surface": "רחצות",
+      "gloss": "دھوتے"
+    },
+    {
+      "surface": "בחלב",
+      "gloss": "دُدھ وِچ"
+    },
+    {
+      "surface": "ישבות",
+      "gloss": "بیٹھے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "بھرے ہوئے ⟨اکھ-گھاٹے⟩"
+    }
+  ],
+  "timestamp": "2026-10-16T02:10:57.611870493Z",
+  "model": "glm-5.3"
+}

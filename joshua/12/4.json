@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 12:4",
+  "book": "joshua",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "عوگ دی حد",
+      "rationale": "بادشاہتاں دی لسٹ جاری اے — ہن بَشان دی حد گنی جا رہی اے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "רפאים",
+      "rationale": "'رِفائیں' قوم دا ناں رکھیا گیا — 'جنگلی' یا 'دیو' سمیٹݨ نال عبرانی دا ٹبر گُم ہو جاند۔"
+    }
+  ],
+  "translation": "تے بَشان دے بادشاہ عوگ دی حد — رِفائیں دے باقیاں وِچوں — جیہڑا اَشتَروت تے اِدرعی وِچ وسدا سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a6b079b3e1feee7c7d89e55f443b1b6061c22b408191308adc00d98d0ba2ad4a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joshua\/12\/1-4.1792101008265.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגבול",
+      "gloss": "تے حد"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "عوگ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "بَشان"
+    },
+    {
+      "surface": "מיתר",
+      "gloss": "باقیاں وِچوں"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "رِفائیں"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "وسن والا"
+    },
+    {
+      "surface": "בעשתרות",
+      "gloss": "اَشتَروت وِچ"
+    },
+    {
+      "surface": "ובאדרעי",
+      "gloss": "تے اِدرعی وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T21:50:08.267207908Z",
+  "model": "glm-5.3"
+}

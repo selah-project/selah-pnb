@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 10:27",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בני בליעל",
+      "rationale": "'بلیعل دے پُتر' — عبرانی اِڈیئم بے قائد بندیاں لئی، ناں دا مطلب 'بے فائدہ\/قصور ورد'۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "כמחריש",
+      "rationale": "'چُپ رہیا' (KJV held his peace) مقابل 'بہرا ہو گیا' (YLT as one deaf) — جڑ دا مطلب ہار\/چُپ دونوں پاسے۔"
+    },
+    {
+      "kind": "you",
+      "subject": "بلیعل دے پُتر",
+      "rationale": "دو ٹوک سوال بادشاہ نوں: ایہہ سانوں کِویں بچاویگا؟"
+    }
+  ],
+  "translation": "تے بلیعل دے پُتراں آکھیا: ایہہ سانوں کِویں بچاویگا؟ تے اوہناں اوہنوں حقیر جانا، تے اوہدے لئی کوئی تحفہ نئیں لیاندے؛ تے اوہ چُپ دی طرح رہیا।",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bea1b9558a093769f9bab62a153e7e59cfa4a2161f24ce4668eea4963ee4c615",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/10\/25-27.1792102380663.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "تے پُتر"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "بلیعل دے"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "سانوں بچاویگا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "ויבזהו",
+      "gloss": "تے اوہنوں حقیر جانا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "لیاؤنا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدے لئی"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "تحفہ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "تے ہویا"
+    },
+    {
+      "surface": "כמחריש",
+      "gloss": "چُپ دی طرح"
+    }
+  ],
+  "timestamp": "2026-10-15T22:13:00.664661844Z",
+  "model": "glm-5.3"
+}

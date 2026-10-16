@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨وڈھائی⟩",
+      "rationale": "תהדר (چمکنا\/ودھاؤنا) دا مفعول عبرانی وِچ کوئی نئیں"
+    }
+  ],
+  "translation": "تے غریب دا اپنے مقدمے وِچ ⟨وڈھائی⟩ نہ کرنا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "64efbb903aea9c270f08c2379ee5d2554e5466c39e48e9c33e277483aa75651c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/23\/1-4.1792096771557.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "تے غریب"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "⟨وڈھائی⟩ کرنا"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "اپنے مقدمے وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T20:39:31.558061226Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 51:8",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "ہاہا کرو، بالسام لَؤ",
+      "rationale": "حکم دا سدّا مخاطبہ — قومیں نوں بابل لئی سوگ کرن دا آکھیا جاندا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "شاید اوہ شفا پاویں",
+      "rationale": "אולי תֵרָפֵא — 51:9 وِچ جواب آؤندا اے 'اوہ رَلّی نئیں'؛ ایتھے اگّوں جانے بِنا 'شاید' ای رہندا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ہاہا کرو",
+      "rationale": "יָלַל درد دا چیک مارنا اے — 'ہاہا کرنا' پنجابی دا اوہ نیڑے ترین سوگ دا اعلان اے"
+    }
+  ],
+  "translation": "اچانک بابل ڈِگّ پیا تے ٹُٹ گیا؛ اوہدے اُتے ہاہا کرو، اوہدے درد لئی بالسام لَؤ، شاید اوہ شفا پاوے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "82c3b9a6ca7a0e787b7bad66e3b682316d48e30fcbd34ecc782917694fecd745",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/51\/5-8.1792108821998.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פתאם",
+      "gloss": "اچانک"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "ڈِگّ پیا"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "ותשבר",
+      "gloss": "تے ٹُٹ گیا"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "ہاہا کرو"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "اوہدے اُتے"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "لَؤ"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "بالسام"
+    },
+    {
+      "surface": "למכאובה",
+      "gloss": "اوہدے درد لئی"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "شاید"
+    },
+    {
+      "surface": "תרפא",
+      "gloss": "شفا پاویں"
+    }
+  ],
+  "timestamp": "2026-10-16T00:00:22.000059901Z",
+  "model": "glm-5.3"
+}

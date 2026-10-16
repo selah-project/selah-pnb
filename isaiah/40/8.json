@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 40:8",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חציר\/ציץ",
+      "rationale": "آیتاں 6–8 وِچ گھاہ تے پھل دی دوہرائی — سُکنا\/مرنا جوڑی — عبرانی دا توازن پنجابی وِچ دہرائے گیا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "بچن",
+      "rationale": "דבר 'بچن\/گل' — اِکو وارے وِچ بولیا ہویا، 'کلام' دی جگہ 'بچن' تنخ-ریت اے"
+    }
+  ],
+  "translation": "گھاہ سُک جاؤ گا، پھل مُر جاؤ گا، پر ساڈے ایلوہیم دا بچن ہمیشہ لئی کھلووے گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6fcc208743decc3140d1260eb85437c22225a93de2dd79e157c63063b1557359",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/40\/5-8.1792106660230.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "سُک جاؤ گا"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "گھاہ"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "مُر جاؤ گا"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "پھل"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "پر … بچن"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ساڈے ایلوہیم دا"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "کھلووے گا"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشہ لئی"
+    }
+  ],
+  "timestamp": "2026-10-15T23:24:20.231627677Z",
+  "model": "glm-5.3"
+}

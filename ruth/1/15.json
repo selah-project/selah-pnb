@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ruth 1:15",
+  "book": "ruth",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Ruth",
+      "rationale": "نعومی رُوت نوں سِدھیاں مخاطب کردی اے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "دیوتےآں",
+      "rationale": "אלהיה ایتھے جمع اے — موآب دے معبوداں لئی عام لفظ ٹھیک اے، ایلوہیم ناں نئیں۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שבה \/ שובי",
+      "rationale": "مُڑ گئی \/ مُڑ جا — اِکو جڑ تن واری، تِنھاں آیت وچ۔"
+    }
+  ],
+  "translation": "تے اوہنے آکھیا: ویکھو، تیری ساہُوری اپنے قوم ول تے اپنے دیوتےآں ول مُڑ گئی اے؛ اپنی ساہُوری دے پچھوں مُڑ جا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "eae86b0c522789f89934bcdddb2fe26b76f5850a1e28b3edde38b28b8a2e2f9e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ruth\/1\/13-16.1792116990108.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "تے اوہنے آکھیا"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ویکھو"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "مُڑ گئی اے"
+    },
+    {
+      "surface": "יבמתך",
+      "gloss": "تیری ساہُوری"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ول"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "اپنے قوم"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے ول"
+    },
+    {
+      "surface": "אלהיה",
+      "gloss": "اپنے دیوتےآں"
+    },
+    {
+      "surface": "שובי",
+      "gloss": "مُڑ جا"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "دے پچھوں"
+    },
+    {
+      "surface": "יבמתך",
+      "gloss": "اپنی ساہُوری"
+    }
+  ],
+  "timestamp": "2026-10-16T02:16:30.109894007Z",
+  "model": "glm-5.3"
+}

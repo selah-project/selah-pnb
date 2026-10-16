@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 27:15",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "چاندی",
+      "rationale": "כסף دا مطلب چاندی وی اے تے زرِِمبادلہ وی؛ 'چاندی' سداویں مادہ رکھیا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "تاں",
+      "rationale": "عبرانی شرطی ساخت وِچ نتیجہ والا لفٹ نئیں؛ پنجابی 'تاں' منگدا اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "fifth part",
+      "rationale": "مُڑ خریدن دا حساب — پنجواں حصہ دا وادھو، اگلی آیت نال جُڑیا ہویا"
+    }
+  ],
+  "translation": "تے جے مقدس کرن والا ⟨את⟩ اپنے گھر نوں مُڑ خریدے، تاں اوہ تیرے مُل دی چاندی دا پنجواں حصہ ⟨اوہدے اُتے⟩ جوڑے، تے اوہ اوہدا ہو جاوے گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "88d51bd7de717d0785a2dc61cd11cba214b0d62d6d7210ba14415c5c4232da01",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/27\/14-15.1792123449735.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "המקדיש",
+      "gloss": "مقدس کرن والا"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "مُڑ خریدے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنے گھر نوں"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "اپنے گھر"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "تے جوڑے"
+    },
+    {
+      "surface": "חמישית",
+      "gloss": "پنجواں حصہ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندی"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "تیرے مُل دی"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اوہدے اُتے"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "تے ہو جاوے گا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدا"
+    }
+  ],
+  "timestamp": "2026-10-16T04:04:09.736114339Z",
+  "model": "glm-5.3"
+}

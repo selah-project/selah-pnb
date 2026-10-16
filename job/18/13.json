@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 18:13",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בדי",
+      "rationale": "'اَنگ\/انگ' (body limbs) بمقابلہ KJV 'طاقت' — بُک دا مطلب جُدا ہویا انگ اے، طاقت نئیں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יאכל … יאכל",
+      "rationale": "'کھا جانا' دی دوہرائی — عبرانی دی دہرائی پنجابی وِچ رکھی گئی اے"
+    },
+    {
+      "kind": "idiom",
+      "subject": "בכור מות",
+      "rationale": "'موت دا پہلوٹھا' — موت دے سبھ توں سخت درجے دی تصویر، لفظی ای رکھیا"
+    }
+  ],
+  "translation": "اوہدے چم دے اَنگ کھا جانگے؛ اوہدے اَنگ موت دے پہلوٹھے ⟨کھا جانگے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4c21c97e0e3f769364baf790ca4100270aa0cfc9e9ec601ab23cda20209ccfcc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/18\/13-16.1792115809905.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יאכל",
+      "gloss": "کھا جانگے"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "اَنگ"
+    },
+    {
+      "surface": "עורו",
+      "gloss": "اوہدے چم دے"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کھا جانگے"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "اوہدے اَنگ"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "پہلوٹھے"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت دے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:56:49.905780189Z",
+  "model": "glm-5.3"
+}

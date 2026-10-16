@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 10:6",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ہے",
+      "rationale": "عبرانی وِچ فعل کوئی نئیں، پنجابی جملہ لئی چھڈیا گیا"
+    },
+    {
+      "kind": "measurement",
+      "subject": "نسل نامے",
+      "rationale": "پانی دے طوفان توں بعد قوماں دا شجرہ — ناواں دا حساب"
+    }
+  ],
+  "translation": "تے حام دے پُتر: کُوش تے مِتصرایم تے پُوت تے کنعان۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ebd5cc934baef90e57014b54540e306e72bd21bfd3959badbdf44ffcba9ebd68",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/10\/5-8.1792094819625.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "تے … دے پُتر"
+    },
+    {
+      "surface": "חם",
+      "gloss": "حام"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "کُوش"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "تے مِتصرایم"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "تے پُوت"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "تے کنعان"
+    }
+  ],
+  "timestamp": "2026-10-15T20:06:59.627166074Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 51:18",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ואתנה",
+      "rationale": "ترجمے وکھرے کر دیندے نیں: 'نہ تاں میں دیندا' (شرط) بمقابلہ 'یا میں دیندا' — عبرانی واو دا مطلب دوویں پاسے کھلا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "تُو",
+      "rationale": "عبرانی فعل وِچ ضمیر لُکی اے، پنجابی وِچ وکھ لکھی گئی"
+    }
+  ],
+  "translation": "کیونکہ قربانی نوں تُو نئیں چاہندا، ⟨نہ تاں⟩ میں دیندا؛ چڑھاوی توں نئیں راضی ہوندا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "01a448002bf81ede559e3a8e2da5a496bb26d9544bf329aa8a6254a3171b2918",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/51\/17-20.1792112634493.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תחפץ",
+      "gloss": "چاہندا"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "قربانی"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "⟨نہ تاں⟩ میں دیندا"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "چڑھاوی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "راضی ہوندا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:03:54.493753393Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 5:36",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "کاہنائی",
+      "rationale": "כהן فعل اے — 'کاہن دا کم کرنا'، عہدہ نئیں؛ پنجابی وِچ فعل رکھیا گیا۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "בבית",
+      "rationale": "'اوہ بیٹ' — عبرانی وِچ ایہ مکھ مِندی دے بیٹ ول اشارہ منگیا جاندا اے، پر متن اِکو 'بیٹ' لکھدا اے۔"
+    }
+  ],
+  "translation": "تے یوہانان نے ⟨את⟩ عزریاہ نوں جَمیا — اوہو جیہڑا اُو بیٹ وِچ کاہنائی کردا سی، جیہڑا شلوموہ نے یروشلایم وِچ بنایا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "083f995fbbc7b12711d5eb7ae2c95b94558673227081b23891f30fabcb938d60",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/5\/33-36.1792120284422.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויוחנן",
+      "gloss": "تے یوہانان"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "جَمیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عزریاہ"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "عزریاہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "کاہنائی کردا سی"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "بیٹ وِچ"
+    },
+    {
+      "surface": "אשر",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "بنایا"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلوموہ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "یروشلایم وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T03:11:24.423581650Z",
+  "model": "glm-5.3"
+}

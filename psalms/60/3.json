@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 60:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Elohim",
+      "rationale": "direct address to God in lament"
+    },
+    {
+      "kind": "alternative",
+      "subject": "تُوں غصے وِچ آیا",
+      "rationale": "אנפת literally 'you snorted (with anger)'; rendered idiomatically"
+    }
+  ],
+  "translation": "ایلوہیم، تُوں نے سانوں رَٹ دتا، سانوں توڑ دتا، تُوں غصے وِچ آیا — سانوں واپس مُڑ!",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "355980abfbaa019127ae05d270b32ba9952e398369a1570b8b40c234829c51d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/60\/1-4.1792112766710.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "تُوں نے سانوں رَٹ دتا"
+    },
+    {
+      "surface": "פרצתנו",
+      "gloss": "سانوں توڑ دتا"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "تُوں غصے وِچ آیا"
+    },
+    {
+      "surface": "תשובב",
+      "gloss": "واپس مُڑ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "سانوں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:06:06.711353176Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 27:33",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "عبرانی وِچ کوئی فعل اے نئیں، پنجابی واک لئی چاہیدا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "یار",
+      "rationale": "רֵעַ دا مطلب نیڑے دا ساتھی\/رفیق اے، 'یار' اوہدے نیڑے اے"
+    }
+  ],
+  "translation": "تے اَخیتوپھیل بادشاہ نوں صلاح دیندا ⟨سی⟩، تے خُشائی اَرکی بادشاہ دا یار ⟨سی⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5eae05505eef4b078990407a3196fcce766f50adad8ad18822d34166d5022c29",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/27\/33-34.1792121305651.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחיתפל",
+      "gloss": "تے اَخیتوپھیل"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "صلاح دیندا"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "بادشاہ نوں"
+    },
+    {
+      "surface": "וחושי",
+      "gloss": "تے خُشائی"
+    },
+    {
+      "surface": "הארכי",
+      "gloss": "اَرکی"
+    },
+    {
+      "surface": "רע",
+      "gloss": "یار"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ دا"
+    }
+  ],
+  "timestamp": "2026-10-16T03:28:25.652460280Z",
+  "model": "glm-5.3"
+}

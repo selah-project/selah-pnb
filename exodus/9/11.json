@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 9:11",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "השחין…השחין",
+      "rationale": "לפני\/מפנی دا جوڑا تے پھوڑا-پھوڑا دوہرا کے دل نوں لا دین والی سطر۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "جادوگر",
+      "rationale": "חרטמים دا مول مطلب 'لکیراں کھچن والے' (تارے پڑھن والے) اے۔"
+    }
+  ],
+  "translation": "تے جادوگر موشے اگے نہ ٹک سکے، پھوڑے ⟨توں⟩، کیونکہ پھوڑا جادوگراں وِچ سی تے سارے مِتصرایمیاں وِچ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "581fcbeb5f6bef89bc7959ac6d6eac1c54558aaffbdc0330ee3aa4bd3abe3829",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/9\/9-12.1792096341174.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "سکے"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "جادوگر"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "کھلووَن لئی"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اگے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "توں"
+    },
+    {
+      "surface": "השחין",
+      "gloss": "پھوڑا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "سی"
+    },
+    {
+      "surface": "השחין",
+      "gloss": "پھوڑا"
+    },
+    {
+      "surface": "בחרטמם",
+      "gloss": "جادوگراں وِچ"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "تے سارے"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایمیاں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:32:21.175799715Z",
+  "model": "glm-5.3"
+}

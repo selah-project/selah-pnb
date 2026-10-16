@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 7:21",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "دریا وِچلی",
+      "rationale": "אשר ביאר نوں صفت بنا کے پنجابی وِچ جوڑنا پیا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "مِتصرایم دے لوک",
+      "rationale": "מצרים ایتھے قوم دے لوک نیں، تھاں نئیں"
+    }
+  ],
+  "translation": "تے دریا وِچلی مچھی مر گئی، تے دریا سڑ گیا، تے مِتصرایم دے لوک دریا دا پانی پی نہ سکے، تے لہو سارے مِتصرایم دی دھرتی وِچ ہو گیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0febab48967ed0cdb86dc03f6365a619460851e3ab2178f7df67c74465ef5de0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/7\/21-24.1792096192311.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והדגה",
+      "gloss": "تے دریا وِچلی مچھی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "دریا وِچ"
+    },
+    {
+      "surface": "מתה",
+      "gloss": "مر گئی"
+    },
+    {
+      "surface": "ויבאש",
+      "gloss": "تے سڑ گیا"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "سکے"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم دے لوک"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "پی"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پانی"
+    },
+    {
+      "surface": "מן",
+      "gloss": "دا"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "تے ہو گیا"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "لہو"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "دھرتی وِچ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم دی"
+    }
+  ],
+  "timestamp": "2026-10-15T20:29:52.312404899Z",
+  "model": "glm-5.3"
+}

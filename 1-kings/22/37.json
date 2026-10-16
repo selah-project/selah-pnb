@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 22:37",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوہ",
+      "rationale": "عبرانی وِچ کرتا دی لوڑ نئیں، پنجابی جملے لئی شامل کیتا"
+    }
+  ],
+  "translation": "تے بادشاہ مر گیا، تے ⟨اوہ⟩ شومرون آیا، تے اوہناں نے ⟨את⟩ بادشاہ نوں شومرون وِچ دفنایا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d7d52a1fb407d901162ce45b9057c31b6a465ddeef8348beb04e4ca27b657cd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/22\/37-40.1792104815951.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "تے مر گیا"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "تے آیا"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "شومرون"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "تے اوہناں نے دفنایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بادشاہ نوں"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "شومرون وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T22:53:35.952155816Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,134 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 2:2",
+  "book": "joel",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כשחר",
+      "rationale": "'like dawn' (KJV\/ASV\/BSB) vs 'like blackness\/darkness' (JPS, reading שחר as שחור) — picture reverses entirely"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חשך\/אפלה · ענן\/ערפל",
+      "rationale": "paired near-synonyms of darkness heaped in parallel, doubled intensity"
+    }
+  ],
+  "translation": "اندھیرے تے گھُپ اندھیرے دا دن، بَدلاں تے مُندر بَدلاں دا دن؛ پہاڑاں اُتے پھیلی سویر ⟨وارگوں⟩، اِک وڈی قوم تے زبردست قوم؛ اوہدے ورگا ہن تک کدی نہیں ہویا، تے اوہدے مگروں دوبارہ نہ ہووے گا، نسلاں تے نسلاں دے ورھیاں تک۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5df513279c7cf6c3f98b6ef6db00330b8f3ca0f12508f62eb7935d58d68b0288",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joel\/2\/1-4.1792110797211.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "اندھیرے"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "تے گھُپ اندھרیرے"
+    },
+    {
+      "surface": "יום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "بَدلاں"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "تے مُندر بَدلاں"
+    },
+    {
+      "surface": "כשחר",
+      "gloss": "سویر ورگا"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "پھیلیا ہویا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "پہاڑاں"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "רב",
+      "gloss": "وڈی"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "تے زبردست"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "اوہدے ورگا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "ہویا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "ازل"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "تے اوہدے مگروں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "دوبارہ ہووے گا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ورھیاں"
+    },
+    {
+      "surface": "דור",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "تے نسل"
+    }
+  ],
+  "timestamp": "2026-10-16T00:33:17.212420346Z",
+  "model": "glm-5.3"
+}

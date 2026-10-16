@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 25:8",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "יען אשר دا جوڑ اِکو 'کیوں جو' وِچ رَل گیا۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמע",
+      "rationale": "آیتاں 5–8 وِچ سُنن دا فعل دُہرایا جاندا اے — عدالت دا برے خاندا۔"
+    }
+  ],
+  "translation": "ایس لئی یاہوہ تصواوت اِیویں آکھدا اے: کیوں جو تُساں ⟨את⟩ میرے بچّے نئیں سُنیے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "18b14d631da41c438d4f0e8c27960140fe44b7e049e13d3788affe44bf04ec6c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/25\/5-8.1792107932891.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ایس لئی"
+    },
+    {
+      "surface": "כה",
+      "gloss": "اِیویں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھدا اے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "تصواوت"
+    },
+    {
+      "surface": "יען",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "سُنیے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میرے بچّے"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "میرے بچّے"
+    }
+  ],
+  "timestamp": "2026-10-15T23:45:32.892879774Z",
+  "model": "glm-5.3"
+}

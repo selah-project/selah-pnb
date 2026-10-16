@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 54:5",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "دے",
+      "rationale": "عبرانی وِچ دھرتی اُتے پہلوں دا لفظ نئیں، پنجابی جُٹّ منگدا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "בעליך",
+      "rationale": "عبرانی جمع صیغہ اے — 'تیرے مالک\/بنان آلے' — کجھ ترجمے اکلے کردے نیں، جمع نوں عظمت سمجھ کے"
+    }
+  ],
+  "translation": "کیونکہ تیرا مالک تیرا بنان آلا اے — یاہوہ تصواوت اوہدا ناں اے — تے تیرا آزاد کرن آلا، یِسرائیل دا مقدس، ساری دھرتی دا ایلوہیم اکھیا جاوے گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e7d414f47096a4f253e65e462e261a681cb96d6a240a59df6707c891915566fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/54\/5-8.1792106924427.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "בעליך",
+      "gloss": "تیرا مالک"
+    },
+    {
+      "surface": "עשיך",
+      "gloss": "تیرا بنان آلا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "تصواوت"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اوہدا ناں"
+    },
+    {
+      "surface": "וגאלך",
+      "gloss": "تے تیرا آزاد کرن آلا"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "دھرتی"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "اکھیا جاوے گا"
+    }
+  ],
+  "timestamp": "2026-10-15T23:28:44.428237731Z",
+  "model": "glm-5.3"
+}

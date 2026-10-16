@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 38:7",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اوہنوں⟩",
+      "rationale": "לשאאת לِشاؤت دا مفعول پنجابی جملے لئی وادھو دسیا گیا۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "پاسیاں",
+      "rationale": "צלעת دا پورا چتر ’پسلیاں\/پہلو‘ اے — قربانگاہ دے پہلو، جیویں پسلی اِڈّدی اے۔"
+    }
+  ],
+  "translation": "تے اوہنے ⟨את⟩ بادیاں کُنڈیاں وِچ قربانگاہ دے پاسیاں تے پائیاں، ⟨اوہنوں⟩ اوہناں نال چکن لئی؛ کھوکھلیاں تختیاں نال اوہنے ⟨את⟩ اوہنوں بنایا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "12a9bc8583a3bf3c4878ad03268f07e26cea04d1d60ebec1f64fa625719f671e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/38\/5-8.1792097222151.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "تے اوہنے پائیاں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بادیاں"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "بادیاں"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "کُنڈیاں وِچ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تے"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "پاسیاں"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "قربانگاہ"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "چکن لئی"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "اوہنوں"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "اوہناں نال"
+    },
+    {
+      "surface": "נבוב",
+      "gloss": "کھوکھلیاں"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "تختیاں"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "اوہنے بنایا"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "اوہنوں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:47:02.152199040Z",
+  "model": "glm-5.3"
+}

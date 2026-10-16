@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 15:30",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "کفارہ",
+      "rationale": "וכפר دا مُڈھ 'ڈھکنا' اے؛ 'کفارہ کرنا' اوہدی ریتتی صورت اے، literal چھاپ گواچ اے۔"
+    }
+  ],
+  "translation": "تے کاہن ⟨את⟩ اِک نوں گناہ دی قربانی تے ⟨את⟩ دوجے نوں سُوختہ قربانی کرے گا، تے کاہن اوہدے لئی یاہوہ دے ساہمنے اوہدے بے پاکی دے وہاء توں کفارہ کرے گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "acf7171abcf72a7bc2720fc42d68a1b48d5712f6fbbaf6705a6dfb62592970d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/15\/29-32.1792097839436.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "تے کرے گا"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اِک نوں"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "اِک"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "گناہ دی قربانی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "دوجے نوں"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "دوجا"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "سُوختہ قربانی"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "تے کفارہ کرے گا"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "اوہدے لئی"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ساہمنے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מזוב",
+      "gloss": "وہاء"
+    },
+    {
+      "surface": "טמאתה",
+      "gloss": "اوہدے بے پاکی دے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:57:19.436904714Z",
+  "model": "glm-5.3"
+}

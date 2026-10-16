@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 18:14",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "'ایتھے اے'",
+      "rationale": "הנה صرف 'ویکھو' اے — تھاں دا سبق سیاق توں پُر کیتا گیا"
+    },
+    {
+      "kind": "you",
+      "subject": "عبدیاہو دا بیان",
+      "rationale": "اِلیاہو نوں سدھا مخاطب — 'تُسیں آکھدے او'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "והרגנی",
+      "rationale": "مستقل 'اوہ مینوں مار دِیگا' وی پڑھیا جا سکدا اے، نہ ککھ مستقبل دا شبہ"
+    }
+  ],
+  "translation": "تے ہن تُسیں آکھدے او: جا، اپنے سائیں نوں آکھ: 'ویکھو، اِلیاہو ایتھے اے' — تے اوہ مینوں مار دِیا؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "14bc60d05de03195ed682f16b6e3c613dace6618370cf1164f0661cc7c642b35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/18\/13-16.1792104665572.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "تے ہن"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُسیں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھدے او"
+    },
+    {
+      "surface": "לך",
+      "gloss": "جا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھ"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "اپنے سائیں نوں"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ویکھو"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "اِلیاہو"
+    },
+    {
+      "surface": "והרגני",
+      "gloss": "تے اوہ مینوں مار دِیا"
+    }
+  ],
+  "timestamp": "2026-10-15T22:51:05.573691257Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 4:7",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "بارہ نِتھوے",
+      "rationale": "آیت گنتی تے ویلے دی ونڈ نال اے — بارہ افسر، سال وِچ اِک مہینا ہر اِک اُتے۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וכלכלו \/ לכלכל",
+      "rationale": "اکو جڑ ־כלכל دو واری — 'پالدے سن' تے 'پالن لئی' — لفظی ہمآہنگی اے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אחד",
+      "rationale": "'ہر اِک' — عبرانی صرف 'اِک' آکھدا اے؛ 'ہر' پنجاج ولّوں پایا گیا۔"
+    }
+  ],
+  "translation": "تے شلومو دے سارے یِسرائیل اُتے بارہ نِتھوے سن، تے اوہ ⟨את⟩ بادشاہ نوں تے ⟨את⟩ اوہدے گھر نوں پالدے سن؛ سال وِچ اِک مہینا ہر اِک اُتے ہوندا سی، پالن لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9e57713a188d7b2adeca76d9526ba49caeb63f85edcf555f81ddc0e7bee2c001",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/4\/5-8.1792103962729.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולשלמה",
+      "gloss": "تے شلومو لئی"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دس"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "نِتھوے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "וכלכלו",
+      "gloss": "تے اوہ پالدے سن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بادشاہ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "اوہدے گھر"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "اوہدے گھر"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "مہینا"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "سال وِچ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوندا سی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ہر اِک"
+    },
+    {
+      "surface": "לכלכל",
+      "gloss": "پالن لئی"
+    }
+  ],
+  "timestamp": "2026-10-15T22:39:22.730449419Z",
+  "model": "glm-5.3"
+}

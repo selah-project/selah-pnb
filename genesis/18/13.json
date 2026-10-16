@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 18:13",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "צחק",
+      "rationale": "השׂ\/צחק root (laugh\/Isaac wordplay) runs through chapters 18–21; Punjabi ہسّ keeps one verb but the Isaac pun is lost."
+    },
+    {
+      "kind": "crux",
+      "subject": "האף אמנם",
+      "rationale": "'کی سچ مُچی' — dubitative question; some render as affirmation 'اِکو اے'।"
+    },
+    {
+      "kind": "you",
+      "subject": "to اَوراہام",
+      "rationale": "oratio recta address; YHWH questions Abraham about Sarah's inner laughter."
+    }
+  ],
+  "translation": "تے یاہوہ نے اَوراہام نوں آکھیا: سارہ نے ایہہ کیوں کیتا کہ ہسّی، ایہہ آکھ کے: کی میری سچ مُچی اولاد جَمّے، تے میں بُڈھی ہو گئی آں؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e7cfd20fb23b819e52f4bb8dae36f08279c60579165b1da5948e9cc1d3f916de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/18\/13-16.1792094997204.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراہام"
+    },
+    {
+      "surface": "למה",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "צחקה",
+      "gloss": "ہسّی"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "سارہ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ کے"
+    },
+    {
+      "surface": "האף",
+      "gloss": "کی"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "سچ مُچی"
+    },
+    {
+      "surface": "אלד",
+      "gloss": "جَمّے ⟨میں⟩"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "تے میں"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "بُڈھی ہو گئی آں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:09:57.205081904Z",
+  "model": "glm-5.3"
+}

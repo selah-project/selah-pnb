@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 120,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "کون دیندا اے",
+      "rationale": "فعل دا کوئی کردار نئیں: یاہوہ سزا دے گا، جاں (KJV مگر) جیبھ نوں اوہدے آپنے کماں دا بدلہ ملے گا"
+    },
+    {
+      "kind": "you",
+      "subject": "فریبی جیبھ نوں",
+      "rationale": "سدھا سنبودھن — آیت 4 اوہدا جواب اے"
+    }
+  ],
+  "translation": "کی دتا جائے گا تینوں، تے کی ودھایا جائے گا تینوں، فریبی جیبھ؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b108509a34098b717f606829818a4d5ea29c52490a7b38e16d0cb090d829696a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/120\/1-4.1792113944132.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "کی"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دتا جائے گا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تینوں"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "تے کی"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "ودھایا جائے گا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تینوں"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "جیبھ"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "فریبی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:25:44.133164069Z",
+  "model": "glm-5.3"
+}

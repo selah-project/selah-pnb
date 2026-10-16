@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 12:6",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הביא אלוה בידו",
+      "rationale": "'خدا اوہناں دے ہتھ وِچ لیاندا اے' — کجھ پڑھدے نیں 'خدا نے اوہناں دے ہتھ وِچ سبھ کجھ دتا'، کجھ 'اوہ اپنے ہتھ دے دیوے نوں چُکدے نیں'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨کجھ⟩",
+      "rationale": "عبرانی وِچ صرف کریا اے، مفعول لُکا ہویا اے؛ پنجابی جملہ مفعول منگدا اے"
+    }
+  ],
+  "translation": "خوشحال نیں لُٹیاں دے خیمے، تے بےفکری اے اوہناں لئی جو ایل نوں ترہکاندے نیں — جنہاں دے ہتھ وِچ ایلوہہ ⟨کجھ⟩ پاؤندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ab3fe6ce5d017790bb3156c419c36a41f696271f0388e72caa4113038210daa9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/12\/5-8.1792115649074.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישליו",
+      "gloss": "خوشحال نیں"
+    },
+    {
+      "surface": "אהלים",
+      "gloss": "خیمے"
+    },
+    {
+      "surface": "לשדדים",
+      "gloss": "لُٹیاں دے"
+    },
+    {
+      "surface": "ובטחות",
+      "gloss": "تے بےفکری اے"
+    },
+    {
+      "surface": "למרגיזי",
+      "gloss": "اوہناں لئی جو … ترہکاندے نیں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل نوں"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "جنہاں دے"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "پاؤندا اے"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ایلوہہ"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ہتھ وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:54:09.074881641Z",
+  "model": "glm-5.3"
+}

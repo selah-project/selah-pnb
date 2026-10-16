@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 6:10",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "دُدھ دین والیاں",
+      "rationale": "עלות دا سِدھا مطلب 'دودھ چُساؤن والیاں' (وچھیاں نوں دُدھ پلان والیاں) اے — 'دُدھ دین والیاں' سُچج پنجابی اے، شکل اِکو رہندی اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "نوں",
+      "rationale": "پنجابی مفعول لئی 'نوں' منگدی اے جیہڑی عبرانی وِچ ⟨את⟩ دا کم کردی اے۔"
+    }
+  ],
+  "translation": "تے بندیاں نے ایویں کیتا، تے دو گائیاں لئیاں — دُدھ دین والیاں — تے اوہناں نوں گڈی نال بنھیا، تے ⟨את⟩ اوہناں دے وچھیاں نوں گھر وِچ بند رکھیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ec7d5fdc6310f71f290ccce0c2f4f2bc9db5ce948e4cb044e02113df4b149cc6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/6\/9-10.1792123634622.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "تے کیتا"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "بندیاں نے"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ایویں"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "تے لئیاں"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دو"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "گائیاں"
+    },
+    {
+      "surface": "עלوت",
+      "gloss": "دُدھ دین والیاں"
+    },
+    {
+      "surface": "ויאסרום",
+      "gloss": "تے اوہناں نوں بنھیا"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "گڈی نال"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اوہناں دے وچھے"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "اوہناں دے وچھے"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "بند رکھیا"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "گھر وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T04:07:14.623809401Z",
+  "model": "glm-5.3"
+}

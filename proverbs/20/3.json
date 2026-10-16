@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 20:3",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "عبرانی وِچ کپولا نئیں"
+    },
+    {
+      "kind": "crux",
+      "subject": "יתגלע",
+      "rationale": "مُڈھ 'ننگا ہونا\/کھل جاندا' — 'مداخلت کردا اے'، 'جھگڑدا اے'، 'گالیاں دیندا اے' ورگے مفہوم مترجماں وچ ونڈے ہوئے نیں"
+    }
+  ],
+  "translation": "بندے دا مان اے جھگڑے توں رکنا، پر ہر مورکھ اگھڑ کے لڑدا رہندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0f9c7c64221fc5c6bfd97993f683221b708f6b467088b670700d2ab997dbd0cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/20\/1-4.1792114970028.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "مان"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "بندے-دا"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "رکنا"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "جھگڑے-توں"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "پر-ہر"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "مورکھ"
+    },
+    {
+      "surface": "יתגלע",
+      "gloss": "اگھڑ-کے-لڑدا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:42:50.029653067Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 11:5",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "مضبوطی",
+      "rationale": "מצדת اصل وِچ جال\/پھاہی تے مضبور تھاں دوویں؛ ‘مضبوطی’ تصیون دے قلعے والا پہلو رکھیا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩",
+      "rationale": "عبرانی היא کمال اے؛ شاہ مُکھی جملے لئی ضمیر وادھی"
+    }
+  ],
+  "translation": "تے یبوُس دے وسنیکاں نے داوِد نوں آکھیا: “تُو ایتھے نئیں آ سکدا۔” ایس تے داوِد نے ⟨את⟩ تصیون دی مضبوطی کھوہ لئی — ⟨اوہ⟩ اوہی شہر اے، داوِد دا شہر۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bf42fe82564cd90bb7094ae0b6525e82e59150da7fd1cb154340ca67bd9ca598",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/11\/5-8.1792120536900.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "وسنیکاں نے"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "یبوُس دے"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "داوِد نوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "آ سکدا"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ایتھے"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "کھوہ لئی"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تصیون دی مضبوطی"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "مضبوطی"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "تصیون دی"
+    },
+    {
+      "surface": "היא",
+      "gloss": "اوہی"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد دا"
+    }
+  ],
+  "timestamp": "2026-10-16T03:15:36.900787603Z",
+  "model": "glm-5.3"
+}

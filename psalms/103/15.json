@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ציץ \/ יציץ",
+      "rationale": "ציץ (پھل) تے فعل יציץ (کھلنا\/چمکنا) — اِکو جڑ، عبرانی وِچ گونج اے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אנוש",
+      "rationale": "אנוש فانی بندے لئی اے، אדם توں ہلکا — 'بندہ' نال ⟨فانی⟩ دی وضاحت دتی۔"
+    }
+  ],
+  "translation": "بندہ — اس دے دن گھاہ وانگوں نیں؛ کھییت دے پھل وانگوں، اویں اوہ کھلدا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8fb404682e6fcceec1c0c687951955156f6b0ffe4ebcd9cec163f0f254815c13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/103\/13-16.1792113489295.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "بندہ ⟨فانی⟩"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "گھاہ وانگوں"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "اس دے دن"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "پھل وانگوں"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "کھییت دے"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اویں"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "کھلدا اے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:18:09.296242894Z",
+  "model": "glm-5.3"
+}

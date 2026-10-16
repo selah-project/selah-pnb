@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 30:9",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "تورات",
+      "rationale": "תורה نوں تورات رکھیا گیا، شریعت اکلا نئیں — پہلی واری ⟨ہدایت⟩ دا مل جائز اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בנים…בנים",
+      "rationale": "پُتر دا دوہرا سیاق عبرانی وچ زبردست وار اے، پنجابی وچ دہرائے نال قریب کیتا گیا"
+    }
+  ],
+  "translation": "کیوں جو ایہہ بغاوتی قوم اے، جھوٹھے پُتر، ایسے پُتر جیہڑے یاہوہ دی تورات سنن نئیں چاہندے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d9c3cdd6e72b7018789e5998f405807fc651f453f90483d284d48343a86c376b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/30\/9-12.1792106416859.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "بغاوتی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اے"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "כחשים",
+      "gloss": "جھوٹھے"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "אבו",
+      "gloss": "چاہندے"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "سنن"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "تورات"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-10-15T23:20:16.860358521Z",
+  "model": "glm-5.3"
+}

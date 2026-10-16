@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 36:17",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ہن⟩",
+      "rationale": "נא polite particle, Punjabi needs 'ہن' to carry the urging force"
+    },
+    {
+      "kind": "you",
+      "subject": "بروکھ",
+      "rationale": "officials directly question Baruch"
+    }
+  ],
+  "translation": "تے اوہناں نے ⟨את⟩ بروکھ نوں پُچھیا، کہ آکھن: سانوں ⟨ہن⟩ دس، تُسیں ایہہ ⟨את⟩ سارے بچن اوہدے مُنہ توں کویں لکھے؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "cce39b18a68f5c3c41bc55121e66e68bd582abf45ab879fd1912a88316731e24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/36\/17-20.1792108370989.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "بروکھ"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "بروکھ"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "پُچھیا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ آکھن"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "دس"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨ہن⟩"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "سانوں"
+    },
+    {
+      "surface": "איך",
+      "gloss": "کویں"
+    },
+    {
+      "surface": "כתבת",
+      "gloss": "لکھے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سارے بچن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "بچن"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "اوہدے مُنہ توں"
+    }
+  ],
+  "timestamp": "2026-10-15T23:52:50.989782642Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 11:23",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "והוריש \/ וירשתם",
+      "rationale": "اِکو جڑ י-ر-ش دو واری — یاہوہ کڈھوےگا تے تُسیں وِرسو؛ پنجابی وِچ اوہو جوڑ 'وِرثہ' نال رکھیا۔"
+    },
+    {
+      "kind": "you",
+      "subject": "یِسرائیل",
+      "rationale": "براہ راست وعدہ خطاب — تہاڈے اگّوں، تُساں توں۔"
+    }
+  ],
+  "translation": "تے یاہوہ اِناں ⟨את⟩ ساریاں قوماں نوں تہاڈے اگّوں توں کڈھ دیوےگا، تے تُسیں اجیہیاں قوماں نوں وِرسیو جیہڑیاں تُساں توں وڈیاں تے طاقتور نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "38e60c66f2c16f61d3068c29f686f3d6233eae9a43f14a39c4871d377fcdadd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/11\/21-24.1792099851149.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוריש",
+      "gloss": "تے کڈھ دیوےگا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ساریاں قوماں نوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساریاں"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "قوماں"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "اِناں"
+    },
+    {
+      "surface": "מלפניכם",
+      "gloss": "تہاڈے اگّوں توں"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "تے تُسیں وِرسیو"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قوماں نوں"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "وڈیاں"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "تے طاقتور"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "تُساں توں"
+    }
+  ],
+  "timestamp": "2026-10-15T21:30:51.151138606Z",
+  "model": "glm-5.3"
+}

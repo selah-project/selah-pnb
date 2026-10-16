@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 15:2",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "تِن سال",
+      "rationale": "راج دی مُدت دا حساب۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "عبرانی وِچ کوئی کریا نئیں — 'تے اوہدی ماں دا ناں معاکھاہ' — پنجابی جملے لئی 'سی' پایا گیا۔"
+    }
+  ],
+  "translation": "تِن سال اوہ یروشلایم وِچ راج کردا رہا؛ تے اوہدی ماں دا ناں معاکھاہ سی، اوہ اویشالوم دی دھی سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c0f4239ded6e08c0e1169d925b23011f5dee3cf3e75656d8b60d0865aa02fa4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/15\/1-4.1792104627308.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "تِن"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "راج کردا رہا"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "یروشلایم وِچ"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "تے…دا ناں"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "اوہدی ماں"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "معاکھاہ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دھی"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "اویشالوم"
+    }
+  ],
+  "timestamp": "2026-10-15T22:50:27.309490087Z",
+  "model": "glm-5.3"
+}

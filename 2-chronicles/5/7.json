@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 5:7",
+  "book": "2-chronicles",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "چار واری 'اتھے تک' والا אל آیا اے — تھاں دی پوڑی؛ پنجابی وِچ وکھو وکھ اُپسرگ نال دِتّا گیا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "کروب",
+      "rationale": "הכרובים حرف-نقل رکھیا؛ 'فرشتے' بعد دا خیال اے"
+    }
+  ],
+  "translation": "تے کاہناں نے یاہوہ دے عہد دے ⟨את⟩ صندوق نوں اوہدی تھاں تے لیاندیاں — گھر دے اندرونی کوٹھے وِچ، پوتراں دے پوتر وِچ، کروباں دے پراں ہیٹھ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3f938b32a4b31e42c83a9334b9c84d6b1548fa0639962a2da62cc8ec3c58611d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/5\/5-8.1792121682519.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "لیاندیاں"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاہناں نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صندوق"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "عہد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تے"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "اوہدی تھاں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "اندرونی کوٹھا"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پوتراں"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "دے پوتر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ہیٹھ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ہیٹھ"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "پراں"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "کروباں دے"
+    }
+  ],
+  "timestamp": "2026-10-16T03:34:42.520989969Z",
+  "model": "glm-5.3"
+}

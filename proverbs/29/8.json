@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 29:8",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יפיחו",
+      "rationale": "'پھونک مارنا': یا 'شہر نوں اگّ لاؤندے نیں' (کےجےویں\/جےپیئیس) یا 'شہر نوں پھندے وِچ پھساندے نیں' (کےجےویں\/جنیوا)۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "غصہ",
+      "rationale": "אף مول روپ وِچ 'نَکّ\/ناس اے — عبرانی وِچ غصہ ناساں وِچوں بھڑکدا اے۔"
+    }
+  ],
+  "translation": "ٹھٹھے مارن والے بندے شہر نوں بھڑکا دیندے نیں، پر سیانے غصہ موڑ دیندے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c644f8531f7bbd514f8bcfd93b0aaa606ef3edfad4bbfd71ecdbde04cafbe7dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/29\/5-8.1792115193695.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "לצון",
+      "gloss": "ٹھٹھے مارن والے"
+    },
+    {
+      "surface": "יפיחו",
+      "gloss": "بھڑکا دیندے نیں"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "شہر نوں"
+    },
+    {
+      "surface": "וחכמים",
+      "gloss": "پر سیانے"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "موڑ دیندے نیں"
+    },
+    {
+      "surface": "אף",
+      "gloss": "غصہ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:46:33.696703506Z",
+  "model": "glm-5.3"
+}

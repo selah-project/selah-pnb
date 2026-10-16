@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 10:25",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מעט מזער",
+      "rationale": "اکو جڑ توں دو واری — تھوڑا، تے بہوں تھوڑا — شدت ودھاؤنی، پنجابی وِچ دوہرا کیتا۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "کروڑ",
+      "rationale": "אפי دا مول مطلب اک ناس\/تُونٹ اے، غصے دی مورت — پنجابی وچ کروڑ آکھیا۔"
+    }
+  ],
+  "translation": "کیوں جو ہور تھوڑا، بہوں تھوڑا ⟨تھوڑا جی⟩، تے غصہ مک جاوے گا، تے میرا کروڑ اوہناں دی بربادی اُتے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "438a605020493ef5f74ec52fb910c7bb1b24fe4985580ad1fe993c939d1c7771",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/10\/25-28.1792105982613.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ہور"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "تھوڑا"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "بہوں تھوڑا ⟨تھوڑا جی⟩"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "تے مک جاوے گا"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "غصہ"
+    },
+    {
+      "surface": "ואפי",
+      "gloss": "تے میرا کروڑ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "תבליתם",
+      "gloss": "اوہناں دی بربادی"
+    }
+  ],
+  "timestamp": "2026-10-15T23:13:02.613714851Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 9:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אודה … אספרה",
+      "rationale": "دوویں فعل و-ہاں (cohortative) دے نیں — 'میں کراںگا' دی وار-وار دُہائی، تعریف دا وعدہ"
+    },
+    {
+      "kind": "addition",
+      "subject": "میں",
+      "rationale": "عبرانی دے فعل دی شخصیت پنجابی وچ لئی pronoun پایا"
+    }
+  ],
+  "translation": "سارے دل نال میں یاہوہ دی صفت کراںگا، میں تیرے سارے عجیب کماں دی گل کراںگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6d9df4af184fd4e81cc4b0d2ec260639cbfbd651ea58300a17f895f57dda1832",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/9\/1-4.1792111998315.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "میں صفت کراںگا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "دل نال"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "میں گل کراںگا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "تیرے عجیب کماں دی"
+    }
+  ],
+  "timestamp": "2026-10-16T00:53:18.315981438Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 12:3",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אתך",
+      "rationale": "H854 'نال' اے، H853 مفعول دا نشان نئیں — پر ایس ٹوکن نوں ⟨את⟩ ٹبر وِچ گِنیا گیا اے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "והקדשם",
+      "rationale": "'وکھ کر دے' — جڑ ק-ד-ש 'وکھ\/مقدس کرنا'؛ کجھ 'مقدس قرار دے' لیندے نیں"
+    },
+    {
+      "kind": "you",
+      "subject": "jeremiah 12:3",
+      "rationale": "یرمیاہ دی یاہوہ نال دوجی سدھی اپیل تے بدکاراں بارے بینتی"
+    }
+  ],
+  "translation": "تے تُوں، اے یاہوہ، مینوں جاندا اے؛ تُوں مینوں ویکھدا اے، تے میرا دل تیرے نال ⟨את⟩ پرکھیا اے — اوہناں نوں ذبح کرن لئی اَجّیاں ورگا کھسکا دے، تے ذبح دے دن لئی اوہناں نوں وکھ کر دے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9dab1baf5af0687d2c37826ffe32aaa84013f11b9a5ff62d329da27cb5749440",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/12\/1-4.1792107613330.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "تے تُوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "مینوں جاندا اے"
+    },
+    {
+      "surface": "תראני",
+      "gloss": "مینوں ویکھدا اے"
+    },
+    {
+      "surface": "ובחנת",
+      "gloss": "تے پرکھیا اے"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "میرا دل"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "تیرے نال ⟨את⟩",
+      "marks": "میرا دل"
+    },
+    {
+      "surface": "התקם",
+      "gloss": "اوہناں نوں کھسکا دے"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "اَجّیاں ورگا"
+    },
+    {
+      "surface": "לטבחה",
+      "gloss": "ذبح کرن لئی"
+    },
+    {
+      "surface": "והקדשם",
+      "gloss": "تے اوہناں نوں وکھ کر دے"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "دن لئی"
+    },
+    {
+      "surface": "הרגה",
+      "gloss": "ذبح دے"
+    }
+  ],
+  "timestamp": "2026-10-15T23:40:13.331751952Z",
+  "model": "glm-5.3"
+}

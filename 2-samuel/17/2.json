@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 17:2",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ורפה ידים",
+      "rationale": "عبرانی 'ہتھاں دا ڈھیلا ہونا' = کمزور\/ہارا ہویا؛ پنجابی وِچ 'ہتھاں توں ڈھیلا' رکھیا"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתו (دوجی واری)",
+      "rationale": "'اوہدے نال' وِچ עם دا اِلاء؛ معنی دا فرق نئیں پیندا"
+    }
+  ],
+  "translation": "تے میں اوہدے اُتے آواں، تے اوہ تھکا ہوئیا تے ہتھاں توں ڈھیلا ہووےگا، تے میں ⟨אתו⟩ اوہنوں دہشت پاواں، تے ساری قوم جِہڑی اوہدے نال ⟨את⟩ اے بھج جاوےگی، تے میں ⟨את⟩ بادشاہ نوں اِکلا ماراں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c5265f5c8454ac1fd503e1efb1042473f5112752bd36afd919893792c0b5e837",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/17\/1-4.1792103578278.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "تے آواں"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اوہدے اُتے"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "تے اوہ"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "تھکا ہوئیا"
+    },
+    {
+      "surface": "ורפה",
+      "gloss": "تے ڈھیلا"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "ہتھاں توں"
+    },
+    {
+      "surface": "והחרדתי",
+      "gloss": "تے میں دہشت پاواں"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "اوہنوں"
+    },
+    {
+      "surface": "ונס",
+      "gloss": "تے بھج جاوےگی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جِہڑی"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "اوہدے نال"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "تے میں ماراں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بادشاہ نوں"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "اِکلا"
+    }
+  ],
+  "timestamp": "2026-10-15T22:32:58.279725519Z",
+  "model": "glm-5.3"
+}

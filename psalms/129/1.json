@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 129:1",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 129,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩",
+      "rationale": " عبرانی وِچ فعل توں پہلاں ضمیر نئیں، پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רבת…צררוני",
+      "rationale": " آیت 1–2 وِچ ایہی جملہ دُہرایا گیا اے — تکرار دا بل، پنجابی وِچ وی دُہرایا اے"
+    },
+    {
+      "kind": "invitation",
+      "subject": "ہن آکھے، یِسرائیل",
+      "rationale": " یِسرائیل نوں سدیا گیا اے کہ اوہ ایہہ دہراؤے"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": " مخاطب یِسرائیل اے"
+    }
+  ],
+  "translation": "چڑھائیاں دا گیت۔ بہوں وار اوہناں مینوں تنگ کیتا، میرے نِکے پن توں — ہن ⟨اوہ⟩ آکھے، یِسرائیل۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "58285c11522c46da220725c3eb2919fded4da33396d06c57f96d1c2ceab1b499",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/129\/1-4.1792113987480.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "گیت"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "چڑھائیاں دا"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "بہوں وار"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "مینوں تنگ کیتا"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "میرے نِکے پن توں"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "آکھے"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ہن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-10-16T01:26:27.480602591Z",
+  "model": "glm-5.3"
+}

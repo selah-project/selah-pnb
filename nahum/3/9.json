@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nahum 3:9",
+  "book": "nahum",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوہدی",
+      "rationale": "عبرانی وِچ کوئی ضمیر نئیں؛ جملہ مُکاں دے بارے وِچ اے، پنجابی نوں ضمیر چاہیدی اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "تیرے کوئی انت نئیں سی",
+      "rationale": "קצה دی روایت وچ 'طاقت دا انت نئیں' (بے-انت طاقت) یا 'مَددگاراں دا انت نئیں' — دوواں پڑھائیاں موجود نیں"
+    },
+    {
+      "kind": "you",
+      "subject": "تیری مدد",
+      "rationale": "אתך (تیرے\/تیری) نِنووے ول سِدھا مخاطب اے"
+    }
+  ],
+  "translation": "کُش ⟨اوہدی⟩ طاقت سی، تے مِتصرایم، تے ⟨اوہدے⟩ کوئی انت نئیں سی؛ پُت تے لُوبیم تیری مدد وِچ سن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b48b1f17ed541b62080927e7e822b6ae7594b3355a1e7e7a664f5da7501b1309",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/nahum\/3\/9-12.1792111169948.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כוש",
+      "gloss": "کُش"
+    },
+    {
+      "surface": "עצמה",
+      "gloss": "طاقت"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "تے مِتصرایم"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "تے … نئیں سی"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "انت"
+    },
+    {
+      "surface": "פוט",
+      "gloss": "پُت"
+    },
+    {
+      "surface": "ולובים",
+      "gloss": "تے لُوبیم"
+    },
+    {
+      "surface": "היו",
+      "gloss": "سن"
+    },
+    {
+      "surface": "בעזרתך",
+      "gloss": "تیری مدد وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T00:39:29.948852238Z",
+  "model": "glm-5.3"
+}

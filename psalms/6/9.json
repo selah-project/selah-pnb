@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 6:9",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "کُوڑ",
+      "rationale": "און دی اصلی شکل 'کُوڑ\/خالی پن' اے — 'بے-دائی' کولوں ودھ کُوڑ والی تصویر اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "پنجابی فعل مکمل وچ معاون فعل منگدا اے، عبرانی وِچ نئیں"
+    },
+    {
+      "kind": "you",
+      "subject": "کُوڑ دے کردار کرن والیاں نوں",
+      "rationale": "blemish verse 8 دا دہراؤ — مطلب مِٹّھو بولن والیاں نوں سدّا"
+    }
+  ],
+  "translation": "میرے توں ہٹ جاؤ، سارے کُوڑ دے کردار کرن والے، کیونکہ یاہوہ نے میرے روونے دی آواز سنیا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "dee5ab1a9dc3fc8250d6136160d50a78697b673dfd9d2308735ae6651f3a9507",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/6\/9-11.1792111765752.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "ہٹ جاؤ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "میرے توں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "کردار کرن والے"
+    },
+    {
+      "surface": "און",
+      "gloss": "کُوڑ ⟨بے-دائی⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سنیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "בכיי",
+      "gloss": "میرے روونے دی"
+    }
+  ],
+  "timestamp": "2026-10-16T00:49:25.752899203Z",
+  "model": "glm-5.3"
+}

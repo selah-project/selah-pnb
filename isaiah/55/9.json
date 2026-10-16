@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 55:9",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גבהו",
+      "rationale": "اکو فعل دو واری — اسمان\/دھرتی تے راہ\/وچار دی اکو جوڑ، پنجابی وِچ وی دوہرایا اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "نیں",
+      "rationale": "عبرانی وِچ فعل دی جگہ کلاusi فراہم کیتی گئی۔"
+    },
+    {
+      "kind": "you",
+      "subject": "تہاڈے",
+      "rationale": "صیعَ\/دوجی شخص دی مخاطبت — اِسرائیل نے، جِداں آیت 55:8 وِچ۔"
+    }
+  ],
+  "translation": "کِیوں جے اسمان دھرتی توں اُچے نیں، اویں ای میرے راہ تہاڈے راہاں توں اُچے نیں تے میرے وچار تہاڈے وچاراں توں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "707efe8e388b8ae14e06693c42ae6d0dfa4746f3c02ea6ebe683db593e287ae2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/55\/9-12.1792106969005.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کِیوں جے"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "اُچے نیں"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "اسمان"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "دھرتی توں"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اویں ای"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "اُچے نیں"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "میرے راہ"
+    },
+    {
+      "surface": "מדרכיכם",
+      "gloss": "تہاڈے راہاں توں"
+    },
+    {
+      "surface": "ומחשבתי",
+      "gloss": "تے میرے وچار"
+    },
+    {
+      "surface": "ממחשבתיכם",
+      "gloss": "تہاڈے وچاراں توں"
+    }
+  ],
+  "timestamp": "2026-10-15T23:29:29.005933136Z",
+  "model": "glm-5.3"
+}

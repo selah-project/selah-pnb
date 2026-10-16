@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 121,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "میرا عون کتھوں آؤے گا؟",
+      "rationale": "מאין יבא עזרי سوال وی ہو سکدا اے تے اعلان وی — 'جتھوں میرا عون آؤندا اے' (جنیوا\/کے جے وی)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "למעלות \/ אשא",
+      "rationale": "چڑھائی تے اکھاں چکّنا — چڑھدے ہوئے اُتے ویکھنا، ایہو جوڑ مزمل وِچ پھیلیا اے"
+    }
+  ],
+  "translation": "چڑھائیاں دا گیت — اِیہ پہاڑاں ولّ میریاں اکھاں چکدا آں — میرا عون کتھوں آؤے گا؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8f07faf0f11916aa1ad6ab96a29c64b818bcebbde0b41505d274b77833588e39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/121\/1-4.1792113954138.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "گیت"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "چڑھائیاں دا"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "چکدا آں"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "میریاں اکھاں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ولّ"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "پہاڑاں"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "کتھوں"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "آؤے گا"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "میرا عون"
+    }
+  ],
+  "timestamp": "2026-10-16T01:25:54.139459560Z",
+  "model": "glm-5.3"
+}

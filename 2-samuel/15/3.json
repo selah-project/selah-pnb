@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 15:3",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "سِدھیاں",
+      "rationale": "ונכחים لفظی «سِدھے\/کھرے» — فیصلے دی گل وِچ «درست» وی ہو سکدا اے۔"
+    },
+    {
+      "kind": "you",
+      "subject": "مقدمہ والے بندے نوں",
+      "rationale": "اَوشالوم دا مخاطب اوہی بندہ اے جیہدے کول رِیب سی۔"
+    }
+  ],
+  "translation": "تے اَوشالوم اوہنوں آکھدا: ویکھ، تیریاں گلاں چنگیاں تے سِدھیاں نیں، پر بادشاہ ⟨את⟩ کولوں تینوں سنن والا کوئی نئیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "201f4dd1f5cdecb50786c1c5aaef4ab79a5359058b0639d0182326c31740a719",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/15\/1-4.1792103561320.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھدا"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اوہنوں"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "اَوشالوم"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ویکھ"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "تیریاں گلاں"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "چنگیاں"
+    },
+    {
+      "surface": "ונכחים",
+      "gloss": "تے سِدھیاں"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "تے سنن والا"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کوئی نئیں"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تینوں"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "بادشاہ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    }
+  ],
+  "timestamp": "2026-10-15T22:32:41.322212359Z",
+  "model": "glm-5.3"
+}

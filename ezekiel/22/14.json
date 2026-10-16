@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 22:14",
+  "book": "ezekiel",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אני עשה אותך",
+      "rationale": "مفسر وکھرے نیں: “تیرے نال کردا ہاں” (ظرف والا اِת) بمقابلہ “تینوں بناوندا ہاں” (مفعول والا את)۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "نال",
+      "rationale": "پنجابی جملے لئی positional τوکن دا وادha — عبرانی وِچ صرف אותך اے۔"
+    },
+    {
+      "kind": "you",
+      "subject": "یروشلایم",
+      "rationale": "پُچھݨ والے سوال راستے شہر نال کیتا گیا اے۔"
+    }
+  ],
+  "translation": "کی تیرا دل ٹکے گا، کی تیرے ہتھ مضبوط ہونگے — اُنہاں دناں وِچ جیہڑے میں تیرے نال ⟨את⟩ کر رہیا واں؟ میں یاہوہ نے بولیا تے میں کریگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6efb30509f12ccc59fe447d6ca6edaa22d0ef308ecd57effc4e12cbe6d8e5c65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/22\/13-16.1792109589878.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היעמד",
+      "gloss": "کی ٹکے گا"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "تیرا دل"
+    },
+    {
+      "surface": "אם",
+      "gloss": "کی"
+    },
+    {
+      "surface": "תחזקנה",
+      "gloss": "مضبوط ہونگے"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "تیرے ہتھ"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "دناں وِچ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑے"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کر رہیا واں"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "تیرے نال"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "نے بولیا"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "تے میں کریگا"
+    }
+  ],
+  "timestamp": "2026-10-16T00:13:09.878878562Z",
+  "model": "glm-5.3"
+}

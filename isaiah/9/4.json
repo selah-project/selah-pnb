@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 9:4",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "סאון \/ סאן",
+      "rationale": "دوویں لفظ تنخ وِچ صرف ایتھے آندے نیں — 'جُتی' تے 'جُتی پَئی ہویا'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סאון סאן",
+      "rationale": "اکو جڑھ دا دوہراؤ — جُتی تے جُتیا ہویا — عبرانی دی آواز دی جوڑی پنجابی وِچ 'جُتی … پَئی ٹُردی' نال رکھی گئی اے"
+    }
+  ],
+  "translation": "کیونکہ ہر جُتی جیہڑی تُرپ نال پَئی ٹُردی اے، تے اوڑنی جیہڑی لہو وِچ لُڑھکی ہوئی اے، اوہ سَڑن لئی ہووےگی، اگّ دے بالن ⟨لئی⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "20fb27f973d38d3fc8cba60489bbb6fab767816f6b9618c840519859f8263d13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/9\/1-4.1792105939558.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "סאון",
+      "gloss": "جُتی"
+    },
+    {
+      "surface": "סאן",
+      "gloss": "پَئی ٹُردی"
+    },
+    {
+      "surface": "ברעש",
+      "gloss": "تُرپ نال"
+    },
+    {
+      "surface": "ושמלה",
+      "gloss": "تے اوڑنی"
+    },
+    {
+      "surface": "מגוללה",
+      "gloss": "لُڑھکی ہوئی"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "لہو وِچ"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ہووےگی"
+    },
+    {
+      "surface": "לשרפה",
+      "gloss": "سَڑن لئی"
+    },
+    {
+      "surface": "מאכלת",
+      "gloss": "بالن"
+    },
+    {
+      "surface": "אש",
+      "gloss": "اگّ"
+    }
+  ],
+  "timestamp": "2026-10-15T23:12:19.559636980Z",
+  "model": "glm-5.3"
+}

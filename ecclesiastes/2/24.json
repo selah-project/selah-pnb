@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ecclesiastes 2:24",
+  "book": "ecclesiastes",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جان-قوت اے، کوئی وکھری روح نئیں۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "אין טוב באדם",
+      "rationale": "کی 'بندے وِچ کوئی بھلائی نئیں'، یا 'بھلائی بھلائی نئیں سِواے ایہدے کہ' — پُراݨیاں ترجماں دوویں پاسے جاندیاں نیں۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "سِواے اِس دے کہ",
+      "rationale": "عبرانی پہلا مطلب کھلوندا اے؛ پنجابی جملے لئی جوڑ پایا۔"
+    }
+  ],
+  "translation": "بندے لئی کوئی بھلائی نئیں سِواے اِس دے کہ اوہ کھاوے تے پیوے تے ⟨את⟩ اپنی جان نوں اپنی محنت وِچ بھلائی وکھاوے؛ ایہہ وی میں ویکھیا، کیوں جو ایہہ ایلوہیم دے ہتھوں اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6344e3e345b785b70ac819c376d0550f4fbadc5e4f69f5e0995771578cbed3a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ecclesiastes\/2\/21-24.1792117429492.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "بھلائی"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "بندے وِچ"
+    },
+    {
+      "surface": "שיאכל",
+      "gloss": "کہ کھاوے"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "تے پیوے"
+    },
+    {
+      "surface": "והראה",
+      "gloss": "تے وکھاوے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنی جان نوں"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "اپنی جان"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "بھلائی"
+    },
+    {
+      "surface": "בעמלו",
+      "gloss": "اپنی محنت وِچ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "میں ویکھیا"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ہتھوں"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "היא",
+      "gloss": "اے"
+    }
+  ],
+  "timestamp": "2026-10-16T02:23:49.493961446Z",
+  "model": "glm-5.3"
+}

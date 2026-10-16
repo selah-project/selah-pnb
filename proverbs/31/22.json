@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 31:22",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "مربدیم (מרבדים)",
+      "rationale": "'وڈھان\/بستر دی چادر' — ایہ لفظ تنخ وِچ صرف ایتھے آیا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "شیش",
+      "rationale": "شیش مہین سفید سُتی کپاہ اے؛ 'مہین سفید کپاہ' صورت رکھی اے، ریشم نئیں (کے جے وی دی بھُل)"
+    }
+  ],
+  "translation": "اوہ اپنے لئی وڈھان بناندی اے؛ اوہدا لباس مہین سفید کپاہ تے جامنی دا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5eac4d701ffd51344d8454f29a9617e2ef99fe52fbc32abd0564fd1ef28442da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/31\/21-24.1792115287840.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מרבדים",
+      "gloss": "وڈھان"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "بناندی اے"
+    },
+    {
+      "surface": "לה",
+      "gloss": "اپنے لئی"
+    },
+    {
+      "surface": "שש",
+      "gloss": "مہین سفید کپاہ"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "تے جامنی"
+    },
+    {
+      "surface": "לבושה",
+      "gloss": "اوہدا لباس"
+    }
+  ],
+  "timestamp": "2026-10-16T01:48:07.841564354Z",
+  "model": "glm-5.3"
+}

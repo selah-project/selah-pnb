@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 83:13",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "چارے",
+      "rationale": "נאות وشال چراگاہ\/وسنی تھاں اے — ‘گھر’ نئیں، جیویں کجھ پرانے ترجمے کردے نیں"
+    },
+    {
+      "kind": "you",
+      "subject": "دشمناں دے بارے وِچ دعا",
+      "rationale": "آیت 13 دشمناں دیاں گلاں دُہرا رہی اے جِنہاں نے ایلوہیم دے چاریاں اُتے دعویٰ کیتا"
+    }
+  ],
+  "translation": "جیہڑے آکھیا: “آؤ اسیں ⟨את⟩ ایلوہیم دے چارے اپنے لئی گھن لئیے۔”",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3a2aca48bae78c1fa2b32b6f4b36eeea1721c5d1353370da30cb41cfa9628ce8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/83\/13-16.1792113147515.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑے"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "נירשה",
+      "gloss": "گھن لئیے"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "اسیں، اپنے لئی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایلوہیم دے چارے"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "چارے"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-10-16T01:12:27.515912758Z",
+  "model": "glm-5.3"
+}

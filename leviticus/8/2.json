@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 8:2",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "list of items",
+      "rationale": "تقرُبی چیزاں دی گنتی والی لسٹ اے — اِک بَھینسا، دو مینڈھے، اِک ٹوکری"
+    },
+    {
+      "kind": "substitution",
+      "subject": "بَھینسا",
+      "gloss_target": "پر",
+      "rationale": "פר بَھینسا\/سورڈھا اے؛ کجھ ترجمے 'بَلّ' آکھدے نیں"
+    }
+  ],
+  "translation": "“اہرون نوں ⟨את⟩ تے اوہدے پُتراں نوں ⟨את⟩ اوہدے نال ⟨את⟩ لَو، تے پُ شاں نوں ⟨את⟩، تے مَش دا تیل ⟨את⟩، تے گُناہ دی قربانی دے بَھینسے نوں ⟨את⟩، تے دو مینڈھیاں نوں ⟨את⟩، تے بے خمیری روٹیاں دی ٹوکری نوں ⟨את⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "359e61bd7e59f02f881d920ce9d384266db146429ce2f0bede128791870f4375",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/8\/1-4.1792097476531.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "لَو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اہرون"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "پُتر"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "اوہدے پُتر"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ اوہدے نال"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "پُشاں"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "پُشاں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "تیل"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "تیل"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "مَش دا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "بَھینسا"
+    },
+    {
+      "surface": "פר",
+      "gloss": "بَھینسا"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "گُناہ دی قربانی دا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "مینڈھے"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دو"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "مینڈھے"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ٹوکری"
+    },
+    {
+      "surface": "סל",
+      "gloss": "ٹوکری"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "بے خمیری روٹیاں دی"
+    }
+  ],
+  "timestamp": "2026-10-15T20:51:16.532619072Z",
+  "model": "glm-5.3"
+}

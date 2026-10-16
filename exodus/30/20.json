@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 30:20",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نال",
+      "rationale": "عبرانی وِچ اوزار دا ’نال‘ نئیں، صرف מים ’پانی‘ اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "اگّ والی قربانی",
+      "rationale": "אשה دا سداorning ترجمہ ’اگّ نال چڑھائی گئی قربانی‘ — لفظی تصویر رکھی گئی"
+    }
+  ],
+  "translation": "جدوں اوہ اجتماع دے خیمے وِچ آون، پانی نال دھوون تاں جو اوہ نہ مرن؛ جاں جدوں اوہ قربانی گاہ ول نیڑے ہون، خِدمت کرن لئی، یاہوہ لئی اگّ والی قربانی ساڑن لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c2a1a6f17bc6b39a011243e57844f42c9a959608cdec24de1bdf7f64c7fbbd8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/30\/17-20.1792096970989.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בבאם",
+      "gloss": "جدوں اوہ … آون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ول"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمے"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "اجتماع دے"
+    },
+    {
+      "surface": "ירחצו",
+      "gloss": "دھوون"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پانی نال"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تاں جو … نہ"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "مرن"
+    },
+    {
+      "surface": "או",
+      "gloss": "جاں"
+    },
+    {
+      "surface": "בגשתם",
+      "gloss": "جدوں اوہ نیڑے ہون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ول"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "قربانی گاہ"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "خدمت کرن لئی"
+    },
+    {
+      "surface": "להקטיר",
+      "gloss": "ساڑن لئی"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "اگّ والی قربانی"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ لئی"
+    }
+  ],
+  "timestamp": "2026-10-15T20:42:50.990287047Z",
+  "model": "glm-5.3"
+}

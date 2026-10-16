@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 20:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "تکلیف",
+      "rationale": "צרה دی سِدھی شکل 'تنگی' اے — پنجابی وِچ 'تنگی دے دن' وی جائز اے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "تینوں بچاوے",
+      "rationale": "ישגבב دا مطلب اے 'اُچا کرنا، پہاڑ ورگا اَپہنچ بنا دینا' — KJV دا 'defend' ہلکا اے"
+    }
+  ],
+  "translation": "یاہوہ تینوں تکلیف دے دن وِچ جواب دےوے، یعقوو دے ایلوہیم دا ناں تینوں اُچا کرے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5153850697641f8e48b56e9f75a49ab15fc1715ffec9bae78abfebf663d00e12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/20\/1-4.1792112094032.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יענך",
+      "gloss": "تینوں جواب دےوے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "دن وِچ"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "تکلیف"
+    },
+    {
+      "surface": "ישגבך",
+      "gloss": "تینوں اُچا کرے"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناں"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ایلوہیم دا"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    }
+  ],
+  "timestamp": "2026-10-16T00:54:54.033230226Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 12:2",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "عبرانی nominal جملے وِچ کوپولا نئیں"
+    },
+    {
+      "kind": "measurement",
+      "subject": "چالی سال",
+      "rationale": "بادشاہی دے سالاں دی گنتی"
+    },
+    {
+      "kind": "crux",
+      "subject": "آیت دی نمبرنگ",
+      "rationale": "مصری متن دی 12:1–2 اُتے بائبل چھاپیاں وِچ ہٹ جاندی اے؛ پرکھ والے متن دا پاسہ رکھیا گیا"
+    }
+  ],
+  "translation": "یِہو دے ستّویں سال یِہوآش بادشاہ بنیا، تے چالی سال اوہنے یروشلایم وِچ بادشاہی کیتی؛ تے اوہدی ماں دا ناں تسیبیا سی، بیر-شیوا توں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0f72284d8fed7cd045d4b5c43a2df63901077305eddb3735653efbeca5a3cf4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/12\/1-4.1792105323693.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "…دے سال"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ستّویں"
+    },
+    {
+      "surface": "ליהוא",
+      "gloss": "یِہو دے"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ بنیا"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "یِہوآش"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "تے چالی"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہی کیتی"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "یروشلایم وِچ"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "تے ناں"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "اوہدی ماں دا"
+    },
+    {
+      "surface": "צביה",
+      "gloss": "تسیبیا"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "بیر"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-شیوا توں"
+    }
+  ],
+  "timestamp": "2026-10-15T23:02:03.694409336Z",
+  "model": "glm-5.3"
+}

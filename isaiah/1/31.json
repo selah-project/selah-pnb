@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 1:31",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ופעלו",
+      "rationale": "'اوہدا کم' (KJV\/ASV work) بمقابلہ 'اوہدا بنان والا' (Geneva maker) — دونوں پرانے ترجمے وچ موجود"
+    },
+    {
+      "kind": "addition",
+      "subject": "بندہ",
+      "rationale": "החסן صفت اے، نامزد اسم پنجابی منگدا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "ہووےگا",
+      "rationale": "ואין مکمل جملہ لئی معاون فعل"
+    }
+  ],
+  "translation": "تے زبردست ⟨بندہ⟩ سُٹی بن جائے گا تے اوہدا کم چنگھاڑ بن جائے گا، تے اوہ دوویں رَل کے بھڑکن گے تے ⟨کوئی⟩ بجھان والا نئیں ہووےگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a37068ecedaaa0091e09e7148eea6fe65a1401d31d456dc575b440ff7e178e94",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/1\/29-31.1792105786994.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "تے ہووےگا"
+    },
+    {
+      "surface": "החסן",
+      "gloss": "زبردست ⟨بندہ⟩"
+    },
+    {
+      "surface": "לנערת",
+      "gloss": "سُٹی بن جائے گا"
+    },
+    {
+      "surface": "ופעלו",
+      "gloss": "تے اوہدا کم"
+    },
+    {
+      "surface": "לניצוץ",
+      "gloss": "چنگھاڑ بن جائے گا"
+    },
+    {
+      "surface": "ובערו",
+      "gloss": "تے بھڑکن گے"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "اوہ دوویں"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "رَل کے"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "تے کوئی نئیں"
+    },
+    {
+      "surface": "מכבה",
+      "gloss": "بجھان والا"
+    }
+  ],
+  "timestamp": "2026-10-15T23:09:46.995944047Z",
+  "model": "glm-5.3"
+}

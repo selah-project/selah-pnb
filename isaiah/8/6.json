@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 8:6",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "شکلوخ دے پانی",
+      "rationale": "ہولی وگدے پانی = داؤد گھرانے دی نرم حکمرانی؛ اگلے بینے وچ ہڑھ دے اُلٹ"
+    },
+    {
+      "kind": "addition",
+      "subject": "نال",
+      "rationale": "‘خوشی منان’ نال کسے دے، عبرانی את پیشی اے"
+    }
+  ],
+  "translation": "ایس لئی کہ ایس قوم نے شکلوخ دے پانیاں نوں ⟨את⟩، جیہڑے ہولی ہولی وگدے نیں، ردّ کیتا اے، تے رتصین تے رملیاہو دے پتر نال ⟨את⟩ خوشی منائی اے؛",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ae956f6740edf3dd83b534d5057fb32e69ecf81f5f871274daf64ff86e8c7017",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/8\/5-8.1792105900845.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "ایس لئی کہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "ردّ کیتا"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شکلوخ دے پانی"
+    },
+    {
+      "surface": "מי",
+      "gloss": "پانی"
+    },
+    {
+      "surface": "השלח",
+      "gloss": "شکلوخ"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "وگدے"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "ہولی ہولی"
+    },
+    {
+      "surface": "ומשוש",
+      "gloss": "تے خوشی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رتصین"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "رتصین"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "تے پتر"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "رملیاہو"
+    }
+  ],
+  "timestamp": "2026-10-15T23:11:40.845853011Z",
+  "model": "glm-5.3"
+}

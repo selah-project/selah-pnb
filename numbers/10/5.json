@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 10:5",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ترُعہ",
+      "rationale": "תרועה لڑائی دا نعرہ جاں خُشی دا شور اے — بانسری دا مخصوص وجاؤن دا ناں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "החנים \/ יסעו",
+      "rationale": "חנה (ڈیرے لانا) تے נסע (ڈیرے چُکنے) دی واپسی — ڈیرے لاؤنے تے اُٹھن دا جوڑا، پنجابی وِچ پھِکی پے جاندی اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "قوم دا کوچ",
+      "rationale": "شور دیاں قسماں نال کوچ دا انتظام — آواز دے ذریعے حُکم"
+    }
+  ],
+  "translation": "تے تسیں ترُعہ وَجو، تاں چڑھدے پاسے کیمپاں نوں کوچ کرنا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "717952d3133a016172b31818774583bfda892fd96fc9a19050f0f015b9883edd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/10\/5-8.1792098505696.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקעתם",
+      "gloss": "تے تسیں وَجو"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "ترُعہ"
+    },
+    {
+      "surface": "ונסעו",
+      "gloss": "تاں … کوچ کرنا"
+    },
+    {
+      "surface": "המחנות",
+      "gloss": "کیمپاں نوں"
+    },
+    {
+      "surface": "החנים",
+      "gloss": "جو ڈیرے لا کے بیٹھے نیں"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "چڑھدے پاسے"
+    }
+  ],
+  "timestamp": "2026-10-15T21:08:25.697372849Z",
+  "model": "glm-5.3"
+}

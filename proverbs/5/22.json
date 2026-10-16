@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 5:22",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "پھسدا اے",
+      "rationale": "תמך دا مول مطلب 'پکڑی رکھنا\/سہارا دینا' اے — 'پھسنا' تصویر تے ٹِکدا اے پر سہارے والا پاسہ گوا چکا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "اوہ",
+      "rationale": "عبرانی وِچ ضمیر کریا دے صیغے وِچ اے، پنجابی وِچ وکھ لکھی جاندی اے"
+    }
+  ],
+  "translation": "اوہدیاں اودھائیاں ⟨את⟩ بدکار نوں پھد لیندیاں نیں، تے اوہدے پاپ دے رسےآں وِچ اوہ پھسدا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b802cf376f5e998710d0f74f02db44d05d94574c1cb2773fb7516b6370b71688",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/5\/21-23.1792114358985.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עוונותיו",
+      "gloss": "اوہدیاں اودھائیاں"
+    },
+    {
+      "surface": "ילכדנו",
+      "gloss": "پھد لیندیاں نیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بدکار"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "ובחבלי",
+      "gloss": "تے رسےآں وِچ"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "اوہدے پاپ"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "پھسدا اے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:32:38.985861811Z",
+  "model": "glm-5.3"
+}

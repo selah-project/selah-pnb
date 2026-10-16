@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 122,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "دی خاطر",
+      "rationale": "למען قصد دسدا اے، پنجابی نوں 'دی خاطر' چاہیدا اے"
+    },
+    {
+      "kind": "you",
+      "subject": "تیرے لئی",
+      "rationale": "پچھلی آیتاں وانگ یروشلایم نوں مخاطب"
+    }
+  ],
+  "translation": "یاہوہ ساڈے ایلوہیم دے گھر ⟨دی خاطر⟩، میں تیرے لئی بھلائی لبھاںگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d1e3aadcf74eaea365fa585b1ed22047f7bc5a1a698b41f8f4f823d55d7dda26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/122\/9-9.1792113946800.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "دی خاطر"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ساڈے ایلوہیم"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "میں لبھاںگا"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "بھلائی"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیرے لئی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:25:46.801373289Z",
+  "model": "glm-5.3"
+}

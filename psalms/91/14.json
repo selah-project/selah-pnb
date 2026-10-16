@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 91:14",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اس لئی",
+      "rationale": "عبرانی وِچ واو دا لڑ 'اس لئی' جوڑدا اے؛ پنجابی نوں صاف سیاق لئی چاہیدا۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חשק",
+      "rationale": "مول لفظ 'چِپکنا\/پیار کرنا' — 'چِبھنا' نیڑے دا پنجابی اے۔"
+    },
+    {
+      "kind": "you",
+      "subject": "عبد بارے یاہوہ دی گواہی",
+      "rationale": "ایہہ آیت یاہوہ دا اک پکے منن والے بارے اعلان اے — 91:14–16 یاہوہ دی اپنی آواز اے۔"
+    }
+  ],
+  "translation": "کیونجے اوہ میرے نال چِبھیا اے، اس لئی میں اوہنوں چھڑاواںگا؛ میں اوہنوں اُچا کراںگا، کیونجے اوہ میرا ناں جاندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "350e53d9d9d1a37ee4016964f01e5c78257c6a62f78b4d7de4dedb33cf8fdf58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/91\/13-16.1792113381220.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "בי",
+      "gloss": "میرے نال"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "چِبھیا اے"
+    },
+    {
+      "surface": "ואפלטהו",
+      "gloss": "اس لئی میں اوہنوں چھڑاواںگا"
+    },
+    {
+      "surface": "אשגבהו",
+      "gloss": "میں اوہنوں اُچا کراںگا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "جاندا اے"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "میرا ناں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:16:21.221016802Z",
+  "model": "glm-5.3"
+}

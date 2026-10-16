@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 23:15",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "چار سو شیکل چاندی",
+      "rationale": "قیمت تول دے حساب نال دسی گئی — وپاری معیار دی شیکل"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨دا مُل⟩",
+      "rationale": "عبرانی “زمین — چار سو شیکل چاندی” آکھدا اے، مُل دا لفظ نئیں"
+    },
+    {
+      "kind": "you",
+      "subject": "اَوراہام",
+      "rationale": "عفرون دی تقریر سِدھی اَوراہام نوں — “میرے سائیں” بندے لئی، ادونای ناں نئیں"
+    }
+  ],
+  "translation": "میرے سائیں، میری سُنو: زمین چار سو شیکل چاندی ⟨دا مُل⟩ اے — ایہہ میرے تے تہاڈے وِچکار کی اے؟ تے ⟨את⟩ تیرے مُردے نوں دفنا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d24cd75364b275d884ce75ebe797df1be05c710570fb1cce1de5f5ef114f5af1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/23\/13-16.1792095134639.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "میرے سائیں"
+    },
+    {
+      "surface": "שמעני",
+      "gloss": "میری سُنو"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "سو"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "شیکل"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندی"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "میرے تے"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "تے تہاڈے وِچکار"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اے"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "تیرے مُردے نوں"
+    },
+    {
+      "surface": "מתך",
+      "gloss": "تیرے مُردے"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "دفنا"
+    }
+  ],
+  "timestamp": "2026-10-15T20:12:14.640903401Z",
+  "model": "glm-5.3"
+}

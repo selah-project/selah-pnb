@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 8:11",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ست واری",
+      "rationale": "چھِڑکن دی گنتی — پوتر نمبر ست — رسم دی پیمائش اے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הכיר",
+      "rationale": "گول کَڈاں والا پاتر — پنجابی 'ہَوڑا' (کنڈھا) رکھیا۔"
+    }
+  ],
+  "translation": "تے اوس وِچوں قربانی گاہ اُتے ست واری چھِڑکا، تے قربانی گاہ نوں ⟨את⟩ مسح کیتا تے اوسدے سارے برتناں نوں ⟨وאת⟩، تے ہَوڑے نوں ⟨وאת⟩ تے اوسدی اِٹ نوں ⟨وאת⟩، اوہناں نوں پوتر کرن لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d225b7f9d93d930b325d629cb983ee9a4039735740fcce60835895c47e971b01",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/8\/9-12.1792097545992.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויז",
+      "gloss": "تے چھِڑکا"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "اوس وِچوں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "قربانی گاہ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ست"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "واری"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "تے مسح کیتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قربانی گاہ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "قربانی گاہ نوں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨وאת⟩",
+      "marks": "سارے برتن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "اوسدے برتن"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨وאת⟩",
+      "marks": "ہَوڑا"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "ہَوڑے نوں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨وאת⟩",
+      "marks": "اِٹ"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "اوسدی اِٹ نوں"
+    },
+    {
+      "surface": "לקדשם",
+      "gloss": "اوہناں نوں پوتر کرن لئی"
+    }
+  ],
+  "timestamp": "2026-10-15T20:52:25.993542452Z",
+  "model": "glm-5.3"
+}

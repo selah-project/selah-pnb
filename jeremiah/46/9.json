@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 46:9",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "سپاہ نوں",
+      "rationale": "حکری صورتاں (چڑھو، اُچھلّو، آؤ) میدان دے گھوڑیاں، رتھاں تے یودھاواں نوں سدّیاں نیں۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "דרכי קשת",
+      "rationale": "'کمان لت نال دَرھکنا' — عبرانی پکا اے (کمان لت نال دب کے چکھی جاندی سی)؛ بعض مترجم 'کمان چلان والے' دسدے نیں۔"
+    },
+    {
+      "kind": "hapax",
+      "subject": "פוט قوم دا ناں",
+      "rationale": "پُوٹ ہام دے پُتر دی نسل، ایتھے مصر دی فوج وِچ مِتر دے طور تے۔"
+    }
+  ],
+  "translation": "گھوڑیو، چڑھو، تے رتھو، اُچھلّو، تے یودھا نِکھڑ کے آؤ — کُوش تے پُوٹ، ڈھال پھڑن والے، تے لُدّی، کمان لت نال دَرھکن والے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ec76fb69bfdfe871043a684f6f5c82bbe4cffd08eaf04bf8f265916ebf1fcd14",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/46\/9-12.1792108557841.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עלו",
+      "gloss": "چڑھو"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "گھوڑیو"
+    },
+    {
+      "surface": "והתהללו",
+      "gloss": "اُچھلّو"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "رتھو"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "نِکھڑ کے آؤ"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "یودھا"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "کُوش"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "تے پُوٹ"
+    },
+    {
+      "surface": "תפשי",
+      "gloss": "پھڑن والے"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ڈھال"
+    },
+    {
+      "surface": "ולודים",
+      "gloss": "تے لُدّی"
+    },
+    {
+      "surface": "תפשי",
+      "gloss": "دَرھکن والے"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "لت نال"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "کمان"
+    }
+  ],
+  "timestamp": "2026-10-15T23:55:57.842235434Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 53:6",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 53,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "میٹھ دِتا",
+      "rationale": "הפגיע بس 'مِلایا\/ٹکرایا' اے — پنجابی جملے لئی پورا کریہہ لوڑیا"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כלנו ... כלנו",
+      "rationale": "آیت دی مُڈھ تے انت اِکو لفظ نال — چیاسٹِک نیہہ، پنجابی وِچ دو واری 'سارے' راہیں رکھی"
+    }
+  ],
+  "translation": "اسیں سارے بھیڈاں وانگ بھٹک گئے، اِک اِک بندہ اپنے راہ مُڑ گیا، تے یاہوہ نے اوہدے اُتے ⟨את⟩ ساڈے سارےآں دا پاپ میٹھ دِتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4d63df52a4df18b1a31bd66c289fd2d65278892628aab788f92367315dd1bdfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/53\/5-8.1792106995963.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כלנו",
+      "gloss": "اسیں سارے"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "بھیڈاں وانگ"
+    },
+    {
+      "surface": "תעינו",
+      "gloss": "بھٹک گئے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "اِک اِک بندہ"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "اپنے راہ"
+    },
+    {
+      "surface": "פנינו",
+      "gloss": "مُڑ گیا"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "تے یاہوہ نے"
+    },
+    {
+      "surface": "הפגיע",
+      "gloss": "مِلایا"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوہدے اُتے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ساڈے سارےآں دا پاپ"
+    },
+    {
+      "surface": "עון",
+      "gloss": "پاپ"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "ساڈے سارےآں دا"
+    }
+  ],
+  "timestamp": "2026-10-15T23:29:55.964474595Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 26:1",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "مעשה חשב",
+      "rationale": "'اُستاد تَکّی دا کَم' — اِک وِکار دا ناں اے جیہڑا سوچ کے بنایا جاندا اے، عام 'کشیدہ کاری' نئیں"
+    },
+    {
+      "kind": "measurement",
+      "subject": "دس پردے",
+      "rationale": "مسکن دے پردیاں دی گنتی دسی گئی اے"
+    }
+  ],
+  "translation": "تے ⟨את⟩ مسکن دی تُوں دس پردے بنائیں — بُنی ہوئی سُوتی، تے نیلا، تے ارغوانی، تے کِرمزی سُرخی دے؛ کروباں دے نال، اُستاد تَکّی دے کَم دے، تُوں اوہناں نوں بنائیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "05f50be337aa0bc8e60bc8f241b60b061d1c6fd6af66a52c361de9576b52c249",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/26\/1-4.1792096889357.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "مسکن"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مسکن"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "تُوں بنائیں"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دس"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "پردے"
+    },
+    {
+      "surface": "שש",
+      "gloss": "سُوتی"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "بُنی ہوئی"
+    },
+    {
+      "surface": "ותכלت",
+      "gloss": "تے نیلا"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "تے ارغوانی"
+    },
+    {
+      "surface": "ותלעת",
+      "gloss": "تے کِرمزی دا"
+    },
+    {
+      "surface": "שני",
+      "gloss": "سُرخی"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "کروباں دے نال"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کَم"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "اُستاد تَکّی دے"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "تُوں بنائیں"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "اوہناں نوں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:41:29.358583959Z",
+  "model": "glm-5.3"
+}

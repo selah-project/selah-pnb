@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 80:10",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פנית לפניה",
+      "rationale": "بنی مطلب «توں اوہدے اگے منہ موڑیا» — مترجماں ایہنوں «جگہ خالی کیتی \/ صاف کیتی» کردے نیں؛ ایتھے بُنی تصویر رکھی گئی اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ותשרש שרשיה",
+      "rationale": "שׁרשׁ جڑ دا فعل تے اسم اِکو جڑھ توں — پنجابی وِچ «جڑاں گڈّ لے گیا \/ جڑاں» نال بچایا گیا"
+    }
+  ],
+  "translation": "توں اوہدے اگے ⟨جگہ⟩ کھُلھی، تے اوہ اپنیاں جڑاں گڈّ لے گیا تے دھرتی نوں بھر دِتی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f33c1cf4617afbd1aeae9a2c34c1d7521ce9f269390f2ec6ebc6017da2aa271d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/80\/9-12.1792113142965.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פנית",
+      "gloss": "توں جگہ کھُلھی"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "اوہدے اگے"
+    },
+    {
+      "surface": "ותשרש",
+      "gloss": "تے جڑاں گڈّ لے گیا"
+    },
+    {
+      "surface": "שרשיה",
+      "gloss": "اپنیاں جڑاں"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "تے بھر دِتی"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "دھرتی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:12:22.965949094Z",
+  "model": "glm-5.3"
+}

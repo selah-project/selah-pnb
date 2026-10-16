@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 41:5",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جان-قوت اے، صرف 'روح' نئیں"
+    },
+    {
+      "kind": "you",
+      "subject": "یاہوہ",
+      "rationale": "دعا سدھی یاہوہ نوں پکاری جاندی اے"
+    }
+  ],
+  "translation": "میں آکھیا: یاہوہ، میں اُتے مہربان ہو، میری جان نوں شفا دے، کیوں جے میں تیرے اگّوں گناہ کیتا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f45fa4f4a0f912c1c808f8005b62c7353607d92c3cc69f7a076171bb18f6ed49",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/41\/5-8.1792112446521.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "مینوں مہربان ہو"
+    },
+    {
+      "surface": "רפאה",
+      "gloss": "شفا دے"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میری جان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جے"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "گناہ کیتا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیرے اگّوں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:00:46.522147771Z",
+  "model": "glm-5.3"
+}

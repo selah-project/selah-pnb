@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 1:12",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "پلشتیم دا جم گھر",
+      "rationale": "عبرانی دا ترتیب پلشتیم نوں کَسلوحیم توں کڈھدا اے، پر عامور 9:7 اوہناں نوں کَپتوریم توں کڈھدا اے — مترجم ایتھے وکھرے نیں۔"
+    },
+    {
+      "kind": "elision",
+      "subject": "ילד",
+      "rationale": "پچھلی آیت دا فعل ایتھے جاری سمجھیا گیا — عبرانی وِچ ایتھے کوئی فعل نئیں، پنجابی وِچ وی نئیں لیایا۔"
+    }
+  ],
+  "translation": "تے ⟨את⟩ پَتروسیم نوں تے ⟨את⟩ کَسلوحیم نوں — اوتھوں پلشتیم نِکلے — تے ⟨את⟩ کَپتوریم نوں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9b5888fbf65f9e717aa460ff9a70779cb08c90f5c0943681bd3f83818a42d0fd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/1\/9-12.1792120087617.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "پَتروسیم نوں"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "پَتروسیم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "کَسلوحیم نوں"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "کَسلوحیم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جتھوں"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "نِکلے"
+    },
+    {
+      "surface": "משם",
+      "gloss": "اوتھوں"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "پلشتیم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "کَپتوریم نوں"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "کَپتوریم"
+    }
+  ],
+  "timestamp": "2026-10-16T03:08:07.618922866Z",
+  "model": "glm-5.3"
+}

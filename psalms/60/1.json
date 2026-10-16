@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "شושן עדות",
+      "rationale": "Shushan-Eduth: 'lily of testimony' — name of a tune, kept transliterated rather than translated"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מכתם",
+      "rationale": "rare technical term for a poem\/inscription, transliterated as مِکتام"
+    }
+  ],
+  "translation": "مُنتظم لئی، شُوشن عیدُوت اُتے، داوِد دا مِکتام، سکھاون لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "355980abfbaa019127ae05d270b32ba9952e398369a1570b8b40c234829c51d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/60\/1-4.1792112766710.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "مُنتظم لئی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "شُوشن"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "عیدُوت"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "مِکتام"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد دا"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "سکھاون لئی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:06:06.710950787Z",
+  "model": "glm-5.3"
+}

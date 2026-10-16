@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 6:4",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نیں",
+      "rationale": "عبرانی وِچ کنی operator نئیں، پنجابی نے ⟨نیں⟩ منگیا۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "خانداناں دی لسٹ",
+      "rationale": "لِوی دے خاندان اَباں دے مُطابق گِنے گئے۔"
+    }
+  ],
+  "translation": "مِراری دے پُتر: مَحلی تے مُوشی۔ تے ایہہ اِیم نیں لِوی دے خانداناں دے، اپنے اَباں دے مُطابق۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f58c106bd707b7e1e1544f436b6674ac016de478aa40c3e4ee95b3d456778c5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/6\/1-4.1792120345274.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "مِراری"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "مَحلی"
+    },
+    {
+      "surface": "ומשי",
+      "gloss": "تے مُوشی"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "تے ایہہ"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "خاندان"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "لِوی دے"
+    },
+    {
+      "surface": "לאבותיהם",
+      "gloss": "اپنے اَباں دے مُطابق"
+    }
+  ],
+  "timestamp": "2026-10-16T03:12:25.275160655Z",
+  "model": "glm-5.3"
+}

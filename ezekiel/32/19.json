@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 32:19",
+  "book": "ezekiel",
+  "lang": "pnb",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨دے نال⟩",
+      "rationale": "عبرانی وِچ 'نال' دا لفظ نئیں، صرف את دی نشاندہی"
+    },
+    {
+      "kind": "crux",
+      "subject": "נעמת",
+      "rationale": "'سوہنا\/منموہن' بمقابلہ 'چنگی صورت والا' — پرچھیاں سوال وجہ توں طعنہ بنیا ہویا"
+    },
+    {
+      "kind": "you",
+      "subject": "مِتصرایم نال",
+      "rationale": "مِتصرایم نوں سدّا — طنز والا سوال"
+    }
+  ],
+  "translation": "تُوں کِس توں سوہنیاں ایہہ؟ اتار اوہنوں، تے غیر-ختنہ کیتے ہوئیاں ⟨دے نال⟩ لَٹا دے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "eb4619097714268d26e62c845b47fb33c3340b71b087247bca010ce21b2354bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/32\/17-20.1792109877741.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ממי",
+      "gloss": "کِس توں"
+    },
+    {
+      "surface": "נעמת",
+      "gloss": "سوہنیاں ایہہ"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "اتار"
+    },
+    {
+      "surface": "והשכבה",
+      "gloss": "تے لَٹا دے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "غیر-ختنہ کیتے ہوئے"
+    },
+    {
+      "surface": "ערלים",
+      "gloss": "غیر-ختنہ کیتے ہوئے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:17:57.742146897Z",
+  "model": "glm-5.3"
+}

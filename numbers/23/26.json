@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 23:26",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوہی",
+      "rationale": "پنجابی سوال والی سطر لئی 'اوہی' فقرے وِچ آیا، عبرانی وِچ صرف אתו اے۔"
+    },
+    {
+      "kind": "you",
+      "subject": "بالاق",
+      "rationale": "بلعام سِدھا بالاق دے سوال دا جواب دیندا اے۔"
+    }
+  ],
+  "translation": "تے بلعام نے جواب دِتا تے بالاق نوں آکھیا: کی میں تینوں نئیں آکھیا سی، آکھ کے، جو کجھ یاہوہ آکھے گا ⟨אתו⟩ اوہی میں کراں گا؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c3b31df4a71248b783e76668eac1d073e098db14a578b995522147c3a6dde198",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/23\/25-28.1792099021137.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "تے جواب دِتا"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بلعام"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بالاق"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "کی… نئیں"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "میں آکھیا سی"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تینوں"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ کے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "جو کجھ وی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "آکھے گا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "اوہی"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "میں کراں گا"
+    }
+  ],
+  "timestamp": "2026-10-15T21:17:01.138309216Z",
+  "model": "glm-5.3"
+}

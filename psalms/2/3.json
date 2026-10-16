@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 2:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "آؤ اسیں",
+      "rationale": "عبرانی پہلے شخص جمع دا فعل ای اے، پنجابی نوں بلاؤن والا فعل چاہیدا سی؛ اینوں سُنجانا بغیر نئیں رکھیا گیا — عبرانی دی گواہی صرف فعل دی اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מוסרות\/עבתימו",
+      "rationale": "بَند تے رسی — بَندی دے دو درجے، قیدی دی درڑی تے پھڈی، اکو تصویر نوں دُہرایا"
+    }
+  ],
+  "translation": "آؤ اسیں ⟨את⟩ اوہناں دے بَند پاڑ سُٹیے،تے اوہناں دیاں رسیاں اِس توں سُٹ دیئیے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "da8a75b40a107b51d77aecac28add6566eac14ccbded1c29b7ae567704b28035",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/2\/1-4.1792111834234.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ננתקה",
+      "gloss": "پاڑ سُٹیے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہناں دے بَند"
+    },
+    {
+      "surface": "מוסרותימו",
+      "gloss": "اوہناں دے بَند"
+    },
+    {
+      "surface": "ונשליכה",
+      "gloss": "تے سُٹ دیئیے"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "اِس توں"
+    },
+    {
+      "surface": "עבתימו",
+      "gloss": "اوہناں دیاں رسیاں"
+    }
+  ],
+  "timestamp": "2026-10-16T00:50:34.234845619Z",
+  "model": "glm-5.3"
+}

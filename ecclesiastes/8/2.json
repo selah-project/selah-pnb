@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אני פי מלך שמור",
+      "rationale": "عبرانی ٹوٹا ولھیٹیا ہویا اے: 'میں، بادشاہ دا بچن، رکھو' — ونّ سونّ پڑھائیاں نیں: 'میں حکم دندا آں بادشاہ دا بچن رکھو' یا 'میں بادشاہ دے بچن نوں رکھدا آں'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨آکھدا آں⟩",
+      "rationale": "عبرانی وچ صرف אני اے؛ فعل دی لوڑ پئی"
+    }
+  ],
+  "translation": "میں ⟨آکھدا آں⟩: بادشاہ دا بچن رکھو، تے ایلوہیم دی قسم ⟨دے لحاظ نال⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ab5194fb5734e8ad5b6da3ed010248d0ee08189ca164c81a73ecc7e041f31d73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ecclesiastes\/8\/1-4.1792117560391.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "פי",
+      "gloss": "بچن"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ دا"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "رکھو"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "تے ⟨دے لحاظ نال⟩"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "⟨لحاظ⟩"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "قسم"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم دی"
+    }
+  ],
+  "timestamp": "2026-10-16T02:26:00.391890967Z",
+  "model": "glm-5.3"
+}

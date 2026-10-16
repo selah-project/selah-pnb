@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 48:11",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "למעני למעני",
+      "rationale": "دوہراؤ، عبرانی دی دوہری آواز اے — پنجابی وِچ وکھری تھاں تے ٹکدا اے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "יֵחָל",
+      "rationale": "کجھ پڑھدے نیں چلّل 'بے عِزّت ہونا' (ناں بِگڑے)، کجھ یָחַל 'مُکّ جانا' — پنجابی دوناں نوں سار دیندا اے"
+    }
+  ],
+  "translation": "اپنے لئی، اپنے لئی ایہہ کراںگا — کیونکہ کِویں بِگڑ سکدا اے؟ — تے اپنا جلال کسے ہور نوں نئیں دِتا کراںگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "aea10bb6079315e970392956cb073072c25df5b44bc079eeca30aeaf70c2eb1a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/48\/9-12.1792106775700.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למעני",
+      "gloss": "اپنے لئی"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "اپنے لئی"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ایہہ کراںگا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "איך",
+      "gloss": "کیونکہ کِویں"
+    },
+    {
+      "surface": "יחל",
+      "gloss": "بِگڑ سکدا اے"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "تے اپنا جلال"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "کسے ہور نوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "دِتا کراںگا"
+    }
+  ],
+  "timestamp": "2026-10-15T23:26:15.701206995Z",
+  "model": "glm-5.3"
+}

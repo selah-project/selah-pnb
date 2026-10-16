@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 1:6",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יודע",
+      "rationale": "'جاندا اے' بمقابلہ JPS دا 'regardeth' — عبرانی فعل علم دا اے، راکھی دا نئیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "برباد ہو جاویگا",
+      "rationale": "אבד دا مول مطلب 'بھٹک کے مٹ جانا' اے"
+    }
+  ],
+  "translation": "کیونکہ یاہوہ صدقیاں دا رستہ جاندا اے، تے بے-ایماناں دا رستہ برباد ہو جاویگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7e04e106a071e4805e985b8f507baa435d69de80961220bb5df2be62ecdb2450",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/1\/5-6.1792111759703.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "جاندا اے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "رستہ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "صدقیاں دا"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "تے رستہ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بے-ایماناں دا"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "برباد ہو جاویگا"
+    }
+  ],
+  "timestamp": "2026-10-16T00:49:19.704132707Z",
+  "model": "glm-5.3"
+}

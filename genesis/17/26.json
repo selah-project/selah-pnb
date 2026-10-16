@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 17:26",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בעצם היום",
+      "rationale": "مُ字ّ 'ہڈّی' دا اے — 'دن دی ہڈّی' یعنی عین اِکو دن؛ 'اِکو' پنجابی وِچ واٹک اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "ختنہ ہویا ⟨تے یِشمَعیل⟩",
+      "rationale": "دوجی گلاں وِچ عبرانی فعل صرف اِک واری اے؛ پنجابی جملے لئی 'دا ختنہ ہویا' اُگّوں دُہرایا گیا۔"
+    }
+  ],
+  "translation": "اِکو اِس دن اَوراہام دا ختنہ ہویا، تے اُوہدا پُتر یِشمَعیل۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a6beab6822bee82278c6e44c2cb090a89e522747cbef60b090284250f8c6948d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/17\/25-27.1792094972261.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעצם",
+      "gloss": "اِکو"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اِس دن"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اِس"
+    },
+    {
+      "surface": "נמול",
+      "gloss": "ختنہ ہویا"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراہام"
+    },
+    {
+      "surface": "וישמעאל",
+      "gloss": "تے یِشمَعیل"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اُوہدا پُتر"
+    }
+  ],
+  "timestamp": "2026-10-15T20:09:32.262151293Z",
+  "model": "glm-5.3"
+}

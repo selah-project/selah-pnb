@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 49:4",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "את — نال\/کیہڑا نشان",
+      "rationale": "ایتھے את پیش دی طرح 'کول\/نال' کم کردا اے (میرا انصاف یاہوہ کول اے) — Selah نشان ⟨את⟩ رکھدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "میرا انصاف",
+      "rationale": "משפטی 'فیصلہ\/حق' اے — JPS 'my right'، BSB 'vindication'؛ 'انصاف' نیڑے اے پَر اِک لفظ نئیں پُدا"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לריק \/ לתהו והבל",
+      "rationale": "تِن ویکار دے لفظ اِک سِلسلہ — תהו اوتھو ای لفظ اے جیہڑا پیدائش 1:2 وِچ اے؛ پنجابی وِچ سِلسلہ دی گونج ہولی رہِ جاندی اے"
+    }
+  ],
+  "translation": "تے میں آکھیا: ویکار وِچ میں ہار گیا، ویرانی تے فلط وِچ اپنی طاقت کھپا دتی؛ پَر سچ مَچّ میرا انصاف یاہوہ ⟨את⟩ کول اے، تے میرا کم میرے ایلوہیم ⟨את⟩ کول اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "85ad3399b816184519876bf3c16aa2a936ac1fdc3ae4aea8d378dcd7f6a8debc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/49\/1-4.1792106889703.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "تے میں"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "میں آکھیا"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "ویکار وِچ"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "میں ہار گیا"
+    },
+    {
+      "surface": "לתהו",
+      "gloss": "ویرانی"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "تے فلط"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "اپنی طاقت"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "کھپا دتی"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "پَر سچ مَچّ"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "میرا انصاف"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ופעלתי",
+      "gloss": "تے میرا کم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میرے ایلوہیم"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "میرے ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-10-15T23:28:09.704501420Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 105:7",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ای",
+      "rationale": "עברانی وِچ کاپلا نئیں؛ پنجابی جملہ منگدا اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "نیں",
+      "rationale": "فعل ہونا پنجابی نے پایا، عبرانی وِچ نئیں۔"
+    }
+  ],
+  "translation": "اوہ ⟨ای⟩ یاہوہ، ساڈا ایلوہیم؛ ساری دھرتی وِچ ⟨نیں⟩ اوہدے فیصلے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f9375e1b687a7059db0197c0fb73fffc6371e415f950beb4ed1390fbe2cc10b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/105\/5-8.1792113572225.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ساڈا ایلوہیم"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "دھرتی"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "اوہدے فیصلے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:19:32.226681313Z",
+  "model": "glm-5.3"
+}

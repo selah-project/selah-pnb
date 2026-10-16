@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 27:20",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Moses",
+      "rationale": "Direct second-person command: 'and you shall command the children of Israel.'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "oil spec",
+      "rationale": "Defines the lamp oil by process: clear, beaten — a quality standard."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨بالی⟩",
+      "rationale": "Punjabic 'چراغ بلان لئی' needs the wick\/wick-lamp sense of נר spelled out."
+    }
+  ],
+  "translation": "تے تُوں یِسرائیل دے پُتراں نوں حکم دیویں، تے اوہ تیرے کول لیاؤن پیسیاں دا رلیا ہویا زیتون دا چوکھا تازہ تیل، چراغ ⟨بالی⟩ نوں سدا بلان لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f1398718c3bbea2402730bdb3602f357070127879906a933206daa8aa99117b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/27\/17-20.1792096852196.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "تے تُوں"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "حکم دیویں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یِسرائیل دے پُتراں نوں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل دے"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "تے اوہ لیاؤن"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تیرے کول"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "تیل"
+    },
+    {
+      "surface": "זית",
+      "gloss": "زیتون دا"
+    },
+    {
+      "surface": "זך",
+      "gloss": "چوکھا تازہ"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "رلیا ہویا"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "چراغ لئی"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "بلان لئی"
+    },
+    {
+      "surface": "נר",
+      "gloss": "چراغ ⟨بالی⟩"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "سدا"
+    }
+  ],
+  "timestamp": "2026-10-15T20:40:52.197680832Z",
+  "model": "glm-5.3"
+}

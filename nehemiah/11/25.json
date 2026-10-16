@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "nehemiah 11:25",
+  "book": "nehemiah",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "دھیاں",
+      "rationale": "בנות 'دھیاں' مطلب ذیلی قصبے نیں — عبرانی روپ 'دھیاں' ای رکھیا، ⟨قصبیاں⟩ نال وضاحت"
+    },
+    {
+      "kind": "addition",
+      "subject": "کجھ",
+      "rationale": "عبرانی وِچ کوئی صفت نئیں، صرف מבני יהודה"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ٹکانے",
+      "rationale": "یہودا دے قبیلے دے وسن دے تھاواں دی لسٹ — ناواں دا گِنتی-_catalog"
+    }
+  ],
+  "translation": "تے پنڈاں وِچ، اپنیاں کھیتاں سمیت — یہودا دے پُتراں وِچوں ⟨کجھ⟩ رہے قِریات-اَربَع وِچ تے اوہدیاں دھیاں ⟨قصبیاں⟩ وِچ، تے دیبون تے اوہدیاں دھیاں ⟨قصبیاں⟩ وِچ، تے یِکبتسئیل تے اوہدے پنڈاں وِچ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "97e754f21c9d2e45a5ba1690d390d31413eb0f1e2340090be27a884c3dcc0be6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/nehemiah\/11\/25-28.1792119906530.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "تے … وِچ"
+    },
+    {
+      "surface": "החצרים",
+      "gloss": "پنڈاں"
+    },
+    {
+      "surface": "בשדתם",
+      "gloss": "اپنیاں کھیتاں سمیت"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "پُتراں وِچوں"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہودا"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "رہے"
+    },
+    {
+      "surface": "בקרית",
+      "gloss": "قِریات-اَربَع وِچ"
+    },
+    {
+      "surface": "הארבע",
+      "gloss": "⟨اَربَع⟩"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "تے اوہدیاں دھیاں ⟨قصبیاں⟩ وِچ"
+    },
+    {
+      "surface": "ובדיבן",
+      "gloss": "تے دیبون"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "تے اوہدیاں دھیاں ⟨قصبیاں⟩ وِچ"
+    },
+    {
+      "surface": "וביקבצאל",
+      "gloss": "تے یِکبتسئیل"
+    },
+    {
+      "surface": "וחצריה",
+      "gloss": "تے اوہدے پنڈاں وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T03:05:06.530799066Z",
+  "model": "glm-5.3"
+}

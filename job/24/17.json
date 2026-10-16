@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 24:17",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יכיר",
+      "rationale": "'اوہ پچھاندے نیں' (ASV) بمقابلہ 'جے کوئی اوہناں نوں پچھانے' (KJV) — فاعل مبہم اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "پنجابی جملے لئی ایہ لڑی چاہیدی اے جیہڑی عبرانی وِچ نئیں۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "موت-پچھا",
+      "rationale": "צלמות دا مُڈھلا چِتر 'موت دا سایہ' اے — اِک ہائیفن نال جوڑیا۔"
+    }
+  ],
+  "translation": "کیونجے اِکو سویر اوہناں لئی موت-پچھا اے، کیونجے اوہ موت-پچھے دے ہولناکاں نوں پچھان لیندے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "413a27be091c0d8942678c66a29ee6385c11d96b0bd12cf7b2ce050ce76ee944",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/24\/17-20.1792116117722.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "اِکو"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "سویر"
+    },
+    {
+      "surface": "למו",
+      "gloss": "اوہناں لئی"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "موت-پچھا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "יכיר",
+      "gloss": "پچھان لیندے نیں"
+    },
+    {
+      "surface": "בלהות",
+      "gloss": "ہولناکاں نوں"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "موت-پچھے"
+    }
+  ],
+  "timestamp": "2026-10-16T02:01:57.723267853Z",
+  "model": "glm-5.3"
+}

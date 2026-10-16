@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 1:21",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "دناں دا قربانی",
+      "rationale": "זבח הימים — 'دناں دا قربانی' یعنی سالانہ قربانی، پر لفظی روپ 'دن' جمع اے، کجھ مترجم 'سالانہ' لکھدے نیں۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "پورا کرن",
+      "rationale": "عبرانی وِچ صرف 'تے اپنا نذر' اے؛ کریا پنجابی جملے لئی پایا گیا۔"
+    }
+  ],
+  "translation": "تے اوہ بندہ اَلکانہ تے اوہدا سارا گھر چڑھیا، یاہوہ لئی ⟨את⟩ دناں دا قربانی ذبح کرن تے ⟨את⟩ اپنا نذر ⟨پورا کرن⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c1a920e5236a995b76c510b221881da36cd0842f0b46eba75e624cf23daf9e80",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/1\/21-24.1792102168116.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "تے چڑھیا"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "اوہ بندہ"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "اَلکانہ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سارا"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "اوہدا گھر"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "ذبح کرن لئی"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ لئی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دناں دا قربانی"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "قربانی"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "دناں دا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اپنا نذر"
+    },
+    {
+      "surface": "נדרו",
+      "gloss": "اپنا نذر"
+    }
+  ],
+  "timestamp": "2026-10-15T22:09:28.117575361Z",
+  "model": "glm-5.3"
+}

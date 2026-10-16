@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 20:4",
+  "book": "2-chronicles",
+  "lang": "pnb",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨مدد⟩",
+      "rationale": "KJV\/ASV 'مدد منگن' آکھدے نیں؛ عبرانی صرف 'لبھنا\/پچھنا' اے — لفظ دا مطلب سیاق توں۔"
+    }
+  ],
+  "translation": "تے یہوداہ کٹھا ہویا یاہوہ توں ⟨مدد⟩ منگن لئی؛ سارے یہوداہ دیاں وستیاں توں وی اوہ آئے ⟨את⟩ یاہوہ نوں لبھن لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1bddc4c5e1f1683c8b7024070bb6ec8a823d4fd4a39c88b87ec727cd1421e95c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/20\/1-4.1792122322621.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "تے کٹھا ہوئے"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "منگن لئی"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "یاہوہ توں"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ساریاں توں"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "وستیاں"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ دیاں"
+    },
+    {
+      "surface": "באו",
+      "gloss": "آئے"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "لبھن لئی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ نوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-10-16T03:45:22.622827519Z",
+  "model": "glm-5.3"
+}

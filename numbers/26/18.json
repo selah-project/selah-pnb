@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 26:18",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نیں",
+      "rationale": "عبرانی وِچ אلہ لئی کوئی ਕریا نئیں، پنجابی چاہیدی اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "گنتی",
+      "rationale": "قبیلے دی گنتی — چالی ہزار پنج سَو"
+    }
+  ],
+  "translation": "ایہہ نیں گاد دے پُتراں دے قبیلے، اوہناں دے گِنے ہوئیاں دے مطابق، چالی ہزار تے پنج سَو۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "66a081b600beb200ecad4b8c0c34d8494d1e9059eff5bddb918cbafafd9334ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/26\/17-20.1792099074377.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ایہہ نیں"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "قبیلے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں دے"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "לפקדיהם",
+      "gloss": "اوہناں دے گِنے ہوئیاں دے مطابق"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چالی"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "تے پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَو"
+    }
+  ],
+  "timestamp": "2026-10-15T21:17:54.377982834Z",
+  "model": "glm-5.3"
+}

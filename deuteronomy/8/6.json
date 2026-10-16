@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 8:6",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "حکم اسرائیل نوں — 'تُوں رکھیں'"
+    },
+    {
+      "kind": "addition",
+      "subject": "مل کے",
+      "rationale": "پنجابی جملے لئی وادھو، عبرانی وِچ نئیں"
+    }
+  ],
+  "translation": "تے تُوں یاہوہ اپنے ایلوہیم دیاں حکماں نوں ⟨את⟩ مل کے رکھیں، اوہدے رستیاں اُتے ٹُرن لئی تے اوہدوں ڈرن لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c27dabee088dc1fb09f9df2aadcbfbf6da9496268d9d172abb055ed4a69efd83",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/8\/5-8.1792099802243.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "تے تُوں… رکھیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حکماں نوں"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "حکماں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "اپنے ایلوہیم"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ٹُرن لئی"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "اوہدے رستیاں اُتے"
+    },
+    {
+      "surface": "וליראה",
+      "gloss": "تے ڈرن لئی"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "اوہدوں"
+    }
+  ],
+  "timestamp": "2026-10-15T21:30:02.243935567Z",
+  "model": "glm-5.3"
+}

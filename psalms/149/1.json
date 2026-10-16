@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 149:1",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 149,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ہووے⟩",
+      "rationale": "عبرانی وِچ کوئی فعل نئیں، صرف اسمی جملہ اے — پنجابی فعل منگدا اے"
+    },
+    {
+      "kind": "invitation",
+      "subject": "psalms 149:1",
+      "rationale": "جماعت نوں حکم: سلاوا کرو، گاؤ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "خیسِداں",
+      "rationale": "חסידים نوں 'سنتاں' نئیں، خیسِد رکھیا — Tier-2 لفظ"
+    }
+  ],
+  "translation": "یاہ نوں سلاوا کرو، یاہوہ نوں نواں گیت گاؤ، اوہدی تعریف خیسِداں ⟨دی⟩ سرائے وِچ ⟨ہووے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "207302da79d7a429801265f61941fcacd9212f46dd4d4d2d5241d922294d54cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/149\/1-4.1792114223677.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "سلاوا کرو"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاہ نوں"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "گاؤ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ نوں"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "گیت"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "نواں"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "اوہدی تعریف"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "سرائے وِچ"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "خیسِداں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:30:23.678423996Z",
+  "model": "glm-5.3"
+}

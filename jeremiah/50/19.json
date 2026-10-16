@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 50:19",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נוהו",
+      "rationale": "נָוֶה چراگاہ\/واہݨ دوناں اے — لیلا والا مونڈھر جاری رکھن لئی 'نوَہہ' رکھیا؛ 'چراگاہ' وی جائز۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נפשו",
+      "rationale": "נפש جان\/ساہ\/بھُکھ اے، صرف 'روح' نئیں — 'اوہدی جان رجّے گی' بھُکھ مارن والی گل اے۔"
+    }
+  ],
+  "translation": "تے میں ⟨את⟩ یِسرائیل نوں اوہدے نوَہہ ول مُڑ لیانگا، تے اوہ کرمل تے باشان وِچ چرے گا، تے افرایم دے پہاڑ تے گلعد وِچ اوہدی جان رجّے گی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "08d29edd99006fd870efea385a8e3beff0458c5b1bf363ca6811b531ecce6b32",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/50\/17-20.1792108781280.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושבבתי",
+      "gloss": "تے میں مُڑ لیانگا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یِسرائیل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ول"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "اوہدا نوَہہ"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "تے چرے گا"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "کرمل"
+    },
+    {
+      "surface": "והבשן",
+      "gloss": "تے باشان"
+    },
+    {
+      "surface": "ובהר",
+      "gloss": "تے پہاڑ وِچ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "افرایم"
+    },
+    {
+      "surface": "והגלעד",
+      "gloss": "تے گلعد"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "رجّے گی"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "اوہدی جان"
+    }
+  ],
+  "timestamp": "2026-10-15T23:59:41.281684225Z",
+  "model": "glm-5.3"
+}

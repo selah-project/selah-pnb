@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 7:5",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "دے لوک",
+      "rationale": "عبرانی قوم دا ناں ای اے؛ پنجابی جملے لئی لوک شامل کیتا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "مِتصرایم",
+      "rationale": "اکو عبرانی لفظ اک وار دیس (مِتصرایم) تے اک وار واسی اے؛ شکل نئیں بدلی"
+    }
+  ],
+  "translation": "تے مِتصرایم دے لوک جاݨ لینگے کہ اَن می یاہوہ آں، جدوں میں ⟨את⟩ اپنا ہتھ مِتصرایم اُتے پھیلاواںگا تے میں ⟨את⟩ یِسرائیل دے پُتراں نوں اوہناں وِچوں کڈھاںگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a56b00862ee25365d28a59932fcb28df1030eb55df348801226a9d293a15abb3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/7\/5-8.1792096204704.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "تے جاݨ لینگے"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم دے لوک"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בנטתי",
+      "gloss": "جدوں میں پھیلاواںگا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنا ہتھ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "اپنا ہتھ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "تے میں کڈھاںگا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یِسرائیل دے پُتراں نوں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتراں نوں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "اوہناں وِچوں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:30:04.704741560Z",
+  "model": "glm-5.3"
+}

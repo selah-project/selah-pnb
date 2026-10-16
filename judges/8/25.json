@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 8:25",
+  "book": "judges",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נתון נתן",
+      "rationale": "ای-INF सह اِکو کریا دو واری — زور دین دا عبرانی ڈھنگ، پنجابی وِچ 'دینا، اسیں دینا آں' نال جھلکی دتی۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "کنّ-والا",
+      "rationale": "נזם نکّ دا والا اے، کنّ دا نئیں؛ پر پنجابی وِچ نکّ-والا ٹھیک نئیں لگدا، کنّ-والا رکھیا۔"
+    }
+  ],
+  "translation": "تے اوہناں آکھیا: دینا، اسیں دینا آں۔ تے اوہناں ⟨את⟩ چادر کھِلاری، تے ہر بندے نے اوتھے آپنے لُٹ دا کنّ-والا سُٹ دِتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9d4f2b6fbe5d88993ea4402035b7e2693d6abc7099b3c66d2de9f620c7d3e2ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/judges\/8\/25-28.1792101679323.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "اوہناں آکھیا"
+    },
+    {
+      "surface": "נתון",
+      "gloss": "دینا"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دینا آں"
+    },
+    {
+      "surface": "ויפרשו",
+      "gloss": "کھِلاری"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چادر"
+    },
+    {
+      "surface": "השמלה",
+      "gloss": "چادر"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "سُٹ دِتا"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "اوتھے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ہر بندہ"
+    },
+    {
+      "surface": "נזם",
+      "gloss": "کنّ-والا"
+    },
+    {
+      "surface": "שללו",
+      "gloss": "آپنے لُٹ دا"
+    }
+  ],
+  "timestamp": "2026-10-15T22:01:19.323955232Z",
+  "model": "glm-5.3"
+}

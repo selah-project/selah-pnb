@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 18:11",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ایتھے⟩",
+      "rationale": "عبرانی وِچ صرف 'ویکھو، اِلیّاہو' — ٹکسالی پنجابی جملے لئی تھاں دا لفظ"
+    }
+  ],
+  "translation": "تے ہن تُوں آکھدا ایں: جا، اپنے سائیں نوں آکھ: ویکھو، اِلیّاہو ⟨ایتھے⟩ اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4b0c4c5dc21bfd004cf0ce2f3e00097a96ceade25a02410306408cde8f6a2423",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/18\/9-12.1792104637601.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "تے ہن"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُوں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھدا ایں"
+    },
+    {
+      "surface": "לך",
+      "gloss": "جا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھ"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "اپنے سائیں نوں"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ویکھو"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "اِلیّاہو"
+    }
+  ],
+  "timestamp": "2026-10-15T22:50:37.603422513Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 27:18",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "courtyard dimensions",
+      "rationale": "100 cubits by 50 by 50, height 5 cubits — pure dimension verse."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨دووے پاسے⟩",
+      "rationale": "KJV 'fifty every where'; Hebrew בחמשים is bare 'by fifty', repeated number."
+    }
+  ],
+  "translation": "وڑ دی لمبائی سو ہتھ ہووے، تے چوڑائی پنجاہ، پنجاہ ⟨دووے پاسے⟩، تے اُچائی پنج ہتھ، کتّی بندی سپید سنّی دی، تے اوہناں دے پیندے تانبے دے ہون۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f1398718c3bbea2402730bdb3602f357070127879906a933206daa8aa99117b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/27\/17-20.1792096852196.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "لمبائی"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "وڑ دی"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سو"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "تے چوڑائی"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاہ"
+    },
+    {
+      "surface": "בחמשים",
+      "gloss": "پنجاہ ⟨دووے پاسے⟩"
+    },
+    {
+      "surface": "וקמה",
+      "gloss": "تے اُچائی"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "سپید سنّی"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "کتّی بندی"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "تے اوہناں دے پیندے"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "تانبے دے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:40:52.197335997Z",
+  "model": "glm-5.3"
+}

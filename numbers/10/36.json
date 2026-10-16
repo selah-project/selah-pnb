@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 10:36",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨صندوق⟩",
+      "rationale": "عبرانی صرف 'آرام کرن اُتے' آکھدا اے — کی آردا اے، سیاق توں پتہ چلدا اے۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "רבבות אלפי",
+      "rationale": "'ہزاڑاں دے لکھاں' دا جوڑ سمجھنا اوکھا اے — گنتی دا سموے یا قبیلےآں دے گروہ (جے‌پی‌ایس 'خانداناں' کردا اے)۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "لکھاں تے ہزاڑ",
+      "rationale": "یِسرائیل دی گنتی دے وڈے اکھر۔"
+    },
+    {
+      "kind": "you",
+      "subject": "واپس مُڑ، اے یاہوہ",
+      "rationale": "سدھا خطاب یاہوہ ول، آرام ویلے دی دعا۔"
+    }
+  ],
+  "translation": "تے جدوں اوہ ⟨صندوق⟩ آردا، اوہ آکھدا: واپس مُڑ، اے یاہوہ، یِسرائیل دے ہزاڑاں دے لکھاں دے ⟨وَل⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1cd3eabaa64e250722ecb454d73c766a0c4e5651d0be203b6b69936bb3928e40",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/10\/33-36.1792098486155.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובנחה",
+      "gloss": "تے جدوں اوہ آردا"
+    },
+    {
+      "surface": "יאمר",
+      "gloss": "اوہ آکھدا"
+    },
+    {
+      "surface": "שובה",
+      "gloss": "واپس مُڑ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "רבבות",
+      "gloss": "لکھاں"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "ہزاڑاں دے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل دے"
+    }
+  ],
+  "timestamp": "2026-10-15T21:08:06.156307891Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 36:7",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "کافی تے فالتو",
+      "rationale": "آیت نفری دی گݨتی کردی اے — سامان کافی سی تے فالتو رہیا۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "وہ",
+      "rationale": "عبرانی وِچ فاعل لکھیا نئیں، پنجابی نوں ⟨وہ⟩ چاہیدا سی۔"
+    }
+  ],
+  "translation": "تے رل کے بنائی چیز سارے کاج لئی کافی سی ⟨את⟩ اوہنوں بناؤن نوں، تے ⟨وہ⟩ فالتو رہیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "70e0a573d22175f2d62c4d148e418f6016907ff583f2ef00d4e4230758561f65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/36\/5-8.1792097256100.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמלאکה",
+      "gloss": "تے بنائی چیز"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "سی"
+    },
+    {
+      "surface": "דים",
+      "gloss": "کافی"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "کاج"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "بناؤن لئی"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "اوہنوں"
+    },
+    {
+      "surface": "והותר",
+      "gloss": "فالتو رہیا"
+    }
+  ],
+  "timestamp": "2026-10-15T20:47:36.101860746Z",
+  "model": "glm-5.3"
+}

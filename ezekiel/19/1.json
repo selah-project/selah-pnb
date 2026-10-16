@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 19:1",
+  "book": "ezekiel",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "توں",
+      "rationale": "Ezekiel is addressed directly — imperative to take up a dirge."
+    },
+    {
+      "kind": "addition",
+      "subject": "اِک",
+      "rationale": "Punjabi requires the indefinite article; Hebrew has none."
+    }
+  ],
+  "translation": "تے توں یِسرائیل دے سرداراں بارے اِک وِلاپ چُک۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d8d884efe0a22ed50725aee063d41e73343fe339cfee654274f65f1f5099d9ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/19\/1-4.1792109423732.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "تے توں"
+    },
+    {
+      "surface": "שא",
+      "gloss": "چُک"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "وِلاپ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بارے"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "سرداراں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل دے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:10:23.733149301Z",
+  "model": "glm-5.3"
+}

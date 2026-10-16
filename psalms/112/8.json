@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 112:8",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 112,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יראה בצריو",
+      "rationale": "KJV 'اپنی خواہش پوری ہُندی ویکھے' پاؤندا اے، JPS صرف 'ٹیکدا' — عبرانی صرف 'ویکھے' اے؛ میں سدھا 'ویکھ لیندا' رکھیا، بریکٹ والی وضاحت ہٹا دی۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "دشمن",
+      "rationale": "בצר لفظی روپ وچ 'تنگ بندہ\/فریبی' اے؛ پنجابی 'دشمن' کردار دسدا اے، روپ گوا چکا اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "اوہ",
+      "rationale": "عبرانی وچ فاعل لکھیا نئیں؛ پنجابی لئی ضمیر دتی گئی۔"
+    }
+  ],
+  "translation": "اوہدا دل ٹکا ہویا اے، اوہ نئیں ڈریگا جدوں تک اوہ ⟨דشمناں اُتے اپنی برتری دا نظارہ⟩ اپنے دشمناں نوں نئیں ویکھ لیندا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b6e5f5b129f94340d5130f68a428bb84e541129fd2314fa92815802ec9651309",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/112\/5-8.1792113701638.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סמוך",
+      "gloss": "ٹکا ہویا"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "اوہدا دل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "ڈریگا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "جدوں تک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨کہ⟩"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ویکھ لیندا"
+    },
+    {
+      "surface": "בצריו",
+      "gloss": "اپنے دشمناں نوں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:21:41.639442535Z",
+  "model": "glm-5.3"
+}

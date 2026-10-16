@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 19:6",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "دِیاں دی گنتی",
+      "rationale": "قربانی دے کھان دے دن گِنے گئے نیں — دن اک، مگلا، تریجا"
+    }
+  ],
+  "translation": "تُہاڈی قربانی دے دن ⟨اوہ⟩ کھادھا جاوے، تے مگلے دے دن؛ تے جو کجھ تریجے دن تک رہِ جاوے، اگّ وِچ ساڑیا جاوے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d5afeb929d4b000f574ca67650360a92ee191ae9b8594ea880768493d7a8ff5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/19\/5-8.1792097866168.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "دے دن"
+    },
+    {
+      "surface": "זבחכם",
+      "gloss": "تُہاڈی قربانی"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کھادھا جاوے"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "تے مگلے دے دن"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "تے جو رہِ جاوے"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "יום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "تریجے"
+    },
+    {
+      "surface": "באש",
+      "gloss": "اگّ وِچ"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "ساڑیا جاوے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:57:46.169459844Z",
+  "model": "glm-5.3"
+}

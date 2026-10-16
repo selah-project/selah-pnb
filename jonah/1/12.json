@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jonah 1:12",
+  "book": "jonah",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "ملاحاں نوں",
+      "rationale": "یونس بندیاں نوں سدھا حکم دیندا اے: چُکو، سُٹو"
+    },
+    {
+      "kind": "idiom",
+      "subject": "בשלי",
+      "rationale": "'میرے تے' دا عبرانی — 'میری کر\/میرے کارن'، پنجابی محاورہ نال دتا"
+    }
+  ],
+  "translation": "تے اوہنے اوہناں نوں آکھیا: مینوں چُکو تے مینوں سمندر وِچ سُٹو، تے سمندر تہاڈے توں ٹھہر جاوے گا، کیوں جو میں جاݨدا آں کہ میری کر ایہہ وڈا طوفان تہاڈے اُتے اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "27ecf72afd82bbba95c18210a05a1b117c81fcfef6b83d53c8f449dabf9cdfdc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jonah\/1\/9-12.1792111055439.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے اوہنے آکھیا"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "اوہناں نوں"
+    },
+    {
+      "surface": "שאוני",
+      "gloss": "مینوں چُکو"
+    },
+    {
+      "surface": "והטילני",
+      "gloss": "تے مینوں سُٹو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "וישתק",
+      "gloss": "تے ٹھہر جاوے گا"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "تہاڈے توں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "جاݨدا اے"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "בשלי",
+      "gloss": "میری کر"
+    },
+    {
+      "surface": "הסער",
+      "gloss": "طوفان"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "وڈا"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "تہاڈے اُتے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:37:35.441087799Z",
+  "model": "glm-5.3"
+}

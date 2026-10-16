@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 22:6",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "تیرداں",
+      "rationale": "אשפה تیراں دا پھُٹی\/مندر اے — 'تیرداں' شکل رکھدا اے پر اک ہی شبد اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "ברכב אדם",
+      "rationale": "'آدمیاں دے رتھاں وِچ' نال گھڑسوار — JPS 'کافیاں آدمی، گھڑسوار'; عبرانی دا جوڑ رتھ+آدم+پراش اے"
+    }
+  ],
+  "translation": "تے عِیلام نے تیرداں چکی — آدمیاں دے رتھاں وِچ گھڑسوار — تے قِیر نے ڈھال ننگی کیتی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5e60c3386a33758406e16863b733503e5a9ad1d21342715a4229d3989fe49853",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/22\/5-8.1792106192962.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועילם",
+      "gloss": "تے عِیلام نے"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "چکی"
+    },
+    {
+      "surface": "אשפה",
+      "gloss": "تیرداں"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "رتھاں وِچ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمیاں دے"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "گھڑسوار"
+    },
+    {
+      "surface": "וקיר",
+      "gloss": "تے قِیر نے"
+    },
+    {
+      "surface": "ערה",
+      "gloss": "ننگی کیتی"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ڈھال"
+    }
+  ],
+  "timestamp": "2026-10-15T23:16:32.963082624Z",
+  "model": "glm-5.3"
+}

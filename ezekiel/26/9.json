@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 26:9",
+  "book": "ezekiel",
+  "lang": "pnb",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קבלו",
+      "rationale": "کجھ مترجم 'توڑن والا اوزار\/دہنہ' آکھدے نیں، کجھ 'اپنے ساہمنے' — ٹوکن دی لغوی شکل 'ساہمنے والا' اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "بچھے\/کُہاڑے",
+      "rationale": "בחרבותיو چ חרב لفظی طور تے 'تلوار' اے؛ KJV 'کُہاڑے' آکھدا اے، شبیل لفظی ریا"
+    },
+    {
+      "kind": "you",
+      "subject": "تسور نوں",
+      "rationale": "پوری آیت تسور شہر نوں مخاطب اے — 'تیریاں کندھاں، تیرے برج'"
+    }
+  ],
+  "translation": "تے اوہ اپنے توڑن والے اوزار توں تیریاں کندھاں اُتے وار کرے گا، تے تیرے برج اپنیاں تلواراں نال ڈھاہ دے گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c5735e2d8f2765fe58dfa159b3a3470f0a7478326dc06086175249512316c63f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/26\/9-12.1792109743256.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומחי",
+      "gloss": "تے اوہ توڑن والا اوزار"
+    },
+    {
+      "surface": "קבלו",
+      "gloss": "اپنے ساہمنے"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "وار کرے گا"
+    },
+    {
+      "surface": "בחמותיך",
+      "gloss": "تیریاں کندھاں اُتے"
+    },
+    {
+      "surface": "ומגדלתיך",
+      "gloss": "تے تیرے برج"
+    },
+    {
+      "surface": "יתץ",
+      "gloss": "ڈھاہ دے گا"
+    },
+    {
+      "surface": "בחרבותיו",
+      "gloss": "اپنیاں تلواراں نال"
+    }
+  ],
+  "timestamp": "2026-10-16T00:15:43.257108866Z",
+  "model": "glm-5.3"
+}

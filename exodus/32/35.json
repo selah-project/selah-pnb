@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ماریا",
+      "rationale": "נגף دا مطلب سِٹّھ مارنا\/دھکا دینا — 'ماریا' اس دے سَبَتّ سَبَتّ نیڑے"
+    },
+    {
+      "kind": "crux",
+      "subject": "על אשר",
+      "rationale": "'کیونکہ' بمقابلہ 'اتے' — KJV 'because'، یَلٹ 'because they made' — دونواں پڑھیاں جاندیاں نیں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עשו \/ עשה",
+      "rationale": "'بݨایا' دو واری — عبرانی دا دُہراونا پنجابی وِچ رکھیا"
+    }
+  ],
+  "translation": "تے یاہوہ نے ⟨את⟩ قوم نوں ماریا، کیونکہ اوہناں ⟨את⟩ وچّھوہا بݨایا سی جِہڑا اہرون نے بݨایا سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5dd0d8af5437b86c6b201ab3e74e916ee98ad021afa9f31210a1f62723d2a299",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/32\/33-35.1792097067926.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "تے ماریا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قوم"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "על",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جِہڑا"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "اوہناں بݨایا سی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وچّھوہا"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "وچّھوہا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جِہڑا"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بݨایا سی"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون نے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:44:27.927494336Z",
+  "model": "glm-5.3"
+}

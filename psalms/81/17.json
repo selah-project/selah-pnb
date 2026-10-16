@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 81:17",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "چرب",
+      "rationale": "חלב ایتھے 'چرب\/چوئیں حصہ' — کنک دا سب توں ودھیا حصہ"
+    },
+    {
+      "kind": "crux",
+      "subject": "اوہنوں \/ تینوں",
+      "rationale": "ויאכילהו اکو جمع (اوہناں نوں) تے אשביעך اکوواتھی (تینوں) — عبرانی آیت دے انت وِچ بولی بدل جاندا اے"
+    }
+  ],
+  "translation": "تے اوہنوں کنک دے چرب توں کھوایا، تے چٹان توں شہد نال تینوں رجھا دِتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f17a751f62b004dc4f2d422c1e60b272b76d4dcecbeb206ea71fdef412e26ff1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/81\/17-17.1792113090116.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאכילהו",
+      "gloss": "تے اوہنوں کھوایا"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "چرب توں"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "کنک دا"
+    },
+    {
+      "surface": "ומצור",
+      "gloss": "تے چٹان توں"
+    },
+    {
+      "surface": "دבש",
+      "gloss": "شہد"
+    },
+    {
+      "surface": "אשביעך",
+      "gloss": "تینوں رجھا دِتا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:11:30.117042355Z",
+  "model": "glm-5.3"
+}

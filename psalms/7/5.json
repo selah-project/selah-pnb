@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 7:5",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "גמלתי",
+      "rationale": "עברیت دا فعل 'بدلہ دینا\/سلوک کرنا' — چنگا یا ماڑا دوویں؛ پنجابی وِچ 'برائی' نال جوڑ کے سمبھالیا"
+    },
+    {
+      "kind": "crux",
+      "subject": "שולמי",
+      "rationale": "'میرا میل والا' — کجھ مترجم 'جیہنے میرے نال چنگا کیتا'، کجھ 'جیہڑا میرے نال امن وِچ سی' پڑھدے نیں"
+    }
+  ],
+  "translation": "جے میں اپنے میل والے نوں برائی دا بدلہ دتا، تے اپنے ویری نوں ⟨بِنا⟩ کسے کارن لُٹیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fa6cabe524eb8ce65b1b736d8fc7760c35142e0a7ec8224f42d2e20b9181d70b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/7\/5-8.1792111821476.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "גמלתי",
+      "gloss": "بدلہ دتا"
+    },
+    {
+      "surface": "שולמי",
+      "gloss": "اپنے میل والے نوں"
+    },
+    {
+      "surface": "רע",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "ואחלצה",
+      "gloss": "تے میں لُٹیا"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "اپنے ویری نوں"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "بِنا کسے کارن"
+    }
+  ],
+  "timestamp": "2026-10-16T00:50:21.477035146Z",
+  "model": "glm-5.3"
+}

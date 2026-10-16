@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 13:4",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "عبرانی وِچ کوئی فعل نئیں، پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "פרתה",
+      "rationale": "فرات (دریا، بابل ول) بمقابلہ پارہ (اناتوت نیڑے تھاں — کجھ مفسراں دا پکھ)"
+    },
+    {
+      "kind": "you",
+      "subject": "یرمیاہو",
+      "rationale": "حکم سدھا یرمیاہو نوں مخاطب اے"
+    }
+  ],
+  "translation": "لے ⟨את⟩ پٹکا جیہڑا توں خریدیا، جیہڑا تیری کمر اُتے ⟨اے⟩، تے اُٹھ، فرات نوں جا، تے اوہنوں اوتھے چٹان دی دراڑ وِچ لُکا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "44498b7b5e71b0b483896439d95876c5610ea883047a6088f0ad73965c593e5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/13\/1-4.1792107718268.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "لے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پٹکا"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "پٹکا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "توں خریدیا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "מתניך",
+      "gloss": "تیری کمر"
+    },
+    {
+      "surface": "וקום",
+      "gloss": "تے اُٹھ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "جا"
+    },
+    {
+      "surface": "פרתה",
+      "gloss": "فرات"
+    },
+    {
+      "surface": "וטמנהו",
+      "gloss": "تے اوہنوں لُکا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اوتھے"
+    },
+    {
+      "surface": "בנקיק",
+      "gloss": "دراڑ وِچ"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "چٹان دی"
+    }
+  ],
+  "timestamp": "2026-10-15T23:41:58.269280916Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 91:11",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "توں",
+      "rationale": " entire psalm directs to a person addressed as “tū” — refuge promises (rabbinic tradition: Israel; plain text: the faithful sheltered one)"
+    }
+  ],
+  "translation": "کیوں جو اوہ اپنے فرشتےآں نوں تیرے لئی حکم دیوے گا، تینوں راکھی کرن لئی تیریاں ساریاں راہاں وِچ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a5a4894d74fc193c3ca0dfa439a04dd5948d5f5feea6dee3f80b1e544db1e7a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/91\/9-12.1792113366845.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "اوہدے فرشتے"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "حکم دیوے گا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیرے لئی"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "تینوں راکھی کرن لئی"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ساریاں … وِچ"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "تیریاں راہاں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:16:06.846006242Z",
+  "model": "glm-5.3"
+}

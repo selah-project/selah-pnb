@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 12:10",
+  "book": "hosea",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "آں",
+      "rationale": "عبرانی وِچ کوئی کوپلا نئیں؛ پنجابی جملہ ⟨آں⟩ منگدا اے۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "עוד אושיבך",
+      "rationale": "'فیر وی میں تینوں وسیساں' — سزا سمجھیا جاوے (خیمیاں وِچ جلاوطنی) یا چھُٹی دی واپسی، مترجم مت پئے نیں۔"
+    }
+  ],
+  "translation": "تے میں یاہوہ تیرا ایلوہیم آں، مِتصرایم دے دیس توں ⟨ہیں⟩؛ فیر وی میں تینوں خیمیاں وِچ وسیساں، مقررے دِناں والے دِناں وانگ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "80e2c9bd12540df068d94b2119aa471aa93d58499d856da8b09f83710d002745",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/hosea\/12\/9-12.1792110571992.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "تے میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تیرا ایلوہیم"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "دیس توں"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "فیر وی"
+    },
+    {
+      "surface": "אושיבך",
+      "gloss": "میں تینوں وسیساں"
+    },
+    {
+      "surface": "באהלים",
+      "gloss": "خیمیاں وِچ"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "دِناں وانگ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "مقررے دِناں والے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:29:31.993573858Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 25:1",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אמונה אמן",
+      "rationale": "کجھ مترجم 'وفاداری، اے وفادار' پکڑدے نیں (اُچارن والا خطاب)، کجھ دو اسم 'وفاداری تے سچ'۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "میرا",
+      "rationale": "אלהי وچ ملکی صفتی صورت پہلے ای اے، پر پنجابی جملے لئی 'میرا' وکھرا دسیا گیا۔"
+    }
+  ],
+  "translation": "یاہوہ، تُو میرا ایلوہیم ایں؛ میں تینوں اُچا کراں گا، میں تیرے ناں دی تعریف کراں گا، کیوں جے تُو نے عجیب کم کیتا اے — پرانیاں صلاحواں، وفاداری نال، سچ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7bb95e0e15ceb423ac2a45287e22e54a883347c1052115c90f986c872004d217",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/25\/1-4.1792106310952.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "میرا ایلوہیم"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُو"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "تینوں اُچا کراں گا"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "تعریف کراں گا"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "تیرے ناں دی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جے"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "تُو نے کیتا"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "عجیب کم"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "صلاحواں"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "پرانیاں"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "وفاداری نال"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "سچ"
+    }
+  ],
+  "timestamp": "2026-10-15T23:18:30.952629564Z",
+  "model": "glm-5.3"
+}

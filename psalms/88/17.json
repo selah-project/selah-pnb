@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 88:17",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 88,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Yahweh",
+      "rationale": "Verse addresses God directly (second-person suffixes) about the speaker's destruction."
+    }
+  ],
+  "translation": "میرے اُتے لنگھ گئے تیرے بھڑکدے غصے؛ تیرے ڈراویں مینوں مُکا دتا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "eda71151d2410ae7e9ab6e9c08f5e534f649778bee36cadc75d74ff1f725fda3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/88\/17-19.1792113210432.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "میرے اُتے"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "لنگھ گئے"
+    },
+    {
+      "surface": "חרוניך",
+      "gloss": "تیرے بھڑکدے غصے"
+    },
+    {
+      "surface": "בעותיך",
+      "gloss": "تیرے ڈراویں"
+    },
+    {
+      "surface": "צמתותני",
+      "gloss": "مینوں مُکا دتا اے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:13:30.433358930Z",
+  "model": "glm-5.3"
+}

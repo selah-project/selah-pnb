@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מודע",
+      "rationale": "'جان-پچھان والا\/ساک' — ترجمے کردے نیں 'رشتیدار'، 'سُنی ہوئی'، 'پچھانی ساک'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "آکھ … آکھ",
+      "rationale": "دو حکم — بولݨ دے کریاواں نال سدہ"
+    }
+  ],
+  "translation": "حکمت نوں آکھ: 'تُوں میری بھین اے'، تے سمجھ نوں اپنی پچھانی ساک آکھ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "332e84a698045c086648b6c62a97d1f9b3beacb6edb28ba51631e9e116a55d86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/7\/1-4.1792114540559.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמור",
+      "gloss": "آکھ"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "حکمت نوں"
+    },
+    {
+      "surface": "אחותי",
+      "gloss": "میری بھین"
+    },
+    {
+      "surface": "את",
+      "gloss": "تُوں",
+      "marks": "وמדע توں وکھرا — ایتھے ضمیر اے، مفعول دا نشان نئیں"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "تے پچھانی ساک"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "سمجھ نوں"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "آکھ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:35:40.560880330Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zephaniah 1:15",
+  "book": "zephaniah",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "عبرانی وِچ کوئی کریا نئیں؛ پنجابی دے جملے لئی 'اے' پایا گیا۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שאה\/ומשואה",
+      "rationale": "شوآ تے مِشوآ دی چھوٹ دی جوڑی — بربادی دا دوہرا سوّر۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "یوم ×۵",
+      "rationale": "'دن' پنج واری — گنتی دی بنا، اِکو لفظ اُتے اُسرے اعلان۔"
+    }
+  ],
+  "translation": "غضب دا دن اوہ دن اے، تُنگی تے دَکھ دا دن، توڑ-پھوڑ تے بربادی دا دن، ہنیرا تے گھُپ ہنیرا دا دن، بدل تے مُندھ دا دن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8532b2b8d05c9dfa0e3dd984f1be876615c18e8d9b766f9163a516123cedb9eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/zephaniah\/1\/13-16.1792111361267.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "غضب"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اوہ دن"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اوہی"
+    },
+    {
+      "surface": "יום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "تُنگی"
+    },
+    {
+      "surface": "ומצוקה",
+      "gloss": "تے دَکھ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "שאה",
+      "gloss": "توڑ-پھوڑ"
+    },
+    {
+      "surface": "ומשואה",
+      "gloss": "تے بربادی"
+    },
+    {
+      "surface": "יום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ہنیرا"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "تے گھُپ ہنیرا"
+    },
+    {
+      "surface": "יום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "بدل"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "تے مُندھ"
+    }
+  ],
+  "timestamp": "2026-10-16T00:42:41.268716056Z",
+  "model": "glm-5.3"
+}

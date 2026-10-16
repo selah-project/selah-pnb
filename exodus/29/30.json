@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 29:30",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اوسے دا⟩",
+      "rationale": "عبرانی وِچ ضمیر دی وضاحت نئیں، پنجابی جملے لئی دتی"
+    },
+    {
+      "kind": "measurement",
+      "subject": "سات دن",
+      "rationale": "مسح دی رسم دے سات دن گِنے گئے نیں"
+    }
+  ],
+  "translation": "سات دن اوہ کاہن اوہدے پُتراں وِچوں جو اوہدی تھاں ⟨اوسے دا⟩ ہووے اوہ کپڑے پاؤن گا، جو خیمہ اجتماع وِچ پوتر تھاں وِچ خدمت کرن لئی آوے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "61ff768f0e41d42f0ce194214e82b726afcc6a7836771006f1c0f7e091784123",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/29\/29-32.1792096988350.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "سات"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دن"
+    },
+    {
+      "surface": "ילבשם",
+      "gloss": "اوہ پاؤن گا ⟨اوہناں نوں⟩"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "תחתיو",
+      "gloss": "اوہدی تھاں"
+    },
+    {
+      "surface": "מבניו",
+      "gloss": "اوہدے پُتراں وِچوں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "آوے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمہ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "اجتماع"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "خدمت کرن لئی"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "پوتر تھاں وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T20:43:08.351607814Z",
+  "model": "glm-5.3"
+}

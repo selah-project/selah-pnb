@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اک\/وجوں",
+      "rationale": "למשגב دا لام لئی مقصد دسدا اے، پنجابی جملہ 'وجوں' منگدا سی"
+    },
+    {
+      "kind": "alternative",
+      "subject": "پچھانیا جاندا اے",
+      "rationale": "نسل-فعیل 'نودع' — 'اوہنے آپ نوں پچھایا' (ایس‌وی\/جے‌پی‌ایس) وی جائز پڑھائی اے"
+    }
+  ],
+  "translation": "ایلوہیم اوہدیاں اُچیاں قلعےآں وِچ پچھانیا جاندا اے ⟨اک⟩ پناہ-تھاں ⟨وجوں⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "28f4083d8d3b98147ca1e9642c468f8f7ce93a957e56d8149347d86db5af5978",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/48\/1-4.1792112595290.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "اوہدیاں اُچیاں قلعےآں وِچ"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "پچھانیا جاندا اے"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "پناہ-تھاں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:03:15.291644464Z",
+  "model": "glm-5.3"
+}

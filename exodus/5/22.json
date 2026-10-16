@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 5:22",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اِس لئی",
+      "rationale": "عبرانی صرف کہندا اے 'کیوں اِس؟' — جملہ پورا کرن لئی جوڑیا"
+    },
+    {
+      "kind": "you",
+      "subject": "موشے یاہوہ نوں",
+      "rationale": "سِدھی خطاب — موشے ربّ نوں سوال پچھدا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "למה … למה",
+      "rationale": "'کیوں … کیوں' دوہراؤ — شکایت دی چیک، پنجابی وِچ وی رکھی"
+    }
+  ],
+  "translation": "تے موشے مُڑ یاہوہ کول آیا تے آکھیا: ادونای، اِس قوم نال تُوں برائی کیوں کیتی؟ کیوں؟ ⟨اِس لئی⟩ تُوں میں نوں گھلیا اے؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "96d3c1476d6b38509c1407a7d88555755908801737552133b82a63b4a72d8e8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/5\/22-23.1792123339005.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "مُڑ آیا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "למה",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "הרעתה",
+      "gloss": "برائی کیتی"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "قوم نال"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اِس"
+    },
+    {
+      "surface": "למה",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اِس"
+    },
+    {
+      "surface": "שלחתני",
+      "gloss": "میں نوں گھلیا"
+    }
+  ],
+  "timestamp": "2026-10-16T04:02:19.006942401Z",
+  "model": "glm-5.3"
+}

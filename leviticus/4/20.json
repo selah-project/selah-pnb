@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 4:20",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "کفارہ",
+      "rationale": "כפר دی جڑ دا مورت ڈھکنا اے — 'کفارہ' سبھ توں نیڑے اے پر 'معافی' یا 'پرچاواں' دا مطلب کھلوتا اے اوہدے وِچ۔"
+    },
+    {
+      "kind": "alternative",
+      "subject": "וְנִסְלַח",
+      "rationale": "اوہناں لئی معافی ہو جاوے گی دی تھاں 'اوہ معاف کیتے جانگے' — عبرانی دی غیرکریتی آواز دوویں چکدی اے۔"
+    }
+  ],
+  "translation": "تے اوہ اوس بچھڑے نال اوہو کریگا جیویں اوہ گناہ دی قربانی دے بچھڑے نال کر چکیا اے؛ اِنج اوہ اوہدے لئی کریگا، تے کاہن اوہناں لئی کفارہ کرے گا تے اوہناں لئی معافی ہو جاوے گی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "27cd989a54048d85595feded3d4dc31b528dec9973fdf4d341bbfa15eba3c3f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/4\/17-20.1792097440790.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "تے کریگا"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "بچھڑے نال"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کر چکیا اے"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "بچھڑے نال"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "گناہ دی قربانی"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اِنج"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کریگا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدے لئی"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "تے کفارہ کرے گا"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "اوہناں لئی"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "تے معافی ہو جاوے گی"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اوہناں لئی"
+    }
+  ],
+  "timestamp": "2026-10-15T20:50:40.791234596Z",
+  "model": "glm-5.3"
+}

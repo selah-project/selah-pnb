@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 31:11",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "to see the face of",
+      "rationale": "לראות את פני is the idiom for appearing before — Punjabi keeps the literal face"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel \/ the reader",
+      "rationale": "Second-person singular imperative 'تُسیں پڑھنا' addresses the whole assembly through its leader"
+    }
+  ],
+  "translation": "جد سارا یِسرائیل آوے تاں جے اوہ یاہوہ تیرے ایلوہیم دے ⟨את⟩ چہرے نوں ویکھے، اُس تھاں وِچ جیہڑا اوہ چُنسی، تُسیں ⟨את⟩ اِس تورات نوں سارے یِسرائیل دے ساہمنے، اوہناں دے کناں وِچ، پڑھنا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e58533c7d09ce5af90e49da9ea42e9ef5cbf45be13e46f868b3a4a8d9c38becf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/31\/9-12.1792100620190.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "جد … آوے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ویکھن لئی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چہرے"
+    },
+    {
+      "surface": "פני",
+      "gloss": "چہرے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تیرے ایلوہیم دے"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "اُس تھاں وِچ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "اوہ چُنسی"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "تُسیں پڑھنا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اِس تورات"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "تورات"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "اِس"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ساہمنے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل دے"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "اوہناں دے کناں وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T21:43:40.191626338Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 2:9",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "منچاہ",
+      "rationale": "המנחہ اناج دی قربانی اے؛ عام لفظ 'قربانی' اوہدی شکل (اناج دی بھیٹ) کھوہ لیندا اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "ہے",
+      "rationale": "عبرانی وِچ کاپولا نئیں، پنجابی جملے لئی جوڑنا پیا۔"
+    }
+  ],
+  "translation": "تے کاہن منچاہ توں ⟨את⟩ اوہدا یادگار حصہ چُکیگا تے قربان گاہ اُتے سوآگا — اگّ دی قربانی، خوشبو، سکھ دین والی، یاہوہ لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "144bcf371a4a9b6f0310814f2135b7f2aa7b5a2eec824b06de461ab233121cc2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/2\/9-12.1792097358947.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והרים",
+      "gloss": "تے چُکیگا"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "منچاہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہدا یادگار حصہ"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "اوہدا یادگار حصہ"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "تے سوآگا"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "قربان گاہ اُتے"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "اگّ دی قربانی"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "خوشبو"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "سکھ دین والی"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ لئی"
+    }
+  ],
+  "timestamp": "2026-10-15T20:49:18.948454742Z",
+  "model": "glm-5.3"
+}

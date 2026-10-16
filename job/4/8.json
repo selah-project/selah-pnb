@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 4:8",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "واہݨ\/بیجݨ\/کَٹݨ",
+      "rationale": "کھیتی دے تن کم — חרש\/זרע\/קצר — دی چلدی تصویر، سزا کمائی فصل اے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עמל",
+      "rationale": "لفظی ’مِحنت\/سخت محنت‘ اے — ’مصیبت‘ سیاق دے مطابق؛ کجھ مترجم ’اردو جٹیاں‘ لیندے نیں۔"
+    }
+  ],
+  "translation": "جیویں میں ویکھیا اے، جیہڑے برائی واہندے نیں تے مصیبت بیجądے نیں، اوہ ای کَٹدے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "651daa9554ff663b765f401e04b5a09d155f23b9e7c5d81a545cd120ce53e323",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/4\/5-8.1792115311226.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "میں ویکھیا اے"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "واہن والے"
+    },
+    {
+      "surface": "און",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "וזרעי",
+      "gloss": "تے بیجن والے"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "مصیبت"
+    },
+    {
+      "surface": "יקצרהו",
+      "gloss": "اوہ ای کَٹدے نیں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:48:31.227443123Z",
+  "model": "glm-5.3"
+}

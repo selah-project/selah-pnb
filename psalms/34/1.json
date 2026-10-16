@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 34:1",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "טעמו",
+      "rationale": "لفظی 'اوہدا چکھسا' — چکھ، یعݨ ویس و طرح؛ ترجمے 'اوہدا ویس\/اوہدا سلوک' وی آکھدے نیں۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "بشנوتו",
+      "rationale": "اردو 'شَنّ' — دوہرا کیتا، بدل دتا؛ لفظی تصویر 'دوہراونا' اے، 'بدلنا' اوہدی ایگزیگٹیو صورت اے۔"
+    },
+    {
+      "kind": "elision",
+      "subject": "عنوان",
+      "rationale": "ایہہ سرلیکھ اے — مکھ مزمور دی آیت نئیں؛ ایس لئی پرانے ترجمے آیت 1 وچ مکھ لکیر نال رلا دندے نیں۔"
+    }
+  ],
+  "translation": "داوِد ⟨دا⟩، جدوں اوہنے اَبیمَلِخ دے ساہمنے بدل دتا ⟨את⟩ آپ نوں، تے اوہنے اوہنوں کڈھ دتا تے اوہ ٹُر پیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "524b62f9fa7c2d2af2a94384b2df7c93efd856ea353531d4cc63798ac3604083",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/34\/1-4.1792112296315.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد ⟨دا⟩"
+    },
+    {
+      "surface": "בשנותו",
+      "gloss": "بدل دتا آپ نوں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آپ نوں"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "اوہدا چکھسا"
+    },
+    {
+      "surface": "لפני",
+      "gloss": "دے ساہمنے"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "اَبیمَلِخ"
+    },
+    {
+      "surface": "ויגרשהו",
+      "gloss": "تے اوہنے اوہنوں کڈھ دتا"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "تے اوہ ٹُر پیا"
+    }
+  ],
+  "timestamp": "2026-10-16T00:58:16.316202860Z",
+  "model": "glm-5.3"
+}

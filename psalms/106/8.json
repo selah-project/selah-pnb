@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 106:8",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "پر",
+      "rationale": " ו دا مول 'تے' اے، پر سیاق دا الٹ پھیر (بغاوت دے باوجود بچائی) 'پر' نال اگھاڑیا اے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "طاقت",
+      "rationale": "גבורה مول 'طاقت\/بہادری\/جت' اے — 'طاقت' ایہدا کھلار ودھ کے نئیں پھڑ سکدا پر نیڑے ترین اے۔"
+    }
+  ],
+  "translation": "پر اُس اپنے ناں لئی اوہناں نوں بچایا، تاں جو اپنی طاقت ⟨את⟩ نوں جتاوے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "398990a8f996e117e518ccdae18272d9e1a45132d9234326b9c1a547ffd75863",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/106\/5-8.1792113609326.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "پر اُس بچایا اوہناں نوں"
+    },
+    {
+      "surface": "למען",
+      "gloss": "لئی"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اپنے ناں"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "تاں جو جتاوے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "طاقت نوں"
+    },
+    {
+      "surface": "גבורתו",
+      "gloss": "اپنی طاقت"
+    }
+  ],
+  "timestamp": "2026-10-16T01:20:09.327103674Z",
+  "model": "glm-5.3"
+}

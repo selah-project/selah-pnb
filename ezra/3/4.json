@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 3:4",
+  "book": "ezra",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "במספר",
+      "rationale": "قربانیاں دا گنتی دے مطابق نظام — تہوار دے ہر دن لئی طے شدہ گنتی (گنتی 29:12–38)۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יום ביום … יום ביומו",
+      "rationale": "'دن' دا دہراؤ چار واری — دن بہ دن دا چکر؛ پنجابی وِچ وی دہرایا گیا اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "منایا",
+      "rationale": "ויעשו لفظی 'کیتا' اے؛ 'تہوار کیتا' دی تھاں پنجابی ریت 'منایا' قدرتی اے۔"
+    }
+  ],
+  "translation": "تے اوہناں ⟨את⟩ جھونپڑیاں دے تہوار نوں جیویں لکھیا اے منایا، تے دن بہ دن سوختہ قربانی گنتی دے مطابق، حکم دے وانگ — دن دے کم دا، اوہدے اُتے دن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1d66040f1b731ef9028b4cae650142809fe564e7ba8e19574869158ae90a5279",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezra\/3\/1-4.1792119094819.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "منایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تہوار"
+    },
+    {
+      "surface": "חג",
+      "gloss": "تہوار"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "جھونپڑیاں دے"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "جیویں לکھیا اے"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "تے سوختہ قربانی"
+    },
+    {
+      "surface": "יום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "دن بہ دن"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "گنتی وِچ"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "حکم دے مطابق"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کم"
+    },
+    {
+      "surface": "יום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "اوہدے دن وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T02:51:34.820529513Z",
+  "model": "glm-5.3"
+}

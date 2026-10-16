@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 26:11",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חלילה לי מיהוה",
+      "rationale": "'یاہوہ توں ایہہ میتھوں دور ہووے' — عبرانی نفی دی قسم"
+    },
+    {
+      "kind": "addition",
+      "subject": "پئی",
+      "rationale": "پنجابی جملے لئی کر دی لوڑ، عبرانی وِچ صرف 'سرہانے'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "ابیشی",
+      "rationale": "داوِد ابیشی نوں حکم دندا اے: برچھی تے مٹوئی لے کے نسنا"
+    }
+  ],
+  "translation": "یاہوہ توں ایہہ میتھوں دور ہووے کہ میں اپنا ہتھ یاہوہ دے ماشیاخ ول پھیلاواں؛ تے ہنے بھلا ⟨את⟩ اوس برچھی نوں لے جیہڑی اوہدے سرہانے ⟨پئی⟩ اے، تے پانی دی ⟨את⟩ مٹوئی نوں، تے اسیں چلے جائیے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2f6a56f3a536360a070684ed38632b70195ba5a206c3af16e9bf0e676f4d4294",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/26\/9-12.1792102986678.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חלילה",
+      "gloss": "دور ہووے"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میتھوں"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "یاہوہ توں"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "کہ پھیلاواں"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "اپنا ہتھ"
+    },
+    {
+      "surface": "במשיח",
+      "gloss": "ماشیاخ ول"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دے"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "تے ہنے"
+    },
+    {
+      "surface": "קח",
+      "gloss": "لے"
+    },
+    {
+      "surface": "نא",
+      "gloss": "بھلا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوس برچھی نوں"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "اوس برچھی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "מראשתו",
+      "gloss": "اوہدے سرہانے"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "پانی دی مٹوئی نوں"
+    },
+    {
+      "surface": "צפחת",
+      "gloss": "مٹوئی"
+    },
+    {
+      "surface": "המים",
+      "gloss": "پانی دی"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "تے چلے جائیے"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "اسیں ⟨اپنے راستے⟩"
+    }
+  ],
+  "timestamp": "2026-10-15T22:23:06.679737624Z",
+  "model": "glm-5.3"
+}

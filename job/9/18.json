@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 9:18",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ساہ",
+      "rationale": "רוּחַ 'ہوا\/ساہ\/روح' سبھ اے؛ 'ساہ' ایتھے سبب دا لحاظ رکھدا اے پر 'روح' والا لفظ وی سمبھالدا اے"
+    },
+    {
+      "kind": "idiom",
+      "subject": "رجّا دیندا اے",
+      "rationale": "שׂבע 'رَجھانا، اِنّا دینا کہ ہور ناں منگے' — کڑوالی نال رجھانا عبرانی دی کٹھن تصویر اے"
+    }
+  ],
+  "translation": "اوہ مینوں اپنی ساہ واپس لَین نئیں دیندا، کیوں جو اوہ مینوں کڑوالیاں نال رجّا دیندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "07b33aa8a154ded95739151868aa7cc156a380364261a8efa00d1e783b2a5cf9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/9\/17-20.1792115585789.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יתנני",
+      "gloss": "مینوں نئیں دیندا"
+    },
+    {
+      "surface": "השב",
+      "gloss": "واپس لَین"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "اپنی ساہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "ישבעני",
+      "gloss": "مینوں رجّا دیندا اے"
+    },
+    {
+      "surface": "ממררים",
+      "gloss": "کڑوالیاں نال"
+    }
+  ],
+  "timestamp": "2026-10-16T01:53:05.789788197Z",
+  "model": "glm-5.3"
+}

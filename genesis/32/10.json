@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 32:10",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نے",
+      "rationale": "پنجابی فعل دے نال ‘نے’ چاہیدی سی، عبرانی وِچ نئیں۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "האמר",
+      "rationale": "مستقبل تے ماضی دوویں ہو سکدے نیں — ‘جیہڑا آکھدا اے’ مقابلے ‘جیہڑا آکھیا سی’؛ عبرانی دی حالت دوویں پاسے کھلی رکھدی اے۔"
+    },
+    {
+      "kind": "you",
+      "subject": "یعقوو دی دعا",
+      "rationale": "سِدھی اِلاء یاہوہ نوں — دعا دی ہوند ای ‘توں’ اے۔"
+    }
+  ],
+  "translation": "تے یعقوو نے آکھیا: میرے پیو اَوراہام دا ایلوہیم تے میرے پیو یِتصخاق دا ایلوہیم، یاہوہ، جیہڑا مینوں آکھدا اے: اپنے دیس ول تے اپنے جَمّے تھاں ول مُڑ جا، تے میں تیرے نال چنگائی کراں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a051a49a2e0a04c31e0fe5881ab1df3ea41e37ea7fdb45f9c75ce208c83c63b0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/32\/9-12.1792095510729.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو نے"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "میرے پیو"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراہام"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "تے ایلوہیم"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "میرے پیو"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "یِتصخاق"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "آکھن والا"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مینوں"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "مُڑ جا"
+    },
+    {
+      "surface": "לארצך",
+      "gloss": "اپنے دیس ول"
+    },
+    {
+      "surface": "ולמולדתך",
+      "gloss": "تے اپنے جَمّے تھاں ول"
+    },
+    {
+      "surface": "ואיטיבה",
+      "gloss": "تے چنگائی کراں گا"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تیرے نال"
+    }
+  ],
+  "timestamp": "2026-10-15T20:18:30.729961731Z",
+  "model": "glm-5.3"
+}

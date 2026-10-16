@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 14:2",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ضمیر اوہ",
+      "rationale": "ہبرو اسمِ فاعل دا صیغہ اے، پنجابی وِچ ضمیر وکھ لکھی"
+    },
+    {
+      "kind": "crux",
+      "subject": "בוזהו",
+      "rationale": "اوہنوں ہلکا جاندا اے — کِنہے نوں؟ یاہوہ نوں (Zech 4:10 ورگا) یا سدھی راہ والے نوں؛ سیاق دوناں دیوالی اے"
+    }
+  ],
+  "translation": "جیہڑا اپنی سدھی راہ اُتے تُردا اے اوہ یاہوہ توں ڈردا اے، پر جیہڑا اپنیاں راہاں وِچ ٹیڑھا اے اوہ اوہدیاں نال یاہوہ نوں ہلکا جاندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "92140400659569df3ba77072ccf0569b26db16f94ecfeaeb3693a617fe82ee6b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/14\/1-4.1792114681439.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "تُردا اے"
+    },
+    {
+      "surface": "בישרו",
+      "gloss": "اپنی سدھی راہ اُتے"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ڈردا اے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ונלוז",
+      "gloss": "ٹیڑھا اے"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "اپنیاں راہاں وِچ"
+    },
+    {
+      "surface": "בוזهו",
+      "gloss": "ہلکا جاندا اے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:38:01.440036123Z",
+  "model": "glm-5.3"
+}

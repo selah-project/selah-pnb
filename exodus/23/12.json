@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 23:12",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "چھ دن",
+      "rationale": "ہفتے دا گننا — شبّات دا حکم"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ساہ ملے",
+      "rationale": "נפש 'ساہ لینا\/جی چرنا' اے — 'تازہ دم ہونا' نری آخری مطلب اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תשבת\/שבת",
+      "rationale": "فعل שׁבת دا ستویں دن شبّات نال اِکو جڑ اے — پنجابی وِچ 'شبّات من' نال اوہو جوڑ رکھیا"
+    }
+  ],
+  "translation": "چھ دن اپنے کم کر، تے ستویں دن شبّات من، تاں جے تیرا بیل تے تیرا کھوتّا آرام کرن، تے تیری داسی دا پُتر تے پراوے نوں ساہ ملے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6dec472d277ca4b284cf7c1e10c3b415e3e19755dfdfe02f053ff89bf7763595",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/23\/9-12.1792096736676.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دن"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "کر"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "اپنے کم"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "تے ستویں دن"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ستویں"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "شبّات من"
+    },
+    {
+      "surface": "למען",
+      "gloss": "تاں جے"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "آرام کرن"
+    },
+    {
+      "surface": "שורך",
+      "gloss": "تیرا بیل"
+    },
+    {
+      "surface": "וחמרך",
+      "gloss": "تے تیرا کھوتّا"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "تے ساہ ملے"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "تیری داسی دا"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "تے پراوے نوں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:38:56.677485112Z",
+  "model": "glm-5.3"
+}

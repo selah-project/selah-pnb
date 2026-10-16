@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הכוס",
+      "rationale": "کوئی پکھی — 'چھوٹی الُو' (KJV\/JPS) بمقابلہ 'ibis' (وائکلف)"
+    }
+  ],
+  "translation": "تے ⟨את⟩ لِٹل الو ⟨چھوٹی الُو⟩، تے ⟨את⟩ شالَخ ⟨سمندری کاں⟩، تے ⟨את⟩ یَنشُوف ⟨وڈی الُو⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4adbb0eca54bd254fe6c40c14044bbb8dcc24df06e1ba126b8139e8383848e82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/11\/17-20.1792097605280.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "لِٹل الو"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "لِٹل الو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "شالَخ"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "شالَخ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "یَنشُوف"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "یَنشُوف"
+    }
+  ],
+  "timestamp": "2026-10-15T20:53:25.280889993Z",
+  "model": "glm-5.3"
+}

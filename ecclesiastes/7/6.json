@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "סירים\/סיר",
+      "rationale": "کِڑیاں تے دیگھ دوویں اِکو شیں סיר توں — کِڑیاں بھڑکدیاں نیں پر جلھدیاں مُک جاندیاں نیں، اویں ای مورکھ دا ہسنا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ہوا",
+      "rationale": "הבל دا مول مطلب ہوا\/آہ اے — وینسی 'vanity' نال میل نئیں"
+    }
+  ],
+  "translation": "کیوں جو کِڑیاں دی ٹھاٹھ دے اُبھردے شوزے وانگ، جیہڑیاں دیگھ تھلے بھڑکدیاں نیں، اویں ای مورکھ دا ہسنا اے — ایہہ وی ہوا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3c76ffd76d5268fcc23e84eebccc32f72e9e2a3da275c9ae6a28e1493253cfcf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ecclesiastes\/7\/5-8.1792117491836.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "شوزے وانگ"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "کِڑیاں دے ٹھاٹھ دے"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تھلے"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "دیگھ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اویں ای"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "ہسنا"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "مورکھ دا"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "تے ایہہ وی"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ہوا"
+    }
+  ],
+  "timestamp": "2026-10-16T02:24:51.837287270Z",
+  "model": "glm-5.3"
+}

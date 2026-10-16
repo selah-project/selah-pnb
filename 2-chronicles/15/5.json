@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 15:5",
+  "book": "2-chronicles",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "لیکھوم לیוצא ולבא",
+      "rationale": "عبرانی ترکیب «نکلن تے آؤن» دا مطلب روزمرہ دے کم کار نیں؛ پنجابی وِچ لفظی رکھیا گیا اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "سی \/ سن",
+      "rationale": "عبرانی وِچ کریا دا ماضی روپ کوئی نئیں، پنجابی جملے لئی جوڑیا گیا۔"
+    }
+  ],
+  "translation": "تے اُنہاں ویلےآں وِچ نکلن والے لئی تے آؤن والے لئی کوئی امن نئیں سی، کیونجے دھرتیاں دے سارے وسنیکاں اُتے وڈیاں گڑبڑیاں سن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "80a3343f9f00aac97a097218f227622ce7de8e108ab271d069251c8ffdadd1fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/15\/5-8.1792122235396.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובעתים",
+      "gloss": "تے اُنہاں ویلےآں وِچ"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کوئی … نئیں سی"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "امن"
+    },
+    {
+      "surface": "ליוצא",
+      "gloss": "نکلن والے لئی"
+    },
+    {
+      "surface": "ולבא",
+      "gloss": "تے آؤن والے لئی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "מהומת",
+      "gloss": "گڑبڑیاں"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "وڈیاں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "وسنیکاں دے"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "دھرتیاں"
+    }
+  ],
+  "timestamp": "2026-10-16T03:43:55.397155337Z",
+  "model": "glm-5.3"
+}

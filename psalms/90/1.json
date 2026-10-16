@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 90:1",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سرلیکھ",
+      "rationale": "پہلیاں تن توکن سرلیکھ نیں؛ جملے وِچ جوڑن لئی 'اے' تے '،' دا وادھو"
+    },
+    {
+      "kind": "you",
+      "subject": "ادونای",
+      "rationale": "مورّچھ سِدھا ادونای نال گل کردی اے"
+    }
+  ],
+  "translation": "موشے، ایلوہیم دے بندے، دی دعا۔ اے ادونای، نسلاں در نسلاں تُو ساڈا ڈیرہ رہیا ایں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "793b4dff5a195143da8df587045aa4146363998a898bd36a7177264be70aa5d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/90\/1-4.1792113394299.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "دعا"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "موشے دی"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم دے"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اے ادونای"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "ڈیرہ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُو"
+    },
+    {
+      "surface": "היית",
+      "gloss": "رہیا ایں"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ساڈا"
+    },
+    {
+      "surface": "בדר",
+      "gloss": "نسل وِچ"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "تے نسل وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:16:34.299807434Z",
+  "model": "glm-5.3"
+}

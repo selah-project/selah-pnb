@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 5:9",
+  "book": "ezra",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "טעם",
+      "rationale": "'فرمان\/حکم' بمقابلہ 'حکم دین دا اختیار' — کجھ ترجمے 'اختیار' لیندے نیں۔"
+    },
+    {
+      "kind": "elision",
+      "subject": "אדין",
+      "rationale": "ارتسمائی سامی 'فیر\/ادوں' دا سدھا پنجابی 'فیر' نال ویروے نال رلدا اے۔"
+    }
+  ],
+  "translation": "تے فیر اسیں ایہناں بزرگاں نوں پچھیا، ایویں آکھیا اوہناں نوں: کِنے تہانوں حکم دِتا کہ ایہہ گھر بناؤ تے ایس کندھ نوں مکمل کرو؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6f0194daeb0c502c78af644e055c7a686e17bb76e25cf0d29652c51c4e944966",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezra\/5\/9-12.1792119127768.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "فیر"
+    },
+    {
+      "surface": "שאלנא",
+      "gloss": "پچھیا"
+    },
+    {
+      "surface": "לשביא",
+      "gloss": "بزرگاں نوں"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ایہناں"
+    },
+    {
+      "surface": "כנמא",
+      "gloss": "ایویں"
+    },
+    {
+      "surface": "אמרנא",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اوہناں نوں"
+    },
+    {
+      "surface": "מן",
+      "gloss": "کِنے"
+    },
+    {
+      "surface": "שם",
+      "gloss": "دِتا"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تہانوں"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "حکم"
+    },
+    {
+      "surface": "ביתא",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "למבניה",
+      "gloss": "بناؤن لئی"
+    },
+    {
+      "surface": "ואשרנא",
+      "gloss": "تے کندھ"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "ایس"
+    },
+    {
+      "surface": "לשכללה",
+      "gloss": "مکمل کرن لئی"
+    }
+  ],
+  "timestamp": "2026-10-16T02:52:07.768904047Z",
+  "model": "glm-5.3"
+}

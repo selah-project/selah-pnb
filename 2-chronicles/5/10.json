@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 5:10",
+  "book": "2-chronicles",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨عہد دیاں⟩",
+      "rationale": "عبرانی לוחות اُتے לکھیا نئیں پر 'کَٹّیاں' (עִם בְּנֵי יִשְׂרָאֵל نال) صرف عہد کَٹّن دے سیاق وِچ سمجھ آؤندا اے"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כרת ברית",
+      "rationale": "عبرانی وِچ عہد 'کَٹیا' جاندا اے، پنجابی وِچ 'کیتا\/بجھایا' جاندا اے — لفظی شکھ رکھی گئی"
+    }
+  ],
+  "translation": "صندوق وِچ کجھ نئیں سی، سِوائے اُنہاں دو لوحاں دے جیہڑیاں موشے نے حورےب وِچ رکھیاں سن، جیہڑیاں یاہوہ نے یِسرائیل دے پتراں نال اوہناں دے مِتصرایم توں نکلن ویلے ⟨عہد دیاں⟩ کَٹّیاں سن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9aa70dd20b0b1dd4f1b8af9e804409546115661b11745f43ca68522b6ccaf07b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/5\/9-12.1792121660016.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "کجھ نئیں"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "صندوق وِچ"
+    },
+    {
+      "surface": "רק",
+      "gloss": "سِوائے"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دو"
+    },
+    {
+      "surface": "הלחות",
+      "gloss": "لوحاں دے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑیاں"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "رکھیاں"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "حورےب وِچ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑیاں"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "کَٹّیاں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پتراں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل دے"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "اوہناں دے نکلن ویلے"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "مِتصرایم توں"
+    }
+  ],
+  "timestamp": "2026-10-16T03:34:20.017516475Z",
+  "model": "glm-5.3"
+}

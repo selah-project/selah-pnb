@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 12:21",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨رستے⟩",
+      "rationale": "عبرانی وِچ 'ہیورد سِلّا' صرف 'اُترن والا سِلّا' اے؛ پنجابی جملے لئی رستہ دا لفظ پایا گیا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "بیت ملو",
+      "rationale": "مِلو اِک بھریا ہویا نالہ\/قلعہ اے — ناں اے، ترجمہ نئیں ہوندا"
+    },
+    {
+      "kind": "alternative",
+      "subject": "اترن والا",
+      "rationale": "کجھ مترجم 'اوہ رستہ جیہڑا سِلّا نوں جاندا اے' پڑھدے نیں"
+    }
+  ],
+  "translation": "تے اُسدے غلام اُٹھے تے سازش بنائی، تے اُہناں ⟨את⟩ یوآش نوں ماریا — بیت ملو وِچ، سِلّا ول اُترن والے ⟨رستے⟩ تے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c7e876170047f2b4b84e24de0d6e72cc55afb3db5c81de3a6fbc6a04f8924d19",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/12\/21-22.1792105265956.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "تے اُٹھے"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "اُسدے غلام"
+    },
+    {
+      "surface": "ויקשרו",
+      "gloss": "تے بنائی"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "سازش"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "تے ماریا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یوآش"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "یوآش"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ملو"
+    },
+    {
+      "surface": "היורד",
+      "gloss": "اُترن والے"
+    },
+    {
+      "surface": "סלא",
+      "gloss": "سِلّا ول"
+    }
+  ],
+  "timestamp": "2026-10-15T23:01:05.957478776Z",
+  "model": "glm-5.3"
+}

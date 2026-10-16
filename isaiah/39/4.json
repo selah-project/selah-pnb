@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 39:4",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "‘جو میرے گھر وِچ اے’ — پنجابی نوں ‘اے’ چاہیدی اے، عبرانی وِچ کوئی کپیولا نئیں"
+    },
+    {
+      "kind": "you",
+      "subject": "یِشعیاہو توں حِزقیاہو",
+      "rationale": "دوجا سُدھا سوال: ‘تیرے گھر وِچ کی ویکھیا؟’"
+    }
+  ],
+  "translation": "تے اوہنے آکھیا: ‘تیرے گھر وِچ کی ویکھیا؟’ تے حِزقیاہو نے آکھیا: ‘⟨את⟩ سارا جو میرے گھر وِچ اے اوہناں ویکھ لیا؛ میرے خزانےآں وِچ کوئی شے نئیں جو میں اوہناں نوں نہ وکھایا ہووے۔’",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "92cf5a8618657adb8e6650f5fc5d2d46d3593d873834521b4e7e0bd18ae2b604",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/39\/1-4.1792106633345.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کی"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ویکھیا"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "تیرے گھر وِچ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "حِزقیاہو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سارا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "میرے گھر وِچ"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ویکھ لیا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "היה",
+      "gloss": "سی"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "شے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "הראיתים",
+      "gloss": "میں اوہناں نوں وکھایا"
+    },
+    {
+      "surface": "באוצרתי",
+      "gloss": "میرے خزانےآں وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T23:23:53.347154864Z",
+  "model": "glm-5.3"
+}

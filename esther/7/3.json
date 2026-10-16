@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 7:3",
+  "book": "esther",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جیون-بل اے، صرف 'روح' نئیں؛ 'میری جان' سب توں نیڑے اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨دتی جاوے⟩",
+      "rationale": "دوجی وار فعل عبرانی نے چھڈیا اے، پنجانی جملہ اوہنوں دہراندا اے"
+    },
+    {
+      "kind": "you",
+      "subject": "ایستیر بادشاہ نوں",
+      "rationale": "سدھی خطاب — 'بادشاہ' واوکوف دی ورتوں نال"
+    }
+  ],
+  "translation": "تے ملکہ ایستیر نے جواب دِتا تے آکھیا: جے میں بادشاہ تیریاں اکھیاں وِچ بخش پایا آں، تے جے بادشاہ ⟨نوں⟩ چنگا لگدا اے، تاں میری جان میری منگ وِچ مینوں دتی جاوے، تے میرا قوم میری عرضی وِچ ⟨دتی جاوے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9d62e02e402c6aecc4a05352fde1994e2656409ce4d0951d1ad1b8b26bd12b43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/esther\/7\/1-4.1792118006363.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותען",
+      "gloss": "جواب دِتا"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ایستیر"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "ملکہ"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "پایا آں"
+    },
+    {
+      "surface": "חן",
+      "gloss": "بخش"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "تیریاں اکھیاں وِچ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨نوں⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگا لگدا اے"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "دتی جاوے"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مینوں"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میری جان"
+    },
+    {
+      "surface": "בשאלתי",
+      "gloss": "میری منگ وِچ"
+    },
+    {
+      "surface": "ועמי",
+      "gloss": "تے میرا قوم"
+    },
+    {
+      "surface": "בבקשתی",
+      "gloss": "میری عرضی وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T02:33:26.364403066Z",
+  "model": "glm-5.3"
+}

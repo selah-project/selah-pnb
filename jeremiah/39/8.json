@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 39:8",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نے",
+      "rationale": "عبرانی وِچ فاعلی نشان نئیں؛ پنجابی فعل دے لئی 'نے' پایا گیا۔"
+    }
+  ],
+  "translation": "تے کسدیاں نے بادشاہ دا گھر تے قوم دا گھر اگّ نال ساڑ دتا، تے یروشلم دیاں کندھاں ڈھا دتیاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0b7c8373c29ec8a28187149590c465bb35c49e3897e73aae95c23c9ff0cb9c03",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/39\/5-8.1792108389406.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "گھر"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ دا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "گھر"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم دا"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "ساڑ دتا"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "کسدیاں نے"
+    },
+    {
+      "surface": "באש",
+      "gloss": "اگّ نال"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "کندھاں"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "کندھاں"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلم"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "ڈھا دتیاں"
+    }
+  ],
+  "timestamp": "2026-10-15T23:53:09.407765433Z",
+  "model": "glm-5.3"
+}

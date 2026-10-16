@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 14:5",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פחדו פחד",
+      "rationale": "اکو جڑ پ-ח-د دو واری — فعل تے اسم دا وار، پنجابی وِچ 'ڈر توں ڈر گئے' نال ٹھیک رکھیا"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨لوکاں⟩",
+      "rationale": "צדיק اِک وچنّا صفت اے، 'نیاں دا دَور' — پنجابی نوں لوکاں دا ناں منگدا اے"
+    }
+  ],
+  "translation": "اوتھے اوہ وڈے ڈر توں ڈر گئے، کیونکہ ایلوہیم نیاں ⟨لوکاں⟩ دے دَور وِچ اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "89dffb7fa07d7843d987d6eb0864d529d8029060358ba5764b434165b0ed1d8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/14\/5-7.1792111929522.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שָׁם",
+      "gloss": "اوتھے"
+    },
+    {
+      "surface": "פָּחֲדוּ",
+      "gloss": "ڈر گئے"
+    },
+    {
+      "surface": "פָּחַד",
+      "gloss": "وڈے ڈر توں"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "בְּדוֹר",
+      "gloss": "دَور وِچ"
+    },
+    {
+      "surface": "צַדִּיק",
+      "gloss": "نیاں ⟨لوکاں⟩ دے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:52:09.523478234Z",
+  "model": "glm-5.3"
+}

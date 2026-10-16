@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 15:12",
+  "book": "joshua",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "یہوشع 15:12",
+      "rationale": "یہوداہ دی پوری سرحد دا انت — خانداناں دے حساب نال ونڈ۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "וגבול (دوجی واری)",
+      "rationale": "بعض مترجم 'تے اوہدا ساحل' لیندے نیں (بحری کنڈھا)؛ عبرانی صرف 'تے اوہدا سرحد' آکھدا اے۔"
+    }
+  ],
+  "translation": "تے لہندا سرحد وڈا سمندر سی تے اوہدا ⟨سرحد⟩ — ایہ بنی یہوداہ دی سرحد اے، گھیر کے، اپنے خانداناں وچ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "47e908eeaf8f49b712a0a7f2de2b4ebfa636882f2921b63c49117259ecb0e627",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joshua\/15\/9-12.1792101032603.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגבול",
+      "gloss": "تے سرحد"
+    },
+    {
+      "surface": "ים",
+      "gloss": "لہندا"
+    },
+    {
+      "surface": "הימה",
+      "gloss": "سمندر سی"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "وڈا"
+    },
+    {
+      "surface": "וגבול",
+      "gloss": "تے اوہدا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ دی"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "گھیر کے"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "اپنے خانداناں وچ"
+    }
+  ],
+  "timestamp": "2026-10-15T21:50:32.606363188Z",
+  "model": "glm-5.3"
+}

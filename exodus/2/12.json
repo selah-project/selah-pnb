@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 2:12",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כה וכה",
+      "rationale": "عبرانی 'ایتھے تے اوتھے' — پنجابی وِچ 'اِس پاسے تے اُس پاسے' دی محاورے دی صورت۔"
+    },
+    {
+      "kind": "secret",
+      "subject": "لُکا کے مارنا",
+      "rationale": "کوئی بندہ نئیں ویکھ کے مارنا تے ریت وِچ لُکاؤنا — چھپا ہویا کم، کھُلی گواہی نئیں۔"
+    }
+  ],
+  "translation": "تے اوہنے اِس پاسے تے اُس پاسے مُڑ کے ویکھیا، تے ویکھیا کہ کوئی بندہ نئیں، تے اوہنے ⟨את⟩ اُس مِتصرایمی نوں ماریا تے اوہنوں ریت وِچ لُکایا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5e9cb4295501a8af3766081dbb02b26e3a1b0e7edf8b284da679def5c9bc3663",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/2\/9-12.1792096150878.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "تے مُڑ کے ویکھیا"
+    },
+    {
+      "surface": "כה",
+      "gloss": "اِس پاسے"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "تے اُس پاسے"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "تے ویکھیا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کوئی نئیں"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "تے ماریا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اُس مِتصرایمی نوں"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "اُس مِتصرایمی"
+    },
+    {
+      "surface": "ויטמנהו",
+      "gloss": "تے اوہنوں لُکایا"
+    },
+    {
+      "surface": "בחול",
+      "gloss": "ریت وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T20:29:10.879656944Z",
+  "model": "glm-5.3"
+}

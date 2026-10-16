@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 19:5",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "پھونکدا اے",
+      "rationale": "יפיח دا مُڈھلا مطلب 'پھونک مارنا' اے — ساہ نال باہر کڈھنا؛ 'بولدا' نرم کرن تے تصویر مٹ جاندی اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "19:5 ਤੇ 19:9",
+      "rationale": "ایہہ آیت تے 19:9 تقریباً اِکو جئیاں نیں — آوارتاؤں بار دا رستہ"
+    }
+  ],
+  "translation": "جھوٹھے گواہ ⟨پھر⟩ معاف نئیں ہوندے، تے جیہڑا جھوٹ پھونکدا اے اوہ بچ نئیں سکدا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f45880f55fe88e537138ea8f0c89b986e33915e4ec5c7c3e59e736c14ca7e073",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/19\/5-8.1792114905863.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "گواہ"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "جھوٹھے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "معاف ہوندے"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "تے پھونکدا اے"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "جھوٹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "بچ سکدا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:41:45.864542323Z",
+  "model": "glm-5.3"
+}

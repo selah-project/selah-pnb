@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 40:5",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨آکھیا⟩",
+      "rationale": "دو واری دے مگروں کریا دی دہرائی عبرانی وچ چھڈی اے، پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "אענה",
+      "rationale": "کی 'مَیں جواب نئیں دِتا' (کجھ ترجمے) یا 'مَیں ہور جواب نئیں دِتا' — اییوو دے دم گھٹنے دا مطلب"
+    }
+  ],
+  "translation": "اک واری مَیں بولیا تے جواب نئیں دِتا، تے دو واری ⟨آکھیا⟩، تے ہور نئیں آکھیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "eecdcb60c3a117f6cbe252a60a944108a61a88970171344893a5e9fe9a62be08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/40\/5-8.1792116479249.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "اک واری"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "مَیں بولیا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "جواب دِتا"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "تے دو واری"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "ہور آکھیا"
+    }
+  ],
+  "timestamp": "2026-10-16T02:07:59.249964935Z",
+  "model": "glm-5.3"
+}

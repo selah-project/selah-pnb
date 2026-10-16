@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 2:32",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צר",
+      "rationale": "مشہور متبادل: 'دشمن'، 'حریف' (JPS)، یا 'تنگی\/مصیبت' (ASV) — لفظی 'تنگ' اے؛ مسکن وِچ کِسے ہور دی نظر یعقوبی دا مطلب وی متعین اے۔"
+    },
+    {
+      "kind": "alternative",
+      "subject": "مسکن وِچ تنگی ویکھیں گا",
+      "rationale": "ASPS والا پڑھائی: צר نوں 'تنگی' لے کے 'میرے مسکن دی مصیبت ویکھیں گا'۔"
+    }
+  ],
+  "translation": "تے توں مسکن وِچ دشمن نوں ویکھیں گا، سارے اُس چنگے وِچ جو اوہ ⟨את⟩ یِسرائیل نال کرےگا؛ تے تیرے گھر وِچ کوئی بوڑھا نہ ہووےگا سارے دناں تک۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a38aa30a577eb2b6750a123445f5761feae53c54164958815e18a0aeafb4f510",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/2\/29-32.1792102203967.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והבטת",
+      "gloss": "تے توں ویکھیں گا"
+    },
+    {
+      "surface": "צר",
+      "gloss": "دشمن نوں"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "مسکن وِچ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "اُس وِچ جو"
+    },
+    {
+      "surface": "ייטיב",
+      "gloss": "اوہ چنگا کرےگا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یِسرائیل نال"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہووےگا"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "بوڑھا"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "تیرے گھر وِچ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "دناں تک"
+    }
+  ],
+  "timestamp": "2026-10-15T22:10:03.968395696Z",
+  "model": "glm-5.3"
+}

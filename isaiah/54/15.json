@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 54:15",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גור יגור … גר",
+      "rationale": "اکو جڑ ח گ-و-ر تن واری — 'جُٹنا' دی چھنائی، پنجابی وِچ 'جُٹنا' دہرائے نال ہلدی اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "אפס מאותי",
+      "rationale": "'میرے توں نئیں' بمقابلہ 'میرے بِنا' — מאותی م Malcolm مِن + את دا جوڑ اے، 'میرے ولوں نئیں' وی پڑھیا گیا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨توں⟩",
+      "rationale": "مِن دا پنجابی 'توں' — عبرانی وِچ جوڑیا ہویا اے پر وکھ لکھیا گیا"
+    }
+  ],
+  "translation": "دیکھ، کوئی جُٹ جاوے پر ⟨את⟩ میرے ⟨توں⟩ نئیں؛ جو تیرے نال ⟨את⟩ جُٹے، اوہ تیرے اُتے ڈیہیگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "07029e31779e38e20ce40c5d90e7c0bc6d56c8d23c6e669cd8b4f80e4e214651",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/54\/13-16.1792106918167.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "دیکھ"
+    },
+    {
+      "surface": "גור",
+      "gloss": "کوئی جُٹے"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "جُٹ جاوے"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "מאותי",
+      "gloss": "⟨את⟩ میرے ⟨توں⟩ نئیں",
+      "marks": "میرے"
+    },
+    {
+      "surface": "מי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "גר",
+      "gloss": "جُٹے"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ تیرے نال",
+      "marks": "تیرے نال"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تیرے اُتے"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ڈیہیگا"
+    }
+  ],
+  "timestamp": "2026-10-15T23:28:38.168611684Z",
+  "model": "glm-5.3"
+}

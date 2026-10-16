@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 52:3",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "غصے",
+      "rationale": "אף سُچیا 'نَکّ\/ناس' اے — عبرانی غصے نوں ناس دی فُوک کہندا اے، پنجابی 'غصہ' اِکو لفظ دے دیندا اے"
+    },
+    {
+      "kind": "elision",
+      "subject": "ایہہ",
+      "rationale": "היתה دا فاعل عبرانی وِچ نئیں دسیا — کیہ ہوئی، لُکا ای رکھیا اے"
+    }
+  ],
+  "translation": "کیونکہ یاہوہ دے غصے توں ایہہ یروشلایم تے یہوداہ وِچ ہوئی، اوہدے ⟨את⟩ اوہناں نوں اپنے منہ توں سُٹن تک، تے صدقیاہو بابل دے بادشاہ خلاف بغاوت کر گیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ee63cec80bc7787ee7ba87ba6f8918cf90a2296d933781515bf74d13fbb3fa73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/52\/1-4.1792108950447.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "توں ⟨دی وجہ⟩"
+    },
+    {
+      "surface": "אף",
+      "gloss": "غصے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ہوئی"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "یروشلایم وِچ"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "تے یہوداہ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "השליכו",
+      "gloss": "سُٹن"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "اوہناں نوں"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "توں"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "اپنے منہ"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "تے بغاوت کر گیا"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "صدقیاہو"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل دے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:02:30.448624775Z",
+  "model": "glm-5.3"
+}

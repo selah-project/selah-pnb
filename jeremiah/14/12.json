@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 14:12",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עולה",
+      "rationale": "'چڑھن والی' — پنجابی وِچ 'سوازی قربانی'؛ اُتے چڑھن دا تصیر کھُلھدا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יעלו\/עולה",
+      "rationale": "اوہی جڑ עלה — 'چڑھاؤن… چڑھن والی'؛ پنجابی وِچ جوڑ گُم ہو گیا"
+    }
+  ],
+  "translation": "جدوں اوہ روزہ رکھن، میں اوہناں دی پکار د‏‏ی طرف نئیں کردا؛ تے جدوں اوہ سوازی قربانی تے ہدیہ چڑھاؤن، میں اوہناں نوں قبول نئیں کردا — کیونکہ تلوار تے قحط تے وبا نال میں ⟨את⟩ اوہناں نوں مکا رہا واں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4ee4d7c13d129494ff944252cf0f6807e8ba25834a6b84bcccdcb82310a1800d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/14\/9-12.1792107687096.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "جدوں"
+    },
+    {
+      "surface": "יצומו",
+      "gloss": "اوہ روزہ رکھن"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "میں نئیں"
+    },
+    {
+      "surface": "שומע",
+      "gloss": "سندا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "د‏‏ی طرف"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "اوہناں دی پکار"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "تے جدوں"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "اوہ چڑھاؤن"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "سوازی قربانی"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "تے ہدیہ"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "میں نئیں"
+    },
+    {
+      "surface": "רצם",
+      "gloss": "قبول کردا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "تلوار نال"
+    },
+    {
+      "surface": "וברעב",
+      "gloss": "تے قحط نال"
+    },
+    {
+      "surface": "ובדבר",
+      "gloss": "تے وبا نال"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "מכלה",
+      "gloss": "مکا رہا واں"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "اوہناں نوں"
+    }
+  ],
+  "timestamp": "2026-10-15T23:41:27.097754410Z",
+  "model": "glm-5.3"
+}

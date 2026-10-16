@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 14:8",
+  "book": "hosea",
+  "lang": "pnb",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ישבו \/ ישבי",
+      "gloss": "",
+      "rationale": "מُڑنا (שׁוּב) تے بیٹھنا (יָשַׁב) اِکو اکھراں نال سنکی آواز — عبرانی وِچ واضع، پنجابی وِچ مُکدا"
+    },
+    {
+      "kind": "crux",
+      "subject": "زכרו",
+      "rationale": "'یادگاری'، 'مشہوری' یا 'خوشبو دی سُرتی' — ترجمے وکھرے نیں؛ 'شراب دی مہک' دا سُر سیاق دیندا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "اناج جِویسن گے",
+      "rationale": "יחיו causative 'جِویندے نیں' — یعنی اناج نوں جِوندا کرن، کجھ ترجمے 'اناج اُگاؤنے نیں' کردے نیں"
+    }
+  ],
+  "translation": "اوہدے سایہ ہیٹھ بیٹھن والے مُڑ آؤنے نیں؛ اوہ اناج جِویسن گے تے اِیک طرحاں پھلسن گے؛ اوہدی یادگاری لِبنان دی شراب ورگی ہووےگی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "33a70dbb1802f770e32d7c3d826afaea8dc33bfe9a56dc0f61b012e18af35e66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/hosea\/14\/5-8.1792110625888.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישבו",
+      "gloss": "مُڑ آؤنے نیں"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "بیٹھن والے"
+    },
+    {
+      "surface": "בצלו",
+      "gloss": "اوہدے سایہ ہیٹھ"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "جِویسن گے"
+    },
+    {
+      "surface": "دגן",
+      "gloss": "اناج"
+    },
+    {
+      "surface": "ויפרחו",
+      "gloss": "تے پھلسن گے"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "اِیک طرحاں"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "اوہدی یادگاری"
+    },
+    {
+      "surface": "כיין",
+      "gloss": "شراب ورگی"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "لِبنان دی"
+    }
+  ],
+  "timestamp": "2026-10-16T00:30:25.889791353Z",
+  "model": "glm-5.3"
+}

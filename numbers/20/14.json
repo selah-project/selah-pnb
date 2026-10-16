@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 20:14",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to king of Edom",
+      "rationale": "آیت ادوم دے بادشاہ نوں سِدھا مخاطب اے — موشے دا بھیجا پیغام۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "پیغام",
+      "rationale": "מלאכים اِکو لفظ اے جیہڑا فرشتے لئی وی اے — اتھے مطلب انسانی ایلچی نیں۔"
+    }
+  ],
+  "translation": "تے موشے نے قادِش توں ادوم دے بادشاہ کول پیغام بھیجے: اِنج آکھدا اے تیرا بھرا یِسرائیل: تُوں جاندائیں ⟨את⟩ سارِی اوہ تنگی جیہڑی ساڈی آئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d8a4b4c02a93cb1d2628a3f988a8dfb7561269ae465454a4713f2afec71e76f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/20\/13-16.1792098870309.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "تے بھیجے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے نے"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "پیغام"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "قادِش توں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ادوم دے"
+    },
+    {
+      "surface": "כה",
+      "gloss": "انج"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھدا اے"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "تیرا بھرا"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُوں"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "جاندائیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سارِی تنگی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارِی"
+    },
+    {
+      "surface": "התלאה",
+      "gloss": "تنگی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "מצאתנו",
+      "gloss": "ساڈی آئی"
+    }
+  ],
+  "timestamp": "2026-10-15T21:14:30.310514271Z",
+  "model": "glm-5.3"
+}

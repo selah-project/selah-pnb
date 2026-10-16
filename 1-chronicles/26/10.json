@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 26:10",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سن",
+      "rationale": "عبرانی وِچ کوئی کریا نئیں"
+    },
+    {
+      "kind": "crux",
+      "subject": "کیونکہ",
+      "rationale": "کی: “کیونکہ بھاویں اوہ پہلوں جمیا نئیں سی” (KJV) بمقابلہ سادہ “کیونکہ اوہ پہلوں جمیا نئیں سی”"
+    }
+  ],
+  "translation": "تے چوساہ کول، مراری دے پُتراں وِچوں، پُتر سن: شمری مکھی — کیونکہ اوہ پہلوں جمیا نئیں سی، تے اوہدے پیؤ نے اوہنوں مکھی بنایا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a516b2e8f326db5408bf23218b7f6178301d0055a18587f63cb867a6dbd136cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/26\/9-12.1792121230546.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולחסה",
+      "gloss": "تے چوساہ کول"
+    },
+    {
+      "surface": "מן",
+      "gloss": "وِچوں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "مراری"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "شمری"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "مکھی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "היה",
+      "gloss": "سی"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "پہلوں جمیا"
+    },
+    {
+      "surface": "וישימהו",
+      "gloss": "تے بنایا اوہنوں"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "اوہدے پیؤ نے"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "مکھی"
+    }
+  ],
+  "timestamp": "2026-10-16T03:27:10.547322212Z",
+  "model": "glm-5.3"
+}

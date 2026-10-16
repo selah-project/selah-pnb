@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "סגלה",
+      "rationale": "'خاص جائیداد\/خزانہ' — بادشاہ دی نجی ملکیت دا لفظ، صرف ترائے تھاواں تے تنخ وِچ (سنخ 7:6، قیت 26:18)۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "نے",
+      "rationale": "عبرانی دے ماضی فعل نوں پنجابی پکھ لئی 'نے' پایا گیا۔"
+    }
+  ],
+  "translation": "کیوں جو یاہ نے یعقوو نوں آپ لئی چُنیا، یِسرائیل نوں آپنی خاص جائیداد لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d52957cd6ef4347864f7d58f5626c0390271d3a140abb4ed9738ce9c79e28589",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/135\/1-4.1792114046413.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "چُنیا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "آپ لئی"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاہ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "آپنی خاص جائیداد لئی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:27:26.414551847Z",
+  "model": "glm-5.3"
+}

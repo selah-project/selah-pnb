@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 104:34",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יערב",
+      "rationale": "'مٹھا\/من بھاؤندا ہووے' (دعا) تے 'مٹھا اے' (اِعلان) دو پڑھائیاں"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨اوہدے⟩",
+      "rationale": "עליו وچ شدہ ضمیر اے — پنجابی وچ وکھ لفظ منگدا"
+    }
+  ],
+  "translation": "میری سوچ وِچار ⟨اوہدے⟩ اگے مٹھے لگن، میں تاں یاہوہ وِچ خُش ہوواںگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0f8e6102456bb3bc270249a1ea47b7d8116ccc079f8644cca50f3ccedeb565d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/104\/33-35.1792113553372.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יערב",
+      "gloss": "مٹھے لگن"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "⟨اوہدے⟩ اگے"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "میری سوچ وِچار"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں تاں"
+    },
+    {
+      "surface": "אשמח",
+      "gloss": "خُش ہوواںگا"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "یاہوہ وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:19:13.373001376Z",
+  "model": "glm-5.3"
+}

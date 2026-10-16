@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 69:37",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "نسل",
+      "rationale": "זרע دا مُڈھلا مطلب 'بیج' اے — پوسٹر دا مدعا سیاق دسدا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "ورثے وِچ",
+      "rationale": "ינחלוה وِچ 'وارث ہونا' دا لفظی چتر پنجابی وِچ پورا کرن لئی"
+    }
+  ],
+  "translation": "تے اوہدے بندیاں دی نسل اوہنوں ورثے وِچ لویگی، تے اوہدے ناں دے پیار کرن والے اوہدے وِچ وسنگے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "da3a4184a082a585f417f390c0147b52becaec31662dcd7a765bd6b24afc3ae5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/69\/37-37.1792112829983.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזרע",
+      "gloss": "تے نسل"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "اوہدے بندیاں دی"
+    },
+    {
+      "surface": "ינחלוה",
+      "gloss": "اوہنوں ورثے وِچ لویگی"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "تے پیار کرن والے"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اوہدے ناں دے"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "وسنگے"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اوہدے وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:07:09.984178144Z",
+  "model": "glm-5.3"
+}

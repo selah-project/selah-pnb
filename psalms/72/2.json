@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 72:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "צדק \/ משפט",
+      "rationale": "آیت 1 دے משפטיך تے צדקתך آیت 2 وِچ واپس آندے نیں — کی-کلی-ilumin چکر جیہڑا پنجابی وِچ سہارے نال دسدا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "اوہ",
+      "rationale": "قلبی کریا دی ضمیر عبرانی کریا روپ وِچ اے، پنجابی وچ وکھ لفظ"
+    }
+  ],
+  "translation": "اوہ تیرے قوم نوں صداقت نال فیصلے تے تیرے غریباں نوں انصاف نال۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a48fef1a85418dbb54979a0547751fddc0df576b4ea71bd982194e4e10d4ed60",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/72\/1-4.1792112938399.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "اوہ فیصلے کرے"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تیرے قوم نوں"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "صداقت نال"
+    },
+    {
+      "surface": "וענייך",
+      "gloss": "تے تیرے غریباں نوں"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "انصاف نال"
+    }
+  ],
+  "timestamp": "2026-10-16T01:08:58.400082246Z",
+  "model": "glm-5.3"
+}

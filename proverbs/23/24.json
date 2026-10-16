@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 23:24",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גול \/ יגול \/ יולד",
+      "rationale": "شمشی جڑ گ-ו-ل — 'خوشی خوشی کردا اے' تے 'جِنّے والا' — آپس وِچ گُوندی ہوئی، پنجابی وِچ مکری نئیں سکدی"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨پُتر⟩",
+      "rationale": "عبرانی 'دانشمند' اکلا اے — اسمِ مفعول دا کیتا ہویا سیاق 'پُتر' پنجابی نوں چاہیدا اے"
+    }
+  ],
+  "translation": "خوشی نال خوشی کردا اے اِنصاف والے دا پیو، تے جِنّے والا دانشمند ⟨پُتر⟩ اوہدے وِچ خوش ہوندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e92b0a7b96c6ca27ad0ed2e7d7f28bd931ca0350ca145a23445f7edfddcbb74f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/23\/21-24.1792115027879.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גול",
+      "gloss": "خوشی نال"
+    },
+    {
+      "surface": "יגול",
+      "gloss": "خوشی کردا اے"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "دا پیو"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "اِنصاف والا"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "جِنّے والا"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "دانشمند"
+    },
+    {
+      "surface": "וישמח",
+      "gloss": "تے خوش ہوندا اے"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوہدے وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:43:47.880670397Z",
+  "model": "glm-5.3"
+}

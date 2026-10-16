@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 1:25",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "سوڈے ورگا",
+      "rationale": "כבר باشانی سوڈا\/لاؤ اے — دھات صاف کرن دا ساڑ، ایس لئی 'ورگا' پا کے تشبیہ ظاہر کیتی۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "تے پھیریں گا",
+      "rationale": "ואשיבה ידי — 'ہتھ پھیرنا' چنگائی لئی وی ہو سکدا اے تے سزا لئی وی؛ 'تیرے اُتے' دوواں مطابق۔"
+    }
+  ],
+  "translation": "تے اَ میں اپنا ہتھ تیرے اُتے پھیریں گا، تے تیرے سِیاں نوں سوڈے ورگا پگھلا کے صاف کریں گا، تے تیرا سارا ٹِن ہٹا دیاں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "eee3dcdb8668e34c30089d842b03c2e976f828dea70b761592f4188a52d3e489",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/1\/25-28.1792105735809.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשיבה",
+      "gloss": "تے پھیریں گا"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "اپنا ہتھ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تیرے اُتے"
+    },
+    {
+      "surface": "ואצרף",
+      "gloss": "تے پگھلا کے صاف کریں گا"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "سوڈے ورگا"
+    },
+    {
+      "surface": "סיגיך",
+      "gloss": "تیرے سِیاں نوں"
+    },
+    {
+      "surface": "ואסירה",
+      "gloss": "تے ہٹا دیاں گا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "בדיליך",
+      "gloss": "تیرا ٹِن"
+    }
+  ],
+  "timestamp": "2026-10-15T23:08:55.810346970Z",
+  "model": "glm-5.3"
+}

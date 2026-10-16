@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 81:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ותנו תף",
+      "rationale": "لفظی 'ڈف دیو' — عبرانی وِچ نٹن (دینا) ونجن والے اوزار نال بجاؤن دا محاورہ اے۔"
+    },
+    {
+      "kind": "elision",
+      "subject": "שאו",
+      "rationale": "נשא 'چُکنائیں' — گیت اُچّا چُکن دا مطلب گائیک شروع کرنا۔"
+    }
+  ],
+  "translation": "گیت چُکّو تے ڈف وجاؤ، مٹھا کنّور نال نبّل ⟨نال⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "cd0f650e23c0db414c148f8d4406897a2281ba63dbbb781de164fc5fe0c85eb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/81\/1-4.1792113161700.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "چُکّو"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "گیت"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "تے وجاؤ"
+    },
+    {
+      "surface": "תף",
+      "gloss": "ڈف"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "کنّور"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "مٹھا"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "نبّل"
+    }
+  ],
+  "timestamp": "2026-10-16T01:12:41.700959504Z",
+  "model": "glm-5.3"
+}

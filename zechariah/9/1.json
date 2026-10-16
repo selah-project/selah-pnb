@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 9:1",
+  "book": "zechariah",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "משא דבר",
+      "rationale": "'بچ دا بوجھ' نبوی اصطلاح اے — سزا دا اعلان، سار بھار"
+    },
+    {
+      "kind": "crux",
+      "subject": "עין אדם",
+      "rationale": "'بندے دی اکھ یاہوہ ولّ اے' بمقابلہ 'یاہوہ دی اکھ بندے اُتے اے' — ترتیب دوہری پڑھی جاندی اے"
+    },
+    {
+      "kind": "hapax",
+      "subject": "חדרך",
+      "rationale": "حدراخ تنخ وِچ صرف ایتھے آیا اے، شام دا تھاں\/دیوتا"
+    },
+    {
+      "kind": "addition",
+      "subject": "مُڑدی اے",
+      "rationale": "کریا عبرانی وِچ کوئی نئیں، پنجابی جملے لئی پایا"
+    }
+  ],
+  "translation": "یاہوہ دے بچ دا بوجھ حدراخ دی زمین وِچ، تے دمشق اوہدی آرام-تھاں؛ کیونکہ بندے دی اکھ تے یِسرائیل دے سارے قبیلےآں دی اکھ یاہوہ ولّ ⟨مُڑدی اے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c9a202bb4e68a734844dcdbcd9b335033db4cd8f27b7272f0cdf0115669ee6f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/zechariah\/9\/1-4.1792111586991.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "بوجھ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "بچ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دے"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین وِچ"
+    },
+    {
+      "surface": "חדרך",
+      "gloss": "حدراخ دی"
+    },
+    {
+      "surface": "ודמשק",
+      "gloss": "تے دمشق"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "اوہدی آرام-تھاں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ ولّ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "اکھ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "بندے دی"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سارے"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "قبیلےآں دی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل دے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:46:26.991833481Z",
+  "model": "glm-5.3"
+}

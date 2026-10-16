@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 18:10",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ننگائی کھولھنا",
+      "rationale": "ערוה גלות — جنسی تعلق دا کنایہ، لفظی مطلب 'بے پردہ کرنا'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ہنّہ",
+      "rationale": "ערותך הנה دا لفظی مطلب 'تیرِی ننگائی اوہ نیں' — خون دا رشتہ، کوئی دوrios تے نئیں"
+    }
+  ],
+  "translation": "تیرے پُتر دی دھی جاں تیرِی دھی دی دھی دی ننگائی — اوہناں دی ننگائی نہ کھولھ، کیوں جو اوہ ⟨تیری⟩ ننگائی نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1024c7c36b88be9e668d61a1c67f471dcfdc591d7fed26ad0f667bdcf5c97d03",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/18\/9-12.1792097792203.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "ننگائی"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دھی"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "تیرے پُتر دی"
+    },
+    {
+      "surface": "או",
+      "gloss": "جاں"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دھی"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "تیرِی دھی دی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "کھولھ"
+    },
+    {
+      "surface": "ערותן",
+      "gloss": "اوہناں دی ننگائی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "تیرِی ننگائی"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "نیں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:56:32.204216528Z",
+  "model": "glm-5.3"
+}

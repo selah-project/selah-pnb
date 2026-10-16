@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 25:14",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "کجھ ⟨شے⟩",
+      "rationale": "مِمکھار اسمِ مفعول بِنا اے؛ پنجابی نوں شے دا لوڑ اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ستاوے",
+      "rationale": "یَنَہ دا مول اے 'ظلم کرنا\/زور لا کے دکھ دینا'، 'ساتنا' نیڑے دا پنجابی ہمزاد اے"
+    }
+  ],
+  "translation": "تے جدوں تسیں اپنے سنگی نوں کجھ ویچو، یا اپنے سنگی دے ہتھوں کجھ خریدو، نہ کسے بندے اپنے بھرا نوں ⟨את⟩ ستاوے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d1ce4eac899fed536371a2406c0f5896084a8e27076b10caacde885917b0dc82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/25\/13-16.1792098083559.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "تے جدوں"
+    },
+    {
+      "surface": "תמכרו",
+      "gloss": "ویچو"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "کجھ ⟨ویکن والی شے⟩"
+    },
+    {
+      "surface": "לעמיתך",
+      "gloss": "اپنے سنگی نوں"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "خریدو"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ہتھوں"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "اپنے سنگی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "ستاوے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "کِسے بندے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنے بھرا نوں"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "اپنے بھرا"
+    }
+  ],
+  "timestamp": "2026-10-15T21:01:23.560217276Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 117,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "مفعول دا نشان ہے؛ ⟨את⟩ چُکا گیا تے ایہدے نال پکاریا گیا 'اے' وی پنجابی دی لوڑ نوں پورا کرن لئی"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גוים \/ האמים",
+      "rationale": "تکرار: دووے وار 'کل' نال موازی جوڑ اے — قوماں تے لوک؛ پنجابی وِچ موازنہ رکھیا گیا"
+    },
+    {
+      "kind": "invitation",
+      "subject": "to all nations",
+      "rationale": "حکریانا سدّا — ساریاں قوماں نوں تعریف کرن دا آکھیا گیا"
+    }
+  ],
+  "translation": "تعریف کرو ⟨את⟩ یاہوہ دی، اے ساریاں قوماں؛ اوہدی شان آکھو، اے سارے لوکا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "47d4805870e6a00f81db254929adb0d5d2f04abccace4400a4033b5496848f39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/117\/1-2.1792113761230.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "تعریف کرو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساریاں"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قوماں"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "اوہدی شان آکھو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "لوکا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:22:41.230684348Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 7:37",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اے⟩",
+      "rationale": "عبرانی وِچ کوئی فعل نئیں، پنجابی جملے لئی 'اے' پایا گیا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "تورات",
+      "rationale": "H8451 — ایتھے مطلب خاص حکم\/ہدایت اے، پنجابی وِچ 'تورات' ⟨ہدایت⟩ وضاحت نال دوجی واری جائز"
+    },
+    {
+      "kind": "measurement",
+      "subject": "قربانیاں دی لسٹ",
+      "rationale": "آیت چھ قربانیاں دی گِنتی کردی اے — رسمی لسٹ"
+    }
+  ],
+  "translation": "ایہہ ⟨اے⟩ تورات اے: عولے لئی، منچھہ لئی، تے چُٹّی قربانی لئی، تے گناہ-قربانی لئی، تے مِلاؤناں لئی، تے شکریہ دی قربانی لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "27c0e782f3e5810d8f2238974b0852f656416c3ad9b561b22bdb14ef52b1f99a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/7\/37-38.1792097399063.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "تورات"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "عولے لئی"
+    },
+    {
+      "surface": "למנחה",
+      "gloss": "منچھہ لئی"
+    },
+    {
+      "surface": "ולחטאת",
+      "gloss": "تے چُٹّی قربانی لئی"
+    },
+    {
+      "surface": "ולאשם",
+      "gloss": "تے گناہ-قربانی لئی"
+    },
+    {
+      "surface": "ולמלואים",
+      "gloss": "تے مِلاؤناں لئی"
+    },
+    {
+      "surface": "ולזבח",
+      "gloss": "تے قربانی لئی"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "شکریہ دی"
+    }
+  ],
+  "timestamp": "2026-10-15T20:49:59.063666861Z",
+  "model": "glm-5.3"
+}

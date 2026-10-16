@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 2:25",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "צפון",
+      "rationale": "ਸ਼ਾਬਦਿਕ 'لُکیا ہویا\/ہنیری' — اُتر دے رُخ لئی ورتیا جاندا اے، 'اُتلے پاسے' ریت دا ترجمہ اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "ہووےگا",
+      "rationale": "عبرانی وِچ کوئی فعل نئیں، پنجابی دی لوڑ۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "پڑاؤ",
+      "rationale": "چھاؤنیاں دے اُتلے پاسے دَن دے پڑاؤ دی تھاں دسدا اے۔"
+    }
+  ],
+  "translation": "دَن دے پڑاؤ دا جھنڈا اُتلے پاسے ہووےگا، اوہناں دیاں فوجاں وِچ؛ تے دَن دیاں اولاداں دا سردار اَخِیعِزِر، عَمّیشَدّای دا پُتر۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a26588904bf7f11957b1aa1b613ef6586b68311a94ea9d85df61f08b703f5844",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/2\/25-28.1792098269191.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דגל",
+      "gloss": "جھنڈا"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "پڑاؤ"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دَن"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "اُتلے پاسے"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "اوہناں دیاں فوجاں وِچ"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "تے سردار"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "دی اولاداں دا"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دَن"
+    },
+    {
+      "surface": "אחיעזר",
+      "gloss": "اَخِیعِزِر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "עמישדי",
+      "gloss": "عَمّیشَدّای"
+    }
+  ],
+  "timestamp": "2026-10-15T21:04:29.192151860Z",
+  "model": "glm-5.3"
+}

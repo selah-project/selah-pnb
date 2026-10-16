@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 19:13",
+  "book": "ezekiel",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اُہدیاں",
+      "rationale": "عبرانی وِچ قصیدے دی ویل (ناقہ) دا ضمیر ضم اے، پنجابی نوں صریح ضمیر چاہیدا"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨اے⟩",
+      "rationale": "پنجابی جامد فعل چاہندا اے، عبرانی وِچ صرف بانْیٔ (شתולה) اے"
+    }
+  ],
+  "translation": "تے ہن اُہدیاں اِک سُکھی تے پیاسی دھرتی وِچ، ویرانے وِچ لا دتی گئی ⟨اے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "760240454d3d2d7140397754ff3351606b620919c575a7e7e00182fdaf26910b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/19\/13-14.1792109429049.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "تے ہن"
+    },
+    {
+      "surface": "שתולה",
+      "gloss": "لا دتی گئی"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ویرانے وِچ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "دھرتی وِچ"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "سُکھی"
+    },
+    {
+      "surface": "וצמא",
+      "gloss": "تے پیاسی"
+    }
+  ],
+  "timestamp": "2026-10-16T00:10:29.050340256Z",
+  "model": "glm-5.3"
+}

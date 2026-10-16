@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 1:32",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سن",
+      "rationale": "دوجی لسٹ لئیcopula پنجابی وِچ ضروری، عبرانی وِچ نئیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "پِلگش",
+      "rationale": "פילגש دا سوہنا مترادف پنجابی وِچ نئیں — لفظ نیڑے رکھیا، متردد 'رکھیل' توں پرہیز"
+    },
+    {
+      "kind": "measurement",
+      "subject": "نسبت نامہ",
+      "rationale": "قتورہ دی نسل دی لسٹ"
+    }
+  ],
+  "translation": "تے قتورہ دے پُتر — اَوراہام دی پِلگش — اوہنے ⟨את⟩ زمران نوں جنیا، تے یقشان، تے مدان، تے مدیان، تے یشباق، تے شُوح۔ تے یقشان دے پُتر شِبا تے ددان سن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4ef063860bd0ae2c89f9246b26ecddb61eb79fca4786ed9d54676e5916d804d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/1\/29-32.1792120118373.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "تے … دے پُتر"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "قتورہ"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "پِلگش"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراہام"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "اوہنے جنیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زمران نوں"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "زمران"
+    },
+    {
+      "surface": "ויקשן",
+      "gloss": "تے یقشان"
+    },
+    {
+      "surface": "ומדן",
+      "gloss": "تے مدان"
+    },
+    {
+      "surface": "ומדין",
+      "gloss": "تے مدیان"
+    },
+    {
+      "surface": "וישבק",
+      "gloss": "تے یشباق"
+    },
+    {
+      "surface": "ושוח",
+      "gloss": "تے شُوح"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "تے … دے پُتر"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "یقشان"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "شِبا"
+    },
+    {
+      "surface": "ודדן",
+      "gloss": "تے ددان"
+    }
+  ],
+  "timestamp": "2026-10-16T03:08:38.374405215Z",
+  "model": "glm-5.3"
+}

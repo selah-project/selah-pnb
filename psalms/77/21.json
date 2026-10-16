@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 77:21",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "توں",
+      "rationale": "عبرانی وِچ کریا پہلاں والا صیغہ اے — 'توں' صیغے دا ضمنی اے پر شاہ مُکھی جملہ منگدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ریوڑ وانگوں",
+      "rationale": "כצאן جمع اسم 'جُھنڈ\/ریوڑ' اے — 'وانگوں' تشبیہ دا نشان کاف اے، پنجابی وِچ وکھ لفظ چاہیدا"
+    }
+  ],
+  "translation": "توں اپنے قوم نوں ریوڑ وانگوں موشے تے اہرون دے ہتھ وِچ لے گیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "06e6ab777cc305adfc8b902300dadc3c02ed983aea52653db7aae92601ec0898",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/77\/21-21.1792112939932.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נחית",
+      "gloss": "لے گیا"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "ریوڑ وانگوں"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "اپنے قوم نوں"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "دے ہتھ وِچ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "تے اہرون"
+    }
+  ],
+  "timestamp": "2026-10-16T01:08:59.933506086Z",
+  "model": "glm-5.3"
+}

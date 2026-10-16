@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "lamentations 3:65",
+  "book": "lamentations",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מגנת לב",
+      "rationale": "'دل دا پَردہ' — وکھرے ترجمے: 'دکھ' (KJV)، 'سختی' (JPS)، 'پَردہ پائی ہوئی اَنھّی دل' (YLST) — بنیاد مے جھیل دا مطلب چھپاؤنا اے"
+    },
+    {
+      "kind": "hapax",
+      "subject": "תאלתך",
+      "rationale": "תַּאֲלָה لعنت\/بددعا — صرف ایتھے ملدا اے"
+    }
+  ],
+  "translation": "تو اوہناں نوں دل دا پَردہ دِیویں، اوہناں لئی تیری لعنت۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ad5bfc20e7a4d870667b74c5019fed38db0c420434448a4ab9dd901fac76dde5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/lamentations\/3\/65-66.1792117075266.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "دِیویں"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اوہناں نوں"
+    },
+    {
+      "surface": "מגנת",
+      "gloss": "پَردہ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "תאלתך",
+      "gloss": "تیری لعنت"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اوہناں لئی"
+    }
+  ],
+  "timestamp": "2026-10-16T02:17:55.267271761Z",
+  "model": "glm-5.3"
+}

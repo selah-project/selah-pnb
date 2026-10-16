@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 6:3",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לא נודעתי",
+      "rationale": "مشہور مگھر: 'نئیں جان پیا' تاں پیدائش وِچ یاہوہ دا ناں پہلاں آیا اے — 'پوری طرح ظاہر نئیں کیتا' ورو 'صرف ایل شدّای توں جانو'، مترجم وکھرے نیں۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨دے طور تے⟩",
+      "rationale": "באל שדי جُڑیا ہویا اے — 'ایل شدّای وِچ\/دے طور تے'، پنجابی واسطے منگدا اے۔"
+    },
+    {
+      "kind": "secret",
+      "subject": "میرا ناں یاہوہ",
+      "rationale": "ناں لُکائے رکھن والی گل — ہُن ہی پورا کھلھیا اے۔"
+    }
+  ],
+  "translation": "تے میں اَوراہام نال، یِتصخاق نال تے یعقوو نال ایل شدّای ⟨دے طور تے⟩ ظاہر ہویا؛ پر میرا ناں یاہوہ میں اُنہاں توں نئیں جان پیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "47f5036d9d5fff41d85a2809118984961297c6477a6077d7432dafcda44a2dae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/6\/1-4.1792096260784.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "تے ظاہر ہویا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراہام"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "یِتصخاق"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے نال"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    },
+    {
+      "surface": "באל",
+      "gloss": "ایل ⟨دے طور تے⟩"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "شدّای"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "تے میرا ناں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "נודעתי",
+      "gloss": "جان پیا"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اُنہاں توں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:31:00.785266107Z",
+  "model": "glm-5.3"
+}

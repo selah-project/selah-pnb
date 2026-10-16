@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 122,
+  "ref": "psalms 119:122",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ערב",
+      "rationale": "'ضامن بن جا' (KJV, JPS) بمقابلہ کجھ معنے 'بھل پچھ' — ضمانت والا پکھ بہوں متھا اے۔"
+    },
+    {
+      "kind": "you",
+      "subject": "یاہوہ",
+      "rationale": "بندہ خدا نوں ضامن بنن دی بینتی کردا اے۔"
+    }
+  ],
+  "translation": "اپنے نوکر لئی چنگائی دا ضامن بن جا؛ اکڑے ہوئے مینوں نہ دبن دِتن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8ab7dffb29c8572f4537a19b3024d19d043d50f4049b89f95dd83e4d3980aeb8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/119\/121-124.1792113926242.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "ضامن بن جا"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "اپنے نوکر لئی"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "چنگائی لئی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יעשקני",
+      "gloss": "مینوں دبن دِتن"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "اکڑے ہوئے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:25:26.242786066Z",
+  "model": "glm-5.3"
+}

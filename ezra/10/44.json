@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "ezra 10:44",
+  "book": "ezra",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نوں",
+      "rationale": "پنجابی مفعول دا نشان منگدا اے، عبرانی وِچ ایس تھاں את نئیں"
+    },
+    {
+      "kind": "crux",
+      "subject": "ویاشیہُو بّانِیم",
+      "rationale": "'جنہاں توں پُتر جناے' (KJV\/ASV) بمقابلہ یلت دا 'پُتر گوڈ لئے' — فعل אשים دا مطلب 'رکھنا\/بناؤنا' دوویں پاسے"
+    }
+  ],
+  "translation": "ایہناں سبھاں نے پردیسی زنانیاں ⟨نوں⟩ ویاہیا سی، تے اِنہاں وِچوں کجھ دیاں زنانیاں سن جنہاں توں اِنہاں نے پُتر جناے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d9f88930218dc2634fdaa8e8f6f9309c01143d9b421e4b35f6dc9759d896868d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezra\/10\/41-44.1792119292521.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ایہناں سبھاں"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "ویاہیا سی"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "زنانیاں"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "پردیسی"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "تے سن"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "اِنہاں وِچوں کجھ"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "زنانیاں"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "جنہاں توں جنایا"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پُتر"
+    }
+  ],
+  "timestamp": "2026-10-16T02:54:52.521978350Z",
+  "model": "glm-5.3"
+}

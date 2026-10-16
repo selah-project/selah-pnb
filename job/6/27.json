@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 6:27",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תפילו…תכרו",
+      "rationale": "KJV 'یتیم نوں ڈبّو\/گڑھا پوندے او'، JPS\/ASV 'یتیم اُتے پنسا سٹدے او تے یار نوں ویچ دیندے او' — כרה دا مطلب پُٹنا\/سودا وی اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨پنسا⟩\/⟨گڑھا⟩",
+      "rationale": "عبرانی سِرّف 'سٹدے او' تے 'پوندے او' آکھدا اے؛ مفعول عبرانی وِچ کوئی نئیں۔"
+    }
+  ],
+  "translation": "بلکہ تسیں یتیم اُتے ⟨پنسا⟩ سٹدے او، تے اپنے یار اُتے ⟨گڑھا⟩ پوندے او۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "00bb51231fda3dd77c748a75e78f69756f00dae2dea4e1016d73eb795b1a7d0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/6\/25-28.1792115543105.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "بلکہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "یتیم"
+    },
+    {
+      "surface": "תפילו",
+      "gloss": "سٹدے او"
+    },
+    {
+      "surface": "ותכרו",
+      "gloss": "تے پوندے او"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ריעכם",
+      "gloss": "اپنے یار"
+    }
+  ],
+  "timestamp": "2026-10-16T01:52:23.106165692Z",
+  "model": "glm-5.3"
+}

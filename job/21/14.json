@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 21:14",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ساں",
+      "rationale": "עברי 'اوہنوں' آکھدا اے (ساڈے توں اوہ دور ہووے)؛ پنجابی جملے لئی ساں\/اساں واضح کیتا"
+    }
+  ],
+  "translation": "تے اوہ ایل نوں آکھدے نیں: ساڈے توں دور ہو جا، تے تیریاں راہواں دا علم ساں نئیں چاہنا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bbead0a37655ffbed3813813b8c67392d5d7fb3d254befde5bae15624994ae1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/21\/13-16.1792115927026.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "تے اوہ آکھدے نیں"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ایل نوں"
+    },
+    {
+      "surface": "סור",
+      "gloss": "دور ہو جا"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ساڈے توں"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "تے علم"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "تریاں راہواں دا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "חפצנו",
+      "gloss": "چاہنا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:58:47.027539836Z",
+  "model": "glm-5.3"
+}

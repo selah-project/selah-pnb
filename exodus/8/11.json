@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 8:11",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "چھُٹ",
+      "rationale": "הרוחה روح دی جڑ توں — ساہ دی کشادگی، راحت؛ اِک لفظ نئیں ملدا۔"
+    },
+    {
+      "kind": "idiom",
+      "subject": "بھارا کیتا",
+      "rationale": "עברانی 'دل بھارا کرنا' = ہٹھ کرنا، ضد کرنا؛ پنجابی وِچ اوہو بھار والا چتر لیفیا۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "ہیبرو کریا 'ہو گئی' نال پنجابی وچmarkاحد لئی 'اے' ضروری۔"
+    }
+  ],
+  "translation": "تے پرعوہ نے ویکھیا کہ چھُٹ ہو گئی ⟨اے⟩، تے اوہناں دا ⟨את⟩ دل بھارا کیتا، تے اوہناں دی گل نئیں سنی — جیویں یاہوہ نے آکھیا سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b10277754b60013bb6c026cf58bc04071dc21f5f02ec830d6a6d2e96f71d4cd7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/8\/9-12.1792096335939.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "تے ویکھیا"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پرعوہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ہو گئی"
+    },
+    {
+      "surface": "הרוחה",
+      "gloss": "چھُٹ"
+    },
+    {
+      "surface": "והכבד",
+      "gloss": "تے بھارا کیتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دل"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "دل"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سنی"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "اوہناں دی (گل)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "آکھیا سی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-10-15T20:32:15.940124056Z",
+  "model": "glm-5.3"
+}

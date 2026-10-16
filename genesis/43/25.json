@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 43:25",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כי ... כי",
+      "rationale": "دو واری כی — سُنیا سی کیوں جے… کیوں جے اوتھے؛ دوہرا سبب عبرانی وِچ چلدا اے، پنجابی وِچ وی دو واری رکھیا۔"
+    },
+    {
+      "kind": "hapax-alternative",
+      "subject": "בצהרים",
+      "gloss_note": "دوہری روشنی — دوپہر؛ dual شکل اے، 'دو چانناں دا ویلہ'۔"
+    }
+  ],
+  "translation": "تے اوہناں نے ⟨את⟩ تحفہ تیار کیتا، جدوں تک یوسف دوپہر نوں نئیں آیا، کیوں جے اوہناں نے سُنیا سی کیوں جے اوتھے اوہ روٹی کھاون گے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e053f0068b63614d12d6c370f68025a2ea8540c50722cb10888c9006e573509d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/43\/25-28.1792095861721.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכינו",
+      "gloss": "تیار کیتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تحفہ"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "تحفہ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "جدوں تک"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "دوپہر نوں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جے"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "سُنیا سی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جے"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اوتھے"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "کھاون گے"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "روٹی"
+    }
+  ],
+  "timestamp": "2026-10-15T20:24:21.724750738Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 32:5",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اے⟩",
+      "rationale": "عبرانی وِچ کوئی فعل نئیں، پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "לו",
+      "rationale": "مختلف پرکھاں: 'اوہنوں بگاڑ دتا' (KJV\/ASV) بمقابلہ 'کی ایہ بگاڑ اوہدا اے؟ نئیں' (JPS) — لام دا انتساب جھگڑے وِچ اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עקש \/ ופתלתל",
+      "rationale": "دو ٹیڑھے پن والے لفظ اک نال — پنجابی وِچ ٹیڑھی\/وَلّ وَلّ دی جوڑی رکھی"
+    }
+  ],
+  "translation": "اوہناں اوہنوں بگاڑ دتا — اوہ اوہدے پتر نئیں، اوہناں دا داغ ⟨اے⟩؛ اک ٹیڑھی تے وَلّ وَلّ پیڑھی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "01e6404bb23e7f38f11084473686e15dfc1ce45994dce4abc0e18121c9a1abce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/32\/5-8.1792100587299.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שחת",
+      "gloss": "بگاڑ دتا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہنوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "اوہدے پتر"
+    },
+    {
+      "surface": "מומם",
+      "gloss": "اوہناں دا داغ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "پیڑھی"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "ٹیڑھی"
+    },
+    {
+      "surface": "ופתלתל",
+      "gloss": "تے وَلّ وَلّ"
+    }
+  ],
+  "timestamp": "2026-10-15T21:43:07.300279419Z",
+  "model": "glm-5.3"
+}

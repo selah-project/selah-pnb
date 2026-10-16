@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 3:1",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הלך וחזק \/ הלכים ודלים",
+      "rationale": "ہورانی جوڑا — داوِد تُردا-پکا، شاؤول دا گھرانا تُردا-کمزور — عبرانی دی سمتک نیں جیہڑیاں پنجابی وِچ نرم ہو گئیاں۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הלך",
+      "rationale": "لفظی 'تُرنا' — ترقی دا مطلب سیاق توں آندا اے، لفظ خود 'جانا\/اگے ودھنا' اے۔"
+    }
+  ],
+  "translation": "تے شاؤول دے گھرانے تے داوِد دے گھرانے وِچکار جنگ لمی ہو گئی، تے داوِد تُردا تے پکا ہندا گیا، تے شاؤول دا گھرانا تُردا تے کمزور ہندا گیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6379446422c6033a3d372e7bc2331cb36181fc99176cd83d0b460d0af5989b46",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/3\/1-4.1792103106698.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "ہو گئی"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "جنگ"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "لمی"
+    },
+    {
+      "surface": "בין",
+      "gloss": "وِچکار"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھرانے"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "تے وِچکار"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھرانے"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "تے داوِد"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "تُردا"
+    },
+    {
+      "surface": "וחזק",
+      "gloss": "تے پکا"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "تے گھرانا"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "تُردا"
+    },
+    {
+      "surface": "ודלים",
+      "gloss": "تے کمزور"
+    }
+  ],
+  "timestamp": "2026-10-15T22:25:06.699032708Z",
+  "model": "glm-5.3"
+}

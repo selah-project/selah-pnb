@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 12:2",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "کلیاں",
+      "rationale": "כליות دا مطلب گلے نیں — عبرانی وِچ اندریاں سوچاں دی تھاں؛ 'دل' وی جائز اے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ילכו",
+      "rationale": "'اگے ودھدے نیں' — کجھ مترجم 'ودھدے جاندے نیں' یعنی پھیلدے نیں لیندے نیں"
+    }
+  ],
+  "translation": "تُوں نے اوہناں نوں لایا، تے اوہ جڑ پھڑ لئی اے؛ اوہ اگے ودھدے نیں، تے پھل دیندے نیں — تُوں اوہناں دے مونہہ وِچ نیڑے اے، پر اوہناں دے کلیاں توں دور اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9dab1baf5af0687d2c37826ffe32aaa84013f11b9a5ff62d329da27cb5749440",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/12\/1-4.1792107613330.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נטעתם",
+      "gloss": "تُوں نے اوہناں نوں لایا"
+    },
+    {
+      "surface": "גם",
+      "gloss": "تے"
+    },
+    {
+      "surface": "שרשו",
+      "gloss": "جڑ پھڑ لئی اے"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "اگے ودھدے نیں"
+    },
+    {
+      "surface": "גם",
+      "gloss": "تے"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "کیتا"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "پھل"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "نیڑے"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُوں"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "اوہناں دے مونہہ وِچ"
+    },
+    {
+      "surface": "ורחוק",
+      "gloss": "پر دور"
+    },
+    {
+      "surface": "מכליותיהם",
+      "gloss": "اوہناں دے کلیاں توں"
+    }
+  ],
+  "timestamp": "2026-10-15T23:40:13.331571257Z",
+  "model": "glm-5.3"
+}

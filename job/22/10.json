@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 22:10",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פחים\/פחד",
+      "rationale": "پچ (جال) تے پچد (ڈر) دی آواز اکو جئی اے — عبرانی وچ جال تے ڈر جُڑے ہوئے نیں، پنجابی وچ ایہہ گُم ہو جاندا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "نیں",
+      "rationale": "عبرانی وِچ کوپلا نئیں، پنجابی نوں فعل چاہیدا اے"
+    }
+  ],
+  "translation": "ایس لئی تیرے دوآلے جال نیں، تے اچانک ڈر تینوں ہلا دیندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d01e6bc1e0bab6467131e7d87dc627bb025d9f844b0fdaa1e6f12a788e0889c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/22\/9-12.1792115927008.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ایس"
+    },
+    {
+      "surface": "כן",
+      "gloss": "لئی"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "تیرے دوآلے"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "جال نیں"
+    },
+    {
+      "surface": "ויבהלך",
+      "gloss": "تے تینوں ہلا دیندا اے"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "ڈر"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "اچانک"
+    }
+  ],
+  "timestamp": "2026-10-16T01:58:47.008809428Z",
+  "model": "glm-5.3"
+}

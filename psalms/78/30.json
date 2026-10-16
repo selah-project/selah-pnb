@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 78:30",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩",
+      "rationale": "عبرانی وِچ ضمیر نئیں، پنجابی فعل نوں اگواں چاہیدا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "عبرانی وِچ کوئی فعل نئیں — صرف اسمی جملہ"
+    }
+  ],
+  "translation": "⟨اوہ⟩ اوہناں دی خواہش توں نئیں ہٹے، اوہناں دا کھانا ہن وی اوہناں دے مونہہ وِچ سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7f05e286c20bc88af0af5af257fb4720fa24f024fdf58f7b0446cf1aa6136ef7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/78\/29-32.1792113087822.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "ہٹے"
+    },
+    {
+      "surface": "מתאותם",
+      "gloss": "اوہناں دی خواہش توں"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ہن وی"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "اوہناں دا کھانا"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "اوہناں دے مونہہ وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:11:27.823238481Z",
+  "model": "glm-5.3"
+}

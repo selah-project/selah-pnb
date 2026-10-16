@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 40:12",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ہتھ دی⟩",
+      "rationale": "שעל حرفیاً 'تلی' — پنجابی 'مُٹھی' لئی وضاحت"
+    },
+    {
+      "kind": "measurement",
+      "subject": "آیت",
+      "rationale": "پانی، اسمان، دھوڑ، پہاڑ تے ٹبیاں دے ناپ-تول دے پنج سوال — پیمائش دی شاعری"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מדד\/תכן\/שקל",
+      "rationale": "تِن وکھرے عبرانی کریاواں ناپ-تول دے — پنجابی وچ ناپ\/توڑنا\/تولنا تن وکھرے رکھے"
+    }
+  ],
+  "translation": "کسے ⟨ہتھ دی⟩ مُٹھی وِچ پانی ناپیا؟ تے کسے پونی نال اسماناں نوں توڑیا؟ کسے تن اُنگلاں نال دھرتی دی دھوڑ تولی؟ تے کسے تُل وِچ پہاڑ تُلے، تے کسے ترازو وِچ ٹبیاں؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2b45e05ca91f290114752edbe6c4ea89335c575badc0098a7398ad28ad321a5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/40\/9-12.1792106669353.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کسے"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "ناپیا"
+    },
+    {
+      "surface": "בשעלו",
+      "gloss": "⟨ہتھ دی⟩ مُٹھی وِچ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پانی"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "اسماناں نوں"
+    },
+    {
+      "surface": "בזרת",
+      "gloss": "پونی نال"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "توڑیا"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تولی"
+    },
+    {
+      "surface": "בשלש",
+      "gloss": "تن اُنگلاں نال"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "دھوڑ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "دھرتی دی"
+    },
+    {
+      "surface": "ושקל",
+      "gloss": "تُلے"
+    },
+    {
+      "surface": "בפלס",
+      "gloss": "تُل وِچ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "ٹبیاں"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "ترازو وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T23:24:29.354832740Z",
+  "model": "glm-5.3"
+}

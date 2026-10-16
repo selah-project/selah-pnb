@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 125:4",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 125,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "آ",
+      "rationale": "پکاری مارک دی فعل امر دی پنجابی روپ وچ پُکاری دا نشان، عبرانی وِچ اکھر دے وِچ ہی اے"
+    },
+    {
+      "kind": "invitation",
+      "subject": "دعا",
+      "rationale": "ایہہ آیت یاہوہ نوں سدھی عرض اے — بیت-گواہی نئیں، منگ اے"
+    }
+  ],
+  "translation": "یاہوہ آ، نیکاں نال چنگائی کر، تے اوہناں نال جیہڑے اپنے دلاں وِچ سیدھے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6ddce91552d2f7f8294385cccee1e865d7d4e4a1a60a3410fc129e939f17cc08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/125\/1-4.1792114036750.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "چنگائی کر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ آ"
+    },
+    {
+      "surface": "לטובים",
+      "gloss": "نیکاں نال"
+    },
+    {
+      "surface": "ולישרים",
+      "gloss": "تے سیدھیاں والیاں نال"
+    },
+    {
+      "surface": "בלבותם",
+      "gloss": "اپنے دلاں وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:27:16.751481866Z",
+  "model": "glm-5.3"
+}

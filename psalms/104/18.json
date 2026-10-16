@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 104:18",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שפנים",
+      "rationale": "شپان — چٹانی خرگوش (ہائیrix)؛ ‘خرگوش’ ریتاں ترجمہ اے پر اوہ چوہے-خرگوش دے وچکار دا جانور اے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "جنگلی بکریاں",
+      "rationale": "יעלیم — چڑھن والی جنگلی بکرا (ibex)۔"
+    }
+  ],
+  "translation": "اُچے پہاڑ جنگلی بکریاں لئی نیں؛ چٹاناں پہاڑی خرگوشاں لئی پناہ نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4906a052b5537e6a05aaea946159345b7b9ba26f4c52b35185186f363c706637",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/104\/17-20.1792113543368.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "הגבהים",
+      "gloss": "اُچے"
+    },
+    {
+      "surface": "ליעלים",
+      "gloss": "جنگلی بکریاں لئی"
+    },
+    {
+      "surface": "סלעים",
+      "gloss": "چٹاناں"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "پناہ"
+    },
+    {
+      "surface": "לשפנים",
+      "gloss": "پہاڑی خرگوشاں لئی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:19:03.368942883Z",
+  "model": "glm-5.3"
+}

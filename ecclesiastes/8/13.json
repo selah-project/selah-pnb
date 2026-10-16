@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 8:13",
+  "book": "ecclesiastes",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כצל",
+      "rationale": "پرچھاویں دی نسبت: کجھ مترجم پرچھاویں نوں دِناں نال جوڑدے نیں (دِن پرچھاویں وانگوں لمبے نئیں ہوندے)، کجھ بدکار نال — عبرانی کھلا رکھدا اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "ہووےگی",
+      "rationale": "عبرانی יהיה مستقبل کریا اے؛ پنجابی جملے لئی صیغہ پایا گیا۔"
+    }
+  ],
+  "translation": "تے بدکار لئی چنگائی نئیں ہووےگی، تے نہ ہی اوہ دِن لمبے کرےگا، پرچھاویں وانگوں — اوہ جو ایلوہیم دے ساہمنے توں نئیں ڈردا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b34b3f6b96028f72fdfca2a4921ca172a67a104a88da4a1c11921abdf2c6750d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ecclesiastes\/8\/13-16.1792117683827.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "تے چنگائی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہووےگی"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "بدکار لئی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ ہی"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "لمبے کرےگا"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دِن"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "پرچھاویں وانگوں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "اوہ جو"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "⟨اوہ⟩ نئیں"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ڈردا"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ساہمنے توں"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-10-16T02:28:03.827872285Z",
+  "model": "glm-5.3"
+}

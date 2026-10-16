@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "ezra 2:70",
+  "book": "ezra",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "نتینیم",
+      "rationale": "Hebrew 'given ones' — temple servants given to Levitical work; kept as name rather than role."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨کجھ⟩",
+      "rationale": "'Some of the people' — min implies part without a noun for it; Punjabi needs the word."
+    }
+  ],
+  "translation": "تے کاہن، تے لوی، تے ⟨کجھ⟩ لوکاں وِچوں، تے گویے، تے بوہے والے، تے نتینیم اپنیاں وسنیاں وِچ وسے، تے سارے یِسرائیل اپنیاں وسنیاں وِچ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0b0b1da89238b7c487b2491054103b08553bd4a6b9f535d4eac9a017af29ad97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezra\/2\/69-70.1792118991649.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "وسے"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "تے لوی"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "تے ⟨کجھ⟩ … وِچوں"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوکاں"
+    },
+    {
+      "surface": "והמשררים",
+      "gloss": "تے گویے"
+    },
+    {
+      "surface": "והשוערים",
+      "gloss": "تے بوہے والے"
+    },
+    {
+      "surface": "והנתינים",
+      "gloss": "تے نتینیم"
+    },
+    {
+      "surface": "בעריהם",
+      "gloss": "اپنیاں وسنیاں وِچ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سارے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "בעריהם",
+      "gloss": "اپنیاں وسنیاں وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T02:49:51.650888507Z",
+  "model": "glm-5.3"
+}

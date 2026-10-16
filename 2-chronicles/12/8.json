@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 12:8",
+  "book": "2-chronicles",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨وکھرا⟩",
+      "rationale": "عبرانی صرف دوواں خدمتاں رکھدا اے؛ فرق دا لفظ عبرانی وِچ نئیں — بائبل 'فرق جانن' دا پھیلاؤ اے۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "לו",
+      "rationale": "'اوہدے' — شیشق دی طرف اشارہ پچھلی آیت توں؛ عبرانی وِچ ناں ایتھے نئیں آیا۔"
+    }
+  ],
+  "translation": "کیونجے اوہ اوہدے غلام بنّ جان گے، تے اوہ جان لین گے میری خدمت تے دیساں دیاں مملکتاں دی خدمت ⟨وکھرا⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7737da1ed1038ad80d1eaad8df4d1e89ca0acd5d95fa6e1ea61ef3ada5d4a892",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/12\/5-8.1792121975773.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "بنّ جان گے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدے"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "غلام"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "تے اوہ جان لین گے"
+    },
+    {
+      "surface": "עבודתי",
+      "gloss": "میری خدمت"
+    },
+    {
+      "surface": "ועבודת",
+      "gloss": "تے خدمت"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "مملکتاں دی"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "دیساں دیاں"
+    }
+  ],
+  "timestamp": "2026-10-16T03:39:35.774928116Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 106:37",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اپنیاں",
+      "rationale": "عبرانی وِچ ضمیر صیغے وِچ چھپی اے، لفظ نئیں"
+    },
+    {
+      "kind": "crux",
+      "subject": "شدّیاں",
+      "rationale": "לשדים: 'شدّای\/بُرے روح' (اسے) بمقابلہ 'غارت کرن والے' (یلت) — شدّای ناں יהוה نال رلدا اے پر ایتھے وکھرا لفظ اے"
+    }
+  ],
+  "translation": "تے اوہناں نے ⟨את⟩ اپنیاں پُتراں نوں تے ⟨את⟩ اپنیاں دھیاں نوں شدّیاں لئی قربان کیتے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2584ab0b2b34fe58bc34147c97fae5781c2db4426109cfe3bae8bedbacef795b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/106\/37-40.1792113595405.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "تے…قربان کیتے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنیاں پُتراں نوں"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "اپنیاں پُتراں نوں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "اپنیاں دھیاں نوں"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "اپنیاں دھیاں نوں"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "شدّیاں لئی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:19:55.405670832Z",
+  "model": "glm-5.3"
+}

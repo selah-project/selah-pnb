@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 47:1",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نے",
+      "rationale": "پنجابی ماضی لئی کارجا 'نے' منگدی اے، عبرانی وِچ نئیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "بچن",
+      "rationale": "דבר 'گلاں\/بچن' — 'دا بچن' اک ٹوکن دا اِک اکائی وجوں"
+    }
+  ],
+  "translation": "جو بچن یاہوہ دا نبی یرمیاہو ول فلستیاں بارے آیا، اوس ویلے توں پہلاں جدے فرعون نے ⟨את⟩ غزہ نوں ماریا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c146cf3cfa145807c5ccab8b1491c844b77828f372507f12f60a394402c28919",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/47\/1-4.1792108613125.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "היה",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "بچن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ول"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یرمیاہو"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بارے"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "فلستیاں"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "پہلاں جدے"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "مارے"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "غزہ"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "غزہ"
+    }
+  ],
+  "timestamp": "2026-10-15T23:56:53.125915016Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 141,
+  "ref": "psalms 119:141",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "فیر وی",
+      "rationale": "عبرانی وِچ کوئی جوڑ نئیں، خالص جملے دی ترتیب ہی تضاد دسدی اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צעיר\/ונבזה",
+      "rationale": "צ نال ٹرن والی آیت — 119 دی קوف اکٹھی وِچ حروف دی ہم آوازی، پنجابی وِچ ہار گئی"
+    }
+  ],
+  "translation": "چھوٹا میں آں تے بے-قیمت، فیر وی تیرے فرماناں نوں میں نئیں بھلیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1c2157d7ff2e5881feaa9c174cea9b86260ba53b51d8368de75113181b382ee4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/119\/141-144.1792113895326.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צעיר",
+      "gloss": "چھوٹا"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "ונבזה",
+      "gloss": "تے بے-قیمت"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "تیرے فرماناں نوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "میں بھلیا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:24:55.326547607Z",
+  "model": "glm-5.3"
+}

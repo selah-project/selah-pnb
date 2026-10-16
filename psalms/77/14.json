@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 77:14",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "عبرانی وِچ پکار دا نشان نئیں، پنجابی خطاب منگدا اے۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "בקדש",
+      "rationale": "کوئی 'مقدس تھاں\/مقدس خانے وِچ' پڑھدے نیں، کوئی 'پوترتا وِچ' — جمعہں یا تھاں، سیاق دوناں پاسے جاندا اے۔"
+    }
+  ],
+  "translation": "اے ایلوہیم، پوترتا وِچ تیرا راہ اے؛ کہڑا ایل اِتھا وڈا اے جِویں ایلوہیم؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "85b0e52c26410761291584f85ef59b1e29d5841b85ff47a6700aa2c60cac724c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/77\/13-16.1792113009602.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "اے ایلوہیم"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "پوترتا وِچ"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "تیرا راہ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کہڑا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وڈا"
+    },
+    {
+      "surface": "כאלהیم",
+      "gloss": "جِویں ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-10-16T01:10:09.603240073Z",
+  "model": "glm-5.3"
+}

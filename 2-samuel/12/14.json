@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 12:14",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נאץ נאצת",
+      "rationale": "اکو جڑ دو واری — 'مذاق، مذاق کیتا'؛ پنجابی وِچ 'مذاق اُڈایا' نال شکیل مِلدا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "ناؤص ناؤصت اش اِیبِی یاہوہ",
+      "rationale": "KJV: ویریاں نوں بدنام کیتا؛ JPS: ویریاں نوں ہی پرگھنیا — کِس نوں مذاق اُڈایا؟"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "موت ימות",
+      "rationale": " infinitive + کریا دی دوہرائی = 'یقین نال مرے گا'، پنجانی وِچ 'یقین نال' نال دتی"
+    }
+  ],
+  "translation": "بہر حال، کیوں جو تُوں نے اس گل وِچ ⟨את⟩ یاہوہ دے ویریاں دا مذاق اُڈایا، اس لئی تیرے جِیا ہویا پُتر وی یقین نال مرے گا۔”",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "79b526961672fd5af3156f7567af2b5c048d331a7929f4c1be6e3c8310e9c3bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/12\/13-16.1792103401491.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אפס",
+      "gloss": "بہر حال"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "مذاق"
+    },
+    {
+      "surface": "נאצת",
+      "gloss": "اُڈایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ دے ویریاں"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "یاہوہ دے ویریاں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "اس گل وِچ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اس"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "جِیا ہویا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیرے"
+    },
+    {
+      "surface": "מות",
+      "gloss": "یقین نال مرے گا"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "مرے گا"
+    }
+  ],
+  "timestamp": "2026-10-15T22:30:01.492752028Z",
+  "model": "glm-5.3"
+}

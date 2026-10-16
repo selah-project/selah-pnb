@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 5:6",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "سردار",
+      "rationale": "نשיא اُچا آدمی\/قبیلیاں دا مُکھی؛ 'سردار' اوہدے نیڑے ترین پنجابی لفظ اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "عبرانی وِچ کوئی فعل نئیں؛ پنجابی جملے لئی ⟨سی⟩ ضروری۔"
+    }
+  ],
+  "translation": "بعیراہ اوہدا پُتر، جیہنوں تلگت پلناسر، اَشّور دے بادشاہ نے، جلاوطن کیتا؛ اوہ رئوبینیاں دا سردار سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8a811349c470df94a1630eafe915d275481776e998ed103960b95a3956879415",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/5\/5-8.1792120245930.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בארה",
+      "gloss": "بعیراہ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اوہدا پُتر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہنوں"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "جلاوطن کیتا"
+    },
+    {
+      "surface": "תלגת",
+      "gloss": "تلگت"
+    },
+    {
+      "surface": "פלנאסר",
+      "gloss": "پلناسر"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "اَشّور"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "رئوبینیاں دا"
+    }
+  ],
+  "timestamp": "2026-10-16T03:10:45.931311074Z",
+  "model": "glm-5.3"
+}

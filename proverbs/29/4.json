@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 29:4",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "איש תרומות",
+      "rationale": "‘تحفے لین والا بندہ’ — رشوت لین والا بادشاہ دا الٹ؛ KJV ‘تحفے لیندا’، BSB ‘خراج بھردا’"
+    },
+    {
+      "kind": "addition",
+      "subject": "اوہدی",
+      "rationale": "יהרסנה چِٹکی ہوئی ضمیر پرتھا نوں دسدی اے، پنجابی وچ وکھ لکھی"
+    }
+  ],
+  "translation": "بادشاہ انصاف نال دھرتی نوں کھلواؤندا اے، پر جیہڑا بندہ تحفے لیندا اے اوہدی پرتھا ڈھاہندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2b8336082e41c1b0d1af0495e2a2ea5050121a3e7d3fea4beab8ffad2195df0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/29\/1-4.1792115162811.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "انصاف نال"
+    },
+    {
+      "surface": "יעמיד",
+      "gloss": "کھلواؤندا اے"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "دھرتی نوں"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "پر جیہڑا بندہ"
+    },
+    {
+      "surface": "תרומות",
+      "gloss": "تحفے"
+    },
+    {
+      "surface": "יהרסנה",
+      "gloss": "اوہدی پرتھا ڈھاہندا اے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:46:02.812866334Z",
+  "model": "glm-5.3"
+}

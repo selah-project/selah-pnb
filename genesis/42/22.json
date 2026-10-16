@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 42:22",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ہن",
+      "rationale": "הנה حیرانگی دا نشان اے؛ 'ہن' توں مُکا نئیں جا سکیا"
+    },
+    {
+      "kind": "you",
+      "subject": "رئوبن دے بھراواں نوں",
+      "rationale": "رئوبن سدھے اپنے بھراواں نال گل کردا اے"
+    }
+  ],
+  "translation": "تے رئوبن نے ⟨את⟩ تُسیں دا جواب دِتا، آکھے: کی میں تہاڈے نوں نئیں آکھیا سی، آکھے: اِس بال نال گناہ نہ کرو، تے تسیں نہ سُنیا؟ تے اوہدا لہو وی ہن منگیا جاندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "edb09b9d8fb3fdfa3fd6a3ca91b8cf63e3791071989974a20b12d9f736c19c66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/42\/21-24.1792095849749.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "تے جواب دِتا"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "رئوبن نے"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "تُسیں"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھے"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "کی… نئیں"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "میں آکھیا"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "تہاڈے نوں"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "گناہ کرو"
+    },
+    {
+      "surface": "בילד",
+      "gloss": "اِس بال نال"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "تسیں سُنیا"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "تے وی"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "اوہدا لہو"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ہن"
+    },
+    {
+      "surface": "נדרש",
+      "gloss": "منگیا جاندا اے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:24:09.754117343Z",
+  "model": "glm-5.3"
+}

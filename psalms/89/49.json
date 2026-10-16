@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 89:49",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "شیول",
+      "rationale": "שאול دی حرف-نقل، 'قبر' نئیں — موت دے پچھوں عدالت نئیں"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨کیہ⟩",
+      "rationale": "عبرانی دوجا وار 'کون' نئیں آکھدا، پنجابی سوال منگدا اے"
+    },
+    {
+      "kind": "invitation",
+      "subject": "سوال",
+      "rationale": "آیت پڑھن والے نوں سدھا سوال للکاردی اے"
+    }
+  ],
+  "translation": "کیہڑا بندہ جیوندا اے تے موت نوں نئیں ویکھدا؟ ⟨کیہ⟩ اوہ اپنی جان نوں شیول دے ہتھوں بچا سکدا اے؟ سلاہ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e3f51ecf2da9f0eb77773a7dae2e3cc21d1992659dc20733ce0fddece9ea6211",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/89\/49-52.1792113348402.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کیہڑا"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "جیوندا اے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ویکھدا"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "بچا سکدا اے"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "اپنی جان نوں"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "دے ہتھوں"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شیول"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سلاہ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:15:48.402652805Z",
+  "model": "glm-5.3"
+}

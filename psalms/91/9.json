@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "قرأت",
+      "rationale": "ASV\/ylt: “تُو یاہوہ میری پناہ ایں، علیون تُو نے اپنا ٹکانا بنایا” بمقابلہ KJV\/JPS: “تُو نے یاہوہ نوں، جو میری پناہ اے، علیون نوں اپنا ٹکانا بنایا” — “شמת” دا مفعول علیون اے یا مکان"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ایں⟩",
+      "rationale": "عبرانی وِچ اسمی جملے لئی کوپلا نئیں، پنجابی “ایں” منگدی اے"
+    }
+  ],
+  "translation": "کیوں جو تُو، یاہوہ، میری پناہ ایں ⟨ایں⟩؛ علیون تُو نے بنایا ⟨ای⟩ اپنا ٹکانا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a5a4894d74fc193c3ca0dfa439a04dd5948d5f5feea6dee3f80b1e544db1e7a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/91\/9-12.1792113366845.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "میری پناہ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "علیون"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "تُو نے بنایا"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "اپنا ٹکانا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:16:06.845669998Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 19:12",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לשקר",
+      "rationale": "קר-ل — 'جھوٹ لئی'، پنجابی وِچ 'جھوٹی قسم' دے ورتاریا وِچ لیاندیاں۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חלל",
+      "gloss": "بے حرمت — موکھن 'سُور کرنا\/وَڈھنا'، صوتی تصیر پنجابی وِچ نئیں رہندی۔"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "قسم دا حکم یاہوہ دے اپنے ناں نال جُڑیا — مخاطب اسرائیل اے۔"
+    }
+  ],
+  "translation": "تے میرے ناں نال جھوٹی قسم نہ کھاؤ، تے تُوں اپنے ایلوہیم دا ⟨את⟩ ناں بے حرمت کریں گا — میں یاہوہ آں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "040d901e7cfb789fef6d2f0069f1e70b1c123c92e4e9db9f1e3ea02e9fa0a875",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/19\/9-12.1792097845930.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "قسم کھاؤ"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "میرے ناں نال"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "جھوٹی"
+    },
+    {
+      "surface": "וחללת",
+      "gloss": "تے بے حرمت کریں گا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ناں"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناں"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "اپنے ایلوہیم دا"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-10-15T20:57:25.931426904Z",
+  "model": "glm-5.3"
+}

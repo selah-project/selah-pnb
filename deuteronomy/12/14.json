@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 12:14",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "عبرانی 'کیوں جے' = 'سِوا … دے' — سری ترجمے 'پر' یا 'سوائے' دسدے نیں۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨اس دے⟩",
+      "rationale": "כי א׮ دی پنجابی ساخت لئی 'سِوا اس دے' بولدا اے۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שם … ושם",
+      "rationale": "'اوتھے … تے اوتھے' دی دوہرائی — تھاں دی اِکتا تے زور، پنجابی وِچ رکھی گئی۔"
+    }
+  ],
+  "translation": "سِوا اُس تھاں دے جہڑی نوں یاہوہ چُنسیگا تیرے قبیلےآں وِچوں اِک وِچ؛ اوتھے تُو اپنیاں سُوٹیاں چاڑھیں، تے اوتھے تُو سارے اوہ کجھ کریں جہڑا میں تینوں حکم کردا آں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "63070f37d0edbf4890301f1e721a93f6696bac27720cdf2dd5d7fd6e675a8542",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/12\/13-16.1792099963206.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "سِوا"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨اس دے⟩"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "اُس تھاں وِچ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جہڑی نوں"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "چُنسیگا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "اِک وِچ"
+    },
+    {
+      "surface": "שבטיך",
+      "gloss": "تیرے قبیلےآں"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اوتھے"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "تُو چاڑھیں"
+    },
+    {
+      "surface": "עלתיך",
+      "gloss": "اپنیاں سُوٹیاں"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "تے اوتھے"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "تُو کریں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جہڑا"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "تینوں حکم کردا آں"
+    }
+  ],
+  "timestamp": "2026-10-15T21:32:43.207608187Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 50:9",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوہناں نوں",
+      "rationale": "عبرانی وِچ مفعول دا ضمیر لاحقہ اے، پنجابی نوں وکھرا لفظ چاہیدا"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הן…הן",
+      "rationale": "آیت دے دوویں سروں ہکو הן نال کھلھدے نیں — چیاسم باقی اے"
+    }
+  ],
+  "translation": "دیکھو، ادونای یاہوہ میری مدد کریگا؛ کوݨ اے جیہڑا مینوں مجرم ٹھہرائے؟ دیکھو، اوہ سب کپڑے وانگ پرانے ہو جان گے، پتنگا ⟨اوہناں⟩ نوں کھا جائے گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7a29df43efaeaf5a3e7ba71a9dc14e7a70d25c645786b346c62cef5a6b55d70d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/50\/9-11.1792106897685.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "دیکھو"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "مدد کریگا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میری"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کوݨ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اے"
+    },
+    {
+      "surface": "ירשיעני",
+      "gloss": "مینوں مجرم ٹھہرائے"
+    },
+    {
+      "surface": "הן",
+      "gloss": "دیکھو"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "اوہ سب"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "کپڑے وانگ"
+    },
+    {
+      "surface": "יבלו",
+      "gloss": "پرانے ہو جان گے"
+    },
+    {
+      "surface": "עש",
+      "gloss": "پتنگا"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "کھا جائے گا"
+    }
+  ],
+  "timestamp": "2026-10-15T23:28:17.686509102Z",
+  "model": "glm-5.3"
+}

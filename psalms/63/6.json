@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 63:6",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جان-قوت اے، صرف روح نئیں"
+    },
+    {
+      "kind": "addition",
+      "subject": "تیرے کول",
+      "rationale": "יהלל دا کروں پنجابی وِچ پورا مطلب لیان لئی"
+    },
+    {
+      "kind": "crux",
+      "subject": "חלב",
+      "rationale": "کجھ مترجم 'دُدھ' پڑھدے نیں (یلت)، پر عام پڑھائی 'چکنائی\/گو شت دا چرب حصہ' اے"
+    }
+  ],
+  "translation": "چکنائی تے چربی وانگوں میری جان رجّ جاوے گی، تے خُشی دے بول نال میرا مُکھ تیرے کول تعریف کریگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e27d25f1bef020b9d973f8f67dfe6f62fa2ad021cd065a6e8ddb3d763dc5ff25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/63\/5-8.1792112810657.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "وانگوں"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "چکنائی"
+    },
+    {
+      "surface": "ודשן",
+      "gloss": "تے چربی"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "رجّ جاوے گی"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میری جان"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "تے بول"
+    },
+    {
+      "surface": "רננות",
+      "gloss": "خُشی دے"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "تعریف کریگا"
+    },
+    {
+      "surface": "פי",
+      "gloss": "میرا مُکھ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:06:50.658290428Z",
+  "model": "glm-5.3"
+}

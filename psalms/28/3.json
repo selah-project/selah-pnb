@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 28:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שלום",
+      "rationale": "'میل' — شالوم دا مطلب پورا سکھ تے امن اے، صرف 'امن' نہیں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רעיהם\/ורעה",
+      "rationale": "رِعہ (یار) تے راع (برائی) — اکو جہی آواز، مطلب الٹ، پنجابی وچ مک جاندا اے"
+    }
+  ],
+  "translation": "مینوں ظالماں نال نہ کھچّ، تے برائی کرن والیاں نال نہ، جیہڑے اپنے یاراں نال میل دی گل کردے نیں پر اوہناں دے دلاں وِچ برائی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "eb3f4f252bb359ff9fdb16a2681476aec7732d081f81c05ff2e41348fc5a2108",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/28\/1-4.1792112229494.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תמשכני",
+      "gloss": "مینوں کھچّ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ظالماں"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "تے نال"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "کرن والیاں"
+    },
+    {
+      "surface": "און",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "گل کردے نیں"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "میل"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "اوہناں دے یاراں"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "تے برائی"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "اوہناں دے دلاں وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T00:57:09.496084387Z",
+  "model": "glm-5.3"
+}

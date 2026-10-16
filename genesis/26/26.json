@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 26:26",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "צבאו",
+      "rationale": "عبرانی 'اوہدی لشکر دا سردار' — پنجابی 'فوج دا سردار' عام ریت اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "אחזת מרעהו",
+      "rationale": "'اَخُزّت اوہدا رفیق' — کئی مترجم 'مشیر' (گریوا\/بی ایس بی) لکھدے نیں، پر عبرانی مֵרֵעַ 'رفیق' ای اے"
+    }
+  ],
+  "translation": "تے اَویمیلخ اوہدے کول مِگرار توں آیا، تے اوہدا رفیق اَخُزّت، تے اوہدی فوج دا سردار پیکول۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c07e2991204a2de8b4f8dfcbfdd5664da0752ddd3fc7a0775943dd0604c5a35d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/26\/25-28.1792095267720.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואבימלך",
+      "gloss": "تے اَویمیلخ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اوہدے کول"
+    },
+    {
+      "surface": "מגרר",
+      "gloss": "مِگرار توں"
+    },
+    {
+      "surface": "ואחזת",
+      "gloss": "تے اَخُزّت"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "اوہدا رفیق"
+    },
+    {
+      "surface": "ופיכל",
+      "gloss": "تے پیکول"
+    },
+    {
+      "surface": "שר",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "اوہدی فوج دا"
+    }
+  ],
+  "timestamp": "2026-10-15T20:14:27.721907086Z",
+  "model": "glm-5.3"
+}

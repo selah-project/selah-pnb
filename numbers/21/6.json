@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 21:6",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "השרפים",
+      "rationale": "'ساڑو والے' (اگّ والے) بمقابلہ 'زہریلے' — ریتی ترجمے دوویں کردے نیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "קצה… השרפים",
+      "rationale": "שרף بعد وِچ دریا弗兰‌دریائے فرات دے معبوداں نال جُڑدا اے — ایتھے سادہ 'ساڑو والے سانپ' رکھیا"
+    }
+  ],
+  "translation": "تے یاہوہ نے قوم وِچ ⟨את⟩ سانپ بھیجے، ساڑو والے، تے اوہناں نے ⟨את⟩ قوم نوں ڈسّیا، تے یِسرائیل وِچوں بہت لوک مر گئے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "974bebcc9ae6c61854be7cea6eabdf8c3e39e2ac1182f605aed4ef5efd6015b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/21\/5-8.1792098920654.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "تے بھیجیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ نے"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "قوم وِچ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سانپ"
+    },
+    {
+      "surface": "הנחשים",
+      "gloss": "سانپ"
+    },
+    {
+      "surface": "השרפים",
+      "gloss": "ساڑو والے"
+    },
+    {
+      "surface": "וינשכו",
+      "gloss": "تے ڈسّیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قوم"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم نوں"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "تے مر گئے"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لوک"
+    },
+    {
+      "surface": "רב",
+      "gloss": "بہت"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "یِسرائیل وِچوں"
+    }
+  ],
+  "timestamp": "2026-10-15T21:15:20.655607194Z",
+  "model": "glm-5.3"
+}

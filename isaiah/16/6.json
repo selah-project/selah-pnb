@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 16:6",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גא \/ גאון \/ גאותו \/ וגאונו",
+      "rationale": "اکّو گُ اکھر چار واری — گھمنڈ دے چار روپ، پنجابی وِچ اِتھاک\/گھمنڈ\/شان نال کجھ تال بچدا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "לא כן בדיו",
+      "rationale": "اوہدیاں شیلاں اِیویں نئیں — مترجم 'اوہدیاں شیلاں خالی نیں' یا 'اوہدے کوڑ سچ نئیں' لیندے نیں"
+    }
+  ],
+  "translation": "اسیں موآب دا اِتھاک سنیا اے، اوہ بڑا اِتھاک اے؛ اوہدا گھمنڈ تے اوہدی شان تے اوہدا غصہ — نئیں، اِیویں نئیں اوہدیاں شیلاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c943102781b07f1a3b11ad3ac3a5d786f2ed28dd65a05f7ef13a0d10af7cebc0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/16\/5-8.1792106168408.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמענו",
+      "gloss": "اسیں سنیا اے"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "اِتھاک"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "גא",
+      "gloss": "اِتھاک"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بڑا"
+    },
+    {
+      "surface": "גאותו",
+      "gloss": "اوہدا گھمنڈ"
+    },
+    {
+      "surface": "וגאונו",
+      "gloss": "تے اوہدی شان"
+    },
+    {
+      "surface": "ועברתו",
+      "gloss": "تے اوہدا غصہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اِیویں"
+    },
+    {
+      "surface": "בדיو",
+      "gloss": "اوہدیاں شیلاں"
+    }
+  ],
+  "timestamp": "2026-10-15T23:16:08.409210616Z",
+  "model": "glm-5.3"
+}

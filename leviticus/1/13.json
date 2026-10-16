@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 1:13",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "بالید قربانی",
+      "rationale": "עלה دا مورت اے 'سُوڑ جان والی' — لہو دے بلارے ہوۓ قربانی دا چڑھنا، 'بالید' ایس اُچائی نوں رکھدا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ניחח",
+      "rationale": "ריח (خوشبو) تے ניחוח (آرام دین والی) اکو جڑ ר-ی-ח\/נ-ו-ח توں مِلدے نیں — 'آرام دین والی خوشبو' ایہہ جوڑ رکھدا اے"
+    }
+  ],
+  "translation": "تے اوہ اندرلیاں تے پیرے پانی وِچ دھووے، تے کاہن سارا ⟨את⟩ پیش کرے تے قربان گاہ اُتے سِیٹ کرے — بالید قربانی اے، اگّ دی قربانی، یاہوہ لئی آرام دین والی خوشبو۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8274a7219c2d6dc9f2d6bb90c82f52c357fcabf3663bc7c07cf77f9391902909",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/1\/13-16.1792097395287.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקרב",
+      "gloss": "تے اندرلیاں"
+    },
+    {
+      "surface": "והכרעים",
+      "gloss": "تے پیرے"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "دھووے"
+    },
+    {
+      "surface": "במים",
+      "gloss": "پانی وِچ"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "تے پیش کرے"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سارا"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "تے سِیٹ کرے"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "قربان گاہ اُتے"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "بالید قربانی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ اے"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "اگّ دی قربانی"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "خوشبو"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "آرام دین والی"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ لئی"
+    }
+  ],
+  "timestamp": "2026-10-15T20:49:55.288032099Z",
+  "model": "glm-5.3"
+}

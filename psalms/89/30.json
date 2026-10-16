@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 89:30",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "رہوے گا",
+      "rationale": "عبرانی وچ فعل کوئی نئیں — 'اسماناں دے دناں وانگوں' اوس دی تھاں کھلوندا اے، پنجابی نوں فعل چاہیدا"
+    }
+  ],
+  "translation": "تے اوس دی نسل نوں ہمیشہ لئی قائم کراں گا، تے اوس دا تخت اسماناں دے دناں وانگوں ⟨رہوے گا⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e9e1a2e0c333784325d655fe3bf086de94bcd239aa8dcd63e21aee150fdfff89",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/89\/29-32.1792113291303.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "تے قائم کراں گا"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ہمیشہ لئی"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "اوس دی نسل"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "تے اوس دا تخت"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "…دے دناں وانگوں"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "اسماناں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:14:51.303873361Z",
+  "model": "glm-5.3"
+}

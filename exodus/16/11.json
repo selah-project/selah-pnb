@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 16:11",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ہویا",
+      "rationale": "לאמر دا سیدھا سنیہا، پنجابی وِچ حال بھاوَ"
+    }
+  ],
+  "translation": "تے یاہوہ نے موشے نال گل کیتی، آکھدا ہویا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c7a9023c85efb0a416a14319c4a6502c7d81742ccf81ca4d63500ffb0a1c6292",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/16\/9-12.1792096578877.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "تے گل کیتی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ نے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھدا ہویا"
+    }
+  ],
+  "timestamp": "2026-10-15T20:36:18.878437331Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 130:5",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 130,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/زندگی-قوت اے، 'soul' نئیں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קויתי\/קותה",
+      "rationale": "اِکو خبر קווה دو واری — تکرار دا سوز، پنجابی وِچ 'اُڈیک' دو واری رکھیا اے"
+    }
+  ],
+  "translation": "میں یاہوہ دی اُڈیک کردا آں، میری جان اُڈیکدی اے، تے اوہدے بچن لئی میں چِر تک اُڈیکدا آں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3696f5af547dcfc3c015564eab1208db384e056e1d7c5f57c7aadb843fdc2e37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/130\/5-8.1792114001896.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קויתי",
+      "gloss": "اُڈیک کردا آں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "קותה",
+      "gloss": "اُڈیکدی اے"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میری جان"
+    },
+    {
+      "surface": "ולדברו",
+      "gloss": "تے اوہدے بچن لئی"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "چِر تک اُڈیکدا آں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:26:41.897152638Z",
+  "model": "glm-5.3"
+}

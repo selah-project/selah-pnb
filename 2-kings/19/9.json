@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 19:9",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "پنجابی فعل دے لئی ہِندی مددگار فعل، عبرانی وِچ نئیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "سفیر",
+      "rationale": "מלאכים ایتھے بندیاں دے گھلّے ہوئے ایلچی نیں، دیوتا دے فرشتے نئیں"
+    },
+    {
+      "kind": "you",
+      "subject": "اشوری بادشاہہ توں حِزقیاہو نوں",
+      "rationale": "19:9b توں شروع ہوئے سنیحریب دے پیغام وِچ سِدھی خطاب"
+    }
+  ],
+  "translation": "تے اُس نے تِرحاقے، کُوش دے بادشاہہ بارے سُنیا کہ اِیہہ آکھیا گیا: ویکھو، اُہ لڑن لئی ⟨את⟩ تیرے مقابلے باہر نِکلیا اے؛ تے اُس ⟨مُڑ⟩ مُڑ کے حِزقیاہو کول سفیر گھلّے، آکھن لئی،",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "97553276df9e01b03d8d8d05d5b8032e0174dd0c5c0503f2c546e12717f6d0ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/19\/9-12.1792105443441.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "تے اُس نے سُنیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بارے"
+    },
+    {
+      "surface": "תרהקה",
+      "gloss": "تِرحاقے"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "دے بادشاہہ"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "کُوش"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ آکھیا گیا"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ویکھو"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "باہر نِکلیا اے"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "لڑن لئی"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ تیرے مقابلے"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "تے اُس ⟨مُڑ⟩ مُڑ کے"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "گھلّے"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "سفیر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "حِزقیاہو"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھن لئی"
+    }
+  ],
+  "timestamp": "2026-10-15T23:04:03.441936520Z",
+  "model": "glm-5.3"
+}

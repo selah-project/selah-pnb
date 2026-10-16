@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 18:21",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ہاں",
+      "rationale": "عبرانی وِچ کپولا نئیں، پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "למלך",
+      "rationale": "مولک (امون دی دیوتا) بمقابلہ 'بادشاہ لئی' — حروف اوہو نیں، نقطیاں توں وکھرا"
+    },
+    {
+      "kind": "you",
+      "subject": "بنی یِسرائیل",
+      "rationale": "حکم سِدھا سُنیویں والیاں ول اے"
+    }
+  ],
+  "translation": "تے اپنا بیج مولک لئی لَنگھان لئی نہ دینا، تے اپنے ایلوہیم دا ⟨את⟩ ناں نہ گندہ کرنا؛ مِیں ⟨ہاں⟩ یاہوہ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6d461c2b5031aba06a10c5fb7516bd1edc5782b69c67e7ca1c7918f84e3ed068",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/18\/21-24.1792097797130.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומזרעך",
+      "gloss": "تے اپنا بیج"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "دینا"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "لَنگھان لئی"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "مولک لئی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "گندہ کرنا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ناں"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناں"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "اپنے ایلوہیم دا"
+    },
+    {
+      "surface": "אני",
+      "gloss": "مِیں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-10-15T20:56:37.131240971Z",
+  "model": "glm-5.3"
+}

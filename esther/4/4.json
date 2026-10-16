@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 4:4",
+  "book": "esther",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "گھبرا گئی",
+      "rationale": "ותתחלחל دا مول مطلب 'بھونکدی\/کڑدی گھُم گئی' — اندرونی ہلچل دا چِتر"
+    },
+    {
+      "kind": "addition",
+      "subject": "تاکہ",
+      "rationale": "عبرانی دا مصدر-to-مقصد ڈھانچہ پنجابی وِچ 'تاکہ' نال جُڑدا اے"
+    }
+  ],
+  "translation": "تے استیر دیاں نوجواناں تے اوہدے خواجے سرا آئے تے اوہنوں دسیا، تے رانی بہت ⟨ایوں⟩ گھبرا گئی، تے کپڑے گھلے ⟨تاکہ⟩ ⟨את⟩ مردکای نوں پاؤن تے اوہدا ساک اوہدے اُتروں ہٹا دین، پر اوہنے نہ منیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "017a6cae84a5260fe8a073a447d98f7e7780d56934cdce4772132d644348eea8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/esther\/4\/1-4.1792117852598.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבואינה",
+      "gloss": "تے آئیاں"
+    },
+    {
+      "surface": "נערות",
+      "gloss": "نوجواناں"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "استیر دیاں"
+    },
+    {
+      "surface": "וסריסיה",
+      "gloss": "تے اوہدے خواجے سرا"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "تے دسیا"
+    },
+    {
+      "surface": "לה",
+      "gloss": "اوہنوں"
+    },
+    {
+      "surface": "ותתחלחל",
+      "gloss": "تے گھبرا گئی"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "رانی"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بہت"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "تے گھلیاں"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "کپڑے"
+    },
+    {
+      "surface": "להלביש",
+      "gloss": "پاؤن لئی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مردکای"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "مردکای"
+    },
+    {
+      "surface": "ולהסיר",
+      "gloss": "تے ہٹاون لئی"
+    },
+    {
+      "surface": "שקו",
+      "gloss": "اوہدا ساک"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "اوہدے اُتروں"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "پر نہ"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "منیا"
+    }
+  ],
+  "timestamp": "2026-10-16T02:30:52.599693807Z",
+  "model": "glm-5.3"
+}

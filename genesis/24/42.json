@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 24:42",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ישך נא",
+      "rationale": "'جے تیرا ہونا اے' — دعا وِچ شرط دا سوال؛ کجھ مترجم 'جے ہن تُو کریں' پڑھدے نیں۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "چشمہ",
+      "rationale": "העין 'اکھ' دا لفظ اے، چشمے لئی — 'دھرتی دی اکھ' دی مورت پنجابی وِچ گُم ہوئی۔"
+    }
+  ],
+  "translation": "تے میں اج چشمے کول آیا، تے آکھیا: یاہوہ، میرے سائیں اَوراہام دا ایلوہیم، جے ہن تُو ہیں تے میرے راہ نوں کامیاب کریں، جیہدے اُتے میں ٹُریا واں —",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "41df30f43665d568d002eb8058e0a12f7fa54e4a6e4948bd301422dbad566a2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/24\/41-44.1792095243557.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואבא",
+      "gloss": "تے آیا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اج"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "העין",
+      "gloss": "چشمے"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "دا ایلوہیم"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "میرے سائیں"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراہام"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "تُو ہیں"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ہن"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "کامیاب کریں"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "میرے راہ نوں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہدے"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ٹُریا واں"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "اوہدے اُتے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:14:03.558305675Z",
+  "model": "glm-5.3"
+}

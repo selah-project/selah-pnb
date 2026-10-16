@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 120,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ہاں⟩ ⟨دا⟩",
+      "rationale": "عبرانی وِچ کوئی کوپولا نئیں — 'میں شالوم ہاں' دا سدھا مطلب پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלום \/ למלחמה",
+      "rationale": "شالوم تے جنگ دی سدھی ٹکر — آیت دا پورا وزن اِتھے اے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "וכי",
+      "rationale": "'تے جدوں' (KJV) بمقابلہ 'جدوں میں اَمن دی گل کردا ہاں' (Geneva) — لفظی 'تے کہ جدوں میں بولاں'"
+    }
+  ],
+  "translation": "میں ⟨ہاں⟩ شالوم ⟨دا⟩، تے جدوں میں بولدا ہاں، اوہ جنگ ول نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d43459e9860c7aab20df4312462f58b3e28a6f029a059b37119b1f207290744d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/120\/5-7.1792113936690.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالوم"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "تے جدوں"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "بولدا ہاں"
+    },
+    {
+      "surface": "המה",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "جنگ ول"
+    }
+  ],
+  "timestamp": "2026-10-16T01:25:36.691498744Z",
+  "model": "glm-5.3"
+}

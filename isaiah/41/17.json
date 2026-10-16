@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 41:17",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨کوئی⟩",
+      "rationale": "وָאַיִן صرف انکاری اے؛ پنجابی جملے لئی 'کوئی نئیں' چاہیدا اے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "אענם",
+      "rationale": "ענה دا مول مطلب 'دھیان دینا\/جواب دینا' — 'سُناں گا' وی جائز اے پر 'جواب' مکمل صورت اے"
+    }
+  ],
+  "translation": "غریب تے محتاج پانی منگدے نیں تے ⟨کوئی⟩ نئیں، اُہناڈی بولی پیاس نال سُک گئی اے۔ میں، میں یاہوہ، اُہناں نوں جواب دیواں گا، میں یِسرائیل دا ایلوہیم، اُہناں نوں نئیں چھڈاں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e9267529bbd15d38ffd36d17614ba395fa857cec3cddcd1349fa607d2db202ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/41\/17-20.1792106750680.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העניים",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "והאביונים",
+      "gloss": "تے محتاج"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "منگدے نیں"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پانی"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "تے ⟨کوئی⟩ نئیں"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "اُہناڈی بولی"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "پیاس نال"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "سُک گئی اے"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אענם",
+      "gloss": "اُہناں نوں جواب دیواں گا"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل دا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "אעזבם",
+      "gloss": "اُہناں نوں چھڈاں گا"
+    }
+  ],
+  "timestamp": "2026-10-15T23:25:50.681266605Z",
+  "model": "glm-5.3"
+}

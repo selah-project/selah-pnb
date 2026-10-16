@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 8:7",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הכרובים\/הכרבים",
+      "rationale": "کروباں دا دہراؤ — پر پھیلانا تے ڈھکّنا — دو کماں وچ اِکو ہستی۔"
+    },
+    {
+      "kind": "alternative",
+      "subject": "פרשים",
+      "rationale": "وجه 'پھیلاۓ ہوۓ سن' مستقل حالت؛ ماضی 'پھیلائے' وی جائز اے۔"
+    }
+  ],
+  "translation": "کیونکہ کروب پر پھیلا کے سن صندوق دی تھاں ول، تے کروباں نے صندوق نوں تے اوہدے ڈنڈیاں نوں اُتوں ڈھکّ دتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5debe3e4ed32217bf843fe82ab49ce537f7e98583486509e81228d12e603efb3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/8\/5-8.1792104290773.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "کروب"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "پر پھیلا کے سن"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "پر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ول"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "تھاں"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "صندوق دی"
+    },
+    {
+      "surface": "ויסכו",
+      "gloss": "تے ڈھکّ دتا"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "کروباں نے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "صندوق نوں"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "اوہدے ڈنڈیاں نوں"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "اُتوں"
+    }
+  ],
+  "timestamp": "2026-10-15T22:44:50.774169515Z",
+  "model": "glm-5.3"
+}

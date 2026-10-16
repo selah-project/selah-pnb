@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 21:12",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ועשתה את צפרניה",
+      "rationale": "'نہوں بݨاوے' — مطلب کرن\/تراشن دا اے؛ کجھ مترجم 'کٹن' آکھدے نیں، یلت 'تیار کرن'۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "اپنا (دو واری)",
+      "rationale": "عبرانی وِچ ضمیر لاحقہ رائے، پنجابی جملہ لئی 'اپنا' دا وادھا۔"
+    }
+  ],
+  "translation": "تے اوہنوں اپنے گھر دے وِچکار لے آ، تے اوہ ⟨את⟩ اپنا سر مُنڈھے تے ⟨את⟩ اپنے نہوں بݨاوے،",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8ad1da0e2ebf400578b100d2f5cf7aab2e4391626019673be8dd8334c3ea8e82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/21\/9-12.1792100129682.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והבאתה",
+      "gloss": "تے لے آ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "وِچکار"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "اپنے گھر دے"
+    },
+    {
+      "surface": "וגלחה",
+      "gloss": "تے مُنڈھے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنا سر"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "اپنا سر"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "تے بݨاوے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنے نہوں"
+    },
+    {
+      "surface": "צפרניה",
+      "gloss": "اپنے نہوں"
+    }
+  ],
+  "timestamp": "2026-10-15T21:35:29.683029763Z",
+  "model": "glm-5.3"
+}

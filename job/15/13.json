@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 15:13",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אל אל",
+      "rationale": "روح نوں ایل دے خلاف موڑنا (KJV, JPS) ولا ایل ولّ موڑنا (توبہ دا اشارہ) — دوویں پڑھائیاں نیں۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "؟",
+      "rationale": "عبرانی سوال دا نشان نئیں رکھدا، سیاق توں سوال دا پچھوکڑ آیا۔"
+    },
+    {
+      "kind": "you",
+      "subject": "ایوب نوں",
+      "rationale": "الیفاز دا ایوب نوں سدھا خطاب — دوجا و比较大的 نئیں۔"
+    }
+  ],
+  "translation": "کیونکہ تو اپنی روح نوں ایل دے ولّ موڑدا ایں، تے اپنے مونہوں گلاں کڈھدا ایں؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c2da73cad3c57822a0f90ff034b844ea79b8cf9157f895dc6200e0541f372d0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/15\/13-16.1792115811796.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "موڑدا ایں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دے ولّ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "اپنی روح"
+    },
+    {
+      "surface": "והצאת",
+      "gloss": "تے کڈھدا ایں"
+    },
+    {
+      "surface": "מפיך",
+      "gloss": "اپنے مونہوں"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "گلاں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:56:51.797442359Z",
+  "model": "glm-5.3"
+}

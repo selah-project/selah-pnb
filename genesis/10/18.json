@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 10:18",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "کھِنر گئے",
+      "rationale": "נפצו دا مول مطلب 'توڑ کے بھُریا' اے — بکھیرن دا زور کھوئے بِنا ترجمہ۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "دے",
+      "rationale": "משפחות הכנעני بنتر توڑ پنجابی نوں 'دے' چاہیدا اے۔"
+    }
+  ],
+  "translation": "تے ⟨את⟩ اَروادی نوں، تے ⟨את⟩ تسماری نوں، تے ⟨את⟩ حَماتی نوں؛ تے ایدے مگروں کنعانی دے ٹبر کھِنر گئے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bc613200da5eb1e09cbc1b28970cb6bfa0959dc458ac71ee07ab0c6f4f0b80ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/10\/17-20.1792094872248.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اَروادی"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "اَروادی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "تسماری"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "تسماری"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "حَماتی"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "حَماتی"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "تے ایدے مگروں"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "کھِنر گئے"
+    },
+    {
+      "surface": "مשפחות",
+      "gloss": "ٹبر"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "کنعانی دے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:07:52.249079657Z",
+  "model": "glm-5.3"
+}

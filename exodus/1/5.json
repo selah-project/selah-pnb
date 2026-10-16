@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 1:5",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨پہلاں توں⟩",
+      "rationale": "عبرانی وِچ صرف 'سی' اے؛ 'پہلاں توں' ترجمےآں دی روایت توں اے، متن وِچ نئیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "جاناں",
+      "rationale": "נפש ساہ\/جِند یعنی جِیؤ والی ہوندی اے، صرف 'روح' نئیں"
+    },
+    {
+      "kind": "measurement",
+      "subject": "سَٹھ جاناں",
+      "rationale": "گنتی — یعقوو دی نسل دی گنتی، پیدائش 46:27 نال جُڑی"
+    }
+  ],
+  "translation": "تے جِتھے جان والے سارے یعقوو دی کُھتیھ توں نِکلن والیاں جاناں نیں — سَٹھ جاناں — تے یوسف مِتصرایم وِچ ⟨پہلاں توں⟩ سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "406f8d910e217f78ee0f790cebd8359187c427da38e49e31dbe924665a71ba69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/1\/5-8.1792096086059.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے ہویا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساریاں"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جاناں"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "نِکلن والیاں"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "کُھتیھ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "سَٹھ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جاناں"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "تے یوسف"
+    },
+    {
+      "surface": "היה",
+      "gloss": "سی"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "مِتصرایم وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T20:28:06.060163484Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 37:23",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "سَتّ چِراغ",
+      "rationale": "مینوراہ دے چِراغاں دی گنتی — سَتّ"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מלקחים",
+      "rationale": "چِمٹاں والا لفظ صرف دوہری صورت وِچ تنخ وِچ آؤندا اے، مندر دیاں چیزاں لئی"
+    }
+  ],
+  "translation": "تے اوہنے ⟨את⟩ اوہدے سَتّ چِراغ بنائے، تے اوہدیاں چِمٹاں تے اوہدے ہنڈھے خالص سونے دے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5de330ab2801f7d4e32771dcbbfeda9d9c7708b587a91e03d35340baff3e6ebf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/37\/21-24.1792097206681.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "تے اوہنے بنائے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہدے سَتّ چِراغ"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "اوہدے چِراغ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "سَتّ"
+    },
+    {
+      "surface": "ומלקחיה",
+      "gloss": "تے اوہدیاں چِمٹاں"
+    },
+    {
+      "surface": "ומחתתיה",
+      "gloss": "تے اوہدے ہنڈھے"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونے دے"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "خالص"
+    }
+  ],
+  "timestamp": "2026-10-15T20:46:46.682527160Z",
+  "model": "glm-5.3"
+}

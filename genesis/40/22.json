@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 40:22",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "لئی",
+      "rationale": "להم لئی پنجابی وچ 'لئی' بناں جملہ پورا نئیں ہوندا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "لٹکا دتا",
+      "rationale": "תלہ حرفیاً 'چھوڑ دتا\/لٹکایا' — پھانسی دا کِردار سیاق توں آندا اے، لفظ توں نئیں"
+    }
+  ],
+  "translation": "تے ⟨את⟩ پروسیاں دے سردار نوں لٹکا دتا، جیویں یوسف نے اوہناں ⟨لئی⟩ کھولھیا سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8c25d28cd3b46ecaf89c8603c23260ee29e7b7a0d726e8979341d56686d035f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/40\/22-23.1792123234709.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "پروسیاں دے سردار نوں"
+    },
+    {
+      "surface": "שר",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "پروسیاں دے"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "لٹکا دتا"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "کھولھیا"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اوہناں لئی"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    }
+  ],
+  "timestamp": "2026-10-16T04:00:34.710905703Z",
+  "model": "glm-5.3"
+}

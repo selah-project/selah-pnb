@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 35:17",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "عبرانی وِچ کوئی فعل نئیں — آیت پچھلی آیت دی لسٹ دا حصہ اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קלעי\/מסך",
+      "rationale": "دو وکھرے عبرانی لفظ (קלעים تے מסך) اِکو پنجابی لفظ 'پردہ' وِچ آ گئے"
+    }
+  ],
+  "translation": "⟨את⟩ صحن دے پردے، ⟨את⟩ اُہدے تھمبیاں تے ⟨את⟩ اُہدیاں نیہویں، تے ⟨את⟩ صحن دے دروازے دا پردہ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "387dd514d427b4d960d2ba6183ac039628bac466275594dee996bd2c5feb9df9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/35\/17-20.1792097119417.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صحن دے پردے"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "پردے"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "صحن دے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اُہدے تھمبیاں"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "اُہدے تھمبیاں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "اُہدیاں نیہویں"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "اُہدیاں نیہویں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "صحن دے دروازے دا پردہ"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "پردہ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دروازے دا"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "صحن"
+    }
+  ],
+  "timestamp": "2026-10-15T20:45:19.418412372Z",
+  "model": "glm-5.3"
+}

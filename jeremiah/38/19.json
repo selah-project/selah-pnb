@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 38:19",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ڈردا آں",
+      "rationale": "דאג is anxiety\/dread, here rendered 'fear' — a state of mind rather than momentary fright"
+    },
+    {
+      "kind": "crux",
+      "subject": "והתעללו",
+      "rationale": "'they will mock\/abuse me' — the verb עלל ranges from mockery to physical abuse; translations split between the two"
+    }
+  ],
+  "translation": "تے بادشاہ صِدقییاہو نے یِرمییاہو نوں آکھیا: مَیں اُنہاں ⟨את⟩ یہودیاں توں ڈردا آں جیہڑے کسدیاں کول ڈِگے، کتے اوہ ⟨את⟩ مینوں اوہناں دے ہتھ دِے دیون تے میرے نال بُرا سلوک کرن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ad864c5a764678757aef7ff12ca985729c524e187c501bc1b1ebbdbbc7b4d9b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/38\/17-20.1792108462905.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "صِدقییاہو نے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یِرمییاہو"
+    },
+    {
+      "surface": "אני",
+      "gloss": "مَیں"
+    },
+    {
+      "surface": "דאג",
+      "gloss": "ڈردا آں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یہودیاں"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "یہودیاں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑے"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ڈِگے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "کسدیاں"
+    },
+    {
+      "surface": "פן",
+      "gloss": "کتے"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "دِے دیون"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ مینوں",
+      "marks": "اوہناں دے ہتھ"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "اوہناں دے ۤتھ"
+    },
+    {
+      "surface": "והתעללו",
+      "gloss": "تے بُرا سلوک کرن"
+    },
+    {
+      "surface": "בי",
+      "gloss": "میرے نال"
+    }
+  ],
+  "timestamp": "2026-10-15T23:54:22.906393747Z",
+  "model": "glm-5.3"
+}

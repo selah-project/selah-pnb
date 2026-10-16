@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "obadiah 1:21",
+  "book": "obadiah",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "مُختارج لوک",
+      "rationale": "מושעים: 'مُختارج\/بچاؤن والے' بمقابلہ 'حاکم\/فیصلہ کرن والے' (BSB 'rule') — جڑ ی-ש-ע 'بچاؤنا' اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "فیصلہ کرنا",
+      "rationale": "שפט دا مطلب 'عدالت کرنا\/انصاف کرنا' اے، صرف سزا نئیں"
+    }
+  ],
+  "translation": "تے مُختارج لوک صیون دے پہاڑ اُتے چڑھن گے، عیسو دے پہاڑ ⟨את⟩ دا فیصلہ کرن لئی، تے بادشاہی یاہوہ دی ہووےگی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b295621b542ba1e56faee8a97993939a2201961f8685e4a6f5f824b62bb74a75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/obadiah\/1\/21-21.1792110830414.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועלו",
+      "gloss": "تے چڑھن گے"
+    },
+    {
+      "surface": "מושעים",
+      "gloss": "مُختارج لوک"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "پہاڑ اُتے"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صیون"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "فیصلہ کرن لئی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عیسو دا پہاڑ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیسو"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "تے ہووےگی"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ دی"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "بادشاہی"
+    }
+  ],
+  "timestamp": "2026-10-16T00:33:50.415066181Z",
+  "model": "glm-5.3"
+}

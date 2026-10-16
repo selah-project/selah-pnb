@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "isaiah 14:32",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ایہہ جے⟩",
+      "rationale": "عبرانی سُوال دا جواب 'کہ' نال جوڑدا اے؛ پنجابی وِچ جواب دی شروع ایہہ نال صاف ہوندی اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "چھپنے دا مطلب",
+      "rationale": "יחסו — 'پناہ منگن گے\/بھروسہ کرن گے' — دونویں مطلب اِکو فعل وِچ نیں، پنجابی 'پناہ لین گے' نیڑے دا اے"
+    }
+  ],
+  "translation": "تے قوم دے سفراء نوں کیہ جواب دِتا جاوے؟ ⟨ایہہ جے⟩ کہ یاہوہ نے صییون نوں نیہ رکھی اے، تے اوہدے لوکاں دے غریب اُوتھے پناہ لین گے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7e1e192fb7568955d3ed558ea1362fe6b04dafa03faa455085855ec11e20a70a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/14\/29-32.1792106106356.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "تے کیہ"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "جواب دِتا جاوے"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "سفراء"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "قوم دے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "نیہ رکھی اے"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صییون"
+    },
+    {
+      "surface": "ובה",
+      "gloss": "تے اُوتھے"
+    },
+    {
+      "surface": "יחסו",
+      "gloss": "پناہ لین گے"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "اوہدے لوکاں دے"
+    }
+  ],
+  "timestamp": "2026-10-15T23:15:06.357422047Z",
+  "model": "glm-5.3"
+}

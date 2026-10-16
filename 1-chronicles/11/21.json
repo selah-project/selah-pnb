@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 11:21",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מן השלושה בשנים",
+      "rationale": "'تِناں وِچوں دوواں نالوں' — ترجمے ودھ کے 'دوجے درجے دے تِناں وِچ' یا 'تِناں وِچوں دو توں ودھ' پڑھدے نیں؛ عبرانی دوناں ولّ کھولھدا اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "سی\/بنیا",
+      "rationale": "عبرانی وِچ copula کوئی نئیں؛ پنجابی نے ⟨سی⟩ منگیا۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "اپڑیا",
+      "rationale": "בא سدھا 'آیا' اے؛ 'اپڑݨ' رتبے دے سیاق دا پنجابی ڈھنگ اے۔"
+    }
+  ],
+  "translation": "تِناں وِچوں اوہ دوواں نالوں ودھ مان-مرتبہ والا سی، تے اوہناں دا سردار بنیا؛ پر پہلے تِناں تک نئیں اپڑیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6d2869ded4a682b7334dd65e93da221031857146fd672da7a56377ac5909ff8e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/11\/21-24.1792120679320.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "وِچوں"
+    },
+    {
+      "surface": "השלושה",
+      "gloss": "تِناں"
+    },
+    {
+      "surface": "בשנים",
+      "gloss": "دوواں نالوں"
+    },
+    {
+      "surface": "נכبד",
+      "gloss": "مان-مرتبہ والا سی"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "تے بنیا"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اوہناں دا"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "پر … تک"
+    },
+    {
+      "surface": "השלושה",
+      "gloss": "تِناں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "בא",
+      "gloss": "اپڑیا"
+    }
+  ],
+  "timestamp": "2026-10-16T03:17:59.321311340Z",
+  "model": "glm-5.3"
+}

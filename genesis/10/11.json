@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אשור",
+      "rationale": "اشور — نمرود نِکلیا اشور وِچ (تھاں) یا اشور (بندہ) نِکلیا، دووے پڑھائیاں"
+    },
+    {
+      "kind": "crux",
+      "subject": "רחבת עיר",
+      "rationale": "رحوبوت-عیر — شہر دا ناں یا 'شہر دیاں چوڑیاں گلیاں' (ylt)"
+    },
+    {
+      "kind": "addition",
+      "subject": "اس نے",
+      "rationale": "فعل دا فاعل — عبرانی وِچ فعل دی شخصیت وِچ چھپیا اے"
+    }
+  ],
+  "translation": "اوس زمین توں اشور نِکلیا تے اس نے ⟨את⟩ نینواہ، ⟨את⟩ رحوبوت-عیر تے ⟨את⟩ کلح بنائیاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a263bebc2c780847166af15c82db826ef1d547a43ed3e8226502ae4df3c532ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/10\/9-12.1792094860002.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "اوس زمین"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "او"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "نِکلیا"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "اشور"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "تے بنائیاں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نینواہ"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "نینواہ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "رحوبوت-عیر"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "رحوبوت"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "عیر"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "⟨את⟩ ⟨⟩"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "کلح"
+    }
+  ],
+  "timestamp": "2026-10-15T20:07:40.003363642Z",
+  "model": "glm-5.3"
+}

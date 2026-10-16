@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 30:1",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מסכה",
+      "rationale": "'ڈھاری ہوئی مورت' توں 'ڈھانپ' تک مترجماں دا اختلاف؛ کجھ پڑھدے نیں اتحاد دی چادر، کجھ ڈھالی ہوئی مورت۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חטאת על חטאת",
+      "rationale": "اکو لفظ دو واری — پاپ اُتے پاپ — عبرانی دی دوہرائی والی چال۔"
+    },
+    {
+      "kind": "you",
+      "subject": "to Judah",
+      "rationale": "خبر یاری بغی کرن والے پُتراں نوں مخاطب اے۔"
+    }
+  ],
+  "translation": "ہائے بغی کرن والے پُتراں نوں، یاہوہ دا آکھنا اے، جو صلاح کردے نیں پر میری توں نئیں، تے ڈھانپن والی ڈھلائی ⟨پیندے نیں⟩ پر میری روح توں نئیں، تاں جو پاپ نوں پاپ اُتے ⟨وادھا⟩ کرن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "87a6ac0b318be369340068cf7a6928778e631627660ae55ad41dabf11298b617",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/30\/1-4.1792106443888.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ہائے"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پُتراں"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "بغی کرن والے"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "دا آکھنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "کردے نیں"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "صلاح"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "پر نئیں"
+    },
+    {
+      "surface": "מני",
+      "gloss": "میری توں"
+    },
+    {
+      "surface": "ולנסך",
+      "gloss": "تے اُگھڑدے نیں"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "ڈھانپن والی ڈھلائی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "پر نئیں"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "میری روح توں"
+    },
+    {
+      "surface": "למען",
+      "gloss": "تاں جو"
+    },
+    {
+      "surface": "ספות",
+      "gloss": "وادھا کرن"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "پاپ نوں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "پاپ"
+    }
+  ],
+  "timestamp": "2026-10-15T23:20:43.888848956Z",
+  "model": "glm-5.3"
+}

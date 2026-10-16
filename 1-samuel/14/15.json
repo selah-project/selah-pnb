@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 14:15",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ایلوہیم والا ڈر",
+      "rationale": "לחרדת אלהים: lit. 'ایلوہیم دا ڈر' بمقابلہ KJV 'بہت وڈا ڈر' (الوہیم شدت لئی) — حرف-نقل رکھیا"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חרדה\/חרדו",
+      "rationale": "خوف دے ملدے جُلدے لفظاں دی تکرار ח-ר-ד نال"
+    }
+  ],
+  "translation": "تے ڈر چھٹیا پڑاؤ وِچ، کھیت وِچ، تے سارے لوکاں وِچ — پہرے تے تباہی مچان والے وی کنب پئے، تے دھرتی ہلی، تے اوہ ایلوہیم والے ڈر بن گیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fdd7f3da7ae8704e726b1e8687d7a389d1fda6ebba4b27b65e1097729ef85e10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/14\/13-16.1792102520341.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "تے چھٹیا"
+    },
+    {
+      "surface": "חרדה",
+      "gloss": "ڈر"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "پڑاؤ وِچ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "کھیت وِچ"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "تے سارے"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوکاں وِچ"
+    },
+    {
+      "surface": "המצב",
+      "gloss": "پہرے نے"
+    },
+    {
+      "surface": "והמשחית",
+      "gloss": "تے تباہی مچان والے"
+    },
+    {
+      "surface": "חרדו",
+      "gloss": "کنب پئے"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "המה",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "ותרגז",
+      "gloss": "تے ہلی"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "دھرتی"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "تے ہوئی"
+    },
+    {
+      "surface": "לחרדת",
+      "gloss": "ڈر بن"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-10-15T22:15:20.342581794Z",
+  "model": "glm-5.3"
+}

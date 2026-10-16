@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 51:12",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "آں",
+      "rationale": "عبرانی وِچ کوئی کاپلہ نئیں — הוא ہی جملے دی کُرسی اے"
+    },
+    {
+      "kind": "you",
+      "subject": "صیہون\/یروشلایم",
+      "rationale": "מי את ותיראי — مونث واحد مخاطب: قید ہوئی ماں-شہر"
+    },
+    {
+      "kind": "substitution",
+      "subject": "گھاہ وانگوں دتا جاندا اے",
+      "rationale": "חציר ינתן شاید 'گھاہ وانگوں پورا کیتا جاندا' — 40:6–7 دے نال چلدا اے، پنجابی وچ سدا دی تصویر"
+    }
+  ],
+  "translation": "میں، میں ہی اوہ ⟨آں⟩ جیہڑا توانوں تسلی دیندا اے؛ توں کون اے جو مرن والے انسان توں ڈردی اے، تے آدم دے پتر توں — جیہڑا گھاہ وانگوں دتا جاندا اے؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e5ac8a98696d3e7742f23015c59ce496e0adf778b3fb323398ae4a5afe755ca6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/51\/9-12.1792106936995.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "מנחמכם",
+      "gloss": "توانوں تسلی دیندا"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "את",
+      "gloss": "توں"
+    },
+    {
+      "surface": "ותיראי",
+      "gloss": "تے ڈردی"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "انسان توں"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "مرن والا"
+    },
+    {
+      "surface": "ומבן",
+      "gloss": "تے پتر توں"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم دے"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "گھاہ"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "دتا جاندا"
+    }
+  ],
+  "timestamp": "2026-10-15T23:28:56.996360498Z",
+  "model": "glm-5.3"
+}

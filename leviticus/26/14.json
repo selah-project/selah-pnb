@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "اسرائیل",
+      "rationale": "شرطی آیت — برکتاں دے بعد پہلی تنبیہ، قوم نوں مخاطب"
+    },
+    {
+      "kind": "addition",
+      "subject": "وِچوں",
+      "rationale": "את כל دی تعلیم پنجابی جملے وِچ واضح کرن لئی"
+    }
+  ],
+  "translation": "تے جے تُساں میرے نوں ناں سُنو، تے ایہناں ساریاں حکماں وِچوں ⟨את⟩ سب ناں کرو،",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b8c7c19eb040a9f1be83e0f014129552a3de6b565a958f8afbcaed7dde93030c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/26\/13-16.1792098156889.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ناں"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "سُنو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرے نوں"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے ناں"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "کرو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ساریاں حکماں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "حکماں"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ایہناں"
+    }
+  ],
+  "timestamp": "2026-10-15T21:02:36.890541059Z",
+  "model": "glm-5.3"
+}

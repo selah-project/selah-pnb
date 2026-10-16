@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 1:10",
+  "book": "joel",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שדד\/שדה",
+      "rationale": "shudad\/sadeh — destroyer and field sound alike, doubled in the verse; Punjabi loses the paronomasia"
+    },
+    {
+      "kind": "substitution",
+      "subject": "سُک گئی",
+      "rationale": "הוביש is from the 'be ashamed\/dry up' root; Punjabi keeps only the drying sense"
+    }
+  ],
+  "translation": "کھیت لُٹیا گیا اے، دھرتی سوگ کر دی اے، کیوں جو کنڈ لُٹیا گیا اے، نویں شراب سُک گئی اے، تیل مرِیھا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d6805fefa645284de3b62507b0dfdff2192c84a50a2be0a3dbb687edf093f52c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joel\/1\/9-12.1792110698487.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שדד",
+      "gloss": "لُٹیا گیا اے"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "کھیت"
+    },
+    {
+      "surface": "אבלה",
+      "gloss": "سوگ کر دی اے"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "دھرتی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "لُٹیا گیا اے"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "کنڈ"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "سُک گئی اے"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "نویں شراب"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "مرِیھا اے"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "تیل"
+    }
+  ],
+  "timestamp": "2026-10-16T00:31:38.488207140Z",
+  "model": "glm-5.3"
+}

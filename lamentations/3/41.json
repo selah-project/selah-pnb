@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "lamentations 3:41",
+  "book": "lamentations",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اسیں",
+      "rationale": "عبرانی فعل دے نال ضمیر نئیں، پنجابی صیغہ منگدا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "دل ہتھاں ول چکنا",
+      "rationale": "לבבנו אל כפים — دل ہتھاں اُتے چُکنا وی اے (دعا دا اشارہ)، ہتھاں سمیت چکنا وی"
+    }
+  ],
+  "translation": "اسیں اپنے دل نوں ہتھاں ⟨ول⟩ چکیے، اسماناں وِچ ایل ⟨ول⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4fba566d6b5bd59f449d9992520aab66cb773f7233d713d8907c74f13ed09760",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/lamentations\/3\/41-44.1792117080783.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "چکیے"
+    },
+    {
+      "surface": "לבבנו",
+      "gloss": "اپنے دل نوں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ول⟩"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "ہتھاں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ول⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "اسماناں وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T02:18:00.783852379Z",
+  "model": "glm-5.3"
+}

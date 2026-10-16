@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 7:9",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوہنے \/ اوہ",
+      "rationale": "عبرانی وِچ کرتا دا ضمیر نئیں، پنجابی جملے لئی شامل کیتا"
+    },
+    {
+      "kind": "elision",
+      "subject": "לבני קהת",
+      "gloss": "پتراں نوں اِکو جٹّ دی ٹوکن اے، دو لفظ لئے گئے"
+    }
+  ],
+  "translation": "تے قہات دے پتراں نوں ⟨اوہنے⟩ نئیں دِتّا، کیونکہ مقدس دی خدمت اوہناں اُتے سی: مونڈھے اُتے ⟨اوہ⟩ چُکنگے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "30ef2d20b1da3bda106efe57b5f5e8619ab8d812d6ba8a25e92f7871c2db93c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/7\/9-12.1792098399915.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "تے پتراں نوں"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قہات"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دِتّا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "خدمت"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "مقدس دی"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "اوہناں اُتے"
+    },
+    {
+      "surface": "בכתף",
+      "gloss": "مونڈھے اُتے"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "چُکنگے"
+    }
+  ],
+  "timestamp": "2026-10-15T21:06:39.915601794Z",
+  "model": "glm-5.3"
+}

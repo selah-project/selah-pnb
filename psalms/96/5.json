@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 96:5",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 96,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אלהי\/אלילים",
+      "rationale": "אלהי (دیوتے) تے אלילים (بت) دی آواز اِکو جئی — شبہہ دا کھیڈ، پنجابی وِچ مک گیا۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "بت",
+      "rationale": "אלילים دا مطلب 'کُوڑے\/فضول شیواں' وی اے — 'بت' خاص پکھ چُکیا گیا۔"
+    }
+  ],
+  "translation": "کیوں جو قوماں دے سارے دیوتے بت نیں، پر یاہوہ نے اسمان بنائے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "97181f96890c63ce205790d229cab2560e78902b76da491cd5581843bf8646c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/96\/5-8.1792113384783.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "دیوتے"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "قوماں دے"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "بت نیں"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "پر یاہوہ نے"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "اسمان"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بنائے نیں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:16:24.783499444Z",
+  "model": "glm-5.3"
+}

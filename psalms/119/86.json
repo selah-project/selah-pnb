@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 86,
+  "ref": "psalms 119:86",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨نیں⟩",
+      "rationale": "عبرانی وِچ کوئی کپلا نئیں — 'سارے تیرے حکم وفا'"
+    },
+    {
+      "kind": "you",
+      "subject": "یاہوہ نوں",
+      "rationale": "سدھی دعا — مدد دی بینتی"
+    }
+  ],
+  "translation": "تیرے سارے حکم وفا نیں؛ جھوٹ ⟨نال⟩ میرا پچھا کیتا گیا اے؛ مینوں مدد کر۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8e03f311bbb937ffcb1e3d0c3a65cc4b4fa53d2c47c61faebecb9f7bbf051b71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/119\/85-88.1792113924626.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "تیرے حکم"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "وفا"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "جھوٹ"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "میرا پچھا کیتا"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "مینوں مدد کر"
+    }
+  ],
+  "timestamp": "2026-10-16T01:25:24.627110977Z",
+  "model": "glm-5.3"
+}

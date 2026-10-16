@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 55:14",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "دھوکھے دین والے یار نوں",
+      "rationale": "سِدھا مخاطب — صلاح وِچ دگدھا یار، جِہڑا آیت 13 دے ویری نئیں۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "אלוף",
+      "rationale": "'یار\/رل والا' یا 'سردار\/آگو' — دونویں پرکھ وِچ نیں؛ 'یار' لیا کیونکہ סוד نال جُڑیا اے۔"
+    }
+  ],
+  "translation": "پر تُوں ای اوہ بندہ سی، میرے برابر دا، میرا یار تے میرا جانن والا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b253a0c41a131a291ebed9375d1be76fb6f6ff443e2b826b67ddc7f0eea2f34c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/55\/13-16.1792112675048.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "پر-تُوں"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "כערכי",
+      "gloss": "میرے-برابر-دا"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "میرا-یار"
+    },
+    {
+      "surface": "ומידעי",
+      "gloss": "تے-میرا-جانن-والا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:04:35.048641420Z",
+  "model": "glm-5.3"
+}

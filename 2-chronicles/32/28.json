@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 32:28",
+  "book": "2-chronicles",
+  "lang": "pnb",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اُس نے بنائیاں",
+      "rationale": "عبرانی وِچ کوئی فعل نئیں، صرف اسم دی فہرست اے؛ پنجابی جملہ لئی پچھلی آیت دا فعل دُہرایا گیا۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "בהמה ובהמה",
+      "rationale": "'ہر ڈنگر تے ڈنگر' — کجھ مترجم ایہنوں 'ہر قِسم دے ڈنگر' کہندے نیں؛ عبرانی دُہراؤ رکھیا گیا اے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תירוש",
+      "gloss": "تازا رس",
+      "rationale": "מست-انگُور دا رس، شراب نئیں — کچا رَس ای۔"
+    }
+  ],
+  "translation": "تے اُس نے اناج، تازا انگُور دے رس تے تیل دی پیداوار لئی بھنڈار-کوٹھیاں بنائیاں، تے ہر ڈنگر تے ڈنگر لئی واڑے، تے ریوڑاں لئی باڑیاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1064122ae5560e3b41b4b3dd5abad207dc7edaf47700a7b5c6b0edfbc17b9092",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/32\/25-28.1792122872229.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומסכנות",
+      "gloss": "تے بھنڈار-کوٹھیاں"
+    },
+    {
+      "surface": "לתבואת",
+      "gloss": "پیداوار لئی"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "اناج"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "تے تازا انگُور دا رس"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "تے تیل"
+    },
+    {
+      "surface": "וארות",
+      "gloss": "تے واڑے"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ڈنگر"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "تے ڈنگر"
+    },
+    {
+      "surface": "ועדרים",
+      "gloss": "تے ریوڑ"
+    },
+    {
+      "surface": "לאורות",
+      "gloss": "باڑیاں لئی"
+    }
+  ],
+  "timestamp": "2026-10-16T03:54:32.230723870Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ہے",
+      "rationale": "عبرانی وِچ کوپلا نئیں، پنجابی نوں 'ہے' چاہیدا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "مہ",
+      "rationale": "مہ پچھن والا نئیں، حیرت دا اعلان اے — 'کِتے وڈیرا اے' بارے لے کے آیا"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "مה־אדיר",
+      "rationale": "آیت 2 دا پورا دُہراؤ — مگرنب دا حلقا بند ہندا اے"
+    },
+    {
+      "kind": "invitation",
+      "subject": "اے آیت",
+      "rationale": "خداوند نوں سدّا — مگرنب دی انت بجھائی"
+    }
+  ],
+  "translation": "یاہوہ، ساڈے ادونای، ⟨کِتے⟩ وڈیرا اے تیرا ناں ساری دھرتی تے!",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "eb58508ff3f199256c102446a6e0832d2f37da1a0fca7fb9c90c2143b34e5232",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/8\/9-10.1792111902989.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "ساڈے ادونای"
+    },
+    {
+      "surface": "מה",
+      "gloss": "⟨کِتے⟩ وڈیرا"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "وڈیرا"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "تیرا ناں"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "دھرتی تے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:51:42.990532501Z",
+  "model": "glm-5.3"
+}

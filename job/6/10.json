@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 6:10",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ואסלדה בחילה",
+      "rationale": "'درد وِچ اُچھلداں\/خوش ہوواں' — کجھ مترجم 'اپنے آپ نوں سخت کر لوں' پڑھدے نیں (KJv)؛ عبرانی جوش دا چِتر دیندا اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨کہ اوہ⟩",
+      "rationale": "عبرانی فاعل چھڈ دیتا اے؛ پنجابی جملے لئی لوڑیا۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "پاک",
+      "rationale": "קדוש 'پاک اک' — ایلوہ دا لقب، جیوں کہ 'پاک دے بچن'۔"
+    }
+  ],
+  "translation": "تے فیر میری تسلی ہووے، تے میں درد وِچ خوش ہوواں ⟨کہ اوہ⟩ رحم نئیں کردا، کیونجے میں پاک دے بچن ⟨نوں⟩ نئیں لکائے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "671760bb976709a9f9abe80a24b05c2ca760148014d1ec445f7cbefb10f33f06",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/6\/9-12.1792115495017.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "تے ہووے"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "فیر"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "میری تسلی"
+    },
+    {
+      "surface": "ואסלدה",
+      "gloss": "تے خوش ہوواں"
+    },
+    {
+      "surface": "בחילה",
+      "gloss": "درد وِچ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יחמול",
+      "gloss": "رحم کردا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "כחדתי",
+      "gloss": "میں لکائے"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "بچن"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "پاک دے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:51:35.017777067Z",
+  "model": "glm-5.3"
+}

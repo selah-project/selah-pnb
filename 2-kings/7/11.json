@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 7:11",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מי پکاریا",
+      "rationale": "וזיקרא دی فعل اِکو اے پر 'دروازباناں نے پکاریا' — کجھ ترجمے 'اوہنے دروازباناں نوں سدّیا' کردے نیں"
+    },
+    {
+      "kind": "elision",
+      "subject": "وصول کرن والا",
+      "rationale": "کِہنوں دسیا گیا اوہ متن نئیں دسدا — 'اندروں' ای پورا کہندا اے"
+    }
+  ],
+  "translation": "تے دروازباناں نے پکاریا تے بادشاہ دے گھر وِچ، اندر ⟨تک⟩ دسیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f83fd481bd16c2de971c566aadd909b4cb021e4067f6a9494737b8f1928de09c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/7\/9-12.1792105163683.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "تے پکاریا"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "دروازباناں نے"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "تے دسیا"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر وِچ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ دے"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "اندروں"
+    }
+  ],
+  "timestamp": "2026-10-15T22:59:23.685302811Z",
+  "model": "glm-5.3"
+}

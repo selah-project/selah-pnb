@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 6:14",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": " syntaks",
+      "rationale": "عبرانی جملہ بے نشان اے — 'ہارے ہوئے نوں یار دا خیسِد ملدا اے، پر اوہ شدّای دا ڈر چھڈّ دندا اے' جاں 'چاہے اوہ چھڈّ دے'؛ میں دوجا پاڑا لیا اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ہونا چاہیدا اے⟩",
+      "rationale": "عبرانی وِچ کوئی فعل نئیں؛ جملہ صیغہ اے، پنجابی نوں فعل چاہیدا سی۔"
+    }
+  ],
+  "translation": "ہارے ہوئے بندے لئی اپنے یار دا خیسِد ⟨ہونا چاہیدا اے⟩، بھاویں اوہ شدّای دا ڈر چھڈّ دے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7665eb970d936697d2efdc8f58bccb52f03f1e3817489fc99181d93b2a7e3284",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/6\/13-16.1792115544187.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למס",
+      "gloss": "ہارے ہوئے بندے لئی"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "اپنے یار دا"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "خیسِد"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "بھاویں ڈر"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "شدّای دا"
+    },
+    {
+      "surface": "יעזוב",
+      "gloss": "چھڈّ دے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:52:24.187847243Z",
+  "model": "glm-5.3"
+}

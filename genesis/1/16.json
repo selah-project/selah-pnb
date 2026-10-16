@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 1:16",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نوں",
+      "rationale": "آخری את دے نشان تارے لئی پنجابی مفعولی حالت منگدی اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "دو",
+      "rationale": "گنتی — دو روشنی دے پیندے، وڈا تے نِکا"
+    },
+    {
+      "kind": "alternative",
+      "subject": "تے تاریاں نوں",
+      "rationale": "عبرانی وچ ואת הכוכבים فعل دے مفعول اے؛ کجھ ترجمے 'اوہناں نال تارے وی بنائے' کر دیندے نیں — پڑھیا گیا مفعول رکھیا"
+    }
+  ],
+  "translation": "تے ایلوہیم نے ⟨את⟩ دو وڈے روشنی دے پیندے بنائے — ⟨את⟩ وڈا پیندا دن دی حکومت لئی، تے ⟨את⟩ نِکا پیندا رات دی حکومت لئی — تے ⟨את⟩ تاریاں نوں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a6c8848f1ec5934cf37513f2c9cd4ebec9aad6c165f2a0036feef99f8b86fca4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/1\/13-16.1792094673337.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "تے بنائے"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دو وڈے روشنی دے پیندے"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دو"
+    },
+    {
+      "surface": "המארת",
+      "gloss": "روشنی دے پیندے"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "وڈے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وڈا پیندا"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "پیندا"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "وڈا"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "حکومت لئی"
+    },
+    {
+      "surface": "היום",
+      "gloss": "دن دی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "نِکا پیندا"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "پیندا"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "نِکا"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "حکومت لئی"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "رات دی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "تارے"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "تارے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:04:33.338791743Z",
+  "model": "glm-5.3"
+}

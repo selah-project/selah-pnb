@@ -1,0 +1,134 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 3:17",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ایہو ایلوہیم تیرے نال کرے تے ایہو ہور ودھے",
+      "rationale": "قسم دا عبرانی فارمولا — کھلے گئے، پنجابی وچ سدھا رکھیا"
+    },
+    {
+      "kind": "you",
+      "subject": "سموئیل",
+      "rationale": "عیلی دا سموئیل نوں سدھا سوال تے حکم"
+    }
+  ],
+  "translation": "تے اوہنے آکھیا: کیہڑی گل اے جیہڑی اوہنے تیرے نال آکھی اے؟ میری منت اے، میرے توں کجھ لُکا نہیں، ایہو ایلوہیم تیرے نال کرے تے ایہو ہور ودھے جے تُوں میرے توں ساری گل وچوں اِک گل وی لُکائیں جیہڑی اوہنے تیرے نال آکھی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "cf9c6ef116f74d0053dadb969c846115b4b95cd141eabd18507d292be3df5aa1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/3\/16-17.1792123667107.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے اوہنے آکھیا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیہڑی"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "گل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "آکھی"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تیرے نال"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "נא",
+      "gloss": "میری منت اے"
+    },
+    {
+      "surface": "תכחד",
+      "gloss": "لُکا"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "میرے توں"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ایہو"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کرے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیرے نال"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "تے ایہو"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "ودھے"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "תכחד",
+      "gloss": "لُکائیں"
+    },
+    {
+      "surface": "ממנی",
+      "gloss": "میرے توں"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گل"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ساری … وچوں اِک"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "گل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "آکھی"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تیرے نال"
+    }
+  ],
+  "timestamp": "2026-10-16T04:07:47.108118046Z",
+  "model": "glm-5.3"
+}

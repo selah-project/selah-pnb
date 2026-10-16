@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 32:2",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נזם",
+      "rationale": "لفظ دی شکل نکّ دا وال اے، پر سیاق کناں دا دسدا اے — کناں والیاں ای رکھیا۔"
+    },
+    {
+      "kind": "you",
+      "subject": "اہرون دی قوم نون گل",
+      "rationale": "حکمی خطاب قوم ول: لتاڑو تے لیاؤ۔"
+    }
+  ],
+  "translation": "تے اہرون نے اوہناں نوں آکھیا: اپنیاں زنانیاں، اپنے پتراں تے اپنیاں دھیاں دے کناں وِچوں سونے دیاں والاں لتاڑو تے میرے کول لیاؤ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6e1c9d727695a47d80fc1f12fdb81bf92e44cfa5c3f82884062361d2e97262fd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/32\/1-4.1792097129326.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "اوہناں نوں"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون نے"
+    },
+    {
+      "surface": "פרקו",
+      "gloss": "لتاڑو"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "والاں"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "سونے دیاں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑیاں"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "کناں وِچ"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "تُہاڈیاں زنانیاں دے"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "تُہاڈے پتراں"
+    },
+    {
+      "surface": "ובנתיכם",
+      "gloss": "تے تُہاڈیاں دھیاں"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "تے لیاؤ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میرے کول"
+    }
+  ],
+  "timestamp": "2026-10-15T20:45:29.327860242Z",
+  "model": "glm-5.3"
+}

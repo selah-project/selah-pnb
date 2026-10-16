@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 29:33",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ہتھ پورے کرنا",
+      "rationale": "למלא את ידם بستِ ہتھ = دیانت\/تنصیت دا ادائیگی اے، پنجابی وِچ سدھا چِتر رکھیا اے"
+    },
+    {
+      "kind": "elision",
+      "subject": "לקדש אתם",
+      "rationale": "مقدس بناؤن لئی اوہناں نوں — دو ٹوکناں نوں اِک واک وِچ رلایا گیا"
+    }
+  ],
+  "translation": "تے اوہ ⟨את⟩ اوہناں چیزاں نوں کھایا کرنگے جیہناں نال کفارہ کیتا گیا، ⟨את⟩ اوہناں دے ہتھ پورے کرن لئی، اوہناں نوں مقدس بناؤن لئی؛ پر اجنبی نئیں کھاویگا، کیوں جے ⟨اوہ⟩ مقدس نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7ee97fc3ff2fede9f3c2a254554e5bc1718f405486bdb5e6264fc284fc2df85c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/29\/33-36.1792096957747.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "تے کھایا کرنگے"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ اوہناں نوں",
+      "marks": "اوہناں چیزاں نوں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑیاں"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "کفارہ کیتا گیا"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "اوہناں نال"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "پورے کرن لئی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ہتھ"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "مقدس بناؤن لئی"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ اوہناں نوں",
+      "marks": "اجنبی توں علاوہ اوہناں نوں"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "پر اجنبی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کھاویگا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جے"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "הם",
+      "gloss": "اوہ"
+    }
+  ],
+  "timestamp": "2026-10-15T20:42:37.748018010Z",
+  "model": "glm-5.3"
+}

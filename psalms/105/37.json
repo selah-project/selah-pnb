@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 105:37",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "لڑکدا",
+      "rationale": "כושל لتاں دی کمزوری نال ڈگھڑدا\/ہِلدا اے — 'بیمار' نئیں؛ جےپس 'stumbled' ایتھے پکا اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "عبرانی وِچ فعل دی جملے وِچ کوئی چیز نئیں، پنجابی ماضی لئی 'سی' پایا گیا۔"
+    }
+  ],
+  "translation": "تے اوہنے اوہناں نوں چاندی تے سونے نال باہر کڈیا، تے اوہدیاں قبیلےآں وِچ کوئی لڑکدا نئیں سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "13de54975d6c0cf9b7d16426a426cdfa39d7074471677b7046572bcaf8b6fda9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/105\/37-40.1792113564580.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויוציאם",
+      "gloss": "تے اوہنے اوہناں نوں باہر کڈیا"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "چاندی نال"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "تے سونے نال"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "تے کوئی نئیں"
+    },
+    {
+      "surface": "בשבטיו",
+      "gloss": "اوہدیاں قبیلےآں وِچ"
+    },
+    {
+      "surface": "כושל",
+      "gloss": "لڑکدا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:19:24.580571960Z",
+  "model": "glm-5.3"
+}

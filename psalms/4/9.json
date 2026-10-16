@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 4:9",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "لבדד",
+      "rationale": "JPS 'makest me dwell alone' vs KJV\/BSB 'alone makest me dwell' — does לבדד modify the dwelling or the LORD acting alone?"
+    },
+    {
+      "kind": "substitution",
+      "subject": "سلامتی",
+      "rationale": "שלום is wholeness\/well-being rendered as سلامتی (safety\/peace), narrowing its range."
+    }
+  ],
+  "translation": "سلامتی وِچ اِکو ویلے میں لیٹاں گا تے سُم چیکاں گا، کیوں جو تُوں، یاہوہ، اِکلا، اِمانت نال مینوں وسیا ہویا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1814adc919befac7216545885acbe320f7d614af3de7993ff831b253c13f3c5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/4\/9-9.1792111748131.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשלום",
+      "gloss": "سلامتی وِچ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "اِکو ویلے"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "میں لیٹاں گا"
+    },
+    {
+      "surface": "ואישן",
+      "gloss": "تے سُم چیکاں گا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "اِکلا"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "اِمانت نال"
+    },
+    {
+      "surface": "תושיבני",
+      "gloss": "مینوں وسیا ہویا اے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:49:08.132478333Z",
+  "model": "glm-5.3"
+}

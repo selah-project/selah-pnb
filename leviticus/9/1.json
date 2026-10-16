@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 9:1",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "تے",
+      "rationale": "پنجابی نوں وائیواد چاہیدی اے جیہڑی عبرانی وِچ ויהی دے اگّوں نئیں"
+    },
+    {
+      "kind": "measurement",
+      "subject": "اٹھویں دِن",
+      "rationale": "ٹکرے دا دِن گنیا گیا اے — قربانی دی نظامت دا اٹھواں دن"
+    }
+  ],
+  "translation": "تے اٹھویں دِن ہویا ⟨تے⟩ موشے نے اہرون نوں تے اوہدے پُتراں نوں تے یِسرائیل دے بُڈھیاں نوں سدّیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1f71bc7c99dd076a4c5d19903c32acc6930ce7d600c5823cef56d12b0f5c648a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/9\/1-4.1792097622810.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے ہویا"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "دِن"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "اٹھویں"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "سدّیا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے نے"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "اہرون نوں"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "تے اوہدے پُتراں نوں"
+    },
+    {
+      "surface": "ולזקני",
+      "gloss": "تے بُڈھیاں نوں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل دے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:53:42.811045605Z",
+  "model": "glm-5.3"
+}

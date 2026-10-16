@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 15:8",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פתח תפתח · העבט תעביטנו",
+      "rationale": "دو مصدر مطلق دہراؤ — عبرانی دا پکا زور، پنجابی وِچ 'یقین نال' نال دِتا۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מחסרו \/ יחסר",
+      "rationale": "اِکو جڑ ח-ס-ר دو واری — لوڑ تے گھٹی ہوئی چیز دا مِیل۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "כי",
+      "rationale": "اتھے פِچھلی آیت دے 'نئیں' دے الٹ دے طور تے 'سگوں' دِتا، 'کیوں جے' نئیں۔"
+    }
+  ],
+  "translation": "سگوں تُوں یقین نال اپنا ہتھ ⟨את⟩ اوہدے لئی کھولیں، تے اوہنوں یقین نال قرضے اُتے دیویں، اوہدی لوڑ دی کمی دے باقاعدہ، جیہڑی اوہنوں گھٹ ہووے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "28b1fff41988a6bfadd7cdf73b8731394c6aa4151dbf25580eaa81edede5fdcb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/15\/5-8.1792100044950.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "سگوں"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "یقین نال کھولنا"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "کھولیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنا ہتھ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "اپنا ہتھ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدے لئی"
+    },
+    {
+      "surface": "והעבט",
+      "gloss": "تے یقین نال قرضے اُتے دینا"
+    },
+    {
+      "surface": "תעביטנו",
+      "gloss": "اوہنوں دیویں"
+    },
+    {
+      "surface": "די",
+      "gloss": "باقاعدہ"
+    },
+    {
+      "surface": "מחסרו",
+      "gloss": "اوہدی لوڑ دی کمی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "گھٹ ہووے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہنوں"
+    }
+  ],
+  "timestamp": "2026-10-15T21:34:04.951830633Z",
+  "model": "glm-5.3"
+}

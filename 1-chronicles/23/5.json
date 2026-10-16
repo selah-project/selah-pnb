@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 23:5",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עשיתי — میں بنایاں",
+      "rationale": "پہلا شخص اے پر عبرانی وِچ 'داوِد نے آکھیا' کتے نئیں؛ مترجم بولن والا داوِد مان لیندے نیں۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨اوہناں⟩",
+      "rationale": "عبرانی وِچ اشارہ نئیں، پنجابی جملے لئی پایا۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "چار ہزار + چار ہزار",
+      "rationale": "لیویاں دی گنتی — دروازے بان تے تعریف کرن والیاں دی ونڈ۔"
+    }
+  ],
+  "translation": "تے چار ہزار دروازے بان سن، تے چار ہزار یاہوہ دی تعریف کردے سن، ⟨اوہناں⟩ سازاں نال جیہڑے میں تعریف لئی بنایاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "46c003404f311bbda53646321ee5081a50720b0a20bda5dc0e0688be7b894c1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/23\/5-8.1792121162696.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וארבעת",
+      "gloss": "تے چار"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "دروازے بان"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "تے چار"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "מהללים",
+      "gloss": "تعریف کردے سن"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ دی"
+    },
+    {
+      "surface": "בכלים",
+      "gloss": "سازاں نال"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑے"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "میں بنایاں"
+    },
+    {
+      "surface": "لהלל",
+      "gloss": "تعریف لئی"
+    }
+  ],
+  "timestamp": "2026-10-16T03:26:02.697044708Z",
+  "model": "glm-5.3"
+}

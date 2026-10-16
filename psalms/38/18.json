@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 38:18",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לצלע",
+      "rationale": "צלע = لنگڑاہٹ\/پاسے ول جھکنا: کجھ مترجم 'لنگڑا'، کجھ 'ڈگّھ پین' لکھدے نیں۔"
+    }
+  ],
+  "translation": "کیونجہ میں لنگڑا کے ٹُرن لئی تیار آں، تے میرا دکھ ہمیشہ میرے اگے رہندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2abcd069df0fabfec58f6a32452f4b0ac8e78f0cafe15f365b91de2dc3f20c16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/38\/17-20.1792112403522.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "לצלע",
+      "gloss": "لنگڑا کے ٹُرن لئی"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "تیار"
+    },
+    {
+      "surface": "ומכאובי",
+      "gloss": "تے میرا دکھ"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "میرے اگے"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ہمیشہ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:00:03.522749771Z",
+  "model": "glm-5.3"
+}

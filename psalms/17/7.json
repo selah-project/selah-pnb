@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 17:7",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "خیسِد",
+      "rationale": "חסד نوں خیسِد رکھیا — اِک لفظ نال 'رحم' جاں 'فضل' گرا دیندا اے۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "בימינך دی تھاں",
+      "rationale": "KJV 'تیرے سجے ہتھ نال بچاؤدا اے' پڑھدے نیں؛ JPS تے YLT 'تیرے سجے ہتھ توں' یعنی حفرے دا حصہ — عربی 'ب' دوناں پاسے جا سکدا اے۔"
+    },
+    {
+      "kind": "mystery",
+      "subject": "הפלה",
+      "rationale": "'وکھریاں کر دے' — خیسِد دا بے مثال دکھاؤنا، کوئی وضاحت نئیں دتی کِویں۔"
+    }
+  ],
+  "translation": "وکھریاں کر دے تیرے خیسِد ⟨بے مثال کر دے⟩، ہے بچاؤن والا اُنہاں دا جیہڑے پناہ لیندے نیں، اُٹھن والیاں توں تیرے سجے ہتھ ⟨نال⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ed42e6203a2b00f92f88a775beee1b6eda610259e05f67698391a94bdb390549",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/17\/5-8.1792111959426.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הפלה",
+      "gloss": "وکھریاں کر دے"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "تیرے خیسِد"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "بچاؤن والا"
+    },
+    {
+      "surface": "חוסים",
+      "gloss": "پناہ لین والیاں"
+    },
+    {
+      "surface": "ממתקוממים",
+      "gloss": "اُٹھن والیاں توں"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "تیرے سجے ہتھ"
+    }
+  ],
+  "timestamp": "2026-10-16T00:52:39.427552236Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 7:18",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "המלכת",
+      "rationale": "نام 'ہ-مولِکِت' وی ہو سکدا اے تے عام ('ملکہ') وی — کجھ مترجم ایہنوں 'ملکہ' پڑھدے نیں"
+    },
+    {
+      "kind": "addition",
+      "subject": "نوں",
+      "rationale": "پنجابی مفعول دے لئی 'نوں' منگدی اے، عبرانی وِچ صرف ⟨את⟩ اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "نسل نامہ",
+      "rationale": "جمݨ دی تریخ — ٹبر دی گنتی وِچ اِک ووٹ"
+    }
+  ],
+  "translation": "تے اوہدی بھین مولِکِت نے ⟨את⟩ ایشہود نوں، تے ⟨את⟩ اَبیعِزِر نوں، تے ⟨את⟩ مَخلہ نوں جَمیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e5f17eeaedbd65afd60a8eea9a37524552506fb91be2f9f119b71481eafec07a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/7\/17-20.1792120464614.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחתו",
+      "gloss": "تے اوہدی بھین"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "مولِکِت"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "نے جَمیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایشہود"
+    },
+    {
+      "surface": "אישהוד",
+      "gloss": "ایشہود"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اَبیعِزِر"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "اَبیعِزِر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "مَخلہ"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "مَخلہ"
+    }
+  ],
+  "timestamp": "2026-10-16T03:14:24.615436234Z",
+  "model": "glm-5.3"
+}

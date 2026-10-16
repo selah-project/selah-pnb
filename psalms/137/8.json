@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 137:8",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 137,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "השדודה",
+      "rationale": "'The destroyed one' — prophetic perfect (already fallen) vs KJV 'to be destroyed'; participle kept as 'لُٹی ہوئی'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שישלם\/גמלת",
+      "rationale": "Requital pair — 'repay' against 'what you dealt'; the echo of lex talionis carries into v9."
+    },
+    {
+      "kind": "you",
+      "subject": "to Babylon",
+      "rationale": "Direct address to 'daughter of Babylon' in the second person feminine."
+    }
+  ],
+  "translation": "اے بابل دی دھی، لُٹی ہوئی، خوش اے اوہ جو تینوں ⟨את⟩ تیرا بدلا بدلے — جو تیں سانوں کیتا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "25d1b7e231f2a191d3639ebda193d3e341c19ea442e0f03606e1ccc2d8c1cf26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/137\/5-8.1792114193921.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "اے…دی دھی"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "השדודה",
+      "gloss": "لُٹی ہوئی"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "خوش اے اوہ"
+    },
+    {
+      "surface": "שישלם",
+      "gloss": "بدلا بدلے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تینوں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تیرا بدلا"
+    },
+    {
+      "surface": "גמולך",
+      "gloss": "تیرا بدلا"
+    },
+    {
+      "surface": "שגמלת",
+      "gloss": "جو تیں کیتا اے"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "سانوں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:29:53.923011365Z",
+  "model": "glm-5.3"
+}

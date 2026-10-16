@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 14:10",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הכה הכית",
+      "rationale": "ماضی قریب دے اگے اسمِ مصدر دا دہراؤ زور دیندا اے — “ایہو مارنا، ماریا ای”۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "הכבד",
+      "rationale": "کجھ مترجم “فخر کر” آکھدے نیں، کجھ پُچھدے سوال وجوں “کیا فخر کرنا اے؟” (JPS)۔"
+    },
+    {
+      "kind": "you",
+      "subject": "اَمتسیاہو ولّ",
+      "rationale": "ساری آیت سدھی خطاب اے — تُوں، تیرا دل، تیرا گھر۔"
+    }
+  ],
+  "translation": "ایہو مارنا — تُوں ⟨את⟩ اَدوم نوں ماریا ای، تے تیرا دل تینوں چُکیا اے؛ فخر کر تے اپنے گھر وِچ ٹِک جا، تے کیوں بُرائی وِچ لڑائی پھسدے ایں کہ تُوں ڈِگسیں — تُوں تے تیرے نال یِہوداہ وی؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "79f467376183c28b72dd2cf392ec7129f17760c8fe22176f7423bbde43e6a6ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/14\/9-12.1792105300605.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "ایہو مارنا"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "ماریا ای"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَدوم"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "اَدوم"
+    },
+    {
+      "surface": "ונשאך",
+      "gloss": "تے تینوں چُکیا"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "تیرا دل"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "فخر کر"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "تے ٹِک جا"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "اپنے گھر وِچ"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "تے کیوں"
+    },
+    {
+      "surface": "תתגרה",
+      "gloss": "لڑائی پھسدے ایں"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "بُرائی وِچ"
+    },
+    {
+      "surface": "ונפלתה",
+      "gloss": "کہ ڈِگسیں"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُوں"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "تے یِہوداہ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تیرے نال"
+    }
+  ],
+  "timestamp": "2026-10-15T23:01:40.606776933Z",
+  "model": "glm-5.3"
+}

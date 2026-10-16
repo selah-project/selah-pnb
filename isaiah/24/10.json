@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ویرانی دا",
+      "rationale": "תהו پیدائش 1:2 والا 'بے صورت' اے — خالی، اگڑ-گوڑ چیز؛ 'ویرانی' اوہدے نیڑے دا لفظ اے۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תהו",
+      "rationale": "یشعیاہ 24 دا سارا باب پیدائش 1 دی تخلیق دی الفاظ نال الٹدا اے — بے صورتاپن مُڑ آؤندا اے۔"
+    }
+  ],
+  "translation": "بھج گئی اے ⟨اوہ⟩ شہر ویرانی دا، بند کر دِتا گیا ہر گھر وڑن توں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d73783ffe5f8117bd48bcd3c0527dd82a24470e279d27e65b90a3021c0690c90",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/24\/9-12.1792106233354.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "بھج گئی اے"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "ویرانی دا"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "بند کر دِتا گیا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "وڑن توں"
+    }
+  ],
+  "timestamp": "2026-10-15T23:17:13.355366192Z",
+  "model": "glm-5.3"
+}

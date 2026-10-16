@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 5:13",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "תבן",
+      "rationale": "בھوسی — کنڈی دا بھُوسا، سکھا وہائے دھانں دا چھِٹکار، اِٹاں وِچ مِلاؤن والا"
+    },
+    {
+      "kind": "alternative",
+      "subject": "דבר יום ביומו",
+      "rationale": "لفظی 'دِن دا کم اپنے دِن وِچ' — 'ہر دِن دا کوٹا' وی جائز پڑھائی اے"
+    }
+  ],
+  "translation": "تے مُکاؤن والے اوہناں نوں ہلا کے آکھدے: اپنے کم پورے کرو، دِن دا کم اپنے دِن، جیویں بھوسی ہون ویلے ⟨ہوندا سی⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2d83b7706d744ba687459704a748093de7e85eba92d083d95fac01e8da448f74",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/5\/13-16.1792096209719.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנגשים",
+      "gloss": "تے مُکاؤن والے"
+    },
+    {
+      "surface": "אצים",
+      "gloss": "ہلا کے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھدے"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "پورے کرو"
+    },
+    {
+      "surface": "מעשיכם",
+      "gloss": "اپنے کم"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "دِن دا کم"
+    },
+    {
+      "surface": "יום",
+      "gloss": "دِن"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "اپنے دِن"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "ہون ویلے"
+    },
+    {
+      "surface": "התבן",
+      "gloss": "بھوسی"
+    }
+  ],
+  "timestamp": "2026-10-15T20:30:09.720001999Z",
+  "model": "glm-5.3"
+}

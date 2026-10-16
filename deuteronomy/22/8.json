@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 22:8",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "דמים",
+      "rationale": "لفظی 'لہو' — 'لہو دا قصور' نئیں لکھیا، صرف 'لہو' رکھیا گیا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הנפל",
+      "rationale": "فاعلی شکل 'اوہ ڈِگن والا' — کجھ مترجم 'کوئی بندہ' لکھدے نیں، عبرانی بندہ نئیں کہندا"
+    },
+    {
+      "kind": "you",
+      "subject": "اسرائیل",
+      "rationale": "'اپنی چھت'، 'اپنے گھر' — حکم سدھا گھر والے نوں"
+    }
+  ],
+  "translation": "جد تُوں نواں گھر بنائیں، تے تُوں اپنی چھت لئی کناریا دیوار بنائیں، تاں جو تُوں اپنے گھر وِچ لہو نہ رکھے، جد ڈِگن والا اُس توں ڈِگے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "794ddb89b076f14dcfc10eeb491ad0a07e7a04fda1f028af580c0d94c566f42e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/22\/5-8.1792100233689.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "جد"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "تُوں بنائیں"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "نواں"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "تے تُوں بنائیں"
+    },
+    {
+      "surface": "מעקה",
+      "gloss": "کناریا دیوار"
+    },
+    {
+      "surface": "לגגך",
+      "gloss": "اپنی چھت لئی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "تُوں رکھے"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "لہو"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "اپنے گھر وِچ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جد"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ڈِگے"
+    },
+    {
+      "surface": "הנפל",
+      "gloss": "ڈِگن والا"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "اُس توں"
+    }
+  ],
+  "timestamp": "2026-10-15T21:37:13.691328911Z",
+  "model": "glm-5.3"
+}

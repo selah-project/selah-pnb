@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 14:30",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "سارے دِناں",
+      "rationale": "ל'کل הימים' لفظی 'سارے دِن' — کجھ مترجم 'ہمیشہ' لیندے نیں، پر متن 'دن' ای کہندا اے"
+    }
+  ],
+  "translation": "تے جنگ رہی رِحبعم تے یربعم دے وِچکار سارے دِناں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0c8b3b0b702a1b6d6330ab890d090ec69e5c9b2ba6887030afeb04a07381644f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/14\/29-31.1792104526945.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "تے جنگ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "رہی"
+    },
+    {
+      "surface": "בין",
+      "gloss": "دے وِچکار"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "رِحبعم"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "تے … دے وِچکار"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "یربعم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "دِناں"
+    }
+  ],
+  "timestamp": "2026-10-15T22:48:46.946373192Z",
+  "model": "glm-5.3"
+}

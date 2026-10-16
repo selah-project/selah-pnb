@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 38:2",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "مמנו היו",
+      "rationale": "عبرانی ‘اوہدے توں سن’ — یعنی قربانگاہ دے اِک ٹُکڑے نال جُڑے؛ پنجابی ‘اوہدے توں ہی’ رکھیا"
+    },
+    {
+      "kind": "addition",
+      "subject": "نال",
+      "rationale": "ויצף נחשת وِچ ‘نال’ دا علاقہ عبرانی دے تھاوے کوئی نئیں، جملے لئی پایا"
+    }
+  ],
+  "translation": "تے اوہنے اوہدے سنگ اسدیاں چاراں کُندیاں اُتے بنائے، اوہدے توں ہی اوہدے سنگ سن، تے اوہنے اوہنوں تانبے نال مُڑھایا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6addf33f52fd59438ef8a2c488b684adfc2a8754075e2434d1c1566c42292545",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/38\/1-4.1792097261251.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "بنائے"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "اوہدے سنگ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چاراں"
+    },
+    {
+      "surface": "פנתיו",
+      "gloss": "کُندیاں"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "اوہدے توں"
+    },
+    {
+      "surface": "היו",
+      "gloss": "سن"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "اوہدے سنگ"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "مُڑھایا"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "تانبے"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "تانبے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:47:41.252648643Z",
+  "model": "glm-5.3"
+}

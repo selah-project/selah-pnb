@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 22:12",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨نال⟩",
+      "rationale": "לאיש זר سgfxبندتہ اے — 'کسے اوپرے بندے دی'؛ پنجابی وِچ نال\/دتی وادھو اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨وی⟩",
+      "rationale": "הוא زور بھریا ضمیر اے — 'اوہ وی'؛ پنجابی وِچ وی اوہدے زور نوں دسدا اے۔"
+    }
+  ],
+  "translation": "تے کاہن دی دھی، جدوں اوہ کسے اوپرے بندے ⟨نال⟩ ہووے، اوہ ⟨وی⟩ مقدس چیزاں دے چڑھاوے وِچوں نہ کھاوے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9292fe2abb8122b02062b56f454d838cb41233e934176c3cceee65cfffb4ea3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/22\/9-12.1792097980581.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "تے دھی"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "کاہن دی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جدوں"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ہووے"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "کسے بندے"
+    },
+    {
+      "surface": "זר",
+      "gloss": "اوپرے"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "בתרומת",
+      "gloss": "چڑھاوے وِچوں"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "مقدس چیزاں دے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "کھاوے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:59:40.582627405Z",
+  "model": "glm-5.3"
+}

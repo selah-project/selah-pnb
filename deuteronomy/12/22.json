@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 12:22",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اوہنوں⟩",
+      "rationale": "آخری יאכלנו دا مفعول عبرانی وِچ پہلے جملے وِچ چھپا اے، پنجابی لئی صریح ضمیر چاہیدی اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "הטמא והטהור",
+      "rationale": "نجّس\/پاک بندے نیں جانور نئیں — گوشت قربانی نئیں سی، اس لئی طہارت دا بندہ اِتھے رکدا اے"
+    }
+  ],
+  "translation": "سِرِفّ جیویں آہو تے ہرن کھادھے جاندے نیں، اویں ای ⟨את⟩ اوہدے نوں کھاویں — ⟨את⟩ آہو تے ⟨את⟩ ہرن؛ پاک تے نجّس رَل کے ⟨اوہنوں⟩ کھا سکدے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8d1b3e713cb1d090b5abae5f7fbd39ad84d361799bd94892e407978fa3980d6a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/12\/21-24.1792099946696.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "سِرِفّ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کھادھے جاندے نیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آہو"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "آہو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ہرن"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "تے ہرن"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اویں ای"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "اوہدے نوں کھاویں"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "نجّس"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "تے پاک"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "رَل کے"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "⟨اوہنوں⟩ کھا سکدے نیں"
+    }
+  ],
+  "timestamp": "2026-10-15T21:32:26.697680993Z",
+  "model": "glm-5.3"
+}

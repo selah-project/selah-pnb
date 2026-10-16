@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 91,
+  "ref": "psalms 119:91",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩",
+      "rationale": "کریا دا مضمون پچھلی آیت دی دھرتی توں آندا اے، عبرانی وِچ نئیں"
+    }
+  ],
+  "translation": "تیرے فیصلےآں مطابق ⟨اوہ⟩ اَج تک کھلوتے نیں، کیوں جو سب کجھ تیرے غلام نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "98a14759d8aca89bd024f0b466bc6ff453bc4b3f2100e74ee4425717a4540894",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/119\/89-92.1792113876970.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למשפטיך",
+      "gloss": "تیرے فیصلےآں مطابق"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "کھلوتے نیں"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اَج تک"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "سب کجھ"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "تیرے غلام نیں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:24:36.971563643Z",
+  "model": "glm-5.3"
+}

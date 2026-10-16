@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 32:6",
+  "book": "ezekiel",
+  "lang": "pnb",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "تیرا اُترا",
+      "rationale": "צפתך — LXX تے عبرانی پیش نظر 'تیرا اُترا\/سیلاب'، پر KJV 'جتھے تُو تیردا ایں' پڑھدا اے (מִצַּפְתְּךָ)۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "نالیاں",
+      "rationale": "אפיקیہم literal 'نالیاں\/وگدے پانی دیاں نالیاں' نیں۔"
+    }
+  ],
+  "translation": "تے میں دھرتی نوں تیرے لہو نال سیراب کراں گا — تیرا اُترا پہاڑاں تک، تے نالیاں تیری ہوند نال بھر جان گے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e5633830e5fc24685ae250da5e045fbf1822becc8f2c9ad347a3d517e7741ec8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/32\/5-8.1792109872411.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשקיתי",
+      "gloss": "تے میں سیراب کراں گا"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "دھرتی"
+    },
+    {
+      "surface": "צפתך",
+      "gloss": "تیرا اُترا"
+    },
+    {
+      "surface": "מדמך",
+      "gloss": "تیرے لہو نال"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تک"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "پہاڑاں"
+    },
+    {
+      "surface": "ואפיקים",
+      "gloss": "تے نالیاں"
+    },
+    {
+      "surface": "ימלאון",
+      "gloss": "بھر جان گے"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "تیری ہوند نال"
+    }
+  ],
+  "timestamp": "2026-10-16T00:17:52.412506087Z",
+  "model": "glm-5.3"
+}

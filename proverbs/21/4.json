@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 21:4",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ניר",
+      "rationale": "'واہی\/ہل ورتن' (KJV, JPS) بمقابلہ 'چراغ' (نِר، ASV وابستہ) — دوویں پڑھائیاں مشہور نیں۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "دل دا کھلار",
+      "rationale": "ורחב مطلب 'چوڑا\/گھمنڈ والا دل' — 'کھلار' شکل رکھدا اے۔"
+    },
+    {
+      "kind": "hapax",
+      "subject": "ניר",
+      "rationale": "عبرانی ניר (واہی) تنخ وِچ ایسے ہی ایتھے آیا اے۔"
+    }
+  ],
+  "translation": "اکھاں دا اُچا ہونا تے دل دا کھلار — شریرے لوکاں دی ⟨کیتی⟩ واہی — گناہ اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d15a74477e7c58955ab6ab793fa2ebbba0f84de4f11c6e53b95476b1ae291ec7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/21\/1-4.1792114949142.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רום",
+      "gloss": "اُچا ہونا"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "اکھاں دا"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "تے کھلار"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "נר",
+      "gloss": "واہی"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "شریرے لوکاں دی"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "گناہ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:42:29.143247746Z",
+  "model": "glm-5.3"
+}

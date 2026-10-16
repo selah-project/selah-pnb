@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 10:14",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "چاچا",
+      "rationale": "דוד ایتھے شاؤل دا چاچا اے، محبوب نئیں"
+    },
+    {
+      "kind": "you",
+      "subject": "شاؤل تے اوہدے نوجوان",
+      "rationale": "چاچے دا سدیا ہویا سوال: تُساں کتھے گئے سی؟"
+    }
+  ],
+  "translation": "تے شاؤل دے چاچے نے اوہدے تے اوہدے نوجوان نُوں آکھیا: تُساں کتھے گئے سی؟ تے اوہنے آکھیا: گدےآں دی کھوج وِچ ⟨את⟩ گدیاں نُوں لبھن، تے ویکھیا کہ اوہ کتھے نئیں سن، تے اسیں شموایل کول آ گئے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "30eadc316bcb92e42884cbdd0e1e5a4b65f6e9d96542a71e6ad196854f356a50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/10\/13-16.1792102459224.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "چاچے نے"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اوہدے"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "اوہدے نوجوان"
+    },
+    {
+      "surface": "אן",
+      "gloss": "کتھے"
+    },
+    {
+      "surface": "הלכתם",
+      "gloss": "گئے سی"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "کھوج وِچ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گدیاں"
+    },
+    {
+      "surface": "האתנות",
+      "gloss": "گدیاں"
+    },
+    {
+      "surface": "ונראה",
+      "gloss": "تے ویکھیا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نئیں سن"
+    },
+    {
+      "surface": "ונבוא",
+      "gloss": "تے اسیں آ گئے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموایل"
+    }
+  ],
+  "timestamp": "2026-10-15T22:14:19.225357598Z",
+  "model": "glm-5.3"
+}

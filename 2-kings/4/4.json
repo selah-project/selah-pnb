@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 4:4",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨تیل⟩",
+      "rationale": "על כל הכלים وِچ پُوڑن دا شے عبرانی نئیں دسدا، پنجابی منگدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "وِچ",
+      "rationale": "על اُتے دا معنا اے، بھانڈیاں وِچ پُوڑن تے پنجابی 'وِچ' لوندی اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨بھانڈا⟩",
+      "rationale": "המלא صفت 'بھرا' اے، پنجابی وِچ اسم چائیدا"
+    }
+  ],
+  "translation": "تے توں آ کے اپنے اُتے تے اپنے پُتراں اُتے دروازہ بند کریں، تے ایہناں سارے بھانڈیاں وِچ ⟨تیل⟩ پُوڑیں، تے جو ⟨بھانڈا⟩ بھر جاوے اوہنوں ہٹا دیویں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "cbf9e9acaa57307841f54d7f94891d183ea828694b502b9f700b9f9fa531684c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/4\/1-4.1792105008707.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "تے توں آ کے"
+    },
+    {
+      "surface": "וסגרת",
+      "gloss": "بند کریں"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "دروازہ"
+    },
+    {
+      "surface": "בעדך",
+      "gloss": "اپنے اُتے"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "اپنے پُتراں"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "تے پُوڑیں"
+    },
+    {
+      "surface": "על",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "بھانڈیاں"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ایہناں"
+    },
+    {
+      "surface": "והמלא",
+      "gloss": "تے جو بھر جاوے"
+    },
+    {
+      "surface": "תסיעי",
+      "gloss": "ہٹا دیویں"
+    }
+  ],
+  "timestamp": "2026-10-15T22:56:48.709319728Z",
+  "model": "glm-5.3"
+}

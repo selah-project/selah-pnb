@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 16:30",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨تاکہ⟩",
+      "rationale": "לטהר مقصد دا اِنفینیٹو اے؛ پنجابی وِچ 'تاکہ' درکار۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "کفارہ",
+      "rationale": "כפר دی جڑ 'ڈھکنا\/پوشنڈنا' اے — کفارہ عبرانی تصویر رکھی۔"
+    }
+  ],
+  "translation": "کیوں جو اُس دن اوہ تہاڈے لئی کفارہ کریگا، ⟨تاکہ⟩ ⟨את⟩ تہانوں پاک کرے؛ تہاڈے سارے پاپاں توں یاہوہ دے ساہمنے تُسیں پاک ہو جاؤگے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "12e00a8d15d084c617f4e7bdaac6e3d7f70e67ca3461688c69cf413ea2c7f886",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/16\/29-32.1792097850058.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "اُس دن"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اُس"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "کفارہ کریگا"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "تہاڈے لئی"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "⟨تاکہ⟩ پاک کرے"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ تہانوں"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "پاپاں توں"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ساہمنے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "תטהרו",
+      "gloss": "پاک ہو جاؤگے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:57:30.059242591Z",
+  "model": "glm-5.3"
+}

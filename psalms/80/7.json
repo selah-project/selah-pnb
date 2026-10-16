@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 80:7",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "למו",
+      "rationale": "کرمک لفظ جیہدا پنجابی وِچ وکھرا روپ نئیں — 'اپس وِچ' بریکٹاں وِچ دتا"
+    }
+  ],
+  "translation": "توں سانوں ساڈے گوانڈھیاں لئی جھیڑا بنا دیندے ایں، تے ساڈے ویری مذاق اُڑاندے نیں ⟨اپس وِچ⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bce9c4cb47de3c519a7356de021808b5a5c295bea022f83ed4bbb45227f3335f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/80\/5-8.1792113182719.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "سانوں بنا دیندے ایں"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "جھیڑا"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "ساڈے گوانڈھیاں لئی"
+    },
+    {
+      "surface": "ואיבינו",
+      "gloss": "تے ساڈے ویری"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "مذاق اُڑاندے نیں"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨اپس وِچ⟩"
+    }
+  ],
+  "timestamp": "2026-10-16T01:13:02.720439691Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 13:24",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שחרו",
+      "rationale": "'سویرے سویرے\/چنگیرے' — שחר دا سویر دھرا سویر دی مثال توں چِٹھی\/سودھی لئی آیا اے۔"
+    },
+    {
+      "kind": "idiom",
+      "subject": "חושך שבטו",
+      "rationale": "'چھڑی روکنا' — عبرانی تادیب دا اِکو اظہار؛ پنجابی وِچ اویں رکھیا گیا اے۔"
+    }
+  ],
+  "translation": "جِہڑا اپنی چھڑی روکدا اے، اوہ اپنے پُتر نال نفرت کردا اے؛ تے جِہڑا اوہدے نال پیار کردا اے، اوہ اوہنوں چِٹھے تادیب کردا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c487371a4714a3d36105e8e3d1e86f6bf38271077a412ffcd73403cb9c993ff5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/13\/21-24.1792114635085.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חושך",
+      "gloss": "روکدا اے"
+    },
+    {
+      "surface": "שבטו",
+      "gloss": "اپنی چھڑی"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "نفرت کردا اے"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اپنے پُتر"
+    },
+    {
+      "surface": "ואהבו",
+      "gloss": "تے پیار کردا اے"
+    },
+    {
+      "surface": "שחרו",
+      "gloss": "چِٹھے"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "تادیب"
+    }
+  ],
+  "timestamp": "2026-10-16T01:37:15.086453792Z",
+  "model": "glm-5.3"
+}

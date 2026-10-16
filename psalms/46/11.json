@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 46:11",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "سروت دا مخاطب",
+      "rationale": "اوہ سدیا گیا اے — 'ہٹ جاؤ تے جانو'۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "آں",
+      "rationale": "عبرانی وِچ ਕੋਈ copula نਹੀਂ؛ 'میں ایلوہیم آں' وِچ 'آں' شامل کیتا گیا۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ארום…ארום",
+      "rationale": "دہراؤ — اکو فعل دو واری، قوماں وِچ تے دھرتی وِچ — سطر دی چھل۔"
+    }
+  ],
+  "translation": "ہٹ جاؤ تے جانو کہ میں ایلوہیم آں؛ قوماں وِچ اُچا ہوندا آں، دھرتی وِچ اُچا ہوندا آں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4bb028f6c60e54043b340f871415b1dd75b009cf2e31c5010be783dc15d98f8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/46\/9-12.1792112521447.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרפו",
+      "gloss": "ہٹ جاؤ"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "تے جانو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "اُچا ہوندا آں"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "قوماں وِچ"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "اُچا ہوندا آں"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "دھرتی وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:02:01.448196191Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 4:45",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نیں",
+      "rationale": "عبرانی وِچ اے قائل نئیں، پنجابی نے منگیا"
+    },
+    {
+      "kind": "measurement",
+      "subject": "گواہیاں فرضے فیصلے",
+      "rationale": "تورات دے انگ گِن کے گِنائے جا رہے نیں"
+    }
+  ],
+  "translation": "ایہہ نیں ⟨اوہ⟩ گواہیاں تے فرضے تے فیصلے، جیہڑے موشے نے یِسرائیل دے پُتراں نوں آکھے، جد اوہ مِتصرایم توں نِکلے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "53f0dc2ea7a131f64016b7861d3d675064449a6122c4c7a2c1153c0908450a60",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/4\/45-48.1792099706079.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ایہہ نیں"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "گواہیاں"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "تے فرضے"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "تے فیصلے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑے"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "آکھے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل دے"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "جد اوہ نِکلے"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "مِتصرایم توں"
+    }
+  ],
+  "timestamp": "2026-10-15T21:28:26.079937658Z",
+  "model": "glm-5.3"
+}

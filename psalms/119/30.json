@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 119:30",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "שויתי",
+      "rationale": "اِچ لفظ دا مطلب اے 'برابر کرنا\/دھریا کرنا' — کجھ مترجم 'مقابلے رکھے' لیندے نیں (ylt 'compared')، کجھ 'اگے رکھے'۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "امان",
+      "rationale": "אמונה دی listeners سمے 'پکّائیت\/ستائیت' اے — 'ایمان' صرف اِک پاسا اے۔"
+    }
+  ],
+  "translation": "ایمان والا راہ میں چُنیا اے، تیرے فیصلے میں اپنے اگے رکھے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e97814e108f576a7b1560365e2fd281f50dcdf79a62f5e63efca382eb4c6291c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/119\/30-31.1792124203870.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "راجہ"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "ایمان والا"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "میں چُنیا اے"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "تیرے فیصلے"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "میں اگے رکھے نیں"
+    }
+  ],
+  "timestamp": "2026-10-16T04:16:43.870513820Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 8:14",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نوں",
+      "rationale": "پنجابی لئی پچھیتر وادھے — عبرانی وِچ صرف نشان ⟨את⟩ اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "کنگرت",
+      "rationale": "קהל اِک اکٹھ اے، سماجی-مذہبی جمع — 'کنگرت' اوہدے نیڑے ترین لہندی صورت"
+    }
+  ],
+  "translation": "تے بادشاہ نے ⟨את⟩ اپنے مونہہ پھیریا تے ⟨את⟩ سارے یِسرائیل دی کنگرت نوں برکت دتی، تے ساری یِسرائیل دی کنگرت کھلیوتی ہوئی سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c3d0130d287b0e0a8f8d4a70538f2d252f0949e271b0a9ca0562899dee6ad96d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/8\/14-15.1792123622816.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "پھیریا"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنے مونہہ نوں"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "اپنے مونہہ"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "تے برکت دتی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سارے یِسرائیل دی کنگرت نوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "کنگرت"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل دی"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے ساری"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "کنگرت"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل دی"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "کھلیوتی سی"
+    }
+  ],
+  "timestamp": "2026-10-16T04:07:02.816906683Z",
+  "model": "glm-5.3"
+}

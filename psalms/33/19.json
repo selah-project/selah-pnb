@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 33:19",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جان\/جیون-طاقت اے، دوحشی 'روح' نئیں"
+    }
+  ],
+  "translation": "اوہناں دیاں جاناں موت توں بچاؤن لئی، تے اوہناں نوں کال وِچ جیواؤن لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "807dad4e0ae498344a0a1c7e24ffe96f648a79a9ec0832cee397d0bd538c4880",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/33\/17-20.1792112293928.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להציל",
+      "gloss": "بچاؤن لئی"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "موت توں"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "اوہناں دیاں جاناں"
+    },
+    {
+      "surface": "ולחיותם",
+      "gloss": "تے اوہناں نوں جیواؤن لئی"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "کال وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T00:58:13.929542100Z",
+  "model": "glm-5.3"
+}

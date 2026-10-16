@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 25:25",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "گوالیلا",
+      "rationale": "גֹּאֵל دا مطلب نیڑے دا رشتے دار جیہڑا گول دا فرض نبھاؤندا اے — صرف 'کھریدن والا' نئیں"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨کھریدا⟩",
+      "rationale": "עברת的动作 نیہہ فعل וגאל لئی پنجابی وِچ پورا مطلب چاہیدا اے"
+    }
+  ],
+  "translation": "جد تیرا بھرا غریب ہو جاوے تے اپنی جائیداد وِچوں کجھ ویچ داوے، تے اوہدا نیڑے دا واسطہ دار گوالیلا آوے، تاں اوہ اپنے بھرا دی ویچی ہوئی شے ⟨את⟩ مُڑ ⟨کھریدا⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6255a878fe936b1a2ecc6752eaeb1391a920960e8380fe14f3afbc7c9966008b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/25\/25-28.1792098125448.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "جد"
+    },
+    {
+      "surface": "ימוך",
+      "gloss": "غریب ہو جاوے"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "تیرا بھرا"
+    },
+    {
+      "surface": "ומכר",
+      "gloss": "تے ویچ داوے"
+    },
+    {
+      "surface": "מאחזתו",
+      "gloss": "اپنی جائیداد وِچوں کجھ"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "تے آوے"
+    },
+    {
+      "surface": "גאלו",
+      "gloss": "اوہدا گوالیلا"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "نیڑے دا"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اوہدے پاسے"
+    },
+    {
+      "surface": "וגאל",
+      "gloss": "تے مُڑ گول کرے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ویچی ہوئی شے"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "ویچی ہوئی شے"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "اپنے بھرا دی"
+    }
+  ],
+  "timestamp": "2026-10-15T21:02:05.448817664Z",
+  "model": "glm-5.3"
+}

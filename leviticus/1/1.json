@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "جملہ، کرتا دا ناں",
+      "rationale": "عبرانی کرتا فعل توں بعد آندا اے؛ پنجابی جملے لئی یاہوہ نوں مُڈھ رکھنا پیا، پر ٹوکن ترتیب نال رکھیا اے"
+    }
+  ],
+  "translation": "تے سدیا موشے نوں، تے بولا یاہوہ اوہدے نال، خیمہ مُلاقات توں، آکھدا ہویا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "271e943134384cca431a51033812d7f5c4fec488358c7486b921252955382514",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/1\/1-4.1792097409933.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "تے سدیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "تے بولا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اوہدے نال"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "خیمے توں"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "مُلاقات"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھدا ہویا"
+    }
+  ],
+  "timestamp": "2026-10-15T20:50:09.933533120Z",
+  "model": "glm-5.3"
+}

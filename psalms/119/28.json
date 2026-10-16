@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 119:28",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "تَرِپ رہی اے",
+      "rationale": "דלף دا بُندا بُندا اے — 'پگھلی جاندی اے' ویلے دا فرق گوا دیندا اے"
+    }
+  ],
+  "translation": "میری جان دُکھ توں تَرِپ رہی اے؛ اپنے بچن مطابق مینوں تکڑا کر۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f2437ca5471d849fd018ef3d09d157df70e1778b313c840a6add240c85a42e60",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/119\/25-28.1792113827966.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דلפה",
+      "gloss": "تَرِپ رہی اے"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میری جان"
+    },
+    {
+      "surface": "מתוגה",
+      "gloss": "دُکھ توں"
+    },
+    {
+      "surface": "קימני",
+      "gloss": "مینوں تکڑا کر"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "اپنے بچن مطابق"
+    }
+  ],
+  "timestamp": "2026-10-16T01:23:47.966941579Z",
+  "model": "glm-5.3"
+}

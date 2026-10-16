@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 21:3",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "הנולד לו",
+      "rationale": "ہو-نولاد (article والا جزو) پنجابی وجوں وِچ نئیں آیا — فعل ’جنمیا ہویا‘ وِچ رلیا۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ناں رکھنا",
+      "rationale": "ناں دا ذکر — نشانی تے پچھان دی پٹّی۔"
+    }
+  ],
+  "translation": "تے اَوراہام نے ⟨את⟩ اپنے پُتر دا ناں، جیہڑا اوہدے توں جنمیا، جیہڑی سارہ نے اوہدے لئی جنم دتا، یِتصخاق رکھیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "cd8243c2b20d6e3a961189ee6c25caf43fcc61abdb85e6ece7cf86bd398351e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/21\/1-4.1792095119368.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "تے رکھیا"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراہام"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہدے پُتر دا ناں"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناں"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اپنے پُتر دا"
+    },
+    {
+      "surface": "הנולד",
+      "gloss": "جنمیا ہویا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدے توں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "جنم دتا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدے لئی"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "سارہ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "یِتصخاق"
+    }
+  ],
+  "timestamp": "2026-10-15T20:11:59.369861778Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 42:6",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "عبرانی وِچ copula نئیں، ہُو صرف زور اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "مُوہرے",
+      "rationale": "אפים букв 'نَک بھوں'، مطلب منہ\/تقدیم"
+    }
+  ],
+  "translation": "تے یوسف ⟨اوہ⟩ دیس اُتے حاکم سی، ⟨اوہ⟩ سارے دیس دے لوکاں لئی اناج ویچن والا سی؛ تے یوسف دے بھرا آئے تے اوہدے اگے مُوہرے ہو کے زمین اُتے سِر جُکا دِتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9bb81c7dff511a718e6ceacf51e0c3cadab9e3c7b45af9b1e55e83a91b8ba728",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/42\/5-8.1792095856701.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "تے یوسف"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨اوہ⟩"
+    },
+    {
+      "surface": "השליט",
+      "gloss": "حاکم"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "دیس"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨اوہ⟩"
+    },
+    {
+      "surface": "המשביר",
+      "gloss": "اناج ویچن والا"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لوکاں"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "دیس"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "تے آئے"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "بھرا"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "سِر جُکایا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدے اگے"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "مُوہرے"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "زمین اُتے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:24:16.707392493Z",
+  "model": "glm-5.3"
+}

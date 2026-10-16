@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 103:11",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "خیسِد",
+      "rationale": "חסד عبرانی آواز وِچ رکھیا گیا — ⟨رشتہ، رحمت⟩ دا مطلب، اِک لفظ نئیں بدلیا جا سکدا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "طاقتور",
+      "rationale": "גבר 'زور ورتنا\/قوی ہونا' اے — قیاس 'وڈا اے' دا اے، شکل 'طاقتور' دسی"
+    }
+  ],
+  "translation": "کیوں جو جِدّاں اسمان دھرتی توں اُچا اے، اودا خیسِد ⟨رشتہ⟩ اوہدے ڈرن والیاں اُتے طاقتور اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5eace37ea168adbb12bf2cd218734c76da5492dcc98c24c42bbb589000dc3e43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/103\/9-12.1792113475463.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "جِدّاں اُچا"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "اسمان"
+    },
+    {
+      "surface": "על",
+      "gloss": "توں اُچا"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "دھرتی"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "طاقتور اے"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "اودا خیسِد"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "اوہدے ڈرن والیاں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:17:55.464806688Z",
+  "model": "glm-5.3"
+}

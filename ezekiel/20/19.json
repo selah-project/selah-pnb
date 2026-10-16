@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 20:19",
+  "book": "ezekiel",
+  "lang": "pnb",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "آں",
+      "rationale": "عبرانی وِچ کوئی کپولا نئیں — 'میں یاہوہ تہاڈا ایلوہیم'؛ پنجابی جملے لئی ضروری۔"
+    },
+    {
+      "kind": "you",
+      "subject": "اِسرائیل دے پتراں نوں",
+      "rationale": "حکمی آیت — براہِ راست خطاب۔"
+    }
+  ],
+  "translation": "میں یاہوہ تہاڈا ایلوہیم آں؛ میریاں حکمنامیاں وِچ ٹرو، تے ⟨את⟩ میرے فیصلے رکھو تے ⟨את⟩ اوہناں نوں کرو۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2ee623699d856c959f223517ba9e7077197e6049745f78c026764d2b5f98bf88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/20\/17-20.1792109509492.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "تہاڈا ایلوہیم"
+    },
+    {
+      "surface": "בחקותי",
+      "gloss": "میریاں حکمنامیاں وِچ"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ٹرو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "میرے فیصلے"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "میرے فیصلے"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "رکھو"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "تے کرو"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ اوہناں نوں"
+    }
+  ],
+  "timestamp": "2026-10-16T00:11:49.493003210Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 3:25",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "دوجی نوں",
+      "rationale": "دوجی לאחת لئی واضح کیتا، عبرانی وِچ صرف 'اِک' دوبارہ اے"
+    },
+    {
+      "kind": "you",
+      "subject": "بادشاہ دا حکم",
+      "rationale": "حاضر صیغہ نال تے درباریاں نوں مخاطب"
+    }
+  ],
+  "translation": "تے بادشاہ نے آکھیا: جیوندے بال نوں دو ٹوٹیاں وِچ واؤ، تے ادھی ٹوٹی اِک نوں دیو تے ⟨את⟩ ادھی ٹوٹی دوجی نوں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ecdd2f0eb860736a6866a395935254e30403f39ef7e60882d270ade41a63d6de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/3\/25-28.1792104025469.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ نے"
+    },
+    {
+      "surface": "גזרו",
+      "gloss": "واؤ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جیوندے بال نوں"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "بال"
+    },
+    {
+      "surface": "החי",
+      "gloss": "جیوندا"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "دو ٹوٹیاں وِچ"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "تے دیو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ادھی ٹوٹی نوں"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "ادھی ٹوٹی"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "اِک نوں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "ادھی ٹوٹی نوں"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "ادھی ٹوٹی"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "دوجی نوں"
+    }
+  ],
+  "timestamp": "2026-10-15T22:40:25.470541315Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 1:9",
+  "book": "song-of-songs",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ghori",
+      "rationale": "susa = mare (feminine); vekhiya janda ai ki par'oah de ratha'n di team vich kabhi ghoriyan turdiyan san — akela ghora nahi"
+    },
+    {
+      "kind": "you",
+      "subject": "ra'eyati",
+      "rationale": "siddha mulakhatab, dovali di rani nu ayit 1:8 ton"
+    }
+  ],
+  "translation": "پعرواہ دے رتھاں وِچ ⟨میری⟩ گھوڑی نال میں تینوں رلایا اے، میری محبوبہ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "13e9e8b6262b0ed6d7ff456ea667cf58fd281141f55283d6b7e286d8310f1f0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/song-of-songs\/1\/9-12.1792116620608.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לסוסתי",
+      "gloss": "میری گھوڑی نال"
+    },
+    {
+      "surface": "ברכבי",
+      "gloss": "رتھاں وِچ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پعرواہ"
+    },
+    {
+      "surface": "דמיתיך",
+      "gloss": "میں تینوں رلایا اے"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "میری محبوبہ"
+    }
+  ],
+  "timestamp": "2026-10-16T02:10:20.608745003Z",
+  "model": "glm-5.3"
+}

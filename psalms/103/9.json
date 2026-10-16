@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "غصہ",
+      "rationale": "יטור 'رکھنا\/چرکھنا' اے — صیفہ 'غصہ' عبرانی وِچ لکھیا نئیں، پر语境 8ویں آیت توں آؤندا اے"
+    },
+    {
+      "kind": "elision",
+      "subject": "subjekt",
+      "rationale": "عبرانی وِچ کرتا لکھیا نئیں — یاہوہ دا ہووے، آیت 8 دا کارگرد"
+    }
+  ],
+  "translation": "نئیں ہمیشہ لئی جھگڑدا، تے نہ سدا تک ⟨غصہ⟩ رکھدا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5eace37ea168adbb12bf2cd218734c76da5492dcc98c24c42bbb589000dc3e43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/103\/9-12.1792113475463.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ہمیشہ لئی"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "جھگڑدا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "سدا تک"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "رکھدا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:17:55.464446696Z",
+  "model": "glm-5.3"
+}

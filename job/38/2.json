@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 38:2",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ہنیرا کردا اے",
+      "rationale": "מחשיך دا پکھی مطلب 'ہنیرا کرنا' — مشورت دے چانن نوں چھپاؤن دا سوچ"
+    },
+    {
+      "kind": "you",
+      "subject": "اَیّوب",
+      "rationale": "پچھا اَیّوب ولّ اے، بھاویں ناں نئیں آیا"
+    },
+    {
+      "kind": "invitation",
+      "subject": "سوال",
+      "rationale": "پاٹھ پُچھن نال کھچدا اے — 'ایہہ کون اے؟'"
+    }
+  ],
+  "translation": "ایہہ کون اے جیہڑا بِناں جان والیاں گلاں نال صلاح نوں ہنیرا کردا اے؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "344d278c01c6060805fe77398ac8f5f5321abed23c42d570bd16aac7c240e821",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/38\/1-4.1792116526692.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "מחשיך",
+      "gloss": "ہنیرا کردا اے"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "صلاح"
+    },
+    {
+      "surface": "במלין",
+      "gloss": "گلاں نال"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "بِناں"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "جان"
+    }
+  ],
+  "timestamp": "2026-10-16T02:08:46.693476932Z",
+  "model": "glm-5.3"
+}

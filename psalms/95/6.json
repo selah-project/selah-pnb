@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 95:6",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 95,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "آؤ… آکھئیے",
+      "rationale": "پُکار والیاں امراں، عبادت ول سدّا"
+    },
+    {
+      "kind": "you",
+      "subject": "عبادت کرن والیاں نوں",
+      "rationale": "ٹولی نوں مخاطب — باریش دا بندیاں پاروں اے، خُود یاہوہ دا نئیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "برکت آکھئیے",
+      "rationale": "נברכہ دا مُڈھ 'گوڈے ٹیکنا\/جھکنا' اے — ایتھے یاہوہ نوں ودھائی دینا"
+    }
+  ],
+  "translation": "آؤ، اسیں سِر جھکائیے تے گوڈے ٹیکئیے، ساڈے بنان والے یاہوہ دے ساہمنے اسیں برکت آکھئیے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7e4e8c696a23aa8bfda026475d7bda369010b4169091b2759a77fb307b10f30f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/95\/5-8.1792113438829.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "آؤ"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "اسیں سِر جھکائیے"
+    },
+    {
+      "surface": "ונכרעה",
+      "gloss": "تے گوڈے ٹیکئیے"
+    },
+    {
+      "surface": "نברכה",
+      "gloss": "برکت آکھئیے"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "دے ساہمنے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "ساڈے بنان والے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:17:18.830033295Z",
+  "model": "glm-5.3"
+}

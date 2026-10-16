@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 48:8",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בגוד תבגוד",
+      "rationale": "اِکو جڑ دا نامہ-فعل دہراؤ — بددیعتی کرنا، پنجابی وِچ سادہ رہِ گیا"
+    },
+    {
+      "kind": "crux",
+      "subject": "ופשע מבטן קרא לך",
+      "rationale": "کجھ پڑھدے نیں 'پیٹ توں تینوں باغی آکھیا گیا'، کجھ 'پیٹ توں تینوں باغی سدیا'"
+    },
+    {
+      "kind": "you",
+      "subject": "توں",
+      "rationale": "اِلوہیم دا سِدھا خطاب یعقوو ول — جمے توں باغی آکھیا"
+    }
+  ],
+  "translation": "وی توں نے نئیں سنیا، وی توں نے نئیں جانیا، وی اوس ویلے توں تیری کن نئیں کھولھی گئی، کیونکہ میں جاندا سی کہ توں دھوکھا دیندا، تے پیٹ توں ہی تیرا ناں باغی رکھیا گیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8b6113ccaf0aac0671ffce9bd14cd038c81859b948a1c859f31ab10162d7ce65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/48\/5-8.1792106826107.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "توں نے سنیا"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "توں نے جانیا"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "اوس ویلے توں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "פתחה",
+      "gloss": "کھولھی گئی"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "تیری کن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "میں جاندا سی"
+    },
+    {
+      "surface": "בגוד",
+      "gloss": "دھوکھا"
+    },
+    {
+      "surface": "תבגוד",
+      "gloss": "توں دیندا"
+    },
+    {
+      "surface": "ופשע",
+      "gloss": "تے باغی"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "پیٹ توں"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ناں رکھیا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیرا"
+    }
+  ],
+  "timestamp": "2026-10-15T23:27:06.108431114Z",
+  "model": "glm-5.3"
+}

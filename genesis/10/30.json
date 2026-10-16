@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 10:30",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "באכה",
+      "rationale": "عبرانی اِڈیوم “تیرے آؤن وِچ” — پنجابی وِچ “جاندے ہوئے”"
+    },
+    {
+      "kind": "measurement",
+      "subject": "وسوں دی ہد",
+      "rationale": "قوماں دیاں وسندیاں دی ہد ٹکدی اے — مِیشا توں سَپھار تک"
+    }
+  ],
+  "translation": "تے اوہناں دی وسوں مِیشا توں سی، سَپھار تک جاندے ہوئے، چڑھدے دے پہاڑ تک۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0741288a5e05ad3123a128136ca148adf359fbccb1704843267d84e29bd46f13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/10\/29-32.1792094860135.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے ہویا"
+    },
+    {
+      "surface": "מושבם",
+      "gloss": "اوہناں دی وسوں"
+    },
+    {
+      "surface": "ממשא",
+      "gloss": "مِیشا توں"
+    },
+    {
+      "surface": "באכה",
+      "gloss": "جاندے ہوئے"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "سَپھار تک"
+    },
+    {
+      "surface": "הר",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "הקדם",
+      "gloss": "چڑھدے دا"
+    }
+  ],
+  "timestamp": "2026-10-15T20:07:40.136095966Z",
+  "model": "glm-5.3"
+}

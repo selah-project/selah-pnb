@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 10:6",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "וצלחה",
+      "rationale": "مول 'تُتے چڑھ بھجسی\/کامیاب ہووسی' — 'زور نال آویگی' دے نیڑے، پر مول دا تصیر پچھلی واری بخشدا اے"
+    },
+    {
+      "kind": "you",
+      "subject": "ساؤل",
+      "rationale": "شموایل ساؤل نال ہور گل کر راہا اے — رُوح دا وعدہ"
+    }
+  ],
+  "translation": "تے یاہوہ دی رُوح تُتے زور نال آویگی، تے تُو اوہناں نال نبوت کریں گا، تے تُو ہور بندے وچ بدل جائیں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3f3ab08358ab73a7030e3abdbc0fd7027b284e7c1af364a3930c84363e2d1584",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/10\/5-8.1792102433042.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצלחה",
+      "gloss": "زور نال آویگی"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تُتے"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "رُوح"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دی"
+    },
+    {
+      "surface": "והתנבית",
+      "gloss": "تُو نبوت کریں گا"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "اوہناں نال"
+    },
+    {
+      "surface": "ונהפכת",
+      "gloss": "تے تُو بدل جائیں گا"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "بندے وچ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ہور"
+    }
+  ],
+  "timestamp": "2026-10-15T22:13:53.043132627Z",
+  "model": "glm-5.3"
+}

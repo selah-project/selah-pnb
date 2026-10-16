@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "genesis 31:40",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "گرمی",
+      "rationale": "חרב ਦਾ ਮੂਲ 'ਸੁੱਕਣਾ\/ਸੋਕਾ' ਹੈ; ਪੰਜਾਬੀ ਵਿੱਚ 'ਗਰਮੀ' ਕੁਦਰਤੀ ਜੁੜਦੀ ਹੈ।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ਮੇਰੀ ਨੀਂਦ ਅੱਖਾਂ ਤੋਂ ਭੱਜ ਗਈ",
+      "rationale": "ਇਬਰਾਨੀ 'ਤੇ ਨੀਂਦ ਭਟਕਦੀ ਰਹੀ' — ਪੰਜਾਬੀ ਵਿੱਚ 'ਉੱਡ ਗਈ\/ਭੱਜ ਗਈ' ਰੂਪ ਵਾਕ ਸੁਭਾਵ ਦਾ।"
+    }
+  ],
+  "translation": "میں ایویں رہا: دِن نوں گرمی مینوں کھا گئی، تے رات نوں پالہ، تے میری نیند میریاں اکھیاں توں بھجّ گئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c309aca8a1e21eb509a727535224ff35e44bcef0379791c99e952d43875ef693",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/31\/40-40.1792123187657.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הייתי",
+      "gloss": "میں رہا"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "دِن نوں"
+    },
+    {
+      "surface": "אכלני",
+      "gloss": "مینوں کھا گئی"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "گرمی"
+    },
+    {
+      "surface": "וקרח",
+      "gloss": "تے پالہ"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "رات نوں"
+    },
+    {
+      "surface": "ותדד",
+      "gloss": "تے بھجّ گئی"
+    },
+    {
+      "surface": "שנתי",
+      "gloss": "میری نیند"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "میریاں اکھیاں توں"
+    }
+  ],
+  "timestamp": "2026-10-16T03:59:47.658916735Z",
+  "model": "glm-5.3"
+}

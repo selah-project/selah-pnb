@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 4:11",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨تُوں⟩",
+      "rationale": "عبرانی جملے وِچ کرتا دا ضمیر وکھرا کوئی نئیں، پنجابی چاہندی اے۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "מן האדמה",
+      "rationale": "زمین توں فیرو مند — زمین وِچوں کڈھیا جاں زمین دے باعث؛ دوویں پڑھائیاں موجود نیں۔"
+    }
+  ],
+  "translation": "تے ہُن ⟨تُوں⟩ فیرو مند ایں زمین توں، جیہڑی نے ⟨את⟩ اپنا منہ کھولھیا اے تیرے بھرا دے ⟨את⟩ لہو نوں تیرے ہتھ توں لین لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "36506de47dcff9e45ababa2df96a4f965bde221c54e7f72affcb28c667ebeb99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/4\/9-12.1792094647729.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "تے ہُن"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "فیرو مند"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُوں"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی نے"
+    },
+    {
+      "surface": "פצתה",
+      "gloss": "کھولھیا اے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنا منہ"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "اپنا منہ"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "لین لئی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تیرے بھرا دے لہو نوں"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "لہو نوں"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "تیرے بھرا دے"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "تیرے ہتھ توں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:04:07.730382299Z",
+  "model": "glm-5.3"
+}

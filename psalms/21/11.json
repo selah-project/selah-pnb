@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 21:11",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "مٹا دیویں",
+      "rationale": "دوجی پدھر دا فعل پہلی پدھر توں پُر کیتا گیا — عبرانی وچ صرف اِک واری אבد آیا اے"
+    }
+  ],
+  "translation": "اوہناں دا فصل تُوں دھرتی توں مٹا دیویں، تے اوہناں دا بی آدمیاں دے پُتراں توں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0e6ed9a1436b8b1ccc27f6c44575d05806433511d717f3dd94efe0a05a8c86ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/21\/9-12.1792112038958.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פרימו",
+      "gloss": "اوہناں دا فصل"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "دھرتی توں"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "تُوں مٹا دیویں"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "تے اوہناں دا بی"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "پُتراں توں"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمیاں دے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:53:58.958829113Z",
+  "model": "glm-5.3"
+}

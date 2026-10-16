@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 40:16",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "عبرانی وِچ کوئی کرنا\/ہونا نئیں؛ پنجابی جملے لئی 'اے' دتا گیا۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "בשרירי",
+      "rationale": "شین-سری 'ناڑ\/رَسّی' — کجھ پرانے ترجمے 'ناڑ' (navel, kjv) لیندے نیں، نویں 'ونج\/نسیج' (muscles)؛ مول چتر 'رَسّیاں' اے۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "بہیموت دا جسم",
+      "rationale": "زور تے طاقت دا ناپ — کمراں تے پیٹ — جانور نوں ویکھا-ناپیا جا رہا اے۔"
+    }
+  ],
+  "translation": "ویکھ ہن، اوہدا زور اوہدیاں کمراں وِچ تے اوہدی طاقت اوہدے پیٹ دیاں ناڑاں وِچ اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "69a7d7e213069fb6df548a813ccd4f20636ac2da1df43265b7d45828ee250c7c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/40\/13-16.1792116509877.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ویکھ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ہن"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "اوہدا زور"
+    },
+    {
+      "surface": "במתניו",
+      "gloss": "اوہدیاں کمراں وِچ"
+    },
+    {
+      "surface": "ואנו",
+      "gloss": "تے اوہدی طاقت"
+    },
+    {
+      "surface": "בשרירי",
+      "gloss": "…دیاں ناڑاں وِچ"
+    },
+    {
+      "surface": "בטנו",
+      "gloss": "اوہدے پیٹ"
+    }
+  ],
+  "timestamp": "2026-10-16T02:08:29.878536897Z",
+  "model": "glm-5.3"
+}

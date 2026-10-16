@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 21:7",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קשב…רב קשב",
+      "rationale": "ک-ש-ب جڑ دی تِن وار واپسی — سنن دی شدت آپ لفظ دی دہرائی نال ودھدی اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רכב ×3",
+      "rationale": "رتھ لفظ تِن وار — قافِیاں ورگی دہرائی، آواز دا سِلسلہ"
+    }
+  ],
+  "translation": "تے اوہ ویکھے رتھ، گھڑسواراں دی جوڑی، رتھ کھوتر دا، رتھ اُونٹ دا، تے اوہ دھیان نال سنّے — بہت دھیان نال۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b7182f630223fbd1087c8365412220fe075068049971970cb37fb53b34df13a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/21\/5-8.1792106152591.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "تے ویکھے"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "رتھ"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "جوڑی"
+    },
+    {
+      "surface": "پרשים",
+      "gloss": "گھڑسوار"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "رتھ"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "کھوتر"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "رتھ"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "اُونٹ"
+    },
+    {
+      "surface": "והקשיב",
+      "gloss": "تے دھیان نال سنّے"
+    },
+    {
+      "surface": "קשב",
+      "gloss": "دھیان"
+    },
+    {
+      "surface": "רב",
+      "gloss": "بہت"
+    },
+    {
+      "surface": "קשב",
+      "gloss": "دھیان"
+    }
+  ],
+  "timestamp": "2026-10-15T23:15:52.592732822Z",
+  "model": "glm-5.3"
+}

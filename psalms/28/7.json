@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 28:7",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اے⟩",
+      "rationale": "عبرانی وِچ کوپلا کوئی نئیں، سرِف一人 گوئی اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לבי … לבי",
+      "rationale": "میرا دل دو واری دوویں مارفاں وِچ — اوہدا دوہراونا پنجابی وِچ رکھیا گیا"
+    }
+  ],
+  "translation": "یاہوہ میری طاقت تے میری ڈھال ⟨اے⟩؛ اوہدے وِچ میرے دل نے بھروسہ کیتا تے میں مدد پائی، اَتے میرا دل اچھل کے خوش ہویا، تے اپنے گیت نال اوہدی تعریف کردا ہاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e50bcc723ffbdcf5b2df4dfc62b445fbddf2ba80711639d7f20faa01ac20a13b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/28\/5-8.1792112201745.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "میری طاقت"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "تے میری ڈھال"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوہدے وِچ"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "بھروسہ کیتا"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "میرا دل"
+    },
+    {
+      "surface": "ונעזרתי",
+      "gloss": "تے میں مدد پائی"
+    },
+    {
+      "surface": "ויעלז",
+      "gloss": "اچھل کے خوش ہویا"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "میرا دل"
+    },
+    {
+      "surface": "ומשירי",
+      "gloss": "تے اپنے گیت نال"
+    },
+    {
+      "surface": "אהודנו",
+      "gloss": "اوہدی تعریف کردا ہاں"
+    }
+  ],
+  "timestamp": "2026-10-16T00:56:41.746135708Z",
+  "model": "glm-5.3"
+}

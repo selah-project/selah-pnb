@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "گل",
+      "rationale": "לی دا گلاس 'میری' سیواں منگدا — 'گل' پنجابی جملے لئی پایا گیا اے"
+    },
+    {
+      "kind": "invitation",
+      "subject": "کاش! میرے لوک سندے",
+      "rationale": "یاہوہ آپ قوم نوں سدّ ماردا اے — تمنا دی صورت وِچ خطاب"
+    },
+    {
+      "kind": "you",
+      "subject": "قوم یِسرائیل",
+      "rationale": "براہِ راست خطاب: 'میرے لوک'، 'یِسرائیل'"
+    }
+  ],
+  "translation": "کاش! میرے لوک میری گل سندے، یِسرائیل میریاں راہواں وِچ ٹُردا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6e4ffb89c27f0364e77dd523f405ebb673eff777b41e2601450633ca81424851",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/81\/13-16.1792113148356.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "کاش!"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "میرے لوک"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سندے"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میری گل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "میریاں راہواں وِچ"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "ٹُردا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:12:28.356988232Z",
+  "model": "glm-5.3"
+}

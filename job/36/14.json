@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 36:14",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בקדשים",
+      "rationale": "قادیش — مندراں دے نامرد عیاش؛ ‘غیر پاک’ (KJV) بمقابلہ ‘قادیشاں وِچ’ — حرفی صورت رکھی گئی اے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جان دی طاقت اے، صرف ‘روح’ نئیں۔"
+    }
+  ],
+  "translation": "اوہناں دی جان جوانی وِچ ہی مر جاندی اے، تے اوہناں دی زندگی قادیشاں ⟨دی مانند⟩ گزردی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "737fd9ff37ef82afbbe2e346fdd5d358b3a555dc01a6e07d5eaac0df2f81372e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/36\/13-16.1792116344291.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תמת",
+      "gloss": "مردی اے"
+    },
+    {
+      "surface": "בנער",
+      "gloss": "جوانی وِچ"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "اوہناں دی جان"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "تے اوہناں دی زندگی"
+    },
+    {
+      "surface": "בקדשים",
+      "gloss": "قادیشاں وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T02:05:44.291846204Z",
+  "model": "glm-5.3"
+}

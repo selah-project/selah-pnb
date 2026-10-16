@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 32:18",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "תשי",
+      "rationale": "שיה — تنخ وِچ صرف ایتھے؛ مطلب 'یاد توں چھڈّ دینا' آکھیا گیا اے۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "מחללך",
+      "rationale": "חול 'تڑپنا\/گھماؤ' توں: 'جینے تینوں (متریئے دے دُکھ نال) گھڑیا' — حمل دی تصویر، صرف 'بنیا' نئیں۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨دی⟩",
+      "rationale": "عبرانی دے تعلق دا لفظ پنجابی نوں منگدا اے۔"
+    }
+  ],
+  "translation": "چٹان ⟨دی⟩، جینے تینوں جنا، تُسیں یاد توں چھڈّ دِتا؛ تے تُسیں بھُل گئے اُوس ایل نوں، جینے تینوں ⟨پیٹ وِچ⟩ گھڑیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9802b5cbc434c865019bf5cf55a1ba659a653328bc8124098fe7c4eef0bae27c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/32\/17-20.1792100597889.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צור",
+      "gloss": "چٹان"
+    },
+    {
+      "surface": "ילדך",
+      "gloss": "جینے تینوں جنا"
+    },
+    {
+      "surface": "תשי",
+      "gloss": "یاد توں چھڈّ دِتا"
+    },
+    {
+      "surface": "ותשכח",
+      "gloss": "تے تُسیں بھُل گئے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "מחללך",
+      "gloss": "جینے تینوں گھڑیا"
+    }
+  ],
+  "timestamp": "2026-10-15T21:43:17.890396369Z",
+  "model": "glm-5.3"
+}

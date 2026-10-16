@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 36:8",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "זקים",
+      "rationale": "'زنجیراں' — لفظی مطلب اگّ دی چنگاریاں\/بیڑے، لوک 'بیڑ' وی لکھدے نیں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עני\/עניים",
+      "rationale": "آیت 6 دے غریباں نال رسیاں دی مصیبت دا لفظ ملدا اے — عبرانی جوڑ دا ناں"
+    }
+  ],
+  "translation": "تے جے اوہ زنجیراں وِچ بنھے جان، مصیبت دے رسیاں وِچ پھس جان۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "78e5cf3a1af13bdb455f47633abea07ade59989055aec705fe3bc00747b378e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/36\/5-8.1792116322192.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "بنھے جان"
+    },
+    {
+      "surface": "בזקים",
+      "gloss": "زنجیراں وِچ"
+    },
+    {
+      "surface": "ילכدון",
+      "gloss": "پھس جان"
+    },
+    {
+      "surface": "בחבלי",
+      "gloss": "رسیاں وِچ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "مصیبت دے"
+    }
+  ],
+  "timestamp": "2026-10-16T02:05:22.193481054Z",
+  "model": "glm-5.3"
+}

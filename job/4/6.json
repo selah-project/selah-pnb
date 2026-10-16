@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 4:6",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨خدا دا⟩",
+      "rationale": "יראתך وِچ ’کِدے دا خوف‘ پنجابی جملے لئی چائیدا سی۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יראה\/כסלה",
+      "rationale": "خوف تے بھروسہ دی جوڑی — خوف ای بھروسہ اے، ایہہ عبرانی دی الٹی گل اے جیہڑی پنجابی وِچ رہندی اے۔"
+    },
+    {
+      "kind": "invitation",
+      "subject": "سوال",
+      "rationale": "الیفز ایوب نوں سوال نال سوچݨ تے مجبور کردا اے۔"
+    }
+  ],
+  "translation": "کی تیرا خوف ⟨خدا دا⟩ تیری ٹیک نئیں، تیری اُمید تے تیرے راہیاں دی پکیائی؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "651daa9554ff663b765f401e04b5a09d155f23b9e7c5d81a545cd120ce53e323",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/4\/5-8.1792115311226.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "کی… نئیں"
+    },
+    {
+      "surface": "יראתך",
+      "gloss": "تیرا خوف"
+    },
+    {
+      "surface": "כסלתך",
+      "gloss": "تیری ٹیک"
+    },
+    {
+      "surface": "תקותך",
+      "gloss": "تیری اُمید"
+    },
+    {
+      "surface": "ותם",
+      "gloss": "تے پکیائی"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "تیرے راہ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:48:31.227130557Z",
+  "model": "glm-5.3"
+}

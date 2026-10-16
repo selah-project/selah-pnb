@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 28:23",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "gloss": "عبرانی 'وَل' پنجابی 'اُتے' وِچ رل گیا، وکھرا نئیں رہندا"
+    },
+    {
+      "kind": "addition",
+      "subject": "نے \/ کے",
+      "rationale": "پنجابی کریا دی صیغہ بندی منگدی اے، عبرانی وِچ صرف کالے سراں کافی سن"
+    }
+  ],
+  "translation": "تے اوہنے منا کیتا تے آکھیا: میں نئیں کھانا۔ تے اوہدے غلاماں نے، تے اوہ زنانہ وی، اوہدے اُتے زور پایا، تے اوہ اوہناں دی گل منّ کے دھرتی توں اُٹھیا تے پلنگ اُتے بیٹھا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e5a2cc75600b19ff486a0f12983903878d85de0fc9edf0bdedf3b1d9da4a1729",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/28\/21-24.1792102953306.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימאן",
+      "gloss": "تے اوہنے منا کیتا"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "میں کھانا"
+    },
+    {
+      "surface": "ויפרצו",
+      "gloss": "زور پایا"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوہدے اُتے"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "اوہدے غلاماں نے"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "تے وی"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "اوہ زنانہ"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "تے اوہ منی"
+    },
+    {
+      "surface": "לקלם",
+      "gloss": "اوہناں دی گل"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "تے اُٹھیا"
+    },
+    {
+      "surface": "מהארץ",
+      "gloss": "دھرتی توں"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "تے بیٹھا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وَل"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "پلنگ اُتے"
+    }
+  ],
+  "timestamp": "2026-10-15T22:22:33.307521129Z",
+  "model": "glm-5.3"
+}

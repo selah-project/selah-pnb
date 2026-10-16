@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 12:8",
+  "book": "ecclesiastes",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הבל",
+      "rationale": "لفظی واپھ\/ہوا دی ہلاری — بے سُود سُچج پنجابی اے، پر واپھ دی مورت مُک جاندی اے۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הבל הבלים",
+      "rationale": "عبرانی اکٹھ والی ساخت (واپھ واپھاں دا) — پیدائش 2:4 دی طرح؛ پنجابی وِچ بنے رکھیا۔"
+    }
+  ],
+  "translation": "بے سُود بے سُودیاں دا، قوہیلت آکھدا اے، سارا کجھ بے سُود اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "99bb107c3ddb5ec46020dbb91c063417abc421a294aea445d0421aa115bf71cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ecclesiastes\/12\/5-8.1792117768470.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "بے سُود"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "بے سُودیاں دا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھدا اے"
+    },
+    {
+      "surface": "הקוהלת",
+      "gloss": "قوہیلت"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "سارا کجھ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "بے سُود"
+    }
+  ],
+  "timestamp": "2026-10-16T02:29:28.471943576Z",
+  "model": "glm-5.3"
+}

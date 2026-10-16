@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 41:16",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "את שלום פרעה",
+      "rationale": "KJV 'an answer of peace' بمقابلہ یوسف دا 'فرعون دے کِجلھے دا جواب' — شلوم ایتھے 'چنگی طری نال' وی ہو سکدا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "میرے وِچوں نئیں",
+      "rationale": "עברי صرف 'מִמֶּנִּי' دا بالکل الٹ — صاف جواب لئی 'نئیں' پایا گیا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "شالوم",
+      "rationale": "عبرانی شלوم 'پورن\/کامیاب\/شانت' سارے اے — اِک پنجابی لفظ نئیں پھڑدا"
+    }
+  ],
+  "translation": "تے یوسف نے ⟨את⟩ فرعون دا جواب دتا، آکھیا: میرے وِچوں نئیں — ایلوہیم فرعون دا ⟨את⟩ شانت‌پورن جواب دیوے گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "98955e2322123fe0fd824e5f07885bba83d2197cd6586a6452d8d27acb5e6fcb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/41\/15-16.1792123235408.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "تے جواب دتا"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "فرعون"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "میرے وِچوں نئیں"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "جواب دیوے گا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شالوم فرعون دا"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شانت‌پورن"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون دا"
+    }
+  ],
+  "timestamp": "2026-10-16T04:00:35.409499038Z",
+  "model": "glm-5.3"
+}

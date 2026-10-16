@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 9:5",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אדרש",
+      "rationale": "ਤਿੰਨ ਵਾਰ 'ਮੈਂ ਮੰਗਾਂਗਾ' ਦੀ ਦੁਹਰਾਉਣੀ — ਲਹੂ ਦੇ ਹਿਸਾਬ ਦੀ ਤਿੱਖੀ ਮੰਗ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "ਨਫਸ਼ ਸਾਹ\/ਜੀਵਨ-ਸ਼ਕਤੀ ਹੈ, 'ਰੂਹ' ਨਹੀਂ।"
+    }
+  ],
+  "translation": "تے یقیناً ⟨את⟩ تہاڈے لہو دا، جو تہاڈیاں جاناں اے، میں ہتھ پچھاں گا؛ ہر جیوے دے ہتھ توں میں اوہدوں منگاں گا، تے بندے دے ہتھ توں — ہر بندے دے اپنے بھرا دے ہتھ توں — ⟨את⟩ بندے دی جان میں منگاں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "09c94cbdffc7e8f065de9626980ca30469f392f007bbe2f34846cf403b16608f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/9\/5-8.1792094769946.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואך",
+      "gloss": "تے یقیناً"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تہاڈے لہو"
+    },
+    {
+      "surface": "דמכם",
+      "gloss": "تہاڈے لہو"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "تہاڈیاں جاناں لئی"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "میں ہتھ پچھاں گا"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ہتھ توں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "جیوے"
+    },
+    {
+      "surface": "אדרשנו",
+      "gloss": "میں اوہدوں منگاں گا"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "تے ہتھ توں"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ہتھ توں"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "اپنے بھرا"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "میں منگاں گا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بندے دی جان"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "بندے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:06:09.947393377Z",
+  "model": "glm-5.3"
+}

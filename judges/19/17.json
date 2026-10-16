@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 19:17",
+  "book": "judges",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "مُسافر لئی",
+      "rationale": "بوڑھا بندہ مُسافر نوں سُدھا خطاب کردا اے: کتھے جا رہا ایں تے کتھوں آیا ایں۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "ہے",
+      "rationale": "عبرانی سوال وِچ کُرا ⟨اے⟩ نئیں، پنجابی جملہ منگدا اے۔"
+    }
+  ],
+  "translation": "تے اوہنے اپنیاں اکھیاں چُکیاں تے ویکھیا ⟨את⟩ بندے نوں، مُسافر نوں، شہر دے چوک وِچ؛ تے بوڑھے بندے نے آکھیا: کتھے جا رہا ایں، تے کتھوں آیا ایں؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b30d979e8f64cdbd08828c34197a0482e033c31083977080738f5e6cec58c4e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/judges\/19\/17-20.1792102046620.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "تے چُکیاں"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "اپنیاں اکھیاں"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "تے ویکھیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بندے نوں"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "הארח",
+      "gloss": "مُسافر"
+    },
+    {
+      "surface": "ברחב",
+      "gloss": "چوک وِچ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر دے"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "بوڑھے"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "کتھے"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "جا رہا ایں"
+    },
+    {
+      "surface": "ומאין",
+      "gloss": "تے کتھوں"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "آیا ایں"
+    }
+  ],
+  "timestamp": "2026-10-15T22:07:26.621271986Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "پاٹھ نوں",
+      "rationale": "حکم: 'بنھ!' — گیت بادشاہ نوں سدّیندا اے۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "הודך והדרך",
+      "rationale": "کجھ ترجمے ایہناں نوں تلوار دا وِرلن سمجھدے نیں ('تیری شان تے دھاک نال')، کجھ بادشاہ دے ہی گن — عبرانی میل 'تے' دونواں پاسے کھلا چھڈدا اے۔"
+    },
+    {
+      "kind": "you",
+      "subject": "سورما بادشاہ نوں",
+      "rationale": "سِدھا خطاب جاری اے — 'اپنی… ران… تیری'۔"
+    }
+  ],
+  "translation": "اے سورما، اپنی تلوار ران اُتے بنھ — تیری شان تے تیری دھاک۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2f0ced1bac9db241d0082f3c5f0d669dda6b700031a2644694911d4ac6ca1979",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/45\/1-4.1792112587486.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "بنھ"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "اپنی تلوار"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "ران"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "اے سورما"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "تیری شان"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "تے تیری دھاک"
+    }
+  ],
+  "timestamp": "2026-10-16T01:03:07.487902266Z",
+  "model": "glm-5.3"
+}

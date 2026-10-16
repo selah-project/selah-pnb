@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 82:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 82,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שפט",
+      "rationale": "آیت 1 دے ישפט، آیت 2 دے תשפטו تے ایتھے שפטו — اِکو جڑ تن واری، عدالت دا سلسلہ"
+    }
+  ],
+  "translation": "کمزور تے یتیم دا فیصلہ کرو؛ غریب تے محتاج نوں سچا ثابت کرو۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fd0b5a856df469a1725c7e70f3e40706c44adbb9d2a44daed8d77efdac23230a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/82\/1-4.1792113122697.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שפטו",
+      "gloss": "فیصلہ کرو"
+    },
+    {
+      "surface": "דל",
+      "gloss": "کمزور"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "تے یتیم"
+    },
+    {
+      "surface": "עני",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "تے محتاج"
+    },
+    {
+      "surface": "הצדיקו",
+      "gloss": "سچا ثابت کرو"
+    }
+  ],
+  "timestamp": "2026-10-16T01:12:02.698821465Z",
+  "model": "glm-5.3"
+}

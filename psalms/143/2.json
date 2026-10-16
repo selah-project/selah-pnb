@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 143:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 143,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نال",
+      "rationale": "عبرانی وِچ 'במשפט את' — 'نال' پنجابی جملے لئی پایا گیا۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "כל חי",
+      "rationale": "'ہر جیوندا' بندہ اے یا ہر جیوندا وجود — 'بندہ' وادھو اے، عبرانی صرف 'جیوندا' آکھدا اے۔"
+    }
+  ],
+  "translation": "تے فیصلہ وِچ ⟨את⟩ اپنے نوکر نال نہ آ، کیونکہ تیرے ساہمنے کوئی جیوندا صدق نئیں ہو سکدا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d7ea2addd3a0aa4d4a94507bbc4435ec9a6da2c7e1962af6ff60f2716542c0f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/143\/1-4.1792114183785.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "فیصلہ وِچ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنے نوکر"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "اپنے نوکر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "صدق ہووے"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "تیرے ساہمنے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کوئی وی"
+    },
+    {
+      "surface": "חי",
+      "gloss": "جیوندا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:29:43.786558625Z",
+  "model": "glm-5.3"
+}

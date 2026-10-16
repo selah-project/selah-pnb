@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 12:1",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "عبرانی وِچ کوئی فعل نئیں، پنجابی جملے لئی واجب"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ستّ سالاں",
+      "rationale": "بادشاہ دی عمر دا حساب"
+    }
+  ],
+  "translation": "ستّ سالاں دا پُتر یِہوآش ⟨سی⟩، اوہدی بادشاہی ⟨شروع ہوݨ⟩ وِچ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0f72284d8fed7cd045d4b5c43a2df63901077305eddb3735653efbeca5a3cf4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/12\/1-4.1792105323693.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ستّ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سالاں دا"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "یِہوآش"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "اوہدی بادشاہی وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T23:02:03.694224731Z",
+  "model": "glm-5.3"
+}

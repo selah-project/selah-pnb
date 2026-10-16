@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 1:3",
+  "book": "nahum",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ארך אפים",
+      "rationale": "لُفظی ‘لمے نک والا’ = دھیرج والا؛ غصہ نک وِچ دوڑدا اے، لمبا نک = ہولی غصہ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ונקה לא ינקה",
+      "rationale": "اِکو جڑ دا اُلٹا جوڑ — ‘بے-سزا نئیں بے-سزا کردا’؛ پنجابی وِچ دُہرائی نال رکھیا اے"
+    },
+    {
+      "kind": "hapax",
+      "subject": "שערה",
+      "rationale": "سَعَرَہ تنخ وِچ اِکو واری — مٹھا سمندی طوفان دا ناں"
+    }
+  ],
+  "translation": "یاہوہ لَمّے-نَکّ (دھیرج والا) اے تے زور وِچ وڈا اے، تے سزاوار نوں بے-سزا نئیں کردا؛ واڑھ تے ہوائی طوفان وِچ اوہدا رستہ اے، تے بدل اوہدیاں thoریاں دی دھوڑ اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2ebbb6931ae5855cb340590379b9f43170167cde96d4d885128229fa5f4b1321",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/nahum\/1\/1-4.1792111233751.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "لَمّے"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "نَکّ (والا)"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "تے وڈا اے"
+    },
+    {
+      "surface": "כח",
+      "gloss": "زور وِچ"
+    },
+    {
+      "surface": "ונקה",
+      "gloss": "تے بے-سزا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "کردا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בסופה",
+      "gloss": "واڑھ وِچ"
+    },
+    {
+      "surface": "ובשערה",
+      "gloss": "تے ہوائی طوفان وِچ"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "اوہدا رستہ"
+    },
+    {
+      "surface": "וענן",
+      "gloss": "تے بدل"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "دھوڑ"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "اوہدیاں thoریاں دی"
+    }
+  ],
+  "timestamp": "2026-10-16T00:40:33.752468455Z",
+  "model": "glm-5.3"
+}

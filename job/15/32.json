@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 15:32",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اوہدی عمر⟩",
+      "rationale": "عبرانی صرف 'پوری ہووے گی' آکھدا اے — مفعول لکھیا نئیں"
+    },
+    {
+      "kind": "crux",
+      "subject": "תמלא",
+      "rationale": "کی پُری ہووے گی — کجھ مترجم 'دیленное بدلہ' لیندے نیں، کجھ 'عمر'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ہری",
+      "rationale": "רעננה دا مطلب سرسبز\/تازہ اے — 'پھلی نئیں' وِچ تصویر بدل جاندی اے"
+    }
+  ],
+  "translation": "اوہدے دن توں پہلاں ⟨اوہدی عمر⟩ پوری ہو جاوے گی، تے اوہدی کھجور دی پتّ ہری نئیں ہووےگی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6fdb14f498a5f7c2aa02c0d339d291d91caf1c9ad08e88d05517b1e4186992b6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/15\/32-32.1792124249845.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בלא",
+      "gloss": "توں پہلاں نئیں"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "اوہدے دن"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "پوری ہو جاوے گی"
+    },
+    {
+      "surface": "וכפתו",
+      "gloss": "تے اوہدی کھجور دی پتّ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "רעננה",
+      "gloss": "ہری"
+    }
+  ],
+  "timestamp": "2026-10-16T04:17:29.845581686Z",
+  "model": "glm-5.3"
+}

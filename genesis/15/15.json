@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 15:15",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اپنیاں نال",
+      "rationale": "عبرانی صرف 'اپنے پیو' آکھدا اے؛ 'پیو' دا مطلب موت توں بعد اپنیاں نال جاݨا اے، پنجابی وِچ وضاحت ⟨⟩ نال کیتی"
+    },
+    {
+      "kind": "substitution",
+      "subject": "شانتی",
+      "rationale": "שלום دا مطلب صرف 'امن' نئیں بلکہ مکمل چین تے سلامتی اے"
+    },
+    {
+      "kind": "predicate-you",
+      "subject": "اَبرام نوں",
+      "rationale": "ایہہ اِلٰہی اعلان سِدھا ابرام نوں مخاطب اے"
+    }
+  ],
+  "translation": "تے تُوں اپنیاں نال شانتی نال آؤنا، چنگی بُڈھی عمر وِچ دفنایا جائیں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2d3b128a5cabbf92d2e391183998afe6094f46b910e35010938a6e5c373e2c63",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/15\/14-15.1792123250245.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "تے تُوں"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "آؤنا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "اپنے پیو"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "شانتی نال"
+    },
+    {
+      "surface": "תקבר",
+      "gloss": "دفنایا جائیں گا"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "بُڈھی عمر وِچ"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "چنگی"
+    }
+  ],
+  "timestamp": "2026-10-16T04:00:50.246441087Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "exodus 12:49",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اَولے⟩",
+      "rationale": "عبرانی وچ 'جمے' دا ہپھ نئیں، اِکّو مصدر 'دیسی' بھاوَ دیندا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גר\/הגר",
+      "rationale": "ایکیوں 'پردیسی' تے 'وسدا' — اِکّو جڑ دا دو واری ہونا، پنجابی وچ رول نئیں"
+    }
+  ],
+  "translation": "اِکّو تورات ⟨ہووے⟩ دیسی ⟨اَولے⟩ لئی تے اُس پردیسی لئی جیہڑا تُہاڈے وِچ وسدا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5848b63ae38dea267daa8a2fe41a1bcedfbba8abb5adbc345a51aff5971f70b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/12\/49-51.1792096439983.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "تورات"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "اِکّو"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہووے"
+    },
+    {
+      "surface": "לאזרח",
+      "gloss": "دیسی ⟨اَولے⟩ لئی"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "تے اُس پردیسی لئی"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "جیہڑا وسدا اے"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "تُہاڈے وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T20:33:59.983925823Z",
+  "model": "glm-5.3"
+}

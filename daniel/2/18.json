@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "daniel 2:18",
+  "book": "daniel",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "raz",
+      "rationale": "רז — the hidden thing; Daniel's whole chapter turns on the concealed dream and its rاز."
+    },
+    {
+      "kind": "substitution",
+      "subject": "حلم منگنا",
+      "rationale": "ורחמין جمع اے — 'رحمتاں' جمع رکھی، KJV 'mercies' وانگ۔"
+    }
+  ],
+  "translation": "کہ اوہ اسماناں دے ایلوہ ساہمنے توں اِس راز اُتے رحمتاں منگن، تاں جو دانیئیل تے اوہدے ساتھی بابل دے باقی داناں نال ہلاک نہ ہون۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fdf5361c2cc4ba8278a3318bdcdfd413b165b8957870924a1edc50de704ecc8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/daniel\/2\/17-20.1792118061020.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורחמין",
+      "gloss": "رحمتاں"
+    },
+    {
+      "surface": "למבעא",
+      "gloss": "منگن"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ساہمنے"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایلوہ"
+    },
+    {
+      "surface": "שמיא",
+      "gloss": "اسماناں دے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "רזה",
+      "gloss": "راز"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "اِس"
+    },
+    {
+      "surface": "די",
+      "gloss": "تاں جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יהבדון",
+      "gloss": "ہلاک ہون"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "دانیئیل"
+    },
+    {
+      "surface": "וחברוהי",
+      "gloss": "تے اوہدے ساتھی"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "باقی"
+    },
+    {
+      "surface": "חכימי",
+      "gloss": "داناں"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل دے"
+    }
+  ],
+  "timestamp": "2026-10-16T02:34:21.022010852Z",
+  "model": "glm-5.3"
+}

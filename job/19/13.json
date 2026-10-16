@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 19:13",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "مینوں",
+      "rationale": "عبرانی وِچ فعل دا فاعل چھُپا ہویا اے — ایلوہیم یا مصیبت — پنجابی جملہ مفعول منگدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "سچ مُچھ",
+      "rationale": "אך پکا کرن دا ذرہ اے — یقیناً\/اِکو — سچ مُچھ اوہدے نیڑے اے"
+    }
+  ],
+  "translation": "میرے بھرا ⟨مینوں⟩ دور کر دِتے گئے، تے میرے جانن والے سچ مُچھ مینوں چھڈ کے پردیسی ہو گئے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c85719a68e869bd0c59a723cbe55fe2d1147611f66c00202299e5d1c329fe7da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/19\/13-16.1792115857577.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "میرے بھرا"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "میرے کولوں"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "دور کر دِتا"
+    },
+    {
+      "surface": "וידעי",
+      "gloss": "تے میرے جانن والے"
+    },
+    {
+      "surface": "אך",
+      "gloss": "سچ مُچھ"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "پردیسی ہو گئے"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "مینوں چھڈ کے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:57:37.578345614Z",
+  "model": "glm-5.3"
+}

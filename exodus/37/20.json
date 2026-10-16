@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 37:20",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "چار پیالے",
+      "rationale": "گنتی جاری اے — مرکزی تَنی اُتے چار بادامی پیالے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "چراغ-دان وِچ",
+      "rationale": "ב + ה دی ضمیمہ شدہ حالت اے، کوئی وادھو لفظ نئیں — دیにとって مکمل کوائف۔"
+    }
+  ],
+  "translation": "تے چراغ-دان وِچ بادامی شکل دے چار پیالے — اوہدے گُنبڑ تے اوہدے پھل۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1be6a48f030e1765a42aa3f6ca55e68eba7fb9b4d199ca69f1ef9db5da16775b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/37\/17-20.1792097294383.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובמנרה",
+      "gloss": "تے چراغ-دان وِچ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چار"
+    },
+    {
+      "surface": "גבעים",
+      "gloss": "پیالے"
+    },
+    {
+      "surface": "משקדים",
+      "gloss": "بادامی شکل دے"
+    },
+    {
+      "surface": "כפתריה",
+      "gloss": "اوہدے گُنبڑ"
+    },
+    {
+      "surface": "ופרחיה",
+      "gloss": "تے اوہدے پھل"
+    }
+  ],
+  "timestamp": "2026-10-15T20:48:14.384404349Z",
+  "model": "glm-5.3"
+}

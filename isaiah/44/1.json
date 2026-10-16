@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 44:1",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اَے",
+      "rationale": "پنجابی پکار لئی 'اَے' منگدا اے، عبرانی وِچ نئیں"
+    },
+    {
+      "kind": "invitation",
+      "subject": "سُن",
+      "rationale": "حکم نال بنی اسرائیل نوں سدّا — سُن اَے یعقوو"
+    }
+  ],
+  "translation": "تے ہن سُن، اَے یعقوو میرا خادم، تے اَے یِسرائیل، جیہنوں میں چُنیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "396a7e0731e46733a07176e845cda5d3659e60453e1af09ccec3d6171d89d04a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/44\/1-4.1792106757047.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "تے ہن"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سُن"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "میرا خادم"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "تے یِسرائیل"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "میں چُنیا"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوہنوں"
+    }
+  ],
+  "timestamp": "2026-10-15T23:25:57.048519259Z",
+  "model": "glm-5.3"
+}

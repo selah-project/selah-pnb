@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 99:1",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 99,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اُتے",
+      "rationale": "عبرانی ישב כרובים وِچ 'اُتے' کوئی نئیں، پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מלך \/ תנוט",
+      "rationale": "راج کرن دا اعلان تے دھرتی دے ہلن دا جوڑ — بادشاہی تے ہلچل دا وِتر"
+    },
+    {
+      "kind": "invitation",
+      "subject": "imperatives",
+      "rationale": "یרגזו تے תנוט حکری صورتاں نیں — قوماں نوں تے دھرتی نوں سدّیا گیا"
+    }
+  ],
+  "translation": "یاہوہ نے راج کیتا — قوماں کپ کپ جان، اوہ کروبیاں اُتے بہندا اے — دھرتی ہلووے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "26528d91dd57b87863a3560a2ea61d7f173173cd0977bfa23dac6782166b6cee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/99\/1-4.1792113467042.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "راج کیتا"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "کپ کپ جان"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "قوماں"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "بہندا اے"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "کروبیاں اُتے"
+    },
+    {
+      "surface": "תנוט",
+      "gloss": "ہلووے"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "دھرتی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:17:47.043093438Z",
+  "model": "glm-5.3"
+}

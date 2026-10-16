@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 102,
+  "ref": "psalms 119:102",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "آپ",
+      "rationale": "עברی وِچ صیغہ بولدا اے پر پنجابی زور لئی ⟨آپ⟩ دا وادھا"
+    }
+  ],
+  "translation": "تیرے فیصلےآں توں میں نئیں مُڑیا، کیونکہ تُوں آپ میتھوں سکھایا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "14a97a7d6cc24bd24321972dd0e3189209f09417cca772c898f566078550a055",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/119\/101-104.1792113866915.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ממשפטיך",
+      "gloss": "تیرے فیصلےآں توں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "סרתי",
+      "gloss": "مُڑیا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُوں آپ"
+    },
+    {
+      "surface": "הורתני",
+      "gloss": "میتھوں سکھایا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:24:26.915832670Z",
+  "model": "glm-5.3"
+}

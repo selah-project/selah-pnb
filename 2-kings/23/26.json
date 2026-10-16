@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 23:26",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אף",
+      "rationale": "עبرانی وِچ 'ناس' غصے دا وسیلہ اے — 'ناس دا غصہ' پنجابی وِچ بھڑکے دی صورت رکھی"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חרה\/כעס",
+      "rationale": "חרה (بھڑکنا) تے כעס (گھسوٹنا) دی لڑی — اِکو جذبے دے دو بل"
+    }
+  ],
+  "translation": "تے فیر وی یاہوہ اُس وڈے غصے دے بھڑکے توں نئیں مُڑیا جیہڑا اوہدے ناس دے غصے نال یہودہ اُتے بھڑکیا، منشّے دے سب گھسوٹیاں اُتے جیہناں نے اوہنوں گھسوٹیا سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7aa2e3b5ae2d05b4eab2df96481f671392b5fed3e75e3885f13c557fa87c2082",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/23\/25-28.1792105648457.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "تے فیر وی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "שב",
+      "gloss": "مُڑیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "غصے دے بھڑکے توں"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "اوہدے ناس دے"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "وڈے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "بھڑکیا"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "غصے نال"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "یہودہ اُتے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "הכעסים",
+      "gloss": "گھسوٹیاں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہناں نے"
+    },
+    {
+      "surface": "הכעיסו",
+      "gloss": "گھسوٹیا سی"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "منشّے"
+    }
+  ],
+  "timestamp": "2026-10-15T23:07:28.458308610Z",
+  "model": "glm-5.3"
+}

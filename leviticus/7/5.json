@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 7:5",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "اگّ دی قربانی",
+      "rationale": "אשה اِلاہی قربانی لئی اگّ وجوں ساڑی شے اے؛ 'اگّ دی قربانی' اوہدا سُچجا متبادل اے"
+    }
+  ],
+  "translation": "تے کاہن اوہناں نوں قربان گاہ اُتے یاہوہ لئی اگّ دی قربانی وجوں ساڑےگا؛ ایہہguilt قربانی اے — ایہہ اَشام اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2b4aa962cd904d703efbad02bed50b033393ffab4cfac8db00142378dc6e70d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/7\/5-8.1792097413533.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "تے ساڑےگا"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "اوہناں نوں"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "قربان گاہ اُتے"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "اگّ دی قربانی"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ لئی"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "اَشام"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ایہہ اے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:50:13.534397126Z",
+  "model": "glm-5.3"
+}

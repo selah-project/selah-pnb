@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 71:8",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نال",
+      "rationale": "دوجی وار 'نال' پنجابی نوں لوڑدا اے، عبرانی وِچ اِکو واری آیا"
+    }
+  ],
+  "translation": "میرا مُنہ تیری تعریف نال بھریا رہے، سارا دِن تیری شان ⟨نال⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6ca79f69ce876f64ccff447755403c87f9ecf5f4c918067e37ceaef2a588c8ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/71\/5-8.1792112866533.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימלא",
+      "gloss": "بھریا رہے"
+    },
+    {
+      "surface": "פי",
+      "gloss": "میرا مُنہ"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "تیری تعریف"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "دِن"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "تیری شان"
+    }
+  ],
+  "timestamp": "2026-10-16T01:07:46.534143700Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "1-samuel 17:50",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "طاقتور ہویا",
+      "rationale": "ויחזק دا سادہ مطلب 'زور پھڑیا\/مضبوط ہویا'؛ 'غلبہ پا لیا' دوجا پڑھائی اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "نئیں سی",
+      "rationale": "אין نال وارتیا وادھو اے جو پنجابی جملہ منگدا اے۔"
+    }
+  ],
+  "translation": "تے داوِد فلستی توں غلتان تے پتھر نال طاقتور ہویا، تے ⟨את⟩ فلستی نوں ماریا تے اوہنوں مار دتا — تے داوِد دے ہتھ وِچ تلوار نئیں سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f7d5e0763157b1841779b591109124bf6f355a22beb3196f8ef4f4719855cfe3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/17\/49-52.1792102706386.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "تے طاقتور ہویا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "فلستی"
+    },
+    {
+      "surface": "בקלע",
+      "gloss": "غلتان نال"
+    },
+    {
+      "surface": "ובאבן",
+      "gloss": "تے پتھر نال"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "تے ماریا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "فلستی"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "فلستی"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "تے اوہنوں مار دتا"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "تے تلوار"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نئیں سی"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ہتھ وِچ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد دے"
+    }
+  ],
+  "timestamp": "2026-10-15T22:18:26.387615458Z",
+  "model": "glm-5.3"
+}

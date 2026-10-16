@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 14:5",
+  "book": "hosea",
+  "lang": "pnb",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "משובתם \/ שב",
+      "rationale": "مُڑک (apostasy) تے مُڑنا اِکو جڑ שׁוּב توں — پنجابی وِچ مُڑک\/مُڑ نال تھوڑا جیہا سُر ملدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "غصہ",
+      "rationale": "אפי سُتر literal نک\/ناس اے، غصہ اوہدی فگری معنی اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "میں",
+      "rationale": "عبرانی وِچ ضمیر فعل دی صیغے وِچ اے، پنجابی نوں وکھرا ضمیر چاہیدی اے"
+    }
+  ],
+  "translation": "میں اوہناں دی مُڑک نوں شفا دیواں گا، اوہناں نوں رضا نال پیار کراں گا، کیونجے میرا ਗہسਾ (کوڑھ) اوہدے توں مُڑ گیا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "33a70dbb1802f770e32d7c3d826afaea8dc33bfe9a56dc0f61b012e18af35e66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/hosea\/14\/5-8.1792110625888.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארפא",
+      "gloss": "میں شفا دیواں گا"
+    },
+    {
+      "surface": "משובתם",
+      "gloss": "اوہناں دی مُڑک"
+    },
+    {
+      "surface": "אהבם",
+      "gloss": "اوہناں نوں پیار کراں گا"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "رضا نال"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "שב",
+      "gloss": "مُڑ گیا"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "میرا غصہ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "اوہدے توں"
+    }
+  ],
+  "timestamp": "2026-10-16T00:30:25.889279166Z",
+  "model": "glm-5.3"
+}

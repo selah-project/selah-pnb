@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 127:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 127,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כן יתן לידידו שנא",
+      "rationale": "'اوندے پیارے نوں نیند دندا اے' یا 'نیند وِچ اپنے پیارے نوں دندا اے' — שנא مفعول اے یا حالت، پرانا جھگڑا اے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "העצבים",
+      "rationale": "'دُکھاں' — عبرانی لفظ دُکھ تے مورت (اتسابیم) دوویں ہو سکدا اے۔"
+    }
+  ],
+  "translation": "تہاڈے لئی بےسود اے سویرے اُٹھنا، دیر تک بیٹھے رہنا، دُکھاں دی روٹی کھانا؛ اِنج اوہ اپنے پیارے نوں نیند دندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "de412493409e720eff8a200f3e3609ca19b3017ea76b09f2866818b55f730a05",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/127\/1-4.1792113986729.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "بےسود"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تہاڈے لئی"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "سویرے اُٹھن والے"
+    },
+    {
+      "surface": "קום",
+      "gloss": "اُٹھنا"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "دیر تک"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "بیٹھے رہنا"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "کھانا"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "روٹی"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "دُکھاں دی"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اِنج"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دندا اے"
+    },
+    {
+      "surface": "لידידו",
+      "gloss": "اپنے پیارے نوں"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "نیند"
+    }
+  ],
+  "timestamp": "2026-10-16T01:26:26.729855672Z",
+  "model": "glm-5.3"
+}

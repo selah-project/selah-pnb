@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جان-طاقت اے، صرف روح نئیں — ایتھے لہو نال جُڑی حیات اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בנפשו דמו",
+      "rationale": "جان تے لہو وچکار لگائے بغیر رکھے نیں — ماس-جان-لہو دی زنجیر اے، وِچکار کوئی فعل نئیں"
+    }
+  ],
+  "translation": "پر ماس، جیہدے نال اُودی جان اے — اُودا لہو — اوہ نئیں کھاوگے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "47fad036896cddc179b998e31d3fc70a28b26b35f101949440c727cbb289724d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/9\/1-4.1792094796507.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "پر"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ماس"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "اُودی جان دے نال"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "اُودا لہو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "کھاوگے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:06:36.508486901Z",
+  "model": "glm-5.3"
+}

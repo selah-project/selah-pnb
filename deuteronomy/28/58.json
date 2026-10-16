@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "deuteronomy 28:58",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "—",
+      "rationale": "عبرانی دا 'אם לא' شرطی جملہ اگلی آیت 59 تک مُکدا اے؛ پنجابی سُر وِچ لے آؤن لئی 'جے… نہ' کافی اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תורה",
+      "rationale": "'تورات' حرف-نقل، پہلی واری ⟨ہدایت، تعلیم⟩ جائز سی پر اِس ضابطے وِچ اِکو صورت رکھی"
+    }
+  ],
+  "translation": "جے تُوں اِس تورات دے ⟨את⟩ سب لفظ، جیہڑے اِس کتاب وِچ لکھے نیں، نہ رکھیں کرن لئی، ⟨את⟩ اُس ناں، اُس سرفراز تے ڈراؤنے ناں نوں ڈرن لئی — ⟨את⟩ یاہوہ، تیرے ایلوہیم نوں —",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7b75ced901d03558e44795d428faafe94ade63ab081581a537a68576b5b7242f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/28\/57-60.1792100428653.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "تُوں رکھیں"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "کرن لئی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سب لفظ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "اِس تورات دے"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "اِس"
+    },
+    {
+      "surface": "הכתובים",
+      "gloss": "لکھے ہوئے"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "کتاب وِچ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اِس"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "ڈرن لئی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اُس ناں نوں"
+    },
+    {
+      "surface": "השם",
+      "gloss": "اُس ناں"
+    },
+    {
+      "surface": "הנכבד",
+      "gloss": "سرفراز"
+    },
+    {
+      "surface": "והנורא",
+      "gloss": "تے ڈراؤنا"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اُس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ، تیرے ایلوہیم نوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تیرے ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-10-15T21:40:28.654362066Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 42:2",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اپنے آپ نوں 'اوہنے'",
+      "rationale": "پنجابی کریا لئی فاعل منگدا اے، عبرانی وِچ اگلی آیت دا speakers سیاقوں پتہ لگدا اے"
+    },
+    {
+      "kind": "you",
+      "subject": "to the sons",
+      "rationale": "حکم پُتراں ول: 'جاؤ، مُولو' — جمع امر"
+    }
+  ],
+  "translation": "تے اوہنے آکھیا: ویکھو، میں سنیا اے کہ مِتصرایم وِچ اناج اے۔ اُتّر جاؤ تے ساڈے لئی اوتھوں اناج مُولو، تے اسیں جیونے آں تے نہ مرو۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "547d547c27efad83795ca3814cf075a8efaa862db5947442577c73cf11dec6d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/42\/1-4.1792095886717.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ویکھو"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "میں سنیا اے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "اے"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "اناج"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "مِتصرایم وِچ"
+    },
+    {
+      "surface": "רדו",
+      "gloss": "اُتّر جاؤ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "اوتھے"
+    },
+    {
+      "surface": "ושברו",
+      "gloss": "تے مُولو"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ساڈے لئی"
+    },
+    {
+      "surface": "משם",
+      "gloss": "اوتھوں"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "تے اسیں جیونے آں"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "مرو"
+    }
+  ],
+  "timestamp": "2026-10-15T20:24:46.721418040Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 140,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "زہر",
+      "rationale": "חמת دا مُڈھلا مطلب 'تپّ\/غصہ' اے — ایتھے زہر لئی لیا گیا"
+    }
+  ],
+  "translation": "اوہناں نے ⟨את⟩ اپنیاں زباناں نوں سانپ وانگوں تِکھیاں کیتا، اوہناں دے ہونٹھاں تھلے افعی دا زہر اے۔ سیلاہ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "32e3063b81051368d8f9b67f6dc106f4a46ecb935a48160577bf6111a226253f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/140\/1-4.1792114128896.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "تِکھیاں کیتا"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "اپنیاں زباناں نوں"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "وانگوں"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "سانپ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "زہر"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "افعی دا"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تھلے"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "اوہناں دے ہونٹھاں"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سیلاہ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:28:48.897870652Z",
+  "model": "glm-5.3"
+}

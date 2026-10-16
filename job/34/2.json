@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 34:2",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "ایلیہو دی بینتی",
+      "rationale": "نبی آیت imperatives نال سُنن والیاں نوں سدا دیندا اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "اَے … بندیو \/ والیاں",
+      "rationale": "پنجابی مخاطب لئی پکار درکار اے، عبرانی وِچ صیرفہ دا جمع صیغہ اے۔"
+    },
+    {
+      "kind": "you",
+      "subject": "سیانے تے جانن والے",
+      "rationale": "سدیا مخاطب — ایلیہو دے سنیا پارٹی۔"
+    }
+  ],
+  "translation": "اَے سیانے بندیو، میرے بچن سُنو، تے اَے جانن والیاں، میرے ول کن دھرو۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "994c08055d558a21b7a6ddc30a84df3facb2cd1b79b5ae43b42ad587d50831ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/34\/2-3.1792124298223.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "سُنو"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "اَے سیانے بندیو"
+    },
+    {
+      "surface": "מלי",
+      "gloss": "میرے بچن"
+    },
+    {
+      "surface": "וידעים",
+      "gloss": "تے اَے جانن والیاں"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "کن دھرو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرے ول"
+    }
+  ],
+  "timestamp": "2026-10-16T04:18:18.224206075Z",
+  "model": "glm-5.3"
+}

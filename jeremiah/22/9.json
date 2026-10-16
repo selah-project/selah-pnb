@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 22:9",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ہور خدیاں نوں",
+      "rationale": "לאלהים אחרים قوماں دے معبوداں لئی عام لفظ اے، ناں نئیں — ایس لئی عام لفظ ٹھیک اے"
+    },
+    {
+      "kind": "you",
+      "subject": "to قوماں",
+      "rationale": "گوانڈھی توں گوانڈھی دا جواب، اکھراں وِچ قوماں نُوں مخاطب"
+    }
+  ],
+  "translation": "تے اوہ آکھن گے: اِس لئی جو اوہناں نے یاہوہ اپنے ایلوہیم دا ⟨את⟩ عہد چھوڑ دِتا، تے ہور خدیاں نوں سجدہ کیتا تے اوہناں دی عبادت کیتی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "68e313fa423846f545e34bf1cd0b4e2cc22250a1989a922465a63d0384f1e1cc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/22\/9-12.1792107861860.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "تے اوہ آکھن گے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اِس لئی جو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "چھوڑ دِتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عہد"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "عہد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "اپنے ایلوہیم"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "تے سجدہ کیتا"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "خدیاں نوں"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ہور"
+    },
+    {
+      "surface": "ויעבדום",
+      "gloss": "تے اوہناں دی عبادت کیتی"
+    }
+  ],
+  "timestamp": "2026-10-15T23:44:21.861594408Z",
+  "model": "glm-5.3"
+}

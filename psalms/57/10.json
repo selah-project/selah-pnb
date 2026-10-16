@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 57:10",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בל",
+      "rationale": "'بل' (مُکّے ہوئے لوک) بمقابلہ 'بال' توں پڑھنا؛ 'قوماں' دا پہلا لفظ ایس لئی 'بل' نئیں بلکہ 'امّیم' (قوماں) اے۔"
+    }
+  ],
+  "translation": "میں تیرا شکر ادا کراں گا قومیں وِچ، ہے ادونای، میں تیری تعریف گاواں گا، میں تیری تعریف گاواں گا ⟨قومیں وِچ⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "88b234e884a18acd4462a9af204869aa65553829ce71268139fe7702a98395d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/57\/9-12.1792112664137.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "میں تیرا شکر ادا کراں گا"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "قومیں وِچ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ہے ادونای"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "میں تیری تعریف گاواں گا"
+    },
+    {
+      "surface": "בל",
+      "gloss": "⟨قومیں وِچ⟩"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "میں تیری تعریف گاواں گا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:04:24.137833520Z",
+  "model": "glm-5.3"
+}

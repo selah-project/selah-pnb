@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 5:3",
+  "book": "hosea",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "تُوں",
+      "rationale": "ہُن تُوں ایفرایم — خدا خود ایفرایم نوں مخاطب کردا اے؛ پنجابی مخاطب لئی ⟨⟩ توں باہر صریح ضمیر دی لوڑ پئی۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "زنا",
+      "rationale": "זנה ساری تنخ وِچ بُت پرستی دے روپ وِچ وی، پہلے پڑھائی وِچ لفظ دی شکل رکھی گئی۔"
+    }
+  ],
+  "translation": "میں ایفرایم نوں جاندا آں، تے یِسرائیل میرے توں نئیں لُکیا، کیونکہ ہُن تُوں، ایفرایم، زنا کر چُکیاں ای، یِسرائیل میل ہو گیا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2b589ec0ff0ad2b7d454acc93bb2d7849a3a3082992abda93e1321280943c471",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/hosea\/5\/1-4.1792110517365.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "جاندا آں"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ایفرایم نوں"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "تے یِسرائیل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "لُکیا"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "میرے توں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ہُن"
+    },
+    {
+      "surface": "הזנית",
+      "gloss": "زنا کر چُکیاں ای"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ایفرایم"
+    },
+    {
+      "surface": "נטמא",
+      "gloss": "میل ہو گیا اے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-10-16T00:28:37.366039802Z",
+  "model": "glm-5.3"
+}

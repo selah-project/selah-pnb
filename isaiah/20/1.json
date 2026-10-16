@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 20:1",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "סרגון",
+      "rationale": "سرگون دا ناں تنخ وچ صرف ایتھے آیا اے، حالانکہ اوہ اک مشہور آشوری بادشاہ سی۔"
+    },
+    {
+      "kind": "alternative",
+      "subject": "تارتان",
+      "rationale": "کجھ مترجم تارتان نوں آشوری فوجی عہدہ سمجھ کے 'سردار' لکھدے نیں؛ ایتھے ناں ای رکھیا اے۔"
+    }
+  ],
+  "translation": "اوہ سال جیہدے وِچ تارتان اشدود نوں آیا، جدوں سرگون، اشور دے بادشاہ نے ⟨את⟩ اوہدے نوں گھلیا، تے اوہنے اشدود نال لڑائی کیتی تے اوہنوں فتح کیتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "dee70f1b0a5d118d2e4945ec1812b963b48feee69148f82443a9aeb3d94a3d20",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/20\/1-4.1792106200841.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "اوہ سال جیہدے وِچ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "תרתן",
+      "gloss": "تارتان"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "اشدود نوں"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "جدوں … گھلیا"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ اوہدے نوں",
+      "marks": "سرگون"
+    },
+    {
+      "surface": "סרגון",
+      "gloss": "سرگون"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "اشور دے"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "تے اوہنے لڑائی کیتی"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "اشدود نال"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "تے اوہنوں فتح کیتا"
+    }
+  ],
+  "timestamp": "2026-10-15T23:16:40.842335008Z",
+  "model": "glm-5.3"
+}

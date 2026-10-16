@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שיחו",
+      "rationale": "'سوچو\/غور کرو' (یلت) بمقابلہ 'گل کرو' (کے جے وی، اے ایس وی) — جڑ دا مول سوچ-وچار اے۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שירו \/ זמרו",
+      "rationale": "دو گاؤن والیاں کریاں دی جوڑی، پنجابی وِچ گاؤ\/ساز نال گاؤ نال قریب کیتا۔"
+    }
+  ],
+  "translation": "اوہنوں گاؤ، اوہنوں ساز نال گاؤ، اوہدیاں ساریاں انوکھیاں کرماں دی گل کرو۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "479a558f69a2717c6e0fa80ca306f14c443e691993689c0e8f6caefdabacf49b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/105\/1-4.1792113603395.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "گاؤ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہنوں"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ساز نال گاؤ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہنوں"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "گل کرو"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ساریاں"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "انوکھیاں کرماں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:20:03.396537681Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨سی⟩",
+      "rationale": "عبرانی وِچ کوئی فعل نئیں؛ پنجابی نوں جوڑ(کوپلا) چاہیدا اے"
+    }
+  ],
+  "translation": "یاہوہ دی روح نے میرے وِچ بولیا، تے اوہدا بچن میری زبان اُتے ⟨سی⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c277934e0e38c1ec7f1cb3759eae4009c23fb883d4aaffa2975176497c0d45c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/23\/1-4.1792103866480.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "بولیا"
+    },
+    {
+      "surface": "בי",
+      "gloss": "میرے وِچ"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "تے اوہدا بچن"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "میری زبان"
+    }
+  ],
+  "timestamp": "2026-10-15T22:37:46.481131300Z",
+  "model": "glm-5.3"
+}

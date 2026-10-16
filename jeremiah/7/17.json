@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 7:17",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "کیہ… نئیں",
+      "rationale": "האאינך negative-particle نال سوال دی شکل پنجابی وِچ وکھرے بند اے"
+    },
+    {
+      "kind": "you",
+      "subject": "یِرمییاہ نوں",
+      "rationale": "سوال اِکو بندے موشیٰ… نئیں، یِرمییاہ ول سِدھا اے"
+    }
+  ],
+  "translation": "کیہ تُوں نئیں ویکھدا کہ اوہ یہوداہ دے شہراں وِچ تے یروشلایم دیاں گلیاں وِچ کیہ کردے نیں؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "67571e89e36ec6b60b9bda0bd289bb39e36de480779ef58360bfa440dee776da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/7\/17-20.1792107509592.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האינך",
+      "gloss": "کیہ… نئیں"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ویکھدا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "کردے نیں"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "شہراں وِچ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ دے"
+    },
+    {
+      "surface": "ובחצות",
+      "gloss": "تے گلیاں وِچ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم دیاں"
+    }
+  ],
+  "timestamp": "2026-10-15T23:38:29.593607341Z",
+  "model": "glm-5.3"
+}

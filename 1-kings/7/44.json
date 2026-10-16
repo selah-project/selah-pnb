@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "سمندر",
+      "rationale": "הים اِتھے پانی دا وڈا تہی اے — 'سمندر' اوہدا شبہ اے، سمندری جہاز نئیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "بھینساں",
+      "gloss": "",
+      "rationale": "הבקار ڈنگر\/وچھے نیں؛ 'بھینساں' ڈھکویں پر اوہناں دا عام پنجابی روپ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "باراں",
+      "rationale": "ڳنتی — اِک سمندر، باراں ڈنگر"
+    }
+  ],
+  "translation": "تے ⟨את⟩ اِک سمندر، تے ⟨את⟩ سمندر تھلے باراں بھینساں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0d34374412dbb1a9a0b46d35129c63877bf8e6526b8bec3f34af50c5dd946def",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/7\/41-44.1792104092928.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "سمندر"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "اِک"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "باراں بھینساں"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "بھینساں"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "باراں"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تھلے"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر"
+    }
+  ],
+  "timestamp": "2026-10-15T22:41:32.929394765Z",
+  "model": "glm-5.3"
+}

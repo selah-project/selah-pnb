@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 35:1",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨دی⟩",
+      "rationale": "عبرانی وِچ اضافی لفظ نئیں، پنجابی جملہ لئی پایا"
+    },
+    {
+      "kind": "elision",
+      "subject": "מאת",
+      "rationale": "H854 قربت دی تاکید، ⟨את⟩ نشان نال دسیا"
+    }
+  ],
+  "translation": "اوہ بچن جیہڑا ⟨את⟩ یاہوہ ⟨مآت⟩ توں یِرمیاہو کول آیا، یہویاکیل دے دناں وِچ، یُشیاہو دے پُتر، یِہوداہ دے بادشاہ ⟨دی⟩، آکھدا ہویا:",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c5a63b4c1703e1bfb7b0639a655569b502daf91bd1b9fb4ba04ba8e69dd183bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/35\/1-4.1792108252093.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "اوہ بچن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "היה",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یِرمیاہو"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ توں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "دے دناں وِچ"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "یہویاکیل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "یُشیاہو"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یِہوداہ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھدا ہویا"
+    }
+  ],
+  "timestamp": "2026-10-15T23:50:52.093889619Z",
+  "model": "glm-5.3"
+}

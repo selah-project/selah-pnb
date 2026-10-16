@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 3:5",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "عبرانی وِچ کوئی کاپولا نئیں، پنجابی جملے لئی لوڑیا"
+    },
+    {
+      "kind": "measurement",
+      "subject": "پتراں دی لسٹ",
+      "rationale": "داوِد دے پتراں دی گنتی، حبرون وِچ جمے ہوئے"
+    }
+  ],
+  "translation": "تے چھیواں یِترعام سی، عِگلا توں، داوِد دی ذال۔ ایہہ داوِد نوں حبرون وِچ جمے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e1b392a5a7285ac24cf02330a62137c448872bfc67e49c51806a005d72ca8293",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/3\/5-8.1792103138899.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והששי",
+      "gloss": "تے چھیواں"
+    },
+    {
+      "surface": "יתרעם",
+      "gloss": "یِترعام"
+    },
+    {
+      "surface": "לעגלה",
+      "gloss": "عِگلا توں"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ذال"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "جمے"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد نوں"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "حبرون وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T22:25:38.900435135Z",
+  "model": "glm-5.3"
+}

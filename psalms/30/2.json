@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 30:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨کُوڑے توں⟩",
+      "rationale": "דליתני دی مُڈھلی مورت “ڈول نال پانی کڈھنا” اے — پنجابی جملہ تھاں منگدا اے۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ארוממך\/דליתני",
+      "rationale": "אַלֶף־רוֹם (اُچا کرنا) تے דָּלָה (تھلوں کڈھنا) دی اُلٹ سنوَئی — پنجابی وِچ “اُچا کرنا\/کڈھنا” نال کجھ بچدا اے۔"
+    }
+  ],
+  "translation": "اَوں تینوں اُچا کراںگا، اے یاہوہ، کیوں جو تُوں نے مینوں ⟨کُوڑے توں⟩ کڈھیا، تے اپنے اُتے نئیں خوش کیتا میرے ویریاں نوں میرے لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0696ba0b76a5def4d06eb268cec6a3c566ecd808c78d5abc04c1c5729d13f2db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/30\/1-4.1792112227212.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארוממך",
+      "gloss": "تینوں اُچا کراںگا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "דליתני",
+      "gloss": "مینوں کڈھیا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "خوش کیتا"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "میرے ویریاں نوں"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرے لئی"
+    }
+  ],
+  "timestamp": "2026-10-16T00:57:07.213504718Z",
+  "model": "glm-5.3"
+}

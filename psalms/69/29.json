@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 69:29",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نال",
+      "rationale": "עם دے نال پنجابی نوں 'نال' کارک دی لوڑ اے"
+    },
+    {
+      "kind": "secret",
+      "subject": "book of the living",
+      "rationale": "جِیوندیاں دی کتاب — لِکھے جان والے ناں، لُکے ہوئے رجسٹر دی تصویر"
+    }
+  ],
+  "translation": "او مِٹائے جان جِیوندیاں دی کتاب وِچوں، تے صادقاں ⟨نال⟩ نہ لِکھے جان۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "47865d8ec3d4b9028876d8ffb565712845c9506c7c941151964d2ec4f4dc58b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/69\/29-32.1792112905712.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימחו",
+      "gloss": "مِٹائے جان"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "کتاب وِچوں"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "جِیوندیاں دی"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "تے ⟨نال⟩"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "صادقاں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "لِکھے جان"
+    }
+  ],
+  "timestamp": "2026-10-16T01:08:25.713180346Z",
+  "model": "glm-5.3"
+}

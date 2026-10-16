@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 30:24",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "חמיץ",
+      "rationale": "کھاری\/نمیٹی والی خوراک دا لفظ تنخ وِچ صرف ایتھے آیا اے۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זרה",
+      "rationale": "ایہو فعل آیت 22 وِچ بتّاں لئی سی — اُتے بھُسی جھاڑنا، ایتھے دانے صاف کرنا؛ دونواں آیتاں وِچ واہی دا اِکو فعل۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "בליל חמיץ",
+      "rationale": "KJV 'صاف خوراک'، YLT 'پھسی ہوئی خوراک' — رلی کھاری خوراک، پُرانے مِلی جُلی نالوں وکھری قسم۔"
+    }
+  ],
+  "translation": "تے گاں تے کھوٹے، جیہڑے دھرتی نوں جوتن والے نیں، رلا کے کھاری خوراک کھاواں گے — جو پھٹکارن نال تے تِری نال جھاڑی گئی ہووے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "554d32760035889ae25d2c76a655812080a171d00419b3d2a7cd052336baef77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/30\/21-24.1792106469076.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והאלפים",
+      "gloss": "تے گاں"
+    },
+    {
+      "surface": "והעירים",
+      "gloss": "تے کھوٹے"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "جوتن والے"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "دھرتی نوں"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "رلا کے"
+    },
+    {
+      "surface": "חמיץ",
+      "gloss": "کھاری"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "کھاواں گے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "جھاڑی گئی ہووے"
+    },
+    {
+      "surface": "ברחת",
+      "gloss": "پھٹکارن نال"
+    },
+    {
+      "surface": "ובמזרה",
+      "gloss": "تے تِری نال"
+    }
+  ],
+  "timestamp": "2026-10-15T23:21:09.077845840Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 109:10",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ונוע ינועו",
+      "rationale": "اکو جڑ دو واری — نُو-ع دی واکنتی، پنجابی وچ «ڈولن ڈولدے پھرن» نال چیتا رکھیا"
+    },
+    {
+      "kind": "addition",
+      "subject": "روٹی",
+      "rationale": "عبرانی متن وچ «روٹی» نئیں، صرف «ڈھونڈن» اے؛ بھاکوں دا سیاق پنجابی لئی لازم"
+    }
+  ],
+  "translation": "تے اُسدے پُتر ڈولدے پھرن، تے منگن، تے ⟨روٹی⟩ اپنیاں اجڑیاں تھاواں توں ڈھونڈن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2291f4c1bd47c6d462e720781b2d1a314f3d533a96dcc1668c2751505c8fa367",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/109\/9-12.1792113695592.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונוע",
+      "gloss": "تے ڈولن"
+    },
+    {
+      "surface": "ינועו",
+      "gloss": "ڈولدے پھرن"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "اُسدے پُتر"
+    },
+    {
+      "surface": "ושאלו",
+      "gloss": "تے منگن"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "تے ڈھونڈن"
+    },
+    {
+      "surface": "מחרבותיהם",
+      "gloss": "اپنیاں اجڑیاں تھاواں توں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:21:35.593559648Z",
+  "model": "glm-5.3"
+}

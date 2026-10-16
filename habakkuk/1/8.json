@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "habakkuk 1:8",
+  "book": "habakkuk",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נשר",
+      "rationale": "'Eagle' (KJV) vs 'vulture' (JPS, BSB) — נשר covers both large raptors; Punjabi 'اَڑس' keeps the ambiguity."
+    },
+    {
+      "kind": "crux",
+      "subject": "ופשו",
+      "rationale": "'They spread out' (KJV, JPS) vs 'are many' (Geneva, from פוש as multiply) — kept the spreading sense."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ופרשיו ... ופרשיו",
+      "rationale": "The word 'horsemen' repeats at the seam of the line, a stair-like repetition carried over in Punjabi as 'اوہدے سوار ... تے اوہدے سوار'."
+    }
+  ],
+  "translation": "تے اوہدے گھوڑے چیتےآں توں تیز نیں، تے شام دے بھیڑیاں توں تکھے نیں؛ اوہدے سوار پھیل جاندے نیں، تے اوہدے سوار دوروں آؤندے نیں؛ اوہ اَڑس وانگوں اُڈدے نیں، کھان لئی جلدی کردے ہوئے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "547d8f9fac122dc5605a508cfadacbc5242deb7f338d5dadf9e692987d96aac8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/habakkuk\/1\/5-8.1792111268066.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וקלו",
+      "gloss": "تے تیز نیں"
+    },
+    {
+      "surface": "מנמרים",
+      "gloss": "چیتےآں توں"
+    },
+    {
+      "surface": "סוסיו",
+      "gloss": "اوہدے گھوڑے"
+    },
+    {
+      "surface": "וחדו",
+      "gloss": "تے تکھے نیں"
+    },
+    {
+      "surface": "מזאבי",
+      "gloss": "بھیڑیاں توں"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "شام دے"
+    },
+    {
+      "surface": "ופשו",
+      "gloss": "تے پھیل جاندے نیں"
+    },
+    {
+      "surface": "פרשיו",
+      "gloss": "اوہدے سوار"
+    },
+    {
+      "surface": "ופרשיו",
+      "gloss": "تے اوہدے سوار"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "دوروں"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "آؤندے نیں"
+    },
+    {
+      "surface": "יעפו",
+      "gloss": "اُڈدے نیں"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "اَڑس وانگوں"
+    },
+    {
+      "surface": "חש",
+      "gloss": "جلدی کردے ہوئے"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "کھان لئی"
+    }
+  ],
+  "timestamp": "2026-10-16T00:41:08.067944097Z",
+  "model": "glm-5.3"
+}

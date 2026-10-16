@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "exodus 12:46",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨کوئی⟩",
+      "rationale": "عبرانی 'کجھ وی' دا لفظ نئیں دندا، پنجابی منگدا اے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תוציא",
+      "rationale": "'کڈھنا' — 'ماس دا ٹکڑا' ہیbrew مطلب ماس دے کسے حصے نوں باہر لجانا اے۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "اک ای گھر",
+      "rationale": "پسح دا ماس اک ای گھر تک محدود — تھاں دی پیمائش۔"
+    }
+  ],
+  "translation": "اک ای گھر وِچ کھادا جاوے؛ گھر توں باہر ماس دا ⟨کوئی⟩ ٹکڑا نئیں کڈھنا تے اودے وِچ کوئی ہڈی نئیں توڑنی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bb8032791660e10bf0f99cce5005c4375d5ae7bec534cb1bc6fd28bbfb17bde0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/12\/45-48.1792096538937.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בבית",
+      "gloss": "گھر وِچ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "اک ای"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کھادا جاوے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "کڈھنا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…توں"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ماس دا ٹکڑا"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "باہر"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "تے ہڈی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "توڑنی"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اودے وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T20:35:38.938179415Z",
+  "model": "glm-5.3"
+}

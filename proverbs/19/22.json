@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 19:22",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תאות אדם חסדו",
+      "rationale": "KJV 'the desire of a man is his kindness' vs JPS 'the lust of a man is his shame' (reading חסד as an objectionable thing); Punjabi follows the positive reading with خیسِد glossed"
+    },
+    {
+      "kind": "addition",
+      "subject": "ایہہ",
+      "rationale": "Punjabi copula supplied; Hebrew juxtaposes nouns without a verb"
+    },
+    {
+      "kind": "hapax-leaning crux",
+      "subject": "חסדו",
+      "rationale": "D2 word: kept as خیسِد with a first-occurrence gloss per the discipline"
+    }
+  ],
+  "translation": "بندیے دی خواہش ⟨ایہہ⟩ اوہدا خیسِد ⟨ست کرم⟩ اے، تے غریب سیانا اے، جھوٹھے بندیے توں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f3c37f1b94bb87d26d2143964b5ddc38aba25361142ea20519786dd7e9fd4257",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/19\/21-24.1792114838955.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "خواہش"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "بندیے دی"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "اوہدا خیسِد ⟨ست کرم⟩"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "تے … سیانا اے"
+    },
+    {
+      "surface": "רש",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "… بندیے توں"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "جھوٹھے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:40:38.955699565Z",
+  "model": "glm-5.3"
+}

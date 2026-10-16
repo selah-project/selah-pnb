@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 38:20",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפשך is breath\/life-force, rendered 'جان' per Tanakh idiom"
+    },
+    {
+      "kind": "invitation",
+      "subject": "سُن نا",
+      "rationale": "Jeremiah's imperative summons the king to obey YHWH's voice — the verse's speech-act is an appeal"
+    },
+    {
+      "kind": "you",
+      "subject": "صِدقییاہو",
+      "rationale": "direct second-person appeal to King Zedekiah"
+    }
+  ],
+  "translation": "تے یِرمییاہو نے آکھیا: اوہ نئیں دِے دیونگے؛ مَیں بِنتی کردا آں، یاہوہ دی آواز سُن، جیہڑی گل مَیں تیرے نال آکھدا آں، تے تیرے نال چنگا ہووے، تے تیری جان جِیوے।",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ad864c5a764678757aef7ff12ca985729c524e187c501bc1b1ebbdbbc7b4d9b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/38\/17-20.1792108462905.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یِرمییاہو نے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "دِے دیونگے"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سُن"
+    },
+    {
+      "surface": "נא",
+      "gloss": "مَیں بِنتی کردا آں"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "دی آواز"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "جیہڑی گل"
+    },
+    {
+      "surface": "אני",
+      "gloss": "مَیں"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "آکھدا آں"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تیرے نال"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "تے چنگا ہووے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیرے نال"
+    },
+    {
+      "surface": "ותחי",
+      "gloss": "تے جِیوے"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "تیری جان"
+    }
+  ],
+  "timestamp": "2026-10-15T23:54:22.906560053Z",
+  "model": "glm-5.3"
+}

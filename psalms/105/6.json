@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 105:6",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "اَوراہام دے بیج نوں، یعقوو دے پتراں نوں",
+      "rationale": "آیت سدّا اے — خطاب کیتے گئے لوکاں دے ناں۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "بیج",
+      "rationale": "זרע دا پنجابی وِچ بیج\/نسل دوویں؛ بِج دی مورت رکھی گئی۔"
+    }
+  ],
+  "translation": "اَوراہام دا بیج، اوہدا بندہ، یعقوو دے پتر، اوہدے چُنے ہوئے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f9375e1b687a7059db0197c0fb73fffc6371e415f950beb4ed1390fbe2cc10b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/105\/5-8.1792113572225.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "بیج"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراہام"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "اوہدا بندہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پتر"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "اوہدے چُنے ہوئے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:19:32.226554890Z",
+  "model": "glm-5.3"
+}

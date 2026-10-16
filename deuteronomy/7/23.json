@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 7:23",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "והמם\/מהומה",
+      "rationale": "فعل تے اوس دا اسم اِکو جڑ توں — 'ہلچل وِچ ہلاؤنا' — پنجابی وِچ جوڑ رکھیا گیا اے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "مِٹ جاؤن",
+      "rationale": "'השמדם' — بُری طرح تباہ ہونا؛ 'مِٹنا' صورت رکھدا اے پر عبرانی دی تباہی دا بھار ہلکا کردا اے۔"
+    }
+  ],
+  "translation": "تے یاہوہ تیرا ایلوہیم اُنہاں نوں تیرے اَگے دے گا، تے اُنہاں نوں اِک وڈی ہلچل وِچ ہلا کے رکھ دے گا، اِسے تیک کہ اوہ مِٹ جاؤن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "345747a3b631f41846aa96c7e0661f4082eea9d6e197556cadfdf13c589097c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/7\/23-24.1792123527373.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "اُنہاں نوں دے گا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تیرا ایلوہیم"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "تیرے اَگے"
+    },
+    {
+      "surface": "והמם",
+      "gloss": "ہلا کے رکھ دے گا"
+    },
+    {
+      "surface": "מהומה",
+      "gloss": "ہلچل"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "وڈی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "اِسے تیک"
+    },
+    {
+      "surface": "השמדם",
+      "gloss": "اوہناں دا مِٹنا"
+    }
+  ],
+  "timestamp": "2026-10-16T04:05:27.373891512Z",
+  "model": "glm-5.3"
+}

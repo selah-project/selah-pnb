@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 13:6",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨رحمت⟩",
+      "rationale": "חסד تیر-2 لفظ اے — خیسِد رکھیا گیا، وضاحت بریکٹاں وِچ۔"
+    },
+    {
+      "kind": "alternative",
+      "subject": "یَاجیل وقت",
+      "rationale": "יגל مستقبل ('ہووےگا') یا اِشارتی ('ہو رہیا اے') — دوویں پڑھائیاں روایت وِچ نیں۔"
+    }
+  ],
+  "translation": "تے میں تیرے خیسِد ⟨رحمت⟩ اُتے بھروسہ کیتا؛ میرا دل تیری نجات وِچ خوش ہووےگا؛ میں یاہوہ لئی گیت گاؤنگا، کیونجو اوہنے میرے نال چنگا سلوک کیتا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8d6992d9832e346d4b460c428112d5d21a27533da19243a0a01d923babea4ace",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/13\/5-6.1792111906525.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "تے میں"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "تیرے خیسِد ⟨رحمت⟩ اُتے"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "بھروسہ کیتا"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "خوش ہووےگا"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "میرا دل"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "تیری نجات وِچ"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "گیت گاؤنگا"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ لئی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونجو"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "چنگا سلوک کیتا"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "میرے نال"
+    }
+  ],
+  "timestamp": "2026-10-16T00:51:46.526199123Z",
+  "model": "glm-5.3"
+}

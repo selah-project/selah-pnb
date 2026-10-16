@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 16:7",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "گُردے",
+      "rationale": "כליותی مُڈھ روپ وِچ گردے نیں، اندرلے自我的 لئی؛ ترجمے 'دل' یا 'ضمیر' کر دیندے نیں"
+    }
+  ],
+  "translation": "میں ⟨את⟩ یاہوہ نوں دھنواںگا، جیہنے مینوں صلاح دتی؛ بلکہ راتاں وِچ میرے گُردے مینوں سکھاؤندے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a9f0d1e529c35e65de466de47729a13b0b3b55bc594c731717a1207842378a8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/16\/5-8.1792111961494.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אברך",
+      "gloss": "میں دھنواںگا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہنے"
+    },
+    {
+      "surface": "יעצני",
+      "gloss": "مینوں صلاح دتی"
+    },
+    {
+      "surface": "אף",
+      "gloss": "بلکہ"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "راتاں وِچ"
+    },
+    {
+      "surface": "יסרוני",
+      "gloss": "مینوں سکھاؤندے نیں"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "میرے گُردے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:52:41.495780397Z",
+  "model": "glm-5.3"
+}

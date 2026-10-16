@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 69:20",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نیں",
+      "rationale": "عبرانی وِچ کوئی کریا نئیں، پنجابی جملے لئی لازم"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חרפתי\/ובשתי\/וכלמתי",
+      "rationale": "تن ملدے جلدے شبداں دی تِکڑی — بےعزتی، شرم، ذلت — پنجابی وِچ تِن وکھرے لفظ رکھے"
+    }
+  ],
+  "translation": "تُوں جاندا اے ⟨את⟩ میری بےعزتی تے میری شرم تے میری ذلت؛ تیرے ساہمنے میرے سارے دشمن نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3f8e360b14498f44fc187f9a703ed321c9288ca46454f43e89d958823c065436",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/69\/20-20.1792124173165.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "تُوں"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "جاندا اے"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "میری بےعزتی"
+    },
+    {
+      "surface": "ובשתי",
+      "gloss": "تے میری شرم"
+    },
+    {
+      "surface": "וכלמתי",
+      "gloss": "تے میری ذلت"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "تیرے ساہمنے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "میرے دشمن"
+    }
+  ],
+  "timestamp": "2026-10-16T04:16:13.166124758Z",
+  "model": "glm-5.3"
+}

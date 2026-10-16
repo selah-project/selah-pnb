@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 11:10",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سن",
+      "rationale": "عبرانی وِچ کریا نئیں؛ پنجابی نوں 'سن' دی لوڑ۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "על ישראל",
+      "rationale": "'یِسرائیل اتے' بنی واسطے 'یِسرائیل بارے' — یاہوہ دا بچن یِسرائیل دے حق وِچ سی، اوہدے خلاف نئیں۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "گنتی آہنیاں دی",
+      "rationale": "ایہہ لسٹ-آیت اے — ناواں دی گنتی شروع ہندی اے۔"
+    }
+  ],
+  "translation": "تے ایہہ نیں آہنیاں دے سردار جیہڑے داوِد ⟨دے⟩ سن، جیہڑے اوہدے نال اوہدی پادشاہی وِچ سارے یِسرائیل ⟨دے نال⟩ اوہنوں بادشاہ بنان لئی پکے ہوئے، یاہوہ دے بچن ⟨موجب⟩ یِسرائیل ⟨بارے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1354ac7c1c1430906e4b2bc7ab8401232cc4fa9143bf634df1cad654c1633e12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/11\/9-12.1792120578005.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "تے ایہہ نیں"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "آہنیاں دے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑے"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "داوِد ⟨دے⟩"
+    },
+    {
+      "surface": "המתחזקים",
+      "gloss": "پکے ہوئے"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "اوہدے نال"
+    },
+    {
+      "surface": "במלכותו",
+      "gloss": "اوہدی پادشاہی وِچ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "להמליכו",
+      "gloss": "اوہنوں بادشاہ بنان لئی"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "بچن ⟨موجب⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یہوہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨بارے⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-10-16T03:16:18.008163658Z",
+  "model": "glm-5.3"
+}

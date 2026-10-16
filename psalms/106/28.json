@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 106:28",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "זבחי מתים",
+      "rationale": "'مُردیاں دیاں قربانیاں' (KJV\/JPS) بمقابلہ 'بے جان دیوتاواں لئی قربانیاں' (BSB) — متیّم دا مطلب موت دے دیوتے جاں بے جان مورتیاں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "جُڑ گئے",
+      "rationale": "צמד دا مول مورت جانوراں دے جوٹ نال بنھݨ اے — بندھن دا تصوڑ"
+    }
+  ],
+  "translation": "تے اوہ بعل فغور نال جُڑ گئے، تے مُردیاں دیاں قربانیاں کھاونیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9e2c27acdd677f9603b73b40ade45a715b91d3d4e38c228eee366c54793a9204",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/106\/25-28.1792113632970.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצמדו",
+      "gloss": "تے جُڑ گئے"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "نال بعل"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "فغور"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "تے کھاونیں"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "قربانیاں"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "مُردیاں دیاں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:20:32.971748965Z",
+  "model": "glm-5.3"
+}

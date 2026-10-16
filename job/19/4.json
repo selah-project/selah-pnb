@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 19:4",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אתי",
+      "rationale": "אתי نوں ہم عصراں 'میرے نال' بجاboot עתי 'میری غلطی دے بھار' پڑھدے نیں"
+    }
+  ],
+  "translation": "تے اِیکو سچ منیے کہ میں بھُل گیا ہاں — میری بھُل ⟨את⟩ میرے نال ہی رہندی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "772b40919c30e9bed244a051291c604f7267bd8bf9a13ac44c6bc8834ba540d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/19\/1-4.1792115867992.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "تے اِیکو وی"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "سچ منیے"
+    },
+    {
+      "surface": "שגיתי",
+      "gloss": "میں بھُل گیا ہاں"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ میرے نال",
+      "marks": "میری بھُل"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "رہندی اے"
+    },
+    {
+      "surface": "משוגתי",
+      "gloss": "میری بھُل"
+    }
+  ],
+  "timestamp": "2026-10-16T01:57:47.993727478Z",
+  "model": "glm-5.3"
+}

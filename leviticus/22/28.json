@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 22:28",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "وچھڑا",
+      "rationale": "בנו جانور دا 'پُتر\/بچہ' اے — 'وچھڑا' مویشی دے بچے دا پنجابی لفظ اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "اوہدے آپ نوں",
+      "rationale": "אתו صرف نشان اے، پنجابی جملے لئی مفعول دا اشارہ دِتا گیا"
+    }
+  ],
+  "translation": "تے بلی جاں لیلا — ⟨את⟩ اوہدے آپ نوں تے ⟨את⟩ اوہدے وچھڑے نوں اِکو دن نہ مارو۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2e7d5e5d8f97a10237ced78f12a4d38cfe4bbd61fb3f714a33e82bf935f3fa73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/22\/25-28.1792097953944.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "تے بلی"
+    },
+    {
+      "surface": "או",
+      "gloss": "جاں"
+    },
+    {
+      "surface": "שה",
+      "gloss": "لیلا"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "اوہدے آپ نوں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اوہدے وچھڑے نوں"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اوہدے وچھڑے نوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשחטו",
+      "gloss": "مارو"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "اِکو"
+    }
+  ],
+  "timestamp": "2026-10-15T20:59:13.945500385Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 152,
+  "ref": "psalms 119:152",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מעדתיך",
+      "rationale": "'تیریاں گواہیاں توں' بمقابل 'تیریاں گواہیاں بارے' — عبرانی מן دوویں پاسے جاندا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "یَسَدْتَم",
+      "rationale": "بنیاد رکھن دا شکل-مطلب 'نیہہ رکھیا' رکھیا، 'مقرر کیتا' نئیں"
+    }
+  ],
+  "translation": "مُڈھ توں میں تیریاں گواہیاں نوں جاندا ⟨رہیا⟩ ہاں، کیوں جے تونے اوہناں نوں ہمیشہ لئی نیہہ رکھیا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "095bfc6b39d8c6e216e1e9ef7ab9b851811cace04c81f0bdcaa2b77d9df919ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/119\/149-152.1792113863331.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קדם",
+      "gloss": "مُڈھ توں"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "میں … جاندا ⟨رہیا⟩ ہاں"
+    },
+    {
+      "surface": "מעדתיך",
+      "gloss": "تیریاں گواہیاں نوں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جے"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشہ لئی"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "نیہہ رکھیا اے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:24:23.332291364Z",
+  "model": "glm-5.3"
+}

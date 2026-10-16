@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 5:17",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "عمر",
+      "rationale": "نسل نامے دی گنتی — مہلالایل دی کل عمر 895 سال۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "دِناں دے",
+      "rationale": "עמים literal 'دن' نیں پر عمر دے سال مطلب نیں؛ پنجابی وِچ 'دِناں دے' رکھیا۔"
+    }
+  ],
+  "translation": "تے مہلالایل دے سارے دِناں دے پنج تے نوی سال تے اٹھ سو سال ہوئے، تے اوہ مر گیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0f9fcdc27e0ea950511b726779c8c4a8c0fb853fcfea413ac52ef66ed973d7fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/5\/17-20.1792094739386.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ہوئے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "دِناں دے"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "مہلالایل"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "تے نوی"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "تے اٹھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "مر گیا"
+    }
+  ],
+  "timestamp": "2026-10-15T20:05:39.387409497Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 10:16",
+  "book": "judges",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפשו",
+      "rationale": "نَفَش 'ساہ\/جان' اے — 'جی' سب توں نیڑے، پر مُکّل 'روح' نئیں"
+    },
+    {
+      "kind": "crux",
+      "subject": "ותקצר נפשו",
+      "rationale": "'اوہدی جان گھٹّ ہوئی' — غصہ\/چِڑھ (خروج 6:9) یا دُکھ سہنا؛ ترجمیاں ونڈیاں ہوئیاں نیں"
+    }
+  ],
+  "translation": "تے اوہناں اپنے وِچوں پرائے ایلوہیم ہٹا دِتے تے یاہوہ دی سیوا کیتی ⟨את⟩، تے یِسرائیل دے دُکھ توں اوہدا جی گھٹّ گیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f95d2268d339b9a5c4c6657fa10ae58efca22ffdfb6860ae3ab264e8d37e671f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/judges\/10\/13-16.1792101616162.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "تے ہٹا دِتے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پرائے ایلوہیم"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "پرائے"
+    },
+    {
+      "surface": "מקרבם",
+      "gloss": "اپنے وِچوں"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "تے سیوا کیتی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "تے گھٹّ گیا"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "اوہدا جی"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "دے دُکھ توں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-10-15T22:00:16.163226844Z",
+  "model": "glm-5.3"
+}

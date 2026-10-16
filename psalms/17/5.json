@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 17:5",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "ٹکے رہے",
+      "rationale": "תמך دا مطلب 'سہارا دینا\/تھمّنا' اے — 'تُو نیں میرے قدم سہارے' وی پڑھیا جا سکدا اے، پر مورفالوجی (کرفع، جمع) 'میرے قدم اِکے رہے' ول ودھ اے۔"
+    }
+  ],
+  "translation": "میرے قدم تیرے رستیاں وِچ ٹکے رہے، میرے پیر نئیں لڑکے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ed42e6203a2b00f92f88a775beee1b6eda610259e05f67698391a94bdb390549",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/17\/5-8.1792111959426.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תמך",
+      "gloss": "ٹکے رہے"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "میرے قدم"
+    },
+    {
+      "surface": "במעגלותיך",
+      "gloss": "تیرے رستیاں وِچ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "نמוטו",
+      "gloss": "لڑکے"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "میرے پیر"
+    }
+  ],
+  "timestamp": "2026-10-16T00:52:39.427219833Z",
+  "model": "glm-5.3"
+}

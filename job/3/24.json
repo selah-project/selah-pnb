@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 3:24",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לפני לחמי",
+      "rationale": "'میرے کھانے توں پہلاں' (KJV) بمقابلہ 'میرے کھانے دی تھاں' (JPS) — לְ plus פָּנִים دونوں ممکن۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שאגתי",
+      "rationale": "שְׁאָגָה شیر دی دہاڑ\/گونج اے — 'دھاواں\/گونجاں'، سادہ 'رونا' نئیں۔"
+    }
+  ],
+  "translation": "کیوں جو میرے کھانے توں پہلاں میریاں ہیکھاں آؤندیاں نیں، تے میرے دھاواں پانی وانگوں وگدے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "22a88e790012bdb87235cb39bbcf7ca653f93382488a821ac417baca27629b2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/3\/21-24.1792115309865.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "توں پہلاں"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "میرے کھانے"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "میریاں ہیکھاں"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "آؤندیاں نیں"
+    },
+    {
+      "surface": "ויתכו",
+      "gloss": "وگدے نیں"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "پانی وانگوں"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "میرے دھاواں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:48:29.866066482Z",
+  "model": "glm-5.3"
+}

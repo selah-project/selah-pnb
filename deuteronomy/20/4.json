@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 20:4",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوہ اے",
+      "rationale": "عبرانی وِچ نقلی جملہ اے، پنجابی نوں حرف نسّب لوڑ اے"
+    },
+    {
+      "kind": "elision",
+      "subject": "להלחם לכם",
+      "rationale": "'تہاڈے لئی لڑن' — عبرانی دی لامتِصلی ساخت پنجابی وِچ اکھڑ جُڑی اے"
+    }
+  ],
+  "translation": "کیونکہ یاہوہ تہاڈا ایلوہیم اوہ اے جیہڑا تہاڈے نال نال چلدا اے، تہاڈے ویریاں دے خلاف تہاڈے لئی لڑن نوں، تہانوں بچاؤن لئی ⟨את⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2ba94508e25b7e333030e7181e72cd544ec4105870041f07d14ce3b4ea974a51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/20\/1-4.1792100170568.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "تہاڈا ایلوہیم"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "جیہڑا چلدا اے"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "تہاڈے نال"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "لڑن نوں"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تہاڈے لئی"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "تہاڈے ویریاں"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "بچاؤن لئی"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "تُساں"
+    }
+  ],
+  "timestamp": "2026-10-15T21:36:10.569458857Z",
+  "model": "glm-5.3"
+}

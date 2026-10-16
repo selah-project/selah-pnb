@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 34:3",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "جیویں",
+      "rationale": "عبرانی وِچ صریح simile word نئیں، مثل پنجابی وِچ واضح کرنی پئی۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "تالو",
+      "rationale": "וחך literally تالو\/مُہل اے؛ 'منہ' (mouth) وسیع تر لفظ اے۔"
+    }
+  ],
+  "translation": "کیوں جے کن بچناں نوں پرکھدا اے، جیویں تالو کھانے لئی سواد لیندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "994c08055d558a21b7a6ddc30a84df3facb2cd1b79b5ae43b42ad587d50831ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/34\/2-3.1792124298223.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جے"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "کن"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "بچناں نوں"
+    },
+    {
+      "surface": "תבחן",
+      "gloss": "پرکھدا اے"
+    },
+    {
+      "surface": "וחך",
+      "gloss": "تے تالو"
+    },
+    {
+      "surface": "יטעם",
+      "gloss": "سواد لیندا اے"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "کھانے لئی"
+    }
+  ],
+  "timestamp": "2026-10-16T04:18:18.224372240Z",
+  "model": "glm-5.3"
+}

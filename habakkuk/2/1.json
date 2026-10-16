@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 2:1",
+  "book": "habakkuk",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "مَیں خود نوں",
+      "rationale": "ואתיצבה دا reflexive روپ پنجابی وِچ صریح ضمیر منگدا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "בי",
+      "rationale": "'میرے نال'، 'میرے وِچ' یا 'میرے بارے' — ترجمے ودھیاں گل کردیاں نیں"
+    },
+    {
+      "kind": "you",
+      "subject": "حبقّوق",
+      "rationale": "نبی اپنے آپ نوں مخاطب کردا اے — چوکی اُتے کھلون دا حکم خود نوں"
+    }
+  ],
+  "translation": "مَیں اپنی چوکیدی اُتے کھلوواںگا تے مَیں خود نوں برج اُتے جمانگا، تے جھات پاواںگا ⟨تاں جو⟩ ویکھاں کہ اوہ میرے نال کیہ آکھے، تے مَیں اپنی جھڑک اُتے کیہ جواب دیواں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e9bb43088c6a26ccedc2ae0806c882cdff61045a6b946e3af7165b05ace4c4b6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/habakkuk\/2\/1-4.1792111244761.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "اپنی چوکیدی"
+    },
+    {
+      "surface": "אעמדה",
+      "gloss": "کھلوواںگا"
+    },
+    {
+      "surface": "ואתיצבה",
+      "gloss": "تے جمانگا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "برج"
+    },
+    {
+      "surface": "ואצפה",
+      "gloss": "تے جھات پاواںگا"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ویکھن لئی"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "آکھے"
+    },
+    {
+      "surface": "בי",
+      "gloss": "میرے نال"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "تے کیہ"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "جواب دیواں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "תוכחתי",
+      "gloss": "اپنی جھڑک"
+    }
+  ],
+  "timestamp": "2026-10-16T00:40:44.761877481Z",
+  "model": "glm-5.3"
+}

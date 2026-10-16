@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 22:6",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חבלי",
+      "rationale": "'رسیاں' (ylt\/jps) بمقابلہ 'دکھ' (kjr\/geneva) — جڑ دا مول مطلب اِک مروڑی رسی اے۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "קדמני",
+      "rationale": "'میرے اگے آ گئے' — لفظی 'مینوں پہلاں ملیا'؛ kjv دا 'prevented' پرانے انگریزی 'preceded' اے۔"
+    }
+  ],
+  "translation": "شیول دیاں رسیاں نے مینوں دوڑے وچ لے لیا، موت دے پھندے میرے اگے آ گئے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b65ca0144051ef5bc38f683dc73604406e7f894bd97708628f44c79ec5eee71b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/22\/5-8.1792103732285.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "رسیاں"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شیول"
+    },
+    {
+      "surface": "סבני",
+      "gloss": "مینوں دوڑے وچ لے لیا"
+    },
+    {
+      "surface": "קדמני",
+      "gloss": "میرے اگے آ گئے"
+    },
+    {
+      "surface": "מקשי",
+      "gloss": "پھندے"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت دے"
+    }
+  ],
+  "timestamp": "2026-10-15T22:35:32.286503662Z",
+  "model": "glm-5.3"
+}

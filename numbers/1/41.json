@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "numbers 1:41",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "عبرانی وِچ کوئی فعل نئیں، پنجابی جملے لئی ⟨سی⟩ پایا گیا"
+    },
+    {
+      "kind": "measurement",
+      "subject": "گنتی",
+      "rationale": "قبیلے دی لڑائی دی گنتی — 41,500"
+    }
+  ],
+  "translation": "اوہناں دی گنتی، اَشیر دے قبیلے لئی، اِک تے چالی ہزار تے پنج سے ⟨سی⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e5c56e667f78c107f8b770b795cabde573b9456d229d8e8cb176f85a4b20166a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/1\/41-44.1792098181251.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "اوہناں دی گنتی"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "قبیلے لئی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "اَشیر دے"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "اِک"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "تے چالی"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "تے پنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سے"
+    }
+  ],
+  "timestamp": "2026-10-15T21:03:01.252125128Z",
+  "model": "glm-5.3"
+}

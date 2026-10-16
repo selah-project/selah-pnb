@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 5:21",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جان اے، 'rooh' نئیں — ٹوکن دی شکل موجب"
+    },
+    {
+      "kind": "elision",
+      "subject": "מעל",
+      "rationale": "اسم חianat نوں ਅਲੱਗ ਗلاس دتا، واو توں بعد دہرایا گیا جہرا عبرانی وچ کرکٹک روپ وچ اے"
+    }
+  ],
+  "translation": "کوئی جان جدوں پاپ کرے تے یاہوہ دے خلاف خianat کرے، تے اپنے ساتھی نال جھوٹھیا ہووے — امانت دے معاملے وِچ، جاں ہتھ دے گروی دھرن وِچ، جاں لُٹ مار وِچ، جاں ⟨את⟩ اپنے ہی ساتھی نوں دباؤے —",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9edca2db6684db46ba38b3c5d8e5e9b3467923deeeaa1684db47e9e88025e986",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/5\/21-24.1792097494899.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جدوں"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "پاپ کرے"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "خianat کرے"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "خianat"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "یاہوہ دے خلاف"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "تے جھوٹھیا ہووے"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "اپنے ساتھی نال"
+    },
+    {
+      "surface": "בפקדון",
+      "gloss": "امانت وِچ"
+    },
+    {
+      "surface": "או",
+      "gloss": "جاں"
+    },
+    {
+      "surface": "בתשומת",
+      "gloss": "گروی دھرن وِچ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ہتھ دے"
+    },
+    {
+      "surface": "או",
+      "gloss": "جاں"
+    },
+    {
+      "surface": "בגזל",
+      "gloss": "لُٹ مار وِچ"
+    },
+    {
+      "surface": "או",
+      "gloss": "جاں"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "دباؤے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنے ساتھی نوں"
+    },
+    {
+      "surface": "עמיתו",
+      "gloss": "اپنے ہی ساتھی"
+    }
+  ],
+  "timestamp": "2026-10-15T20:51:34.899920469Z",
+  "model": "glm-5.3"
+}

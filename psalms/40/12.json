@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 40:12",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יצרוני",
+      "rationale": "کئی مترجم ایہنوں منگ (’راکھی کرن‘) پڑھدے نیں، کئی وعدہ (’راکھی کرنگے‘) — جمع فعل نال اکلوا بندہ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "رحمتاں",
+      "rationale": "רחמים جمع اے — پنجابی وِچ جمع رکھی گئی اے، ’ت رحمت‘ نئیں"
+    },
+    {
+      "kind": "you",
+      "subject": "یاہوہ",
+      "rationale": "سدھی اپیل یاہوہ نوں — رحمتاں نہ روکنے دی منگ"
+    }
+  ],
+  "translation": "تُوں، یاہوہ، اپنیاں رحمتاں میرے توں نئیں روکیں؛ تیرا خیسِد تے تیری سچائی ہمیشہ میں دی راکھی کرن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "91eced36a45d2fc058f527b35a65514f4e07413fbfe2c39fdaafac82224baf61",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/40\/9-12.1792112429840.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "تُوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תכלא",
+      "gloss": "روکیں"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "اپنیاں رحمتاں"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "میرے توں"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "تیرا خیسِد"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "تے تیری سچائی"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "مینوں راکھی کرن"
+    }
+  ],
+  "timestamp": "2026-10-16T01:00:29.841681446Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 135:16",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے \/ نیں",
+      "rationale": "عبرانی وِچ کوئی فعل نئیں؛ پنجابی لئی جوڑ لگیا"
+    },
+    {
+      "kind": "addition",
+      "subject": "اوہ",
+      "rationale": "فعل دا کون — عبرانی صیغہ چُکدا اے، پنجابی نوں صریح ضمیر چاہیدی اے"
+    }
+  ],
+  "translation": "مونہ اوہناں دا ⟨اے⟩ پر اوہ بولدے نئیں؛ اکھاں اوہناں دیاں ⟨نیں⟩ پر اوہ ویکھدے نئیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "21e4c846f6fcfbb12fe1c6634aaff1c736b87d3fa02af7da7038206331789f57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/135\/13-16.1792114053279.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "مونہ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اوہناں دا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "پر نئیں"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "بولدے"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "اکھاں"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اوہناں دیاں"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "پر نئیں"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ویکھدے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:27:33.280431157Z",
+  "model": "glm-5.3"
+}

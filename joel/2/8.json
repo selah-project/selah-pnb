@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joel 2:8",
+  "book": "joel",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ובעד השלח יפלו",
+      "rationale": "'برچھی اُتے ڈگدے نیں تے زخمی نئیں ہندے' (KJV) بمقابلہ 'برچھی دے وچکاروں لنگھدے نیں' (ASV\/JPS) — ٹڈیاں دی فوج دی ناقابلِ روکی لہر دوویں وچوں اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "کٹے نئیں جاندے",
+      "rationale": "יבצעו 'کٹنا\/لوٹنا' اے؛ فوج دے ٹُٹن نئیں ٹُٹن دا مطلب اے"
+    },
+    {
+      "kind": "hapax",
+      "subject": "ידחקון",
+      "rationale": "דחק 'دباؤنا\/رین٘ڈھنا' لفظ نایاب اے، فوج دے سِدھی لین دے سوچ دا نشان"
+    }
+  ],
+  "translation": "تے بندہ ⟨את⟩ اپنے بھرا نوں نئیں رین٘ڈھدا؛ ہر یودھا اپنی منزل اُتے ٹردا اے، تے برچھی دے وچکاروں ڈگدے نیں، پر کٹے نئیں جاندے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6af798d15abeb930621a55d63e9c20f8056d967729bdf5e77dec50bb75b43a78",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joel\/2\/5-8.1792110741861.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "تے بندہ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "اپنے بھرا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "ידחקון",
+      "gloss": "رین٘ڈھدا"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "یودھا"
+    },
+    {
+      "surface": "במסלתו",
+      "gloss": "اپنی منزل اُتے"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "ٹردا اے"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "تے وچکاروں"
+    },
+    {
+      "surface": "השלח",
+      "gloss": "برچھی دے"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ڈگدے نیں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יבצעו",
+      "gloss": "کٹے جاندے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:32:21.862176996Z",
+  "model": "glm-5.3"
+}

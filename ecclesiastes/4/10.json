@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ואילו",
+      "rationale": "Pointed as 'woe to him!' (interjection) or read as 'and if' — KJV takes it as woe, some as conditional; gloss follows the interjection."
+    },
+    {
+      "kind": "addition",
+      "subject": "اپنے",
+      "rationale": "חברו is 'his associate'; Punjabi possessive is carried by the compound سنگی نوں with 'اپنے' to sound natural."
+    }
+  ],
+  "translation": "کیونکہ جے اوہ ڈِگّن، اِک ⟨את⟩ اپنے سنگی نوں چُکّیگا؛ تے ہائِ اُس اِک نوں جیہڑا ڈِگیا، تے اوہنوں چُکن والا دوجا کوئی نئیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "da31e3970c32c59c4f9f012eaedb32f6b05f7cec520d2046e0f09b862f94130b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ecclesiastes\/4\/9-12.1792117354062.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ڈِگّن"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "اِک"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "چُکّیگا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنے سنگی نوں"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "اپنے سنگی"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "تے ہائِ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "اُس اِک"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "جے ڈِگیا"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "تے کوئی نئیں"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دوجا"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "اوہنوں چُکن لئی"
+    }
+  ],
+  "timestamp": "2026-10-16T02:22:34.063351600Z",
+  "model": "glm-5.3"
+}

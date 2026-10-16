@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 24:9",
+  "book": "joshua",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתכם",
+      "rationale": "מקור רבות האמת האמת של מקור — אֵת צירוף האמת של מקור — زائد ضمير؛ صرف نشان ⟨את⟩ رکھیا، نشان تُساڈے مونہوں اُتے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "کہ",
+      "rationale": "عبرانی وِچ کوئی مگر نئیں؛ پنجابی جملہ بلان والے مقصد لئی منگدا اے۔"
+    }
+  ],
+  "translation": "تے بلق بن صِپور، موآب دا بادشاہ، اُٹھیا تے یِسرائیل نال لڑیا، تے اوہنے بھیج کے بلعام بن بِعور نوں بلایا کہ ⟨את⟩ تُساڈے مونہوں لعنت کرے،",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "30f94f1314f824cfcb009c2b3c162da3cdf9baa668e0c621cbc524d409a5dda0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joshua\/24\/9-12.1792101285991.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "اُٹھیا"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بلق"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "صِپور"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "تے لڑیا"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "یِسرائیل نال"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "تے اوہنے بھیجیا"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "تے بلایا"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "بلعام نوں"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "بِعور"
+    },
+    {
+      "surface": "לקלל",
+      "gloss": "لعنت کرن لئی"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "تُساڈے مونہوں"
+    }
+  ],
+  "timestamp": "2026-10-15T21:54:45.991661117Z",
+  "model": "glm-5.3"
+}

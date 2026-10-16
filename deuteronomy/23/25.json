@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 23:25",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨کجھ⟩",
+      "rationale": "عبرانی وِچ مفعول لکھیا نئیں، پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جان-بل اے، پنجابی وِچ جان سبھ توں نیڑے"
+    }
+  ],
+  "translation": "جد تُوں اپنے یار دے انگوریں وِچ آوےں، تے انگوراں نوں اپنی جان دے مطابق، اپنی رجھیے تک کھاوےں، پر اپنے برتناں وِچ ⟨کجھ⟩ نہ دے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "46e2fc80679570dcdf66269e774d7577a2fdb49e2dfdec9b72811722e975a34d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/23\/25-26.1792100250150.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "جد"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "تُوں آوےں"
+    },
+    {
+      "surface": "בכרם",
+      "gloss": "انگوریں وِچ"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "اپنے یار دے"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "تے کھاوےں"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "انگوراں نوں"
+    },
+    {
+      "surface": "כנפשך",
+      "gloss": "اپنی جان دے مطابق"
+    },
+    {
+      "surface": "שבעך",
+      "gloss": "اپنی رجھیے تک"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "پر … وِچ"
+    },
+    {
+      "surface": "כליך",
+      "gloss": "اپنے برتناں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "دے"
+    }
+  ],
+  "timestamp": "2026-10-15T21:37:30.150515890Z",
+  "model": "glm-5.3"
+}

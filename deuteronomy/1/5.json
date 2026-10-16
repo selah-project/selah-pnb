@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 1:5",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "באר",
+      "rationale": "جڑ دا مطلب 'پٹنا\/کھودنا' اے، ایتھے 'واضح کرنا' — تصویر وِچ گواچیا۔"
+    },
+    {
+      "kind": "alternative",
+      "subject": "הואיל",
+      "rationale": "جے‌پی‌ایس 'took upon him' — بجا لیانا\/کنارہ کرنا وی ممکن پڑھائی اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨کہ⟩",
+      "rationale": "لאמר لئی پنجابی جوڑ دی لوڑ۔"
+    }
+  ],
+  "translation": "یردن دے اُس پارے، موآب دی زمین وِچ، موشے نے ایہہ ⟨את⟩ تورات واضح کرنی شروع کیتی، آکھدا ہویا ⟨کہ⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6cbea38baab9e355a66f9608be1dc17758851a010cac64339a0fde3cdba167dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/1\/5-8.1792099540904.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעבר",
+      "gloss": "دے اُس پارے"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "یردن"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "دی زمین وِچ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "شروع کیتی"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے نے"
+    },
+    {
+      "surface": "באר",
+      "gloss": "واضح کرنی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایہہ تورات"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "تورات"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھدا ہویا ⟨کہ⟩"
+    }
+  ],
+  "timestamp": "2026-10-15T21:25:40.905636374Z",
+  "model": "glm-5.3"
+}

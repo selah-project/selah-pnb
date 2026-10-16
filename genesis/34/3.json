@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 34:3",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جیون-زور اے، پنجابی 'جان' سبھ توں نیڑے اے"
+    },
+    {
+      "kind": "idiom",
+      "subject": "دل نوں ملائی گل کیتی",
+      "rationale": "על לב הנער اِدiom اے — نرمی نال، دل تسکین لئی گل"
+    }
+  ],
+  "translation": "تے اوہدی جان یعقوو دی دھی دِیناہ نال چِمبھ گئی، تے اوہنوں نَعچی پیار کیتا ⟨את⟩، تے نَعچی دے دل نوں ملائی گل کیتی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "394e63d6f5812f345cd4a5b436117fb78bb9c97d402da53e1cc85f04f7c0cbfb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/34\/1-4.1792095620124.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותדבק",
+      "gloss": "چِمبھ گئی"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "اوہدی جان"
+    },
+    {
+      "surface": "בדינה",
+      "gloss": "دِیناہ نال"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دھی"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو دی"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "پیار کیتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نَعچی نوں"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "نَعچی"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "گل کیتی"
+    },
+    {
+      "surface": "על",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "نَعچی دے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:20:20.125238259Z",
+  "model": "glm-5.3"
+}

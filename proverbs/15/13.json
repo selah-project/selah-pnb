@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 15:13",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עצבת",
+      "rationale": "lemma اک وار مورت تے اک وار دکھ دونا؛ ایتھے 'ارمان' (دکھ) لیا، ویکھن والیاں دا کھیتر"
+    },
+    {
+      "kind": "substitution",
+      "subject": "רוח",
+      "rationale": "روح — ساہ\/ہوا دا مطلب وی، اک پکا لفظ چُنیا"
+    }
+  ],
+  "translation": "خوش دل مونہہ سوہنجا کردا اے، پر دل دے ارمان نال روح کُٹی ہوئی ہندی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "096826e76ce652f65dd270adddec3aa85bf9fb6dcb4d683f10abe207de8b1aef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/15\/13-16.1792114724653.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "خوش"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "سوہنجا کردا اے"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "مونہہ"
+    },
+    {
+      "surface": "ובעצבת",
+      "gloss": "پر ارمان نال"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل دے"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "נכאה",
+      "gloss": "کُٹی ہوئی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:38:44.653506516Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 11:19",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ہو",
+      "rationale": "بول چال دے تاں دوجے شخص دے صیغے دی سِدھی مخاطب صورت اے؛ اِبراوی جمع اے پر سیاق دی مخاطبت اِکو رکھی اے۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בשבתך…ובקומך",
+      "rationale": "چار وار 'جدوں تُسیں…' دی کندھ — دن رات دی ساری زندگی، سُر دا دہراؤ۔"
+    },
+    {
+      "kind": "you",
+      "subject": "تُسیں",
+      "rationale": "سِکھاؤن دا حکم گھر والیاں نوں سِدھا۔"
+    }
+  ],
+  "translation": "تے تُسیں ⟨את⟩ اوہناں نوں ⟨את⟩ اپنی اولاد نوں سکھاؤ، اوہناں وِچ بولدے ہوئے — جدوں تُسیں اپنے گھر وِچ بیٹھدے ہو، تے رستے وِچ ٹُردے ہو، تے لیٹدے ہو تے اُٹھدے ہو۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bf9d61cdcc33eb40cbcedb8fcff71a0bfb4b7a78d261f4da31f7e3eb3c487429",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/11\/17-20.1792099867981.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולמדתם",
+      "gloss": "تے سکھاؤ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ایہہ بچن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنی اولاد"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "اپنی اولاد"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "بولدے ہوئے"
+    },
+    {
+      "surface": "בם",
+      "gloss": "اوہناں وِچ"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "بیٹھدے ہو"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "اپنے گھر وِچ"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "تے ٹُردے ہو"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "رستے وِچ"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "تے لیٹدے ہو"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "تے اُٹھدے ہو"
+    }
+  ],
+  "timestamp": "2026-10-15T21:31:07.982269018Z",
+  "model": "glm-5.3"
+}

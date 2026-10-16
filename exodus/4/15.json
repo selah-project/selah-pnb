@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 4:15",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתכם",
+      "rationale": "ایہہ ਢکدا ہویا مفعول نشان اے — جوڑ وِچ 'تہانوں' دتا، مگر نشان ⟨את⟩ دے ٹبر نال رکھیا۔"
+    },
+    {
+      "kind": "you",
+      "subject": "یاہوہ دا موئے نوں",
+      "rationale": "حکم تے وعدہ سدھے موئے نوں۔"
+    }
+  ],
+  "translation": "تے تُوں اوہدے نال بولیں تے گلاں اوہدے مُنہ وِچ رکھیں، تے میں تیرے مُنہ نال تے اوہدے مُنہ نال ہوندا، تے تہانوں اوہ ⟨את⟩ سکھاواںگا جو ⟨את⟩ تُسوں کرو۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ef75abb86a03e077d6beb646f0b6e32d2fdc52f70a0ed385d305cfd5933bfda9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/4\/13-16.1792096228436.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "تے تُوں بولیں"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اوہدے نال"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "تے تُوں رکھیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گلاں"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "گلاں"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "اوہدے مُنہ وِچ"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "تے میں"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ہوندا"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "تیرے مُنہ"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "تے نال"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "اوہدے مُنہ"
+    },
+    {
+      "surface": "והוריתי",
+      "gloss": "تے میں سکھاواںگا"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "تہانوں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "تُسوں کرو"
+    }
+  ],
+  "timestamp": "2026-10-15T20:30:28.437123436Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 21:2",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ہووے⟩",
+      "rationale": "وתהی فعل اے پر پنجابی جملے لئی واضح کرنا پیندا اے کہ ایہہ تُہاڈیاں تسکّیاں ہووے"
+    },
+    {
+      "kind": "crux",
+      "subject": "تُہاڈیاں تسکّیاں",
+      "rationale": "کجھ مترجم 'میری تسکّی' پڑھدے نیں (bsb) پر عبرانی صیغہ 'تُہاڈیاں' ای اے"
+    },
+    {
+      "kind": "invitation",
+      "subject": "ایوب دے متراں نوں",
+      "rationale": "سُنو — حکم نال سُنن دا سدا"
+    }
+  ],
+  "translation": "چنگی طرح سُنو میرے بچن، تے ایہہ تُہاڈیاں تسکّیاں ⟨ہووے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e4a90d053c3df915d9ee3923b19382cfb4e0869d708c18c9c42a2c8702ce4a3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/21\/2-3.1792124298420.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "سُنو"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "چنگی طرح"
+    },
+    {
+      "surface": "מלתי",
+      "gloss": "میرے بچن"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "تے ہووے"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "תנחומתיכם",
+      "gloss": "تُہاڈیاں تسکّیاں"
+    }
+  ],
+  "timestamp": "2026-10-16T04:18:18.420677987Z",
+  "model": "glm-5.3"
+}

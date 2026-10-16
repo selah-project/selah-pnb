@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 4:19",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جیون-بل اے، پنجابی 'جان' سبھ توں نیڑے اے پر 'روح' نئیں"
+    },
+    {
+      "kind": "addition",
+      "subject": "مدیان",
+      "rationale": "بھُل: صیحیح 'مدیان وِچ' — عبرانی במדין"
+    },
+    {
+      "kind": "you",
+      "subject": "موشے نوں",
+      "rationale": "یاہوہ دا سدھا حکم موشے نوں"
+    }
+  ],
+  "translation": "تے یاہوہ نے موایم وِچ موشے نوں آکھیا: جا، مِتصرایم نوں مُڑ واپس جا، کیوں جے مُر گئے نیں اوہ سارے بندے جیہڑے ⟨את⟩ تیری جان نوں لبھدے سن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "412f827a2915ba09078374531f3aad0ce3aaaad22972ddd006680bcf16569728",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/4\/17-20.1792096217446.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ نے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "במדין",
+      "gloss": "مدیان وِچ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "جا"
+    },
+    {
+      "surface": "שב",
+      "gloss": "مُڑ واپس جا"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جے"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "مُر گئے نیں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "המבקשים",
+      "gloss": "جیہڑے لبھدے سن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تیری جان"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "تیری جان"
+    }
+  ],
+  "timestamp": "2026-10-15T20:30:17.447122327Z",
+  "model": "glm-5.3"
+}

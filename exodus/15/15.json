@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 15:15",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אלופי\/אילי",
+      "rationale": "دو وکھرے جڑ — بجّ بݨاؤݨ والے الفاظ — اِکو تال وِچ، اُچ جھک دا سلسلہ"
+    },
+    {
+      "kind": "alternative",
+      "subject": "سورمے",
+      "rationale": "אילי ایل ਦا جمع اے — 'مینڈھے\/سورمے' دوویں سمبھال سکدے نیں"
+    }
+  ],
+  "translation": "اِیں ادوم دے سردار گھبرا گئے؛ موآب دے سورمےآں نوں کانب نے پکڑیا؛ کنعان دے سبھ وسنیک پِگھل گئے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5d5880446f42d199b77501d752a853253a71a0302e165e3d0d32c31637ba0d42",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/15\/13-16.1792096493565.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "اِیں"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "گھبرا گئے"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ادوم"
+    },
+    {
+      "surface": "אילי",
+      "gloss": "سورمے"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "יאחזמו",
+      "gloss": "نوں پکڑیا"
+    },
+    {
+      "surface": "רעד",
+      "gloss": "کانب"
+    },
+    {
+      "surface": "נמגו",
+      "gloss": "پِگھل گئے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سبھ"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "وسنیک"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کنعان"
+    }
+  ],
+  "timestamp": "2026-10-15T20:34:53.566738146Z",
+  "model": "glm-5.3"
+}

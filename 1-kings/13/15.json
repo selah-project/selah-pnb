@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "لך אתי",
+      "rationale": "حکم-بُلاوا: 'میرے نال چل' — پر غلط نیت نال، آیت 16 وِچ ایہو بُلاوا ٹھکایا جاندا اے۔"
+    }
+  ],
+  "translation": "تے اوہنے اوہنوں آکھیا: میرے نال ⟨את⟩ چل، گھر وَل، تے روٹی کھا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c4e5f6c754fd64b5bd21bc3c9075610c4185ac95633862d863ad3869e7d0d497",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/13\/13-16.1792104430487.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے اوہنے آکھیا"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اوہنوں"
+    },
+    {
+      "surface": "לך",
+      "gloss": "چل"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ میرے نال"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "گھر وَل"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "تے کھا"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "روٹی"
+    }
+  ],
+  "timestamp": "2026-10-15T22:47:10.488097940Z",
+  "model": "glm-5.3"
+}

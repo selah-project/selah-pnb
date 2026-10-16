@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 55:8",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ہیں",
+      "rationale": "عبرانی وِچ کوئی فعل ربط نئیں، پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מחשבות\/מחשבותיכם · דרכיכם\/דרכי",
+      "rationale": "چیاسٹک وٹاندرا — سوچاں، سوچاں، راہ، راہ — مکالمے دا وزن"
+    },
+    {
+      "kind": "you",
+      "subject": "تُہاڈیاں",
+      "rationale": "یاہوہ دا سدّا خطاب قوم نوں"
+    }
+  ],
+  "translation": "کیوں جو میریاں سوچاں تُہاڈیاں سوچاں نئیں، تے تُہاڈے راہ میرے راہ نئیں، یاہوہ آکھدا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "548386cd27fa79e6cd8810a45deef290cb37cabba9f67297abad98f98de84797",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/55\/5-8.1792106923450.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "מחשבותי",
+      "gloss": "میریاں سوچاں"
+    },
+    {
+      "surface": "מחשבותיכם",
+      "gloss": "تُہاڈیاں سوچاں"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "تُہاڈے راہ"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "میرے راہ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "آکھدا اے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-10-15T23:28:43.451330850Z",
+  "model": "glm-5.3"
+}

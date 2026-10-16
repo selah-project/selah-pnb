@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 13:2",
+  "book": "hosea",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "זבחי אדם",
+      "rationale": "'Sacrificers of men': KJV\/ASV read 'men who sacrifice [to calves]'; JPS\/BSB read 'they sacrifice men (human victims)'. Punjabi follows the human-sacrifice reading but the syntax allows both."
+    },
+    {
+      "kind": "crux",
+      "subject": "כתבונם",
+      "rationale": "Rare word; rendered 'their own understanding' (KJV), but JPS reads it with what follows — 'according to their understanding, idols' — shaping the phrase differently."
+    },
+    {
+      "kind": "addition",
+      "subject": "چُمن دیو",
+      "rationale": "Imperative 'let them kiss' — Punjabi jussive 'chuman deo' supplies the hortative sense."
+    }
+  ],
+  "translation": "تے ہُن اوہ گناہ وِچ ہور وَدھدے نیں، تے اپنی چاندی توں اپنے لئی سُن٘ڑی مورت بناندے نیں، اپنی سمجھ دے مُطابق بت — سبھ صنعتگراں دا کم اے — اوہناں بارے آکھدے نیں: قربانی دین والے آدمیاں نوں، وَچھیاں نوں چُمن دیو۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ca0f4fb742851dcb93bd5d93f75845bdc4db3cb12b255e8bf482080710e96783",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/hosea\/13\/1-4.1792110630242.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "تے ہُن"
+    },
+    {
+      "surface": "יוספו",
+      "gloss": "اوہ وَدھدے نیں"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "گناہ وِچ"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "تے بناندے نیں"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اپنے لئی"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "سُن٘ڑی مورت"
+    },
+    {
+      "surface": "מכספם",
+      "gloss": "اپنی چاندی توں"
+    },
+    {
+      "surface": "כתבונם",
+      "gloss": "اپنی سمجھ دے مُطابق"
+    },
+    {
+      "surface": "עצבים",
+      "gloss": "بت"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کم"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "صنعتگراں دا"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "سبھ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اوہناں لئی"
+    },
+    {
+      "surface": "הם",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "آکھدے نیں"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "قربانی دین والے"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمیاں نوں"
+    },
+    {
+      "surface": "עגלים",
+      "gloss": "وَچھیاں نوں"
+    },
+    {
+      "surface": "ישקון",
+      "gloss": "چُمن دیو"
+    }
+  ],
+  "timestamp": "2026-10-16T00:30:30.243478732Z",
+  "model": "glm-5.3"
+}

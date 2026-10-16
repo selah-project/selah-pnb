@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 12:2",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ہے \/ اے",
+      "rationale": "عبرانی جملے 'ایل میری مُکتی' تے 'یاہ یاہوہ میری طاقت' وچ کوئی کپلا نئیں؛ پنجابی حالت دا فعل ⟨⟩ وچ پایا گیا"
+    },
+    {
+      "kind": "crux",
+      "subject": "וזמרת",
+      "rationale": "'گیت\/جھنڈا' — کجھ مترجم 'زور\/طاقت' پڑھدے نیں؛ ساموئیل 2:22 نال رلدا اے جِتھے 'سر' وی آیا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישועתי \/ לישועה",
+      "rationale": "ایتھے 'مُکتی' دا دُہراؤ اے — مُکتی ایل دے طور تے تے فیر یاہوہ دے طور تے؛ عبارت دی موڑ اے"
+    }
+  ],
+  "translation": "ویکھو، ایل ⟨ہے⟩ میری مُکتی؛ میں بھروسہ کراں گا تے نئیں ڈراں گا، کیونجے میری طاقت تے میرا گیت یاہ یاہوہ ⟨اے⟩، تے اوہ مینوں مُکتی بن گیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7b11a1770a91e83a3b027b120f03b4a3702eec15948219e84aca02524f2b22ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/12\/1-4.1792105993480.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ویکھو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "میری مُکتی"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "میں بھروسہ کراں گا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "אפחד",
+      "gloss": "ڈراں گا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "میری طاقت"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "تے میرا گیت"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "تے اوہ بن گیا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مینوں"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "مُکتی"
+    }
+  ],
+  "timestamp": "2026-10-15T23:13:13.480878236Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 8:5",
+  "book": "zechariah",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نال",
+      "rationale": "پنجابی 'بھر جانا' کریا بالّے نوں اپنے نال پیشہ کرم منگدا اے؛ عبرانی وِچ صرف بھرنا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רחובות … ברחובתיה",
+      "rationale": "آیت دے شروع تے انت اکو لفظ میدان نال جُڑی اے — فریم ورگی دہرائی"
+    }
+  ],
+  "translation": "تے شہر دے میدان بھر جانگے بالّیاں تے کُڑیاں ⟨نال⟩، کھیڈدے ہوئے اوہدے میداناں وِچ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4967755a8a5f6e8ba99036ed58ce58e694133e199acbb772b9db3e37b1150d02",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/zechariah\/8\/5-8.1792111581483.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורחובות",
+      "gloss": "تے میدان"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر دے"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "بھر جانگے"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "بالّیاں"
+    },
+    {
+      "surface": "וילדות",
+      "gloss": "تے کُڑیاں"
+    },
+    {
+      "surface": "משחקים",
+      "gloss": "کھیڈدے ہوئے"
+    },
+    {
+      "surface": "ברחבתיה",
+      "gloss": "اوہدے میداناں وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T00:46:21.484233263Z",
+  "model": "glm-5.3"
+}

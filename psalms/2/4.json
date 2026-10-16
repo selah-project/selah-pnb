@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 2:4",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "جو … اوہ",
+      "rationale": "عبرانی وِچ participates phrase ای اے، پنجابی نوں نسبتی جوڑے دی لوڑ سی"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישחק\/ילעג",
+      "rationale": "ہسنا تے مذاق اُڑانا — لازم دا جوڑا، ہسے دا پھیل کے تے لَعگ دا مُک کے"
+    }
+  ],
+  "translation": "جو اسماناں وِچ بیٹھا اے اوہ ہسے گا، ادونای اوہناں دا مذاق اُڑائے گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "da8a75b40a107b51d77aecac28add6566eac14ccbded1c29b7ae567704b28035",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/2\/1-4.1792111834234.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יושב",
+      "gloss": "بیٹھا اے"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "اسماناں وِچ"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "ہسے گا"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "مذاق اُڑائے گا"
+    },
+    {
+      "surface": "למו",
+      "gloss": "اوہناں دا"
+    }
+  ],
+  "timestamp": "2026-10-16T00:50:34.234977700Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 14:42",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨پُرا⟩",
+      "rationale": "עברית صرف 'ڈھاہو' آکھدی اے؛ 'پُرا' اگلی آیت دے سیاق توں آیا اے"
+    }
+  ],
+  "translation": "تے شاؤل نے آکھیا: میرے تے میرے پُتر یوناتان وِچکار ⟨پُرا⟩ ڈھاہو۔ تے یوناتان پھس گیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "745f2edae157a4d613e01392984c861b0081eecd34e2fac454afc55ddfe44954",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/14\/41-44.1792102517863.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "שאוײ",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "הפילו",
+      "gloss": "ڈھاہو"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "میرے وِچکار"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "تے … وِچکار"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "یوناتان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "میرے پُتر"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "تے پھس گیا"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "یوناتان"
+    }
+  ],
+  "timestamp": "2026-10-15T22:15:17.864831715Z",
+  "model": "glm-5.3"
+}

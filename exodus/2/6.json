@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 2:6",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "دل پِگھلیا",
+      "rationale": "חמל دا مطلب ’ترس کھانا، بخش دینا‘ اے؛ ’دل پِگھلیا‘ پنجابی دا سُچجا رستہ اے، سخت لفظی نئیں۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "سی \/ اے",
+      "rationale": "عبرانی جملے وِچ کوپلا نئیں؛ پنجابی فعل مکمل کرن لئی ⟨⟩ وِچ دتے نیں۔"
+    },
+    {
+      "kind": "you",
+      "subject": "پِعرعوہ دی دھی",
+      "rationale": "آیت دا آخری جملہ اوہدی اپنی سوچ دا بول اے — ’ایہہ عِبریاں دی اولاد وِچوں اے‘۔"
+    }
+  ],
+  "translation": "تے اوہنے ⟨את⟩ کھولھیا تے ⟨את⟩ بال نوں ویکھیا، تے ویکھو — نِکّا بال روِندا پیا ⟨سی⟩، تے اوہدے اُتے اوہدا دل پِگھلیا، تے اوہنے آکھیا: ایہہ عِبریاں دیاں اولاداں وِچوں ⟨اے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8eee566e5f8f23e3b1a4dcb351a140b6581aa29c78e4363d985e073f2e6763e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/2\/5-8.1792096162637.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "کھولھیا"
+    },
+    {
+      "surface": "وתראהו",
+      "gloss": "اوہنوں ویکھیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہنوں (کھولھیا)"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "بال"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ویکھو"
+    },
+    {
+      "surface": "נער",
+      "gloss": "نِکّا بال"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "روِندا"
+    },
+    {
+      "surface": "ותחמל",
+      "gloss": "دل پِگھلیا"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اوہدے اُتے"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "מילדי",
+      "gloss": "اولاداں وِچوں"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "عِبری"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہہ"
+    }
+  ],
+  "timestamp": "2026-10-15T20:29:22.638661917Z",
+  "model": "glm-5.3"
+}

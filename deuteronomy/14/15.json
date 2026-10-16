@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 14:15",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בת היענה",
+      "rationale": "'شترمرغ دی دھی' — عبرانی پنچھی دے ناں لئی 'دھی' بولدا اے؛ پنجابی وِچ اوہی مورت رکھی۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "התחמס",
+      "rationale": "پہچان پکی نئیں — 'تشارا الو'، 'رات دا شکاری' تے الو آکھیاں جاندیاں نیں۔"
+    }
+  ],
+  "translation": "تے ⟨את⟩ شترمرغ دی دھی، تے ⟨את⟩ الو، تے ⟨את⟩ سمندری گل، تے ⟨את⟩ باز اپنی قسم دے مطابق۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f5d836106688e4b60f37766d428d2e754de45d182a38bd9c71a090c89893bada",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/14\/13-16.1792099942029.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "شترمرغ دی دھی"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دھی"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "شترمرغ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "الو"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "الو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "سمندری گل"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "سمندری گل"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "باز"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "باز"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "اپنی قسم دے مطابق"
+    }
+  ],
+  "timestamp": "2026-10-15T21:32:22.030686906Z",
+  "model": "glm-5.3"
+}

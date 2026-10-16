@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 22:21",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אפתנו",
+      "rationale": "פתה دا مطلب اے پھسلانا\/پرچانا — 'پھسلاندا آں'؛ کجھ مترجم 'دھوکھا دینا' لکھدے نیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הרוח",
+      "rationale": "روح — عبرانی روح دا مطلب ساہ\/واء وی اے؛ ایتھے سوچی ہوئی ہستی دا روح"
+    }
+  ],
+  "translation": "تے اوہ روح نِکلیا تے یاہوہ دے ساہمنے کھلوتیا تے آکھیا: میں ⟨اوہنوں⟩ پھسلاندا آں۔ تے یاہوہ نے اوہدے توں ⟨پُچھیا⟩: کِس ⟨چیز⟩ نال؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e2f327823bf68f5ccf51c5ee885339f4404fd0ea69b2de88e2f1f681a343bc6f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/22\/21-24.1792104888404.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "تے نِکلیا"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "اوہ روح"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "تے کھلوتیا"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ساہمنے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "אפתנו",
+      "gloss": "پھسلاندا آں"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اوہدے توں"
+    },
+    {
+      "surface": "במה",
+      "gloss": "کِس نال"
+    }
+  ],
+  "timestamp": "2026-10-15T22:54:48.405208863Z",
+  "model": "glm-5.3"
+}

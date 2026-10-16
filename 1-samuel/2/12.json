@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 2:12",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "بے-قیمت",
+      "rationale": "בליעל = 'بِنا فائدہ\/بے-قیمت' — کجھ 'بے-دین' تے 'شیطان' (مگروں دا) کردے نیں؛ ایتھے ناں نئیں، صفت اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "سُنجانیا",
+      "rationale": "ידעו 'جاننا' — رشتے دار جاننا، صرف خبر نئیں؛ پنجابی 'سُنجاننا' اوہدے نیڑے اے"
+    }
+  ],
+  "translation": "تے عِلی دے پُتر بے-قیمت دے پُتر سن، اوہناں نے ⟨את⟩ یاہوہ ⟨دی⟩ نئیں سُنجانیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c7772cce911e9becb4225e1edb4745d07b5bb38d314a26c6d8c2ff0ec9f551a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/2\/9-12.1792102118107.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "تے … پُتر"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "عِلی دے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "بے-قیمت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "سُنجانیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-10-15T22:08:38.108709086Z",
+  "model": "glm-5.3"
+}

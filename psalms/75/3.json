@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 75,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אקח מועד",
+      "rationale": "'میں مقررہ ویلہ لاواں' — KJV 'میں جماعت لواں'، JPS 'میں اَوج دا ویلہ لاواں'۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "آپ",
+      "rationale": "אני دی زور دار تھاں پنجابی وِچ 'آپ' نال ساہمنے آؤندی اے۔"
+    }
+  ],
+  "translation": "کیونجہ جدوں میں مقررہ ویلہ لاواں، میں ⟨آپ⟩ سِدھی مِیسر نال فیصلہ کراں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b03b27197604dfb3d511b421df87fa378d82451e20f94e732280864af02e7751",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/75\/1-4.1792113028354.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "میں لاواں گا"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "مقررہ ویلہ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں ⟨آپ⟩"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "سِدھی مِیسر نال"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "فیصلہ کراں گا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:10:28.354914701Z",
+  "model": "glm-5.3"
+}

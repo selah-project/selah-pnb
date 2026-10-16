@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 2:3",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לעשות",
+      "rationale": "'ברא ... לעשות' — 'بنائی کہ بناؤنی سی' جاں صرف 'بنائی'; مکمل فارم رکھیا، وادھو لفظ ⟨⟩ وِچ۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "اوہنوں",
+      "rationale": "عبرانی صرف אתو نشان اے؛ پنجابی نوں ضمیر چائیدی اے۔"
+    }
+  ],
+  "translation": "تے ایلوہیم نے ⟨את⟩ ساتویں دن نوں برکت دتی تے ⟨אתו⟩ اوہنوں پاک کیتا، کیوں جے اوہدے وِچ اوہ ساری اپنی کمائی توں شبّات کر چکیا سی — جیہڑی ایلوہیم نے بنائی سی ⟨کہ بناؤنی سی⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4688a214814e6faf16e06de662c425923511e9910f5954edf20bfb1906ef3bf1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/2\/1-4.1792094723954.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "تے برکت دتی"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ساتویں دن نوں"
+    },
+    {
+      "surface": "יום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ساتویں"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "تے پاک کیتا"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "اوہنوں (ساتویں دن)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جے"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوہدے وِچ"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "شبّات کر چکیا سی"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ساری توں"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "اپنی کمائی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "بنائی سی"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم نے"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "⟨کہ بناؤنی سی⟩"
+    }
+  ],
+  "timestamp": "2026-10-15T20:05:23.955890415Z",
+  "model": "glm-5.3"
+}

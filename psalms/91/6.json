@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 91:6",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מקטב",
+      "rationale": "ایہ لفظ تنخ وچ صرف ایتھے آندا اے — 'تباہی\/بربادی' دا مطلب جڑ شד توں لیا گیا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "نہ … نہ",
+      "rationale": "پنجابی جوڑ لئی پچھلی آیت دے 'نہ' نوں دہرایا گیا، عبرانی وچ ایہ جاری اے"
+    }
+  ],
+  "translation": "نہ اس طاعون توں جو ہنیرے وچ ٹردا اے، نہ اس تباہی توں جو دوپہر نوں لُٹدی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "82c889abb6220a00396e68e83043cf48610b5411a0092f94e088d667499849bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/91\/5-8.1792113391312.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "طاعون"
+    },
+    {
+      "surface": "באפל",
+      "gloss": "ہنیرے وچ"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "ٹردا اے"
+    },
+    {
+      "surface": "מקטב",
+      "gloss": "تباہی"
+    },
+    {
+      "surface": "ישוד",
+      "gloss": "لُٹدی اے"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "دوپہر نوں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:16:31.313961553Z",
+  "model": "glm-5.3"
+}

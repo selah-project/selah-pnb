@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "چربی",
+      "rationale": "חלבMO 'اوہناں دی چربی' — کجھ ترجمے 'موت دا دل' کر دے نیں؛ ٹوکن س literally چربی اے۔"
+    }
+  ],
+  "translation": "اوہناں دی چربی ⟨نے⟩ ⟨اوہناں نوں⟩ بند کیتا؛ اوہناں دا مُنہ اکڑ وِچ بولدا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1051d1864eb3c2253e73aeb6880d5cfcb51971bf845197d87d89482d38a35f2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/17\/9-12.1792111915600.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "اوہناں دی چربی"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "بند کر دتا"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "اوہناں دا مُنہ"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "بولدا اے"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "اکڑ وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T00:51:55.601124820Z",
+  "model": "glm-5.3"
+}

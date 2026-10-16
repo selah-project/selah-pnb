@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 1:4",
+  "book": "2-chronicles",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨تھاں⟩",
+      "rationale": "عبرانی وِچ 'بہیکن لو' صرف 'تیار کیتا' اے — کیہ تیار کیتا، اوہ.context توں؛ پنجابی نوں 'تھاں' چاہیدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ארון",
+      "rationale": "'صندوق' — ڈبہ، عہد دا صندوق؛ 'تابوت' رد اے (D2)"
+    }
+  ],
+  "translation": "پر ایلوہیم دا صندوق، جیہڑا داوِد نے قریت یعاریم توں چکیڑیا سی، داوِد نے اوہدے لئی ⟨تھاں⟩ تیار کیتا سی، کیونجے اوہنے یروشلایم وِچ اوہدے لئی اِک خیمہ کھڑا کیتا سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "74a559d3fb215ed5566435f912a8be0f953b235e04da055d2384f22a2279d1ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/1\/1-4.1792121500754.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم دا"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "چکیڑیا سی"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد نے"
+    },
+    {
+      "surface": "מקרית",
+      "gloss": "قریت"
+    },
+    {
+      "surface": "יעرים",
+      "gloss": "یعاریم توں"
+    },
+    {
+      "surface": "בהכין",
+      "gloss": "تیار کیتا سی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدے لئی"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد نے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "کھڑا کیتا سی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدے لئی"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمہ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "یروشلایم وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T03:31:40.755395506Z",
+  "model": "glm-5.3"
+}

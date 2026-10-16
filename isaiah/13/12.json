@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 13:12",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אוקיר",
+      "rationale": "'مہنگا\/قیمتی بناواں' (geneva\/kjv) بمقابلہ 'گھٹ\/دُرلبھ بناواں' (jps\/bsb) — سیاق مُکان دی تباہی دا اے"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מכתם",
+      "rationale": "ایتھے 'سونا' دے نال — تنخ وِچ مزموراں دے سرناویاں وِچ وی آؤندا اے، مطلب متنازع"
+    }
+  ],
+  "translation": "میں بندے نوں خالص سونے توں تے انسان نوں اُفیر دے سونے توں وی ودھ مہنگا بناواں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7172fdf9010dbf11caecab6fb94919ef7e8f8ffb21b6e4fa0276dde7df32abae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/13\/9-12.1792105947959.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אוקיר",
+      "gloss": "میں مہنگا بناواں گا"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "بندے نوں"
+    },
+    {
+      "surface": "מפז",
+      "gloss": "خالص سونے توں"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "تے انسان نوں"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "کھیڈے ہوئے سونے توں"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "اُفیر دے"
+    }
+  ],
+  "timestamp": "2026-10-15T23:12:27.960907886Z",
+  "model": "glm-5.3"
+}

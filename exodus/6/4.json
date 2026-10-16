@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 6:4",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אתם",
+      "rationale": "ایتھے אתם H854 'اُنہاں نال' اے، مفعول نشان ⟨את⟩ نئیں — بھید وکھایا گیا۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מגריהם \/ גרו",
+      "rationale": "اِکو جڑ ח-ر-و وار وار — 'ٹھہرن دی زمین، جتھے ٹھہرے' — تکرار واپردا اے۔"
+    }
+  ],
+  "translation": "تے میں ⟨את⟩ اُنہاں نال ⟨את⟩ اپنا عہد قائم وی کیتا، کہ اُنہاں نوں ⟨את⟩ کنعان دی زمین دینا — ⟨את⟩ اُوہ زمین، اُنہاں دے ٹھہرن دی، جتھے اوہ ٹھہرے سن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "47f5036d9d5fff41d85a2809118984961297c6477a6077d7432dafcda44a2dae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/6\/1-4.1792096260784.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "تے وی"
+    },
+    {
+      "surface": "הקמתי",
+      "gloss": "میں قائم کیتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنا عہد"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "اپنا عہد"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ اُنہاں نال"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "دینا"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اُنہاں نوں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کنعان دی زمین"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کنعان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اُوہ زمین"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "מגריהם",
+      "gloss": "اُنہاں دے ٹھہرن دی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جتھے"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "اوہ ٹھہرے سن"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اُس وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T20:31:00.785485636Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 32:17",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קול ×3",
+      "rationale": "آیت 17–18 وِچ 'آواز' دا وَر آؤنا — یشوع دی آواز، جنگ دی آواز، گاؤن دی آواز — اکو لفظ تن واری۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ברעה",
+      "rationale": "'رَل کے واہ واہ کرنا' — عبرانی دا لفظ ہنگامہ\/شور دا اے، خاص مطلب دا اندازا۔"
+    }
+  ],
+  "translation": "تے یِہوشُوع نے لوکائی دے رَل کے واہ واہ کرن دا آواز سنیا، تے مُوشے نوں آکھیا: لڑائی دا آواز اے ڈیرے وِچ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "cff607322605c9c984e162cb98a6b84bb49d83a375f9b50d2c00781276694261",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/32\/17-20.1792097070092.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "سنیا"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یِہوشُوع نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آواز"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوکائی دے"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "رَل کے واہ واہ کرن دا"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مُوشے"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "لڑائی دا"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "ڈیرے وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T20:44:30.093448152Z",
+  "model": "glm-5.3"
+}

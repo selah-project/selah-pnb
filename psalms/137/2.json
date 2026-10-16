@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 137,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "واجے",
+      "rationale": "כנור واجا اے؛ 'وجا' عام لفظ اے، ہور ٹھیک پرچا نئیں"
+    },
+    {
+      "kind": "addition",
+      "subject": "اپنیاں",
+      "rationale": "پنجابی نوں لازمی وشیشن اے"
+    }
+  ],
+  "translation": "اوہناں ونیاں اُتے، اوہدے وِچکار، اسیں اپنیاں واجے ٹنگیاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4c65906e1db54a229031e86eb14c64855ad561b837bad5ce4adc111a08134a57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/137\/1-4.1792114113530.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "ونیاں"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "اوہدے وِچکار"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "اسیں ٹنگیاں"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "اپنیاں واجے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:28:33.531723817Z",
+  "model": "glm-5.3"
+}

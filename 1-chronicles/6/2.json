@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 6:2",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نیں",
+      "rationale": "عبرانی وِچ کنی operator نئیں، پنجابی نے ⟨نیں⟩ منگیا۔"
+    }
+  ],
+  "translation": "تے ایہہ اِیم نیں گیرشوم دے پُتراں دے: لِبنی تے شِمعیی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f58c106bd707b7e1e1544f436b6674ac016de478aa40c3e4ee95b3d456778c5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/6\/1-4.1792120345274.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "تے ایہہ"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "اِیم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتراں دے"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "گیرشوم"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "لِبنی"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "تے شِمعیی"
+    }
+  ],
+  "timestamp": "2026-10-16T03:12:25.274854097Z",
+  "model": "glm-5.3"
+}

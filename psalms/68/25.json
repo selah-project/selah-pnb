@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 68:25",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הליכותיך \/ הליכות",
+      "rationale": "تکرار — 'چالاں' دو واری، عبرانی دا ودھاء پنجابی وِچ رکھیا گیا اے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בקדש",
+      "rationale": "קדש 'مقدس تھاں\/مقدستی' — 'قدس' نشان لگا کے چُکیا گیا اے۔"
+    },
+    {
+      "kind": "you",
+      "subject": "to Elohim",
+      "rationale": "آیت اِلوہیم نوں سدھی مخاطب اے — 'اے ایلوہیم'۔"
+    }
+  ],
+  "translation": "اوہناں ویکھیاں تیریاں چالاں، اے ایلوہیم، چالاں میرے ایل دیاں، میرے بادشاہ دیاں، ⟨قدس⟩ وِچ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "878aa51ab572d46cceb596ce03d50db2dcd9b38baaf888bc7f3c13a3af19e050",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/68\/25-28.1792112910623.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "اوہناں ویکھیاں"
+    },
+    {
+      "surface": "הליכותיך",
+      "gloss": "تیریاں چالاں"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "اے ایلوہیم"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "چالاں"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میرے ایل دیاں"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "میرے بادشاہ دیاں"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "⟨قدس⟩ وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:08:30.624315001Z",
+  "model": "glm-5.3"
+}

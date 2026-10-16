@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 28:42",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הַצְּלָצַל",
+      "rationale": "ایہ لفظ ٹڈّی دی اک قِسم (جھنڈ آلی ٹڈّی) دا اے — 'کِرکٹ' توں 'ٹڈّی' تک دے معنی نیں؛ 'زنگ' والا ترجمہ بھُل اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צְלָצַל",
+      "rationale": "لفظ دی دوہری جڑ (צל־צל) اپنے آپ وِچ ہلاری آواز دی نقل اے، پنجابی وِچ ایہہ گونج نئیں رہندی"
+    }
+  ],
+  "translation": "تیرے سارے رُکھ تے تیری زمین دا پھل ٹڈّی قبضہ کر لویگی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2956d3abc210f37e2d164b4fab7e31b71026f51a3d68b732e6893eb3bf862514",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/28\/41-44.1792100430303.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "עצך",
+      "gloss": "تیرے رُکھ"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "تے پھل"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "تیری زمین دا"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "قبضہ کر لویگی"
+    },
+    {
+      "surface": "הצלצל",
+      "gloss": "ٹڈّی"
+    }
+  ],
+  "timestamp": "2026-10-15T21:40:30.304164482Z",
+  "model": "glm-5.3"
+}

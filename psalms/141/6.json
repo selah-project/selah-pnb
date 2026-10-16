@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 141:6",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 141,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "بידי",
+      "rationale": "ہِبرو 'چٹان دے ہتھوں\/پاسے' — پنجابی وِچ 'کِناریاں تے' قدرتی جُملہ بندا اے۔"
+    },
+    {
+      "kind": "alternative",
+      "subject": "נשמטו",
+      "rationale": "شبد دا مول مطلب 'چھڈّ دتے\/کِھلرائے' — 'سُٹے' دوجا کوئی ویلہ دسدا اے۔"
+    }
+  ],
+  "translation": "چٹان دے کِناریاں تے اوہناں دے ججّ سُٹے جاݨ گے، تے اوہ میرے بچن سُنیں گے، کیوں جے مٹھے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c1f94febd5895718902d127ecf6273399eae23403f6133940877d5aaf5369df5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/141\/5-8.1792114187032.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשמטו",
+      "gloss": "سُٹے جان گے"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "کِناریاں تے"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "چٹان"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "اوہناں دے ججّ"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "تے سُنیں گے"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "میرے بچن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جے"
+    },
+    {
+      "surface": "נעמו",
+      "gloss": "مٹھے نیں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:29:47.032927566Z",
+  "model": "glm-5.3"
+}

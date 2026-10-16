@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 74:11",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Elohim",
+      "rationale": "بانوہ ایلوہیم ولے، ہتھ کڈھن دا حکم وانگ دُعا"
+    },
+    {
+      "kind": "crux",
+      "subject": "כלה",
+      "rationale": "کجھ مترجم کریں گے ‘مکا دیو’ (مفعول عبرانی توں غائب)، کجھ ‘مکا’ ہی چھڈ دیندے نیں (KJV)، کجھ ‘ہتھ مکا’ دا مفعول من٘دے نیں"
+    },
+    {
+      "kind": "addition",
+      "subject": "اونہاں نوں",
+      "rationale": "כלہ دا مفعول عبرانی وِچ لکھیا نئیں — دشمناں دا مطلب سیاق توں"
+    }
+  ],
+  "translation": "کیوں توں اپنی ہتھ، بلکہ اپنی سجّی ہتھ، پچھے پھیر دین٘دا ایں؟ تیرے دامن وِچوں کڈھ تے ⟨اونہاں نوں⟩ مکا دیو۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d0b0e81afd83bea474f49218cf95856acef3d10f706cd01b96a3c959eafea057",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/74\/9-12.1792113018826.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "پچھے پھیر دین٘دا ایں"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "اپنی ہتھ"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "تے اپنی سجّی ہتھ"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "وِچوں"
+    },
+    {
+      "surface": "חוקך",
+      "gloss": "تیرے دامن"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "مکا دیو"
+    }
+  ],
+  "timestamp": "2026-10-16T01:10:18.826894093Z",
+  "model": "glm-5.3"
+}

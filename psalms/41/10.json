@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 41:10",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "איש שלומי",
+      "rationale": "ش_literal 'میرے سلام دا بندہ' — 'میٹ دا بندہ'، 'قریبی ساتھی' دوجے پڑھائیاں نیں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עקב",
+      "rationale": "ایڑ دا مَٹھا مارنا — اُچھلنا، دغا کرنا؛ 'ایڑ وڈی کیتی' دا مطلب عبرانی محاورے وِچ بے وفائی اے"
+    }
+  ],
+  "translation": "تے ایہو جو بندہ میرا سلامتی-ساتھی، جس اُتے میں بھروسہ کیتا، اوہ میری روٹی کھان والا، اوہنے میرے اُتے ایڑ وڈی کیتی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fd4a393a7a8fb0e0c383820ad07bde823acd1d499ac584924b4a22bac82110a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/41\/9-12.1792112437588.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "تے ایہو جو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "میرا سلامتی-ساتھی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جس"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "میں بھروسہ کیتا"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوہدے اُتے"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "کھان والا"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "میری روٹی"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "وڈی کیتی"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "میرے اُتے"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ایڑ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:00:37.588683490Z",
+  "model": "glm-5.3"
+}

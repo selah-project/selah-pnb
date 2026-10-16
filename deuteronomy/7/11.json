@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 7:11",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "اِسرائیل نوں",
+      "rationale": "حکم دا خطاب دوجے شخص واحد وِچ"
+    },
+    {
+      "kind": "addition",
+      "subject": "کرنا ایں",
+      "rationale": "לעשותט מطلب لئی پنجابی انت پئو بھریا"
+    }
+  ],
+  "translation": "تے تُوں ⟨את⟩ حکم نوں تے ⟨את⟩ فرضاں نوں تے ⟨את⟩ فیصلےآں نوں، جیہڑے میں تینوں اَجْ کرن لئی بدھا ہاں، اپنا کے کرنا ایں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b377460bc6c27090c48d7e29e992180703f669ae29e9aebbc6228e65331ddd42",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/7\/9-12.1792099779710.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "تے تُوں … اپنا کے رکھیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حکم نوں"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "حکم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "فرضاں نوں"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "فرضاں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "فیصلےآں نوں"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "فیصلےآں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑے"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "تینوں بدھا ہاں"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اَجْ"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "اوہناں نوں کرن لئی"
+    }
+  ],
+  "timestamp": "2026-10-15T21:29:39.711248326Z",
+  "model": "glm-5.3"
+}

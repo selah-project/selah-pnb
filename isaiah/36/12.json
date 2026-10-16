@@ -1,0 +1,137 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 36:12",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨بھیجیا⟩",
+      "rationale": "دوجی سطر وِچ فعل دا دہراؤ پنجابی پُچھ گچھّ لئی پایا گیا، عبرانی وِچ صرف הלא اے"
+    },
+    {
+      "kind": "elision",
+      "subject": "לאכל\/ולשתות دے لام",
+      "rationale": "نتیجے دے لام پنجابی وِچ 'کہ' نال دتے نیں"
+    }
+  ],
+  "translation": "تے رَبشاکے نے آکھیا: کی میرے سائیں نے مینوں تیرے سائیں کول تے تیرے کول ایہہ گلاں آکھن لئی ⟨את⟩ بھیجیا اے؟ کی اوہنے اُنہاں بندیاں کول نئیں ⟨بھیجیا⟩ جیہڑے کندھ اُتے بیٹھے نیں، کہ اوہ ⟨את⟩ اپنی مل کھاون تے ⟨את⟩ اپنا پیشاب تُہاڈے نال پین؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0e2b3308d7df75c401a1e1f34c61335478373a80b1a4f7d94d91294a023447d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/36\/9-12.1792106616289.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "רב",
+      "gloss": "رَب"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "شاکے"
+    },
+    {
+      "surface": "האל",
+      "gloss": "کی"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "تیرے سائیں"
+    },
+    {
+      "surface": "ואליך",
+      "gloss": "تے تیرے کول"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "مینوں بھیجیا اے"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "میرے سائیں نے"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "آکھن لئی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایہہ گلاں"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "گلاں"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "کی … نئیں"
+    },
+    {
+      "surface": "על",
+      "gloss": "کول"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "اُنہاں بندیاں"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "بیٹھے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "کندھ"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "کھاون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنی مل"
+    },
+    {
+      "surface": "חראיהם",
+      "gloss": "اپنی مل"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "تے پین"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنا پیشاب"
+    },
+    {
+      "surface": "שיניהם",
+      "gloss": "اپنا پیشاب"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "تُہاڈے نال"
+    }
+  ],
+  "timestamp": "2026-10-15T23:23:36.290280536Z",
+  "model": "glm-5.3"
+}

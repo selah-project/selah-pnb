@@ -1,0 +1,160 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 3:12",
+  "book": "daniel",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "יתהון",
+      "rationale": "ارامی دا مفعول نشان ית — את ٹبر دا — ⟨את⟩ دے روپ وِچ رکھیا گیا اے۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "לאלהיך",
+      "rationale": "'تیرے ایلوہیم' — جمع پڑھیاں 'تیرے دیوتے' (JPS)، اِکل پڑھیاں 'تیرا ایلوہیم'؛ متن دا صیغہ دوناں پاسے کھلا اے۔"
+    },
+    {
+      "kind": "you",
+      "subject": "to Nebuchadnezzar",
+      "rationale": "شکایت سِدھی بادشاہ نوں مخاطب اے — 'اے بادشاہ'۔"
+    }
+  ],
+  "translation": "کجھ یہودی بندے نیں جیہناں نوں تُوں ⟨את⟩ بابل صوبے دی خدمت اُتے لاایا — شدرخ، میشخ تے عبد نگو۔ اے بادشاہ، اِنہاں بندیاں تیرا فرمان نئیں منیا؛ اوہ تیرے ایلوہیم دی عبادت نئیں کردے تے سونے دے اُس مُورت نوں، جیہڑا تُوں کھلوایا اے، سِجدہ نئیں کردے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a39e0187f01707ef63c1ff3f10100e8d8295ec1a640bcecbc4a4e725f58b9ccc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/daniel\/3\/9-12.1792118299367.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איתי",
+      "gloss": "کجھ … نیں"
+    },
+    {
+      "surface": "גברין",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "יהודאין",
+      "gloss": "یہودی"
+    },
+    {
+      "surface": "די",
+      "gloss": "جو"
+    },
+    {
+      "surface": "מנית",
+      "gloss": "لاایا"
+    },
+    {
+      "surface": "יתהון",
+      "gloss": "⟨את⟩",
+      "marks": "اُنہاں نوں (شدرخ، میشخ تے عبد نگو)"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "עבידת",
+      "gloss": "خدمت"
+    },
+    {
+      "surface": "מדינת",
+      "gloss": "صوبے"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "שדרך",
+      "gloss": "شدرخ"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "میشخ"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "تے عبد"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "نگو"
+    },
+    {
+      "surface": "גבריא",
+      "gloss": "بندیاں"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "اِنہاں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "منیا"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تیرا"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "اے بادشاہ"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "فرمان"
+    },
+    {
+      "surface": "לאלהיך",
+      "gloss": "تیرے ایلوہیم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "פלחין",
+      "gloss": "عبادت کردے"
+    },
+    {
+      "surface": "ולצלם",
+      "gloss": "تے مُورت نوں"
+    },
+    {
+      "surface": "דהבא",
+      "gloss": "سونے دی"
+    },
+    {
+      "surface": "די",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "הקימת",
+      "gloss": "کھلوایا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "סגדין",
+      "gloss": "سِجدہ کردے"
+    }
+  ],
+  "timestamp": "2026-10-16T02:38:19.368361313Z",
+  "model": "glm-5.3"
+}

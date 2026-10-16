@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 1:6",
+  "book": "joshua",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨⟩",
+      "rationale": "پنجابی جملے نوں سدھارن لئی اک خالی جوڑ چاہیدا نئیں سی — ایہہ خالی گلاس دا نشان اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תנחיל\/נחל",
+      "rationale": "جر ن-ח-ל دا سب توں اُچا معنی — 'وارث بنانا'، دھرتی دی نہر\/وراثت دا نال"
+    }
+  ],
+  "translation": "تُو مضبوط تے ہمت والا ہو، کیوں جو تُو ای ایس قوم نوں ⟨⟩ وارث بنائیں گا، ⟨את⟩ ایس دھرتی نوں جیہڑی میں اوہناں پیوآں نوں دین لئی قسم کھادی سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "544bbaedbc370ceb3c029bd755cd863289c831915ff3aaed5326300ee819e378",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joshua\/1\/5-8.1792100778791.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חזק",
+      "gloss": "مضبوط ہو"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "تے ہمت والا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُو"
+    },
+    {
+      "surface": "תנחיל",
+      "gloss": "وارث بنائیں گا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایس قوم نوں"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایس دھرتی نوں"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "دھرتی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "میں قسم کھادی"
+    },
+    {
+      "surface": "לאבותם",
+      "gloss": "اوہناں پیوآں نوں"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "دین لئی"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اوہناں نوں"
+    }
+  ],
+  "timestamp": "2026-10-15T21:46:18.792740212Z",
+  "model": "glm-5.3"
+}

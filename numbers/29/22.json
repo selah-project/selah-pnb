@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 29:22",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "چڑھاوٹی قربانی",
+      "rationale": "עלה دا مول ’اوپر جان والا‘ اے — پنجابی وِچ چڑھاوٹ رکھیا"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨اوہدی⟩ ⟨اوہدا⟩",
+      "rationale": "عبرانی دی جڑی ضمیر پنجابی وِچ وکھ لفظ منگدی اے"
+    }
+  ],
+  "translation": "تے اک بکرا گناہ دی قربانی لئی، ہمیشہ دی چڑھاوٹی قربانی توں وکھ، تے ⟨اوہدی⟩ اناج قربانی تے ⟨اوہدا⟩ چڑھاوا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ea4ed03d2b9c9739f35157d833789c7c636644bf8db277c3f8b5f43d0b47dfad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/29\/21-24.1792099167483.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושעיר",
+      "gloss": "تے اک بکرا"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "گناہ دی قربانی"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "اک"
+    },
+    {
+      "surface": "مלבד",
+      "gloss": "توں وکھ"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "چڑھاوٹی قربانی"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "ہمیشہ دی"
+    },
+    {
+      "surface": "ומנחתה",
+      "gloss": "تے اوہدی اناج قربانی"
+    },
+    {
+      "surface": "ונסכה",
+      "gloss": "تے اوہدا چڑھاوا"
+    }
+  ],
+  "timestamp": "2026-10-15T21:19:27.484702930Z",
+  "model": "glm-5.3"
+}

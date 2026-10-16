@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 32:19",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "گیت دے سُننہار",
+      "rationale": "آیت 17 توں مخاطب 'تُسیں\/تہاڈے' دی صدا جاری اے، پر ایس آیت دا مضمون یاہوہ دا اے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "וינאץ",
+      "rationale": "'نفرت کیتی' — نأׂץ 'رَدّ کرنا، نکApr کرنا' دی سخت تصویر، 'abhorred'۔"
+    }
+  ],
+  "translation": "تے یاہوہ نے ویکھیا تے نفرت کیتی، اپنیاں پُتراں تے دھیآں دے غصے توں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9802b5cbc434c865019bf5cf55a1ba659a653328bc8124098fe7c4eef0bae27c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/32\/17-20.1792100597889.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "تے ویکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ نے"
+    },
+    {
+      "surface": "וינאץ",
+      "gloss": "تے نفرت کیتی"
+    },
+    {
+      "surface": "מכעס",
+      "gloss": "غصے توں"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "پُتراں"
+    },
+    {
+      "surface": "ובנתיו",
+      "gloss": "تے دھیآں"
+    }
+  ],
+  "timestamp": "2026-10-15T21:43:17.890578111Z",
+  "model": "glm-5.3"
+}

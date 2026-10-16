@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 35:8",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "لאיש כמוך",
+      "rationale": "'تیری بدی بندے نوں جیہڑا تیرے ورگا اے' — پنجابی وچ کرم لفظ اگے رکھیا؛ عبرانی دا سِدھا ڈھانچا: بندے نوں، تیرے ورگے، تیری بدی"
+    },
+    {
+      "kind": "you",
+      "subject": "ایلیوہ دا اِیوُب نوں",
+      "rationale": "خودکار — اِیوُب دا جواب دوجے بندیاں دے پدھر اُتے آندا اے، یاہوہ دے نئیں"
+    }
+  ],
+  "translation": "تیری بدی بندے نوں ⟨جو⟩ تیرے ورگا اے، تے تیری نیاؤں آدم دے پتر نوں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e66d573fdf9712bdf484cba9d20923a21f339765e5bd167bd637c76beed12547",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/35\/5-8.1792116413752.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לאיש",
+      "gloss": "بندے نوں"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "تیرے ورگا"
+    },
+    {
+      "surface": "רשעך",
+      "gloss": "تیری بدی"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "تے پتر نوں"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم دے"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "تیری نیاؤں"
+    }
+  ],
+  "timestamp": "2026-10-16T02:06:53.753390216Z",
+  "model": "glm-5.3"
+}

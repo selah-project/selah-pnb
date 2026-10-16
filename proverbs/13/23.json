@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 13:23",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ניר ראשים",
+      "rationale": "'غریباں دی تازہ واہی زمین' — کجھ ترجمے 'غریباں دی زمین' آکھدے نیں، کجھ 'چھُٹی پئی زمین' (fallow)؛ دوویں رَلّیاں پڑھدے نیں۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נספה",
+      "rationale": "'کُھر چُکّیا\/مِٹایا جاندا' — سُپینا (sweep away) دی بجائے مٹاون دا مُڈھلا مطلب رکھیا گیا۔"
+    }
+  ],
+  "translation": "غریباں دی واہی وِچ بھُت زیادہ کھانا ہوندا اے، پر اِک سُپیجیا جاندا اے بِنا عدالت دے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c487371a4714a3d36105e8e3d1e86f6bf38271077a412ffcd73403cb9c993ff5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/13\/21-24.1792114635085.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "بھُت زیادہ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "کھانا"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "واہی"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "غریباں دی"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "تے ہوندا اے"
+    },
+    {
+      "surface": "נספה",
+      "gloss": "سُپیجیا جاندا"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "بِنا"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "عدالت"
+    }
+  ],
+  "timestamp": "2026-10-16T01:37:15.086301665Z",
+  "model": "glm-5.3"
+}

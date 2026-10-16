@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 2:2",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ساری دھرتی دا راہہ",
+      "rationale": "בדרך כל הארץ — مرن دا سُکھا عام قول، ایہدے وچ موت دا لفظ نئیں۔"
+    },
+    {
+      "kind": "you",
+      "subject": "شلومو نوں",
+      "rationale": "داوِد دے مُکھ بچن شروع — سدھی خطاب آیت 2:1 دے آکھن توں۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמר \/ חזק \/ אישׁ",
+      "rationale": "شلومو دے ناں (שלמה) نال آیت 3 دے שמרת دی آواز ملدی اے — بنی رشوٹی بندے دی وصیت دا سنگیت۔"
+    }
+  ],
+  "translation": "میں ساری دھرتی دے راہے تُردا پیا آں؛ تُوں زور آور بن، تے اِک بندہ بن جا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "489c9ae87a3338533d9795033615cd80831b06c72cc1d2c2291513ad6cd78e83",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/2\/1-4.1792104046513.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "تُردا پیا آں"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "راہے اُتے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "دھرتی"
+    },
+    {
+      "surface": "וחזקת",
+      "gloss": "تے زور آور بن"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "تے بن جاویں"
+    },
+    {
+      "surface": "لאיש",
+      "gloss": "اِک بندہ"
+    }
+  ],
+  "timestamp": "2026-10-15T22:40:46.514651174Z",
+  "model": "glm-5.3"
+}

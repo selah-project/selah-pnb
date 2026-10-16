@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 97:9",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 97,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עליון\/נעלית\/על",
+      "rationale": "جڑ ע-ל-ה تن واری — ‘اُچا\/اُچا ہونا\/توں اُتے’ — اِکو سوچ دی وار، پنجابی وِچ جزوی رہندی اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "دیوتے",
+      "rationale": "אלהים ایتھے قوماں دے معبوداں لئی — عام لفظ ‘دیوتے’، ناں ایلوہیم نئیں"
+    }
+  ],
+  "translation": "کیوں جو تُوں، اے یاہوہ، ساری دھرتی اُتے سب توں اُچا ایں؛ تُوں سارے دیوتیاں توں بہوں اُچا ہوئیاں ایں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "927b376d02f29de565236965f5d916cc01d82418d9d6cdc0649839662faf4bae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/97\/9-12.1792113441726.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "سب توں اُچا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "دھرتی"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بہوں"
+    },
+    {
+      "surface": "נעלית",
+      "gloss": "اُچا ہوئیاں ایں"
+    },
+    {
+      "surface": "על",
+      "gloss": "توں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "دیوتے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:17:21.727024937Z",
+  "model": "glm-5.3"
+}

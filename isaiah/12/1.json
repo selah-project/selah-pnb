@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 12:1",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "غصہ",
+      "rationale": "אף دا مُڈھلا مطلب 'نَک\/ناس' اے — غصے دی تصویر نَک دی ہوا توں؛ پنجابی وچ 'غصہ' ای ٹھیک بیٹھدا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "پکاریا ہویا وکت ('اے یاہوہ') پنجابی جملہ منگدا اے، عبرانی وچ صرف ناں اے"
+    }
+  ],
+  "translation": "تے اُس دِن تُو آکھیں: اے یاہوہ، میں تیرا شکر کردا واں، کیونجے تُو مِتھوں غصہ ہویا سی؛ تیرا ਕروڑھ غصہ مُڑ گیا تے تُو میں نوں تسلی دِتی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7b11a1770a91e83a3b027b120f03b4a3702eec15948219e84aca02524f2b22ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/12\/1-4.1792105993480.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "تے تُو آکھیں"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "اُس دِن"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "میں تیرا شکر کردا واں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "تُو غصہ ہویا سی"
+    },
+    {
+      "surface": "בי",
+      "gloss": "مِتھوں"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "مُڑ گیا"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "تیرا غصہ"
+    },
+    {
+      "surface": "ותנחמני",
+      "gloss": "تے تُو میں نوں تسلی دِتی"
+    }
+  ],
+  "timestamp": "2026-10-15T23:13:13.480652491Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 12:12",
+  "book": "2-chronicles",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אף",
+      "rationale": "لفظی 'نَس\/اکھ' اے — عبرانی وِچ غصے دی نشانی؛ پنجابی وِچ 'غصہ' کیتا"
+    },
+    {
+      "kind": "alternative",
+      "subject": "לכלה",
+      "rationale": "'مُکّ لئی \/ پورے طور تے' — کجھ مترجم 'تباہی لئی' پڑھدے نیں"
+    }
+  ],
+  "translation": "تے جدوں اوہ جھُک گیا، تے یاہوہ دا غصہ اوہدے توں مُڑ گیا — کہ پورے طور تے برباد نہ کرے؛ تے یہوداہ وِچ وی چنگیاں گلاں ہوئیاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a9d4fb2ea5cdaf44d1fe89be0df598b3c6255adf5571f1fddd371f0d36ab7e49",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/12\/9-12.1792122000617.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובהכנעו",
+      "gloss": "تے جدوں اوہ جھُک گیا"
+    },
+    {
+      "surface": "שב",
+      "gloss": "مُڑ گیا"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "اوہدے توں"
+    },
+    {
+      "surface": "אף",
+      "gloss": "غصہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "برباد کرن لئی"
+    },
+    {
+      "surface": "לכלה",
+      "gloss": "پورے طور تے"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "تے وی"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "یہوداہ وِچ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ہوئیاں"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "گلاں"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "چنگیاں"
+    }
+  ],
+  "timestamp": "2026-10-16T03:40:00.618893919Z",
+  "model": "glm-5.3"
+}

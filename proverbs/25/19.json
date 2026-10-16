@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 25:19",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ایہو ای اے",
+      "rationale": "تشبیہ دی نساخت پنجابی وِچ شامل کیتی گئی، عبرانی وِچ کوئی فعل نئیں"
+    },
+    {
+      "kind": "hapax",
+      "subject": "רעה",
+      "rationale": "شکن\/ٹُٹائی — اے لفظ تنخ وِچ صرف ایتھے آؤندا اے"
+    }
+  ],
+  "translation": "ٹُٹا ہویا دند تے موڑیا ہویا پیر — دغاباز اُتے بھروسہ ایہو ای اے مصیبت دے دن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fe440564fc10a898150559450bf13af24c6ff93bf6143fb08ef05e032fc14eef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/25\/17-20.1792115096677.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שן",
+      "gloss": "دند"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ٹُٹا ہویا"
+    },
+    {
+      "surface": "ורגל",
+      "gloss": "تے پیر"
+    },
+    {
+      "surface": "מועדת",
+      "gloss": "موڑیا ہویا"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "بھروسہ"
+    },
+    {
+      "surface": "בוגד",
+      "gloss": "دغاباز اُتے"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "دن وچ"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "مصیبت دے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:44:56.678285476Z",
+  "model": "glm-5.3"
+}

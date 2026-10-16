@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 30:3",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ידר\/נדר · השבע\/שבעה · לאסר\/אסר",
+      "rationale": "فعل تے اسم دیاں جوڑیاں — منن\/نذر، قسم کھانا\/قسم، بنھنا\/بَند — پنجابی وِچ ایہ جوڑ رکھیا گیا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "לא יחל",
+      "rationale": "חלל دا مُڈھ 'گندا کرنا\/توڑنا' اے — 'توڑے گا' مقابلے 'پھٹیا نئیں کریگا'، ترجمے ونڈدے نیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جان-زور اے، مُڈھ وِچ گلا نئیں"
+    }
+  ],
+  "translation": "جدوں کوئی بندہ یاہوہ نوں نذر منے، یا قسم کھا کے اپنی جان اُتے بَند بنھے، اوہ اپنی گل نئیں توڑے گا؛ سب کجھ جیہڑا اوہدے مُوں توں نِکلیگا، اوہ کرے گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4f45dac93f39300938963c42701e97ecf03234ff69b3111d23558a7b8f4eba09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/30\/1-4.1792099265019.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جدوں"
+    },
+    {
+      "surface": "ידר",
+      "gloss": "منے"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "نذر"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ نوں"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "قسم کھا کے"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "قسم"
+    },
+    {
+      "surface": "לאסר",
+      "gloss": "بنھن لئی"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "بَند"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "اپنی جان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יחל",
+      "gloss": "توڑے گا"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "اپنی گل"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "سب کجھ"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "نِکلیگا"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "اوہدے مُوں توں"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کرے گا"
+    }
+  ],
+  "timestamp": "2026-10-15T21:21:05.020584531Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 26:13",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "وَسائیاں",
+      "rationale": "ענף 5307 دا مطلب اے 'سُٹنا\/ڈِگھنا' — 'گوریلاں سُٹیاں' دی مُکھ حالت پنجابی وِچ 'وَسائیاں' بندی اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לשער ושער",
+      "rationale": "'دروازے تے دروازے' دی دہرائی، ہر اِک دروازے لئی اِک گوریلہ — پنجابی وِچ دہرائی رکھی گئی"
+    },
+    {
+      "kind": "measurement",
+      "subject": "گوریاں دا ونڈ",
+      "rationale": "دروازیاں دی ونڈ گوریاں نال پائی گئی — گنتی\/ونڈ دی آیت"
+    }
+  ],
+  "translation": "تے اوہناں نے گوریلاں ⟨ نوں ⟩ وَسائیاں، نِکیاں وِچوں نِکے نوں وی تے وڈیاں وِچوں وڈے نوں وی، اوہناں دے پیو-دادے دے گھراں دے مطابق، ہر دروازے لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f893e0460d07e0f466b60f049b3ad836fd4f06ad556f7cc24d6e9e4b69feb530",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/26\/13-16.1792121252918.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפילו",
+      "gloss": "وَسائیاں"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "گوریلاں"
+    },
+    {
+      "surface": "כקטן",
+      "gloss": "نِکیاں وِچوں نِکے نوں وی"
+    },
+    {
+      "surface": "כגדול",
+      "gloss": "تے وڈیاں وِچوں وڈے نوں وی"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "…دے گھر"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "اوہناں دے پیو-دادے"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "دروازے لئی"
+    },
+    {
+      "surface": "ושער",
+      "gloss": "تے دروازے لئی"
+    }
+  ],
+  "timestamp": "2026-10-16T03:27:32.918609757Z",
+  "model": "glm-5.3"
+}

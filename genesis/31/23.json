@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 31:23",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "וידבק",
+      "rationale": "دبق 'چمبڑنا\/پیٹھے رہنا' — تعاقب وِچ پھڑن دا چِتر، 'جا اُلریا' اوہدے بل دا نیڑے ترجمہ اے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "דרך שבעת ימים",
+      "rationale": "'ستّ دناں دی راہ' — یا 'ستّ دن' سفر؛ عبرانی 'دن' تے 'دناں دی راہ' دوویں دسدا اے"
+    }
+  ],
+  "translation": "تے اوہنے ⟨את⟩ اپنے بھراواں نوں اپنے نال لیا، تے اوہدے پچھے ستّ دناں دی راہ بھجّیا، تے گِلعاد دے پہاڑ اُتے اوہدے نال جا اُلریا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2563c0468bcb8f61be021f965948fba2d004a6d214c6cab9a4baae5471a5edf5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/31\/21-24.1792095447003.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "لیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنے بھراواں نوں"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "اپنے بھرا"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "اپنے نال"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "تے بھجّیا"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "اوہدے پچھے"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "راہ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ستّ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دناں"
+    },
+    {
+      "surface": "וידבק",
+      "gloss": "تے جا اُلریا"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "اوہدے نال"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "پہاڑ اُتے"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "گِلعاد"
+    }
+  ],
+  "timestamp": "2026-10-15T20:17:27.004151521Z",
+  "model": "glm-5.3"
+}

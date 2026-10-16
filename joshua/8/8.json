@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 8:8",
+  "book": "joshua",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "כדבר יהוה دا بَند فقرہ پنجابی وِچ کریالْا 'دا بچن اے' منگدا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "את העיר … את העיר",
+      "rationale": "اکو مفعول 'شہر' دوبارہ — پھڑن تے ساڑن، دوہرے نشان نال"
+    }
+  ],
+  "translation": "تے ہووےگا، جدوں تُسیں شہر نوں ⟨את⟩ پھڑ لینا، تے شہر نوں ⟨את⟩ اگّ لاؤ؛ جیویں یاہوہ دا بچن اے اوویں کرنا؛ ویکھو، مَیں تُہانوں ⟨את⟩ حکم کیتا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4b6060b034fed8d9460c88986d707d9ed4cd7ca0cdbcb94c4c44f221c3f8ebd4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joshua\/8\/5-8.1792100882097.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "تے ہووےگا"
+    },
+    {
+      "surface": "כתפשכם",
+      "gloss": "جدوں تُسیں پھڑ لینا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شہر نوں"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "תציתו",
+      "gloss": "اگّ لاؤ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شہر نوں"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "באש",
+      "gloss": "اگّ نال"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "جیویں … دا بچن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "کرنا"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ویکھو"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "مَیں حکم کیتا"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ تُہانوں",
+      "marks": "تُہانوں"
+    }
+  ],
+  "timestamp": "2026-10-15T21:48:02.098671371Z",
+  "model": "glm-5.3"
+}

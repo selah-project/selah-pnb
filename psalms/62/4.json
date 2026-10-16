@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 62:4",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "دشمناں نوں",
+      "rationale": "آیت سدھی خطاب اے — پہلے کسے نہ کسے نوں کہیا جاندا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "תרצחו",
+      "rationale": "امر ('مارو') یا مستقبل ('مارو گے') — دوویں پڑھائیاں نیں"
+    },
+    {
+      "kind": "idiom",
+      "subject": "جھکی ہوئی دیوار",
+      "rationale": "بندی بُرے دا اِڈیوم — بندہ ڈھلدا وار اے جیہڑا ہر ویلے ڈگ سکدا اے"
+    }
+  ],
+  "translation": "کِدوں تُسیں اِک بندے اُتے ٹُٹ پَو گے؟ سارے اوہنوں مارو، جِدّاں جھکی ہوئی دیوار، ڈگیا ہویا وار۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "99a02712f8da45a1a4f3f7df4dc6dec9be442ed979a6e6c10ebe842f699d54a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/62\/1-4.1792112800144.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "کِدوں"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "تک"
+    },
+    {
+      "surface": "תהותתו",
+      "gloss": "ٹُٹ پَو گے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "اِک بندے"
+    },
+    {
+      "surface": "תרצחו",
+      "gloss": "مارو"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "כקיר",
+      "gloss": "جِدّاں دیوار"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "جھکی ہوئی"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "وار"
+    },
+    {
+      "surface": "הדחויה",
+      "gloss": "ڈگیا ہویا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:06:40.145038393Z",
+  "model": "glm-5.3"
+}

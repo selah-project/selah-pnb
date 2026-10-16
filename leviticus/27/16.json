@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 27:16",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "کجھ",
+      "rationale": "عبرانی وِچ 'کجھ حصہ' نئیں، صرف 'کھیت' — کھیت دے پورے یا حصے دی گل سیاق توں آندی اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "نپ-تول",
+      "rationale": "آیت وِچ زمین دا بیج نال تے چاندی شیکلاں نال ملن دا حساب اے — حَمَر بیج = پنجاہ شیکل چاندی"
+    },
+    {
+      "kind": "substitution",
+      "subject": "حَمَر",
+      "rationale": "חמר اِک ناپ اے (اثار دا ٹب)، ترجمہ نئیں ہوندا، حرف-نقل رکھیا گیا"
+    }
+  ],
+  "translation": "تے جے بندہ اپنی ملکیت دے کھیت وِچوں کجھ یاہوہ لئی پاک کرے، تاں تیرا اندازہ اوہدے بیج دے مطابق ہووےگا: جَو دے بیج دا اِک حَمَر پنجاں شیکل چاندی دا ہووےگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2fffd8bc06aa947405b0b3e8eeda989fc81a4b0952de26182e5a2c066e0b4aed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/27\/16-16.1792123376685.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "کھیت"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "اپنی ملکیت"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "پاک کرے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ لئی"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "تے ہووےگا"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "تیرا اندازہ"
+    },
+    {
+      "surface": "لפי",
+      "gloss": "مطابق"
+    },
+    {
+      "surface": "זרעو",
+      "gloss": "اوہدے بیج"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "بیج"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "حَمَر"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "جَو"
+    },
+    {
+      "surface": "בחמשים",
+      "gloss": "پنجاں"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "شیکل"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندی"
+    }
+  ],
+  "timestamp": "2026-10-16T04:02:56.686349066Z",
+  "model": "glm-5.3"
+}

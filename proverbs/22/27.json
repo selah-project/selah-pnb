@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 22:27",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "قارئے نوں",
+      "rationale": "سِدھا سوال پُچھدا اے — 'کیوں چُکے؟'"
+    },
+    {
+      "kind": "crux",
+      "subject": "یקח دا فاعل",
+      "rationale": "کجھ پڑھی 'اوہ (قرض خور)' چُکے گا، کجھ 'تُوں کیوں چُکوایاں'"
+    }
+  ],
+  "translation": "جے تیرے کول دین لئی کجھ نئیں، تاں اوہ تیرا بسترا تیرے ہیٹھوں کیوں چُکے؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "eeb858bd8873113fca526c01d0ce901be0135af792281a3d5b8ca643a451a5f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/22\/25-28.1792115005492.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کجھ نئیں"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیرے کول"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "دین لئی"
+    },
+    {
+      "surface": "למה",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "چُکے"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "تیرا بسترا"
+    },
+    {
+      "surface": "מתחתיך",
+      "gloss": "تیرے ہیٹھوں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:43:25.493587277Z",
+  "model": "glm-5.3"
+}

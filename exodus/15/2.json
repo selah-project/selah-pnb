@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 15:2",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "عبرانی وِچ کوپولا نئیں، پنجابی نے چھڈیا۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "ואנוהו",
+      "rationale": "جوڑ 'قربان گاہ بناؤں' (کے‌جی‌وی) تے 'وڈیاں\/مناواں' (جے‌پی‌ایس) — جڑ רہن\/سجان توں دو رستے نِکلدے نیں۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "بچاؤ",
+      "rationale": "לישועה مکمل 'فوجی فتح\/نجات' دی تصویر اے، اِک لفظ 'بچاؤ' پھلہڑا اے۔"
+    }
+  ],
+  "translation": "میری طاقت تے میرا گیت یاہ اے، تے اوہ میرا بچاؤ بن گیا؛ ایہہ میرا ایل اے تے میں اوہنوں وڈیاؤں گا؛ میرے پیو دا ایلوہیم — تے میں اوہنوں اُچا کریں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bdfb3a96fc3cb785010d36ed133e28ef776ab7e63c92c2856664559acd0cb367",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/15\/1-4.1792096546582.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "میری طاقت"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "تے میرا گیت"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاہ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "تے اوہ بنیا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرا"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "بچاؤ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میرا ایل"
+    },
+    {
+      "surface": "ואנוהו",
+      "gloss": "تے میں اوہنوں وڈیاؤں گا"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "میرے پیو دا"
+    },
+    {
+      "surface": "וארממנהו",
+      "gloss": "تے میں اوہنوں اُچا کریں گا"
+    }
+  ],
+  "timestamp": "2026-10-15T20:35:46.583644671Z",
+  "model": "glm-5.3"
+}

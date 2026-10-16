@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 23:24",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הרס תהרסם \/ שבר תשבר",
+      "rationale": "دو مصدر مطلق جوڑے — 'ڈھاہ-ڈھاہ' تے 'توڑ-توڑ' دوہرا ک‏ر ک‏ے زور رکھیا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מצבתיהם",
+      "rationale": "لفظی 'کھڑے کیتے ستون\/یادگاری پتھر'؛ 'بت' نئیں — پتھر دا کھمبا"
+    }
+  ],
+  "translation": "تسیں اوہناں دے دیوتےآں نوں سجدہ نہ کرو، تے اوہناں دی خدمت نہ کرو، تے اوہناں دے کم والیاں طرح نہ کرو، سگوں اوہناں نوں ڈھاہ-ڈھاہ مِٹاؤ، تے اوہناں دے ستوناں نوں توڑ-توڑ ٹُکو۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0e279b83c6bba92dabf686a74c77df624b4a62719e10b96c4cbead53d34d7d28",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/23\/21-24.1792096758229.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "سجدہ کرو"
+    },
+    {
+      "surface": "לאלהיהם",
+      "gloss": "اوہناں دے دیوتےآں نوں"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תעבדם",
+      "gloss": "اوہناں دی خدمت کرو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "کرو"
+    },
+    {
+      "surface": "כמעשיהם",
+      "gloss": "اوہناں دے کم والیاں طرح"
+    },
+    {
+      "surface": "כי",
+      "gloss": "سگوں"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "ڈھاہ"
+    },
+    {
+      "surface": "תהרסם",
+      "gloss": "ڈھاہ مِٹاؤ اوہناں نوں"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "تے توڑ"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "توڑ-ٹُکو"
+    },
+    {
+      "surface": "מצבתיהם",
+      "gloss": "اوہناں دے ستوناں نوں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:39:18.230248317Z",
+  "model": "glm-5.3"
+}

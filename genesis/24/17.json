@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 24:17",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "منا",
+      "rationale": "נא ادائیگی دا ذرہ اے، پنجابی وِچ وکھ لفظ منگیا"
+    },
+    {
+      "kind": "hapax",
+      "subject": "הגמיאיני",
+      "rationale": "גָּמָא (چُوس کے پینا) ایس صورت وِچ نایاب فعل — پنجابی وِچ 'پلا دے' نال ڈھیلیاں گیا"
+    }
+  ],
+  "translation": "تے ادھیئے ⟨את⟩ اوہدے میل لئی دوڑیا، تے آکھیا: مینوں تھوڑا جیہا پانی تیرے گھڑے وِچوں پلا دے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a9b7f5303d1154c0b8a4cebaedb4cfcbb16b2233abd14e9d11e19ca19dcaed09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/24\/17-20.1792095155432.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "تے دوڑیا"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "ادھیئے"
+    },
+    {
+      "surface": "לקראתה",
+      "gloss": "اوہدے میل لئی"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "הגמיאיני",
+      "gloss": "مینوں پلا دے"
+    },
+    {
+      "surface": "נא",
+      "gloss": "منا"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "تھوڑا جیہا"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پانی"
+    },
+    {
+      "surface": "מכדך",
+      "gloss": "تیرے گھڑے وِچوں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:12:35.433567764Z",
+  "model": "glm-5.3"
+}

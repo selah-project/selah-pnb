@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 146:10",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 146,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "صیون",
+      "rationale": "سدھی مخاطبت — 'تیرا ایلوہیم اے صیون'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "הללו יה",
+      "rationale": "حمد دا حکم — 'یاہ دی تعریف کرو' — پالٹن 146 دا مُڈھ تے انت"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לעולם",
+      "rationale": "مول مطلب 'لُکیا ہویا \/ اَن تک' — 'ہمیشا' ویلے دا وادھا اے، تے עלם (لُکاونا) نال اکو جڑ"
+    }
+  ],
+  "translation": "یاہوہ ہمیشا لئی راج کرے گا، تیرا ایلوہیم اے صیون، پیڑھی توں پیڑھی تک۔ یاہ دی تعریف کرو۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d5fcbf227f804cb9f705f06dde37bba557510f04d8b58a66a2a92cf66769d671",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/146\/9-10.1792114222737.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימלך",
+      "gloss": "راج کرے گا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشا لئی"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تیرا ایلوہیم"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صیون"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "پیڑھی توں"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "پیڑھی تک"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "تعریف کرو"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاہ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:30:22.738603828Z",
+  "model": "glm-5.3"
+}

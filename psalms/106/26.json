@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 106:26",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ویہݨے⟩",
+      "rationale": "ید اُٹھاݨ عبرانی وِچ قسم کھاݨ دا اشارہ اے (داستان 32:40)؛ متن وِچ لفظ 'قسم' نئیں"
+    },
+    {
+      "kind": "crux",
+      "subject": "וישא ידו",
+      "rationale": "'ہتھ اُٹھایا' بمقابلہ ASV\/JPS 'قسم کھادی' — ایہو اشارہ، دو وکھریاں بدلیاں"
+    }
+  ],
+  "translation": "تے اوہ آپݨا ہتھ اوہناں اُتے اُٹھایا ⟨ویہݨے⟩، ⟨את⟩ اوہناں نوں بیابان وِچ ڈیگن لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9e2c27acdd677f9603b73b40ade45a715b91d3d4e38c228eee366c54793a9204",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/106\/25-28.1792113632970.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "تے اُٹھایا"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "آپݨا ہتھ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اوہناں اُتے"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "ڈیگن لئی"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "اوہناں نوں"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "بیابان وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:20:32.971440451Z",
+  "model": "glm-5.3"
+}

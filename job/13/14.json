@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 13:14",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ماس دنداں وِچ پکنا",
+      "rationale": "عبرانی محاورہ — جان نوں خطرے وِچ پا دینا؛ لفظی صورت رکھی اے تاں تصویر نہ مٹے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جان-شکت اے، صرف 'روح' نئیں"
+    }
+  ],
+  "translation": "کس لئی؟ کیوں میں اپنا ماس اپنے دنداں وِچ پکاں، تے اپنی جان اپنی ہتھیلی تے رکھاں؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "28a9d59e20e9fa2f8b6eb4b022750e0e8b03bccd4db98c27e95d5ef6662d1868",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/13\/13-16.1792115695348.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "کس"
+    },
+    {
+      "surface": "מה",
+      "gloss": "لئی کیوں"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "پکاں"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "اپنا ماس"
+    },
+    {
+      "surface": "בשני",
+      "gloss": "اپنے دنداں وِچ"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "تے اپنی جان"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "رکھاں"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "اپنی ہتھیلی تے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:54:55.348954533Z",
+  "model": "glm-5.3"
+}

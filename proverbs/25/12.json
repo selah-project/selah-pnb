@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 25:12",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נזם",
+      "rationale": "نکّ وچ پرون والا نتھ\/چھلا — 'کن دا بالی' نئیں۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אזן שמעת",
+      "rationale": "صفت کن لئی مؤنث جمع ورگی شکل — شکل دی ندی پنجابی وِچ رہِ نئیں سکدی۔"
+    }
+  ],
+  "translation": "سونے دا نکّ-نتھ تے خالص سون دا گہنا — سیانا سمجھاؤن والا سُنن والے کن اُتے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "87550aba326de330518724416d1edfa080be618560f325074fa51f86fa0615a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/25\/9-12.1792115012086.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נזם",
+      "gloss": "نکّ-نتھ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونے دا"
+    },
+    {
+      "surface": "וחלי",
+      "gloss": "تے گہنا"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "خالص سون دا"
+    },
+    {
+      "surface": "מוכיח",
+      "gloss": "سمجھاؤن والا"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "سیانا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اپنے اُتے"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "کن"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "سُنن والے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:43:32.087576960Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 12:4",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "پنج حکم",
+      "rationale": "آیت پوری دے پنج فعل امر نال اک سدا اے — شکر کرو، پکاریا کرو، ظاہر کرو، یاد رکھو"
+    },
+    {
+      "kind": "substitution",
+      "subject": "کمال",
+      "rationale": "עלילות دا مُڈھلا مطلب 'کیتے گئے کم\/کرتوت' اے — اوہدیاں وڈیاں کریاواں؛ 'کمال' کھٹوندی تصویر اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "'اوہدا ناں اُچا اے' وچ کپلا پنجابی منگدا اے، عبرانی وچ نئیں — ⟨⟩ وچ پایا"
+    }
+  ],
+  "translation": "تے اُس دِن تُسیں آکھو گے: یاہوہ دا شکر کرو، اوہدے ناں نال پکاریا کرو، قوماں وِچ اوہدے کمال ظاہر کرو، یاد رکھو کیونجے اوہدا ناں اُچا ⟨اے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7b11a1770a91e83a3b027b120f03b4a3702eec15948219e84aca02524f2b22ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/12\/1-4.1792105993480.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "تے تُسیں آکھو گے"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "اُس دِن"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "شکر کرو"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ دا"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "پکاریا کرو"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "اوہدے ناں نال"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "ظاہر کرو"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "قوماں وِچ"
+    },
+    {
+      "surface": "עלילתיו",
+      "gloss": "اوہدے کمال"
+    },
+    {
+      "surface": "הזכירו",
+      "gloss": "یاد رکھو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "נשגב",
+      "gloss": "اُچا"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اوہدا ناں"
+    }
+  ],
+  "timestamp": "2026-10-15T23:13:13.481238787Z",
+  "model": "glm-5.3"
+}

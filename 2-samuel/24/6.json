@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 24:6",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "תחתים חדשי",
+      "rationale": "تَختیم-خُدشی تنخ وِچ صرف ایتھے آندا اے — دو ٹوکن، اِک تھاں دا ناں"
+    },
+    {
+      "kind": "hapax",
+      "subject": "דנה יען",
+      "rationale": "دان-یِعن وی صرف ایتھے ملدا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "تھاں دے ناں",
+      "rationale": "پہلی واری وضاحت: تَختیم-خُدشی ⟨تھاں دا ناں⟩، دان-یِعن ⟨دان ول جا کے⟩"
+    }
+  ],
+  "translation": "تے اوہ گِلعاد ول آئے، تے تَختیم-خُدشی دی زمین ول، تے اوہ دان-یعن آئے، تے صیدون دے دوالے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "64457e4ec994ba250abfd05a1ea22aa0a383c5b3787cd50b17a8827deeebff04",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/24\/5-8.1792103847156.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "آئے"
+    },
+    {
+      "surface": "הגלעדה",
+      "gloss": "گِلعاد ول"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے ول"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "תחתים",
+      "gloss": "تَختیم"
+    },
+    {
+      "surface": "חדשי",
+      "gloss": "خُدشی"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "آئے"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "دان"
+    },
+    {
+      "surface": "יען",
+      "gloss": "یِعن"
+    },
+    {
+      "surface": "وסביב",
+      "gloss": "دوالے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ول"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "صیدون"
+    }
+  ],
+  "timestamp": "2026-10-15T22:37:27.157014829Z",
+  "model": "glm-5.3"
+}

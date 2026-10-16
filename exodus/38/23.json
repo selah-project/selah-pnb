@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 38:23",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "copula",
+      "rationale": "عبرانی وِچ 'سی' نئیں، پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תולעת השני",
+      "rationale": "لفظی 'شنی دا کیڑا' — سرخ رنگا کیڑا جیہدے توں رنگ نکلدا سی"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שש",
+      "rationale": "لفظی 'چِٹا\/اُجلا کپاہ' — 'مہین سوتی' نیڑے دا ارتھ اے"
+    }
+  ],
+  "translation": "تے ⟨את⟩ اوہدے نال اہولیآو سی — اہیسامک دا پتر، دان دے قبیلے توں — نقاش، تے نقشہ بنان والا، تے کڑھائی کرن والا نیلے وِچ، تے ارغوان وِچ، تے شنی ⟨سرخ⟩ دے کیڑے توں، تے مہین سوتی وِچ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "89516dbc97c6d08c301a947f8dc4d4a27752438102c7d42a2cc4443d72409ae2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/38\/21-24.1792097258307.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתו",
+      "gloss": "تے ⟨את⟩ اوہدے نال",
+      "marks": "اہولیآو"
+    },
+    {
+      "surface": "אהליאב",
+      "gloss": "اہولیآو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پتر"
+    },
+    {
+      "surface": "אחיסמך",
+      "gloss": "اہیسامک"
+    },
+    {
+      "surface": "لמטה",
+      "gloss": "قبیلے توں"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "نقاش"
+    },
+    {
+      "surface": "וחשב",
+      "gloss": "تے نقشہ بنان والا"
+    },
+    {
+      "surface": "ורקם",
+      "gloss": "تے کڑھائی کرن والا"
+    },
+    {
+      "surface": "בתכלת",
+      "gloss": "نیلے وِچ"
+    },
+    {
+      "surface": "ובארגמן",
+      "gloss": "تے ارغوان وِچ"
+    },
+    {
+      "surface": "ובתולעת",
+      "gloss": "تے کیڑے توں"
+    },
+    {
+      "surface": "השני",
+      "gloss": "شنی ⟨سرخ⟩"
+    },
+    {
+      "surface": "ובשש",
+      "gloss": "تے مہین سوتی وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T20:47:38.308254732Z",
+  "model": "glm-5.3"
+}

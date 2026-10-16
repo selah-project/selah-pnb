@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 11:3",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "چَن",
+      "rationale": "חן خالص عبرانی تصویر اے — 'چَن ⟨پسند⟩' نال دوویں پاسے رکھیا"
+    },
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "عبرانی وِچ کوئی فعل 'ہونا' نئیں — 'وڈا' جملے لئی پنجابی 'سی' منگدا اے"
+    }
+  ],
+  "translation": "تے یاہوہ نے ⟨את⟩ قوم دا چَن ⟨پسند⟩ مِتصرایمیاں دیاں اکھاں وِچ دِتا؛ اِیں اوہ بندہ موشے مِتصرایم دی زمین وِچ بہت وڈا سی — پھرعون دے غلاماں دیاں اکھاں وِچ تے قوم دیاں اکھاں وِچ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "992ae16e868950da5e61db28df72bbdc673e2ff27319cc17383115c2c7c36fc0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/11\/1-4.1792096431167.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "تے دِتا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قوم دا چَن"
+    },
+    {
+      "surface": "חן",
+      "gloss": "چَن ⟨پسند⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "اکھاں وِچ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایمیاں دیاں"
+    },
+    {
+      "surface": "גם",
+      "gloss": "اِیں"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "اوہ بندہ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وڈا"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بہت"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین وِچ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم دی"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "اکھاں وِچ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "غلاماں دیاں"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پھرعون دے"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "تے اکھاں وِچ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم دیاں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:33:51.168476217Z",
+  "model": "glm-5.3"
+}

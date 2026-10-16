@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 19:15",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "לך שוב",
+      "rationale": "حکم — یاہوہ ایلیاہو نوں واپسی ول سدّدا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨بناؤن لئی⟩",
+      "rationale": "למלך 'بادشاہ لئی' — پنجابی نوں مقصد دا فعل چائیدا"
+    }
+  ],
+  "translation": "تے یاہوہ نے اوہنوں آکھیا: جا، اپنے راہے اُتے مُڑ، دمشق دے اجاڑ ول، تے جدوں ⟨اوتھے⟩ آئیں، ⟨את⟩ حزاییل نوں ارام اُتے بادشاہ ⟨بناؤن لئی⟩ مسح کریں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6c89fcf01dbb56d6bcf0dd5ba297cce3bf430e11a7ff22afe2c2574e374644b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/19\/13-16.1792104726385.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ نے"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اوہنوں"
+    },
+    {
+      "surface": "לך",
+      "gloss": "جا"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "مُڑ"
+    },
+    {
+      "surface": "לדרכך",
+      "gloss": "اپنے راہے اُتے"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "اجاڑ ول"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "دمشق دے"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "تے آئیں"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "تے مسح کریں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حزاییل"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "حزاییل نوں"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "بادشاہ لئی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ارام دے"
+    }
+  ],
+  "timestamp": "2026-10-15T22:52:06.386787707Z",
+  "model": "glm-5.3"
+}

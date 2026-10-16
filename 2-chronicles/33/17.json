@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 33:17",
+  "book": "2-chronicles",
+  "lang": "pnb",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "במות",
+      "rationale": "اُچِیاں تھاواں — پہاڑی قربانی گاہواں، اِک پکا پنجابی لفظ چُنیا گیا اے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "רק ליהווה",
+      "rationale": "'صرف یاہوہ لئی' — کجھ مترجم 'پر یاہوہ اپنے ایلوہیم لئی' پڑھدے نیں؛ 'صرف' رکھیا گیا اے"
+    }
+  ],
+  "translation": "تاہِم قوم ہن وی اُچِیاں تھاواں اُتے قربانیاں کردی سی، صرف یاہوہ اپنے ایلوہیم لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0e86ef3fa42b2947df972af314e528c4a2aa1be1d1e1a377f00eec1080e31991",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/33\/17-20.1792122911101.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "تاہِم"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ہن وی"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "قربانیاں کردی سی"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "اُچِیاں تھاواں اُتے"
+    },
+    {
+      "surface": "רק",
+      "gloss": "صرف"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ لئی"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "اپنے ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-10-16T03:55:11.102200010Z",
+  "model": "glm-5.3"
+}

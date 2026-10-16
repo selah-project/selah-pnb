@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 30:30",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سن",
+      "rationale": "عبرانی وِچ کوئی کردار نئیں"
+    },
+    {
+      "kind": "crux",
+      "subject": "בבור עשן",
+      "rationale": "کے اینوں اِک تھاں 'کور-عاشان' پڑھیا جاوے (جنیوا\/کیجےوی) جاں 'بور-عاشان' (یونگ\/جےپیایس)"
+    }
+  ],
+  "translation": "تے اُہناں لئی جیہڑے حورما وِچ سن، تے اُہناں لئی جیہڑے بور-عاشان وِچ سن، تے اُہناں لئی جیہڑے عاتاک وِچ سن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "93e9fefcb7574bfe6ffeaed468aaa5d7571fbc672d77ad674a938eda20ae322e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/30\/29-31.1792102906779.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולאשר",
+      "gloss": "تے اُہناں لئی جیہڑے"
+    },
+    {
+      "surface": "בחרמה",
+      "gloss": "حورما وِچ"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "تے اُہناں لئی جیہڑے"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "بور"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "عاشان وِچ"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "تے اُہناں لئی جیہڑے"
+    },
+    {
+      "surface": "בעתך",
+      "gloss": "عاتاک وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T22:21:46.779934466Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 24:17",
+  "book": "2-chronicles",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "دے",
+      "rationale": "عبرانی وِچ اسم دا جوڑ شامل نئیں، پنجابی نوں ‘دے’ چاہیدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "منی",
+      "rationale": "שמע سنیا\/مانی دوناں اے؛ سیاق وِچ فرمانبرداری دا ‘منی’ ٹھیک"
+    }
+  ],
+  "translation": "تے یہویاداع ⟨دے⟩ مرنے توں بعد یہوداہ دے سردار آئے تے بادشاہ نوں سجدہ کیتا؛ اُدوں بادشاہ نے اوہناں دی گل منی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e5a76f2b82749c94eb134694161ca357e1c0bc5474cbdc5c001fda036d47fe69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/24\/17-20.1792122563740.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "توں بعد"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مرنے"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "یہویاداع"
+    },
+    {
+      "surface": "באו",
+      "gloss": "آئے"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "دے سردار"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "سجدہ کیتا"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "بادشاہ نوں"
+    },
+    {
+      "surface": "אז",
+      "gloss": "اُدوں"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "منی"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ نے"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "اوہناں دی"
+    }
+  ],
+  "timestamp": "2026-10-16T03:49:23.741375195Z",
+  "model": "glm-5.3"
+}

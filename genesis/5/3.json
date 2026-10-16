@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 5:3",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨پُتر⟩",
+      "rationale": "عبرانی صرف 'جَمیا' اے، مفعول لکھیا نئیں"
+    },
+    {
+      "kind": "measurement",
+      "subject": "عمر",
+      "rationale": "آدم دی عمر دِے ورھے گِنے گئے نیں — نسلاں دی لسٹ دا انداز"
+    }
+  ],
+  "translation": "تے آدم جِیا اِک سو تِیہاں ورھے، تے اُس نے اپنی شبیہ وِچ، اپنی صورت وانگ ⟨پُتر⟩ جَمیا، تے ⟨את⟩ اوہدا ناں شیت رکھیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "15f53f05ed9dc5c8e575f47e8c45e4cc2dae8a8e6b6ae293393699da45f61565",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/5\/1-4.1792094736955.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "تے جِیا"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "تِیہاں"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "تے اِک سو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ورھے"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "تے جَمیا"
+    },
+    {
+      "surface": "בדמותו",
+      "gloss": "اپنی شبیہ وِچ"
+    },
+    {
+      "surface": "כצלמו",
+      "gloss": "اپنی صورت وانگ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "تے ناں رکھیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہدا ناں"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اوہدا ناں"
+    },
+    {
+      "surface": "שת",
+      "gloss": "شیت"
+    }
+  ],
+  "timestamp": "2026-10-15T20:05:36.956205738Z",
+  "model": "glm-5.3"
+}

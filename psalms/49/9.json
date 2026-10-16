@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 49:9",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جان دا مادہ اے، صرف 'روح' نئیں"
+    },
+    {
+      "kind": "crux",
+      "subject": "تے رُک گیا",
+      "rationale": "וחדל לעולם: 'ہمیشہ لئی رُک گیا' (فدیہ ناممکن) بمقابلہ 'ہمیشہ لئی چھڈّ دتا' (جان نوں چھڈّ دتا)"
+    }
+  ],
+  "translation": "تے قیمتی اے اوہناں جان دا فدیہ، تے ایہہ ہمیشہ لئی رُک گیا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "07a09197444b8ba553ea899406abd9453ff4ed45de683c7988dfd30e845fe201",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/49\/9-12.1792112568034.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "تے قیمتی اے"
+    },
+    {
+      "surface": "פדיון",
+      "gloss": "فدیہ"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "اوہناں جان دا"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "تے رُک گیا"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشہ لئی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:02:48.034972303Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 3:14",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קרבן \/ קרב",
+      "rationale": "قربانی (קרבן) تے اندریاں (קרב) اِکو جڑ توں — 'نیڑے لیایا چیز' تے 'اندرونی حصہ' — پنجابی وِچ ایہہ جوڑ گُم ہو جاندا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "اگّ دی قربانی",
+      "rationale": "אשה اِگّ دی قربانی دا عام عبرانی لفظ اے، صرف پُوری جلائی جان والی قربانی نئیں"
+    }
+  ],
+  "translation": "تے اوہ اِس وِچوں اپنی قربانی یاہوہ لئی اگّ دی قربانی دے روپ وِچ چاہیگا: ⟨את⟩ اوہ چربی جیہڑی ⟨את⟩ اندریاں نوں ڈھکدی اے، تے ⟨ואת⟩ سارا اوہ چربی جیہڑا اندریاں اُتے اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3703fb957efdab0483655ee3856dae97ba262d1c85c4a1ccd530835e415a7472",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/3\/13-16.1792097386988.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "تے چاہیگا"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "اِس وِچوں"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "اپنی قربانی"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "اگّ دی قربانی"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ لئی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہ چربی"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "اوہ چربی"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "ڈھکدی اے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اندریاں نوں"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "اندریاں نوں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "سارا اوہ چربی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "اوہ چربی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "اندریاں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:49:46.988984189Z",
+  "model": "glm-5.3"
+}

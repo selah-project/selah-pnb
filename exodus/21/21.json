@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 21:21",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "چاندی",
+      "rationale": "כספו روڈ اے چاندی\/پیسہ — 'اوہدا پیسہ اے' یعنی نوکر مالک دی جائیداد اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "اوہنوں",
+      "rationale": "عبرانی وِچ سزا دین والا نئیں، صرف جامع صیغہ اے"
+    }
+  ],
+  "translation": "پر جے اوہ اِک دن جاں دو دن جِیوندا رہے، تاں ⟨اوہنوں⟩ سزا نئیں دتی جاوےگی، کیونجہ اوہ اوہدے چاندی ⟨دا پیسہ⟩ اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "efafd5c305e539ec4c85953c0f4109b9b2a07437a48b6016c86eebb7348c3067",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/21\/21-24.1792096712045.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "پر"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "יום",
+      "gloss": "اِک دن"
+    },
+    {
+      "surface": "או",
+      "gloss": "جاں"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "دو دن"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "جِیوندا رہے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "سزا دتی جاوےگی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "اوہدے چاندی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ اے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:38:32.046179291Z",
+  "model": "glm-5.3"
+}

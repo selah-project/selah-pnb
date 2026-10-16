@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 22:18",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨سکدا آں⟩",
+      "rationale": "אספר کٹوت 'می گِنّدا آں' اے — پنجابی وِچ 'ہڈیاں گِن' پورا کرن لئی صلاحیت دا فعل پایا"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יביטו יראו",
+      "rationale": "دو دے ہووے 'ویکھن' والے فعل لگاتار — گھور کے تکن دی شدت، پنجابی وِچ 'تکدے تے ویکھدے' رکھیا"
+    }
+  ],
+  "translation": "می اپنیاں ساریاں ہڈیاں گِن ⟨سکدا آں⟩؛ اوہ مینوں تکدے تے ویکھدے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2ad92c003b3d9248353d1062d068ad310d7c65ad3e00ee28844db39ac4229a7a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/22\/17-20.1792112100606.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אספר",
+      "gloss": "می گِن سکدا آں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساریاں"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "اپنیاں ہڈیاں"
+    },
+    {
+      "surface": "המה",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "تکدے نیں"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ویکھدے نیں"
+    },
+    {
+      "surface": "בי",
+      "gloss": "مینوں"
+    }
+  ],
+  "timestamp": "2026-10-16T00:55:00.607236745Z",
+  "model": "glm-5.3"
+}

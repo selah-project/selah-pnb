@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "psalms 119:57",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اے⟩",
+      "rationale": "پنجابی جملہ مخاطب منگدا اے، عبرانی وِچ صیغہ نئیں"
+    },
+    {
+      "kind": "you",
+      "subject": "orator",
+      "rationale": "ربّ نوں سدھا مخاطب کیتا گیا اے"
+    }
+  ],
+  "translation": "میرا حصہ یاہوہ ⟨اے⟩، میں آکھیا اے کہ تیرے بچناں نوں رکھاںگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c62d2c6fea25db93bcfc62af3daededb83a0ba52cc58de8d8fc166957f86fe8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/119\/57-60.1792113816369.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "میرا حصہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "میں آکھیا اے"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "رکھاںگا"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "تیرے بچن"
+    }
+  ],
+  "timestamp": "2026-10-16T01:23:36.370164065Z",
+  "model": "glm-5.3"
+}

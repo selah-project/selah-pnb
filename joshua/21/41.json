@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "joshua 21:41",
+  "book": "joshua",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سن",
+      "rationale": "عبرانی وِچ کوئی مجہول فعل نئیں، پنجابی نوں جُملے لئی فعل چاہیدا"
+    },
+    {
+      "kind": "measurement",
+      "subject": "چالی تے اَٹھ",
+      "rationale": "شہراں دی گنتی — اڑتالی شہر دا حساب"
+    },
+    {
+      "kind": "substitution",
+      "subject": "چراگاہاں",
+      "rationale": "מגרש اُگلی کھلی تھاں اے جتھے اِڈّ چردے نیں، صرف مضافاتی زمین نئیں"
+    }
+  ],
+  "translation": "لاویاں دے سارے شہر یِسرائیل دے پتراں دے قبضے دے وِچکار ⟨سن⟩، چالی شہر تے اَٹھ، تے اوہناں دیاں چراگاہاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "653afc1de28541ef7f4c308f99af58ab034b0200844f42b8befc91db651c6c47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joshua\/21\/41-44.1792101204265.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لاویاں دے"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "دے وِچکار"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "قبضے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پتراں دے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چالی"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "تے اَٹھ"
+    },
+    {
+      "surface": "ומגרשיהן",
+      "gloss": "تے اوہناں دیاں چراگاہاں"
+    }
+  ],
+  "timestamp": "2026-10-15T21:53:24.265971809Z",
+  "model": "glm-5.3"
+}

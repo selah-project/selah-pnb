@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 23:11",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "شبّات دے مگروں کل",
+      "rationale": "مشنا دے مطابق پروڑ جاں پہلا دن؛ صدوسی تے کیرائیت سرِیت شبّات (سبت) منگدے نیں — مشہور اختلاف"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩",
+      "rationale": "فاعل عبرانی وِچ نئیں — پچھلی آیت دا کاہن"
+    },
+    {
+      "kind": "measurement",
+      "subject": "وقت",
+      "rationale": "شبّات توں مگروں کل — رسم دا ٹھیک دن دسیا گیا"
+    }
+  ],
+  "translation": "تے ⟨اوہ⟩ ⟨את⟩ اومر نوں یاہوہ دے ساہمنے لہراوے، تہاڈی پسند ⟨بن کے⟩؛ شبّات دے مگروں کل کاہن اوہنوں لہراوے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "98e274f8b302a2af8663a4b294c6326a67d21bde5b8b724ebb90ea9a35962d0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/23\/9-12.1792098007068.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "تے لہراوے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اومر"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "اومر نوں"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "دے ساہمنے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "تہاڈی پسند لئی"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "دے مگروں کل"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "شبّات"
+    },
+    {
+      "surface": "יניפנו",
+      "gloss": "لہراوے اوہنوں"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    }
+  ],
+  "timestamp": "2026-10-15T21:00:07.069352983Z",
+  "model": "glm-5.3"
+}

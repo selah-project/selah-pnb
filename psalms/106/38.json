@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 106:38",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דם…דם…בדמים",
+      "rationale": "لہو دا تِن واری دہراؤ — آیت دی ہڈی اے، پنجابی وِچ وی تِن واری رکھیا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "میلی ہو گئی",
+      "rationale": "חנף دا مول مطلب 'پھٹکار\/میلا ہونا' اے — 'نجس' ceremonially تنگ لفظ اے"
+    }
+  ],
+  "translation": "تے اوہناں نے معصوم لہو وہایا — اپنیاں پُتراں تے اپنیاں دھیاں دا لہو — جہڑے اوہناں کُنعان دے بتّاں لئی قربان کیتے، تے دھرتی لہوواں نال میلی ہو گئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2584ab0b2b34fe58bc34147c97fae5781c2db4426109cfe3bae8bedbacef795b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/106\/37-40.1792113595405.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישפכו",
+      "gloss": "تے اوہناں نے…وہایا"
+    },
+    {
+      "surface": "דם",
+      "gloss": "لہو"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "معصوم"
+    },
+    {
+      "surface": "דם",
+      "gloss": "لہو"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "اپنیاں پُتراں"
+    },
+    {
+      "surface": "ובנותיהם",
+      "gloss": "تے اپنیاں دھیاں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جہڑے"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "قربان کیتے"
+    },
+    {
+      "surface": "לעצבי",
+      "gloss": "بتّاں لئی"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کُنعان"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "تے…میلی ہو گئی"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "دھرتی"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "لہوواں نال"
+    }
+  ],
+  "timestamp": "2026-10-16T01:19:55.405950080Z",
+  "model": "glm-5.3"
+}

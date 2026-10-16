@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 15:6",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חסן",
+      "rationale": "חסן: 'دولت\/خزانہ' بنام YLT دا 'طاقت' — بوہتے ترجمے دولت آکھدے نیں۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נעכרת",
+      "gloss-missing": true,
+      "rationale": "עכר دا مول 'پانی مِتھا کرنا' — ایتھے 'گڑبڑ\/تنگی' بندی اے۔"
+    }
+  ],
+  "translation": "نیاے والے دا گھر وڈی دولت اے، پر بدکاراں دی آمد وِچ گڑبڑ اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "37c8f20d94c77a270694137ac827fa8a9cf240f9f27269f655d367465573d74f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/15\/5-8.1792114707763.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "نیاے والے دا"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "دولت"
+    },
+    {
+      "surface": "רב",
+      "gloss": "وڈی"
+    },
+    {
+      "surface": "ובתבואת",
+      "gloss": "پر آمد وِچ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدکاراں دی"
+    },
+    {
+      "surface": "נעכרת",
+      "gloss": "گڑبڑ اے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:38:27.764121686Z",
+  "model": "glm-5.3"
+}

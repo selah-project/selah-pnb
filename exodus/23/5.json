@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 23:5",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "עזב תעזב",
+      "rationale": "عبرانی دا توکیدی اِنفینٹِو — پنجابی وِچ 'ضرور' نال چُکاں، اوہدی توکید دسدا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "וחדלת מעזב לו",
+      "rationale": " پرکھ اے: 'تُوں رُک جا چُکا اے' (سوال\/طعنہ) بمقابلہ 'تُوں رُکن نئیں' — KJV پہلی، JPS دوجی طرز"
+    },
+    {
+      "kind": "addition",
+      "subject": "دشمن",
+      "rationale": "שנאך 'تینوں سَٹھن والا' اے؛ 'دشمن' قدرتی پنجابی اے پر موٹا اے"
+    }
+  ],
+  "translation": "جدوں تُوں ویکھے کہ تیرے ⟨دشمن⟩ دی کھوٹا اوہدے بھار ہیٹھاں لیٹی اے، تے تُوں اوہنوں چھڈن توں رُک جاوے، تُوں اوہدے نال ⟨ضرور⟩ چھڈویں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c0c585789626f2fee303a3e7af77154ea080d0f936fa8dcc57a77b1c213ca524",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/23\/5-8.1792096718026.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "جدوں"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "تُوں ویکھے"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "کھوٹا"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "تیرے دشمن دی"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "لیٹی اے"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ہیٹھاں"
+    },
+    {
+      "surface": "משאו",
+      "gloss": "اوہدے بھار"
+    },
+    {
+      "surface": "וחדלת",
+      "gloss": "تے تُوں رُک جاوے"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "چھڈن توں"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہنوں"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "چھڈنا"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "چھڈویں گا"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "اوہدے نال"
+    }
+  ],
+  "timestamp": "2026-10-15T20:38:38.027461465Z",
+  "model": "glm-5.3"
+}

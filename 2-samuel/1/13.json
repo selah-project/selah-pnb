@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 1:13",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ایہہ",
+      "rationale": "پنجابی دے جملے لئی جوڑ دا لفظ، عبرانی وِچ نئیں"
+    },
+    {
+      "kind": "alternative",
+      "subject": "پردیسی دا پُتر",
+      "rationale": "جے پی ایس دی طرح پڑھیے تاں بندہ خود عمالقی پردیسی اے، نہ کہ اِک پردیسی دا پُتر"
+    }
+  ],
+  "translation": "تے داوِد نے اُس نوجوان نوں، جیہڑا اوہنوں ⟨ایہہ⟩ دسدا سی، آکھیا: تُوں کتھوں دا ایں؟ تے اوہنے آکھیا: اِک پردیسی دا پُتر، عمالقی، اَناں آں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b7b729e46a591d540646099deee06688839aefa1921c663221c56e711027b9ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/1\/13-16.1792103094928.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "اُس نوجوان"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "دسدا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہنوں"
+    },
+    {
+      "surface": "אי",
+      "gloss": "کتھوں"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُوں"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "גר",
+      "gloss": "پردیسی"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "عمالقی"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "اَناں"
+    }
+  ],
+  "timestamp": "2026-10-15T22:24:54.929073342Z",
+  "model": "glm-5.3"
+}

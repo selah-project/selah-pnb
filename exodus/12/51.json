@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "exodus 12:51",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בעצם היום",
+      "rationale": "لفظی 'دن دی ہڈی' — یعنی 'اوسے ای دن'، پنجابی وچ سمجھایا گیا"
+    },
+    {
+      "kind": "crux",
+      "subject": "על צבאתם",
+      "rationale": "'دستیاں اُتے\/نال' — کجھ ترجمے 'منظم لشکراں وچ' آکھدے نیں؛ لفظی 'اُتے' رکھیا"
+    }
+  ],
+  "translation": "تے اُسے دن، اُس دی ہڈی ⟨یعنی اوسے دن⟩، یاہوہ نے ⟨את⟩ یِسرائیل دے پُتراں نوں مِتصرایم دے مُلک توں اوہناں دے دستیاں اُتے کڈھیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5848b63ae38dea267daa8a2fe41a1bcedfbba8abb5adbc345a51aff5971f70b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/12\/49-51.1792096439983.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے ہویا"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "اُس دی ہڈی ⟨یعنی اوسے⟩"
+    },
+    {
+      "surface": "היום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اُسے"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "کڈھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یِسرائیل دے پُتر"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں نوں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل دے"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "مُلک توں"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "צבאתם",
+      "gloss": "اوہناں دے دستی"
+    }
+  ],
+  "timestamp": "2026-10-15T20:33:59.984302927Z",
+  "model": "glm-5.3"
+}

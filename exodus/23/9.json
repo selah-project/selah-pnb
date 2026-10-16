@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 23:9",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جان دے زندگی-زور نیں، دل نئیں — ریتی ترجمے 'دل' لکھدے نیں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גר\/גרים",
+      "rationale": "پراوا شبد اِی تن واری آوندا اے — وجہ تے حکم اِکو تِنے تھاواں تے رلدے نیں"
+    },
+    {
+      "kind": "you",
+      "subject": "بنی اسرائیل",
+      "rationale": "حکم براہِ کلام اِسرائیل نوں اے"
+    }
+  ],
+  "translation": "تے ⟨את⟩ پراوے نوں نہ دباؤ، کیونکہ تُسیں پراوے دی جان جانالدے او، کیونکہ تُسیں مِتصرایم دے دیس وِچ پراوے رئے او۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6dec472d277ca4b284cf7c1e10c3b415e3e19755dfdfe02f053ff89bf7763595",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/23\/9-12.1792096736676.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "تے پراوے نوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תלחץ",
+      "gloss": "دباؤ"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "کیونکہ تُسیں"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "جانالدے او"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پراوے دی جان"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "پراوے دی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "پراوے"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "رئے او"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "دے دیس وِچ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم"
+    }
+  ],
+  "timestamp": "2026-10-15T20:38:56.676898398Z",
+  "model": "glm-5.3"
+}

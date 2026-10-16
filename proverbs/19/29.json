@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 19:29",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "سزاواں",
+      "rationale": "שפטים ایتھے 'عدالت\/فیصلے' نئیں سگوں سزا دین دے وارے نیں۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "دی",
+      "rationale": "לגו כסילים دی مُرکب بندش لئی پنجابی 'دی' منگدی اے۔"
+    }
+  ],
+  "translation": "مُقرَر نیں لِٹکن والیاں لئی سزاواں، تے ماراں کاسِلاں دی پیٹھ لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "84c7adda759983a21c4444784e23d64a5b7075439c223c92b82a96301cabacf7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/19\/29-29.1792114822558.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נכונו",
+      "gloss": "مُقرَر نیں"
+    },
+    {
+      "surface": "ללצים",
+      "gloss": "لِٹکن والیاں لئی"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "سزاواں"
+    },
+    {
+      "surface": "ומהלמות",
+      "gloss": "تے ماراں"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "پیٹھ لئی"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "کاسِلاں دی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:40:22.558831305Z",
+  "model": "glm-5.3"
+}

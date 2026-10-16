@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 80:20",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "فریاد",
+      "rationale": "آیت یاہوہ نوں سدھی پُکار اِے — 'سانوں مُڑا' دا حکم والا بندش دعائیہ اِے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "השיבנו\/ונושעה",
+      "rationale": "שוב (مُڑنا) تے ישע (نجت دینا) دی آواز ملدی اِے — 'مُڑا تے بچا' دا چمبڑوا جوڑا"
+    }
+  ],
+  "translation": "یاہوہ ایلوہیم تصواوت، سانوں مُڑا، اپنے اِکھاں دا چمکا تے اسیں نجات پا لواں گے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6d83465c25002a10c00071672b9e0500428c68a6fb2586f2190e797e97e2935d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/80\/17-20.1792113176909.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "تصواوت"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "سانوں مُڑا"
+    },
+    {
+      "surface": "האר",
+      "gloss": "چمکا"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "اپنے اِکھاں دا"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "تے اسیں نجات پا لواں گے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:12:56.910531759Z",
+  "model": "glm-5.3"
+}

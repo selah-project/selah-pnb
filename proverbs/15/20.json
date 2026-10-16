@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 15:20",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "כסיל",
+      "gloss_": "لفظی 'موٹا' — مطلب نادان\/موٹا-بھالا؛ پنجابی 'موٹا-بھالا' دوہرا مطلب رکھدا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "اپنی",
+      "rationale": "אמו وِچ 'اوہدیاں' دا پہلو پہلے شخص واسطے 'اپنی' ای پنجابی ٹھیک دسدا اے"
+    }
+  ],
+  "translation": "سیانا پُتر پیو نوں خوش کردا اے، پر موٹا-بھالا بندہ اپنی ماں نوں حقیر جاندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "173c25e58a233029735c8f8bc41f3aacef86cd2baf14377cf8a7b3e33745467f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/15\/17-20.1792114764912.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "سیانا"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "خوش کردا اے"
+    },
+    {
+      "surface": "אב",
+      "gloss": "پیو نوں"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "پر موٹا-بھالا"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "حقیر جاندا اے"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "اپنی ماں نوں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:39:24.913880631Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 8:25",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mṣbʾ hʿbdh",
+      "rationale": "צבא 'service-host' — لہویاں دی سیوا لئی فوجی لفظ، پنجابی وِچ 'خدمت دا ٹبر'۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "پنجاہ سال",
+      "rationale": "لیویاں دی سیوا دی عمر دی حد۔"
+    }
+  ],
+  "translation": "تے پنجاہ سال دی عمر توں اوہ خدمت دے ٹبر توں مُڑ آؤ، تے ہور خدمت نہ کرے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "28933ed394d984f3063532df253a2435a1ab93db37f20c16786725d732f8fae6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/8\/25-26.1792098453518.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומבן",
+      "gloss": "تے عمر توں"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاہ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "مُڑ آؤ"
+    },
+    {
+      "surface": "מצבא",
+      "gloss": "دے ٹبر توں"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "خدمت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "کرے"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ہور"
+    }
+  ],
+  "timestamp": "2026-10-15T21:07:33.518582855Z",
+  "model": "glm-5.3"
+}

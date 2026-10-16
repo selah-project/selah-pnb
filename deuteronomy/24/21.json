@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 24:21",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אחריך",
+      "rationale": "לא תעולל אחריך literally 'do not act\/glean after yourself' — rendered as 'do not glean behind'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "gleaning law",
+      "rationale": "Verse sets a quota rule — harvest counted, remainder assigned to the vulnerable."
+    }
+  ],
+  "translation": "جدے تے توں اپنی مئی کٹدا، پچھوں چُگنا نہیں — پرائسی، یتیم تے ودھوے لئی ہووے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "54f27ec52a52efc26e7dbccea8931f2ea49373bd2da1bf30f54911b64667de07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/24\/21-22.1792100249813.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "جدے تے"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "توں کٹدا"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "اپنی مئی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "چُگنا"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "پچھوں"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "پرائسی لئی"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "یتیم لئی"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "تے ودھوے لئی"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہووے"
+    }
+  ],
+  "timestamp": "2026-10-15T21:37:29.814523166Z",
+  "model": "glm-5.3"
+}

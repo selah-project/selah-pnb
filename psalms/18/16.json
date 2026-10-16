@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 18:16",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "غصہ",
+      "rationale": "אף شکل طور تے نَکّ\/نَسّ اے، غصے دی تصویر — پنجابی وِچ دوواں رکھیاں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רוח נשמה אף",
+      "rationale": "ساہ\/ہوا\/نَسّ دی تِن پرتاں — اِکو تصویر وِچ، پنجابی وِچ سارے وکھرے لفظ بن جاندے نیں"
+    },
+    {
+      "kind": "you",
+      "subject": "یاہوہ",
+      "rationale": "سدیاں مخاطب — دعا دا رخ یاہوہ ول"
+    }
+  ],
+  "translation": "تے پانیاں دے وَہݨ وِیکھے گۓ، تے دھرتی دیاں نیہاں کھُلھ گئیاں — تیرے ٹوہرے توں، اے یاہوہ، تیرے نَسّ دی ہوا دے پھُوک توں، جو تیرے غصے دا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "608c6fed06f7833bbbefd115254c0e4e2e7d5951059d2364ce59478d255b4ba9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/18\/13-16.1792112058730.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "تے وِیکھے گۓ"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "وَہݨ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پانیاں دے"
+    },
+    {
+      "surface": "ויגלו",
+      "gloss": "تے کھُلھ گئیاں"
+    },
+    {
+      "surface": "מוסדות",
+      "gloss": "نیہاں"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "دھرتی دیاں"
+    },
+    {
+      "surface": "מגערתך",
+      "gloss": "تیرے ٹوہرے توں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "מנשמת",
+      "gloss": "دی ہوا دے پھُوک توں"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "نَسّ دی"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "تیرے غصے دا"
+    }
+  ],
+  "timestamp": "2026-10-16T00:54:18.731716494Z",
+  "model": "glm-5.3"
+}

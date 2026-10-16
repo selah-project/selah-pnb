@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 18:1",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "تِجے ورھے",
+      "rationale": "راج دی مِتی — ہوشِیع دا تِجا ورھا حِزقیاہ دے تخت چُکن دا ویلہ۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨کہ⟩",
+      "rationale": "عبرانی وِچ واو- consecutive دی سِلسلہ بندی اے؛ پنجابی جملے لئی جوڑ چاہیدا سی۔"
+    }
+  ],
+  "translation": "تے ہویا ہوشِیع پُتر ایلا بادشاہ یِسرائیل دے تِجے ورھے ⟨کہ⟩ حِزقیاہ پُتر آخاز بادشاہ یہوداہ نے تخت چُکیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b9a9be179069d20ac4b5e00cf707e4171bd1ea5b311859722fc2703ef06e0e6a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/18\/1-4.1792105496055.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے ہویا"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "…دے ورھے"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "تِجے"
+    },
+    {
+      "surface": "להושע",
+      "gloss": "ہوشِیع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایلا"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "تخت چُکیا"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "حِزقیاہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "آخاز"
+    },
+    {
+      "surface": "مלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    }
+  ],
+  "timestamp": "2026-10-15T23:04:56.055601657Z",
+  "model": "glm-5.3"
+}

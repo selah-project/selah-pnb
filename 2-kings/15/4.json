@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 15:4",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "باموت",
+      "rationale": "הבמות مطلب ‘اُچیاں تھاواں’ — پوجا دی اُچی تھاواں؛ ‘ہائی پلیسز’ ریتاں دا لفظ اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "ہٹائیاں",
+      "rationale": "عبرانی وِچ انجن صیغہ ‘ہٹیاں گئیاں’ اے، پنجابی نوں ‘ہٹائیاں’ دا روپ چاہیدا اے"
+    }
+  ],
+  "translation": "سِر٘ف اُچیاں تھاواں ⟨ہٹائیاں⟩ نئیں گئیاں؛ ہالے وی لوک اُچیاں تھاواں اُتے قربانیاں کٹدے تے خوشبو ساڑدے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2e2b7ca35547245dcec68244e5ea961a7a6da19c6f22aa08252c0638217c24cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/15\/1-4.1792105333650.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "سِر٘ف"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "اُچیاں تھاواں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "ہٹیاں گئیاں ⟨ہٹائیاں⟩"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ہالے وی"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوک"
+    },
+    {
+      "surface": "مזבחים",
+      "gloss": "قربانیاں کٹدے نیں"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "تے خوشبو ساڑدے نیں"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "اُچیاں تھاواں اُتے"
+    }
+  ],
+  "timestamp": "2026-10-15T23:02:13.651154806Z",
+  "model": "glm-5.3"
+}

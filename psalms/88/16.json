@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 88:16",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 88,
+  "notes": [
+    {
+      "kind": "translation",
+      "subject": "אמיך",
+      "rationale": "אימה — 'ایماہ' — مطلب اے 'ہول، ڈر' — اِتھے 'terrors' دی تھاں 'ہولے' (ڈراونے ہول) ورتیا گیا اے۔"
+    },
+    {
+      "kind": "translation",
+      "subject": "אפונה",
+      "rationale": "אפונה — 'اپھونا' — 'پھُنس جانا' دا مطلب اے — 'دھاگے وچ الجھ جانا، کویں نہ بنھنا'؛ 'ہٹّھا ہونا' یا 'پھنس جانا' دوویں ٹھیک نیں۔"
+    }
+  ],
+  "translation": "میں ترِکھا ہویا آں تے نڑکتا ہویا آں — نِکی عمر توں ای؛ میں تیرے ہولے چُکیے نیں — میں ہٹّھا ہو رہیا آں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3c3eff354bf1ac25a5a0e5308c92c07f1b584ab82d017c95d8e0f745392d71a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/88\/13-16.1792113224848.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "ترِکھا ہویا"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں…آں"
+    },
+    {
+      "surface": "וגוע",
+      "gloss": "تے نڑکتا ہویا"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "نِکی عمر توں ای"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "چُکیے نیں"
+    },
+    {
+      "surface": "אמיך",
+      "gloss": "تیرے ہولے"
+    },
+    {
+      "surface": "אפונה",
+      "gloss": "میں ہٹّھا ہو رہیا آں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:13:44.848949122Z",
+  "model": "glm-5.3"
+}

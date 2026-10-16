@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 18:42",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "جواب",
+      "rationale": "ענם پاسخ دین دا کم دسدا اے؛ پنجابی نوں جواب شبد منگدا۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישועו\/מושיע",
+      "rationale": "اکو جڑ ש-ו-ע چِکارن تے بچاون وِچ؛ پنجابی وِچ ایہہ قافیا رہِ گیا۔"
+    }
+  ],
+  "translation": "اوہ چِلاندے نیں پر کوئی بچان والا نئیں؛ یاہوہ نوں ⟨چِلائیا⟩ پر اوہنے جواب نئیں دِتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0a460fcaeb27057d7c4ab7987ab5e8a73976405710b9d6ddf737cd7530d95a60",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/18\/41-44.1792112060652.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישועו",
+      "gloss": "اوہ چِلاندے نیں"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "پر کوئی … نئیں"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "بچان والا"
+    },
+    {
+      "surface": "על",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "پر نئیں"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "جواب دِتا"
+    }
+  ],
+  "timestamp": "2026-10-16T00:54:20.653254869Z",
+  "model": "glm-5.3"
+}

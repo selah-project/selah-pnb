@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 21:18",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "סורר ומורה",
+      "rationale": "'سرکش تے کڑوا\/بغاوت والا' — ربی روایت ایہنوں خاص فقہ اصطلاح سمجھدی اے، ساری عمر دا نئیں"
+    },
+    {
+      "kind": "addition",
+      "subject": "ויסרו",
+      "rationale": "عبرانی صرف 'تے اوہناں اوہدے نوں (تنگ کیتا)' — 'تنگ' کرنا سیاق توں گلاس وِچ"
+    }
+  ],
+  "translation": "جے کسے بندے دا پتر سرکش تے آواز نہ منن والا ہووے — اوہ اپنے پیو دی آواز تے اپنی ماں دی آواز نئیں سُندا — تے اوہناں اوہدے نوں تے اوہ اوہناں دی گل نہ سُنے،",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0318a50caa5066129ab87ff107c42a9ae2653e60d5306603e729f4b5da763c3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/21\/17-20.1792100203901.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "جے"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہووے"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "کسے بندے دا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پتر"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "سرکش"
+    },
+    {
+      "surface": "ומורה",
+      "gloss": "تے آواز نہ منن والا"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سُندا"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "دی آواز"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "اپنے پیو"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "تے…دی آواز"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "اپنی ماں"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "تے اوہناں اوہدے نوں"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "اوہدے نوں"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "سُنے"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "اوہناں دی گل"
+    }
+  ],
+  "timestamp": "2026-10-15T21:36:43.902016848Z",
+  "model": "glm-5.3"
+}

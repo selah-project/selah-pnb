@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 63:6",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "نצחם",
+      "rationale": "لفظی 'اوہناں دا انگور دا رَس' (خون-رنگ) — ترجمے 'طاقت' (KJV) یا 'لہو' (JPS) آکھدے نیں"
+    },
+    {
+      "kind": "crux",
+      "subject": "נצחם",
+      "rationale": "'انگور-رَس' بمقابلہ 'لہو' بمقابلہ 'طاقت' — پرانا فرق"
+    }
+  ],
+  "translation": "تے میں قوماں نوں اپنے ناس نال رونداں، تے اپنی غصہ نال اوہناں نوں نشہ کرdda، تے اوہناں دا انگور-رَس دھرتی اُتے ٹَل دتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "58f5760b0fc2985f12f047f01c9e8e5fce91c18602dbc44702070c5142a6427c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/63\/5-8.1792107122534.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואבוס",
+      "gloss": "تے میں رونداں"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "قوماں نوں"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "اپنے ناس نال"
+    },
+    {
+      "surface": "وאשכרם",
+      "gloss": "تے اوہناں نوں نشہ کیتا"
+    },
+    {
+      "surface": "בחמתי",
+      "gloss": "اپنی غصہ نال"
+    },
+    {
+      "surface": "ואוריד",
+      "gloss": "تے ٹَل دتا"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "دھرتی اُتے"
+    },
+    {
+      "surface": "نצחם",
+      "gloss": "اوہناں دا انگور-رَس"
+    }
+  ],
+  "timestamp": "2026-10-15T23:32:02.534990858Z",
+  "model": "glm-5.3"
+}

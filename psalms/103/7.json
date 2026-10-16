@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 103:7",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوہ",
+      "rationale": "جملے دا مطلع יהוה پچھلی آیت توں آندا اے؛ پنجابی لئی ضمیر 'اوہ' پایا گیا۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עלילותיו",
+      "rationale": "لفظی 'اوہدے کیتے ہوئے کماں' — 'وہنے کم' (کارنامے) دا محاورہ؛ 'معجزے' لکھنا اگّوں جانے بِنا ہووے گا۔"
+    }
+  ],
+  "translation": "اوہ موشے نوں اپنیاں راہواں جانوں کردا اے، یِسرائیل دے پتراں نوں اوہدے وہنے کم۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "76921e225b98ec9ed64292986f687e5ad0aa90daadad06d654cd0993598f9e85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/103\/5-8.1792113472934.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יודיע",
+      "gloss": "جانوں کردا اے"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "اپنیاں راہواں"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "موشے نوں"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "… دے پتراں نوں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "اوہدے وہنے کم"
+    }
+  ],
+  "timestamp": "2026-10-16T01:17:52.935584251Z",
+  "model": "glm-5.3"
+}

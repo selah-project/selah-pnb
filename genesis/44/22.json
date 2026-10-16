@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 44:22",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ومת",
+      "rationale": "متن دی مکمل شکل وِچ مرن والا نوجوان اے؛ بہوں ترجمے پیو نوں سمجھدے نیں — پنجابی نے متن دے روپ نوں کھولا رکھیا ⟨اوہ⟩ نال"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩",
+      "rationale": "عبرانی فاعل لکھدا اے پر پنجابی جملہ فاعل منگدا اے"
+    }
+  ],
+  "translation": "تے اسیں اپنے سائیں نوں آکھیا: اوہ نوجوان اپنے پیو نوں نئیں چھڈّ سکدا؛ تے جے اوہ ⟨את⟩ اپنے پیو نوں چھڈّے تاں ⟨اوہ⟩ مر جاوے گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5c3d7b915734945335198bfb967da9e29d2b152041fa9243dd5f30456f19980c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/44\/21-24.1792095861978.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "تے اسیں آکھیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اپنے سائیں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "سکدا"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "اوہ نوجوان"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "چھڈّنے نوں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنے پیو نوں"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "اپنے پیو"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "تے چھڈّے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنے پیو نوں"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "اپنے پیو"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "تے مر جاوے گا"
+    }
+  ],
+  "timestamp": "2026-10-15T20:24:21.979813374Z",
+  "model": "glm-5.3"
+}

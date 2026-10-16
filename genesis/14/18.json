@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 14:18",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨سی⟩",
+      "rationale": "عبرانی وِچ کوپula نئیں — 'تے اوہ کاہن' — پنجابی 'سی' منگدا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "شالیم",
+      "rationale": "שלם نوں کئی یروشلایم دا پرانا ناں سمجھدے نیں، کئی وکھری تھاں"
+    },
+    {
+      "kind": "hapax",
+      "subject": "مَلکی صِدِق",
+      "rationale": "ایہہ بندہ تنخ وِچ صرف ایتھے تے زبور 110 وِچ آندا اے، تنخ خود اُسدی پچھان نئیں کھولھدا"
+    }
+  ],
+  "translation": "تے مَلکی صِدِق، شالیم دا بادشاہ، روٹی تے شراب لیایا، تے اوہ ایل عِلیون ⟨دا⟩ کاہن ⟨سی⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "55782f98672e34f12ed78adb37df45ab31634aaacdd170a11cdd72f6bad8e439",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/14\/17-20.1792094929729.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומלכי",
+      "gloss": "تے مَلکی"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "صِدِق"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "شالیم"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "لیایا"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "روٹی"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "تے شراب"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "تے اوہ"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "عِلیون ⟨دا⟩"
+    }
+  ],
+  "timestamp": "2026-10-15T20:08:49.729809852Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 18:23",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ve-tzivekha Elohim",
+      "rationale": "'and God commands you' — conditional (if God so commands) or causal (because God commands); translators split."
+    },
+    {
+      "kind": "you",
+      "subject": "to Moshe",
+      "rationale": "conditional clause addressed directly to Moshe."
+    }
+  ],
+  "translation": "جے تُوں ⟨את⟩ ایہہ گل کریں تے ایلوہیم تینوں ایہو حکم دیوے، تے تُوں ٹک سکویں، تے ایہہ سارا قوم وی اپنی تھاں تے سلامتی نال آ جاوے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "85a8c5fa058ad4f40a39c13d40b4c4cb6914fd8dd8ad14fda21132dae84ff053",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/18\/21-24.1792096624840.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایہہ گل"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ایہہ گل"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "کریں"
+    },
+    {
+      "surface": "וצוך",
+      "gloss": "تے حکم دیوے"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "ויכלת",
+      "gloss": "تے تُوں سکویں"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ٹک"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "تے وی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اپنی"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "تھاں تے"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "آ جاوے"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "سلامتی نال"
+    }
+  ],
+  "timestamp": "2026-10-15T20:37:04.841368397Z",
+  "model": "glm-5.3"
+}

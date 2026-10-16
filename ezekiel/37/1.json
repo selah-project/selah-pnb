@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 37:1",
+  "book": "ezekiel",
+  "lang": "pnb",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "روح",
+      "rationale": "רוח دا مطلب ہوا\/ساہ\/روح — پنجابی وِچ اِک لفظ روح رکھیا اے، ہوا وی جائز اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "אין-כן دے مگروں پنجابی کوپلا 'سی' منگدا اے جیہڑا عبرانی وِچ نئیں"
+    }
+  ],
+  "translation": "یاہوہ دا ہتھ میرے اُتے ہویا، تے اوہنے مینوں یاہوہ دی روح وِچ کڈھیا، تے مینوں وادی وِچ لا دتا، تے اوہ ہڈیاں نال بھری ہوئی سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1c399e9c78506042a1113dc1c8c0a8868f76c6c7895890eefdd5d57653f05254",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/37\/1-4.1792110078805.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "ہویا"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "میرے اُتے"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ויוצאני",
+      "gloss": "تے اوہنے مینوں کڈھیا"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "روح وِچ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ויניחני",
+      "gloss": "تے مینوں لا دتا"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "הבקעה",
+      "gloss": "وادی"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "تے اوہ"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "بھری ہوئی"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "ہڈیاں نال"
+    }
+  ],
+  "timestamp": "2026-10-16T00:21:18.806285454Z",
+  "model": "glm-5.3"
+}

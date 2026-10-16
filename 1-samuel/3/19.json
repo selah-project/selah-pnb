@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 3:19",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "بچن زمین اُتے نہ ڈگݨا",
+      "rationale": "הִפִּיל מִכָּל דְּבָרָיו אָרְצָה — نبوت دی سچائی دا عبرانی محاورہ: بچن بے اثر نہ ہوئے؛ پنجابی وِچ مُردہ تصویر رکھی اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ڈگیا",
+      "rationale": "עשׂה עמו نوں 'رہندا رہیا' دتا — נפל سبجیکٹ یاہوہ اے، 'جھَٹیا' نئیں؛ سبجیکٹ وٹاہ نتے وضاحت"
+    }
+  ],
+  "translation": "تے شموایل وڈّا ہندا گیا، تے یاہوہ اوہدے نال رہندا رہیا، تے اوہدے کسے بچن نوں اِک وی زمین اُتے نہ ڈگیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "91e05fc1df168d39f28f62dda997653f4c40bbb6f104d8c747bca9ebe6506b94",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/3\/18-19.1792123650866.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "تے…وڈّا ہندا گیا"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموایل"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "تے یاہوہ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "رہندا رہیا"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "اوہدے نال"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "הפיל",
+      "gloss": "ڈگیا"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "کسے…توں اِک وی"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "اوہدے بچن نوں"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "زمین اُتے"
+    }
+  ],
+  "timestamp": "2026-10-16T04:07:30.867624150Z",
+  "model": "glm-5.3"
+}

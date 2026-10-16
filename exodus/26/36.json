@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 26:36",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨خیمے⟩",
+      "rationale": "ہا-اُوہیل دے ضمیر لئی پنجابی نامِ جنس منگدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "کریمی سُرخ",
+      "rationale": "תולעת שני دوجِھی لفظی 'کیڑے دا سُرخ' اے — رنگ دا ناں بن گیا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "نیلا",
+      "rationale": "תכלת خاص وایوکٹ رنگ اے، 'نیلا' نیڑلا عام لفظ اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "رُوکیم",
+      "rationale": "'کڑھائی کرن آلا' (جےپیئیس) بمقابلہ 'بنن آلا' — کڑھائی دا کم چُنیا"
+    }
+  ],
+  "translation": "تے توں اُوہیل ⟨خیمے⟩ دے دہانے لئی پردہ بنائیں — نیلا، ارغوانی، کریمی سُرخ تے مُڑیا ہویا باریک سُوتی — کڑھائی دا کم۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "df80509d9c83221d20e70f8456900c7c69e580c0b2d2ef59f03df9feeb8393a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/26\/36-36.1792123291001.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "تے توں بنائیں"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "پردہ"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "دہانے لئی"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "اُوہیل ⟨خیمے⟩ دے"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "نیلا"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "ارغوانی"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "کریمی"
+    },
+    {
+      "surface": "שני",
+      "gloss": "سُرخ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "باریک سُوتی"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "مُڑیا ہویا"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کم"
+    },
+    {
+      "surface": "רקם",
+      "gloss": "کڑھائی دا"
+    }
+  ],
+  "timestamp": "2026-10-16T04:01:31.002581499Z",
+  "model": "glm-5.3"
+}

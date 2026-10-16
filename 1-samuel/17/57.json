@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "1-samuel 17:57",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "آیت دے انت تے اسمی جملے لئی پنجابی نوں copula چائیدا اے، عبرانی وِچ نئیں"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "aleph-tav دی جُڑی شکل، صرف ⟨את⟩ نشان دے روپ وِچ رکھیا"
+    }
+  ],
+  "translation": "تے داوِد دے ⟨את⟩ فلستی نوں مار کے مُڑن تے اَبنیر نے ⟨את⟩ اوہنوں لے کے شاؤل دے اگے لیاندا، تے فلستی دا سر اوہدی ہتھ وِچ سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "26a397729d4ab302a1c3ed08867b1d6ac4734bc2b64cdde5e51d6311699b4e30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/17\/57-58.1792102650373.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכשוב",
+      "gloss": "تے مُڑن تے"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "مار کے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "فلستی"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "فلستی"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "تے لے لیا"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "داوِد"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "اَبنیر"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "تے اوہنوں لیاندا"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "دے اگے"
+    },
+    {
+      "surface": "שאوול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "تے سر"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "فلستی"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "اوہدی ہتھ وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T22:17:30.373733229Z",
+  "model": "glm-5.3"
+}

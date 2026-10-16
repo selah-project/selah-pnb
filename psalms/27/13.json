@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 27:13",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לולא",
+      "rationale": "ایلیپٹک 'جے نئیں' — کجھ ترجمے مکمل کردے نیں ('میں ہار جاندا')، کجھ جیویں اے چھڈ دیندے نیں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "האמנתי \/ חיים",
+      "rationale": "אמן (یقین) تے חיים (جیون) دی گونج — 'اُمان' تے 'حیّیم'، پنجابی وِچ ہلدی اے پر ہلکی"
+    }
+  ],
+  "translation": "جے نئیں — میں یقین رکھیا کہ میں یاہوہ دی چنگائی نوں جیوندیاں دی زمین وِچ ویکھاں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7279dd61c31884fd87504f0892046dbd010a32df671d465ed354dd2a9719f65c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/27\/13-14.1792112129360.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לולא",
+      "gloss": "جے نئیں"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "میں یقین رکھیا"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ویکھن لئی"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "چنگائی وِچ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین وِچ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "جیوندیاں دی"
+    }
+  ],
+  "timestamp": "2026-10-16T00:55:29.360519646Z",
+  "model": "glm-5.3"
+}

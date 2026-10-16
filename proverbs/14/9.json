@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 14:9",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אשם",
+      "rationale": "قصور بنام قصور دی قربانی؛ ASV موضوع-مفعول پلٹ دیندا اے ('قصور دی قربانی مورکھاں دا مذاق اُڑاندی اے')"
+    },
+    {
+      "kind": "addition",
+      "subject": "ہوندی",
+      "rationale": "عبرانی وِچ کوئی کریا نئیں، پنجابی جملہ منگدا اے"
+    }
+  ],
+  "translation": "مورکھ قصور دا مذاق اُڑاندے نیں، پر سِدھیاں وِچ چنگیائی ⟨ہوندی⟩ اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "69afcab67d2b04cc3d035ddcb405694f97d806bcedb7294861e5089950dca0ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/14\/9-12.1792114607776.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "مورکھ"
+    },
+    {
+      "surface": "יליץ",
+      "gloss": "مذاق اُڑاندے نیں"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "قصور دا"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "پر …وِچ"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "سِدھیاں"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "چنگیائی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:36:47.776739727Z",
+  "model": "glm-5.3"
+}

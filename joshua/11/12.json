@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 11:12",
+  "book": "joshua",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "ماضی کامل دا معاون فعل پنجابی نے پایا، عبرانی وِچ نئیں"
+    },
+    {
+      "kind": "idiom",
+      "subject": "לפי חרב",
+      "rationale": "لفظی 'تلوار دے مونہ نال' — 'دہار نال'"
+    }
+  ],
+  "translation": "تے ⟨את⟩ اوہناں بادشاہاں دیاں سبھ شہراں نوں تے ⟨את⟩ اوہناں دے سبھ بادشاہاں نوں یَہوشُوَا نے پھڑیا، تے اوہناں نوں تلوار دی دہار نال ماریا — ⟨את⟩ ⟨אותם⟩ حرام کر دتا، جیویں موشے، یاہوہ دے بندے نے حکم کیتا سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2e957455d72014792a99304929dfde5480d3079de9f83a9c40e0e3de0973fb15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joshua\/11\/9-12.1792100979529.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "سبھ شہراں نوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سبھ"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "شہراں نوں"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "بادشاہاں دیاں"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "اوہناں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "سبھ بادشاہاں نوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سبھ"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "بادشاہاں نوں"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "پھڑیا"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یَہوشُوَا"
+    },
+    {
+      "surface": "ויכם",
+      "gloss": "ماریا"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "دہار نال"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "تلوار دی"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "حرام کر دتا"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "اوہناں نوں"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم کیتا سی"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-10-15T21:49:39.531729739Z",
+  "model": "glm-5.3"
+}

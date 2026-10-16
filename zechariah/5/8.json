@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 5:8",
+  "book": "zechariah",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "بدی",
+      "rationale": "הרשעה مادّہ اے — 'بدکاری' جاں 'بدی'؛ KJV 'Wickedness' انوں پاتر دسدا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וישלך ... וישלך",
+      "rationale": "اوہو فعل دو واری — عورت سُٹنا تے پتھر سُٹنا، اِکو تلوار دے دو وارے"
+    }
+  ],
+  "translation": "تے اوہنے آکھیا: ایہہ بدی اے۔ تے اوہنے ⟨את⟩ اوہنوں ایفہ دے وِچکار سُٹ دتا، تے اوہنے ⟨את⟩ سیسے دا پتھر اوہدے مونہہ اُتے سُٹ دتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f30b90cea97e6cd839f3d93217996b6213405041827c6678df8d97a3d87852f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/zechariah\/5\/5-8.1792111527038.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے اوہنے آکھیا"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "הרשעה",
+      "gloss": "بدی"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "تے سُٹ دتا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "اوہنوں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "وِچکار"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "ایفہ"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "تے سُٹ دتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سیسے دا پتھر"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "پتھر"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "سیسے دا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "اوہدے مونہہ"
+    }
+  ],
+  "timestamp": "2026-10-16T00:45:27.039677653Z",
+  "model": "glm-5.3"
+}

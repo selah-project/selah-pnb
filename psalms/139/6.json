@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ایہ⟩",
+      "rationale": "عبرانی وِچ کاپیا نئیں، پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "mystery",
+      "subject": "جانکاری",
+      "rationale": "آیت آکھدی اے کہ خدا دی جانکاری بندے دی پہنچ توں باہر اے، رہُ دلی طور اُتے بند اے"
+    }
+  ],
+  "translation": "عجیب اے ⟨ایہ⟩ جانکاری میرے توں، بہت اُچی — اہل نئیں ⟨ایس⟩ نوں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "23f34992f0abf9b1e73c5c3835e92c0678749504d7c9181fb223e4ca452c589f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/139\/5-8.1792114121397.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "عجیب"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "جانکاری"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "میرے توں"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "بہت اُچی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "اہل"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨ایس⟩ نوں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:28:41.397886545Z",
+  "model": "glm-5.3"
+}

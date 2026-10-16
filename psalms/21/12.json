@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 21:12",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "نہ سکنگے",
+      "rationale": "בל יוכלو — 'بالکل نہیں سکدے'؛ کجھ ترجمے 'کرم نہیں سکدے' پڑھدے نیں، یلت 'اوہ جت نہیں سکدے'"
+    }
+  ],
+  "translation": "کیوں جو اوہناں تیرے خلاف برائی ول ٹُر پئے، اوہناں اِک مکّر دی سازش سوچی، پر اوہ نہ سکنگے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0e6ed9a1436b8b1ccc27f6c44575d05806433511d717f3dd94efe0a05a8c86ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/21\/9-12.1792112038958.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "נטو",
+      "gloss": "ٹُر پئے"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تیرے خلاف"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "برائی ول"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "اوہناں سوچی"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "اِک مکّر دی سازش"
+    },
+    {
+      "surface": "בל",
+      "gloss": "پر"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "اوہ نہ سکنگے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:53:58.958954139Z",
+  "model": "glm-5.3"
+}

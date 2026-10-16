@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "ezra 2:50",
+  "book": "ezra",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ماعونیاں",
+      "rationale": "מעינים تھاں دے وسنیکاں دا ناں اے (معون)، پر ایتھے ٹبر دے ناں وجوں ورتیا گیا اے۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "نیتینیم دی لسٹ",
+      "rationale": "گھراں دی گنتی والی لسٹ دا انگ۔"
+    }
+  ],
+  "translation": "اَسنَہ دے پُتر، ماعونیاں دے پُتر، نِفِیسیم دے پُتر۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2c90284fcc460b2cc8f8fae2886738ef17f1f84bda5ab4a27e2f97fb0f8a43b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezra\/2\/49-52.1792118999245.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אסנה",
+      "gloss": "اَسنَہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "ماعونیاں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "נפיסים",
+      "gloss": "نِفِیسیم"
+    }
+  ],
+  "timestamp": "2026-10-16T02:49:59.245944391Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 11:7",
+  "book": "2-chronicles",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨بنایا⟩",
+      "rationale": "Hebrew omits the verb, continuing from v6; Punjabi sentence requires it."
+    }
+  ],
+  "translation": "تے ⟨את⟩ بیت تسور نوں تے ⟨את⟩ سوکو نوں تے ⟨את⟩ عدُلّام نوں ⟨بنایا⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9678e41e341194a687d71b9ae7e714fb6d931e9f34898a5780de08d27e48942c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/11\/5-8.1792121838778.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "بیت تسور"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "צור",
+      "gloss": "تسور"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "سوکو"
+    },
+    {
+      "surface": "שוכו",
+      "gloss": "سوکو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "عدُلّام"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "عدُلّام"
+    }
+  ],
+  "timestamp": "2026-10-16T03:37:18.779079651Z",
+  "model": "glm-5.3"
+}

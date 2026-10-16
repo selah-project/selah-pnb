@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 11:18",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וחפרת",
+      "rationale": "'کھودنا' (قبر لئی، جنید دی ریت) بمقابلہ JPS 'دیکھو دوالے' — عبرانی لفظ חפר کھودنا ای اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תקוה",
+      "rationale": "مُڈھلی شکل 'رسی' اے، جیوندی اُمید دا چِنتا؛ 'اُمید' بھاویں مطلب دسدا اے، رسی دا مورت جاتا اے"
+    }
+  ],
+  "translation": "تے تُوں بھروسہ رکھسیں کیونکہ ⟨اُمید⟩ اے، تے تُوں ⟨قبر لئی⟩ کھودیں گا، بھروسے نال سُسیں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bc62d85a8cddea47d71ca00ffc477c64651bc787b67151bcd7378b1207abcd14",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/11\/17-20.1792115676864.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובטחת",
+      "gloss": "تے تُوں بھروسہ رکھسیں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨اے⟩ اے"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "اُمید ⟨رسی⟩"
+    },
+    {
+      "surface": "וחפרת",
+      "gloss": "تے تُوں کھودیں گا"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "بھروسے نال"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "سُسیں گا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:54:36.864781742Z",
+  "model": "glm-5.3"
+}

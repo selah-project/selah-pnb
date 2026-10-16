@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 7:23",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨سی⟩",
+      "rationale": "عبرانی وِچ کپولے نئیں؛ پنجابی جملہ مکمل کرن لئی پایا گیا۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "قربانی دی لسٹ",
+      "rationale": "دو–پنج–پنج–پنج دی گنتی والی قربانی لسٹ۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עתודים",
+      "rationale": "עתודim پورے ودھے ہوئے چھترے بلّ نیں؛ 'بلّے' رکھیا گیا۔"
+    }
+  ],
+  "translation": "تے سلامتی قربانی لئی: دو گلّاں، پنج مینڈھے، پنج بلّے، پنج لیلے، اِک ورھے دے۔ ایہہ نتنایل پتر سُعار دا قربانی ⟨سی⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "48729ce438dc3a0e4cff41d6fc1eee847472db1368219fc94d2768536c0b6e75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/7\/21-24.1792098369609.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולזבח",
+      "gloss": "تے قربانی لئی"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "سلامتی دی"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "گلّاں"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "مینڈھے"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "بلّے"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "لیلے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "اِک ورھے دے"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "قربانی"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "نتنایل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "سُعار"
+    }
+  ],
+  "timestamp": "2026-10-15T21:06:09.610384095Z",
+  "model": "glm-5.3"
+}

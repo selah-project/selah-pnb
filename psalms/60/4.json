@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 60:4",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "פצמתה",
+      "rationale": "פצם occurs only here — 'to rend (by earthquake)', rendered پاڑ دتا"
+    },
+    {
+      "kind": "invitation",
+      "subject": "רפה שבריה",
+      "rationale": "imperative plea — 'heal its fractures' — addressed to God"
+    }
+  ],
+  "translation": "تُوں نے دھرتی نوں ہلا دتا، اوہنوں پاڑ دتا؛ اوہدیاں شِکناں نوں ٹھیک کر، کیوں جو اوہ ہل رہی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "355980abfbaa019127ae05d270b32ba9952e398369a1570b8b40c234829c51d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/60\/1-4.1792112766710.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרעשתה",
+      "gloss": "تُوں نے ہلا دتا"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "دھرتی"
+    },
+    {
+      "surface": "פצמתה",
+      "gloss": "اوہنوں پاڑ دتا"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "ٹھیک کر"
+    },
+    {
+      "surface": "שבריה",
+      "gloss": "اوہدیاں شِکناں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "اوہ ہل رہی اے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:06:06.711482463Z",
+  "model": "glm-5.3"
+}

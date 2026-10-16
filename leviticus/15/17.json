@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 15:17",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩",
+      "rationale": "عبرانی وِچ فعل دا subjekt اے پر پنجابی وچ صاف کرن لئی ضمیر جوڑی گئی"
+    }
+  ],
+  "translation": "تے ہر کپڑا تے ہر چمڑا جس اُتے بذرت دی شوؤی ہووے، پانی وِچ دھویا جاوے، تے شام تک ⟨اوہ⟩ اَپوتر رہے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0507b9d4c6b95eb36a58454fe5abd229dbb2aa011a4e4b9ef7680f3a9638fc03",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/15\/17-20.1792097861373.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "تے ہر"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "کپڑا"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے ہر"
+    },
+    {
+      "surface": "עור",
+      "gloss": "چمڑا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جس"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہووے"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "شوؤی"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "بذرت"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "دھویا جاوے"
+    },
+    {
+      "surface": "במים",
+      "gloss": "پانی وِچ"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "اَپوتر رہے"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "شام"
+    }
+  ],
+  "timestamp": "2026-10-15T20:57:41.373931304Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 26:20",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اِک ہور",
+      "rationale": "וגم ’تے وی‘ وِچ ’ہور‘ دا بھاوَ اے پر پنجابی وِچ وکھ لفظ لوڑیا"
+    },
+    {
+      "kind": "mystery",
+      "subject": "اُریاہُو دا قصہ",
+      "rationale": "اگلی آیتاں وِچ اوہدا مارے جانا دسیا جاوے گا — ایتھے قصہ ادھورا چھڈیا گیا اے"
+    }
+  ],
+  "translation": "تے اِک ہور بندہ وی یاہوہ دے ناں نال نبوت کردا سی، اُریاہُو، شِمعیاہُو دا پُتر، قریت-یعاریم دا؛ تے اوہ اس شہر تے اِس دھرتی اُتے یرمیاہُو دے سارے بچناں وانگ نبوت کردا سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ef7e6037dc8473860b5b015ab157bed5020022900f7bd16b93acb258bf26092f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/26\/17-20.1792108027022.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "تے وی"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "سی"
+    },
+    {
+      "surface": "מתנבא",
+      "gloss": "نبوت کردا"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ناں نال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دے"
+    },
+    {
+      "surface": "אוריהו",
+      "gloss": "اُریاہُو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "שמעיהו",
+      "gloss": "شِمعیاہُو دا"
+    },
+    {
+      "surface": "מקרית",
+      "gloss": "قریت"
+    },
+    {
+      "surface": "היערים",
+      "gloss": "یعاریم دا"
+    },
+    {
+      "surface": "וינבא",
+      "gloss": "تے نبوت کیتی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "اِس"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "دھرتی"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "اِس"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "سارے وانگ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "بچناں"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یرمیاہُو دے"
+    }
+  ],
+  "timestamp": "2026-10-15T23:47:07.023661285Z",
+  "model": "glm-5.3"
+}

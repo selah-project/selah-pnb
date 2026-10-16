@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 40:16",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עקב",
+      "rationale": "اکھر دا مطلب 'ایڈی' اے — 'بدلہ\/نت‏یجہ' بِنا کجھ مترجم 'بدلے' لیندے نیں، کجھ 'سَبَب توں'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הֶאָח הֶאָח",
+      "rationale": "ٹوہ مارݨ والی آواز دا دو واری آؤݨا — پنجابی 'ہے! ہے!' اوہی مذاق دی آواز رکھدا اے"
+    }
+  ],
+  "translation": "ویران ہو جان اپنی شرم دے بدلے، جیہڑے مینوں آکھدے نیں: ہے! ہے!",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "90e1d07c3789c542296e930d0b41d682eedc356d76093ade40831584ea87da5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/40\/13-16.1792112441660.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישמו",
+      "gloss": "ویران ہو جان"
+    },
+    {
+      "surface": "על",
+      "gloss": "اپنی"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "شرم دے بدلے"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "شرم"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "جیہڑے آکھدے نیں"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مینوں"
+    },
+    {
+      "surface": "האח",
+      "gloss": "ہے!"
+    },
+    {
+      "surface": "האח",
+      "gloss": "ہے!"
+    }
+  ],
+  "timestamp": "2026-10-16T01:00:41.661362629Z",
+  "model": "glm-5.3"
+}

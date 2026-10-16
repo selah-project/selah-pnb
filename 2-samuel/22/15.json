@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 22:15",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوہناں نوں",
+      "rationale": "Hebrew suffix on verbs supplies object; pnb needs explicit pronoun"
+    }
+  ],
+  "translation": "تے اوہنے تیر مارے تے اوہناں نوں کھِنڈا دتا، بجلی تے اوہناں نوں ہلا رکھیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "33cfa62fbff39a9da83baa8367649746eb406fdb54efda4762c49266fb25f763",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/22\/13-16.1792103810548.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "تے اوہنے مارے"
+    },
+    {
+      "surface": "חצים",
+      "gloss": "تیر"
+    },
+    {
+      "surface": "ויפיצם",
+      "gloss": "تے اوہناں نوں کھِنڈا دتا"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "بجلی"
+    },
+    {
+      "surface": "ויהמם",
+      "gloss": "تے اوہناں نوں ہلا رکھیا"
+    }
+  ],
+  "timestamp": "2026-10-15T22:36:50.549915622Z",
+  "model": "glm-5.3"
+}

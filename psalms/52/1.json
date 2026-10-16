@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 52:1",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "موسیقار",
+      "rationale": "لمنצח دا معیاری مطلب ‘موسیقی دے مُکھیائے لئی’ اے — عبرانی صرف لفظ لمنצח دیندا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משכיל",
+      "rationale": "مشکیل اِک نظم دی قسم دا ناں اے، سِکھا دین والی — حرف-نقل رکھیا گیا"
+    }
+  ],
+  "translation": "مُکھیائے ⟨موسیقار⟩ لئی، اک مَشکیل ⟨سِکھا دین والی نظم⟩، داوِد ⟨دی⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f53f127600fa1f91334ca755f7b424bccba594c7ab4464e288652a14083aeb69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/52\/1-4.1792112701447.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "مُکھیائے ⟨موسیقار⟩ لئی"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "اک مَشکیل ⟨سِکھا دین والی نظم⟩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد ⟨دی⟩"
+    }
+  ],
+  "timestamp": "2026-10-16T01:05:01.447683104Z",
+  "model": "glm-5.3"
+}

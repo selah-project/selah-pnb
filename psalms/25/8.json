@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 25:8",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יורה",
+      "rationale": "جڑ י-ר-ہ: 'سِٹنا\/دسّنا' — 'سکھاؤندا اے' بمقابلہ 'راہ دسّدا اے' (یونٹ تے جنیوا دا فرق)"
+    },
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "عبرانی وِچ کپولا نئیں، پنجابی واسطے 'اے' پایا گیا"
+    }
+  ],
+  "translation": "چنگا تے سِدھا اے یاہوہ، اس لئی اوہ پاپیاں نوں راہ وِچ سکھاؤندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f7ebeadd221aa1a9245f9ca19263a00eaddb9c85ee6c267665cbf89101b3ed0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/25\/5-8.1792112165300.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چنگا"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "تے سِدھا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اس"
+    },
+    {
+      "surface": "כן",
+      "gloss": "لئی"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "سکھاؤندا اے"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "پاپیاں نوں"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "راہ وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T00:56:05.301119347Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 4:7",
+  "book": "hosea",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כבודם",
+      "rationale": "'اوہناں دا جلال' — کجھ مترجم 'اوہناں دا مَن بُت' دے مقام لئی پڑھدے نیں (عیاں جلال توں مَن بُت)، BSB 'their Glory' دا مطلب خدا دا جلال لیندا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כרבם…כן",
+      "rationale": "تناسب دا ڈھانچا — 'جِنّا…اُنّا' — وادھے تے پاپ دا برابر چلنا، پنجابی وِچ ایہو جوڑ رکھیا"
+    },
+    {
+      "kind": "alternative",
+      "subject": "אמיר",
+      "rationale": "मैں بدل دیواں گا (ک‏‏وں کہ بولن والا یاہوہ اے) بجائے پاسنی 'بدلیا جاوے گا' — عبرانی אמיר ادھر passive اے"
+    }
+  ],
+  "translation": "جِنّا اوہ ودھے، اُنّا اِنّے اوہناں نے میرے خلاف پاپ کیتا؛ میں اوہناں دے جلال نوں ذلت وِچ بدل دیواں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fcd5788ab055d9294abff3c4200c82b21c63ecbceaaaa619eb0df534fb0b6119",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/hosea\/4\/5-8.1792110485211.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כרבם",
+      "gloss": "جِنّا اوہ ودھے"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اُنّا"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "اوہناں نے پاپ کیتا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرے خلاف"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "اوہناں دا جلال"
+    },
+    {
+      "surface": "בקלון",
+      "gloss": "ذلت وِچ"
+    },
+    {
+      "surface": "אמיר",
+      "gloss": "بدلیا جاوے گا"
+    }
+  ],
+  "timestamp": "2026-10-16T00:28:05.212295118Z",
+  "model": "glm-5.3"
+}

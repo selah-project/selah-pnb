@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 47:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "سارے قوماں",
+      "rationale": "آیت اِک اِمراں دا سدا اے — ساریاں قوماں نوں ہتھ تاڑن تے شور مچاون دا آکھیا گیا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "رנה",
+      "rationale": "رِنّا اصل وِچ اِک چِرچِراندی\/تِکّھی آواز اے — خوشی دا وی ہووے سکدا اے تے سور دا وی؛ ترجمیاں وِچ 'triumph'، 'singing'، 'joyful voice' وکھرے نیں"
+    },
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "پنجابی سدے لئی مخاطب دی جھلک منگدا اے، عبرانی وِچ صرف כל העמים اے"
+    }
+  ],
+  "translation": "اے سارے قوماں، ہتھاں نال تاڑی وجاؤ، ایلوہیم نوں خوشی دی آواز نال اُچّا شور مچاؤ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7a10dabdb13d8171411487ae7651dcb1ecb3eec1fcb17a4704b63949c025f9e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/47\/2-3.1792124237416.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "قوماں"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "وجاؤ"
+    },
+    {
+      "surface": "כף",
+      "gloss": "تاڑی"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "اُچّا شور مچاؤ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ایلوہیم نوں"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "آواز نال"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "خوشی دے"
+    }
+  ],
+  "timestamp": "2026-10-16T04:17:17.417130621Z",
+  "model": "glm-5.3"
+}

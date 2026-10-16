@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 9:9",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اسیں",
+      "rationale": "عبرانی دے کوائیتی صیغے وچ فاعل لکھیا نئیں، پنجابی نوں ⟨اسیں⟩ چاہیدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "شکمور",
+      "rationale": "שקמים دی گرہی اے — عبرانی آواز وِچ رکھیا، ایہہ پنجابی وچ عام رُکھ نئیں"
+    },
+    {
+      "kind": "you",
+      "subject": "ایفرایم تے شومرون دے واسی",
+      "rationale": "ایہہ ماݙ دی گل اے جیہڑی پچھلی آیت دے 'آکھدے نیں' نال جُڑی اے"
+    }
+  ],
+  "translation": "اِٹّاں ڈگّیاں — ⟨اسیں⟩ تراشیاں ہوئیاں پتھراں نال اُساریئے؛ شکمور کٹّے گئے — ⟨اسیں⟩ دیاراں نوں بدلیئے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c19e27a6877c9d3e085dda1ceed6439011280a285807a430855faae82fc90886",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/9\/9-12.1792105994421.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבנים",
+      "gloss": "اِٹّاں"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ڈگّیاں"
+    },
+    {
+      "surface": "וגזית",
+      "gloss": "تے تراشیاں ہوئیاں پتھراں نال"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "اُساریئے"
+    },
+    {
+      "surface": "שקמים",
+      "gloss": "شکمور"
+    },
+    {
+      "surface": "גדעו",
+      "gloss": "کٹّے گئے"
+    },
+    {
+      "surface": "וארזים",
+      "gloss": "تے دیاراں نوں"
+    },
+    {
+      "surface": "נחליף",
+      "gloss": "بدلیئے"
+    }
+  ],
+  "timestamp": "2026-10-15T23:13:14.421776845Z",
+  "model": "glm-5.3"
+}

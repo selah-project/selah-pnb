@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 118:25",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הושיעה נא",
+      "rationale": "ہوشیعنا — بچا لے ہن — اِکو جُٹ جیہڑا بعد وِچ دعا دا اِک ناں بن گیا۔"
+    },
+    {
+      "kind": "you",
+      "subject": "یاہوہ",
+      "rationale": "سدھی مخاطبت — دعا یاہوہ نوں۔"
+    },
+    {
+      "kind": "invitation",
+      "subject": "ہن بچا لے",
+      "rationale": "پکار، بینتی دا اعلان۔"
+    }
+  ],
+  "translation": "اَے یاہوہ، ہن بچا لے، اَے یاہوہ، ہن کامیاب کر۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "423fcb5bb7c63838a43f11f8960499c7c60d08c01731e006547b6ef3b81f10a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/118\/25-28.1792113799058.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנא",
+      "gloss": "اَے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "ہن بچا لے"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ہن"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "اَے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "הצליחה",
+      "gloss": "کامیاب کر"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ہن"
+    }
+  ],
+  "timestamp": "2026-10-16T01:23:19.059053839Z",
+  "model": "glm-5.3"
+}

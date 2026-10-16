@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 119:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "گواہیاں",
+      "rationale": "עדות دا مول مطلب 'گواہی' — اوہ لکھتاں جیہڑیاں یاہوہ دے کماں دی گواہی دیندیاں نیں۔"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ידרשוהו",
+      "rationale": "דרש دا مول 'پیراں نال پچھنا\/بار بار آونا' — 'لبھنا' اوہدے نیڑے ترین پنجابی ادا اے۔"
+    }
+  ],
+  "translation": "خوش نصیب نیں اوہ جیہڑے اوہدیاں گواہیاں نوں مانّدے نیں، سارے دل نال اوہنوں لبھدے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1ca400a8b5778fa3b05f7856fa7dcb1a3e57f659560ff763287bfb93529aef09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/119\/1-4.1792113827846.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "خوش نصیب نیں"
+    },
+    {
+      "surface": "נצרי",
+      "gloss": "جیہڑے مانّدے نیں"
+    },
+    {
+      "surface": "עדתיו",
+      "gloss": "اوہدیاں گواہیاں نوں"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل نال"
+    },
+    {
+      "surface": "ידרשוהו",
+      "gloss": "اوہنوں لبھدے نیں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:23:47.847336694Z",
+  "model": "glm-5.3"
+}

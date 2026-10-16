@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 5:10",
+  "book": "joshua",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בערב\/בערבות",
+      "rationale": "شام (erev) تے میدان (arvot) — اِکو آواز، عبرانی وِچ جوڑ دکھاندا، پنجابی وِچ ریتا۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "date",
+      "rationale": "چَوداںویں دن، چن دی، شام ویلے — پسح دا ٹھیک میل۔"
+    }
+  ],
+  "translation": "تے یِسرائیل دے پُتراں نے گِلگال وِچ ڈیرے لائے، تے اُہناں نے چَوداںویں دن، چن دی، شام ویلے، یِریخو دے میداناں وِچ ⟨את⟩ پسح کیتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "662836b8102c407828ef7febc216b2e30182917de1914aaf2292651067490d66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joshua\/5\/9-12.1792100699428.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "تے ڈیرے لائے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں نے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "گِلگال وِچ"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "تے کیتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پسح"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "پسح"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "چَوداںویں"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "چن دی"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "شام ویلے"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "میداناں وِچ"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "یِریخو"
+    }
+  ],
+  "timestamp": "2026-10-15T21:44:59.429527729Z",
+  "model": "glm-5.3"
+}

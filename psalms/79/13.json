@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 79:13",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 79,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "a-jh-e",
+      "rationale": "Tson (flock) and Mirat (pasture flock) have both been rendered with the words 'flock' and 'pasture' — the Hebrew has the pair 'flock' and 'flock of the pasture'."
+    },
+    {
+      "kind": "you",
+      "subject": "to Yahweh",
+      "rationale": "This verse is a direct address to God, 'we are Your people.'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "le-dor va-dor",
+      "rationale": "Time is counted — from generation to generation, forever."
+    }
+  ],
+  "translation": "تے اسیں تیرا قوم آں تے تیری چراگاہ دے اَجِّے، تیرا شکریہ کردے آں سداں تکّ، نسلاں توں نسلاں تکّ تیری تعریف بیانیاں گے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c2d8efcd060e2693b68eb0f38290a429a217c4e7e42a21345bad351431bfefdb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/79\/13-13.1792113090891.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "تے اسیں"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تیرا قوم"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "تے اَجِّے"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "تیری چراگاہ دے"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "شکریہ کردے آں"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیرا"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "سداں تکّ"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "نسلاں توں"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "نسلاں تکّ"
+    },
+    {
+      "surface": "נספר",
+      "gloss": "بیانیاں گے"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "تیری تعریف"
+    }
+  ],
+  "timestamp": "2026-10-16T01:11:30.892416132Z",
+  "model": "glm-5.3"
+}

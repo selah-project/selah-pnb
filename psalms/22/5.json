@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 22:5",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בטחו … בטחו",
+      "rationale": "בטח دی دو واری آؤݨ — باہر دا وَرن، باہر دا سُر؛ پنجابی وِچ 'بھروسہ کیتا' دو واری رکھیا اے پر آوازی جوڑ گُم اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "ਤੂੰ ਨੇ \/ توں نے",
+      "rationale": "וַתְּפַלְטֵם واو-ہُنکاری پالینت وچ کوئی فاعل دا لفظ نئیں، پنجابی فعل فاعل منگدا اے۔"
+    },
+    {
+      "kind": "you",
+      "subject": "یاہوہ نوں",
+      "rationale": "تُوں دا سدھا مخاطب — مزماور دا پہلا بندہ۔"
+    }
+  ],
+  "translation": "تیرے اُتے ساڈے پیوآں بھروسہ کیتا، بھروسہ کیتا تے توں نے اوہناں نوں چھڈایا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3f948c59fae8fd5fb4f30ea23560a94f6d43b6d3b23a7e67140e1a5e4a3ea819",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/22\/5-8.1792112038146.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "تیرے اُتے"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "بھروسہ کیتا"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "ساڈے پیوآں"
+    },
+    {
+      "surface": "בטחو",
+      "gloss": "بھروسہ کیتا"
+    },
+    {
+      "surface": "ותפלטמו",
+      "gloss": "تے چھڈایا اوہناں نوں"
+    }
+  ],
+  "timestamp": "2026-10-16T00:53:58.147536529Z",
+  "model": "glm-5.3"
+}

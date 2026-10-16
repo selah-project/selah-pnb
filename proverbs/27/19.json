@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 27:19",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כמים הפנים לפנים",
+      "rationale": "'پانی وِچ چہرہ چہرے دے ساہمنے' — عکس دکھاؤنا (KJV عکس) ولوں صرف ساہمنے ہونا (بندیاں دی گل)؛ دونوں پڑھیاں جاندیاں نیں"
+    },
+    {
+      "kind": "elision",
+      "subject": "ו",
+      "rationale": "عبرانی ਦੋਵੇਂ ਅੱਧਾਂ ਵਿੱਚ ਕ੍ਰਿਆ ਨਹੀਂ ਦੱਸਦا — 'وکھاؤندا اے' پنجابی جملے لئی پور کیتا"
+    }
+  ],
+  "translation": "جِویں پانی وِچ ⟨اک⟩ چہرہ دوجے چہرے نوں وکھاؤندا اے، اونویں ای آدمی دا دل آدمی نوں ⟨وی وکھاؤندا اے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2840ef32a6fe4117536bd22a0a81525c5ecee1ea848f43839e422a5100d3ea99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/27\/17-20.1792115184120.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמים",
+      "gloss": "جِویں پانی وِچ"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "چہرہ"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "دوجے چہرے نوں"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اونویں ای"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "آدمی دا"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "آدمی نوں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:46:24.121031197Z",
+  "model": "glm-5.3"
+}

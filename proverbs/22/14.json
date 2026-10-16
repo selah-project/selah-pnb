@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 22:14",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اِک … اے",
+      "rationale": "عبرانی وِچ کوئی فعل نئیں، پنجابی جملہ لئی چُکیا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "پرائیاں",
+      "rationale": "זרות 'اوپریاں\/پرائیاں' — کجھ ترجمے 'زناکار عورت' آکھدے نیں، عبرانی اِتھے صرف اوپری کہندا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "זעום יהוה",
+      "rationale": "'جس اُتے یاہوہ غصّے اے' بمقابلہ 'جیہڑا یاہوہ نوں گھناؤنا اے' — دونواں پڑھائیاں موجود نیں"
+    }
+  ],
+  "translation": "اِک گہرا گڑھا اے پرائے تریاں دا مُونہہ؛ اُوہدے اُتے جیہڑا یاہوہ دا غصّہ اے، اوہ اوتھے آ ڈنگیگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "de8831d75770576f1e06bb16dbb363391bbe0c6b65e0b9c0fc3ef89848958bfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/22\/13-16.1792114957166.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שוחה",
+      "gloss": "گڑھا"
+    },
+    {
+      "surface": "עמקה",
+      "gloss": "گہرا"
+    },
+    {
+      "surface": "פי",
+      "gloss": "دا مُونہہ"
+    },
+    {
+      "surface": "זרות",
+      "gloss": "پرائیاں دا"
+    },
+    {
+      "surface": "זעום",
+      "gloss": "دا غصّہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "آ ڈنگیگا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اوتھے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:42:37.166875607Z",
+  "model": "glm-5.3"
+}

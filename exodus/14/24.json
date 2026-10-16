@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 14:24",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ויהם",
+      "rationale": "'ہلچل وِچ پا دتا \/ گڈمڈ کر دتا' — کجھ ترجمے 'تباہ کیتا' لکھدے نیں، لفظ دی بنیادی شکل ہلچل اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "کہ",
+      "rationale": "عبرانی دی واو-ہیہ-پٹے والی ساخت پنجابی وِچ 'ہویا کہ' نال ٹردی اے"
+    }
+  ],
+  "translation": "تے سویرے دے پہرے وِچ ہویا کہ یاہوہ نے اگّ دے تھمھ تے بدلی وِچوں مِتصرایمیاں دے ڈیرے ول جھات پائی، تے مِتصرایمیاں دے ڈیرے نوں ہلا کے رکھ دتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "58a492fc03a1e2ed2eff6f1e8d8ac4bd4cc0f32a718045d34290866e9f96ef15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/14\/21-24.1792096448670.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے ہویا"
+    },
+    {
+      "surface": "באשמרת",
+      "gloss": "پہرے وِچ"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "سویرے دے"
+    },
+    {
+      "surface": "וישקף",
+      "gloss": "تے جھات پائی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ول"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ڈیرے"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایمیاں دے"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "تھمھ وِچوں"
+    },
+    {
+      "surface": "אש",
+      "gloss": "اگّ دے"
+    },
+    {
+      "surface": "וענן",
+      "gloss": "تے بدلی"
+    },
+    {
+      "surface": "ויהם",
+      "gloss": "تے ہلا کے رکھ دتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مِتصرایمیاں دے ڈیرے"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ڈیرے"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایمیاں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:34:08.671725723Z",
+  "model": "glm-5.3"
+}

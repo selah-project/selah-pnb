@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 73:1",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אך",
+      "rationale": "‘سچ ای’ (نشتار) تے ‘کجھ نہیں سگوں’ (محدود کرن والا) دوویں پڑھائیاں نیں — یلت نے ‘کجھ نہیں سگوں’ چُنیا اے۔"
+    },
+    {
+      "kind": "alternative",
+      "subject": "سطر دی ونڈ",
+      "rationale": "کجھ مفسر ایلوہیم نوں دوجی سطر نال جوڑدے نیں: ‘ایلوہیم صاف دلے لئی چنگا اے’۔"
+    }
+  ],
+  "translation": "مزمور آساف دا۔ سچ ای، ایلوہیم یِسرائیل لئی چنگا اے، صاف دلے لئی چنگا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "32f836a9178951769eba19d6e1f91a3afb7992f5dc65d6f6d50084340a98bfef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/73\/1-4.1792112957334.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "آساف دا"
+    },
+    {
+      "surface": "אך",
+      "gloss": "سچ ای"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگا"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "یِسرائیل لئی"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "לברי",
+      "gloss": "صاف دلے لئی"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "دل"
+    }
+  ],
+  "timestamp": "2026-10-16T01:09:17.334938986Z",
+  "model": "glm-5.3"
+}

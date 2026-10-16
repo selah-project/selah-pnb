@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 23:20",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ہو گیا",
+      "rationale": "عبرانی 'ויקם' کارروائی دا اپنا کرتا دسدا اے، پنجابی نوں پورا فعل چاہیدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לאחזת",
+      "rationale": "اکھری 'پکڑی ہوئی چیز' — 'مل وج' قابو دی گلاس اے"
+    }
+  ],
+  "translation": "تے کھیت تے اوہ غار جیہڑی اُس وِچ اے، اَوراہام لئی قبر دے مل وجوں خِتّ دیاں اولاداں کولوں ⟨את⟩ پکا ہو گیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ade1faa765ae617b9c1f9c73aeec578e005fb612bedfdb608b815e83c41af3c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/23\/17-20.1792095142151.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "پکا ہو گیا"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "کھیت"
+    },
+    {
+      "surface": "והמערה",
+      "gloss": "تے اوہ غار"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اُس وِچ"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "اَوراہام لئی"
+    },
+    {
+      "surface": "لאחזת",
+      "gloss": "مل وجوں"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "قبر دے"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "کولوں ⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دی اولاداں"
+    },
+    {
+      "surface": "חת",
+      "gloss": "خِتّ"
+    }
+  ],
+  "timestamp": "2026-10-15T20:12:22.153072120Z",
+  "model": "glm-5.3"
+}

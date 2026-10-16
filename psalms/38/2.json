@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 38:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "للکار",
+      "rationale": "יכח means to argue correct\/rebuke; پنجابی وچ 'للکار' اوہدے نیڑے اے"
+    },
+    {
+      "kind": "you",
+      "subject": "to یاہوہ",
+      "rationale": "direct plea to God"
+    }
+  ],
+  "translation": "یاہوہ، اپنے قہر نال مینوں نہ للکار، تے اپنے غصے نال مینوں نہ تختہ learnt — نہ سزا دے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "767248106c5f8a526ac050d409d1b966e81905a1157fe78e9c7a797217642993",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/38\/1-4.1792112415787.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "בקצפך",
+      "gloss": "اپنے قہر نال"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "مینوں للکار"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "اپنے غصے نال"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "مینوں سزا دے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:00:15.787712791Z",
+  "model": "glm-5.3"
+}

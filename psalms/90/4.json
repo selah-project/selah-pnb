@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ہزار ورھے",
+      "rationale": "ویلے دی موازنہ پیمائش — خدا دی نظر وِچ ہزار ورھے اِک دن تے اِک رات پہرے برابر"
+    },
+    {
+      "kind": "substitution",
+      "subject": "پہرا",
+      "rationale": "אשמורה رات دے تِن-چار حصیاں وِچوں اِک پہرا اے، ویلے دی قدیم عبرانی ونڈ"
+    }
+  ],
+  "translation": "کیونجے تیرے اکھاں وِچ ہزار ورھے اجہے نیں جیویں کل دا دن، جدوں اوہ لنگھ جاندا اے، تے رات دی اِک پہرا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "793b4dff5a195143da8df587045aa4146363998a898bd36a7177264be70aa5d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/90\/1-4.1792113394299.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ورھے"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "تیرے اکھاں وِچ"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "جیویں دن"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "کل دا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جدوں کی"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "لنگھدا اے"
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "تے پہرا"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "رات وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:16:34.300274431Z",
+  "model": "glm-5.3"
+}

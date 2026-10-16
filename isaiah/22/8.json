@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اوہنے⟩",
+      "rationale": "עברית فعل دی فاعل ناں لیندی، پنجابی فاعل منگدی اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "מסך יהודה",
+      "rationale": "'یہوداہ دا پردہ' — بہت سارے مترجم 'یہوداہ دیاں وازبندیاں' (BSB) کردے نیں؛ اصل شکل پردہ\/پوشاک ہی اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "جنگل دا گھر",
+      "rationale": "سلیمان دا ہتھیاراں بھنڈار، نام نال پچھانیا گیا تھاں"
+    }
+  ],
+  "translation": "تے ⟨اوہنے⟩ یہوداہ دا ⟨את⟩ پردہ ہٹا دتا، تے تساں اوس دن جنگل دے گھر دے ہتھیاراں ول ویکھیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5e60c3386a33758406e16863b733503e5a9ad1d21342715a4229d3989fe49853",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/22\/5-8.1792106192962.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "تے ہٹا دتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پردہ"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "پردہ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ دا"
+    },
+    {
+      "surface": "ותבט",
+      "gloss": "تے ویکھیا"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "دن وِچ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اوس"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ول"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "ہتھیاراں"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "היער",
+      "gloss": "جنگل دے"
+    }
+  ],
+  "timestamp": "2026-10-15T23:16:32.963443314Z",
+  "model": "glm-5.3"
+}

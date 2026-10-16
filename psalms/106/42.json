@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 106:42",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וילחצום \/ בצר (106:44)",
+      "rationale": "جلدݨ دا مطلب ای دباؤنا اے — عبرانی دا دباء-تنگی دا سلسلہ ایتھے پورے مزمر وِچ چلدا اے۔"
+    }
+  ],
+  "translation": "تے اوہناں دے ویریاں نے اوہناں نوں دبایا، تے اوہ اوہناں دے ہتھ تھلے جُک گئے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "96b79bed50790099396a203d5e781d85daaa465482431e47b96ee620a5808eed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/106\/41-44.1792113590171.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילחצום",
+      "gloss": "تے دبایا اوہناں نوں"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "اوہناں دے ویریاں نے"
+    },
+    {
+      "surface": "ויכנעו",
+      "gloss": "تے جُک گئے"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تھلے"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "اوہناں دے ہتھ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:19:50.172092713Z",
+  "model": "glm-5.3"
+}

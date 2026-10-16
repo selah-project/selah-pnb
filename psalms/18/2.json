@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 18:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "חזקי",
+      "rationale": "חזק (مدد) تنخ وِچ صرف اِتھے آؤندا اے؛ کئی ترجمے 'میری طاقت' پڑھدے نیں (מחזק)"
+    },
+    {
+      "kind": "crux",
+      "subject": "ארחמך",
+      "rationale": "רחם دا مول مطلب پیار کرنا\/رحم کرنا اے — 'میں تینوں پیار کرداں' بمقابلہ 'میں رحم منگداں'"
+    }
+  ],
+  "translation": "تے آکھیا: میں تیرے اُتے رحم کرداں، اَے یاہوہ، میری مدد۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e28fc1822d7d84c5e1db7c55d6117fb6d3de7064cbc4450b793b609df53c8ce2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/18\/1-4.1792112008092.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "ארחמך",
+      "gloss": "میں تیرے اُتے رحم کرداں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اَے یاہوہ"
+    },
+    {
+      "surface": "חזקי",
+      "gloss": "میری مدد"
+    }
+  ],
+  "timestamp": "2026-10-16T00:53:28.093451628Z",
+  "model": "glm-5.3"
+}

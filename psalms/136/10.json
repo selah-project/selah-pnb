@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 136:10",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 136,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "مِتصرایم",
+      "rationale": "عبرانی آواز دی میز وچ مِتصرایم — 'مصر' ریتاں دا لفظ اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בבכוריהם",
+      "rationale": "כי לעולם חסדו ہر آیت وِچ دوہرایا گیا اے — پورے زبور دی لَے ایہدے نال چلدی اے"
+    }
+  ],
+  "translation": "جِہنے مِتصرایم نوں اودیاں پہلیاں اولاداں وِچ ماریا، کیونکہ اودے خیسِد ہمیشہ لئی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6878842d7f85e6c13eebce35360ead4f69361d0e960a09cf83082446e8cd9593",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/136\/9-12.1792114087873.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "جِہنے ماریا"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم"
+    },
+    {
+      "surface": "בבכוריהם",
+      "gloss": "اودیاں پہلیاں اولاداں وِچ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشہ لئی"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "اودے خیسِد"
+    }
+  ],
+  "timestamp": "2026-10-16T01:28:07.874272699Z",
+  "model": "glm-5.3"
+}

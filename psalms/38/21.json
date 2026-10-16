@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 38:21",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "میں",
+      "rationale": "עברانی صرف مصدر 'میرا پِچھا کرنا' آکھدی اے، فاعل دی ضمیر پنجابی نے دتی اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "רדופי",
+      "rationale": "'میرا پِچھا کیتا' — کے مطلب 'میرے دشمناں دا مینوں پِچھا کرنا' اے یا 'میں بھلائی دا پِچھا کرنا'؛ سارے پرانے ترجمے دوجی پڑھائی منگدے نیں"
+    }
+  ],
+  "translation": "تے جیہڑے برائی دا بدلہ بھلائی نال دیندے نیں، اوہ میرے مقابل ہو گئے نیں، کیوں جو ⟨میں⟩ بھلائی دا پِچھا کردا آں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7fb400aef81bc22c72e283607a943b1b6969a3f8c97b1d199aef722d00c54b1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/38\/21-23.1792112393099.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומשלמי",
+      "gloss": "تے بدلہ دین والے"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "بدلے"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "بھلائی"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "میرے مقابل ہو گئے نیں"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "רדופי",
+      "gloss": "پِچھا کردا آں"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "بھلائی"
+    }
+  ],
+  "timestamp": "2026-10-16T00:59:53.100228547Z",
+  "model": "glm-5.3"
+}

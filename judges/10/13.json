@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 10:13",
+  "book": "judges",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לא אוסיף",
+      "rationale": "عبرانی 'ہور نئیں ودھاواں گا' — یعنی 'فیر کدی نئیں'، پنجابی وِچ 'ہور … گا' نال پکڑیا"
+    },
+    {
+      "kind": "you",
+      "subject": "اسرائیل",
+      "rationale": "یاہوہ دا اسرائیل نال سِدھا مخاطب ہونا"
+    }
+  ],
+  "translation": "تے اَتے تُساں میوں ⟨את⟩ ⟨אותי⟩ چھڈّ دتا تے ہور ایلوہیم دی سیوا کیتی، ایس لئی میں ہور تُہاڈا ⟨אתכם⟩ نجات دِواں گا نئیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f95d2268d339b9a5c4c6657fa10ae58efca22ffdfb6860ae3ab264e8d37e671f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/judges\/10\/13-16.1792101616162.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "تے اَتے تُساں"
+    },
+    {
+      "surface": "עזבתם",
+      "gloss": "چھڈّ دتا"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ ⟨אותי⟩",
+      "marks": "میوں"
+    },
+    {
+      "surface": "ותעבדו",
+      "gloss": "تے سیوا کیتی"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم دی"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ہور"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "ایس لئی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "ہور … گا"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "نجات دِواں"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "تُہاڈا"
+    }
+  ],
+  "timestamp": "2026-10-15T22:00:16.162659685Z",
+  "model": "glm-5.3"
+}

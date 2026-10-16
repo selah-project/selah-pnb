@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 19:4",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מתמל שלשם",
+      "rationale": "عبرانی:'تِمول شِلشوم' — قول وِچ 'پُراݨے توں پُراݨا'؛ پنجابی وِچ لفظی 'گزریا کل تے پرسوںں' رکھیا"
+    },
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "پنجابی ماضی دا معاون فعل، عبرانی وِچ صیغہ ہی کافی اے"
+    }
+  ],
+  "translation": "تے ایہ اوہ قاتل دا معاملہ اے، جِہڑا اوتھے نس کے جِوے: جو اپنے ساتھی نوں ⟨את⟩ بِنا جان بُجھ مارے، تے اوہ اوہدے نوں نئیں نفرت کردا سی — نہ گزریا کل (پچھلا) نہ پرسوںں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "97fa7d0f694e87d7572efd304e809512ff3e360606348332a893a94f3d51621a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/19\/1-4.1792100165441.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "تے ایہ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "معاملہ"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "اوہ قاتل دا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جِہڑا"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "نس کے"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "اوتھے"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "تے جِوے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "مارے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنے ساتھی نوں"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "اپنے ساتھی نوں"
+    },
+    {
+      "surface": "בבלי",
+      "gloss": "بِنا"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "جان بُجھ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "تے اوہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "نفرت کردا سی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدے نوں"
+    },
+    {
+      "surface": "מתמל",
+      "gloss": "گزریا کل (پچھلا)"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "پرسوںں"
+    }
+  ],
+  "timestamp": "2026-10-15T21:36:05.442372412Z",
+  "model": "glm-5.3"
+}

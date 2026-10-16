@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 19:3",
+  "book": "ezekiel",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "اُگایا",
+      "rationale": "ותעל is literally 'brought up\/reared' (lifted up); rendered as rearing a cub."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לטרף טרף",
+      "rationale": "Infinitive and noun from the same root טרף — 'to tear prey'; Punjabi loses the repetition."
+    }
+  ],
+  "translation": "تے اوہدی اِک بچی نوں اُگایا؛ اوہ نکا شیر بنیا، تے اوہنے پھڑنے دا سکھیا؛ اوہ آدمیاں نوں کھادا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d8d884efe0a22ed50725aee063d41e73343fe339cfee654274f65f1f5099d9ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/19\/1-4.1792109423732.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותעל",
+      "gloss": "اُگایا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "اِک"
+    },
+    {
+      "surface": "מגריה",
+      "gloss": "اوہدی بچی نوں"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "نکا شیر"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بنیا"
+    },
+    {
+      "surface": "וילמד",
+      "gloss": "تے اوہنے سکھیا"
+    },
+    {
+      "surface": "לטרף",
+      "gloss": "پھڑنے دا"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "شکار"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمیاں نوں"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "کھادا"
+    }
+  ],
+  "timestamp": "2026-10-16T00:10:23.733619160Z",
+  "model": "glm-5.3"
+}

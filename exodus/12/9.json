@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 12:9",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נא",
+      "rationale": "ממנו נא — 'اِس وِچوں کچا' (KJV, BSB) بمقابلہ بعض 'کچے ماس وِچوں'؛ سیاق پکاؤن دا اے، کچا کھان توں روکدا اے۔"
+    },
+    {
+      "kind": "you",
+      "subject": "ایسرائیل",
+      "rationale": "حکم برائے ناں — اِسرائیل نوں فسح دے کھانے دا۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "כרעיו",
+      "rationale": "دوہرا صیغہ — 'لتّاں'، گُٹیاں توں ٹخناں تک؛ تنخ دا پیر صرف دوہرے وِچ۔"
+    }
+  ],
+  "translation": "ایس وِچوں کچا نہ کھاؤ تے نہ پانی وِچ ابلیا ہویا، کیونجے سگوں اگّ نال بھُنی ہوئی ⟨اوہ⟩ — اوہدا سر، اوہدیاں لتّاں تے اوہدے اندرلے انگ سمیت۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "03c8e6ad77d0ee0aeb033797fb4e62a140a8c314bc101fddcd8e6bd5172c51fd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/12\/9-12.1792096429403.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "تسیں کھاؤ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ایس وِچوں"
+    },
+    {
+      "surface": "נא",
+      "gloss": "کچا"
+    },
+    {
+      "surface": "ובשל",
+      "gloss": "تے ابلیا ہویا"
+    },
+    {
+      "surface": "מבשל",
+      "gloss": "پکایا ہویا"
+    },
+    {
+      "surface": "במים",
+      "gloss": "پانی وِچ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "אם",
+      "gloss": "سگوں"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "بھُنی ہوئی"
+    },
+    {
+      "surface": "אש",
+      "gloss": "اگّ"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "اوہدا سر"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "اوہدیاں لتّاں"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "اوہدے اندرلے انگ"
+    }
+  ],
+  "timestamp": "2026-10-15T20:33:49.403990381Z",
+  "model": "glm-5.3"
+}

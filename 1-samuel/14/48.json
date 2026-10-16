@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-samuel 14:48",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויעש חיל",
+      "rationale": "سِدھا 'اوہنے زور\/فوج کیتا' — مترجماں وِچ 'بہادری دے کم کیتے' (KJV\/ASV) تے 'فوج اکٹھی کیتی' (جنیوا) دوویں پڑھائیاں نیں؛ 'بہادری' رکھیا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שסהו",
+      "rationale": "'اوہنوں لُٹن والا' — جمع 'لُٹن والیاں' دی تھاں اِکل سنگھی 'اوہدا لُٹیرا'، عبرانی اِکل اے"
+    }
+  ],
+  "translation": "تے اوہنے بہادری کیتی، تے ⟨את⟩ عمالیک نوں ماریا، تے ⟨את⟩ یِسرائیل نوں اوہدے لُٹن والے دے ہتھ توں چھڑایا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ca69a4d5f5fcbe18d345bcc6c26bf0aa10cc6a94d482d0ba5dc7c4e76beed602",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/14\/45-48.1792102558287.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "تے کیتی"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "بہادری"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "تے ماریا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عمالیک"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "عمالیک نوں"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "تے چھڑایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یِسرائیل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل نوں"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "دے ہتھ توں"
+    },
+    {
+      "surface": "שסהו",
+      "gloss": "اوہدے لُٹن والے"
+    }
+  ],
+  "timestamp": "2026-10-15T22:15:58.289177694Z",
+  "model": "glm-5.3"
+}

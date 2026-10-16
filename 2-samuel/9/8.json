@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 9:8",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "مُریدا کُتّا",
+      "rationale": "הכלב המת عبرانی توہین دی ودھیا مثال اے — خود نوں مُردے کُتّے توں گھٹ سمجھن دا اظہار۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "؟",
+      "rationale": "مہ دی پرشناں دی جگہ پنجابی سوالیہ نشانی منگدی اے۔"
+    },
+    {
+      "kind": "you",
+      "subject": "داوِد",
+      "rationale": "مفیبوشِت دا بولن داوِد ول سدھا اے۔"
+    }
+  ],
+  "translation": "تے اوہ سِر نِوا کے بولا: تیرا خادم کی اے، کیونکہ تُوں اِک مُردا کُتیّے ول، جیہدا میں جِیہا اے، مُڑ کے ویکھیا اے؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b2430ab23e4e3277b632c5ee95cb5df372b7c291bc8e1dfc03d75dfd1a533fb0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/9\/5-8.1792103295265.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "تے سِر نِوا کے"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "بولا"
+    },
+    {
+      "surface": "مה",
+      "gloss": "کی"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "تیرا خادم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "پנית",
+      "gloss": "مُڑ کے ویکھیا اے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ول"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "کُتیّے"
+    },
+    {
+      "surface": "המת",
+      "gloss": "مُریدا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہدا"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "میں جِیہا"
+    }
+  ],
+  "timestamp": "2026-10-15T22:28:15.266806869Z",
+  "model": "glm-5.3"
+}

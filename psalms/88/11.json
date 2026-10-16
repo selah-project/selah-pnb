@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 88:11",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 88,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "رفایم",
+      "rationale": "רפאים شیول دیاں کمزور، دھندلیاں ہستیاں نیں، 'مُردے' لفظ اوہدا سار نئیں پھڑدا"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨کوئی⟩",
+      "rationale": "پنجابی وِچ اِندراج دا لوڑ، عبرانی نئیں لکھیا"
+    },
+    {
+      "kind": "you",
+      "subject": "یاہوہ",
+      "rationale": "سنگیاں سوالاں یاہوہ نوں سدے سنوادے وِچ"
+    }
+  ],
+  "translation": "کِی مریاں ہویاں لئی ⟨کوئی⟩ عجوبہ کریں گا؟ کِی رفایم ⟨مریاں دیاں دھندلیاں ہستیاں⟩ اُٹھسن تے تیرا دھنواؤن گے؟ سِلاہ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7202c5e9ab6c348b326964c2ce51f4edc620edd97d5875f8378fe4b1c8c4307c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/88\/9-12.1792113233419.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלמתים",
+      "gloss": "مریاں ہویاں لئی"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "کریں گا"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "عجوبہ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "کِی"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "رفایم"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "اُٹھسن"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "تیرا دھنواؤن گے"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سِلاہ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:13:53.420604324Z",
+  "model": "glm-5.3"
+}

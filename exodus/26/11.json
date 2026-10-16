@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 26:11",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "پنجاہ کُنڈے",
+      "rationale": "کُنڈیاں دی گنتی"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩",
+      "rationale": "عبرانی وِچ והיה اگے ضمیر نئیں، پنجابی جملے لئی چاہیدا"
+    }
+  ],
+  "translation": "تے تُسیں تانبے دے پنجاہ کُنڈے بݨاؤ گے، تے ⟨את⟩ کُنڈیاں نوں پھندیاں وِچ پاؤ گے، تے ⟨את⟩ خیمے نوں جوڑو گے تے ⟨اوہ⟩ اِک ہو جاوے گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c80ce229d4e1a8e74b8b138ebabeac435779e4bd19481db70400f827c66d0cc9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/26\/9-12.1792096841488.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "تے بݨاؤ گے"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "کُنڈے"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "تانبے دے"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاہ"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "تے پاؤ گے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کُنڈیاں"
+    },
+    {
+      "surface": "הקרסים",
+      "gloss": "کُنڈیاں نوں"
+    },
+    {
+      "surface": "בללאת",
+      "gloss": "پھندیاں وِچ"
+    },
+    {
+      "surface": "וחברת",
+      "gloss": "تے جوڑو گے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خیمے"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "خیمے نوں"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "تے ہو جاوے گا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "اِک"
+    }
+  ],
+  "timestamp": "2026-10-15T20:40:41.489626257Z",
+  "model": "glm-5.3"
+}

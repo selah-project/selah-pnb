@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 2:27",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מטה",
+      "gloss": "مول 'ٹاہنی\/وتیرا' — قبیلہ لئی روپی میل اے۔",
+      "rationale": "عبرانی 'مٹّہ' مول روپ وِچ وتیرا\/ٹاہنی اے، قبیلیے لئی روپی ورتیا۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "ہون والے",
+      "rationale": "עליו 'اوہدے اُتے' — پنجابی وِچ 'اوہدے نال' فطری اے۔"
+    }
+  ],
+  "translation": "تے اوہدے نال پئے ہون والے اَشِیر دا قبیلہ؛ تے اَشِیر دیاں اولاداں دا سردار پَغِعی ایل، عُکران دا پُتر۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a26588904bf7f11957b1aa1b613ef6586b68311a94ea9d85df61f08b703f5844",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/2\/25-28.1792098269191.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והחנים",
+      "gloss": "تے پئے ہون والے"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اوہدے نال"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "قبیلہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "اَشِیر"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "تے سردار"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "دی اولاداں دا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "اَشِیر"
+    },
+    {
+      "surface": "פגעיאל",
+      "gloss": "پَغِعی ایل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "עכרן",
+      "gloss": "عُکران"
+    }
+  ],
+  "timestamp": "2026-10-15T21:04:29.192518836Z",
+  "model": "glm-5.3"
+}

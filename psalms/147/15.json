@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اُتے",
+      "rationale": "عبرانی وِچ על نئیں — ארץ سیدھی مفعول اے، 'دھرتی نوں گھلدا اے' وی جائز اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אמרתו\/דברו",
+      "rationale": "اکو گل دو شبداں نال — 'کلام' تے 'بول' — دوہراؤ جیہڑا پنجابی وِچ دو وکھرے لفظاں نال ٹھیک رکھیا اے"
+    },
+    {
+      "kind": "elision",
+      "subject": "עד",
+      "rationale": "'تک' עד מהרה دی جوڑ وِچ اے — 'اِنج جلدی کہ'، وکھرے طور تے نئیں آندا"
+    }
+  ],
+  "translation": "اوہ اپنا کلام دھرتی ⟨اُتے⟩ گھلدا اے، اوہدا بول بڑی جلدی دوڑدا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1edf17bc9fa89fa912dc1c8315eaf2ac550f41f1659666d7bb85176085d7d10f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/147\/14-15.1792124218469.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "اوہ گھلدا اے"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "اپنا کلام"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "دھرتی ⟨اُتے⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "بڑی جلدی"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "دوڑدا اے"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "اوہدا بول"
+    }
+  ],
+  "timestamp": "2026-10-16T04:16:58.470570339Z",
+  "model": "glm-5.3"
+}

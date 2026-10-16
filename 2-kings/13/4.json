@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 13:4",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חלאת פני יהוה",
+      "rationale": "مطلب ‘یاہوہ دا چہرہ منگنا’ — بخشش منگن دا عبرانی محاورہ؛ پنجابی وِچ اوسے تصویر نوں رکھیا گیا۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לחץ … לחץ",
+      "rationale": "اکو لفظ دو واری — پہلا اسم ‘دباؤ’، دوجا فعل ‘دبایا’؛ عبرانی دی اس تکرار پنجابی وِچ دو وکھرے روپاں نال چلی اے۔"
+    }
+  ],
+  "translation": "تے یہوآخاز نے ⟨את⟩ یاہوہ دے چہرے نوں منگیا، تے یاہוہ نے اوہدی گلاں سُنیاں، کیوں جو اوہنے ⟨את⟩ یسرائیل دا دباؤ ویکھیا — کیوں جو ارام دے بادشاہ نے ⟨את⟩ ⟨אותם⟩ اوہناں نوں دبایا ہویا سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "03b9f9c9d9298eb2810642908d702e3f68bc60e87e0c50a20643d7fa406224bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/13\/1-4.1792105390471.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "تے منگیا"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "یہوאخاز"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چہرے"
+    },
+    {
+      "surface": "פני",
+      "gloss": "چہرے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "تے سُنیاں"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اوہدیاں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ویکھیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دباؤ"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "دباؤ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "دبایا"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "اوہناں نوں"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ارام"
+    }
+  ],
+  "timestamp": "2026-10-15T23:03:10.472343137Z",
+  "model": "glm-5.3"
+}

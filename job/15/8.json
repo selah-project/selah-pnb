@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 15:8",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "סוד",
+      "rationale": "ایلوہ دا سود\/پرپوشا صلاح — لُکائی گل دا حوالہ۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "ותגרע",
+      "rationale": "'کم کرنا\/روکنا' — 'کی حکمت تینوں اِکی رکھی اے' vs 'کی توں حکمت نوں اپنے ول گھٹ کر لیندا ایں'، دو پڑھائیاں۔"
+    }
+  ],
+  "translation": "کے ایلوہ دے سود وِچ سنیا اے؟ تے حکمت نوں اپنے ول روک لیندا اے؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ff5ce7bb52185549f9a8869c1bb6a6d741a105e1176fff4db1430e744a0b876f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/15\/5-8.1792115765268.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבסוד",
+      "gloss": "دے سود وِچ"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ایلوہ"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "سنیا اے"
+    },
+    {
+      "surface": "ותגרע",
+      "gloss": "تے روک لیندا اے"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "اپنے ول"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت نوں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:56:05.269604444Z",
+  "model": "glm-5.3"
+}

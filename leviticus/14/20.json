@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 14:20",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "העלה\/והעלה",
+      "rationale": "چڑھان والی قربانی دا ناں تے فعل اِکو جڑ עלה توں — 'چڑھاؤ' تے 'چڑھنا' دا کھیل"
+    }
+  ],
+  "translation": "تے کاہن اوہلہ قربانی ⟨את⟩ تے مَنّھہ دی قربانی ⟨את⟩ قربان گاہ اُتے چڑھاویگا، تے کاہن اوہدے لئی کفارہ کریگا، تے اوہ پاک ہو جاویگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bbe6019ed30ea7f0fd590a68014a4572f44a047c63fd32c6a09d5b593c41bceb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/14\/17-20.1792097700190.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "تے چڑھاویگا"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہلہ قربانی"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "اوہلہ قربانی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "مَنّھہ دی قربانی"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "مَنّھہ دی قربانی"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "قربان گاہ اُتے"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "تے کفارہ کریگا"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اوہدے لئی"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "تے پاک ہو جاویگا"
+    }
+  ],
+  "timestamp": "2026-10-15T20:55:00.191911847Z",
+  "model": "glm-5.3"
+}

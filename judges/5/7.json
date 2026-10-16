@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 5:7",
+  "book": "judges",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פרזון",
+      "rationale": "'پینڈو وسنیک' (KJV) بمقابلہ 'سردار' (ASV\/JPS) — گنڈھیا ہویا لفظ، صرف ایتھے تے ہابقوق 3:14"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חדלו ... שקמתי",
+      "rationale": "دوہرائی: 'مُک گئے' دو واری، 'اُٹھی' دو واری — مُکن تے اُٹھن دا سامنا"
+    }
+  ],
+  "translation": "یِسرائیل وِچ پینڈو وسنیک مُک گئے، مُک گئے، جد تک مَیں دَبورہ نہ اُٹھی، مَیں اُٹھی، یِسرائیل وِچ اِک ماں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "599c823998dacf9f09627b24e3b06eee888c983c179f9be30c59187207eafd9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/judges\/5\/5-8.1792101450878.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חדלו",
+      "gloss": "مُک گئے"
+    },
+    {
+      "surface": "פרזון",
+      "gloss": "پینڈو وسنیک"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "یِسرائیل وِچ"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "مُک گئے"
+    },
+    {
+      "surface": "עד",
+      "gloss": "جد تک"
+    },
+    {
+      "surface": "שקמתי",
+      "gloss": "نہ اُٹھی"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "دَبورہ"
+    },
+    {
+      "surface": "שקמתי",
+      "gloss": "اُٹھی"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ماں"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "یِسرائیل وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T21:57:30.879134301Z",
+  "model": "glm-5.3"
+}

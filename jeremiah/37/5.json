@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 37:5",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ויעלו",
+      "rationale": "'go up from off' — چڑھن دے بجا‏‏ئں ہٹنا، عروج دا مطلب ایتھے پِچھے ہٹݨ اے"
+    },
+    {
+      "kind": "elision",
+      "subject": "הצרים",
+      "rationale": "عبرانی انحصاری خرچہ اے (گھیراوے والے)؛ پنجابی وچ صفت رہی"
+    }
+  ],
+  "translation": "تے فرعون دی فوج مِتصرایم توں نِکلی، تے یروشلایم اُتے گھیرا پائی کسدیاں نے ⟨את⟩ اوہناں دا چرچہ سُنیا، تے یروشلایم دے اُتروں ہٹ گئے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2f7b31a09fd8b400ed6a68ae6ca127a2e7f6dc87d28e45734f4b19d3ed30a71b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/37\/5-8.1792108376767.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחיל",
+      "gloss": "تے فوج"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "نِکلی"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "مِتصرایم توں"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "تے سُنیا"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "کسدیاں نے"
+    },
+    {
+      "surface": "הצרים",
+      "gloss": "گھیرا پائی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہناں دا چرچہ"
+    },
+    {
+      "surface": "שמעם",
+      "gloss": "اوہناں دا چرچہ"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "تے ہٹ گئے"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "دے اُتروں"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم"
+    }
+  ],
+  "timestamp": "2026-10-15T23:52:56.768212627Z",
+  "model": "glm-5.3"
+}

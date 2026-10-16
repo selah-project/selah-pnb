@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 16:12",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ایہناں",
+      "rationale": "عبرانی האלہ ('ایہہ') جمع اے؛ 'ایہناں حکماں' پنجابی دا قدرتی جمع اے۔"
+    }
+  ],
+  "translation": "تے تُوں یاد رکھیں کہ تُوں مِتصرایم وِچ غلام سیں، تے تُوں ایہہ فرض قائم رکھیں تے ⟨את⟩ ایہناں حکماں نوں کر کے وکھاویں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bb34b9172bdacd966f11e5e688dcc25d9234e57f14d6bf7b7b94714e77b58086",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/16\/9-12.1792099959290.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "تے تُوں یاد رکھیں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "غلام"
+    },
+    {
+      "surface": "היית",
+      "gloss": "سیں"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "مِتصرایم وِچ"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "تے تُوں قائم رکھیں"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "تے کر کے وکھاویں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایہناں حکماں نوں"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "حکم"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ایہناں"
+    }
+  ],
+  "timestamp": "2026-10-15T21:32:39.291674130Z",
+  "model": "glm-5.3"
+}

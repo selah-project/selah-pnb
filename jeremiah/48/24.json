@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 48:24",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "far and near",
+      "rationale": "The catalogue closes with a merism totalling all Moab's cities — distant and nearby."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קריות\/קריתים",
+      "rationale": "Kerioth echoes Kirjathaim in the list — both from קריה (town); Punjabi transliteration keeps the sound kinship faintly."
+    }
+  ],
+  "translation": "تے قریوت اُتے، تے بوصرة اُتے، تے موآب دی زمین دے ساریاں وسوںاں اُتے — دور ہوئیاں تے نیڑے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5b054422ed45f06bb22589b6a9ba8813d9519f3bbcfd607f3dbaa8127e042976",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/48\/21-24.1792108675055.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "קריות",
+      "gloss": "قریوت"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "بوصرة"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساریاں"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "وسوںاں"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "הרחקות",
+      "gloss": "دور ہوئیاں"
+    },
+    {
+      "surface": "והקרבות",
+      "gloss": "تے نیڑے"
+    }
+  ],
+  "timestamp": "2026-10-15T23:57:55.056651746Z",
+  "model": "glm-5.3"
+}

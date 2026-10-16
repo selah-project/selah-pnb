@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 4:2",
+  "book": "lamentations",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "המסלאים",
+      "rationale": "تولن والا صیغہ صرف ایتھے آؤندا اے — ترازو وِچ پلنا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "نבלי חרש",
+      "rationale": "اصل مطلب 'مٹی دے چمڑے دے تھیلے\/بھانڈے' — تھیلی دھرتی دے بھانڈے، سونا وِچوں مٹی"
+    }
+  ],
+  "translation": "صِیون دے قیمتی پُتر، پتل سونے وِچ تولے ہوئے، کِویں مٹی دے بھانڈے گنے گئے، کمبل دے ہتھاں دا کم!",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bb2c366e0bcc61432dc5cf537b3dacf7df9e6917daf70646c16bb65a11ad8ef5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/lamentations\/4\/1-4.1792117186614.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صِیون"
+    },
+    {
+      "surface": "היקרים",
+      "gloss": "قیمتی"
+    },
+    {
+      "surface": "המסלאים",
+      "gloss": "تولے ہوئے"
+    },
+    {
+      "surface": "בפז",
+      "gloss": "پتل سونے وِچ"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "کِویں"
+    },
+    {
+      "surface": "נחשבו",
+      "gloss": "گنے گئے"
+    },
+    {
+      "surface": "לנבלי",
+      "gloss": "بھانڈیاں"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "مٹی دے"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کم"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ہتھاں دا"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "کمبل"
+    }
+  ],
+  "timestamp": "2026-10-16T02:19:46.614772420Z",
+  "model": "glm-5.3"
+}

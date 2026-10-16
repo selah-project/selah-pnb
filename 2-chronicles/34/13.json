@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 34:13",
+  "book": "2-chronicles",
+  "lang": "pnb",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לעבודה ועבודה",
+      "rationale": "عبرانی خدمت دا دوہرا ذکر کردی اے — ‘ہر خدمت دے کم وِچ خدمت لئی تے خدمت’ — دوہرا سو لئی نرم کیتا گیا۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "سن",
+      "rationale": "عبرانی وِچ کوئی فعل ‘ہونا’ نئیں؛ فہم لئی پنجابی جوڑ دا سہارا۔"
+    }
+  ],
+  "translation": "تے اوہ بوجھ چکن والیاں اُتے سن، تے ہر کم کرن والے لئی، ہر خدمت دے کم وِچ، مُنتظم سن؛ تے لاویاں وِچوں کاتب تے افسر تے دروازے دار سن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3c681aeb6429150d91ff40b2b16e6450e15d0fa0ce7eaef39a56fe8730c33174",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/34\/13-16.1792123101216.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הסבלים",
+      "gloss": "بوجھ چکن والیاں"
+    },
+    {
+      "surface": "ומנצחים",
+      "gloss": "تے مُنتظم"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کرن والے"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "کم"
+    },
+    {
+      "surface": "לעבודה",
+      "gloss": "خدمت لئی"
+    },
+    {
+      "surface": "ועבודה",
+      "gloss": "تے خدمت"
+    },
+    {
+      "surface": "ומהלוים",
+      "gloss": "تے لاویاں وِچوں"
+    },
+    {
+      "surface": "סופרים",
+      "gloss": "کاتب"
+    },
+    {
+      "surface": "ושטרים",
+      "gloss": "تے افسر"
+    },
+    {
+      "surface": "ושוערים",
+      "gloss": "تے دروازے دار"
+    }
+  ],
+  "timestamp": "2026-10-16T03:58:21.217301952Z",
+  "model": "glm-5.3"
+}

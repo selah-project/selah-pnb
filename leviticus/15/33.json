@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 15:33",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "بِمارد تَیوِیں",
+      "rationale": "הדוה ROOT نِڈھار تے بِماری، صِرف تَیوِیں لئی نئیں — 'flow' والا مطلب وگواؤ دا اے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "לזכר ולנקבה",
+      "rationale": "KJV 'of the man and of the woman' تے YLT 'the issue of a male or of a female' — جمع پڑھݨ یا تاوان پڑھݨ، دوویں روایتاں نیں"
+    },
+    {
+      "kind": "measurement",
+      "subject": "تورات-فہرست",
+      "rationale": "ایہہ آیت ناپاکیاں دی تورات دا سِرا اے — ہر حالت گِن کے دسی گئی اے"
+    }
+  ],
+  "translation": "تے نِڈھار وِچ بِمارد تَیوِیں، تے وگواؤن والا ⟨את⟩ اپنے وگاؤ نال — نَر لئی تے مادِی لئی — تے اُس بندے لئی جِہڑا ناپاک تَیوِیں نال سمدا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7d54101215110467fd7b6f3f70a21f53c39e0f6c04e3a941d60aff002d0f9f38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/15\/33-33.1792097777705.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והדוה",
+      "gloss": "تے بِمارد تَیوِیں"
+    },
+    {
+      "surface": "בנדתה",
+      "gloss": "اپنی نِڈھار وِچ"
+    },
+    {
+      "surface": "והזב",
+      "gloss": "تے وگواؤن والا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنے وگاؤ"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "اپنے وگاؤ"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "نَر لئی"
+    },
+    {
+      "surface": "ולנקבה",
+      "gloss": "تے مادِی لئی"
+    },
+    {
+      "surface": "ולאיש",
+      "gloss": "تے اُس بندے لئی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جِہڑا"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "سمدا اے"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "ناپاک تَیوِیں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:56:17.706351994Z",
+  "model": "glm-5.3"
+}

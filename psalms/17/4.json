@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 17:4",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "آپ نوں",
+      "rationale": "שמרתי وِچ مفعول ظاہر نئیں، پنجابی منگدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ہنگامیں",
+      "rationale": "פריץ مول 'ٹُٹ کے مارن والا\/ظالم' اے — مُنجز نئیں، جاݨ کارن صورت رکھی"
+    }
+  ],
+  "translation": "بندیاں دے کمّاں وِچوں، تیرے ہونٹھاں دے بچن نال میں آپ نوں ہنگامیاں دے رستیاں توں بچا کے رکھیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "613f5ebf5e2899eea61296da291e5f5c715f3f5469ce6385da044a8b89f8f99f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/17\/1-4.1792111994499.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לפעלות",
+      "gloss": "کمّاں وِچوں"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "بندیاں دے"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "بچن نال"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "تیرے ہونٹھاں دے"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "بچا کے رکھیا"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "رستیاں"
+    },
+    {
+      "surface": "פריץ",
+      "gloss": "ہنگامیں دے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:53:14.500251450Z",
+  "model": "glm-5.3"
+}

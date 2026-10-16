@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "لشکر",
+      "rationale": "צבאם لشکر\/فوج اے — اسمان تے دھرتی دے سب بھرن والے، پنجابی وِچ تصویر اوہو رکھی۔"
+    }
+  ],
+  "translation": "تے مُک گئے اسمان تے دھرتی، تے سارا اوہناں دا لشکر۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4688a214814e6faf16e06de662c425923511e9910f5954edf20bfb1906ef3bf1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/2\/1-4.1792094723954.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "مُک گئے"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "اسمان"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "تے دھرتی"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سارا"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "اوہناں دا لشکر"
+    }
+  ],
+  "timestamp": "2026-10-15T20:05:23.955527213Z",
+  "model": "glm-5.3"
+}

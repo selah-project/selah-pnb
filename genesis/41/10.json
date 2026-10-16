@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 41:10",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "قصاب",
+      "rationale": "הטבחים دا مُڈھلا مطلب 'قصاب\/پھانشی دین والا' اے، کجھ ترجمے 'محافظاں دا سردار' لکھدے نیں"
+    }
+  ],
+  "translation": "فرعون اپنے غلاماں اُتے غصہ ہویا تے ⟨את⟩ مینوں قصاباں دے سردار دے گھر دی قید وِچ دتا — ⟨את⟩ مینوں تے ⟨את⟩ روٹی پکان والیاں دے سردار نوں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "738e5aebcec41dacc9580b1a423114915c5cabc304ce52d8ee6d42f27f3a33ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/41\/9-12.1792095779783.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "غصہ ہویا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "اپنے غلاماں"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "تے دتا"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "مینوں"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "قید وِچ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "שר",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "قصاباں دے"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "مینوں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "روٹی پکان والیاں دے سردار"
+    },
+    {
+      "surface": "שר",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "روٹی پکان والیاں دے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:22:59.784578435Z",
+  "model": "glm-5.3"
+}

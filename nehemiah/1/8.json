@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 1:8",
+  "book": "nehemiah",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תמעלו",
+      "rationale": "מעל — 'دغا\/بےوفائی کرو گے'؛ KJV 'transgress'، JPS 'deal treacherously'۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "جے \/ تاں",
+      "rationale": "عبرانی وچ شرطیہ جملہ بِنا 'جے' دے اے؛ پنجابی شرط دا پکا ڈھنگ منگدا اے۔"
+    }
+  ],
+  "translation": "اوہ بول یاد رکھ ⟨نا⟩ ⟨את⟩ جیہڑا تُوں موشے ⟨את⟩ تیرے بندے نوں آکھ کے حکم کیتا: تُساں ⟨جے⟩ دغا کرو گے، تاں میں تُہانوں ⟨את⟩ قومیاں وِچ کھِلر دیواں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8f5a258e3e12b7cd256ccb241971e4e467dac2fb53bba301489757cc2f73152f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/nehemiah\/1\/5-8.1792119455156.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "یاد رکھ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨نا⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہ بول"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "اوہ بول"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "تُوں حکم کیتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "تیرے بندے نوں"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ کے"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تُساں"
+    },
+    {
+      "surface": "תמעלו",
+      "gloss": "دغا کرو گے"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "אפיץ",
+      "gloss": "کھِلر دیواں گا"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "تُہانوں (قومیاں وِچ کھِلرائے)"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "قومیاں وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T02:57:35.158155509Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,169 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 4:8",
+  "book": "ecclesiastes",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש لفظی 'ساہ\/جیب' اے — 'روح' مذہبی معنے لبھ کے لیاݙدا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "ומחסר את נפשי מטובה",
+      "rationale": "'اپنی جان نوں چنگی شی توں محروم کردا واں' بمقابلہ 'اپنی جان لئی چنگی شی گھٹ کردا واں' — فاعل دا سوال اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גם ×3",
+      "rationale": "ਤਿੰن واری גם دہراؤ اکلی پن دے بیان نوں تکڑا کردا اے؛ پنجابی وِچ پورا اثر نئیں رہندا"
+    },
+    {
+      "kind": "you",
+      "subject": "سوال",
+      "rationale": "اوہلا آدمی آپ نوں پچھدا اے: 'میں کس لئی محنت کردا واں؟' — اندرلا مخاطب"
+    }
+  ],
+  "translation": "کوئی اِک اے تے دوجا کوئی نئیں — نہ پُتر، نہ بھرا، اوہدے کوئی نئیں — تے اوہدی ساری محنت دا کوئی انت نئیں؛ اوہدی اکھ دھن نال نئیں رجدی — 'میں کس لئی محنت کردا واں تے ⟨את⟩ اپنی جان نوں چنگی שے محروم کردا واں؟' ایہہ وی واپھ اے تے کوئی برا کم اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "41e3a196145a68c09ccc0a255909c14ac6c33e4e140d40852bd667d3efda73d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ecclesiastes\/4\/5-8.1792117480421.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "کوئی اے"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "اِک"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "تے کوئی نئیں"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دوجا"
+    },
+    {
+      "surface": "גם",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ואח",
+      "gloss": "نہ بھرا"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کوئی نئیں"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدے"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "تے کوئی نئیں"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "انت"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "محنت"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "اوہدی اکھ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "رجدی"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دھن نال"
+    },
+    {
+      "surface": "ולמי",
+      "gloss": "تے کس لئی"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "محنت کردا واں"
+    },
+    {
+      "surface": "ומחסר",
+      "gloss": "تے محروم کردا واں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنی جان نوں"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "اپنی جان نوں"
+    },
+    {
+      "surface": "מטובה",
+      "gloss": "چنگی شيز توں"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "واپھ"
+    },
+    {
+      "surface": "וענין",
+      "gloss": "تے کم"
+    },
+    {
+      "surface": "רע",
+      "gloss": "برا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اے"
+    }
+  ],
+  "timestamp": "2026-10-16T02:24:40.422256609Z",
+  "model": "glm-5.3"
+}

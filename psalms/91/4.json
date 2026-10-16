@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 91:4",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ایہہ⟩",
+      "rationale": "پنجابی نوں جملے لئی اشارہ چاہیدا اے، عبرانی وِچ نئیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אמתו",
+      "rationale": "'سچائی' — אמת دا مول مطلب استحکام\/پکا ہونا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סוחרה",
+      "rationale": "نایاب لفظ — 'گھیر لین والی چیز'، چھوٹا ڈھال؛ تصویر ریت وِچ رکھی اے"
+    }
+  ],
+  "translation": "اوہدیاں پراں نال اوہ تینوں ڈھانپے گا، تے اوہدے پراں تھلے تُوں پناہ لویں گا؛ اوہدی سچائی ⟨ایہہ⟩ تیرا ڈھال تے گول ڈھال اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b770583d47aaef117b1796a16521a422f4625a4ce69e33320139b3ac3b8b468f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/91\/4-4.1792124171068.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באברתו",
+      "gloss": "اوہدیاں پراں نال"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "اوہ ڈھانپے گا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تینوں"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "تے ... تھلے"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "اوہدے پراں"
+    },
+    {
+      "surface": "תחסה",
+      "gloss": "تُوں پناہ لویں گا"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "ڈھال"
+    },
+    {
+      "surface": "וסחرה",
+      "gloss": "تے گول ڈھال"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "اوہدی سچائی"
+    }
+  ],
+  "timestamp": "2026-10-16T04:16:11.068464703Z",
+  "model": "glm-5.3"
+}

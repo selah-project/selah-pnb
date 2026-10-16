@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 23:10",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "تولنا تے گنتی",
+      "rationale": "آیت گننا تولنا دا سوال اے — دھوڑ تے چوتھائی دا حساب"
+    },
+    {
+      "kind": "crux",
+      "subject": "רבע",
+      "rationale": "چوتھائی — کجھ مترجم 'چوتھے حصے' لیندے نیں، کجھ 'اک ڈیرے' دے معنے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נפשי",
+      "rationale": "نفس — ساہ\/جان\/جی، صرف 'روح' نئیں"
+    }
+  ],
+  "translation": "کون دھوڑ یعقوو نوں تول سکدا اے تے ⟨את⟩ یِسرائیل دے چوتھائی دی گنتی کر سکدا اے؟ میری جان سیدھیاں دی موت مَرے تے میرا انت اَخیر اَوہناں ورگا ہووے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4d821b17d7ed8203e5c315bec57a0ddb536cbfea9a7357d220f4778193576097",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/23\/9-12.1792099024075.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "تول سکدا اے"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "دھوڑ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو نوں"
+    },
+    {
+      "surface": "ומספר",
+      "gloss": "تے گنتی کر سکدا اے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یِسرائیل دے چوتھائی نوں"
+    },
+    {
+      "surface": "רבע",
+      "gloss": "چوتھائی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل دے"
+    },
+    {
+      "surface": "תמת",
+      "gloss": "مَرے"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میری جان"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "سیدھیاں دی"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "تے ہووے"
+    },
+    {
+      "surface": "אחריתי",
+      "gloss": "میرا انت"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "اَوہناں ورگا"
+    }
+  ],
+  "timestamp": "2026-10-15T21:17:04.076533217Z",
+  "model": "glm-5.3"
+}

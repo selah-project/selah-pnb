@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 136:13",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 136,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "سُوُف دا سمندر",
+      "rationale": "סוף ناں اے (سرکیاں دا سمندر)؛ 'لال سمندر' ریتی ترجمہ اے، ایتھے حرف-نقل رکھیا"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨قائم⟩",
+      "rationale": "عبرانی وِچ کوئی کریا نئیں؛ پنجابی جملے لئی شامل کیتا"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לגזר \/ לגזרים",
+      "rationale": "اکو جڑ گ-ز-ر دو واری — ٹُکیا \/ ٹُکّرے — پنجابی وِچ وی ٹُکݨ\/ٹُکّرے نال جوڑ رکھیا"
+    }
+  ],
+  "translation": "جیہنے سُوُف دے سمندر نوں ٹُکّرےآں وِچ ٹُکیا، کیوں جو اوہدا خیسِد ہمیشہ لئی ⟨قائم⟩ اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ef818ee972da16c3afc2126e425ed19038582aa6ef3dc9b768a15a4099cdefdd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/136\/13-16.1792114090811.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לגזר",
+      "gloss": "جیہنے ٹُکیا"
+    },
+    {
+      "surface": "ים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "سُوُف ⟨سُوُف دے سمندر⟩"
+    },
+    {
+      "surface": "לגזרים",
+      "gloss": "ٹُکّرےآں وِچ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشہ لئی"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "اوہدا خیسِد"
+    }
+  ],
+  "timestamp": "2026-10-16T01:28:10.812225884Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 7:15",
+  "book": "ezekiel",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "مفعولاں تے اگلا فعل پنجابی جملے لئی پایا گیا۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רעב ודבר ... ודבר",
+      "rationale": "تلوار\/کال\/مہینک دی تِن قسماں دا آپس وِچ پلٹا — باہر\/اندر دا ٹاکرا۔"
+    }
+  ],
+  "translation": "تلوار باہر اے تے مہینک تے کال اندر؛ جو کھیت وِچ اے اوہ تلوار نال مرے گا، تے جو شہر وِچ اے، اوہنوں کال تے مہینک کھا جانگے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "cf9721e4dacf5dabed144d5e47944140e38dd0231524cad43881d6aa5abfc196",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/7\/13-16.1792108995351.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "החרב",
+      "gloss": "تلوار"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "باہر"
+    },
+    {
+      "surface": "והדבר",
+      "gloss": "تے مہینک"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "تے کال"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "اندر توں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "کھیت وِچ"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "تلوار نال"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "مرے گا"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "تے جو"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "شہر وِچ"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "کال"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "تے مہینک"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "اوہنوں کھا جانگے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:03:15.352226677Z",
+  "model": "glm-5.3"
+}

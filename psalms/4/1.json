@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 4:1",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "دا",
+      "rationale": "پنجابی اِزارے لئی جوڑ دا لوڑ، عبرانی دا ל- اِکو زامِر اے"
+    }
+  ],
+  "translation": "مُنتظم لئی، تارے والے سازاں نال، زبور داوِد ⟨دا⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8c174a185ab4aa0e751ac7befed73883264b6c3469270b59a657583123ea5fff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/4\/1-4.1792111831703.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "مُنتظم لئی"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "تارے والے سازاں نال"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "زبور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد ⟨دا⟩"
+    }
+  ],
+  "timestamp": "2026-10-16T00:50:31.704270829Z",
+  "model": "glm-5.3"
+}

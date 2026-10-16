@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 13:15",
+  "book": "judges",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "منوح دا فرشتے نوں روکنا",
+      "rationale": "منوح فرشتے نوں ٹھہرن دا منت نال سدا دندا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גדי עזים",
+      "rationale": "'بکری دا بچہ' — پنجابی دو لفظیاں وچ اکو عبرانی جوڑ"
+    }
+  ],
+  "translation": "تے منوح نے یاہوہ دے فرشتے نوں آکھیا: اسیں ⟨את⟩ ⟨אותך⟩ تینوں روکیے، تے تیرے اگے اِک چھوٹا بکری دا بچہ پکائیے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "964bde9e6ed31603fd2f7ba0a91557700d8d8edbb5573a0bb75fda4177fbe5b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/judges\/13\/13-16.1792101782482.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "منوح"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "فرشتے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "נעצרה",
+      "gloss": "اسیں روکیے"
+    },
+    {
+      "surface": "נא",
+      "gloss": "میں منت کراں"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ ⟨אותך⟩",
+      "marks": "تینوں"
+    },
+    {
+      "surface": "ונעשה",
+      "gloss": "تے پکائیے"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "تیرے اگے"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "چھوٹا بچہ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "بکری دا"
+    }
+  ],
+  "timestamp": "2026-10-15T22:03:02.483113981Z",
+  "model": "glm-5.3"
+}

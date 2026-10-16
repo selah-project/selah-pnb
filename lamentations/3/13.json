@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "lamentations 3:13",
+  "book": "lamentations",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בני אשפתו",
+      "rationale": "'اُوندی تیرکیس دے پتر' — تیراں لئی عبرانی دی شکل؛ کجھ ترجمے 'تیر' لکھ کے تصویر مٹا دیندے نیں۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "گردیاں",
+      "rationale": "בכליות کلیجا\/گردے — اندرلے self لئی؛ اِنج سارے پرانے ترجمے 'reins' کردے نیں۔"
+    }
+  ],
+  "translation": "اوہنے میریاں گردیاں وِچ اپݨ تیرکیس دے ⟨پتر⟩ آن پائے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "dc741e5f64bfae2fd338fe7b8d28ef5f549f3a25068b120f2959fe67d17eb357",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/lamentations\/3\/13-16.1792117107675.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הביא",
+      "gloss": "آن پایا"
+    },
+    {
+      "surface": "בכליوتי",
+      "gloss": "میریاں گردیاں وِچ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پتر"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "اپݨ تیرکیس دے"
+    }
+  ],
+  "timestamp": "2026-10-16T02:18:27.676280247Z",
+  "model": "glm-5.3"
+}

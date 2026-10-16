@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 15:4",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ברך יברכך",
+      "rationale": "انا-لامک: 'برکت دے کے برکت دیوے گا' — مکمل طور تُتے یقین دہانی"
+    },
+    {
+      "kind": "crux",
+      "subject": "אפס כי",
+      "rationale": "'سوائے جدے' (KJV) یا 'سگوں\/بھلا' (ASV) — آیت حکم اے یا وعدہ، متراجماں وچ ونڈ"
+    }
+  ],
+  "translation": "سوائے ⟨اس ویلے دے⟩، کوئی غریب تیرے وچ نہ ہووے، کیونکہ یاہوہ تینوں برکت دے کے برکت دیوے گا، اُس دھرتی وچ جیہڑی یاہوہ تیرا ایلوہیم تینوں وراثت وچ لے ملّے، دیندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "951ea50b774bd73147206992756279a75d684f67502fc25ff20aa68c5ec78901",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/15\/1-4.1792100027736.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אפס",
+      "gloss": "سوائے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨اس ویلے دے⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہووے"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تیرے وچ"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "برکت دے کے"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "تینوں برکت دیوے گا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "اُس دھرتی وچ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تیرا ایلوہیم"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دیندا اے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تینوں"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "وراثت"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "لے ملّے لئی"
+    }
+  ],
+  "timestamp": "2026-10-15T21:33:47.737849690Z",
+  "model": "glm-5.3"
+}

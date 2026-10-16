@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 5:14",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "رات وانگوں",
+      "rationale": "Hebrew order places 'as in the night' first; Punjabi word order needs it after the verb."
+    }
+  ],
+  "translation": "دن نوں اوہ ہنیرے نال ٹکراندے نیں، تے رات وانگوں دوپہر وِچ ٹٹولدے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c7d2aec0790f3f4feb2a623ec8498f6c0e9d95f0edbddc968efc20ed0c53fcff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/5\/13-16.1792115498387.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "دن نوں"
+    },
+    {
+      "surface": "יפגשו",
+      "gloss": "اوہ ٹکراندے نیں"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ہنیرے نال"
+    },
+    {
+      "surface": "וכלילה",
+      "gloss": "تے رات وانگوں"
+    },
+    {
+      "surface": "ימששו",
+      "gloss": "اوہ ٹٹولدے نیں"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "دوپہر وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:51:38.388442216Z",
+  "model": "glm-5.3"
+}

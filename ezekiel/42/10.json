@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 42:10",
+  "book": "ezekiel",
+  "lang": "pnb",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨سن⟩",
+      "rationale": "عبرانی وِچ کوئی کریا نئیں، پنجابی جملہ مکمل کرن لئی"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הגזרה",
+      "rationale": "لفظی ’کٹی ہوئی\/وکھری کیتی گئی تھاں‘ — ’وکھری تھاں‘ صورت دسدا اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "مندر دی چھتیر",
+      "rationale": "کمرےآں دی تھاں تے سمتاں دا ناپ بیان"
+    }
+  ],
+  "translation": "چھتر دی کندھ دی چوڑائی وِچ، چڑھدے پاسے دے راہ ول، وکھری تھاں دے اُبھے پاسے تے عمارت دے اُبھے پاسے، کمرے ⟨سن⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5777e8551d22f600cc5b2629594a64f84dbbd8935ee4c52bcf01828cf0b1d571",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/42\/9-12.1792110156064.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברחב",
+      "gloss": "چوڑائی وِچ"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "کندھ"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "چھتر دی"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "راستے"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "چڑھدے پاسے دے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ول"
+    },
+    {
+      "surface": "פני",
+      "gloss": "اُبھے پاسے"
+    },
+    {
+      "surface": "הגזרה",
+      "gloss": "وکھری تھاں"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے ول"
+    },
+    {
+      "surface": "פני",
+      "gloss": "اُبھے پاسے"
+    },
+    {
+      "surface": "הבנין",
+      "gloss": "عمارت"
+    },
+    {
+      "surface": "לשכות",
+      "gloss": "کمرے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:22:36.064943464Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 30:14",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اِک بےرحم",
+      "rationale": "מוסר אכזרי دی وجودی جملے لئی — 'بےرحم دی سزا'۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "מוסר אכזרי",
+      "rationale": "'بےرحم اُتے تادیب' (یاہوہ خود) بمقابلہ 'بےرحم تادیب' — KJV 'chastisement of a cruel one'۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עצמו",
+      "rationale": "جڑ دا مطلب 'بھارو\/مضبوط ہونا' — 'ودھ گئے' دی تھاں 'بھارو' رکھیا۔"
+    }
+  ],
+  "translation": "تیرے سارے محبّ تینوں بھلا گئے نیں، ⟨את⟩ تینوں اوہ نئیں لبھدے؛ کیونکہ دشمن دے وار نال میں تینوں ماریا اے، اِک بےرحم دی سزا — تیریاں بےدلیاں دی بہتات لئی، کیونکہ تیرے پاپ بھارو ہو گئے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "99297e10cd8919fe9d434c72cf7f0c844a03727ca62dde7d34ca55c9554d468d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/30\/13-16.1792108119011.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "מאהביך",
+      "gloss": "تیرے محبّ"
+    },
+    {
+      "surface": "שכחוך",
+      "gloss": "تینوں بھلا گئے"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "تینوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "ידרשו",
+      "gloss": "اوہ لبھدے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "מכת",
+      "gloss": "مار\/وار"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "دشمن"
+    },
+    {
+      "surface": "הכיתיך",
+      "gloss": "میں تینوں ماریا"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "سزا\/تادیب"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "بےرحم"
+    },
+    {
+      "surface": "על",
+      "gloss": "لئی"
+    },
+    {
+      "surface": "רב",
+      "gloss": "بہتات"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "تیریاں بےدلیاں"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "بھارو ہو گئے"
+    },
+    {
+      "surface": "חטאתיך",
+      "gloss": "تیرے پاپ"
+    }
+  ],
+  "timestamp": "2026-10-15T23:48:39.012066686Z",
+  "model": "glm-5.3"
+}

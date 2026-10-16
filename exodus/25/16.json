@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "گواہی",
+      "rationale": "העדות 'گواہی' اے — گواہی دیاں پٹیاں دا مطلب اے، پر لفظ دا روپ 'گواہی' رکھیا"
+    }
+  ],
+  "translation": "تے تُوں صندوق وِچ اوہ ⟨את⟩ گواہی رکھیں جیہڑی میں تینوں دیواں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "36f3a6f19dbb4f1cf5cf098f719e7612f82e54f2d4759005fde5a36f8a23ea87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/25\/13-16.1792096855856.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "تے تُوں رکھیں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گواہی نوں"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "گواہی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "میں دیواں گا"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تینوں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:40:55.857641249Z",
+  "model": "glm-5.3"
+}

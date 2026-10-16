@@ -1,0 +1,141 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 25:19",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "زکیر",
+      "rationale": "'نشان\/یاد' — لفظی 'یاد دا نشان'، یادگار؛ 'مِٹا دِیا' دی سنگتی۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "زکور \/ تِشکح",
+      "rationale": "آیت 17 دا 'یاد رکھ' تے 19 دا 'نئیں بھُلنا' اِکو کُنڈی وِچ جُڑدے نیں۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "جدوں",
+      "rationale": "عبرانی وِچ زمانے دی کوئی وکھری گل نئیں، جملے دی بُنت دسدی اے۔"
+    },
+    {
+      "kind": "you",
+      "subject": "خطاب",
+      "rationale": "حکم اِسلائیل نوں، واحد صیغے وِچ۔"
+    }
+  ],
+  "translation": "تے ایہہ ہووےگا: جدوں یاہوہ تیرا ایلوہیم تینوں تیرے سارے دشمناں توں، جو آسے پاسے نیں، آرام دیسی، اُس زمین وِچ جیہڑی یاہوہ تیرا ایلوہیم تینوں وراثت وِچ دِندا اے اوہنوں ملّن لئی — تُسیں عمالق دا ⟨את⟩ نشان مِٹا دِیا اسماناں تھلے توں؛ نئیں بھُلنا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0d587a611ce6b42080e05f531a9eef60016013debea04f41561d6deae8b5db96",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/25\/17-19.1792100298940.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "تے ایہہ ہووےگا"
+    },
+    {
+      "surface": "בהניח",
+      "gloss": "جدوں آرام دیسی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تیرا ایلوہیم"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تینوں"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "دشمناں توں"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "جو آسے پاسے نیں"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین وِچ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تیرا ایلوہیم"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دِندا اے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تینوں"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "وراثت وِچ"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "اوہنوں ملّن لئی"
+    },
+    {
+      "surface": "תמחه",
+      "gloss": "مِٹا دِیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نشان نوں"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نشان"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "عمالق دا"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "توں"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "اسماناں تھلے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "بھُلنا"
+    }
+  ],
+  "timestamp": "2026-10-15T21:38:18.941411175Z",
+  "model": "glm-5.3"
+}

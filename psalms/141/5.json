@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 141:5",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 141,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חסד",
+      "rationale": "خیسِد ایتھے زد کار دا زریعہ دسدا اے — 'خیسِد نال مارے' (KJV\/ASV) بمقابلہ 'مینوں مارے، ایہہ خیسِد اے' (JPS)۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ראש\/ראשי",
+      "rationale": "سر دا تیل تے میرا سر — اوہو جڑ دو واری، زور اُتے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "ناال",
+      "rationale": "ہِبرو وِچ کوئی اوزار شبد نئیں، پنجابی جُملے لئی پایا۔"
+    }
+  ],
+  "translation": "نیک مینوں خیسِد ⟨ناال⟩ مارے، تے مینوں جھوکھے — سر دا تیل، میرا سر اُہنوں ناں منکھے، کیوں جے ہن وی میری اِبتا اوہناں دیاں برائیاں وِچ اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c1f94febd5895718902d127ecf6273399eae23403f6133940877d5aaf5369df5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/141\/5-8.1792114187032.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהלמני",
+      "gloss": "مینوں مارے"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "نیک"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "خیسِد"
+    },
+    {
+      "surface": "ויוכיחני",
+      "gloss": "تے مینوں جھوکھے"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "تیل"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ناں"
+    },
+    {
+      "surface": "יני",
+      "gloss": "منکھے"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "میرا سر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جے"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ہن وی"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "تے میری اِبتا"
+    },
+    {
+      "surface": "ברעותיהם",
+      "gloss": "اوہناں دیاں برائیاں وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:29:47.032738629Z",
+  "model": "glm-5.3"
+}

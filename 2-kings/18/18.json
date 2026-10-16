@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 18:18",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨سی⟩",
+      "rationale": "عبرانی وِچ کوئی کریا نئیں، 'جیہڑا گھر اُتے' — پنجابی جملہ 'سی' منگدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אשר על הבית",
+      "rationale": "مطلب 'گھر (محل) دا وڈا افسر' اے، شکل 'جیہڑا گھر اُتے' رکھی"
+    }
+  ],
+  "translation": "تے اوہناں بادشاہ نوں پکاریا، تے اوہناں کول حِلقیاہو دا پتر ایلیاکیم باہر نِکلیا، جیہڑا گھر اُتے ⟨سی⟩، تے لکھاری شبنہ، تے یاد رکھن والا آسف دا پتر یواح۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a317e603b7ceff9ebd3061d44c57cd0e19830940002e27803e38e1c9d12c1a74",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/18\/17-20.1792105505016.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "تے پکاریا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "تے باہر نِکلیا"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "اوہناں کول"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "ایلیاکیم"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پتر"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "حِلقیاہو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "ושבנה",
+      "gloss": "تے شبنہ"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "لکھاری"
+    },
+    {
+      "surface": "ויואח",
+      "gloss": "تے یواح"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پتر"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "آسف"
+    },
+    {
+      "surface": "המזכיר",
+      "gloss": "یاد رکھن والا"
+    }
+  ],
+  "timestamp": "2026-10-15T23:05:05.017305891Z",
+  "model": "glm-5.3"
+}

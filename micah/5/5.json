@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 5:5",
+  "book": "micah",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ורעו",
+      "rationale": "poal of רעע: ‘break\/afflict’ (JPS ‘waste’) vs lemma-tradition ‘pasture’ — KJV row reads ‘he shall be the peace’ from a different verse division of this chapter."
+    },
+    {
+      "kind": "alternative",
+      "subject": "והציל",
+      "rationale": "‘اوہ چھڈویسگا’ — subject ambiguous: the ruler of v.4 or the shepherds; Hebrew leaves it unspecified."
+    }
+  ],
+  "translation": "تے او ⟨את⟩ اَشور دی زمین نوں تلوار نال تے ⟨את⟩ نمرود دی زمین نوں اوہدے دروازیاں اُتے برباد کرن گے، تے اوہ اَشور توں ⟨את⟩ چھڈویسگا جدوں اوہ ساڈی زمین وِچ آوےگا تے جدوں اوہ ساڈی حد وِچ پیر دھریگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8a0405cdaac9d4f8b11d0576239c7ade151d71a4101da006986a61128feb32a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/micah\/5\/5-8.1792111078487.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "تے برباد کرن گے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَشور دی زمین"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "اَشور"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "تلوار نال"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "نمرود دی زمین"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "نمرود"
+    },
+    {
+      "surface": "בפתחיה",
+      "gloss": "اوہدے دروازیاں اُتے"
+    },
+    {
+      "surface": "והציל",
+      "gloss": "تے چھڈویسگا"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "اَشور توں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جدوں کہ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "آوےگا"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "ساڈی زمین وِچ"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "تے جدوں کہ"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "پیر دھریگا"
+    },
+    {
+      "surface": "בגבולנו",
+      "gloss": "ساڈی حد وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T00:37:58.488618865Z",
+  "model": "glm-5.3"
+}

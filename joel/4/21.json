@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joel 4:21",
+  "book": "joel",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ונקיתי…לא נקיתי",
+      "rationale": "اِو ہی فعل دو واری — ‘صاف کریا جیہڑا صاف نئیں کیتا سی’ — عبرانی دی دہرائی اے جیہڑی پنجابی وِچ رکھی گئی اے۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "נקה",
+      "rationale": "‘صاف کرنا\/بری کرنا’ بمقابلہ ‘بدلہ لینا’ — JPS ‘hold as innocent’ رکھدا اے؛ بہت سارے ترجمے ‘avenge’ لکھدے نیں۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩",
+      "rationale": "عبرانی وِچ ضمیر نئیں، پنجابی جملے لئی لوڑی گئی۔"
+    },
+    {
+      "kind": "elision",
+      "subject": "עדנה",
+      "rationale": "عبرانی وِچ לفظ ‘حالے’ جِہڑا کجھ مخطوطیاں وِچ اے، مقرر متن وِچ نئیں۔"
+    }
+  ],
+  "translation": "تے میں اوہناں دا لہو ⟨اوہ⟩ صاف کریا جیہڑا میں صاف نئیں کیتا سی، تے یاہوہ صہیون وِچ وسیا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6bc40d6388ef16b5ac0edee08774ba4a05b82c447dce6fa6ccb0baee84ae514d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joel\/4\/21-21.1792110682313.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונקיתי",
+      "gloss": "تے میں صاف کریا"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "اوہناں دا لہو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "נקיתי",
+      "gloss": "میں صاف کیتا سی"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "تے یاہوہ"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "وسیا اے"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "صہیون وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T00:31:22.314374082Z",
+  "model": "glm-5.3"
+}

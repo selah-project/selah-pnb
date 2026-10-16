@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezekiel 27:34",
+  "book": "ezekiel",
+  "lang": "pnb",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩",
+      "rationale": "עת اُتے کوئی ضمیر نئیں، پنجابی فقرہ بَند کرن لئی چاہیدا سی"
+    },
+    {
+      "kind": "crux",
+      "subject": "کال",
+      "rationale": "עת فعل حال اے جا مستقبل — 'جدوں تُوں ٹُٹے گی' بمقابلہ 'ہُن تُوں ٹُٹ گئی'"
+    }
+  ],
+  "translation": "⟨اوہ⟩ ویلے جدوں تُوں سمندراں وِچ، پانیاں دیاں گہرائیاں وِچ ٹُٹ گئی، تیری وپار تے تیرا سارا انبوہ تیرے وِچکار ڈِگ پئے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4aa4de6490ad417fc154b3dc7cb75e7219225fd168ea7086a92ca3ded150d5bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/27\/33-36.1792109750491.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "⟨اوہ⟩ ویلے جدوں"
+    },
+    {
+      "surface": "نשברת",
+      "gloss": "ٹُٹ گئی"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "سمندراں وِچ"
+    },
+    {
+      "surface": "במעמקי",
+      "gloss": "گہرائیاں وِچ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پانیاں دیاں"
+    },
+    {
+      "surface": "מערבך",
+      "gloss": "تیری وپار"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سارا"
+    },
+    {
+      "surface": "קהלך",
+      "gloss": "تیرا انبوہ"
+    },
+    {
+      "surface": "בתוכך",
+      "gloss": "تیرے وِچکار"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ڈِگ پئے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:15:50.492475269Z",
+  "model": "glm-5.3"
+}

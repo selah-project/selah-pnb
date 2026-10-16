@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "השמר לך",
+      "rationale": "لفظی 'آپ نوں چوکھا کر' — پنجابی وِچ 'اپنا خیال رکھیں'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "اِسرائیل",
+      "rationale": "ہدایت تُوں-صیغہ وِچ سدھی مخاطبت — اِسرائیل نوں چیتا کرن دا حکم"
+    }
+  ],
+  "translation": "اپنا خیال رکھیں کہ کتے ایسا ناں ہووے کہ تُوں ⟨את⟩ یاہوہ نوں بُھل ویں، جیہنے تینوں مِتصرایم دی دھرتی توں، غلاماں دے گھر توں کڈھیا،",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d7fb53a9cfb304c68e6e3cd85885b49b85e4abe1083bee400de1bdf009fbcba4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/6\/9-12.1792099646752.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השمר",
+      "gloss": "اپنا خیال رکھیں"
+    },
+    {
+      "surface": "לך",
+      "gloss": "اپنا"
+    },
+    {
+      "surface": "פן",
+      "gloss": "کہ کتے ایسا ناں ہووے"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "بُھل ویں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ نوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہنے"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "تینوں کڈھیا"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "دھرتی توں"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم دی"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "گھر توں"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "غلاماں دے"
+    }
+  ],
+  "timestamp": "2026-10-15T21:27:26.753953785Z",
+  "model": "glm-5.3"
+}

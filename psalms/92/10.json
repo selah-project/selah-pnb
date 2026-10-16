@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 92:10",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כי הנה איביך",
+      "rationale": "فقرے دی دوہری آوٹھ، 'کیونکہ ویکھو تیرے ویری' دو واری — تکرار عبرانی دا اے، پنجابی وِچ رکھیا گیا"
+    },
+    {
+      "kind": "crux",
+      "subject": "יתפרדו",
+      "rationale": "'تُرٹ کے وکھرے ہونگے' بمقابلہ 'فنا ہو جانگے' — وکھرے ہونے دا مڈھلا مطلب رکھیا"
+    }
+  ],
+  "translation": "کیونکہ ویکھو، تیرے ویری، اے یاہوہ، کیونکہ ویکھو، تیرے ویری فنا ہو جانگے؛ کٹ جانگے سارے کُوڑ دے کردے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ccb29bba7eab0d6769349d3ffd820dfd370e974b97e7c1334d1ae31883a0070a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/92\/9-12.1792113342394.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ویکھو"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "تیرے ویری"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ویکھو"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "تیرے ویری"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "فنا ہو جانگے"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "کٹ جانگے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "کردے"
+    },
+    {
+      "surface": "און",
+      "gloss": "کُوڑ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:15:42.395503854Z",
+  "model": "glm-5.3"
+}

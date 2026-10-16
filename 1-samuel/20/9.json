@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 20:9",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חלילה",
+      "rationale": "لفظی 'بیحورتی چیز'، مطلب 'دور ہووے' — پنجابی وِچ اِکو محاورہ رکھیا"
+    },
+    {
+      "kind": "crux",
+      "subject": "ו",
+      "rationale": "'تے نہ دسیاں؟' — سوالیہ شکل منفی نال (KJV) جاں پکا کہن والی ('مَیں دسیاں گا'، YLT) — سوالیہ پڑھائی چُنی"
+    }
+  ],
+  "translation": "تے یہوناتان نے آکھیا: ایہہ تیرے توں دور ہووے، کیونکہ جے مَیں جان لواں کی میرے پیو ولّوں برائی فریق ہو گئی اے کہ تیرے اُتے آوے، تے مَیں ⟨את⟩ اوہ گل تیرے اُتے نہ دسیاں؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "03924d1eebdc0209d38b74c0b14454b86f1dbc754af54ebb17c442db381cd99b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/20\/9-12.1792102665830.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "یہوناتان"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "دور ہووے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیرے توں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "جان لواں"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "مَیں جاناں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "فریق ہو گئی"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ولّوں"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "میرے پیو"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "کہ آوے"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تیرے اُتے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "اوہ گل (برائی)"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "دسیاں"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیرے اُتے"
+    }
+  ],
+  "timestamp": "2026-10-15T22:17:45.831054766Z",
+  "model": "glm-5.3"
+}

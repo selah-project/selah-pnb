@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 13:11",
+  "book": "hosea",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "אתן",
+      "rationale": "علامتِ زمانہ ماضی دا وی ہو سکدا اے ('مَیں دِتا سی'، KJV) — بغض وِچ لَے مارن دا مطلب بادشاہ ہُݨ ہٹایا گیا۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "اوہدوں",
+      "rationale": "عبرانی مفعول نئیں دسدا، پنجابی جملا منگدا اے۔"
+    }
+  ],
+  "translation": "مَیں تینوں دِتا بادشاہ اپنے غصے وِچ، تے لَے ماریا اپنی بغض وِچ ⟨اوہدوں⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e64b359583dd3d276a9cf5563011e7697cbbfa8712f4197d9a1858af11dcbd93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/hosea\/13\/9-12.1792110559476.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתן",
+      "gloss": "مَیں دِتا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تینوں"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "اپنے غصے وِچ"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "تے لَے ماریا"
+    },
+    {
+      "surface": "בעברתי",
+      "gloss": "اپنی بغض وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T00:29:19.476849717Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 21:17",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "פי שנים",
+      "rationale": "لفظی 'دو منہ' — یعنی دو حصص، دوجے پتراں دے دوگنے؛ پنجابی وِچ 'دو حصص دیاں ونڈاں'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ראשית אנו",
+      "rationale": "لفظی 'اوہدی طاقت دا شروع\/پہلا پھل' — جِنی جہناں دی پہلی فصل"
+    },
+    {
+      "kind": "elision",
+      "subject": "משפט הבכרה",
+      "rationale": "پہلوٹھے دا حق — اینوں وکھرا ترجمہ کرنا پے گیا، 'הבכרה' اکلا کھلوندا اے"
+    }
+  ],
+  "translation": "کیونجے ⟨את⟩ پہلوٹھے نوں — نفرت والی دے پتر نوں — اوہ منّے گا، کہ اوہنوں سارے وِچوں، جو کجھ اوہدے کولوں لبھے، دو حصص دیاں ونڈاں دیوے؛ کیونجے اوہ اوہدی طاقت دا پہلا پھل اے — اوہدے لئی پہلوٹھے دا حق اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0318a50caa5066129ab87ff107c42a9ae2653e60d5306603e729f4b5da763c3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/21\/17-20.1792100203901.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پہلوٹھے نوں"
+    },
+    {
+      "surface": "הבכר",
+      "gloss": "پہلوٹھے"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پتر"
+    },
+    {
+      "surface": "השנואה",
+      "gloss": "نفرت والی"
+    },
+    {
+      "surface": "יכיר",
+      "gloss": "منّے گا"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "دیون"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہنوں"
+    },
+    {
+      "surface": "פי",
+      "gloss": "منہ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سارے وِچوں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "لبھے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدے کولوں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "پہلا پھل"
+    },
+    {
+      "surface": "אנו",
+      "gloss": "طاقت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدی"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "حق"
+    },
+    {
+      "surface": "הבכרה",
+      "gloss": "پہلوٹھے دا"
+    }
+  ],
+  "timestamp": "2026-10-15T21:36:43.901784537Z",
+  "model": "glm-5.3"
+}

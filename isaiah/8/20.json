@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 8:20",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "لתורה ולתעודה",
+      "rationale": "بند آیت — 'کول تورات تے گواہی!' (KJV 'to the law and to the testimony') بمقابلہ 'کیونکہ اوہ تورات مطابق نئیں بولدے' — واڑے جُڑن دے راہ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "سویر",
+      "rationale": "שחר 'سویر\/چانن' — KJV 'no light'، JPS 'no dawn'؛ شکل سویر دا اے"
+    },
+    {
+      "kind": "secret",
+      "subject": "بند گل",
+      "rationale": "ایس آیت دا جملہ ٹٹیا تے بھید بھریا اے — مُک نئیں لگدا، لُکایا ہویا"
+    }
+  ],
+  "translation": "تورات ⟨ول⟩ تے گواہی ⟨ول⟩! جے اوہ ایس گل مطابق نئیں آکھدے — جیہدے وِچ کوئی سویر نئیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e832904571fae8121561e3eba20d8ef95608fe040f17ce25c89e5ae9e27d3d58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/8\/17-20.1792105867076.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לתורה",
+      "gloss": "تورات ⟨ول⟩"
+    },
+    {
+      "surface": "ולתעודה",
+      "gloss": "تے گواہی ⟨ول⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "اوہ آکھدے"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "گل مطابق"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایس"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہدے"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کوئی... نئیں"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدے وِچ"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "سویر"
+    }
+  ],
+  "timestamp": "2026-10-15T23:11:07.077535126Z",
+  "model": "glm-5.3"
+}

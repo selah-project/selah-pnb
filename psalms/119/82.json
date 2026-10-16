@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 82,
+  "ref": "psalms 119:82",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ایہہ⟩",
+      "rationale": "לאמר دا گرمر کولوں سٹّ دا نریشن، پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "you",
+      "subject": "یاہوہ",
+      "rationale": "اشعیا دا سدواں خطاب، 'کدوں' دا سوال"
+    }
+  ],
+  "translation": "مُک گئیاں میریاں اکھاں تیرے کہن لئی، ⟨ایہہ⟩ آکھ کے: کدوں توں میں نوں تسلی دیں گا؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d168adea9ed75b492c59f10eb05578a21f3c3ea66b24f0301db99853722ee7fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/119\/81-84.1792113894402.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "مُک گئیاں"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "میریاں אکھاں"
+    },
+    {
+      "surface": "לאמרתך",
+      "gloss": "تیرے کہن لئی"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ کے"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "کدوں"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "توں میں نوں تسلی دیں گا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:24:54.403272722Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 18:10",
+  "book": "ezekiel",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ועשה אח מאחד מאלה",
+      "rationale": "مشکل جملہ: 'کسے بھرا نال ایہناں وِچوں اِک کیتا' (KJV\/JPS) بمقابلہ YLT 'ایہناں وِچوں اِک دا بھرا بنایا'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨جے⟩",
+      "rationale": "عبرانی وِچ شرطی جملہ اے پر 'جے' دا لفظ نئیں؛ پنجابی جملہ منگدا اے"
+    }
+  ],
+  "translation": "تے ⟨جے⟩ اوہ اِک پُتر جِنیا، اِک ظالم، لہو ڈھاؤن والا، تے ایہناں وِچوں اِک بھرا ⟨نال⟩ ایہو جیہا کردا اے —",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ffd20ef6ddcf965c3b45eae4b2b5725f59d06ed491a009ad6ae72b0daf73ba9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/18\/9-12.1792109315378.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוליד",
+      "gloss": "تے جِنیا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "פריץ",
+      "gloss": "ظالم"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "ڈھاؤن والا"
+    },
+    {
+      "surface": "דם",
+      "gloss": "لہو"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "تے کردا اے"
+    },
+    {
+      "surface": "אח",
+      "gloss": "بھرا"
+    },
+    {
+      "surface": "מאחד",
+      "gloss": "وِچوں اِک"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "ایہناں"
+    }
+  ],
+  "timestamp": "2026-10-16T00:08:35.378914143Z",
+  "model": "glm-5.3"
+}

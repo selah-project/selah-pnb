@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 14:4",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בר",
+      "rationale": "بر — خالی\/صاف (KJV 'clean') جاں بھونر\/اناج؛ ایتھے خالی پڑھیا گیا، کھُری وِچ کجھ نئیں"
+    }
+  ],
+  "translation": "جتھے ودھووے نئیں ہندے اوتھے بھوسے دی کھُری خالی ہندی اے، پر ودھووے دے زور نال فصل بہت ہندی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "92140400659569df3ba77072ccf0569b26db16f94ecfeaeb3693a617fe82ee6b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/14\/1-4.1792114681439.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "جتھے … نئیں ہندے"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ودھووے"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "بھوسے دی کھُری"
+    },
+    {
+      "surface": "בר",
+      "gloss": "خالی ہندی اے"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "پر بہت"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "فصل"
+    },
+    {
+      "surface": "بכח",
+      "gloss": "دے زور نال"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ودھووے دے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:38:01.440337862Z",
+  "model": "glm-5.3"
+}

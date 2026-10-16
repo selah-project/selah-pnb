@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 44:3",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "گیا",
+      "rationale": "עברی وِچ کرمیل قید-مجهول اے، پنجابی نوں 'گیا' چاہیدا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "—",
+      "rationale": "המה والی سختی (اوہ ای) پنجابی وِچ جملے دے بند ونڈ نال دسی گئی"
+    }
+  ],
+  "translation": "سویرے چانݨ ہوئا، تے بندیاں نوں رخصت کیتا گیا — اوہ تے اوہناں دے کھوتے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a82abdcb7550792f8ab784a9576bded4a65f8a0690588b6c0b09ec24898c0b12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/44\/1-4.1792095934265.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבקר",
+      "gloss": "سویرے"
+    },
+    {
+      "surface": "אור",
+      "gloss": "چانݨ ہوئا"
+    },
+    {
+      "surface": "והאנשים",
+      "gloss": "تے بندیاں نوں"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "رخصت کیتا گیا"
+    },
+    {
+      "surface": "המה",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "וחמריהם",
+      "gloss": "تے اوہناں دے کھوتے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:25:34.271316806Z",
+  "model": "glm-5.3"
+}

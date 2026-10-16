@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 7:14",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "یالَداہ",
+      "rationale": "کیندے جَنݨ دی گل اے — لونڈی نے ماخیر نوں جنیا (KJV\/ASV) جد کہ عبرانی دا پہلا ‘یالداہ’ اَسرِیایل نال جُڑدا اے (JPS)۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "سن",
+      "rationale": "پنجابی جملے لئی فعل دی لوڑ، عبرانی وِچ کوئی فعل نئیں۔"
+    }
+  ],
+  "translation": "مِنشّیہ دے پُتر اَسرِیایل سن، جِنہوں اوہنے جنیا؛ اوہدی اَرامی لونڈی نے ⟨את⟩ ماخیر نوں جنیا — گِلعاد دا پیو۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a67fcee4ffec800cb3de29a69d1a390649a9db7b4122ec5a40aba54e604b222d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/7\/13-16.1792120495083.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "مِنشّیہ"
+    },
+    {
+      "surface": "אשריאל",
+      "gloss": "اَسرِیایل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جِنہوں"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "اوہنے جنیا"
+    },
+    {
+      "surface": "פילגשו",
+      "gloss": "اوہدی لونڈی"
+    },
+    {
+      "surface": "הארמיה",
+      "gloss": "اَرامی"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "نے جنیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ماخیر"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "ماخیر"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "دا پیو"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "گِلعاد"
+    }
+  ],
+  "timestamp": "2026-10-16T03:14:55.083800287Z",
+  "model": "glm-5.3"
+}

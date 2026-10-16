@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 26:2",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לְלֹא כֹחַ",
+      "rationale": "عبرانی نفی دی اکائی 'بِنا طاقت دے' — پنجابی جملے لئی 'جنہدے وِچ کوئی طاقت نئیں' کھولھنا پئے گیا"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨جنہدے وِچ⟩ \/ ⟨اوہ⟩",
+      "rationale": "عبرانی مفعول نوں پنجابی جمله بݨاؤن لئی شامل کیتا"
+    },
+    {
+      "kind": "you",
+      "subject": "بلد\/صافیت دے ساتھی ول",
+      "rationale": "اییوو اپنے مخاطب دا مدرا کردا اے، سوال پچھدے ہوئے"
+    }
+  ],
+  "translation": "توں کِویں مدد کیتی ⟨جنہدے وِچ⟩ کوئی طاقت نئیں؟ کِویں بچایا ⟨اوہ⟩ بازو جیہدے وِچ کوئی زور نئیں؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a2f3b40aff160d0dd3c365ff1752a3fd0cf77a6274e6186a3bce8ca368fff7d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/26\/1-4.1792116049894.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "کِویں"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "مدد کیتی"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "כח",
+      "gloss": "طاقت"
+    },
+    {
+      "surface": "הושעת",
+      "gloss": "بچایا"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "بازو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "עז",
+      "gloss": "زور"
+    }
+  ],
+  "timestamp": "2026-10-16T02:00:49.894779972Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 50:16",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "حکم بھیجیا",
+      "rationale": "ויצוו literal 'they commanded' — many versions render 'sent a message\/messenger' which Hebrew here does not say"
+    },
+    {
+      "kind": "idiom",
+      "subject": "לפני מותו",
+      "rationale": "'before his death' — face-of idiom for 'in the presence of \/ prior to'"
+    },
+    {
+      "kind": "you",
+      "subject": "یوسف",
+      "rationale": "the brothers' message addresses Joseph directly: 'thy father'"
+    }
+  ],
+  "translation": "تے اوہناں یوسف ⟨نوں⟩ حکم بھیجیا، ⟨آکھدے⟩: تیرے پیو نے اپنی موت توں پہلاں حکم دتا، آکھدا:",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "30a7adfe7d4bcc36abb8ce5ed59c28e387f566f72081f3ea9bf85129fde73cb9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/50\/16-16.1792123277665.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצוו",
+      "gloss": "حکم بھیجیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھدے"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "تیرے پیو نے"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم دتا"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "توں پہلاں"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "اپنی موت"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھدا"
+    }
+  ],
+  "timestamp": "2026-10-16T04:01:17.666339958Z",
+  "model": "glm-5.3"
+}

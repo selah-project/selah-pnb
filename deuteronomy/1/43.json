@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "deuteronomy 1:43",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ותזדו",
+      "rationale": "زَוּד = اِبل کھانا\/جی ہٹی کرنا — 'اِتّھے لنگھنا' (غرور نال) بمقابلہ 'حوصلہ کرنا' یا 'بددلی نال چلنا'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "مُونہݨ دے خلاف",
+      "rationale": "עמר את פי — عبرانی 'مُونہݨ نوں پُھٹنا' اِدّی اے؛ پنجابی 'حکم دے خلاف بغاوت' سمجھاؤندا اے"
+    }
+  ],
+  "translation": "تے میں تہاڈے نال گل کیتی، پر تُساں نہ سُنیا، بلکہ یاہوہ دے مُونہݨ ⟨את⟩ دے خلاف بغاوت کیتی، تے اِتّھے لنگھ کے پہاڑ تے چڑھ گئے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d1db57883d23cb9cc2c6487b94ac4b3aca75189e27fc06c76ca5ea611c9ca21d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/1\/42-43.1792123451959.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "تے میں گل کیتی"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "تہاڈے نال"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "پر نہ"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "تُساں سُنیا"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "تُساں بغاوت کیتی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ دے مُونہݨ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "مُونہݨ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دے"
+    },
+    {
+      "surface": "ותזדו",
+      "gloss": "تے اِتّھے لنگھے"
+    },
+    {
+      "surface": "ותעלו",
+      "gloss": "تے چڑھ گئے"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "پہاڑ تے"
+    }
+  ],
+  "timestamp": "2026-10-16T04:04:11.959907045Z",
+  "model": "glm-5.3"
+}

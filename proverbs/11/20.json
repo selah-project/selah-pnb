@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 11:20",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "תמימי",
+      "rationale": "'پورے\/کامل' لفظ کئی شبدہاں والا اے؛ ایس وِچ 'سیدھے راہ تے چلن والے' اکو گلاس وِچ جوڑ دتا گیا اے"
+    },
+    {
+      "kind": "elision",
+      "subject": "דרך",
+      "rationale": "دوجی سطر وِچ דרך پہلی گلاس نال رل گیا — لفظ گنوایا نئیں، جوڑ دتا گیا اے"
+    }
+  ],
+  "translation": "یاہوہ نوں گھناؤنے نیں ٹیڑھے دل والے، تے اوہدا پسند اے سیدھے راہ تے چلن والے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e7f1dabe9583a0dd9bff57175df541ac91dc0defd0875cd49ed04434823b423a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/11\/17-20.1792114644882.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "گھناؤنے نیں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עקשי",
+      "gloss": "ٹیڑھے"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل والے"
+    },
+    {
+      "surface": "ורצונו",
+      "gloss": "تے اوہدا پسند"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "سیدھے راہ تے چلن والے"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "⟨راجے⟩"
+    }
+  ],
+  "timestamp": "2026-10-16T01:37:24.883024653Z",
+  "model": "glm-5.3"
+}

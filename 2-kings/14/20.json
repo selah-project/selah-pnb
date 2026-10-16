@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 14:20",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "گیا",
+      "rationale": "עברית ויקבר دا کریاوی روپ 'اُوہنوں دفنایا' — پنجابی غیر شخصی جملا 'دفنایا گیا' منگدا اے۔"
+    }
+  ],
+  "translation": "تے اُوہنوں ⟨אתו⟩ گھوڑیاں اُتے چُکیا، تے اوہ یروشلایم وِچ اپنیاں پیوآں نال، داؤد دے شہر وِچ دفنایا گیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "42916f86b791faf0802ca37091077189f70618fcb35cb6e734f83d0ff95fc554",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/14\/17-20.1792105328233.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "تے چُکیا"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "اُوہنوں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "گھوڑیاں"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "تے دفنایا گیا"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "یروشلایم وِچ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "اپنیاں پیوآں"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "شہر وِچ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داؤد"
+    }
+  ],
+  "timestamp": "2026-10-15T23:02:08.234249509Z",
+  "model": "glm-5.3"
+}

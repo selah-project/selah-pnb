@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 83:4",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "סוד",
+      "rationale": "חپا ہویا مشورہ — راز دی سبیلی، عدالتی راز شماری"
+    },
+    {
+      "kind": "crux",
+      "subject": "צפוניך",
+      "rationale": "'تیرے چھپائے ہوئے' — KJV 'hidden ones' (رب دی پناہ وچ لوک) بمقابلہ کجھ 'تیرے عزیز رکھے' یا 'تیرے خزانے'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "چالاکی نال",
+      "rationale": "ערמ צوہنوں 'ننگا کرنا' توں آیا — چال بازی، 'عام مشورہ' نئیں"
+    }
+  ],
+  "translation": "تیرے قوم ⟨دے خلاف⟩ چالاکی نال مشورہ کردے نیں، تے تیرے چھپائے ہوئے ⟨لوکاں⟩ ⟨دے خلاف⟩ صلاح کردے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "21d8328b83fadc756d7172552d095977548bff823a49a200eb389f27773326b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/83\/1-4.1792113176325.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "دے خلاف"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تیرے قوم"
+    },
+    {
+      "surface": "יערימו",
+      "gloss": "چالاکی نال کردے نیں"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "مشورہ"
+    },
+    {
+      "surface": "ויתיעצו",
+      "gloss": "تے صلاح کردے نیں"
+    },
+    {
+      "surface": "על",
+      "gloss": "دے خلاف"
+    },
+    {
+      "surface": "צפוניך",
+      "gloss": "تیرے چھپائے ہوئے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:12:56.326358905Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 10:4",
+  "book": "ecclesiastes",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מרפא",
+      "rationale": "لفظی مطلب “شفا\/مُرہم” اے — “نرمی”، “شفا بخشی”، “ہٹھمی” — ترجمے ونڈے ہوئے نیں؛ شفا دا چِتر رکھنا چاہیدا سی۔"
+    },
+    {
+      "kind": "you",
+      "subject": "پاٹھک\/ملازم",
+      "rationale": "آیت سدھی مخاطب اے — “تیرے اُتے”، “اپنا تھاں نہ چھڈ” — بادشاہ دے دربار دے بندے نوں ہدایت۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "روح",
+      "rationale": "רוח ایتھے غصہ\/کجھی ہوا دا چِتر اے، روح دے مذہبی مطلب توں بِنا۔"
+    }
+  ],
+  "translation": "جے حاکم دی روح تیرے اُتے چڑھے، اپنا تھاں نہ چھڈ، کیونجے نرمی وڈیاں گناہاں نوں ٹھہراندی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ea9d772119811af4e802c9749728f9de1c8363a5cb710a531ef5092d0f979d10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ecclesiastes\/10\/1-4.1792117596440.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "המושל",
+      "gloss": "حاکم دی"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "چڑھے"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تیرے اُتے"
+    },
+    {
+      "surface": "מקומך",
+      "gloss": "اپنا تھاں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "چھڈ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "نرمی"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "ٹھہراندی اے"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "گناہاں نوں"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "وڈیاں"
+    }
+  ],
+  "timestamp": "2026-10-16T02:26:36.442252852Z",
+  "model": "glm-5.3"
+}

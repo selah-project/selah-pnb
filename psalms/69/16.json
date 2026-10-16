@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 69:16",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שבלת",
+      "rationale": "اصل 'دھارا\/وہائی' اے — 'ہڑھ' ہڑھ دی تھاں قدرتی پنجابی، صورت کجھ گئی۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תבלעני \/ בלע",
+      "rationale": "'نگلنا' — یونس دی مچھی ورگی تصویر، بچاء دا منہ کھلھا رہنا چاہیدا اے۔"
+    }
+  ],
+  "translation": "پانیاں دا ہڑھ مینوں نہ ڈبووے، نہ ڈونگھا مینوں نگلے، نہ بیڑ اپنا مونہہ میرے اُتے بند کرے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "47969150fa716fb6d3c0651bb4d6a5c51568d472cd91d13850f2a329461459bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/69\/13-16.1792112890628.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשטפני",
+      "gloss": "مینوں ڈبووے"
+    },
+    {
+      "surface": "שבלת",
+      "gloss": "ہڑھ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پانیاں دا"
+    },
+    {
+      "surface": "وאל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תבלעני",
+      "gloss": "مینوں نگلے"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "ڈونگھا"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאטר",
+      "gloss": "بند کرے"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "میرے اُتے"
+    },
+    {
+      "surface": "באר",
+      "gloss": "بیڑ"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "اپنا مونہہ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:08:10.630045910Z",
+  "model": "glm-5.3"
+}

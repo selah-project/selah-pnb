@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جوان",
+      "rationale": "גבר طاقتور\/بہادر بندہ — پنجابی وِچ 'جوان' چوڑائی رکھدا اے پر 'بہادر' وی سچ اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נמרוד",
+      "rationale": "نعر 'مرود' — شیر ورگا بہادر؛ شاید ناں تے גבר دی گونج"
+    }
+  ],
+  "translation": "تے کُوش نے ⟨את⟩ نمرود نوں جمیا؛ اوہ زمیں اُتے جوان ہون ہون لگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ebd5cc934baef90e57014b54540e306e72bd21bfd3959badbdf44ffcba9ebd68",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/10\/5-8.1792094819625.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "تے کُوش نے"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "جمیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نمرود نوں"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "نمرود"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "החל",
+      "gloss": "لگا"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ہون"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "جوان"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمیں اُتے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:06:59.627515028Z",
+  "model": "glm-5.3"
+}

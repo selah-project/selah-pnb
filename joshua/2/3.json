@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 2:3",
+  "book": "joshua",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "راخب",
+      "rationale": "بادشاہ دا سِدھا خطاب راخب نوں — امر 'کڈھ دے'"
+    },
+    {
+      "kind": "elision",
+      "subject": "הוציאי دا مفعول",
+      "rationale": "عبرانی مصدر خود مفعول دسدا اے؛ پنجابی وِچ 'اوہناں نوں' جوڑیا"
+    }
+  ],
+  "translation": "تے یریکھو دے بادشاہ نے راخب ول گھلیا، آکھ کے: اوہ بندے جیہڑے تیرے کول آئے نیں، جیہڑے تیرے گھر وڑے نیں، اوہناں نوں کڈھ دے، کیونجہ سارے ⟨את⟩ دیس نوں پڑتالن آئے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0b0f666e3f034b920a791ad8224672373cb196a26dcc4d442d7247d5dd77e35a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joshua\/2\/1-4.1792100757523.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "تے گھلیا"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ نے"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "یریکھو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ول"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "راخب"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ کے"
+    },
+    {
+      "surface": "הוציאי",
+      "gloss": "کڈھ دے"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "اوہ بندے"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "آون والے"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تیرے کول"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑے"
+    },
+    {
+      "surface": "באו",
+      "gloss": "وڑے نیں"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "تیرے گھر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "پڑتالن لئی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سارا دیس"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "دیس"
+    },
+    {
+      "surface": "באו",
+      "gloss": "آئے نیں"
+    }
+  ],
+  "timestamp": "2026-10-15T21:45:57.524428957Z",
+  "model": "glm-5.3"
+}

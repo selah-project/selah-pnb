@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 40:7",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اپنی",
+      "gloss": "",
+      "rationale": "חלציך دی جدرے ضمیر پہلوں اے پر پنجابی 'کمر بنھ' نال 'اپنی' بِناں ادھورا لگدا اے"
+    },
+    {
+      "kind": "you",
+      "subject": "اییوو",
+      "rationale": "خدا اییوو نُوں سدھی آواز ماردا اے: ہن اک بندے وانگ تیار ہو"
+    },
+    {
+      "kind": "invitation",
+      "subject": "سوال جواب",
+      "rationale": "'مَیں پُچھاں، تُوں دس' — مکالمے ول سدا"
+    }
+  ],
+  "translation": "ہن اک بندے وانگ اپنی کمر بنھ؛ مَیں تَیں توں پُچھاں تے تُوں مینوں دسیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "eecdcb60c3a117f6cbe252a60a944108a61a88970171344893a5e9fe9a62be08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/40\/5-8.1792116479249.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אזר",
+      "gloss": "بنھ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ہن"
+    },
+    {
+      "surface": "כגבר",
+      "gloss": "اک بندے وانگ"
+    },
+    {
+      "surface": "חלציך",
+      "gloss": "اپنی کمر"
+    },
+    {
+      "surface": "אשאלך",
+      "gloss": "مَیں تَیں توں پُچھاں"
+    },
+    {
+      "surface": "והודיעני",
+      "gloss": "تے مینوں دسیں"
+    }
+  ],
+  "timestamp": "2026-10-16T02:07:59.250418941Z",
+  "model": "glm-5.3"
+}

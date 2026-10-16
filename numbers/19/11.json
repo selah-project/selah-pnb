@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 19:11",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "نپھش ’ساہ\/جان‘ اے نہ کہ روح؛ ’جان دا مُردہ‘ — آدمی دا جُثہ۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ستّ دن",
+      "rationale": "نجاست دا وقت ناپیا گیا — ستّ دن۔"
+    }
+  ],
+  "translation": "جہڑا کسے آدمی دی جان دے مُردے نوں چھوہے، اوہ ستّ دناں تک نجس ہووے گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0c44c8a9a5e709ca27f25d7897e5470d1c931865206c42912270b82259465f1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/19\/9-12.1792098910801.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנגע",
+      "gloss": "جہڑا چھوہے"
+    },
+    {
+      "surface": "במת",
+      "gloss": "مُردے نوں"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "کسے وی"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمی دی"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "تے نجس ہووے گا"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ستّ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دناں"
+    }
+  ],
+  "timestamp": "2026-10-15T21:15:10.802840169Z",
+  "model": "glm-5.3"
+}

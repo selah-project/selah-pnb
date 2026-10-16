@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 1:4",
+  "book": "judges",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "دَہ ہزار بندے",
+      "rationale": "مارے گئیاں دی گنتی — عبرانی دا ʿaseret alafim ish اِکو پیمانہ اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "—",
+      "rationale": "گنتی توں پہلاں جوڑ، پنجابی روانی لئی؛ عبرانی وِچ صرف لفظاں دی ترتیب"
+    }
+  ],
+  "translation": "تے یہُوداہ چڑھیا، تے یاہوہ نے ⟨את⟩ کنعانی تے پِرزیّی اوہناں دے ہتھ دِتے، تے اوہناں نوں بِیزِق وِچ ماریا — دَہ ہزار بندے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d1129f2329c1b72422b143523df811443aee86531bca11335d3273254ceee50d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/judges\/1\/1-4.1792101369128.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "تے چڑھیا"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہُوداہ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "تے دِتا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کنعانی"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "کنعانی"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "تے پِرزیّی"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "اوہناں دے ہتھ"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "تے اوہناں نوں ماریا"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "بِیزِق وِچ"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "دَہ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندے"
+    }
+  ],
+  "timestamp": "2026-10-15T21:56:09.129817527Z",
+  "model": "glm-5.3"
+}

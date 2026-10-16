@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 27:27",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨سی⟩",
+      "rationale": "عبرانی وِچ کرنا فعل کوئی نئیں"
+    },
+    {
+      "kind": "crux",
+      "subject": "שבכרמים",
+      "rationale": "کجھ مترجم 'باغاں دا دین' لیندے نیں، کجھ 'باغاں وِچ کم کرن والے' — یلت 'جو باغاں وِچ اے' دیندا اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "اثنا 27:27",
+      "rationale": "اہلکاراں دی لسٹ جاری اے"
+    }
+  ],
+  "translation": "تے انگوراں دے باغاں اُتے شمعی رامتی ⟨سی⟩، تے انگوراں دے باغاں دے شراب دے خزانےآں لئی زبدی شفمی ⟨سی⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "cd566db08673027307713596f3b4ee2afd20c998fc6e7dfe30e31bd9b36820b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/27\/25-28.1792121323686.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "הכרמים",
+      "gloss": "انگوراں دے باغاں"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شمعی"
+    },
+    {
+      "surface": "הרמתי",
+      "gloss": "رامتی"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "שבכרמים",
+      "gloss": "انگوراں دے باغاں وِچ جو کجھ اے"
+    },
+    {
+      "surface": "לאצרות",
+      "gloss": "خزانےآں لئی"
+    },
+    {
+      "surface": "היין",
+      "gloss": "شراب دے"
+    },
+    {
+      "surface": "זבדי",
+      "gloss": "زبدی"
+    },
+    {
+      "surface": "השפמי",
+      "gloss": "شفمی"
+    }
+  ],
+  "timestamp": "2026-10-16T03:28:43.687548857Z",
+  "model": "glm-5.3"
+}

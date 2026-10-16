@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 74:22",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ריבה ריבך",
+      "rationale": "Verb–noun repetition of the same root, 'plead your plea'; Punjabi keeps only the sense."
+    },
+    {
+      "kind": "you",
+      "subject": "to Elohim",
+      "rationale": "Direct imperative address to God."
+    },
+    {
+      "kind": "invitation",
+      "subject": "קומה",
+      "rationale": "Summons to God to rise and act — the psalm's climactic plea."
+    }
+  ],
+  "translation": "اُٹھ، اے ایلوہیم، اپنا مقدمہ لڑ، اپنی بری گل یاد کر ⟨⟩ بے عقل توں، سارا دن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "39cb3110782b1e51d8213863432bb7799bec990105c6d57346399b1de4477c38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/74\/21-23.1792112973285.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "اُٹھ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "اے ایلوہیم"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "لڑ"
+    },
+    {
+      "surface": "ריבך",
+      "gloss": "اپنا مقدمہ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "یاد کر"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "اپنی بری گل"
+    },
+    {
+      "surface": "מני",
+      "gloss": "توں"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "بے عقل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "دن"
+    }
+  ],
+  "timestamp": "2026-10-16T01:09:33.286267834Z",
+  "model": "glm-5.3"
+}

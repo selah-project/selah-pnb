@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ہوندا اے",
+      "rationale": "عبرانی وِچ کوئی فعل نئیں — پنجابی والی کوپولا چاہیدی اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לב…ולב",
+      "rationale": "آیت دوناں حصیاں وِچ 'دل' دا دوہراؤ — سمتوی جوڑ، پنجابی وِچ وی دوہرایا گیا"
+    }
+  ],
+  "translation": "دانایاں دا دل سوگ دے گھر وِچ ہوندا اے، تے مُورکھاں دا دل خُشی دے گھر وِچ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0e6d546980410e104143fa9b71b79bacb735708a8d5d665ae9427f020ac0652d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ecclesiastes\/7\/4-4.1792124324733.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "دانایاں دا"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "گھر وِچ"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "سوگ دے"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "تے دل"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "مُورکھاں دا"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "گھر وِچ"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "خُشی دے"
+    }
+  ],
+  "timestamp": "2026-10-16T04:18:44.733538407Z",
+  "model": "glm-5.3"
+}

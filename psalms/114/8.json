@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 114,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אגם",
+      "rationale": "لفظی مطلب «دلدل\/نکاسی تالاب» — «تالاب» رکھیا گیا، «کھڑا پانی» (KJV) توں سچیر اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "ਪਾਣੀ",
+      "rationale": "ਪੰਜਾਬੀ ਜੋੜ «ਪਾਣੀ ਦੇ ਤਾਲਾਂ\/ਚਸ਼ਮਿਆਂ» ਲਈ «ਦੇ» ਤੇ «ਵਿੱਚ» شਾਮਲ ਕੀਤੇ — عبرانی وِچ اسم حالت سِدھا جُڑدا اے"
+    }
+  ],
+  "translation": "جِہنے چٹان نوں پانی دے تالاواں وِچ تے چِکّ پتھر نوں پانی دے چشمیاں وِچ پلٹیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "94de7dada0975aece852f59cb693a0c1413570e1594ab4acc430d500999295e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/114\/5-8.1792113730283.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "جِہنے … پلٹیا"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "چٹان"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "تالاب"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پانی"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "چِکّ پتھر"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "چشمیاں وِچ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پانی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:22:10.284882058Z",
+  "model": "glm-5.3"
+}

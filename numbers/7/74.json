@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 74,
+  "ref": "numbers 7:74",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "شیکل",
+      "rationale": "عبرانی وچ وزن دی اکائی صیغہ توں مقررہ اے، لفظ شیکل لکھیا ہی نئیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "کماند",
+      "rationale": "کف = ہتھیلی\/کھوکھلا برتن؛ پنجابی وچ برتن دا مطلب رکھیا گیا، ہتھیلی دا تصویر گیا"
+    },
+    {
+      "kind": "measurement",
+      "subject": "وزن",
+      "rationale": "دس شیکل سونا"
+    }
+  ],
+  "translation": "اِک سنہری کماند، دس ⟨شیکل⟩ وزن، بھری ہوئی خوشبو دی دھوں نال۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8b39c7c3ed6b3cedf39112789d67b36ced7c54264733534eb72e254953b06719",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/7\/73-76.1792098461890.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "کماند ⟨ہتھیلی⟩"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "اِک"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دس"
+    },
+    {
+      "surface": "זהب",
+      "gloss": "سونے دی"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "بھری ہوئی"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "خوشبو دی دھوں"
+    }
+  ],
+  "timestamp": "2026-10-15T21:07:41.891111246Z",
+  "model": "glm-5.3"
+}

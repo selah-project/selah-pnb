@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 15:22",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "הטף",
+      "rationale": "„بال\/نیانے“ لئی ٹھیک لفظ — ٹبر دے نکے بندیاں لئی، فوج نئیں۔"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "ایہה H854 „نال“ اے، H853 مفعول دا نشان نئیں؛ ٹبر دے نشان نال دُوہری صورت قائم اے۔"
+    }
+  ],
+  "translation": "تے داوِد نے اِتّای نوں آکھیا: جا تے لنگھ جا۔ تے گتّی اِتّای لنگھ گیا، تے اوہدے سارے بندے، تے سارے بال جیہڑے ⟨את⟩ اوہدے نال سن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6ff7357e6c534e14b891dfa89965791302e1fc7a6712d192fc24b2a300d63a64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/15\/21-24.1792103614151.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد نے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "اِتّای"
+    },
+    {
+      "surface": "לך",
+      "gloss": "جا"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "تے لنگھ جا"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "تے لنگھ گیا"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "اِتّای"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "گتّی"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سارے"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "اوہدے بندے"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سارے"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "بال"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑے"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "اوہدے نال"
+    }
+  ],
+  "timestamp": "2026-10-15T22:33:34.152010870Z",
+  "model": "glm-5.3"
+}

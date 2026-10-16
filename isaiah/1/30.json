@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 1:30",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "کوئی",
+      "rationale": "״אין״ دی نفی نوں قدرتی پنجابی وِچ 'کوئی … نئیں' بناؤن لئی"
+    },
+    {
+      "kind": "you",
+      "subject": "تسیں",
+      "rationale": "خطاب اگوں وی اوتھے دے لوکاں نوں"
+    }
+  ],
+  "translation": "کیوں جو تسیں اجیہے بلوط ورگے ہووو گے جیہدا پتہ مُرجھا گیا، تے اجیہے باغ ورگے جیہدے کوئی پانی نئیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a37068ecedaaa0091e09e7148eea6fe65a1401d31d456dc575b440ff7e178e94",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/1\/29-31.1792105786994.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "تسیں ہووو گے"
+    },
+    {
+      "surface": "כאלה",
+      "gloss": "بلوط ورگے"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "مُرجھا جاندا"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "پتہ"
+    },
+    {
+      "surface": "וכגנה",
+      "gloss": "تے باغ ورگے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہدے"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پانی"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "לה",
+      "gloss": "اوہدے"
+    }
+  ],
+  "timestamp": "2026-10-15T23:09:46.995764121Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 1:2",
+  "book": "song-of-songs",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨مینوں⟩",
+      "rationale": "عبرانی فعل وِچ '-نی' لاگیا اے پر پنجابی نوں وکھلو ضمیر چاہیدی اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "דדיך",
+      "rationale": "דוד جمع اے — 'تیرے پیار' (کئی واری) یا 'تیرا محب'؛ اکثر 'پیار' لیا جاندا اے"
+    }
+  ],
+  "translation": "اوہ ⟨مینوں⟩ اپنے مُنھ دے بوسیاں نال بوسہ دے، کیونکہ تیرے پیار شراب توں چنگے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "708639b00a5304c6985f489c6d7714dab9c2c2bae967edba93b746438fe76cd3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/song-of-songs\/1\/1-4.1792116646098.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישקני",
+      "gloss": "بوسہ دے"
+    },
+    {
+      "surface": "מנשיקות",
+      "gloss": "بوسیاں نال"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "اپنے مُنھ دے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "چنگے"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "تیرے پیار"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "شراب توں"
+    }
+  ],
+  "timestamp": "2026-10-16T02:10:46.099272454Z",
+  "model": "glm-5.3"
+}

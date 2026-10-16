@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 1:51",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הזר",
+      "rationale": "اجنبی\/اوپرا: کیا کوئی غیر-لوی اسرائیلی مرے گا یا صرف غیر-اسرائیلی؟ KJV مُطلق مارتا اے۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ובנסע\/ובחנת",
+      "rationale": "کوچ تے ڈیرا — سفر تے چھاؤنی دی جوڑی، اکو ساخت وِچ دو واری۔"
+    }
+  ],
+  "translation": "تے جدوں مسکن کوچ کرے، لویاں ⟨אתו⟩ اوہنوں اتارن گے، تے جدوں مسکن ڈیرے لائے جاون، لویاں ⟨אתו⟩ اوہنوں کھڑا کرن گے؛ تے اجنبی جو نیڑے آوے، ماریا جائے گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0c84254fbba5751b52e57093403f8d90d5057e61db5c52933e62319138806a9f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/1\/50-51.1792123467559.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובנסע",
+      "gloss": "تے جدوں کوچ کرے"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مسکن"
+    },
+    {
+      "surface": "יורידو",
+      "gloss": "اتارن گے"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "اوہنوں (مسکن نوں)"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لویاں"
+    },
+    {
+      "surface": "ובחנת",
+      "gloss": "تے جدوں ڈیرے لائے جاون"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مسکن"
+    },
+    {
+      "surface": "יקימו",
+      "gloss": "کھڑا کرن گے"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "اوہنوں (مسکن نوں)"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لویاں"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "تے اجنبی"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "جو نیڑے آوے"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ماریا جائے گا"
+    }
+  ],
+  "timestamp": "2026-10-16T04:04:27.560608070Z",
+  "model": "glm-5.3"
+}

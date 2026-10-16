@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 19:3",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اپنی\/اپنے",
+      "rationale": "عبرانی תיראו ਦੇ ਨਾਲ ਪੰਜਾਬੀ possessive pronoun منگدا اے، عبرانی وِچ نئیں۔"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "فرائض دی سِدھی ہدایت، پورے قوم ول۔"
+    }
+  ],
+  "translation": "ہر اِک بندا اپنی ماں توں تے اپنے پیو توں ڈرے، تے ⟨את⟩ میریاں شبّاتاں نوں مان رکھے؛ میں آں یاہوہ تہاڈا ایلوہیم۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "37ba7efe264b872281cdaa3c0fb6515977c60b5b0daa822710022d809a8314cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/19\/1-4.1792097876320.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ہر اِک بندا"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "اپنی ماں"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "تے اپنے پیو"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ڈرو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "میریاں شبّاتاں"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "میریاں شبّاتاں"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "مان رکھو"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "تہاڈا ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-10-15T20:57:56.320967456Z",
+  "model": "glm-5.3"
+}

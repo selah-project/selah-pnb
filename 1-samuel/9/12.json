@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 9:12",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "במה",
+      "rationale": "במہ پوجا دی خاص اُچی تھاں اے — 'اُچی تھاں' عام مطلب دیندا اے، مذہبی رنگ ہلکا پے جاندا اے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "זבח",
+      "rationale": "זבח کاٹنے\/ذبح دا مطلب وی رکھدا اے — 'قربان' رسمی پہلو نوں اگے رکھدا اے"
+    }
+  ],
+  "translation": "تے کُڑیاں نے ⟨את⟩ اوہناں دا جواب دِتا تے آکھیا: اے، دیکھو اوہ تیرے اگے اے؛ ہُن جلدی کر، کیونجے اَج اوہ شہر وِچ آیا اے، کیونجہ اَج لوکاں لئی قربان اُچی تھاں اُتے اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "726618519fc0d1fa85f8e84a1328ca3c79d8fc170346a081a5076b45010040cc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/9\/9-12.1792102383327.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותענינה",
+      "gloss": "تے جواب دِتا"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "اوہناں دا (شاؤل تے اوہدے مُنڈے دا)"
+    },
+    {
+      "surface": "ותאמרנה",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "יש",
+      "gloss": "اے"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "دیکھو"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "تیرے اگے"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "جلدی کر"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ہُن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اَج"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "شہر وِچ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "قربان"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اَج"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "لوکاں لئی"
+    },
+    {
+      "surface": "בבמה",
+      "gloss": "اُچی تھاں اُتے"
+    }
+  ],
+  "timestamp": "2026-10-15T22:13:03.328622759Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 108,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨تائیں⟩",
+      "rationale": "عبرانی وِچ اِکو עיר מבצר بندی اے؛ دو شبداں دی پنجابی جوڑ لئی کجھ چاہیدا سی۔"
+    },
+    {
+      "kind": "alternative",
+      "subject": "יבלנی",
+      "rationale": "جڑ יבל 'لیاؤنا\/لے جانا' — 'مینوں اَگّوں لتھے بنگلے وچ لے جاوے' وی جائز سی۔"
+    },
+    {
+      "kind": "invitation",
+      "subject": "کون",
+      "rationale": "دو سوال یاہوہ نوں سدّ مار رہے نیں — صرف ہتھ اٹھان نئیں، رُلان والی گال۔"
+    }
+  ],
+  "translation": "کون مینوں قلعہ بنگلے ⟨تائیں⟩ لے جاوے؟ کون مینوں ادوم تک لے جاوے؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e69b23b51c4bea361ba24c724e93c2f89bf0e653cd67a10f2afcb61cd32469ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/108\/9-12.1792113687263.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "مینوں لے جاوے"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "بنگلے"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "قلعہ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "נחנی",
+      "gloss": "مینوں لے جاوے"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ادوم"
+    }
+  ],
+  "timestamp": "2026-10-16T01:21:27.263830666Z",
+  "model": "glm-5.3"
+}

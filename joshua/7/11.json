@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 7:11",
+  "book": "joshua",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חרם",
+      "rationale": "خیرم: مٹاؤن لئی وچھوڑی ہوئی چیز — KJV 'accursed' غلط رنگ دیندا اے، 'devoted' (یاہوہ لئی وکھ کیتی ہوئی) نیڑے اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וגם ×5",
+      "rationale": "پنج واری 'تے وی' — گناہ دی پوڑی اے، اِک توں بعد اِک، پنجویں مُکدی اے برتناں وِچ لُکا کے"
+    },
+    {
+      "kind": "elision",
+      "subject": "וגם",
+      "rationale": "عبرانی دا چار واری دہرایا 'تے وی' پنجابی وِچ سادہ 'تے' رہ گیا — تکرار دا بھار پورا نئیں اُترا"
+    }
+  ],
+  "translation": "یِسرائیل نے گناہ کیتا اے، تے اوہناں ⟨את⟩ میرا عہد توڑ دتا جیہڑا میں ⟨את⟩ ⟨אותם⟩ اوہناں نوں حکم کیتا سی؛ تے اوہناں خیرم ⟨مٹاؤن لئی وچھوڑیا ہویا⟩ وِچوں لئی اے، تے چوری وی کیتی، تے جھوٹ وی بولیا، تے اپنے برتناں وِچ رکھیا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "33976e17f3e14a29c6ccd68d20cdc6094f670d1b6838719bacebc43ac443655f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joshua\/7\/9-12.1792100864316.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חטא",
+      "gloss": "گناہ کیتا اے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل نے"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "تے"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "توڑ دتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میرا عہد"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "میرا عہد"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "میں حکم کیتا سی"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "اوہناں نوں"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "تے"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "اوہناں لئی اے"
+    },
+    {
+      "surface": "מן",
+      "gloss": "وِچوں"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "خیرم"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "تے"
+    },
+    {
+      "surface": "גנבו",
+      "gloss": "چوری وی کیتی"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "تے"
+    },
+    {
+      "surface": "כחשו",
+      "gloss": "جھوٹ وی بولیا"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "تے"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "رکھیا اے"
+    },
+    {
+      "surface": "בכליהם",
+      "gloss": "اپنے برتناں وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T21:47:44.317741403Z",
+  "model": "glm-5.3"
+}

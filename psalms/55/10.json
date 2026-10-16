@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 55:10",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "پاڑ دیاں زباناں",
+      "rationale": "פלג לשונם — بابل دی گردش دا حوالہ لگدا اے (پیدائش 11)؛ ’برباد کر دیویں‘ توں وکھرا، لفظی ’پاڑ دے‘ رکھیا"
+    },
+    {
+      "kind": "you",
+      "subject": "ادونای",
+      "rationale": "مستولی دوہاہ ادونای نوں سدّیا گیا اے"
+    }
+  ],
+  "translation": "نگل لے، اے ادونای، اوہناں دیاں زباناں نوں پاڑ دے، کیوں جے میں ویکھیا اے تشدد تے جھگڑا شہر وِچ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ac333cb8fe8857c295668f5ef1a8d7060fe07603a3495b294a1e96f891a7827b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/55\/9-12.1792112655384.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "نگل لے"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اے ادونای"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "پاڑ دے"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "اوہناں دیاں زباناں نوں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جے"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "میں ویکھیا اے"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "تشدد"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "تے جھگڑا"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "شہر وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:04:15.384667135Z",
+  "model": "glm-5.3"
+}

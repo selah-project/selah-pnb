@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 11:10",
+  "book": "judges",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יהוה יהיה שמע",
+      "rationale": "'یاہوہ سُنن والا اے' — گواہ دے طور تے (KJV 'witness') جاں سچ مچ سُن رہا اے؛ فِعل حال\/مستقبل دوویں پڑھے گئے نیں"
+    },
+    {
+      "kind": "addition",
+      "subject": "سوگندھ دی سوچ",
+      "rationale": "عبرانی 'אם לא' نال شرطی سوگندھ دا اشارہ اے؛ ترجمے وِچ 'جے… نہ' رکھیا، 'گواہ' دا لفظ عبرانی وِچ نئیں"
+    }
+  ],
+  "translation": "تے گِلعاد دے بُڈھیاں نے یفتح نال آکھیا: یاہوہ ساڈیاں وِچکار سُنن والا اے — جے اسیں تیرے بچ مطابق اِویں نہ کریے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c1cbff1d83a31e289fbdb0d55a46ebd363cb9d5aee62e2bca56cc949732406fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/judges\/11\/9-12.1792101795730.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "دے بُڈھیاں نے"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "گِلعاد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "یفتح"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "اے"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سُنن والا"
+    },
+    {
+      "surface": "בינותינו",
+      "gloss": "ساڈیاں وِچکار"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "تیرے بچ مطابق"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اِویں"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "کریے"
+    }
+  ],
+  "timestamp": "2026-10-15T22:03:15.731719379Z",
+  "model": "glm-5.3"
+}

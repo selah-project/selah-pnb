@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 17:2",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "השרפה",
+      "rationale": "'ساڑی ہوئی چیز' — کجھ پڑھدے نیں 'ساڑے ہوئے مُردے'، کجھ 'ساڑی ہوئی سمیکھ'۔"
+    },
+    {
+      "kind": "alternative",
+      "subject": "זרה",
+      "rationale": "'سُٹّ' دی تھاں 'وَکھیری کرو' — بکھیرن دا مادھ عربی دے 'ذری' نال رلدا اے۔"
+    }
+  ],
+  "translation": "آکھ: اِلعازر، اہرون دے پُتر کاہن نال، تے اوہ چُکے ⟨את⟩ الاؤن دیاں منجھیاں ساڑی ہوئی چیز توں، تے ⟨את⟩ اگّ اَگےّ سُٹّ — کیوں جو اوہ پاک ہو گئیاں نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b5da26360a945fd7992151829cae0f5a7680ee15e79b9f555b642e45e3529033",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/17\/1-4.1792098790335.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "آکھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "اِلعازر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "וירם",
+      "gloss": "تے چُکے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الاؤن دیاں منجھیاں"
+    },
+    {
+      "surface": "המחתת",
+      "gloss": "الاؤن دیاں منجھیاں"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "توں"
+    },
+    {
+      "surface": "השרפה",
+      "gloss": "ساڑی ہوئی چیز"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "اگّ"
+    },
+    {
+      "surface": "האש",
+      "gloss": "اگّ"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "سُٹّ"
+    },
+    {
+      "surface": "הלאה",
+      "gloss": "اَگےّ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "پاک ہو گئیاں نیں"
+    }
+  ],
+  "timestamp": "2026-10-15T21:13:10.336031672Z",
+  "model": "glm-5.3"
+}

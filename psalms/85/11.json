@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 85:11",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اک دوجے نوں",
+      "rationale": "عبرانی وِچ صیغہ جمع دسدا اے، پنجابی نوں مفعول چائیدا"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חסד\/אמת · צדק\/שלום",
+      "rationale": "چار صفتی جوڑے تازیہ بنوند وِچ؛ دیوے-ونج ہوۓ جوڑے جو پنجابی وِچ رہندے نیں"
+    }
+  ],
+  "translation": "خیسِد تے سچ آپس وِچ ملے نیں؛ نیائے تے شانتامن نے ⟨اک دوجے نوں⟩ بوسہ لیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bd39adacc65c7d6b27486656fea877b7bd173b12d6d16f0b484d21cbecb5ee2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/85\/9-12.1792113218781.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "خیسِد"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "تے سچ"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "آپس وِچ ملے نیں"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "نیائے"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "تے شانتامن"
+    },
+    {
+      "surface": "נשקו",
+      "gloss": "نے بوسہ لیا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:13:38.781833283Z",
+  "model": "glm-5.3"
+}

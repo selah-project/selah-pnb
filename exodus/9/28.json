@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 9:28",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ایلوہیم دیاں گجاں",
+      "rationale": "קלת אלהים — لفظی 'ایلوہیم دیاں آوازاں'؛ کجھ ترجمے 'خداوند دیاں گجاں' کر دیندے نیں، لفظی صورت رکھی گئی"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ולא תספון",
+      "rationale": "لفظی 'ہور نہ جوڑو' — 'ہور نئیں رکوگے' وِچ ریت دتا گیا"
+    },
+    {
+      "kind": "you",
+      "subject": "موشے تے اہرون",
+      "rationale": "فرعون دا حکم\/بینت سِدھا موشے تے اہرون نوں"
+    }
+  ],
+  "translation": "یاہوہ اگے فریاد کرو، کیونجہ ایلوہیم دیاں گجاں تے فل توں بہت ہو چکیا نیں، تے میں تہاڈے ⟨את⟩ رِہا کریگاں، تے تسیں ہور نئیں رکوگے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "981bf1191d93a45a86dd276518515ef6f8a065498da4d962aaef2955eab9bb0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/9\/25-28.1792096336411.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העתירו",
+      "gloss": "فریاد کرو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اگے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "بہت توں"
+    },
+    {
+      "surface": "מהית",
+      "gloss": "ہو چکیا نیں"
+    },
+    {
+      "surface": "קלת",
+      "gloss": "گجاں"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم دیاں"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "تے فل"
+    },
+    {
+      "surface": "ואשלחה",
+      "gloss": "رِہا کریگاں"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "تہاڈے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "תספון",
+      "gloss": "ہور"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "رکوگے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:32:16.412431901Z",
+  "model": "glm-5.3"
+}

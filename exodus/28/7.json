@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 28:7",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חברת \/ וחבר",
+      "rationale": "اکو جڑ ח-ב-ر دو واری — 'جوڑنا' دی گونج، جُڑن دے موضوع دی چرچا۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "مُندےآں دیاں پٹیاں",
+      "rationale": "כתפת جسم دا 'مُندا' (کتف) اے — کمربند دے اوہ دو ٹکڑے جیہڑے مُندیاں اُتے آؤندے نیں۔"
+    }
+  ],
+  "translation": "دو مُندےآں دیاں پٹیاں جُڑیاں ہوئیاں اوہنوں ہوون گیاں، اوہدیاں دو سِریاں نال، تے ⟨ایہو⟩ جُڑی جاویگی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "eb29008689dd30ec2e33b3166613353bc4083d150a25529a9ad4d1cdd6b2fec6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/28\/6-7.1792123325845.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שתי",
+      "gloss": "دو"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "مُندےآں دیاں پٹیاں"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "جُڑیاں ہوئیاں"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوون گیاں"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہنوں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دو"
+    },
+    {
+      "surface": "קצותיו",
+      "gloss": "اوہدیاں سِریاں"
+    },
+    {
+      "surface": "וחבר",
+      "gloss": "تے جُڑی جاویگی"
+    }
+  ],
+  "timestamp": "2026-10-16T04:02:05.846089768Z",
+  "model": "glm-5.3"
+}

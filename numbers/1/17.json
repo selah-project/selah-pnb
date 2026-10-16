@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נקבו",
+      "rationale": "مُڈھلا مطلب اے ‘سُراخ کرنا’ — ایتھے ‘نشانیاں گئے’ ورتیا اے، حرف-نقل نئیں"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ناواں نال نشانیاں گئے",
+      "rationale": "گنتی دی تیاری — بندیاں دا ناں نال نشان"
+    }
+  ],
+  "translation": "تے موشے تے اہرون نے ⟨את⟩ ایہناں بندیاں نوں لئا، جہڑے ناواں نال نشانیاں گئے سن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5838d805e1730833b235a238c4f25a536657472b152ade4d3e2413dec3bff45d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/1\/17-20.1792098249741.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "تے لئا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے نے"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "تے اہرون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایہناں بندیاں نوں"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "بندیاں"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ایہناں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جہڑے"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "نشانیاں گئے سن"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "ناواں نال"
+    }
+  ],
+  "timestamp": "2026-10-15T21:04:09.741724820Z",
+  "model": "glm-5.3"
+}

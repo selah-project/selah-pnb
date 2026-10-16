@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 17:6",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כידון",
+      "rationale": "برچھی\/نیزہ (KJV 'target' یعنی ڈھال غلط)، لفظ دا مطلب مارن والا ہتھیار اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "عبرانی وِچ کریا نئیں، پنجابی منگدا اے"
+    }
+  ],
+  "translation": "تے تانبے دے پٹّے اُسدِیاں لَتّاں اُتے، تے تانبے دی برچھی اُسدِیاں مُڈھاں وِچکار سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8866e59e1f1a781d96d653628d7ce65d84c51ed008f113b2c0f4dedf9fecaf51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/17\/5-8.1792102609488.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומצחת",
+      "gloss": "تے پٹّے"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "تانبے دے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "רגליو",
+      "gloss": "اُسدِیاں لَتّاں"
+    },
+    {
+      "surface": "וכידון",
+      "gloss": "تے برچھی"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "تانبے دی"
+    },
+    {
+      "surface": "בין",
+      "gloss": "وِچکار"
+    },
+    {
+      "surface": "כתפיו",
+      "gloss": "اُسدِیاں مُڈھاں"
+    }
+  ],
+  "timestamp": "2026-10-15T22:16:49.489040013Z",
+  "model": "glm-5.3"
+}

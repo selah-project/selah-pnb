@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 17:10",
+  "book": "ezekiel",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اے⟩",
+      "rationale": "پنجابی جملے لئی فاعل دی لوڑ، عبرانی وِچ نئیں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תיבש … יבש … תיבש",
+      "rationale": "اکو جڑ تن واری — سوکھن دی تِہر، پنجابی وِچ وار-وار 'سوکھ' نال دہرایا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "יבש",
+      "rationale": "'پوری طرح سوکھ جانا' بمقابلہ 'شرمندہ ہونا' — جڑ י-ב-ش دے دو مطلب"
+    }
+  ],
+  "translation": "تے ویکھو، اُگائی ہوئی ⟨اے⟩ — کے کامیاب ہووے گی؟ جد چڑھدی ہوا اوہنوں چھووے گی تاں کے پوری طرح سوکھ نئیں جاوے گی؟ جتھے اوہ اُگی سی، اُنہاں کیاریاں اتے اوہ سوکھ جاوے گی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "321d7c05140d6896291433f39fe9e09a349264fe279f3d14293f23f7dff79a40",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/17\/10-11.1792123966411.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "تے ویکھو"
+    },
+    {
+      "surface": "שתולה",
+      "gloss": "اُگائی ہوئی"
+    },
+    {
+      "surface": "התצלח",
+      "gloss": "کے کامیاب ہووے گی"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "کے … نئیں"
+    },
+    {
+      "surface": "כגעת",
+      "gloss": "چھووے گی"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اوہنوں"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ہوا"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "چڑھدی"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "سوکھ جاوے گی"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "پوری طرح سوکھ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اتے"
+    },
+    {
+      "surface": "ערגת",
+      "gloss": "کیاریاں"
+    },
+    {
+      "surface": "צמחה",
+      "gloss": "جتھے اوہ اُگی سی"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "سوکھ جاوے گی"
+    }
+  ],
+  "timestamp": "2026-10-16T04:12:46.411704534Z",
+  "model": "glm-5.3"
+}

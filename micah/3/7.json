@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "micah 3:7",
+  "book": "micah",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨کپڑا⟩ ⟨ہووے گا⟩",
+      "rationale": "עטו چنگھُون لئی کپڑا تے مُکدا کریا پنجابی منگدا اے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "וְעָטוּ עַל שָׂפָם",
+      "rationale": "سپھام اوپرلا ہونٹھ\/مُچھھاں اے — سوگ دا نشان، بوٹے اُتے ہتھ رکھݨ (حزقی ایل 24:17, 22) دا ریتی تُرۃ"
+    }
+  ],
+  "translation": "تے ویکھن والے شرمندہ ہون گے، تے فال والے مُڑس ہون گے، تے اوہ سارے اپنے بوٹاں اُتے ⟨کپڑا⟩ چاڑھن گے، کیونجہ ایلوہیم دا جواب نئیں ⟨ہووے گا⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2680b664c7e946c26f44baf00f8b880f5be4781886087ef0e7fff611f0a6c890",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/micah\/3\/5-8.1792111069994.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובשו",
+      "gloss": "تے شرمندہ ہون گے"
+    },
+    {
+      "surface": "החזים",
+      "gloss": "ویکھن والے"
+    },
+    {
+      "surface": "וחפרו",
+      "gloss": "تے مُڑس ہون گے"
+    },
+    {
+      "surface": "הקסמים",
+      "gloss": "فال والے"
+    },
+    {
+      "surface": "ועטו",
+      "gloss": "تے اوہ چاڑھن گے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "שפם",
+      "gloss": "اوہناں دے بوٹاں"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "جواب"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-10-16T00:37:49.995946966Z",
+  "model": "glm-5.3"
+}

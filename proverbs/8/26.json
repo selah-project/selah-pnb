@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 8:26",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וחוצות",
+      "rationale": "'باہریاں تھاواں' (بازار\/کھلے میدان) — ترجمے کھیت، گلیاں، باہر آکھدے نیں"
+    },
+    {
+      "kind": "crux",
+      "subject": "וראש עפרות תבל",
+      "rationale": "'دنیا دی مٹی دا سرا' — کجھ 'پہلا مٹی' (شروع)، کجھ 'سبھ توں اُچا حصہ' آکھدے نیں"
+    },
+    {
+      "kind": "addition",
+      "subject": "اوس نے",
+      "rationale": "فعل دا فاعل عبرانی وِچ لکھیا نئیں — اوہدے توں پہلی آیتاں دا سیاق دسدا اے"
+    }
+  ],
+  "translation": "جد تک اوس نے دھرتی نئیں بنائی، نہ باہریاں تھاواں، نہ دنیا دی مٹی دے سِرے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9b4ee58613d5a69d9eaaa5c00b9df12beb4182f7ddec1bad396efc9390817e9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/8\/25-28.1792114565412.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "جد تک"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بنائی"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "دھرتی"
+    },
+    {
+      "surface": "וחוצות",
+      "gloss": "نہ باہریاں تھاواں"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "نہ سِرے"
+    },
+    {
+      "surface": "עפרות",
+      "gloss": "مٹی دے"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "دنیا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:36:05.412652272Z",
+  "model": "glm-5.3"
+}

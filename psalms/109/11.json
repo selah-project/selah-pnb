@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 109:11",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "پھندا پائے",
+      "rationale": "ינקש دا مول چِٹا اے «پھندا لاؤنا»؛ «قرض خواہ» دی نوکری لفظ وچ نئیں"
+    }
+  ],
+  "translation": "قرض خواہ اُسدے سارے کُجھ اُتے پھندا پائے، تے پرائے اُسدی محنت لُٹن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2291f4c1bd47c6d462e720781b2d1a314f3d533a96dcc1668c2751505c8fa367",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/109\/9-12.1792113695592.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ינקש",
+      "gloss": "پھندا پائے"
+    },
+    {
+      "surface": "נושה",
+      "gloss": "قرض خواہ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سارے کُجھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اُسدے"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "تے لُٹن"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "پرائے"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "اُسدی محنت"
+    }
+  ],
+  "timestamp": "2026-10-16T01:21:35.593703952Z",
+  "model": "glm-5.3"
+}

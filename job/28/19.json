@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 28:19",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "טהור",
+      "gloss-note": "'پاک' — عبرانی لفظ جسمانی، رسمی تے اخلاقی پاکی سارے مطلب رکھدا اے۔",
+      "rationale": "'پاک' — عبرانی لفظ جسمانی، رسمی تے اخلاقی پاکی سارے مطلب رکھدا اے۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "תסלה",
+      "rationale": "لفظ دے دو مطلب: تولنا یا حقیر سمجھنا — مترجم ونڈے ہوئے نیں۔"
+    }
+  ],
+  "translation": "کُوش دا نگمَت اوہدے برابر نئیں ہوندا، تے خالص سونے نال اوہدا موازنہ نئیں ہوندا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9a39dad4af560f1c75bfdb9147d53561308b20fc62810c15ab0461e209ccd4d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/28\/17-20.1792116104168.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יערכנה",
+      "gloss": "برابر کیتا جاندا"
+    },
+    {
+      "surface": "פטדת",
+      "gloss": "نگمَت"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "کُوش"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "خالص سونے نال"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תסלه",
+      "gloss": "تولیا جاندا"
+    }
+  ],
+  "timestamp": "2026-10-16T02:01:44.169667076Z",
+  "model": "glm-5.3"
+}

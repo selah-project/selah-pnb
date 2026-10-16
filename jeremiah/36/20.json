@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 36:20",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הפקדו",
+      "rationale": "'they deposited' vs 'they had deposited' — KJV 'laid up' ambiguous about timing before entering the court"
+    },
+    {
+      "kind": "idiom",
+      "subject": "באזני המלך",
+      "rationale": "'in the ears of the king' — Hebrew idiom for reporting directly, kept literally"
+    }
+  ],
+  "translation": "تے اوہ بادشاہ کول چوک وِچ گئے، پر ⟨את⟩ لمبی اوہناں الیشاماع لکھاری دے کمرے وِچ رکھی، تے بادشاہ دے کناں وِچ ⟨את⟩ سارے بچن دسے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "cce39b18a68f5c3c41bc55121e66e68bd582abf45ab879fd1912a88316731e24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/36\/17-20.1792108370989.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "تے گئے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "חצרה",
+      "gloss": "چوک وِچ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "لمبی"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "لمبی"
+    },
+    {
+      "surface": "הפקדו",
+      "gloss": "رکھی"
+    },
+    {
+      "surface": "בלשכת",
+      "gloss": "کمرے وِچ"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "الیشاماع"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "لکھاری"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "تے دسے"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "کناں وِچ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ دے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سارے بچن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "بچن"
+    }
+  ],
+  "timestamp": "2026-10-15T23:52:50.990356366Z",
+  "model": "glm-5.3"
+}

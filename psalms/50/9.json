@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 50:9",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לא … לא",
+      "rationale": "دوجی نفی دوجی آیت دے شروع وِچ اے؛ پنجابی وِچ «نہ» اک واری جوڑیا۔"
+    }
+  ],
+  "translation": "نئیں میں تیرے گھر توں بیل نئیں لواں گا، نہ تیرے واڑیاں توں بکرے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d77fd03860119589c1943f3bab0ac4f0aff142a3d3b27d6235dae13d87fd5c06",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/50\/9-12.1792112530712.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "میں … لواں گا"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "تیرے گھر توں"
+    },
+    {
+      "surface": "פר",
+      "gloss": "بیل"
+    },
+    {
+      "surface": "ממכלאתיך",
+      "gloss": "تیرے واڑیاں توں"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "بکرے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:02:10.713496388Z",
+  "model": "glm-5.3"
+}

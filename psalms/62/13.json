@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 62:13",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "هر اِک",
+      "rationale": "לאיש 'بندے نوں' اے؛ 'ہر' پنجابی توں دوبارہ آیا، عبرانی توں نئیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "خیسِد",
+      "rationale": "חסد نوں حرف-نقل رکھیا گیا، واحد انگریزی لفظ نئیں — وفادار پیار\/رحم دوویں ول سارے نیں"
+    },
+    {
+      "kind": "addition",
+      "subject": "ہے",
+      "rationale": "عبرانی وِچ کوئی کوپلا نئیں؛ 'اے' پنجابی وارتا لئی پایا گیا"
+    }
+  ],
+  "translation": "تے تیرے لئی اے ادونای، خیسِد ⟨وفادار پیار⟩ اے، کیوں جو تُوں ہر اِک بندے نوں اوہدے کم دے مطابق بدلدا دیندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8a740cd6aa8aab327e09d6480016e7944d7465cd31e3897911805dc0cf2a88cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/62\/13-13.1792112714316.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולך",
+      "gloss": "تے تیرے لئی"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اے ادونای"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "خیسِد ⟨وفادار پیار⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُوں"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "بدلدا دیندا اے"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ہر اِک بندے نوں"
+    },
+    {
+      "surface": "כמעשהו",
+      "gloss": "اوہدے کم دے مطابق"
+    }
+  ],
+  "timestamp": "2026-10-16T01:05:14.316485004Z",
+  "model": "glm-5.3"
+}

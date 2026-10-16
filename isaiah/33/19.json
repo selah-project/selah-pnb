@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 33:19",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "נועז",
+      "rationale": "יעז دا اِوالی بول ماڑے صیغے وِچ سِرِف ایتھے آؤندا اے — 'حونی\/زبردست'۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "تانگھڑی بولی",
+      "rationale": "נלעג לשון دا مول 'مذاق کرنا\/اوچھی آواز کڈھنا' اے — 'تانگھڑی' (وِڑی ہوئی) دا ویروا اے، پورا جیوں نئیں۔"
+    }
+  ],
+  "translation": "توں ⟨את⟩ اِک حونی قوم نوں نہ ویکھیں گا — اِک قوم ڈُونگی بولی والی، سُنِی نہ جاوے، اِک تانگھڑی بولی، جیہدے وِچ کوئی سمجھ نئیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8bb06e3c35301721a72105cef0a6dfdb48dbe788141459d470f9337cb3579348",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/33\/17-20.1792106429430.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قوم"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "נועז",
+      "gloss": "حونی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ویکھیں گا"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "עמקי",
+      "gloss": "ڈُونگی"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "بولی"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "سُنِی نہ جاوے"
+    },
+    {
+      "surface": "נלעג",
+      "gloss": "تانگھڑی"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "بولی"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "سمجھ"
+    }
+  ],
+  "timestamp": "2026-10-15T23:20:29.431180990Z",
+  "model": "glm-5.3"
+}

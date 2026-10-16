@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 27:12",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "مرضی",
+      "rationale": "נפש مولوں 'ساہ\/جان' اے؛ ایتھے 'کسی دی مرضی\/خواہش' دے معنے وِچ — مشہور ترجمہ اختلاف"
+    },
+    {
+      "kind": "addition",
+      "subject": "ہتھ",
+      "rationale": "پنجابی جملے لئی 'دے ہتھ' پورا کرنا پیا؛ عبرانی وِچ صرف ب+נפש اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עדי שקר \/ ויפח חמס",
+      "rationale": "جھوٹے گواہ تے تشدد دا پھوکنا — ساہ دی تصویر وِچ دوویں پاسیاں دی برائی"
+    }
+  ],
+  "translation": "مینوں میرے دشمناں دی مرضی ہتھ نہ دے، کیوں جے جھوٹے گواہ میرے خلاف کھلو گئے نیں تے تشدد پھوکدے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a15f111ed063f4a60cbff3d9e08f3f1035a3842b56f15b1beb4da6db1d082f93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/27\/9-12.1792112170567.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתנני",
+      "gloss": "مینوں دے"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "مرضی ہتھ"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "میرے دشمناں دی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جے"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "کھلو گئے نیں"
+    },
+    {
+      "surface": "בי",
+      "gloss": "میرے خلاف"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "گواہ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "جھوٹے"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "تے پھوکدے نیں"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "تشدد"
+    }
+  ],
+  "timestamp": "2026-10-16T00:56:10.568535715Z",
+  "model": "glm-5.3"
+}

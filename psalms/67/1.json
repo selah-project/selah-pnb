@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 67:1",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 67,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "למנצח",
+      "rationale": "عبرانی سرلیکھ دا لفظ — گائیکاں دے مُکھی لئی ہدایت، کجھ ترجمے 'جِت لئی' آکھدے نیں"
+    }
+  ],
+  "translation": "مُکھی لئی، تاراں دے واجرے نال، اِک مزمور، اِک گیت۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4c5ce1a2835f37e54c6874feaffd4e42e7f06998b1b43ac47104c0d6394c6581",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/67\/1-4.1792112814309.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "مُکھی لئی"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "تاراں دے واجرے نال"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "گیت"
+    }
+  ],
+  "timestamp": "2026-10-16T01:06:54.309799921Z",
+  "model": "glm-5.3"
+}

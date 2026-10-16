@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 1:4",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "גוי",
+      "rationale": "עם دی تھاں חُنی گوئی لئی חُنی لفظ חوئی — پنجابی وچ فرق دسنا اوکھا اے۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נזרו אחור",
+      "rationale": "'پرائے ہو گئے\/ پچھے مُڑ گئے' — בیک لفظ وچ دو معنی، پنجابی وچ اِک چُنیا۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "נאצו",
+      "rationale": "'بے-عزتی کیتی' یا 'غصہ ودھایا' — ترجمیاں وِچوں مشہور اختلاف۔"
+    }
+  ],
+  "translation": "ہائِ، گُناہگار قوم، گناہاں نال بھاری قوم، بُریاں دی نسلیت، بگاڑن والے پُتر؛ اوہناں یاہوہ نوں چھڈ دِتا، اوہناں یِسرائیل دے پاک ⟨את⟩ دی بے-عزتی کیتی، اوہ پچھے مُڑ گئے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6beb105412b3d0f341ff93a7b970e93c6ed9f7caf9493d7e48af5de34a864aa0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/1\/1-4.1792105799742.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ہائِ"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "گُناہگار"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "بھاری"
+    },
+    {
+      "surface": "עון",
+      "gloss": "گناہاں"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "نسلیت"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "بُریاں دی"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "بگاڑن والے"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "چھڈ دِتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "بے-عزتی کیتی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یِسرائیل دے پاک"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "مُڑ گئے"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "پچھے"
+    }
+  ],
+  "timestamp": "2026-10-15T23:09:59.743895557Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 140,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ראש מסבי",
+      "rationale": "'میرے گھیرے والیاں دا سر' (سردار) بمقابلہ 'سر' خود — 'سردار' نیارا مطلب اے، 'سر' پکی مورت۔"
+    }
+  ],
+  "translation": "میرے آلے دوآلے والیاں دے سرداراں ⟨دے سر⟩ اُتے اوہناں دے ہونٹھاں دی شرارت اوہناں نوں ڈھانک لین۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "db49c15584be05e5ebb283b31fde4f7517fe03da85e02036b4390c4f2a7ec45b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/140\/9-12.1792114101331.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "آلے دوآلے والیاں دے سرداراں"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "شرارت"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "ہونٹھاں دی"
+    },
+    {
+      "surface": "יכסומו",
+      "gloss": "ڈھانک لین"
+    }
+  ],
+  "timestamp": "2026-10-16T01:28:21.332028757Z",
+  "model": "glm-5.3"
+}

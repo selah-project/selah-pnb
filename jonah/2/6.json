@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jonah 2:6",
+  "book": "jonah",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جان-بیلی اے، نہ کہ کوئی وکھری 'روح'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אפפוני \/ יסבבני",
+      "rationale": "دو گھیرن والے فعل اکو وار — گھیراؤ دی دُہرائی، پنجابی وِچ دو وکھرے فعراں نال رکھی"
+    }
+  ],
+  "translation": "پانیاں نے مینوں جان تک گھیر لیا، تہوم نے مینوں چکر وچ لے لیا، سر وچ سرکنڈ لپٹی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8db7c2e82440410234718a588ea9ab66e213514c3311f2eafedae4ad8e5beceb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jonah\/2\/5-8.1792111023592.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "مینوں گھیر لیا"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پانیاں نے"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "تہوم نے"
+    },
+    {
+      "surface": "יסבבני",
+      "gloss": "مینوں چکر وچ لے لیا"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "سرکنڈ"
+    },
+    {
+      "surface": "חבוש",
+      "gloss": "لپٹی"
+    },
+    {
+      "surface": "لראשי",
+      "gloss": "سر وچ"
+    }
+  ],
+  "timestamp": "2026-10-16T00:37:03.593265543Z",
+  "model": "glm-5.3"
+}

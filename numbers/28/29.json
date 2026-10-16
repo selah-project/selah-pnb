@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 28:29",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "decimal fractions",
+      "rationale": "calculation of flour portions per animal"
+    },
+    {
+      "kind": "substitution",
+      "subject": "لیلا",
+      "rationale": "translate for כבש (lamb) instead of 'ram', per D2 table"
+    }
+  ],
+  "translation": "دسواں حصہ، دسواں حصہ اِک اِک لیلے لئی، ستیاں لیلیاں لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7b07036bbc99ff88a0f7622431234aa1e18af56668b8fbf6428e815ba426e972",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/28\/29-31.1792099174143.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "دسواں حصہ"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "دسواں حصہ"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "اِک اِک لیلے لئی"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "اِکو"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "ستیاں لئی"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "لیلیاں"
+    }
+  ],
+  "timestamp": "2026-10-15T21:19:34.143962745Z",
+  "model": "glm-5.3"
+}

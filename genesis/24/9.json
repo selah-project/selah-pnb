@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 24:9",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ران ہیٹھ ہتھ دھرنا",
+      "rationale": "عبرانی قسم دا رسمی اِشارہ، پنجابی وِچ اویں دا اویں رکھیا۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "سائیں",
+      "rationale": "אדניو ایتھے بندے (اَوراہام) لئی اے، ناں نئیں — سائیں\/مالک ٹھیک اے۔"
+    }
+  ],
+  "translation": "تے غلام نے اَوراہام اپنے سائیں دی ران ہیٹھ ⟨את⟩ اپنا ہتھ دھریا، تے ایس گل اُتے اوہدوں قسم کھادھی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1c8053b494fe727290be6532135371dbc20822e434579fcf839561c4599eb71e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/24\/9-12.1792095176158.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "تے دھریا"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "غلام نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنا ہتھ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "اپنا ہتھ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ہیٹھ"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "ران"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراہام"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "اپنے سائیں دی"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "تے قسم کھادھی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدوں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "گل"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایس"
+    }
+  ],
+  "timestamp": "2026-10-15T20:12:56.159542961Z",
+  "model": "glm-5.3"
+}

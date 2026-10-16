@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 10:19",
+  "book": "ecclesiastes",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לשחוק עשים לחם",
+      "rationale": "'روٹی ہاسے لئی بنائی جاندی اے' — بعضی مفسر 'دعوت\/بھونڈ چانہ' پڑھدے نیں، شکل نوں سدھا رکھیا۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "چاندی",
+      "rationale": "הכסף دا مادہ مطلب چاندی اے پر اتھے دھن وی ہووے — 'چاندی' صورت نوں قائم رکھدی اے۔"
+    }
+  ],
+  "translation": "ہاسے لئی روٹی بنائی جاندی اے، تے شراب جیون نوں خوش کردی اے، تے چاندی ⟨את⟩ ہر شے دا جواب دیندی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "510d1b5a5965459d421e5beff915568cc05404588309d42af1135f50e2becaff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ecclesiastes\/10\/17-20.1792117549884.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "ہاسے لئی"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "بنائی جاندی اے"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "روٹی"
+    },
+    {
+      "surface": "וגין",
+      "gloss": "تے شراب"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "خوش کردی اے"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "جیون نوں"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "تے چاندی"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "جواب دیندی اے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ہر شے نوں"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ہر شے"
+    }
+  ],
+  "timestamp": "2026-10-16T02:25:49.885641806Z",
+  "model": "glm-5.3"
+}

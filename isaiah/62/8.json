@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 62:8",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אם",
+      "rationale": "قسم دی صیغہ وِچ אם یعنی ‘کدی نئیں’ — شرطی ‘جے’ نئیں؛ پنجابی نفی نال رندر کیتا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תירושך",
+      "rationale": "תירוש تازا انگوری رس اے، شراب نئیں — ‘ونڈ’ نیڑے دا لفظ اے"
+    }
+  ],
+  "translation": "یاہوہ نے اپنے سجے ہتھ تے اپنی طاقت دی باہ نال قسم کھادی: میں تیرا اناج ⟨את⟩ ہور دشمناں دے کھانے لئی نئیں دینا، تے اوپرے بندے تیرا ونڈ سیا نئیں، جس وِچ تُوں محنت کیتی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3b03ad39445de22f7af6a26e7badd6b2ccbc55373114397fd9f31073ccd950c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/62\/5-8.1792107137383.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "قسم کھادی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ نے"
+    },
+    {
+      "surface": "בימינו",
+      "gloss": "اپنے سجے ہتھ"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "تے … باہ"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "اپنی طاقت دی"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨کہ⟩"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "دینا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تیرا اناج"
+    },
+    {
+      "surface": "דגנך",
+      "gloss": "تیرا اناج"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ہور"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "کھانے لئی"
+    },
+    {
+      "surface": "לאיביך",
+      "gloss": "دشمناں دے"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "تے ⟨کہ⟩"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "سیا نئیں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "اوپرے"
+    },
+    {
+      "surface": "תירושך",
+      "gloss": "تیرا ونڈ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جس"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "محنت کیتی"
+    },
+    {
+      "surface": "בו",
+      "gloss": "وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T23:32:17.385019680Z",
+  "model": "glm-5.3"
+}

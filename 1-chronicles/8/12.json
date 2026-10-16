@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "دھیاں",
+      "rationale": "בנות اِن قصبیاں لئی 'دھیاں\/کچھ آبادیاں' دا استعارہ اے — لفظی 'دھیاں' رکھیا، ⟨شہراں⟩ وضاحت وچ"
+    },
+    {
+      "kind": "crux",
+      "subject": "ושמד",
+      "rationale": "املا دا فرق: شِمِیر (שמר) بمقابلہ شِمِد (KGV 'Shamed') — بانی دا ناں"
+    },
+    {
+      "kind": "measurement",
+      "subject": "شجرہ",
+      "rationale": "ناواں دی لسٹ تے وسیبے دی مِتی"
+    }
+  ],
+  "translation": "تے اِلپَعَل دے پُتر: عِیبِر تے مِیشام تے شِمِیر — اوہنے ای ⟨את⟩ اونو نوں تے ⟨את⟩ لود نوں تے اُہدیاں دھیاں ⟨شہراں⟩ بنائیاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1f9824ca169078305df306c3abe3fe36f41e6227c7b51f04824fc1b3e64167e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/8\/9-12.1792120385264.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "تے پُتر"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "اِلپَعَل دے"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "عِیبِر"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "تے مِیشام"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "تے شِمِیر"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہنے ای"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "بنائیاں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اونو"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "اونو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "لود"
+    },
+    {
+      "surface": "לד",
+      "gloss": "لود"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "تے اُہدیاں دھیاں ⟨شہراں⟩"
+    }
+  ],
+  "timestamp": "2026-10-16T03:13:05.265850901Z",
+  "model": "glm-5.3"
+}

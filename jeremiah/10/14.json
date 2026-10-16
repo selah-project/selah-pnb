@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 10:14",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ساہ",
+      "rationale": "רוח ہوا\/ساہ\/روح — 'ساہ' رکھیا اے کیونکہ بتاں وِچ جِندار ہونا مراد اے۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "נסכו",
+      "rationale": "נֶסֶךְ دوناں مطلب: چڑھایا ہویا شراب تے ڈھایا ہویا دھاتُو بت — اتھے دوجا۔"
+    }
+  ],
+  "translation": "ہر انسان علم توں بےوقوف ہو گیا اے، ہر سونارا مُورت توں شرمندہ اے، کیونکہ اُسدا ڈھایا ہویا بت جھوٹ اے، تے اُوہناں وِچ کوئی ساہ نئیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2429aa1c80bb6e38ef5671a6bd74d95255f5f96e5b9a9515620507030ca3642d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/10\/13-16.1792107524895.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נבער",
+      "gloss": "بےوقوف ہو گیا اے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "מדעת",
+      "gloss": "علم توں"
+    },
+    {
+      "surface": "הביש",
+      "gloss": "شرمندہ اے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "צורף",
+      "gloss": "سونارا"
+    },
+    {
+      "surface": "מפסל",
+      "gloss": "مُورت توں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "جھوٹ"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "اُسدا ڈھایا ہویا بت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ساہ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "اُوہناں وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T23:38:44.896506623Z",
+  "model": "glm-5.3"
+}

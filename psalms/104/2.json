@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 104:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "تندیرا",
+      "rationale": "יריעہ کمبدی ہوئی لٹکن\/خیمے دا پردہ اے؛ 'تندیرا' (کمبدا پردہ) سب توں نیڑےدا اے، عام 'پردہ' تصویر گوا دیندا اے"
+    }
+  ],
+  "translation": "جو روشنی نوں کپڑے وانگوں چاکے، جو اسماناں نوں تندیرے وانگوں کھولے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "80e8b39750f89be9c4df9e4cea0680088468ffdd09e59397ae433aeecdae158c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/104\/1-4.1792113537747.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עטה",
+      "gloss": "چاکے"
+    },
+    {
+      "surface": "אור",
+      "gloss": "روشنی"
+    },
+    {
+      "surface": "כשלמה",
+      "gloss": "کپڑے وانگوں"
+    },
+    {
+      "surface": "נוטה",
+      "gloss": "کھولے"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "اسمان"
+    },
+    {
+      "surface": "כיריעה",
+      "gloss": "تندیرے وانگوں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:18:57.748423130Z",
+  "model": "glm-5.3"
+}

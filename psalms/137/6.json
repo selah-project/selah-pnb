@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 137:6",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 137,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نال",
+      "rationale": "Punjabi needs 'with' where Hebrew lets תדבק לחכי stand as direct cling-to."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אם לא…אם לא",
+      "rationale": "Twin 'if-not' clauses frame the oath; the parallelism is the verse's spine."
+    },
+    {
+      "kind": "you",
+      "subject": "to Jerusalem",
+      "rationale": "Second-person feminine suffixes (אזכרכי) keep addressing Jerusalem."
+    }
+  ],
+  "translation": "میری زبان میرے تالو نال چمب جاوے، جے میں تینوں یاد نہ رکھاں؛ جے میں یروشلایم نوں ⟨את⟩ میری خوشی دے سر اُتے نہ چاڑھاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "25d1b7e231f2a191d3639ebda193d3e341c19ea442e0f03606e1ccc2d8c1cf26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/137\/5-8.1792114193921.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תדבק",
+      "gloss": "چمب جاوے"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "میری زبان"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "میرے تالو نال"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אזכרכי",
+      "gloss": "میں تینوں یاد رکھاں"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "میں چاڑھاں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یروشلایم نوں"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "میری خوشی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:29:53.922653469Z",
+  "model": "glm-5.3"
+}

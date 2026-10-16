@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 3:16",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "لمبی عمر",
+      "rationale": "ארך ימים لفظی 'دناں دی لمبائی' — پنجابی وِچ اِک ٹکڑا کیتا"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "پہلی جملے وِچ copula 'اے' وادھو اے"
+    }
+  ],
+  "translation": "لمبی عمر اوہدے سجے ہتھ وِچ اے، اوہدے کھبے ہتھ وِچ دولت تے جلال۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7932d61661b4d4a0808ca5e36159d9ac5c828bd5d220084a535f681cbc2b3689",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/3\/13-16.1792114396155.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "لمبی"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "عمر"
+    },
+    {
+      "surface": "בימינה",
+      "gloss": "سجے ہتھ وِچ"
+    },
+    {
+      "surface": "בשמאולה",
+      "gloss": "کھبے ہتھ وِچ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دولت"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "تے جلال"
+    }
+  ],
+  "timestamp": "2026-10-16T01:33:16.156048465Z",
+  "model": "glm-5.3"
+}

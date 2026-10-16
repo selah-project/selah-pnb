@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 42:1",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "תתראו",
+      "rationale": "'تسیں اِک دوجے ول ویکھدے ہو' — عبرانی پاسیوں اِک دوجے نوں ویکھن دا محاورا اے، حرف-نقل نئیں"
+    },
+    {
+      "kind": "you",
+      "subject": "to the sons",
+      "rationale": "یعقوو آپنے پُتراں نوں سدھا مخاطب اے: 'تسیں کیوں ویکھدے ہو؟'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "למה תתראו",
+      "rationale": "پرچار سوال — سنیہے نال مخاطب نوں کم تے چوکھن دا سدا"
+    }
+  ],
+  "translation": "تے یعقوو نے ویکھیا کہ مِتصرایم وِچ اناج اے، تے یعقوو نے اپنے پُتراں نوں آکھیا: تسیں اِک دوجے ول کیوں ویکھدے ہو؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "547d547c27efad83795ca3814cf075a8efaa862db5947442577c73cf11dec6d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/42\/1-4.1792095886717.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ویکھیا"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "اے"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "اناج"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "مِتصرایم وِچ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "اپنے پُتراں نوں"
+    },
+    {
+      "surface": "למה",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "תתראו",
+      "gloss": "تسیں ویکھدے ہو"
+    }
+  ],
+  "timestamp": "2026-10-15T20:24:46.720075861Z",
+  "model": "glm-5.3"
+}

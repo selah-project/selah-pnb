@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מות תמתון",
+      "rationale": "لامحدود مصدر تے فعل اِکو جڑ توں — „مَرنے توں تسیں نئیں مرو گے“؛ پنجابی وِچ دوہرا کیتا گیا تاں جو ٹیک رہے"
+    },
+    {
+      "kind": "you",
+      "subject": "زنانی نوں",
+      "rationale": "سانپ زنانی ول سدھا بولدا اے"
+    }
+  ],
+  "translation": "تے سانپ نے زنانی نوں آکھیا: مَرن تاں تسیں نئیں مرو گے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a700f949133974de2274d0c924c426bc0771e9a00f90f5959b103eeacfe55278",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/3\/1-4.1792094709786.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "سانپ نے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "زنانی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مَرن"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "مرو گے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:05:09.787573676Z",
+  "model": "glm-5.3"
+}

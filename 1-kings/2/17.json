@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 2:17",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ישיב את פניך",
+      "rationale": "وliteral ‘چہرہ موڑنا’ = انکار کرنا \/ منہ پھیرنا؛ پنجابی وِچ سِدھی صورت رکھی"
+    },
+    {
+      "kind": "you",
+      "subject": "ادونییاهو توں بَت شِوا",
+      "rationale": "ادونییاهو بَت شِوا نوں سدھا مخاطب کریدا اے"
+    }
+  ],
+  "translation": "اوہنے آکھیا: بیکت بادشاہ شلوموہ نوں آکھ، کیوں جو اوہ ⟨את⟩ تیرا چہرہ نئیں موڑسی، تے اوہ مینوں ⟨את⟩ اَویشگ ہاشُنامِت نوں زنانی لئی دے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ded455c78e4c92c6b017b88a81b758facc2c54ecd5c15b1c65abbccbfdcd7aa2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/2\/17-20.1792104040502.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اوہنے آکھیا"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "آکھ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "بیکت"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "شلوموہ نوں"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "موڑسی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تیرا چہرہ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "تیرا چہرہ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "تے اوہ دے"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مینوں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَویشگ ہاشُنامِت"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "اَویشگ"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "ہاشُنامِت"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "زنانی لئی"
+    }
+  ],
+  "timestamp": "2026-10-15T22:40:40.503124384Z",
+  "model": "glm-5.3"
+}

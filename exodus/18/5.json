@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 18:5",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "تے",
+      "rationale": "پنجابی جملے لئی جوڑ تے کریا دا معاون حصہ، عبرانی وِچ نئیں"
+    },
+    {
+      "kind": "elision",
+      "subject": "שם",
+      "rationale": "‘اوتھے’ پہلاں ای جِتھے وِچ رل چکا اے، دوہرا کھلوے گا"
+    }
+  ],
+  "translation": "تے موشے دا سُہرا یترو آیا، اپنے پُتراں تے اپنی زنانی نال، موشے کول، اُس بیابان وِچ جِتھے اوہ ڈیرے لائی بیٹھا سی — ایلوہیم دے پہاڑ ⟨تے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1462f57dd45120a449fc42a0966db636b332ad3bdc9f0379665d15af46473121",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/18\/5-8.1792096628146.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "یترو"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "سُہرا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "تے اپنے پُتر"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "تے اپنی زنانی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "اُس بیابان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جِتھے"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "ڈیرے لائی بیٹھا سی"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اوتھے"
+    },
+    {
+      "surface": "הר",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-10-15T20:37:08.146978607Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 135:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "تُسیں جیہڑے",
+      "rationale": "عبرانی وِچ کوئی ضمیر نئیں، پنجابی جملے لئی پایا۔"
+    },
+    {
+      "kind": "you",
+      "subject": "یاہوہ دے بندے",
+      "rationale": "سدّا پچھلی آیت دے بندیاں ول۔"
+    }
+  ],
+  "translation": "تُسیں جیہڑے یاہوہ دے گھر وِچ، ساڈے ایلوہیم دے گھر دے وِچلیاں وِچ کھلوندے ہو۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d52957cd6ef4347864f7d58f5626c0390271d3a140abb4ed9738ce9c79e28589",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/135\/1-4.1792114046413.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שעמדים",
+      "gloss": "کھلوندے"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "گھر وِچ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "وِچلیاں وِچ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ساڈے ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-10-16T01:27:26.414264147Z",
+  "model": "glm-5.3"
+}

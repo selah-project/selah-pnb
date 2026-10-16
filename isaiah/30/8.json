@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 30:8",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "یعقوو سائیں نوں؟",
+      "rationale": "'آ جا' — حکم نبیل وَلوں؛ آیت مبینہ طور تے یشعیاہو نوں مخاطب اے۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "אתם",
+      "rationale": "H854 'اُنہاں نال\/سامھنے' (KJV, ASV) بمقابلہ کجھ 'اُکّری ہوئی' (عبرانی ماخذ دا بدلیا ہویا قرائت، LXX دے نال)۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "لיום אחרון לעד עד עולם",
+      "rationale": "سماں دا لیکھا — آخری دن، سدا، ہمیشہ — لکھت دی گواہی دے وقفے دا ناپ۔"
+    }
+  ],
+  "translation": "ہن آ جا، اُہنوں تختی اُتے لِکھ، ⟨את⟩ اوہناں ⟨سامھنے⟩، تے اُکّر اُس نوں کتاب وِچ؛ تے اوہ ہووے آخری دن لئی گواہی، سدا تک، ہمیشہ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f86a79f441d015c3194ba0b934e700b3fb902f89c004290e4fd563b6b813f74a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/30\/5-8.1792106506155.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "ہن"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "آ جا"
+    },
+    {
+      "surface": "כתבה",
+      "gloss": "لِکھ اُہنوں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "تختی"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "اوہناں ⟨سامھنے⟩"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "کتاب"
+    },
+    {
+      "surface": "חקה",
+      "gloss": "اُکّر"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "تے اوہ ہووے"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "دن لئی"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "آخری"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "گواہی لئی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "سدا تک"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیشہ"
+    }
+  ],
+  "timestamp": "2026-10-15T23:21:46.156231272Z",
+  "model": "glm-5.3"
+}

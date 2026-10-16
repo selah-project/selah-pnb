@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 22:9",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "باہواں",
+      "rationale": "זרעות پھیلی ہوئی باہ\/طاقت دا مطلب اے، اتے اتھے طاقت دا تصور اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "کُچھیاں گئیاں",
+      "rationale": "ידכא passive or active: 'توں نے کُچھیا' (الیفاز دا الزام) بمقابلہ 'کُچھیاں گئیاں' — KJV passive، YLT passive"
+    }
+  ],
+  "translation": "تریمتاں بیوہ تُوں خالی ولائیاں، تے یتیم بالےآں دیاں باہواں کُچھیاں گئیاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d01e6bc1e0bab6467131e7d87dc627bb025d9f844b0fdaa1e6f12a788e0889c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/22\/9-12.1792115927008.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלמנות",
+      "gloss": "بیوہ تریمتاں"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "تُوں نے ولایا"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "خالی"
+    },
+    {
+      "surface": "וזרעות",
+      "gloss": "تے باہواں"
+    },
+    {
+      "surface": "יתמים",
+      "gloss": "یتیم بالےآں دیاں"
+    },
+    {
+      "surface": "ידכא",
+      "gloss": "کُچھیاں گئیاں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:58:47.008610713Z",
+  "model": "glm-5.3"
+}

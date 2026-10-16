@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 25:15",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "זהב זהב \/ כסף כסף",
+      "rationale": "لوپی دوہرا کلمہ — 'خالص سونا سونا' دی تُھک، لفظی دوہرا کھلار پنجابی وِچ ⟨سَب⟩ نال دتا گیا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "جلاد",
+      "rationale": "רב טבחים دا ٹھیک تصور 'جلاداں دا سردار' اے (طہور دے پہرے دار)، 'سردارِ پہرہ' ہلاک تصور اے"
+    }
+  ],
+  "translation": "تے ⟨את⟩ کولے دیاں پَنّیاں تے ⟨את⟩ پیالے — جیہڑے سونے دے ⟨سَب⟩ سونے سن تے جیہڑے چاندی دے ⟨سَب⟩ چاندی سن — جلاداں دے سردار نے لے لئے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c7cb550643f972caf7279dd9b8a8f82b3fc0403313a7b5a596b557930b8d142d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/25\/13-16.1792105741445.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "پَنّیاں"
+    },
+    {
+      "surface": "המחתות",
+      "gloss": "پَنّیاں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "پیالے"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "پیالے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑے"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونے"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونے"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "تے جیہڑے"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندی"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندی"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "لے لئے"
+    },
+    {
+      "surface": "רב",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "جلاد"
+    }
+  ],
+  "timestamp": "2026-10-15T23:09:01.446254739Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 1:7",
+  "book": "hosea",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הושע \/ ישע",
+      "rationale": "ہوشع دا ناں ای ‘بچاؤ’ اے — آیت وِچ ‘میں بچاواں گا’ اوہو جڑ اے"
+    }
+  ],
+  "translation": "تے یِہوداہ دے گھر ⟨את⟩ نال میں مہربان ہواں گا، تے اوہناں نوں یاہوہ اوہناں دے ایلوہیم راہیں بچاواں گا، تے کمان نال، تے تلوار نال، تے لڑائی نال، گھوڑیاں نال تے سواراں نال نئیں بچاواں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0815d649f9d8b549fc7f21c384dc54e6dd985d4fc56ed2d2e23f2328c3713344",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/hosea\/1\/5-8.1792110519267.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "یِہوداہ دا گھر"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یِہوداہ"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "مہربان ہواں گا"
+    },
+    {
+      "surface": "והושעתים",
+      "gloss": "تے بچاواں اوہناں نوں"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "یاہوہ راہیں"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "اوہناں دے ایلوہیم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "אושיעם",
+      "gloss": "بچاواں اوہناں نوں"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "کمان نال"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "تے تلوار نال"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "تے لڑائی نال"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "گھوڑیاں نال"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "تے سواراں نال"
+    }
+  ],
+  "timestamp": "2026-10-16T00:28:39.268093749Z",
+  "model": "glm-5.3"
+}

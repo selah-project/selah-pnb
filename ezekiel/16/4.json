@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 16:4",
+  "book": "ezekiel",
+  "lang": "pnb",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "למשעי",
+      "rationale": "ایہ لفظ صرف ایتھے آیا — 'دیکھن\/ملم جانچ لئی' بمقابلہ 'نرم کرن لئی' (KJV)"
+    },
+    {
+      "kind": "hapax",
+      "subject": "למשעי",
+      "rationale": " lemma 4935 تنخ وِچ صرف ایتھے"
+    }
+  ],
+  "translation": "تے تیری جنم بھومی دے دن، جدوں تے جنیا، تیرا ناڑ نئیں کٹیا، تے پانی نال تینوں دیکھن لئی نئیں دھویا، تے ملھ نال تینوں نئیں ملھیا، تے کپڑیاں وِچ نئیں لپٹیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "02571a2b4194ea0a33b19d8862d080d37c80ca8b47edaa0d958153893f6516ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/16\/1-4.1792109251709.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומולדותיך",
+      "gloss": "تے تیری جنم بھومی"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "دے دن"
+    },
+    {
+      "surface": "הולדת",
+      "gloss": "جدوں جنیا"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ تینوں",
+      "marks": "تینوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "کٹیا"
+    },
+    {
+      "surface": "שרך",
+      "gloss": "تیرا ناڑ"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "تے پانی نال"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "רחצת",
+      "gloss": "دھویا"
+    },
+    {
+      "surface": "למשעي",
+      "gloss": "دیکھن لئی ⟨سفارش لئی⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "והמלח",
+      "gloss": "تے ملھ نال"
+    },
+    {
+      "surface": "המלחת",
+      "gloss": "ملھیا"
+    },
+    {
+      "surface": "והחתל",
+      "gloss": "تے کپڑیاں وِچ لپٹن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "חתלת",
+      "gloss": "لپٹیا"
+    }
+  ],
+  "timestamp": "2026-10-16T00:07:31.711025389Z",
+  "model": "glm-5.3"
+}

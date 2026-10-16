@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 13:13",
+  "book": "joshua",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "הורישו",
+      "rationale": "„ہُوریش“ دا مطلب اے کُچل کے مل مارنا — پنجابی وِچ اِک لفظ نئیں، دو لفظاں نال پایا۔"
+    },
+    {
+      "kind": "hapax",
+      "subject": "הגשורי",
+      "rationale": "گُشوری اَیتاں دے تھاواں دے لڑی وِچ آوندا اے، یوشع وِچ کئی واری پر تنخ وِچ گِنتی گھٹ۔"
+    }
+  ],
+  "translation": "تے یِسرائیل دے پُتراں نے ⟨את⟩ گُشوریاں نوں تے ⟨את⟩ مَعکاتیاں نوں کُچلبا نئیں، تے گُشور تے مَعکات یِسرائیل دے وِچکار اَج تک وَسدے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "583b5401a9c4cbe0b3c59fa033f93987e7e3b1fb503a51cef30caf18c6a2bcc3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joshua\/13\/13-16.1792100980192.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "کُچلبا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں نے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل دے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گُشوریاں نوں"
+    },
+    {
+      "surface": "הגשורי",
+      "gloss": "گُشوریاں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "مَعکاتیاں نوں"
+    },
+    {
+      "surface": "המעכתי",
+      "gloss": "مَعکاتیاں"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "تے وَسدے نیں"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "گُشور"
+    },
+    {
+      "surface": "ומעכת",
+      "gloss": "تے مَعکات"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "دے وِچکار"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اَج"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اِس"
+    }
+  ],
+  "timestamp": "2026-10-15T21:49:40.192850959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 47:2",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "چول",
+      "rationale": "שבל در-بار دِھی دا لِچکدا پچھا اے — «چول\/دُم» اوہدی ٹھیک تصویر دیندا اے"
+    },
+    {
+      "kind": "you",
+      "subject": "بابل نوں",
+      "rationale": "ساریاں imperatives مخاطب بابل دی دِھی نوں"
+    }
+  ],
+  "translation": "پیسیاں نوں پکڑ تے آٹا پیسیں؛ اپنا گھنگھٹ کھولھ، اپنی چول لاہ، ٹنگ کھولھ، دریاواں نوں پار کر۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5df712179c3561addb28d02fc3306242bd3dc3172ff321cf40358524da1f55e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/47\/1-4.1792106875056.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קחי",
+      "gloss": "پکڑ"
+    },
+    {
+      "surface": "רחים",
+      "gloss": "پیسیاں"
+    },
+    {
+      "surface": "וטחני",
+      "gloss": "تے پیسیں"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "آٹا"
+    },
+    {
+      "surface": "גלי",
+      "gloss": "کھولھ"
+    },
+    {
+      "surface": "צמתך",
+      "gloss": "تیرا گھنگھٹ"
+    },
+    {
+      "surface": "חשפי",
+      "gloss": "لاہ"
+    },
+    {
+      "surface": "שבל",
+      "gloss": "چول"
+    },
+    {
+      "surface": "גלי",
+      "gloss": "کھولھ"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "ٹنگ"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "پار کر"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "دریاواں"
+    }
+  ],
+  "timestamp": "2026-10-15T23:27:55.057303142Z",
+  "model": "glm-5.3"
+}

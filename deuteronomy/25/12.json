@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "توں",
+      "rationale": "عبرانی وِچ کرن والا لُکا ہویا اے، پنجانی حکم صیغہ منگدا اے"
+    },
+    {
+      "kind": "idiom",
+      "subject": "تیری اکھ ترس نہ کھاوے",
+      "rationale": "לֹא תָחוֹס עֵינֶךָ — لفظی: ’تیری اکھ نہ ڈھاکے‘؛ پنجابی وِچ ترس کھانا اوہو کرت اے"
+    },
+    {
+      "kind": "you",
+      "subject": "یِسرائیل نوں",
+      "rationale": "ہور براہِ راست حکم — سنن والا قوم اے"
+    }
+  ],
+  "translation": "تے ⟨توں⟩ ⟨את⟩ اوہدا ہتھ وڈھ دیویں؛ تیری اکھ اوہدے اُتے ترس نہ کھاوے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7369d287e76f72dcaebff46f62ebe7e519d5637ba313f83d3084c85a7c309bf8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/25\/9-12.1792100284236.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "تے وڈھ دیویں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہدا ہتھ"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "اوہدا ہتھ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "ترس کھاوے"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "تیری اکھ"
+    }
+  ],
+  "timestamp": "2026-10-15T21:38:04.237746504Z",
+  "model": "glm-5.3"
+}

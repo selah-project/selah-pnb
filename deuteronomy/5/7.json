@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על פני",
+      "rationale": "عبرانی ਸ਼ਬਦ-ਜੋੜ ”ਮیرے منہ اُتے” دا مطلب اے ”میرے ساہمنے\/میری حضوری وِچ”؛ لفظی منہ گواہی دیندا اے، ترجمے وِچ ساہمنے آیا۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "میرے",
+      "rationale": "عبرانی وِچ ”פני” ਬਿਨਾਂ ਪੜਨਾਂਵੇ (suff.) نਹੀਂ ਸੀ، پر سیاق توں ”میرے” ہی ٹھیک اے۔"
+    }
+  ],
+  "translation": "تیرے لئی ہور ایلوہیم نہ ہوون، میرے منہ دے ساہمنے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0ace60eac22e82ab9a532fb2e9b28f43580b132ec7faa0a587b2188f68acc3f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/5\/7-8.1792123544376.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوون"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیرے لئی"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ہور"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "پنی",
+      "gloss": "میرے منہ دے ساہمنے"
+    }
+  ],
+  "timestamp": "2026-10-16T04:05:44.376870373Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 44:18",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨کِسے نے⟩",
+      "rationale": "טח دی کریا دا فاعل عبرانی نے نئیں لکھیا، پنجانی فعل فاعل منگدا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "لیپ دتا",
+      "rationale": "טח = سُپ پا کے چِکن کرنا (کلس نال)؛ مُترجم 'شَٹ' (KJV) تے 'لیپنا' دوویں لیندے نیں"
+    }
+  ],
+  "translation": "اوہ نئیں جاندے تے نئیں سمجھدے، کیونکہ ⟨کِسے نے⟩ اوہناں دیاں اکھاں ویکھن توں لیپ دتیاں نیں، تے اوہناں دے دل سمجھن توں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1f81ab062950767623a991c8bf129e2cb5cdfee60cc2fff8c4102f822f16896f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/44\/17-20.1792106843990.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "جاندے نیں"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "سمجھدے نیں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "טח",
+      "gloss": "لیپ دتا اے"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "ویکھن توں"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "اوہناں دیاں اکھاں"
+    },
+    {
+      "surface": "מהשכיל",
+      "gloss": "سمجھن توں"
+    },
+    {
+      "surface": "לבתם",
+      "gloss": "اوہناں دے دل"
+    }
+  ],
+  "timestamp": "2026-10-15T23:27:23.991318991Z",
+  "model": "glm-5.3"
+}

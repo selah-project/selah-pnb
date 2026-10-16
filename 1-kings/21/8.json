@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 21:8",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "החרים",
+      "rationale": "لفظی ’حُرّ لوک‘ (آزاد پیدا ہوئے) — ’شرافت\/سردار‘ دا مطلب سیاق دسدا اے"
+    },
+    {
+      "kind": "elision",
+      "subject": "הזקנים",
+      "gloss-note": "",
+      "rationale": "لفظی ’بُڈھے‘ — شہر دے بزرگ\/پنچایت دے معنےآں وِچ ’بُزرواں‘ رکھیا"
+    },
+    {
+      "kind": "secret",
+      "subject": "اَخاب دے ناں نال چِٹھیاں",
+      "rationale": "اِیزَبَل بادشاہ دے ناں تے مہر نال لُکا کے چِٹھیاں گھلدی اے — اَخاب نوں پتہ نئیں"
+    }
+  ],
+  "translation": "تے اوہنے اَخاب دے ناں نال لِکھتاں لِکھیاں تے اوہدی مہر نال مہر کیتی، تے لِکھتاں بُزراواں تے آزاد لوکاں نوں جیہڑے اوہدے شہر وِچ ⟨اوس⟩ نال ⟨את⟩ نابوت وسدے سن، گھلّیاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "25573c7040ccdc824df79312cbf114424f56be25263d20735d64a80a517134bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/21\/5-8.1792104788189.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותכתב",
+      "gloss": "تے اوہنے لِکھیاں"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "لِکھتاں"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "دے ناں نال"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "اَخاب"
+    },
+    {
+      "surface": "ותחתם",
+      "gloss": "تے مہر کیتی"
+    },
+    {
+      "surface": "בחתמו",
+      "gloss": "اوہدی مہر نال"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "تے گھلّیاں"
+    },
+    {
+      "surface": "הספרים",
+      "gloss": "لِکھتاں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "بُزرواں"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "آزاد لوکاں نوں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑے"
+    },
+    {
+      "surface": "בעירו",
+      "gloss": "اوہدے شہر وِچ"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "وسدے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نابوت"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "نابوت"
+    }
+  ],
+  "timestamp": "2026-10-15T22:53:08.190897087Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "haggai 1:8",
+  "book": "haggai",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "imperatives עלו\/הביאתם\/בנו",
+      "rationale": "Three imperatives summon the people to act — build the house."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨اے⟩",
+      "rationale": "'אמר יהוה' is a nominative absolute formula; Punjabi needs the copula to close the sentence."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ואכבד",
+      "gloss": "'I will be glorified' vs 'I will glorify myself' — Hophal 'be honored' is the standard reading, kept here."
+    }
+  ],
+  "translation": "پہاڑ اُتے چڑھو، لکڑ لیاؤ، تے ⟨ایہ⟩ گھر بناؤ؛ تے میں اوہدے وِچ راضی ہوواں گا تے جلال پاواں گا — یاہوہ ⟨⟨دا⟩⟩ آکھنا ⟨اے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5d94111d7b989a2bfd712e3f7c89cd5e8d250cefb499c91c176fd17c45b6bf32",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/haggai\/1\/5-8.1792111413259.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עלו",
+      "gloss": "چڑھو"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "پہاڑ اُتے"
+    },
+    {
+      "surface": "והבאתם",
+      "gloss": "تے لیاؤ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "لکڑ"
+    },
+    {
+      "surface": "ובנו",
+      "gloss": "تے بناؤ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "וארצה",
+      "gloss": "تے راضی ہوواں گا"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوہدے وِچ"
+    },
+    {
+      "surface": "ואכבד",
+      "gloss": "تے جلال پاواں گا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-10-16T00:43:33.260740938Z",
+  "model": "glm-5.3"
+}

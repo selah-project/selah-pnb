@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨سی⟩",
+      "rationale": "عبرانی وِچ کوئی فعل ہوند نئیں، پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ہنیرے",
+      "rationale": "הערפל گھُٹ گھُٹاندا کالا بدل\/ہنیرا اے، عام 'ہنیرا' اوہدی گہرائی گوا دندا اے"
+    }
+  ],
+  "translation": "تے قوم دور کھلوتی، تے موشے اُس ہنیرے ولّ ٹُریا جِتھے اوتھے ایلوہیم ⟨سی⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "598982cf26ea88b589891e70f8c1b4f6725367465155bc69cbe58aa5e3d6d2bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/20\/21-24.1792096599016.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "تے کھلوتی"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "دور"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "تے موشے"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "ٹُریا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ولّ"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "ہنیرے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جِتھے"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اوتھے"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-10-15T20:36:39.017351909Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 51:6",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "کے خلاف",
+      "rationale": "לך לבדך اکلا اے، پنجابی وِچ خلاف دا پہلو واضح کرنا پیندا اے"
+    },
+    {
+      "kind": "you",
+      "subject": "یاہوہ",
+      "rationale": "سارا جملہ ربّ نوں سِدھا مخاطب اے"
+    }
+  ],
+  "translation": "تینوں، صرف تینوں ⟨کے خلاف⟩ میں گناہ کیتا اے، تے برائی تیریاں اکھاں دے ساہمنے کیتی اے، تاں جو تُوں اپنی گل وِچ راستباز ٹھہریں تے اپنے فیصلے وِچ بے داغ ٹھہریں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0e766f8045ad1ee404c5cb4d09eb034c4e86bb35eb7569190358b3c6579dca1a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/51\/5-8.1792112654382.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "تینوں"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "صرف تینوں"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "میں گناہ کیتا اے"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "تے برائی"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "تیریاں اکھاں دے ساہمنے"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "کیتی اے"
+    },
+    {
+      "surface": "למען",
+      "gloss": "تاں جو"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "راستباز ٹھہریں"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "اپنی گل وِچ"
+    },
+    {
+      "surface": "תזכה",
+      "gloss": "بے داغ ٹھہریں"
+    },
+    {
+      "surface": "בשפטך",
+      "gloss": "اپنے فیصلے وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:04:14.382999551Z",
+  "model": "glm-5.3"
+}

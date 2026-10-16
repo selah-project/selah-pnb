@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 18:25",
+  "book": "judges",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جیوَ",
+      "rationale": "נפש ساہ\/جان دا مطلب اے، ترجمے وِچ 'جیوَ' رکھیا گیا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נפש ×3",
+      "rationale": "آیت وِچ נפש تن واری آیا اے — مرى נפש، נפשך، נפש ביתך — دہراؤ دی چاشنی پنجابی وِچ ہلکی رہ جاندی اے"
+    },
+    {
+      "kind": "you",
+      "subject": "دان دے پتر مِیخا نوں",
+      "rationale": "دان دے پتراں دا مِیخا نال سدھا بول، دھمکی والا"
+    }
+  ],
+  "translation": "دان دے پتراں نے اوہدے توں آکھیا: تیری آواز ساڈے نال نہ سنی جاوے، کتے تسیں اُتے ایہو جئے بندے ٹُٹ پئن جیہڑے جیوَ وِچ کوڑھے نیں، تے توں کھو بہیں تیری جان تے تیرے گھر دی جان۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "375d030b5b5ce13662c644ca16c0779cc1122b8b81d28ab47812d690f7b62c13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/judges\/18\/25-28.1792102050420.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اوہدے توں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پتر"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان دے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "سنی جاوے"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "تیری آواز"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ساڈے نال"
+    },
+    {
+      "surface": "פן",
+      "gloss": "کتے"
+    },
+    {
+      "surface": "יפגעו",
+      "gloss": "ٹُٹ پئن"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "تسیں اُتے"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "کوڑھے"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جیوَ وِچ"
+    },
+    {
+      "surface": "ואספתה",
+      "gloss": "کھو بہیں"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "تیری جان"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "تے جان"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "تیرے گھر دی"
+    }
+  ],
+  "timestamp": "2026-10-15T22:07:30.421401545Z",
+  "model": "glm-5.3"
+}

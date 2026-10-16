@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 65:9",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תרנין",
+      "rationale": "کیا 'گاون والے' سویر تے شام دے نِکلنے نیں، یا یاہوہ اوہناں نوں گاوندا کردا اے — دوویں پڑھائیاں پرچاریاں نیں۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "گاوندے نیں",
+      "rationale": "תרنין دا مُڈھلی مطلب 'چیخ مارنا\/رل مل کے گاونا' اے، خوشی دا اُچلچیت اظہار۔"
+    }
+  ],
+  "translation": "تے کنارےآں دے وسنیک تیریاں نشانیاں توں ڈردے نیں؛ سویر تے شام دے نِکلنے توں گاوندے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9b9ebbb87df1819ee5900992b9001697afc9aa7f454ddbe306bfb719cfddfd24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/65\/9-12.1792112787495.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "تے ڈردے نیں"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "وسنیک"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "کنارےآں دے"
+    },
+    {
+      "surface": "מאותתיך",
+      "gloss": "تیریاں نشانیاں توں"
+    },
+    {
+      "surface": "מוצאי",
+      "gloss": "نِکلنے"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "سویر"
+    },
+    {
+      "surface": "וערב",
+      "gloss": "تے شام"
+    },
+    {
+      "surface": "תרנין",
+      "gloss": "گاوندے نیں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:06:27.496414248Z",
+  "model": "glm-5.3"
+}

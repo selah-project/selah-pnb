@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 136:24",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 136,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "צרינו",
+      "rationale": "'ویری' تھاں تے — صیغہ 'ساڈی تنگی\/دباﺅ' دا اے؛ جیہناں تنگ کیتا اوہ ویری نیں"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויפרקנו",
+      "rationale": "جڑ פ-ר-ק 'توڑ کے کڈھنا' — 'چھُڑایا' بمقابلہ 'فدیہ دِتا'؛ توڑ دا سوَ دیکھو"
+    }
+  ],
+  "translation": "تے اوہنے سانوں ساڈے ویریاں توں چھُڑایا، کیوںجے اوہدا خیسِد ہمیشہ تک اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "84291bdc12c4bc9b8d48626687e4bf38fb00762379d8cdb3e254505699c1a9de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/136\/21-24.1792114107120.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפרקנו",
+      "gloss": "تے چھُڑایا سانوں"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "ساڈے تنگیئوں\/ویریاں توں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوںجے"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشہ تک"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "اوہدا خیسِد ⟨کرنا⟩"
+    }
+  ],
+  "timestamp": "2026-10-16T01:28:27.120926766Z",
+  "model": "glm-5.3"
+}

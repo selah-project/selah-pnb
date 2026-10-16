@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 28:2",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اوہدے⟩",
+      "rationale": "שריה دی ملکیت دا نشان، پنجابی نوں لوڑ"
+    },
+    {
+      "kind": "crux",
+      "subject": "יאריך",
+      "rationale": "کی لماں ہوندا اے — حکومت، بادشاہ دی عمر، دا حال؛ ترجمے وکھرے نیں"
+    }
+  ],
+  "translation": "دھرتی دی بغاوت وِچ ⟨اوہدے⟩ سردار بہت ہندے نیں، تے سمجھ والے جانن والے بندے ولوں ⟨حکومت⟩ ایویں لماں چلدی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a49d9b8dd375166ba991265ed90be0df1b9dd7933bae2fe48159e16a03f3a74a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/28\/1-4.1792115238999.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "بغاوت وِچ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "دھرتی"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "بہت"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "ובאדם",
+      "gloss": "تے بندے ولوں"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "سمجھ والے"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "جانن والے"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ایویں"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "لماں چلدی اے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:47:19.000258430Z",
+  "model": "glm-5.3"
+}

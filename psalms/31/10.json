@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "وی",
+      "rationale": "عبرانی وِچ صرف اسم پئے نیں، کرن والے دا انوکھا پنجابی ⟨وی⟩ نال دسایا"
+    },
+    {
+      "kind": "crux",
+      "subject": "עששה",
+      "rationale": "'سوکھ جانا\/کمزور ہونا' — کجھ مترجم 'بوڑھا ہو گیا' کردے نیں (YLJ)"
+    }
+  ],
+  "translation": "یاہوہ، میں اُتے رحم کر، کیوں جو مینوں تنگی اے؛ میری اکھ غم نال سوکھ گئی اے، میری جان تے میرا پیٹ ⟨وی⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d7d768349330cb3911c1022e6e58f2b70f368dddddb704a24760ec3b18f53312",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/31\/9-12.1792112167731.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "رحم کر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "צר",
+      "gloss": "تنگی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مینوں"
+    },
+    {
+      "surface": "עששה",
+      "gloss": "سوکھ گئی"
+    },
+    {
+      "surface": "בכעס",
+      "gloss": "غم نال"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "میری اکھ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میری جان"
+    },
+    {
+      "surface": "ובטני",
+      "gloss": "تے میرا پیٹ"
+    }
+  ],
+  "timestamp": "2026-10-16T00:56:07.732467398Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "daniel 11:45",
+  "book": "daniel",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בין ימים להר",
+      "rationale": "Hebrew has no 'and' before להר — 'between the seas to the mountain'; KJV\/ASV split 'between the sea and…' vs 'between the seas' (dual\/plural)."
+    },
+    {
+      "kind": "hapax",
+      "subject": "אפדנו",
+      "rationale": "אַפֶּדֶן palace-tent appears only here in the Tanakh."
+    },
+    {
+      "kind": "substitution",
+      "subject": "اپنے انت تک آوے گا",
+      "rationale": "'he shall come to his end' — Hebrew עד קצו literally 'until his extremity', space and time both."
+    },
+    {
+      "kind": "mystery",
+      "subject": "daniel 11:45",
+      "rationale": "Sealed vision's climax — the king's end described without naming him; the text withholds identification."
+    }
+  ],
+  "translation": "تے اوہ اپنے محل دے خیمے سمندراں ⟨تے⟩ شوکت والے پوتر پہاڑ دے وِچکار گاڑسی، تے اوہ اپنے انت تک آوے گا، تے اوہدے لئی کوئی مددگار ⟨نئیں⟩ ہووےگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f2b43b912da8bf9b118bfe046d11ba33e48476949f6cd9fbcbf2705724c2445a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/daniel\/11\/45-45.1792118828133.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "تے اوہ گاڑسی"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "خیمے"
+    },
+    {
+      "surface": "אפדנו",
+      "gloss": "اپنے محل دے"
+    },
+    {
+      "surface": "בין",
+      "gloss": "وِچکار"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "سمندراں"
+    },
+    {
+      "surface": "להר",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "شوکت والے"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پوتر"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "تے اوہ آوے گا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "קצו",
+      "gloss": "اپنے انت"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "تے کوئی نئیں"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "مددگار"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدے لئی"
+    }
+  ],
+  "timestamp": "2026-10-16T02:47:08.134307977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 21:8",
+  "book": "2-chronicles",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "گدی تے",
+      "rationale": "וימליכו سببیت والا فعل اے — ‘بادشاہ بنایا\/گدی تے بٹھایا’؛ پنجابی جملے لئی ‘نے’ وی پایا"
+    },
+    {
+      "kind": "idiom",
+      "subject": "יד",
+      "rationale": "‘ہتھ تھلے توں’ = اوس دی حکومت تھلے توں؛ لفظی رکھیا"
+    }
+  ],
+  "translation": "اوس دے دِناں وِچ ادوم نے یہوداہ دے ہتھ تھلے توں بغاوت کیتی، تے اوہناں نے اوہناں اُتے اِک بادشاہ ⟨گدی تے⟩ بٹھایا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "aa1c99831813ca67dfcb424fda2d7948b82c97947012603a0bb31720b7c4f9e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/21\/5-8.1792122380055.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "اوس دے دِناں وِچ"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "بغاوت کیتی"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ادوم"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "تھلے توں"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "تے بٹھایا"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "اوہناں اُتے"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    }
+  ],
+  "timestamp": "2026-10-16T03:46:20.056444715Z",
+  "model": "glm-5.3"
+}

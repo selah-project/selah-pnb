@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 43:26",
+  "book": "ezekiel",
+  "lang": "pnb",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "اوہدے ہتھ بھرن گے",
+      "rationale": "מלאו ידו واقعه بھرنا = نوںِ منصب نصب کرنا؛ کجھ ترجمے 'قربانگاہ نوں مُکلس کرن گے' (ASV\/JPS) لکھدے، یلت 'ہتھ بھرن گے' دا مُڈھو بھاؤ رکھدا اے۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "ידو — اِکو وچکار",
+      "rationale": "یدو اِک واحد اے جد کہ کرن والے جمع نیں؛ KJV 'آپ نوں مُکلس کرن گے' منگیا، عبرانی شکل 'اوہدا ہتھ' اے۔"
+    }
+  ],
+  "translation": "ستّ دناں اوہ ⟨את⟩ قربانگاہ دا کفارہ کرن گے تے ⟨אתו⟩ اوہنوں پاک کرن گے، تے اوہدے ہتھ بھرن گے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "dec333b4156e6981679dd4e05e7eb9ca7d0344f09d95f9d1977cad46022171ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/43\/25-27.1792110269847.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "ستّ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دناں"
+    },
+    {
+      "surface": "יכפרו",
+      "gloss": "کفارہ کرن گے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قربانگاہ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "قربانگاہ"
+    },
+    {
+      "surface": "וטהרו",
+      "gloss": "تے پاک کرن گے"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "اوہنوں"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "تے بھرن گے"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "اوہدے ہتھ"
+    }
+  ],
+  "timestamp": "2026-10-16T00:24:29.848207344Z",
+  "model": "glm-5.3"
+}

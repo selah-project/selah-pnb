@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 5:5",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "عمر",
+      "rationale": "آیت پرانی عمر دی گنتی — نَوں سَو تَیہ سال"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אדם\/דם",
+      "rationale": "ناں اَدم تے موت دا سیاق — پیدائش 2:7 دی مٹی نال جُڑیا"
+    }
+  ],
+  "translation": "تے اَدم دے سارے دن، جیہڑے اوہ جِیا، نَوں سَو سال تے تَیہ سال ہوئے، تے اوہ مریا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0032496d12f656c28ee2d772d6822714b233d1f9d640f5346e4c601868a89ae2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/5\/5-8.1792094711274.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ہوئے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "دن"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "اَدم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑے"
+    },
+    {
+      "surface": "חי",
+      "gloss": "جِیا"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نَوں"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "تے تَیہ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "مریا"
+    }
+  ],
+  "timestamp": "2026-10-15T20:05:11.275311842Z",
+  "model": "glm-5.3"
+}

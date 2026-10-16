@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 40:14",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תבונות יודיענו",
+      "rationale": "'سمجھ دے رستے اوہنوں جتائیوسُ' — دوجا سوال یا پہلاں والے سوال دی مُڈھ، مترجم متفق نئیں"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨دے⟩",
+      "rationale": "جُڑے اسم (construct) لئی پنجابی ذرہ"
+    },
+    {
+      "kind": "elision",
+      "subject": "ודרך",
+      "gloss-rationale": "'تے رستے' — مُکھ ترجمے 'تے سمجھ دے رستے' وِچ جُڑ جاندا اے، ٹوکن وکھ رکھیا"
+    }
+  ],
+  "translation": "⟨את⟩ کِدے نال صلاح کیتی، تے اوہنوں سمجھائی، تے اوہنوں انصاف دے رستے وِچ سکھایا؟ اوہنوں دعوت سکھائی تے سمجھ دے رستے ⟨دے⟩ راز اوہنوں دسے؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3fc8a823deaa516ab678914f33ce538d2f1607201e1a99423619026b04dad2a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/40\/13-16.1792106698267.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کِدے"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کِدے"
+    },
+    {
+      "surface": "נועץ",
+      "gloss": "صلاح کیتی"
+    },
+    {
+      "surface": "ויבינהו",
+      "gloss": "تے اوہنوں سمجھائی"
+    },
+    {
+      "surface": "וילמדהו",
+      "gloss": "تے اوہنوں سکھایا"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "رستے وِچ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف دے"
+    },
+    {
+      "surface": "וילמדהו",
+      "gloss": "اوہنوں سکھائی"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "دعوت"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "تے رستے"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "سمجھ دے"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "اوہنوں دسے"
+    }
+  ],
+  "timestamp": "2026-10-15T23:24:58.268473556Z",
+  "model": "glm-5.3"
+}

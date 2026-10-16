@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 5:3",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "زارہ",
+      "rationale": "لفظی 'اوپری\/پرائی زنانی' اے؛ 'پریت' رکھیا، 'بھیڑی زنانی' وی ہو سکدا اے۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "زارہ",
+      "rationale": "مترجم 'اجنبی زنانی'، 'پرائی زنانی' تے 'پریت' وچ ونڈے نیں۔"
+    }
+  ],
+  "translation": "کیوں جو پریت دی ہونٹھاں توں شہد دے وگدے قطرے ٹپکدے نیں، تے اوہدا منہ تیل توں ودھ چکنا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b1e6ea5b569940579bb87cb85b03bae997f4e737367cd044479011bfb1390459",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/5\/1-4.1792114435401.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "شہد دے وگدے قطرے"
+    },
+    {
+      "surface": "תטפנה",
+      "gloss": "ٹپکدے نیں"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "دی ہونٹھاں توں"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "پریت"
+    },
+    {
+      "surface": "וחלק",
+      "gloss": "تے چکنا"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "تیل توں ودھ"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "اوہدا منہ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:33:55.402361997Z",
+  "model": "glm-5.3"
+}

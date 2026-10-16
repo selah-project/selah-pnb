@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 47:16",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨روٹی⟩",
+      "rationale": "عبرانی ואתנה دے نال ٹیچا لفظ نئیں؛ JPS 'bread' پایا، عبرانی وِچ صاف نئیں — پنجابی لئی لوڑیا"
+    },
+    {
+      "kind": "crux",
+      "subject": "לחם دی گھاٹ",
+      "rationale": "KJV\/ASV 'for your cattle' بِنا bread دے؛ JPS 'bread for your cattle' — عبرانی وِچ لفظ نئیں"
+    },
+    {
+      "kind": "you",
+      "subject": "یوسف نے مِتصرایمیاں نوں",
+      "rationale": "جوابی خطاب، براہِ راست حکم: 'اپنے مال گھلیو'"
+    }
+  ],
+  "translation": "تے یوسف نے آکھیا: اپنے مال گھلیو، فیر تہاڈے مال دے بدلے مَیں تہانوں ⟨روٹی⟩ دِیساں، جے چاندی مُک گئی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a51b62e2f7bc8211133233ec5d47505da490841aeaa2a1103317798e61db0390",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/47\/13-16.1792096015402.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف نے"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "گھلیو"
+    },
+    {
+      "surface": "מקניכם",
+      "gloss": "اپنے مال"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "فیر دِیساں"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تہانوں"
+    },
+    {
+      "surface": "بמקניכם",
+      "gloss": "تہاڈے مال دے بدلے"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "مُک گئی اے"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندی"
+    }
+  ],
+  "timestamp": "2026-10-15T20:26:55.403686441Z",
+  "model": "glm-5.3"
+}

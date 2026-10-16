@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 18:14",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨سی⟩",
+      "rationale": "پنجابی جملے لئی ضروری کوپلا، عبرانی وِچ کوئی نئیں۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "دفتری تندیر",
+      "rationale": "آیت 14–16 داوِد دے راج دی کاروباری تندیر اے — افسراں دے ناں تے اہلاک۔"
+    }
+  ],
+  "translation": "تے داوِد سارے یِسرائیل اُتے بادشاہ بنیا، تے اوہ ⟨سی⟩ سارے اپنے لوکاں لئی فیصلہ تے راستبازی کرن والا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "80245ada4bb3aec48de7134b3e642bff17d9d4f60b32fc7a9037ac4ce0ad0f26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/18\/13-16.1792120938537.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "بادشاہ بنیا"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "تے اوہ ⟨سی⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کرن والا"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "فیصلہ"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "تے راستبازی"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "اپنے لوکاں لئی"
+    }
+  ],
+  "timestamp": "2026-10-16T03:22:18.538714434Z",
+  "model": "glm-5.3"
+}

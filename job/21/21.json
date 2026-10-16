@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 21:21",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "مُردے",
+      "rationale": "אחריו “اوہدے مگروں” توں مراد اوہدے مرن مگروں اے، پنجابی وضاحت لئی بریکٹ"
+    },
+    {
+      "kind": "crux",
+      "subject": "חצצו",
+      "rationale": "کَٹّی گئی (KJV) بمقابلہ نِیتی کر دتی گئی (JPS) — جڑ دا مطلب کاٹنا\/ونڈنا اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "مہینیاں دی گنتی",
+      "rationale": "آیت عمر نوں مہینیاں دی گنتی دے روپ وِچ شمار کردی اے"
+    }
+  ],
+  "translation": "کیوں کہ اوہدے ⟨مُردے⟩ مگروں اوہدے گھر وِچ اوہدی کی چاہ اے، جدوں اوہدے مہینیاں دی گنتی کَٹّی جا چکی اے؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4b1f323b10bb93091fc531ead5037e040704cdca2b369eeba5ef887c037f49b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/21\/21-24.1792115914080.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں کہ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کی"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "چاہ"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "اوہدے گھر وِچ"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "اوہدے مگروں"
+    },
+    {
+      "surface": "ומספר",
+      "gloss": "تے … دی گنتی"
+    },
+    {
+      "surface": "חדשיו",
+      "gloss": "اوہدے مہینیاں"
+    },
+    {
+      "surface": "חצצו",
+      "gloss": "کَٹّی جا چکی اے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:58:34.080666277Z",
+  "model": "glm-5.3"
+}

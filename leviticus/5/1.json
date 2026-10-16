@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 5:1",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/زندگی دی طاقت اے، صرف 'جان' پنجابی وِچ سب توں نیڑے"
+    },
+    {
+      "kind": "crux",
+      "subject": "قَسَم دی آواز",
+      "rationale": "קול אלה: 'قَسَم دی آواز' (KJV 'voice of swearing') یا 'سبّ دا حُکم' (JPS\/ASV 'voice of adjuration')"
+    }
+  ],
+  "translation": "تے جے کوئی جان گناہ کرے تے قَسَم دی آواز سُنے، تے اوہ گواہ ہووے — جاں اوہنے ویکھیا ہووے، جاں جاندا ہووے — جے اوہ دسے نہ، تاں اوہ اپنا قصور چُکیگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "73b542981217c30cb37207bdfa4217c6be4f5330c0d1e24b87987c8142263341",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/5\/1-4.1792097513264.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "تے جان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جے"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "گناہ کرے"
+    },
+    {
+      "surface": "ושמעה",
+      "gloss": "تے سُنے"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "قَسَم دی"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "تے اوہ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "گواہ"
+    },
+    {
+      "surface": "או",
+      "gloss": "جاں"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ویکھے"
+    },
+    {
+      "surface": "או",
+      "gloss": "جاں"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "جاندا ہووے"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "دسے"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "تے چُکیگا"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "اپنا قصور"
+    }
+  ],
+  "timestamp": "2026-10-15T20:51:53.265253881Z",
+  "model": "glm-5.3"
+}

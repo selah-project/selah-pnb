@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 136:22",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 136,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوہدے",
+      "rationale": "עבדו وِچ پہلی شخص دی نشانی طے کردی اے پر پنجابی جملے لئی 'اوہدے' درکار اے"
+    }
+  ],
+  "translation": "وراثت یِسرائیل ⟨اوہدے⟩ غلام لئی، کیوںجے اوہدا خیسِد ہمیشہ تک اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "84291bdc12c4bc9b8d48626687e4bf38fb00762379d8cdb3e254505699c1a9de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/136\/21-24.1792114107120.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נחלה",
+      "gloss": "وراثت"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "یِسرائیل لئی"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "اوہدے غلام"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوںجے"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشہ تک"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "اوہدا خیسِد ⟨کرنا⟩"
+    }
+  ],
+  "timestamp": "2026-10-16T01:28:27.120673221Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "مُنتظم",
+      "rationale": "למנצח دا مُڈھلا مطلب 'چمکنا، دوروں وِکھائی دینا' اے — مزموراں دی سرپرستی دا ریتی لفظ بن گیا"
+    }
+  ],
+  "translation": "مُنتظم لئی، قورح دے پُتراں دا، اِک مزمور۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1e6098456f56aa772431d8326426dd6f9857ea0170fbf1535b9d07ec09f0e33f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/85\/1-4.1792113211226.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "مُنتظم لئی"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "پُتراں دا"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورح"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    }
+  ],
+  "timestamp": "2026-10-16T01:13:31.227126247Z",
+  "model": "glm-5.3"
+}

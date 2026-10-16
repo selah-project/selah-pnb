@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 31:14",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اے⟩",
+      "rationale": "عبرانی وِچ ہوئی ماضی اے، پنجابی ہُن دی حال لئی ⟨اے⟩ منگدی اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "سوداگراں دے جہاز",
+      "rationale": "کجھ ترجمے جمع رکھدے نیں (جہازاں وانگوں)، کجھ اِک (سوداگر دا جہاز) — عبرانی جمع اے"
+    }
+  ],
+  "translation": "اوہ سوداگراں دے جہازاں وانگوں ہوئی ⟨اے⟩، دوروں آ کے اپنی روٹی لیاندی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "071f4d95beaafc66ee21595a3774295228f1245235e71ea4a126c1c1bc912fa0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/31\/14-15.1792124282560.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "ہوئی"
+    },
+    {
+      "surface": "כאניות",
+      "gloss": "جہازاں وانگوں"
+    },
+    {
+      "surface": "סוחר",
+      "gloss": "سوداگراں دے"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "دوروں"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "لیاندی اے"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "اپنی روٹی"
+    }
+  ],
+  "timestamp": "2026-10-16T04:18:02.561427094Z",
+  "model": "glm-5.3"
+}

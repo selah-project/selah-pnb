@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-samuel 17:29",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨میں⟩",
+      "rationale": "عبرانی وِچ ضمیر نئیں، پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "הלוא דבר הוא",
+      "rationale": "KJV 'کیا کوئی گل نئیں؟' بمقابلہ یلت\/جےپی ایس 'کیہ ایہہ صرف اِک گل نئیں؟' — דבר دا مطلب گل وی، سبب وی"
+    },
+    {
+      "kind": "you",
+      "subject": "الیاب نوں جواب",
+      "rationale": "داوِد اپنے وڈے بھرا الیاب دی گل دا جواب دندا اے"
+    }
+  ],
+  "translation": "تے داوِد نے آکھیا: ⟨میں⟩ ہُن کیہ کیتا اے؟ کیہ ایہہ اِک گل نئیں؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d79e0dffca74dabb1e361e608392a5ba1189ff2f7bcfa7bb6dcf10a96e6fc399",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/17\/29-32.1792102651614.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "کیتا اے"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ہُن"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "کیہ… نئیں"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گل"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اِک"
+    }
+  ],
+  "timestamp": "2026-10-15T22:17:31.614956553Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וישלח … לשחט",
+      "rationale": "שׁלח (ودھاؤنا) تے שׁחט (ذبح کرنا) — آوازاں دی نیڑتا عبرانی وِچ تے پنجابی وِچ وی سانبھی گئی"
+    }
+  ],
+  "translation": "تے اَوراہام نے ⟨את⟩ آپݨی ہتھ نوں اِگوں ودھایا، تے ⟨את⟩ چاقو نوں لیا، آپݨے پُتر نوں ذبح کرن لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ffb8dc1ed9d7bec130c40f64eb719f5c63487ba6aa227e9f271739788fdceebb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/22\/9-12.1792095116661.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "تے ودھایا"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراہام نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آپݨی ہتھ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "آپݨی ہتھ نوں"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "تے لیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چاقو"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "چاقو نوں"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "ذبح کرن لئی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہدے پُتر"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اوہدے پُتر نوں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:11:56.662270758Z",
+  "model": "glm-5.3"
+}

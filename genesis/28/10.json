@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 28:10",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מבאר שבע",
+      "rationale": "مقام دا ناں اِک ٹوکن جوڑ وِچ اے (بیر-شِبع)، پنجابی وِچ اِک واری لکھیا۔"
+    },
+    {
+      "kind": "alternative",
+      "subject": "حاران ول",
+      "rationale": "עברית חרנה وِچ ہدفی -ה لاحقہ اے؛ 'حاران نوں' وی ہو سکدا اے پر 'ول' سیاق دے مطابق اے۔"
+    }
+  ],
+  "translation": "تے یعقوو بیر-شِبع توں نِکلیا تے حاران ول ٹُریا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "848c938aba122b76380ee6baa338a430c19d3aa1c1bf4c96eac9cf48eb99123c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/28\/10-11.1792123210924.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "نِکلیا"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "بیر-شِبع توں"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "⟨بیر-شِبع⟩"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ٹُریا"
+    },
+    {
+      "surface": "חרנה",
+      "gloss": "حاران ول"
+    }
+  ],
+  "timestamp": "2026-10-16T04:00:10.924762252Z",
+  "model": "glm-5.3"
+}

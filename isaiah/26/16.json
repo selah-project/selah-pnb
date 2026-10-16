@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 26:16",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פקדוך",
+      "rationale": "'دریافت کیتا' بمقابلہ یلو دی 'اوہ تیرے توں رہ گئے' — فعل پقرڈ دوویں پاسے جا سکدا اے۔"
+    },
+    {
+      "kind": "hapax",
+      "subject": "צקון",
+      "rationale": "'اُگھڑیا\/اُگھڑ دتا' — پورے تنخ وِچ اِکو واری۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לחש",
+      "rationale": "لچھش مُونہوں فُسفُساہٹ اے — 'چُپ دی دُعا' اوہدے نیڑے اے۔"
+    }
+  ],
+  "translation": "یاہوہ، تنگی وِچ اوہناں تیری دریاافت کیتی، چُپ چُپ دُعا پائی، جد تیرا تادیب اوہناں اُتے سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d80426e4f83cc4b3a4d76dcde864a4eb8786ca61ec68d98a04f1acafd04189c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/26\/13-16.1792106265039.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "تنگی وِچ"
+    },
+    {
+      "surface": "פקדוך",
+      "gloss": "اوہناں تیری دریاافت کیتی"
+    },
+    {
+      "surface": "צקון",
+      "gloss": "پائی"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "چُپ چُپ دُعا"
+    },
+    {
+      "surface": "מוסרך",
+      "gloss": "تیرا تادیب"
+    },
+    {
+      "surface": "למו",
+      "gloss": "اوہناں اُتے"
+    }
+  ],
+  "timestamp": "2026-10-15T23:17:45.040666264Z",
+  "model": "glm-5.3"
+}

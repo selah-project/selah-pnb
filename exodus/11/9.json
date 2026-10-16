@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 11:9",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "گل",
+      "rationale": "عبرانی ישמע اے 'سُننا'؛ 'گل' جملہ پورا کرن لئی پايا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "نشانیاں",
+      "rationale": "מופת 'نشانی\/کرشمہ' دوناں اے"
+    }
+  ],
+  "translation": "تے یاہوہ نے موشے نوں آکھیا: فرعون تہاڈی گل نئیں سُنیگا، ایس لئی کہ میڈھیاں نشانیاں مِتصرایم دی دھرتی وِچ وَدھن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "906ca885bed15f84686871f47ab741839238b14e541e5656b782c184a8ed1a80",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/11\/9-10.1792096313061.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "سُنیگا"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "تہاڈی گل"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ایس لئی کہ"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "ودھن"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "میڈھیاں نشانیاں"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "دی دھرتی وِچ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم"
+    }
+  ],
+  "timestamp": "2026-10-15T20:31:53.062394642Z",
+  "model": "glm-5.3"
+}

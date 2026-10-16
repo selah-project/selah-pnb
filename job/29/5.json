@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 29:5",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سن",
+      "rationale": "عبرانی وِچ فعل کوئی نئیں، پنجابی جملہ فعل منگدا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "נערי",
+      "rationale": "میرے نوجوان\/نوچھیکر نوں کجھ ترجمے 'میرے بال' آکھدے نیں؛ נער دا مطلب نوجوان اے، بال نئیں"
+    }
+  ],
+  "translation": "جدوں ہن تک شدّای میرے نال سی، تے میرے نوجوان میرے دوآلے ⟨سن⟩،",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "742582796b05feb8b475dd433ff3c51c84dc5c98441d30b235ebdcd502c8ddce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/29\/5-8.1792116144584.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעוד",
+      "gloss": "جدوں ہن تک"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "شدّای"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "میرے نال"
+    },
+    {
+      "surface": "סביבותי",
+      "gloss": "میرے دوآلے"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "میرے نوجوان"
+    }
+  ],
+  "timestamp": "2026-10-16T02:02:24.585364482Z",
+  "model": "glm-5.3"
+}

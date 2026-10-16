@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 3:2",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "یاہوہ دیاں اکھاں وِچ",
+      "rationale": "عبرانی ‘یاہوہ دیاں اکھاں دے ساہمنے’ — پنجابی وِچ ‘نظر وِچ’ دا مطلب"
+    },
+    {
+      "kind": "crux",
+      "subject": "مورتی",
+      "rationale": "מצבת دا مول ‘کھلوتی ہوئی مورٹ\/ستون’ اے — KJV ‘image’، YLT ‘standing-pillar’"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨کیوں جے⟩",
+      "rationale": "عبرانی رَک دے اگلے حصے دا جوڑ پنجابی نوں چاہیدا"
+    }
+  ],
+  "translation": "تے اوہنے یاہوہ دیاں اکھاں وِچ بُرا کیتا، صرف اپنے پیو وانگوں تے اپنی ماں وانگوں نئیں ⟨کیوں جے⟩ اوہنے ⟨את⟩ بعل دی مورتی ہٹا دتی جیہڑی اوہدے پیو نے بنائی سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "19fe0c2000f7dbb73d8737987b8ccb91540b4e43538241518ec9b61ec9f597f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/3\/1-4.1792104933554.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעשה",
+      "gloss": "تے کیتا"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "برا"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "اکھاں وِچ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "רק",
+      "gloss": "صرف"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "כאביו",
+      "gloss": "اپنے پیو وانگوں"
+    },
+    {
+      "surface": "וכאמו",
+      "gloss": "تے اپنی ماں وانگوں"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "تے ہٹا دتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بعل دی مورتی"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "مورتی"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "بعل دی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بنائی"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "اوہدے پیو نے"
+    }
+  ],
+  "timestamp": "2026-10-15T22:55:33.555860458Z",
+  "model": "glm-5.3"
+}

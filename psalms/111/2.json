@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 111:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 111,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דרושים לכל חפציהם",
+      "rationale": "'سَبھ لئی ڈھُندے جاندے نیں جو اوہناں وِچ چاہ رکھدے نیں' — کے چاہ رکھن والے لوک نیں یا خود کم نیں، پرانا متفق نئیں"
+    },
+    {
+      "kind": "mystery",
+      "subject": "works",
+      "rationale": "کم ڈھونھن لئی دسے گئے نیں — اوہناں وِچ لُکایا اے جیہڑا کھوجدا اے اوہنوں ملدا اے"
+    }
+  ],
+  "translation": "وڈے نیں یاہوہ دے کم، اوہ سَبھ لئی جو اوہناں وِچ چاہ رکھدے نیں، ڈھُندے جاندے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "214c851a847b085d4938cf9420e56880088b55bcd38b91a349e9806e26cac0fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/111\/1-4.1792113746894.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "وڈے نیں"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "کم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دے"
+    },
+    {
+      "surface": "דרושים",
+      "gloss": "ڈھُندے جاندے نیں"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سَبھ لئی"
+    },
+    {
+      "surface": "חפציהם",
+      "gloss": "جو اوہناں وِچ چاہ رکھدے نیں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:22:26.894990413Z",
+  "model": "glm-5.3"
+}

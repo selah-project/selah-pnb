@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 24:21",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "عبرانی وِچ کوئی فعل نئیں، پنجابی جملے لئی شامل کیتا"
+    },
+    {
+      "kind": "crux",
+      "subject": "הראש",
+      "rationale": "KJV 'پہلا'، یلت 'مُکھی' — لفظ 'سر\/مُکھی' اے، 'پہلا' نئیں"
+    },
+    {
+      "kind": "measurement",
+      "subject": "لیویاں دے ٹبراں دی گنتی",
+      "rationale": "کاہناں دے گھراں دی لسٹ، ترتیب نال"
+    }
+  ],
+  "translation": "رِحبیاہو لئی: رِحبیاہو دے پُتراں وِچوں ⟨اوہ⟩ مُکھی یِشیاہ سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "11aa543bc72f9310d07ea976fdcb052131a3d261afd8646238d7412c2d4edcab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/24\/21-24.1792121142934.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לרחביהו",
+      "gloss": "رِحبیاہو لئی"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "دے پُتراں وِچوں"
+    },
+    {
+      "surface": "רחביהו",
+      "gloss": "رِحبیاہو"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "مُکھی"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "یِشیاہ"
+    }
+  ],
+  "timestamp": "2026-10-16T03:25:42.934866841Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 15:21",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "قومیں دی لڑی",
+      "rationale": "زمین دے وارثاں دی مکمل لسٹ — دس قوماں دی گنتی، عہد دا اندازہ۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "نوں",
+      "rationale": "پنجابی مفعول دے نشان لئی؛ ⟨את⟩ دے نال ہر اسم اُتے جُڑیا۔"
+    }
+  ],
+  "translation": "تے ⟨את⟩ ایموری نوں، تے ⟨את⟩ کِنعانی نوں، تے ⟨את⟩ گِرگشی نوں، تے ⟨את⟩ یِوُسی نوں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "51b31410dc9120d1399cfbc9a3168eb0f74af90a917e80c5607a68c50ecf3241",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/15\/21-21.1792094946858.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ایموری"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ایموری"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "کِنعانی"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "کِنعانی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "گِرگشی"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "گِرگشی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "یِوُسی"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "یِوُسی"
+    }
+  ],
+  "timestamp": "2026-10-15T20:09:06.858818349Z",
+  "model": "glm-5.3"
+}

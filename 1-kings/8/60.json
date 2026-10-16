@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "1-kings 8:60",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوہی",
+      "rationale": "הוא زور دین والی ضمیر اے — 'یاہوہ، اوہی ایلوہیم' — پنجابی وِچ 'اوہی' ای اوہدڑ زور کڈھدا اے۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אין עוד",
+      "rationale": "تثلیث-نہ ہوون دا سُکڑا اعلان — שמע نال ملدا اعلان، 'کوئی ہور نئیں' دو ٹوک رہندا اے۔"
+    }
+  ],
+  "translation": "تاں جو دھرتی دیاں ساریاں قوماں جانن کہ یاہوہ اوہی ایلوہیم اے، اوہدے توں کوئی ہور نئیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d611074c2dce6dc2205ae58c87777883de1ccc264ba1c45a58d28c1951626fb5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/8\/57-60.1792104261521.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "تاں جو"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "جانن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساریاں"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "قوماں"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "دھرتی دیاں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہی"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کوئی ہور نئیں"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "اوہدے توں"
+    }
+  ],
+  "timestamp": "2026-10-15T22:44:21.522701613Z",
+  "model": "glm-5.3"
+}

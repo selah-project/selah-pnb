@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 4:20",
+  "book": "lamentations",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רוח אפינו",
+      "rationale": "'ساہ ساڈے نتھناں دا' — ماشیاخ اُتے لگدا اے (بادشاہ، غالباً صدقیاہو)؛ کوئی علیحدہ روح نئیں"
+    },
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "عبرانی وِچ کوپلا نئیں — 'ساہ … ماشیاخ اے' دی جوڑ پنجابی وِچ شامل کیتی گئی"
+    }
+  ],
+  "translation": "ساڈے نتھناں دا ساہ، یاہوہ دا ماشیاخ، اوہناں دے گڈھیاں وِچ پھدیا گیا — جیہدے بارے آکھیا سی: اوہدے پچھاں وِچ اسیں قوماں وِچ جیواں گے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "778048a648accb3c90c8a65f9115e73e159d16d7ec34e2b57d5db1189258cf85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/lamentations\/4\/17-20.1792117353803.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "ساہ"
+    },
+    {
+      "surface": "אפינו",
+      "gloss": "ساڈے نتھناں دا"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "ماشیاخ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "נלכד",
+      "gloss": "پھدیا گیا"
+    },
+    {
+      "surface": "בשחיתותם",
+      "gloss": "اوہناں دے گڈھیاں وِچ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہدے بارے"
+    },
+    {
+      "surface": "אמרנו",
+      "gloss": "آکھیا سی"
+    },
+    {
+      "surface": "בצלו",
+      "gloss": "اوہدے پچھاں وِچ"
+    },
+    {
+      "surface": "נחיה",
+      "gloss": "اسیں جیواں گے"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "قوماں وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T02:22:33.804770323Z",
+  "model": "glm-5.3"
+}

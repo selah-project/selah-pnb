@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 46:13",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "میں",
+      "rationale": "عبرانی وِچ کرمکھ صیغہ اے، ضمیر پنجابی لئی وادھو اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "תפארתי",
+      "rationale": "کے جے 'یِسرائیل نوں میری شان' (پوزیشق) یا 'یِسرائیل میری شان اے' (KJV\/جے پی ایس) — صیغہ توڑ دوویں ممکن نیں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תשועתי\/תשועה",
+      "rationale": "اوہو طریق دا وہراؤ — میری مُڈھائی … مُڈھائی — پنجابی وِچ رکھیا گیا اے"
+    }
+  ],
+  "translation": "میں اپنی صداقت نیڑے لیائی اے، اوہ دور نئیں ہووے گی، تے میری مُڈھاؤ نئیں ہووے گی؛ تے میں صیہون وِچ مُڈھائی، یِسرائیل نوں میری شان دینا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c86289585bb89cd143b327e6cfca267ea0eb894db0a06c836e7b7839e84aad2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/46\/13-13.1792106760588.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרבתי",
+      "gloss": "نیڑے لیائی اے"
+    },
+    {
+      "surface": "צדקתי",
+      "gloss": "اپنی صداقت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "دور ہووے گی"
+    },
+    {
+      "surface": "ותשועתי",
+      "gloss": "تے میری مُڈھائی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "پچھے پئے گی"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "تے میں دینا"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "صیہون وِچ"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "مُڈھائی"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "یِسرائیل نوں"
+    },
+    {
+      "surface": "תפארתי",
+      "gloss": "میری شان"
+    }
+  ],
+  "timestamp": "2026-10-15T23:26:00.588630209Z",
+  "model": "glm-5.3"
+}

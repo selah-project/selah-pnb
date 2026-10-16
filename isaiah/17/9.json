@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 17:9",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "האמיר",
+      "rationale": "'اُچی چوٹی' (کِسے رُکھ یا پہاڑ دی ٹوپی) — KJV 'uppermost branch'، JPS 'lofty forests'، ASV 'mountain top' — مشکل لفظ۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עזובת\/עזבו",
+      "rationale": "اوہو جڑ ע-ז-ב دو واری — 'چھڈی ہوئی' تے 'چھڈیاں' — پنجابی وِچ کجھ گونج رکھی گئی اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩",
+      "rationale": "عبرانی وِچ کریا دیsubject گم اے؛ پنجابی جملے لئی ضمیر چاہیدی اے۔"
+    }
+  ],
+  "translation": "اس دن اوہدے مضبوط شہر جنگل وِچ چھڈی ہوئی شے تے اُچی چوٹی ورگیاں ہون گے، جہڑیاں یِسرائیل دے مندیاں دے اگوں چھڈیاں گیاں، تے ⟨اوہ⟩ اجاڑ بن جاوے گی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "53bd39ee18239dcbb230b601ed0b7c7b6f74d41f8ade89c8b49155072f1d59bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/17\/9-12.1792106121035.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "اس دن"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ہون گے"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "מעזו",
+      "gloss": "اوہدے مضبوط"
+    },
+    {
+      "surface": "כעזובת",
+      "gloss": "چھڈی ہوئی شے وانگ"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "جنگل دی"
+    },
+    {
+      "surface": "והאמיר",
+      "gloss": "تے اُچی چوٹی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جہڑیاں"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "چھڈیاں"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "اگوں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "مندیاں دے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "تے ہووےگی"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "اجاڑ"
+    }
+  ],
+  "timestamp": "2026-10-15T23:15:21.036087405Z",
+  "model": "glm-5.3"
+}

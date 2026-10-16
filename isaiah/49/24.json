@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 49:24",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צדיק",
+      "rationale": "KJV 'قانونی قیدی'، YLT 'نیپ دا قیدی' — لفظ دوناں پاسے پڑھیا گیا اے"
+    },
+    {
+      "kind": "mystery",
+      "subject": "کیا … سکدا اے؟",
+      "rationale": "retorical سوال جیہدا جواب اگلی آیت وچ یاہوہ دیند اے"
+    }
+  ],
+  "translation": "کیا لُٹ توں بہادر دے ہتھوں کھوہیا جا سکدا اے، یا نیپ قیدی چھُٹ سکدا اے؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "70de0d7e86fc71dd516889b0159ebc6c6b11a93cd4b299aa73c7a3456fa3bd09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/49\/21-24.1792106838679.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היקח",
+      "gloss": "کیا کھوہیا جا سکدا اے"
+    },
+    {
+      "surface": "מגבור",
+      "gloss": "بہادر دے ہتھوں"
+    },
+    {
+      "surface": "מלקוח",
+      "gloss": "لُٹ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "یا"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "قیدی"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "نیپ"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "چھُٹ سکدا اے"
+    }
+  ],
+  "timestamp": "2026-10-15T23:27:18.682269311Z",
+  "model": "glm-5.3"
+}

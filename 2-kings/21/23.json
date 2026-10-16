@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 21:23",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اپنے",
+      "rationale": "بیتو دے مِلے 'اوہدے' وِچ ہی اے؛ 'اپنے' پنجابی جملے لئی ودھایا"
+    }
+  ],
+  "translation": "تے اَمون دے نوکراں نے اوہدے خلاف سازش کیتی، تے ⟨את⟩ بادشاہ نوں اوہدے اپنے گھر وِچ مار دتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "24d7565cf64b5d2e2109029b9d60ef795493d6ecb3391cff7668484714e89971",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/21\/21-24.1792105546144.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקשרו",
+      "gloss": "تے سازش کیتی"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "نوکراں نے"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "اَمون دے"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اوہدے خلاف"
+    },
+    {
+      "surface": "וימיתו",
+      "gloss": "تے مار دتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بادشاہ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ نوں"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "اوہدے گھر وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T23:05:46.145659137Z",
+  "model": "glm-5.3"
+}

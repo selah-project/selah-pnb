@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 24:6",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רחים ורכב",
+      "rationale": "'چکی تے اُتلہ پتھر' — روايتی مترجم وچ 'تھلی تے اُپرلی چکی'؛ رכב شبد دا ٹھیک مطلب اَجھے نیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جان-بل اے — چکی دا مطلب روزی-روٹی، یعنی جیون دا سہارا"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חבל\/חובל",
+      "rationale": "اِوں ہی لفظ دو واری — گروی رکھنا تے گروی رکھن والا — چکر بنیا اے"
+    }
+  ],
+  "translation": "چکی دے پتھر جاں اوہدا اُتلہ پتھر گروی نئیں رکھیا جاوے، کیوں جو ⟨ایہو⟩ جان دا گروی رکھنا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "76336aa17e4422a892c2b47a6f36f236a34b4dede648dba622af7f8f1ad0534d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/24\/5-8.1792100314582.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "گروی رکھیا جاوے"
+    },
+    {
+      "surface": "רחים",
+      "gloss": "چکی"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "تے اُتلہ پتھر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ایہو⟩"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "گروی رکھنا"
+    }
+  ],
+  "timestamp": "2026-10-15T21:38:34.583709222Z",
+  "model": "glm-5.3"
+}

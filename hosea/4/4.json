@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 4:4",
+  "book": "hosea",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ועמך",
+      "rationale": "'تیرا قوم' — مخاطب کون؟ کجھ لوک 'میرا قوم' پڑھدے نیں (بِلا یاہوہ)، کجھ کاہن مخاطب مندے نیں"
+    },
+    {
+      "kind": "alternative",
+      "subject": "آکھݨہار کاہن اے",
+      "rationale": "و4:4 دا 'توں' کاہن ول اے — 4:6 دے 'میرا قوم' توں پہلاں"
+    }
+  ],
+  "translation": "پر کوئی بندہ جھگڑا نہ کرے، تے کوئی بندے نوں نہ سمجھائے، کیونکہ تیرا قوم اُوہناں وانگوں اے جیہڑے کاہن نال جھگڑدے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "34aac181ae38907c2b891af286b1ec679d93f45652b14bc2fd76eaef144fb98a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/hosea\/4\/1-4.1792110480502.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "پر"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "جھگڑا کرے"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "سمجھائے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندے نوں"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "تیرا قوم"
+    },
+    {
+      "surface": "כמריבי",
+      "gloss": "جھگڑدے نیں اوہناں وانگوں"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "کاہن"
+    }
+  ],
+  "timestamp": "2026-10-16T00:28:00.503493070Z",
+  "model": "glm-5.3"
+}

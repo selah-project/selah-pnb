@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 34:9",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "چھڈن",
+      "rationale": "לשלח اصل وِچ بھیجݨ\/رخصت کرݨ دا فعل اے، ایتھے غلام آزاد کرن دے سیاق وِچ"
+    },
+    {
+      "kind": "crux",
+      "subject": "עבד בם",
+      "rationale": "ایہدا مطلب غلاماں نوں کم لاؤݨا \/ غلامی وِچ رکھݨا اے — کئی ترجمے وکھرے پڑھدے نیں"
+    }
+  ],
+  "translation": "کہ ہر اِک اَدمی ⟨את⟩ اپنے غلام نوں تے ہر اِک اَدمی ⟨את⟩ اپنی کنیز نوں — عِبری تے عِبریہ — آزاد چھڈے، تاں جو کوئی یہودی اپنے بھرا اَدمی نوں غلام نہ بنائے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2387f239118f493a86a689b1d38bb3b492e3bd5cfb017d520ede28a8f5736ac9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/34\/9-12.1792108255034.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשלח",
+      "gloss": "چھڈن لئی"
+    },
+    {
+      "surface": "איש",
+      "gloss": "اَدمی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنے غلام نوں"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "اپنے غلام نوں"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "تے اَدمی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنی کنیز نوں"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "اپنی کنیز نوں"
+    },
+    {
+      "surface": "העברי",
+      "gloss": "عِبری"
+    },
+    {
+      "surface": "והעבריה",
+      "gloss": "تے عِبریہ"
+    },
+    {
+      "surface": "חפשים",
+      "gloss": "آزاد"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "تاں جو نہ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "غلام بنائے"
+    },
+    {
+      "surface": "בם",
+      "gloss": "اوہناں نوں"
+    },
+    {
+      "surface": "ביהודי",
+      "gloss": "کسے یہودی ولوں"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "اپنے بھرا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "اَدمی"
+    }
+  ],
+  "timestamp": "2026-10-15T23:50:55.035145704Z",
+  "model": "glm-5.3"
+}

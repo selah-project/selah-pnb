@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 27:25",
+  "book": "ezekiel",
+  "lang": "pnb",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שרותיך",
+      "rationale": "שור توں — 'تیرے پھیر والے' (سوداگری دے چکر)؛ KJV 'گانے' (משור שיר توں) پڑھدا اے، بہت گھٹ روایت وچ۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "سن",
+      "rationale": "عبرانی وِچ کوئی فعل نس اے؛ پنجابی جملے لئی 'سن' پایا گیا۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מערבך\/ערב",
+      "rationale": "مکرر 'سوداگری' (מערבِך) عبرانی وِچ ׶र-مِکھی موازنہ بناندی اے، پنجابی وِچ ہلکا رہِ گیا۔"
+    }
+  ],
+  "translation": "ترشیش دے جہاز تیری سوداگری وِچ تیرے پھیر والے سن؛ تے تُوں بھر گئی تے بہت جلال والی ہو گئی سمندراں دے وِچکار۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "acf9f92b1b59575e8050dd0b1863f855f17b12ce101e31419276513b29bb8fec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/27\/25-28.1792109790554.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אניות",
+      "gloss": "جہاز"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "ترشیش"
+    },
+    {
+      "surface": "שרותיך",
+      "gloss": "تیرے پھیر والے"
+    },
+    {
+      "surface": "מערבך",
+      "gloss": "تیری سوداگری"
+    },
+    {
+      "surface": "ותמלאי",
+      "gloss": "تے تُوں بھر گئی"
+    },
+    {
+      "surface": "ותכבدי",
+      "gloss": "جلال والی ہو گئی"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بہت"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "وِچکار"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "سمندراں دے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:16:30.554662552Z",
+  "model": "glm-5.3"
+}

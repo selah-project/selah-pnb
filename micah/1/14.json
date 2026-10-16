@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "micah 1:14",
+  "book": "micah",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אכזיב\/אכזב",
+      "rationale": "تھاں دا ناں اکزیب تے لفظ اکزّב (جھوٹھ) — عبرانی وِچ شبد-جوڑ اے؛ پنجابی وِچ صرف ہمسائی آواز رہِ جاندی اے۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "שלוחים",
+      "rationale": "شلُوحیم — ودیعاں\/تحفے (KJV) بمقابلہ طلاق نامہ\/رخصتی (ASV\/JPS)؛ مترجم وکھرے نیں۔"
+    }
+  ],
+  "translation": "ایس لئی تُوں موریشت-گت نوں ودیعاں دیویں؛ اکزیب دے گھر یِسرائیل دے بادشاہاں لئی جھوٹھ بن جانگے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9e58cdf6ab36079e078ebc23e8684a54a179cff85e840de61b7a24d1496642c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/micah\/1\/13-16.1792111025478.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ایس لئی"
+    },
+    {
+      "surface": "תתני",
+      "gloss": "تُوں دیویں"
+    },
+    {
+      "surface": "שלוחים",
+      "gloss": "ودیعاں"
+    },
+    {
+      "surface": "על",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "מורשת",
+      "gloss": "موریشت-"
+    },
+    {
+      "surface": "גת",
+      "gloss": "گت"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "אכזיב",
+      "gloss": "اکزیب"
+    },
+    {
+      "surface": "לאכזב",
+      "gloss": "جھوٹھ لئی"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "بادشاہاں لئی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-10-16T00:37:05.479627648Z",
+  "model": "glm-5.3"
+}

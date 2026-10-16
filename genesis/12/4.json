@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 12:4",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "پنج تے سَتّر ورھے",
+      "rationale": "اَورام دی عمر دِتی گئی اے — نکلن دے ویلے دی پک۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בן",
+      "rationale": "عبرانی 'پنج ورھیاں دا پُتر' آکھدا اے؛ پنجابی وِچ '…دا' رہِ گیا۔"
+    }
+  ],
+  "translation": "تے اَورام اوویں ٹُر پیا جیویں یاہوہ اوہدے نال آکھ چکیا سی، تے لوت ⟨את⟩ اوہدے نال ٹُریا؛ تے اَورام حاران توں نکلن ویلے پنج تے سَتّر ورھے دا سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "48dae3107b717a84488cb1e3640694173b75f57bbc269dd139f107c20e0f6a0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/12\/1-4.1792094915151.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "تے ٹُر پیا"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "اَورام"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اوہدے نال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "تے ٹُریا"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "لوت"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "لوت"
+    },
+    {
+      "surface": "ואברם",
+      "gloss": "تے اَورام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…دا"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ورھے"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "تے سَتّر"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ورھے"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "اوہدے نکلن ویلے"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "حاران توں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:08:35.152200542Z",
+  "model": "glm-5.3"
+}

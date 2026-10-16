@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "numbers 26:38",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "شجرہ نسب",
+      "rationale": "بنیامین دے خانداناں دی لسٹ — ناواں دا حساب۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "gentilic forms",
+      "rationale": "עברי gentilici (הבלעי وغیرہ) ਨੂੰ اسمِ نسب نال دੱਸਿਆ — 'بِلعا دے نیں' دا بول چال دا رستہ۔"
+    }
+  ],
+  "translation": "بِنیامین دے پُتر اوہناں دے خانداناں مطابق: بِلعا لئی بِلعی خاندان، اَشبیل لئی اَشبیلِی خاندان، اَحیرام لئی اَحیرامِی خاندان۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0322a3e10716f70bbf683998e426cac421e2bdcc62674d8414df09bfcc2b8d6c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/26\/37-40.1792099130319.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بِنیامین"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "اوہناں دے خانداناں مطابق"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "بِلعا لئی"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خاندان"
+    },
+    {
+      "surface": "הבלעי",
+      "gloss": "بِلعی"
+    },
+    {
+      "surface": "לאשבל",
+      "gloss": "اَشبیل لئی"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خاندان"
+    },
+    {
+      "surface": "האשבלי",
+      "gloss": "اَشبیلِی"
+    },
+    {
+      "surface": "לאחירם",
+      "gloss": "اَحیرام لئی"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خاندان"
+    },
+    {
+      "surface": "האחירמי",
+      "gloss": "اَحیرامِی"
+    }
+  ],
+  "timestamp": "2026-10-15T21:18:50.319877639Z",
+  "model": "glm-5.3"
+}

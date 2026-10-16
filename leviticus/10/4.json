@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 10:4",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "نیڑے آؤ",
+      "rationale": "موشے دے حکم دے شروع وِچ imperative ’نیڑے آؤ‘ — سِدھی سَدا۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "مِאֵת פְּנֵי הַקֹּדֶשׁ",
+      "rationale": "מֵאֵת اِتھے את צبر دا اے (مِן + את) — علامت رکھی گئی؛ کجھ Translate کرن والے علامت گوا دِندے نیں۔"
+    }
+  ],
+  "translation": "تے موشے نے مِیشائیل تے اِلتسَپان نوں، جیہڑے عُزییل دے پُتر سن — عُزییل اہرون دا چاچا سی — پکاریا، تے اوہناں نوں آکھیا: نیڑے آؤ، ⟨את⟩ اپنے بھراواں نوں مقدس تھاں دے ⟨את⟩ ساہمنے توں چُکو، پڑاؤ دے باہر لَے جاؤ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "582195237295acbea347a68e31c12f9e9633e618ef3b72694fd01e2dbc77d9b0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/10\/1-4.1792097640790.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "پکاریا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے نے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "مِیشائیل"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے نوں"
+    },
+    {
+      "surface": "אלצפן",
+      "gloss": "اِلتسَپان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "عُزییل دے"
+    },
+    {
+      "surface": "דד",
+      "gloss": "چاچا"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون دا"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "اوہناں نوں"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "نیڑے آؤ"
+    },
+    {
+      "surface": "שאو",
+      "gloss": "چُکو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنے بھراواں نوں"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "اپنے بھراواں نوں"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "توں ⟨את⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ساہمنے"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "مقدس تھاں دے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "الان"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "باہر"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "پڑاؤ دے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:54:00.791820356Z",
+  "model": "glm-5.3"
+}

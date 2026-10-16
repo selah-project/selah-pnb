@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 9:3",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "دئییاں",
+      "rationale": "נערתיה 'کُڑیاں\/نوجوان عورتاں' نیں، 'نوکرانیاں' کہنا کردار دا اندازہ اے"
+    },
+    {
+      "kind": "elision",
+      "subject": "גפי",
+      "rationale": "'پسّا\/جُسم' دا لفظ 'اُچیاں تھاواں' وِچ رل گیا — عام طور تے 'اُچی جھوکاں\/بلندیاں'"
+    }
+  ],
+  "translation": "اوہنے اپنیاں نوجوان دئییاں گھلیاں، اوہ پکاری، شہر دیاں سبھ توں اُچیاں تھاواں اُتے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2381893b98fd6be50dd58ce2817bdce99a32304759f48ab4b4543d752224f921",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/9\/1-4.1792114569466.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלחה",
+      "gloss": "گھلیاں"
+    },
+    {
+      "surface": "נערתיה",
+      "gloss": "اپنیاں نوجوان دئییاں"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "پکاری"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "גפי",
+      "gloss": "سبھ توں اُچیاں"
+    },
+    {
+      "surface": "מרומי",
+      "gloss": "اُچیاں تھاواں"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "شہر دیاں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:36:09.467748525Z",
+  "model": "glm-5.3"
+}

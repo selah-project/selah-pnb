@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 19:29",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תחלל",
+      "rationale": "חלל 'بیعزت کرنا\/حرام کرنا' — پرانیاں ترجمے 'دودھ بِلاؤنا' آکھدیاں نیں، کتاباں وِچ پوجا دی وکری لئی دسیا اے۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תזנה\/זמה",
+      "rationale": "زمین دی 'بدکاری' تے 'شر' — زناخ دی بولی کن ساری آیت وِچ پھیلی اے۔"
+    }
+  ],
+  "translation": "اپنی دھی نوں ⟨את⟩ بیعزت نا کرو کہ اوہ بدکاری کرے، تے ناں زمین بدکاری کرے، تے ناں زمین شر نال بھر جاوے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ef616b3eff02c2498714c46f417749b1024a742b318cd57e4444a415f5f0092d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/19\/29-32.1792097940153.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ناں"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "بیعزت کرو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنی دھی نوں"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "اپنی دھی نوں"
+    },
+    {
+      "surface": "להזנותה",
+      "gloss": "کہ اوہ بدکاری کرے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے ناں"
+    },
+    {
+      "surface": "תזנה",
+      "gloss": "بدکاری کرے"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "تے بھر جاوے"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "شر"
+    }
+  ],
+  "timestamp": "2026-10-15T20:59:00.153767737Z",
+  "model": "glm-5.3"
+}

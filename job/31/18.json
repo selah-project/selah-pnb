@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 31:18",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אנחנה — کون کسنوں راہ دسدا اے",
+      "rationale": "KJV\/ASV 'میں اوہنوں (بیوہ\/یتیم نوں) راہ دکھایا' مقابلے YLT 'میں راہ پایا' — عبرانی فعل دی نشانی دوویں پاسیوں پڑھی جا سکدی اے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ککھل",
+      "rationale": "בטן ماؤں دا پیٹ\/ککھل اے، صرف 'پیٹ' نئیں — زندگی دا اِسارا۔"
+    }
+  ],
+  "translation": "کیونجے میرے نِکےپن توں اوہ میرے نال پیو وانگ وڈا ہویا، تے میری ماں دی ککھل توں میں اوہنوں راہ دکھایا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ac5a585a0cb7c7cf53d43d252c4c6825a3972ab14fb327139150228dbc849521",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/31\/17-20.1792116261930.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "میرے نِکےپن توں"
+    },
+    {
+      "surface": "גדלני",
+      "gloss": "میرے نال وڈا ہویا"
+    },
+    {
+      "surface": "כאב",
+      "gloss": "پیو وانگ"
+    },
+    {
+      "surface": "ומבטן",
+      "gloss": "تے ککھل توں"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "میری ماں دی"
+    },
+    {
+      "surface": "אנחנה",
+      "gloss": "میں راہ دکھایا"
+    }
+  ],
+  "timestamp": "2026-10-16T02:04:21.930902354Z",
+  "model": "glm-5.3"
+}

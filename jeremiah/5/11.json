@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 5:11",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בגוד בגדו",
+      "rationale": "اِو صیغہ مطلق + فعل — اکو جڑ دو واری، زور ودھاؤن لئی"
+    },
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "پنجابی فعل نوں مددگی فعل منگدا اے جو عبرانی وِچ نئیں"
+    }
+  ],
+  "translation": "کیونکہ یِسرائیل دے گھر تے یہوداہ دے گھر نے خیانت کر کے میرے نال بدعہدی کیتی اے، یاہوہ آکھدا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d581c71825f6cfcabc96d1fd7c8efb59ff22f7d25e74fcf77d8d9cc995580cc2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/5\/9-12.1792107366069.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "בגוד",
+      "gloss": "خیانت کردے ہوئے"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "بدعہدی کیتی"
+    },
+    {
+      "surface": "בי",
+      "gloss": "میرے نال"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "تے گھر"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "آکھدا اے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-10-15T23:36:06.071056020Z",
+  "model": "glm-5.3"
+}

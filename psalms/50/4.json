@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 50:4",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "تاں جو",
+      "rationale": "لדין دے مقصد لئی پنجابی وِچ جوڑ دا واضح کرنا۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "heavens and earth",
+      "rationale": "اُتلے اسمان توں ہیٹھلی دھرتی — سارے جہان نوں گواہ بناؤن دی سدّ — سامنے آؤن والی گنتی (50:5 دی جمع) دی تیاری۔"
+    }
+  ],
+  "translation": "اوہ اُتلیاں اَسماناں نوں سدّیگا تے دھرتی نوں، ⟨تاں جو⟩ اوہدے قوم دا فیصلہ کرے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5b333b4986641e72bb7a769ca2765e7ff3ef82c51e3d22486fb9a306a4389c0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/50\/1-4.1792112593926.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יקרא",
+      "gloss": "سدّیگا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨تاں جو⟩ سدّےگا"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "اَسماناں نوں"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "اُتلیاں"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "دھرتی نوں"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "فیصلہ کرن لئی"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "اوہدے قوم دا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:03:13.927795609Z",
+  "model": "glm-5.3"
+}

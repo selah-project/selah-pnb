@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 28:17",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עשק בדם נפש",
+      "rationale": "کجھ ترجمے 'لہو دا قاتل' آکھدے نیں (دباؤ کرن والا)، کجھ 'لہو نال بھریا' — عبرانی شکول اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "بور",
+      "rationale": "בור گڈھا\/کھڈ اے — قبر نئیں، جیویں کجھ پراناں ترجمیاں نے لیا"
+    }
+  ],
+  "translation": "جو بندہ لہو دے دباؤ ہیٹھ ہووے، اوہ گڈھے تیک بھجدا اے؛ کوئی اوہدے اُتے ہتھ ناں دھرے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3181c1b9699163fd3d4412d818a1b05e9d3579f6e99f1224b2187ac140a7f885",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/28\/17-20.1792115221979.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "دباؤ ہیٹھ ہووے"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "لہو دے"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تیک"
+    },
+    {
+      "surface": "בור",
+      "gloss": "گڈھے"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "بھجدا اے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ناں"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "ہتھ دھرے"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوہدے اُتے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:47:01.979988811Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jonah 2:5",
+  "book": "jonah",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "کڈھ دتا گیا",
+      "rationale": "גרש طلاق تے ملک توں کڈھن دا لفظ اے — یونس دا اپنے آپ نوں یاہوہ دی نظر دے ملک توں کڈھیا ہویا سمجھنا"
+    },
+    {
+      "kind": "addition",
+      "subject": "آں",
+      "rationale": "پنجابی دی مددگار فعل-شکل جیہڑی عبرانی وِچ نئیں"
+    }
+  ],
+  "translation": "تے میں آکھیا: میں تیریاں اکھیاں توں ساہمنوں کڈھ دتا گیا آں، فیر وی میں تیرے پوتر ہیکل ول ویکھوں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8db7c2e82440410234718a588ea9ab66e213514c3311f2eafedae4ad8e5beceb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jonah\/2\/5-8.1792111023592.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "تے میں"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "נגרשתי",
+      "gloss": "کڈھ دتا گیا آں"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "توں ساہمنوں"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "تیریاں اکھیاں"
+    },
+    {
+      "surface": "אך",
+      "gloss": "فیر وی"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "ہور ویکھوں گا"
+    },
+    {
+      "surface": "להביט",
+      "gloss": "گھورنا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ول"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "ہیکل"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "تیرا پوتر"
+    }
+  ],
+  "timestamp": "2026-10-16T00:37:03.593059282Z",
+  "model": "glm-5.3"
+}

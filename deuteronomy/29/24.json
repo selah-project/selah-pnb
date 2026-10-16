@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 29:24",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "על אשר",
+      "rationale": "the preposition+relative pair ('on account of the fact that') collapses into the causal bracket ⟨کیوں جے⟩"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כרת ברית",
+      "rationale": "'cut a covenant' — Punjabi must say کیتا؛ the cutting image is lost"
+    }
+  ],
+  "translation": "تے آکھݨ گے: ⟨کیوں جے⟩ اوہناں چھڈ دتا ⟨את⟩ عہد یاہوہ، اُنہاں پیؤآں دے ایلوہیم دا، جیہڑا اُس نے اوہناں نال کیتا سی، جد ⟨את⟩ اوہناں نوں مِتصرایم دی دھرتی توں کڈھدا سی،",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "adddd89617aba5d895e8bed54618a4dbde4515c0fe805af950ce6a45592b9aca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/29\/21-24.1792100492123.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "تے آکھݨ گے"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨کیوں جے⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨—⟩"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "اوہناں چھڈ دتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عہد"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "عہد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "اُنہاں پیؤآں دے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "کیتا سی"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "اوہناں نال"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "کڈھدا سی"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ اوہناں نوں",
+      "marks": "اوہناں نوں"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "دھرتی توں"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم"
+    }
+  ],
+  "timestamp": "2026-10-15T21:41:32.125136484Z",
+  "model": "glm-5.3"
+}

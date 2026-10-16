@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 1:27",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בבא…בבא",
+      "rationale": "'آؤن' دا دو واری دُہراؤ — طوفان دے آؤن دی دو بُنیاد، پنجابی وِچ 'جد…آوے' دے دو وارالے نال رکھیا۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "جد",
+      "rationale": "عِبرانی وِچ 'جد' دا لفظ نئیں، صرف ב+בוא دی بُنت — پنجابی اِکو وقت منگدا اے۔"
+    }
+  ],
+  "translation": "جد تہاڈا ڈر تُفان وانگر آوے، تے تہاڈی تباہی سمُندری طوفان وانگر پُہنچے، جد تہاڈے اُتے مصیبت تے تنگی آوے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ad5780c4251f8abf695d15eff359aaddf1e0af7378387140c35afecddcf0a001",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/1\/25-28.1792114359845.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בבא",
+      "gloss": "آوے"
+    },
+    {
+      "surface": "כשאוה",
+      "gloss": "تُفان وانگر"
+    },
+    {
+      "surface": "פחדכם",
+      "gloss": "تہاڈا ڈر"
+    },
+    {
+      "surface": "ואידכם",
+      "gloss": "تے تہاڈی تباہی"
+    },
+    {
+      "surface": "כסופה",
+      "gloss": "سمُندری طوفان وانگر"
+    },
+    {
+      "surface": "יאתה",
+      "gloss": "پُہنچے"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "آوے"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "تہاڈے اُتے"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "مصیبت"
+    },
+    {
+      "surface": "וצוקה",
+      "gloss": "تے تنگی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:32:39.846108819Z",
+  "model": "glm-5.3"
+}

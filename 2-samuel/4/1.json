@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 4:1",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "וירפו ידיו",
+      "rationale": "عبرانی وچ 'اوہدے ہتھ ڈھیلے ہو گئے' — ہمت ٹُٹن دی صورتگل دا چِتر"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נבהلו",
+      "gloss-note": "",
+      "rationale": "کوئی گلاس نئیں"
+    }
+  ],
+  "translation": "تے شاؤل دے پُتر نے سُنیا کہ اَونیر حیبرون وِچ مر گئیا، تے اوہدیاں ہتھ ڈھیلے ہو گئے، تے سارے یِسرائیل گھبرا گئے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "dc27d0b8428cea1b88cd4cc8b5cb9ee2e05f7a68bd59b38dd3951746b09ae726",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/4\/1-4.1792103157291.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "تے سُنیا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مر گئیا"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "اَونیر"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "حیبرون وِچ"
+    },
+    {
+      "surface": "וירפו",
+      "gloss": "تے ڈھیلے ہو گئے"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "اوہدیاں ہتھ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سارے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "گھبرا گئے"
+    }
+  ],
+  "timestamp": "2026-10-15T22:25:57.292030574Z",
+  "model": "glm-5.3"
+}

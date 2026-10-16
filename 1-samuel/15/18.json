@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 15:18",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "حرام کرنا",
+      "rationale": "חרם دا مطلب 'حرام\/مُکا دین والی وقف شدہ چیز' اے — اِک سُچجا پنجابی نئیں"
+    },
+    {
+      "kind": "you",
+      "subject": "شاؤل ول",
+      "rationale": "ایہ یاہوہ دا حکم شاؤل ول اے، شمُوایل دی زبان وِچ دُہرایا ہویا"
+    }
+  ],
+  "translation": "تے یاہوہ نے تینوں رستے اُتے گھلیا تے آکھیا: جا، تے ⟨את⟩ گناہگاراں نوں — ⟨את⟩ عمالیک نوں — حرام کر دے، تے اوہدے نال لڑ، تیکے اوہناں نوں ⟨את⟩ مُکا نہ دیویں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2f9cf17a09c57d8f1ec8336cb077ff08fa7e0545d3592f759cedaad9bc3e51c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/15\/17-20.1792102600183.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלחך",
+      "gloss": "تے گھلیا تینوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ نے"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "رستے اُتے"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "جا"
+    },
+    {
+      "surface": "והחרמתה",
+      "gloss": "تے حرام کر دینا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گناہگاراں نوں"
+    },
+    {
+      "surface": "החטאים",
+      "gloss": "گناہگاراں نوں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عمالیک نوں"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "عمالیک نوں"
+    },
+    {
+      "surface": "ונלחמת",
+      "gloss": "تے لڑنا"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوہدے نال"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تیکے"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "مُکا دینا اوہناں نوں"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "اوہناں نوں"
+    }
+  ],
+  "timestamp": "2026-10-15T22:16:40.184199071Z",
+  "model": "glm-5.3"
+}

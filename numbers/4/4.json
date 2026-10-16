@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 4:4",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "عبرانی وِچ کوئی کپلا نئیں، پنجابی نوں 'اے' چاہیدا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "קדש הקדשים",
+      "rationale": "لفظی 'پوتراں دا پوتر' — سبھ توں پوتر شیواں (کے جے وی) بمقابلہ مقدس‌المقدس تھاں (یلت)"
+    }
+  ],
+  "translation": "ایہہ قیہات دے پُتراں دی خدمت اے مِلن دے خیمے وِچ: پوتراں دا پوتر۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "57300b1c0432575033b4d353c38165458a8d51ccacfdb52d04a6c05feee2fde0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/4\/1-4.1792098299897.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "خدمت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قیہات"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "خیمے وِچ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "مِلن دے"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پوتراں دا"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "پوتر"
+    }
+  ],
+  "timestamp": "2026-10-15T21:04:59.898043131Z",
+  "model": "glm-5.3"
+}

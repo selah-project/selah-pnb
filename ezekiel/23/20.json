@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 23:20",
+  "book": "ezekiel",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "پلگشیم",
+      "rationale": "'رکھیلی\/کانچن' بمقابلہ KJV 'paramours' — عبرانی جمع شکل نسائی اے پر مطلب اوہناں دے مرد ساتھی"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וזרמת…זרמתם",
+      "rationale": "'جھرنا…اوہناں دا جھرنا' — اوہو شبد تکرار، چتّر تصویر جُٹے رکھی اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "زرمہ",
+      "rationale": "لفظی مطلب 'جوڑ دا وگنا' — گنجلک پنجابی 'جھرنا' رکھیا، خام تصویر نہیں چھپائی"
+    }
+  ],
+  "translation": "تے اوہ اوہناں دے رکھیلیاں اُتے رجھ گئی، جیہناں دا ماس خچراں دے ماس ورگا اے، تے گھوڑیاں دے جھرنے ورگا اوہناں دا جھرنا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e8bced39adb3596534f00a4184fafed1cde2a15a62220c9996dbf1342702bb30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/23\/17-20.1792109670938.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותעגבה",
+      "gloss": "تے رجھ گئی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "پלگشیهم",
+      "gloss": "اوہناں دے رکھیلیاں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہناں دا"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ماس"
+    },
+    {
+      "surface": "חמורים",
+      "gloss": "خچراں دے"
+    },
+    {
+      "surface": "בשרם",
+      "gloss": "اوہناں دا ماس"
+    },
+    {
+      "surface": "וזרמת",
+      "gloss": "تے جھرنا"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "گھوڑیاں دے"
+    },
+    {
+      "surface": "זרמתם",
+      "gloss": "اوہناں دا جھرنا"
+    }
+  ],
+  "timestamp": "2026-10-16T00:14:30.939734013Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 29:17",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ہونے چاہیدے",
+      "rationale": "عبرانی وِچ کوئی فعل نئیں، صرف گنتی دی لسٹ اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "قربانیاں دی گنتی",
+      "rationale": "بارہ بیل، دو مینڈھے، چودا لیلے — دن بھر دی گنتی"
+    },
+    {
+      "kind": "idiom",
+      "subject": "שנים עשר",
+      "rationale": "عبرانی 'دو-دس' = بارہ؛ چودا 'چار-دس'"
+    }
+  ],
+  "translation": "تے دوجے دن بارہ بیل، بھینساں دے پُتر، دو مینڈھے، چودا لیلے، اِک وریہ دے پُتر، بے عیب ⟨ہونے چاہیدے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0c452f125fea01270e1d8a885bfd3ccb1d2065c7721760ef7b0476a3048743ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/29\/17-20.1792099228143.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "تے دوجے دن"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دوجے"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "بیل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "بھینساں دے"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "بارہ ⟨دو-دس⟩"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "مینڈھے"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "لیلے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "اِک وریہ دے"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چار"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "چودا ⟨چار-دس⟩"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "بے عیب"
+    }
+  ],
+  "timestamp": "2026-10-15T21:20:28.143875542Z",
+  "model": "glm-5.3"
+}

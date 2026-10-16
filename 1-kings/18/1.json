@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 18:1",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "میں",
+      "rationale": "ואתנה وِچ کوئی ضمیر نئیں؛ پنجابی وچ بولن والا صاف کرن لئی 'میں' پائی گئی"
+    },
+    {
+      "kind": "elision",
+      "subject": "פני",
+      "rationale": "'دھرتی دے اُتے' وِچ 'تھوں' (چہرہ) دا مطلب کھٹوٹھ وِچ رَل گیا"
+    }
+  ],
+  "translation": "تے بہت دناں مگروں تیسری سال وِچ یاہوہ دا بچن اِلیاہو اُتے آیا ⟨جو آکھدا سی⟩: جا، آحاب اُتے ظاہر ہو، تے اِی میں دھرتی دے اُتے مینہہ دیواں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "781c82a8b834ea216c90b635122e729291a135ea44a2d53a3a05042c8dcdc845",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/18\/1-4.1792104625312.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے ہویا"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دناں"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "بہت"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "تے بچن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "اِلیاہو"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "سال وِچ"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "تیسری"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨جو آکھدا سی⟩"
+    },
+    {
+      "surface": "לך",
+      "gloss": "جا"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "ظاہر ہو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "آحاب"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "تے اِی میں دیواں گا"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "مینہہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "פני",
+      "gloss": "تھوں"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "دھرتی دے"
+    }
+  ],
+  "timestamp": "2026-10-15T22:50:25.313175098Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 16:2",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "عبرانی وِچ کوئی فعل نئیں — ‘ویہہ سال دا پُتر اَخاز’ پنجابی جملے لئی ‘سی’ منگدا اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "عمر تے راج دی مدت",
+      "rationale": "ویہہ سال دی عمر، سولہاں سال راج — بادشاہواں دے سالنامے دی گنتی"
+    },
+    {
+      "kind": "elision",
+      "subject": "‘پیو دے وانگوں’ نوں پورا کرن والا فعل",
+      "rationale": "عبرانی صرف ‘کِداوِد اَویو’ آکھدا اے؛ ‘راج کیتا’ وانگوں اوہی جملہ منگدا اے"
+    }
+  ],
+  "translation": "ویہہ سال دا پُتر اَخاز سی جدوں اوہ ⟨بادشاہ بنیا⟩، تے چھ ⟨دس⟩ سال اوہ یروشلایم وِچ راج کیتا، تے اوہنے یاہوہ اپنے ایلوہیم دیاں اکھیاں وِچ جیہڑا سِدھا اے اوہ نئیں کیتا، اپنے پیو داوِد وانگوں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2885c6112a28c3a4151c43dd7cce3c0061227f8b27cab4c1752cb19f37a4957c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/16\/2-3.1792123822573.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ویہہ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "اَخاز"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "بادشاہ بننے وِچ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "تے چھ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دس"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "راج کیتا"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "یروشلایم وِچ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کیتا"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "سِدھا"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "اکھیاں وِچ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "اپنے ایلوہیم"
+    },
+    {
+      "surface": "כדוד",
+      "gloss": "داوِد وانگوں"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "اپنے پیو"
+    }
+  ],
+  "timestamp": "2026-10-16T04:10:22.574016726Z",
+  "model": "glm-5.3"
+}

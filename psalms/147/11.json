@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 147:11",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اپنے",
+      "rationale": "יראיו دی ضمیری جوڑ عبرانی وِچ ہے، پنجابی وِچ وکھ لفظ منگدا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "خیسِد",
+      "rationale": "Tier-2 لفظ، ⟨⟩ وِچ وضاحت دتی گئی"
+    }
+  ],
+  "translation": "یاہوہ ⟨את⟩ اپنے ڈرن والیاں نوں پسند کردا اے، ⟨את⟩ اوہناں نوں جِہڑے اوہدے خیسِد ⟨رحمت، وفاداری⟩ دی اُڈیک کردے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2e9f803065a108849f0e10ecd8bdcca073963c32aaa21cb0542e9d4cfd08cb3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/147\/9-12.1792114243294.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רוצה",
+      "gloss": "پسند کردا اے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنے ڈرن والیاں نوں"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "اپنے ڈرن والیاں نوں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہناں نوں جِہڑے اُڈیک کردے نیں"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "اوہناں نوں جِہڑے اُڈیک کردے نیں"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "اوہدے خیسِد دی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:30:43.295260781Z",
+  "model": "glm-5.3"
+}

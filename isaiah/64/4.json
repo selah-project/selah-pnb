@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 64:4",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בהם עולם",
+      "rationale": "'اِنہاں وِچ ہمیشہ رہے' بمقابلہ KJV 'اوہناں وِچ ⟨رہنا⟩ بند اے' — عبرانی صیغہ گول گھمدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עולם",
+      "rationale": "ਪੰਜਾਬੀ 'ہمیشہ' — عبرانی lʿōlām 'لُکا ہویا دُور' توں وقت دا دائرہ"
+    }
+  ],
+  "translation": "تُوں ⟨את⟩ خوش رہن والے تے نیکی کرن والے نُوں ملیندا اے، اوہ تیرے رستیاں وِچ تیرا یاد رکھدے نیں — دِیکھ، تُوں غصّے وِچ آیا تے اسیں پاپ کیتا؛ اِنہاں ⟨رستیاں⟩ وِچ ⟨اسان⟩ ہمیشہ رہے، تے اسیں بچائے جاوانگے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fe4dfc82da3d97c8f4d128d680314a8745bc027acab1784efe46624721794721",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/64\/1-4.1792107070971.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פגעת",
+      "gloss": "تُوں ملیندا اے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خوش رہن والے تے نیکی کرن والے"
+    },
+    {
+      "surface": "שש",
+      "gloss": "خوش رہن والے"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "تے کرن والے"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "نیکی"
+    },
+    {
+      "surface": "בדרכיך",
+      "gloss": "تیرے رستیاں وِچ"
+    },
+    {
+      "surface": "יזכרוך",
+      "gloss": "تیرا یاد رکھدے نیں"
+    },
+    {
+      "surface": "הן",
+      "gloss": "دِیکھ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُوں"
+    },
+    {
+      "surface": "קצפת",
+      "gloss": "غصّے وِچ آیا"
+    },
+    {
+      "surface": "ונחטא",
+      "gloss": "تے اسیں پاپ کیتا"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "اِنہاں وِچ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "ונושע",
+      "gloss": "تے اسیں بچائے جاوانگے"
+    }
+  ],
+  "timestamp": "2026-10-15T23:31:10.972281233Z",
+  "model": "glm-5.3"
+}

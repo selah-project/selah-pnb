@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 40:12",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אהל מועד",
+      "rationale": "'مِلن دا خیمہ' — مقرر وقت\/مِلن دی جگہ؛ ریتی ' اجتماعی خیمہ' بھاؤ گوا دِتا"
+    }
+  ],
+  "translation": "تے تُوں ⟨את⟩ اہرون نوں تے ⟨את⟩ اُسدے پُتراں نوں مِلن دے خیمے دے دُوارے تے لیاؤں، تے تُوں ⟨את⟩ اُہناں نوں پانی نال دھوویں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8888f8bb1af7a7722eddddf8d16cadc26a223200a9093135e5d332c47d547d9c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/40\/9-12.1792097320812.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "تے تُوں لیاؤں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اہرون"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون نوں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "اُسدے پُتر"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "اُسدے پُتراں نوں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تک"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "دُوارے"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمے دے"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "مِلن دے"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "تے تُوں دھوویں"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ اُہناں نوں",
+      "marks": "پانی"
+    },
+    {
+      "surface": "במים",
+      "gloss": "پانی نال"
+    }
+  ],
+  "timestamp": "2026-10-15T20:48:40.813531726Z",
+  "model": "glm-5.3"
+}

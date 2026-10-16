@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 15:5",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בעיני יהוה",
+      "rationale": "لفظی 'یاہوہ دیاں اکھاں وِچ' — یعنی اوہدے پیش نظر سِدھا"
+    },
+    {
+      "kind": "crux",
+      "subject": "בדבר אוריה",
+      "rationale": "'اُوریاہ دی گل' — داوِد دے سارے جیون اُتے اِکو اِستثنا، بیت-شبع دا معاملہ بِناں ناں لئی"
+    }
+  ],
+  "translation": "کیونکہ داوِد نے ⟨את⟩ اوہ سِدھا کیتا جو یاہوہ دیاں اکھاں وِچ اے، تے اوہ اوہناں سب توں نئیں مُڑیا جو اوہ اوہنوں حکم کردا سی، ساریاں دِناں اپنی زندگی دے — صرف اُوریاہ حِٹی دی گل وِچ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "592292ba27bbb9b76e475724a09624f5659062f79c10a8e0ba7b47de84c8c75f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/15\/5-8.1792104585466.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کیتا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہ سِدھا"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "سِدھا"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "اکھاں وِچ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "סר",
+      "gloss": "مُڑیا"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "سب توں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "اوہنوں حکم کردا سی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساریاں"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "دِناں"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "اپنی زندگی دے"
+    },
+    {
+      "surface": "רק",
+      "gloss": "صرف"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "گل وِچ"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "اُوریاہ"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "حِٹی"
+    }
+  ],
+  "timestamp": "2026-10-15T22:49:45.466863059Z",
+  "model": "glm-5.3"
+}

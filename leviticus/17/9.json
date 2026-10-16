@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 17:9",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ונכרת",
+      "rationale": "پٹیوَع — 'کٹیا جائے گا' قوم وِچوں کڈھن دا عبرانی محاورہ اے، سُچیا کٹائی نئیں"
+    },
+    {
+      "kind": "measurement",
+      "subject": "עמיו",
+      "rationale": "'اپنی قوم وِچوں' — قوم دا ہندارہ، آیت دی سزا ایس حساب نال اے"
+    }
+  ],
+  "translation": "تے جے اوہ مِلن دے خیمے دے دوارے ول ⟨את⟩ اوہنوں نئیں لیاؤندا، یاہوہ لئی اوہنوں کرن لئی، تاں اوہ بندہ اوہ، اپنی قوم وِچوں کٹیا جائے گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f19a24019036afff89b4c8810e97f6bf4a2359bc1cad1336dfeb65665e507cfe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/17\/9-12.1792097826535.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "تے ول"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "دوارہ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمے دا"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "مِلن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יביאנו",
+      "gloss": "لیاؤندا"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "کرن لئی"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "اوہنوں (قربانی نوں)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ لئی"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "تے کٹیا جائے گا"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "اوہ بندہ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اوہُو"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "اپنی قوم وِچوں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:57:06.536479735Z",
+  "model": "glm-5.3"
+}

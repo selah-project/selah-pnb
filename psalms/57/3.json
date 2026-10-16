@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "دی طرف",
+      "rationale": "عبرانی ל- ادات اے؛ پنجابی جملہ لئی ⟨دی طرف⟩ جوڑنا پیا۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "גמר עלי",
+      "rationale": "'میرے اُتے پورا کردا اے' — کیہڑی شے پوری ہوندی اے اوہ متن نئیں دسدا؛ وکھو وکھ ترجمے 'سب کجھ' جاں 'اپنا وعدہ' پا دیندے نیں۔"
+    }
+  ],
+  "translation": "میں پکاریاں گا ایلوہیم علیون ⟨دی طرف⟩، ایل ⟨دی طرف⟩ جو میرے اُتے ⟨اپنا کم⟩ پورا کردا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d9e16379a7b9d56d469c1d2d3802e3db3a926d926af845591578736d2477456a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/57\/1-4.1792112732624.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "میں پکاریاں گا"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ایلوہیم ⟨دی طرف⟩"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "علیون ⟨سبتوں اُچا⟩"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ایل ⟨دی طرف⟩"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "پورا کردا اے"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "میرے اُتے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:05:32.625392788Z",
+  "model": "glm-5.3"
+}

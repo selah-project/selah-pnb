@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 19:9",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جان دی طاقت اے، صرف 'روح' نئیں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מצור\/מצוק",
+      "rationale": "گھیرا\/تنگی — اکو جذر، آواز دی تلوار"
+    }
+  ],
+  "translation": "تے میں اوہناں نوں کھواواں گا ⟨את⟩ اوہناں دے پُتراں دا ماس تے ⟨את⟩ اوہناں دیاں دھیاں دا ماس، تے ہر بندہ اپنے یار دا ماس کھاوےگا، اوس گھیرے تے تنگی وِچ جیہڑی اوہناں دے ویری تے اوہناں دی جان دے کھوجی اوہناں نوں دین گے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8582fbfb4effbbd0d47082f303133cff0de2b57258bb9c7f90f9bae10d4fb959",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/19\/9-12.1792107827082.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והאכלתים",
+      "gloss": "تے کھواواں گا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پُتراں دا ماس"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ماس"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "اوہناں دے پُتراں دا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "دھیاں دا ماس"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ماس"
+    },
+    {
+      "surface": "בנתיהם",
+      "gloss": "اوہناں دیاں دھیاں دا"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "تے ہر بندہ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ماس"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "اپنے یار دا"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "کھاوےگا"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "گھیرے وِچ"
+    },
+    {
+      "surface": "ובמצוק",
+      "gloss": "تے تنگی وِچ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "יציקו",
+      "gloss": "دین گے"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اوہناں نوں"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "اوہناں دے ویری"
+    },
+    {
+      "surface": "ומבקשי",
+      "gloss": "تے کھوجی"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "اوہناں دی جان دے"
+    }
+  ],
+  "timestamp": "2026-10-15T23:43:47.082949842Z",
+  "model": "glm-5.3"
+}

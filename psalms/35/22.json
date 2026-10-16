@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 35:22",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "یاہوہ",
+      "rationale": "سِدھا وِرلا یاہوہ نوں، منگ کرے اوہ چُپ نہ رہے"
+    },
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "پنجابی پکار لئی حروفِ ندا، عبرانی وِچ نئیں"
+    }
+  ],
+  "translation": "تُوں نے ویکھیا، اے یاہوہ! چُپ نہ رہّ، اے ادونای! میرے توں دور نہ ہو۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "62a9386b2fa9834f237bbb5a747f8a9d777c61801934371a508b20b182a65367",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/35\/21-24.1792112260865.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "تُوں نے ویکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "چُپ نہ رہّ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اے ادونای"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "دور نہ ہو"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "میرے توں"
+    }
+  ],
+  "timestamp": "2026-10-16T00:57:40.865660787Z",
+  "model": "glm-5.3"
+}

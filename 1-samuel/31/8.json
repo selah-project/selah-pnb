@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 31:8",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "مارے ہوئے",
+      "rationale": "החללים دا مول مطلب 'سور دِتے ہوئے' — برچھی\/تلوار نال کھولھے"
+    }
+  ],
+  "translation": "تے اگلے دِن ہویا، تے پلشتیم مارے ہوئیاں دی لُٹّ لئی آئے، تے اوہناں نوں شاؤل تے اوہدے تن پُتر ڈِگّے ہوئے مِلے، گِلبوع پہاڑ اُتے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d8cff716764cabed990744702f92419a734b56b059091e43fa31bed8786a5a1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/31\/5-8.1792103105565.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے ہویا"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "اگلے دِن"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "آئے"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "پلشتیم"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "لُٹّ لئی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مارے ہوئیاں نوں"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "مارے ہوئے"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "مِلے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شاؤل نوں"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اوہدے تن پُتراں نوں"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "تن"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "ڈِگّے ہوئے"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "پہاڑ اُتے"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "گِلبوع"
+    }
+  ],
+  "timestamp": "2026-10-15T22:25:05.566706583Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 20:26",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כהן לדוד",
+      "rationale": "KJV 'chief ruler' دی تھاں — عبرانی سافھ آکھدا اے 'داوِد دا کاہن'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "היארי",
+      "rationale": "یائیری — تنخ وِچ صرف ایتھے اِک واری"
+    }
+  ],
+  "translation": "تے یائیری عیرا وی داوِد دا کاہن سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ba9cb8e86a61b0d3b346c61ce16820ced44238f7f7bbd60c4d60111fd7062bd9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/20\/25-26.1792103634552.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "تے … وی"
+    },
+    {
+      "surface": "עירא",
+      "gloss": "عیرا"
+    },
+    {
+      "surface": "היארי",
+      "gloss": "یائیری"
+    },
+    {
+      "surface": "היה",
+      "gloss": "سی"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد دا"
+    }
+  ],
+  "timestamp": "2026-10-15T22:33:54.553555312Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezra 8:13",
+  "book": "ezra",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אחרנים",
+      "rationale": "'پچھلے' (آخری ٹبر) جاں 'چھوٹے' — KJV 'آخری پُتر'، YLT 'چھوٹے پُتر'۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "سن",
+      "rationale": "عبرانی کریا اے ای نئیں، پنجابی وچ 'سن' دی لوڑ پئی۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "سٹھ نَر",
+      "rationale": "گنتی — قبیلے دی لسٹ وِچ نراں دی گنتی۔"
+    }
+  ],
+  "translation": "تے اَدونِیقام دے پچھلے پُتراں وِچوں — تے ایہہ اوہناں دے ناں نیں — ایلیپھلیت، یِعِیایل تے شِمعیاہ، تے اوہناں نال سٹھ نَر سن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "39fcbbadd3d8b8ef28363f7042fd0f00d5c7bce5af1fc2e0660d2344f4cd4a1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezra\/8\/13-16.1792119372308.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "تے پُتراں وِچوں"
+    },
+    {
+      "surface": "אדניקם",
+      "gloss": "اَدونِیقام"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "پچھلے"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "تے ایہہ"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "اوہناں دے ناں"
+    },
+    {
+      "surface": "אליפלט",
+      "gloss": "ایلیپھلیت"
+    },
+    {
+      "surface": "יעיאל",
+      "gloss": "یِعِیایل"
+    },
+    {
+      "surface": "ושמעיה",
+      "gloss": "تے شِمعیاہ"
+    },
+    {
+      "surface": "ועמהם",
+      "gloss": "تے اوہناں نال"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "سٹھ"
+    },
+    {
+      "surface": "הזכרים",
+      "gloss": "نَر"
+    }
+  ],
+  "timestamp": "2026-10-16T02:56:12.309396155Z",
+  "model": "glm-5.3"
+}

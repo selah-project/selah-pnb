@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 27:6",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ונעתרות",
+      "rationale": "פעתר = 'وادھو\/بہت زیادہ' — KJV دی 'dhoka دین والے' روایت توں وکھرا، شکل دا مطلب 'ڈھیر سارے' اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תוכחת\/נאמנים",
+      "rationale": "پچھلی آیت نال جوڑ: کھلی جھڑک دے زخم ہی بھروستے نیں — پنجابی وِچ ایہہ ترتیب دا رشتہ رہندا اے"
+    }
+  ],
+  "translation": "پیار کرن والے دے زخم بھروسے والے نیں، تے دشمن دے چُمّے وادھو نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ecf70c51ac4394523a4be221211784d1789f6bf649666812e138ca37d67919a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/27\/5-8.1792115202028.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נאמנים",
+      "gloss": "بھروسے والے نیں"
+    },
+    {
+      "surface": "פצעי",
+      "gloss": "زخم"
+    },
+    {
+      "surface": "אוהב",
+      "gloss": "پیار کرن والے دے"
+    },
+    {
+      "surface": "ונעתרות",
+      "gloss": "تے وادھو"
+    },
+    {
+      "surface": "נשיקות",
+      "gloss": "چُمّے"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "دشمن دے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:46:42.029122025Z",
+  "model": "glm-5.3"
+}

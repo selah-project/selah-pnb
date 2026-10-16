@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 143,
+  "ref": "psalms 119:143",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מצאוני",
+      "rationale": "לفظی 'می نوں لبھیا' — پنجابی وِچ 'می کول آئیاں' قدرتی بولی اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שעשועים",
+      "rationale": "לفظی کھیڈݨ والیاں شیواں\/آنند — جمع دی شکل، اِکو 'آنند' رکھیا"
+    }
+  ],
+  "translation": "تنگی تے دل-دبھوئی می کول آئیاں، تیرے حکماں والی گل میرا آنند اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1c2157d7ff2e5881feaa9c174cea9b86260ba53b51d8368de75113181b382ee4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/119\/141-144.1792113895326.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צר",
+      "gloss": "تنگی"
+    },
+    {
+      "surface": "ומצוק",
+      "gloss": "تے دل-دبھوئی"
+    },
+    {
+      "surface": "מצאוני",
+      "gloss": "می کول آئیاں"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "تیرے حکماں والی گل"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "میرا آنند"
+    }
+  ],
+  "timestamp": "2026-10-16T01:24:55.326881825Z",
+  "model": "glm-5.3"
+}

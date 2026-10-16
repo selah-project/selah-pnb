@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 1:35",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אם יראה",
+      "rationale": "قسمت دا قالب: 'جے … ویکھے' دا مطلب 'ہرگز نہ ویکھے' — نفی لُکی ہوئی اے، ⟨نئیں⟩ نال دسّیا"
+    }
+  ],
+  "translation": "جے ایہناں بندیاں وِچوں کوئی بندا — اِس بری نسلی دا — اُس چنگی ⟨את⟩ زمین نوں ویکھے گا ⟨نئیں⟩، جیہڑی میں قسمت کھادی سی کہ تُہاڈے پیؤاں نوں دیواں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5dc452bdaab97c29b94c3dff9d95f836b91d055c9d319ac542689dc77794cd1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/1\/33-36.1792099528795.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ویکھے گا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "کوئی بندا"
+    },
+    {
+      "surface": "באנשים",
+      "gloss": "ایہناں بندیاں وِچوں"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ایہناں"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "بری"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اِس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اُس چنگی زمین"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "چنگی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "میں قسمت کھادی سی"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "دیواں گا"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "تُہاڈے پیؤاں نوں"
+    }
+  ],
+  "timestamp": "2026-10-15T21:25:28.796204977Z",
+  "model": "glm-5.3"
+}

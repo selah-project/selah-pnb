@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 15:30",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פיו — کِدے دا مونہہ",
+      "rationale": "کیا ایہ اوہدے (بندے) دا مونہہ اے (KJV) یا خدا دا (ASV\/JPS بمعنی 'اُس دے')؛ عبرانی صرف 'اُس دے مونہہ دا' اے، صیغہ دوہراں دسدا اے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "רוח — ساہ",
+      "rationale": "רוח 'ہوا\/ساہ\/روح' دوویں اے؛ ایتھے 'ساہ' رکھیا، صورت نہیں نرم کیتی۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יסור … ויסור",
+      "rationale": "اِکو لفظ 'سُور' آیت دے شروع تے انت اُتے — جُڑوں والی سطر، پنجابی وِچ پھیکی پے جاندی اے۔"
+    }
+  ],
+  "translation": "اوہ ہنیرے توں نئیں ہٹےگا، اُس دی کونپل لوء سُکا دیسی، تے اُس دے مونہہ دے ساہ نال ہٹ جاوےگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "69403f399e61d840e3d98967f0f13daefcffbf2a7cbcfe2b65f15ffda7a26b21",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/15\/30-31.1792124286172.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "ہٹےگا"
+    },
+    {
+      "surface": "מני",
+      "gloss": "توں"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ہنیرے"
+    },
+    {
+      "surface": "ינקתו",
+      "gloss": "اُس دی کونپل"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "سُکا دیسی"
+    },
+    {
+      "surface": "שלהבת",
+      "gloss": "لوء"
+    },
+    {
+      "surface": "ויסור",
+      "gloss": "تے ہٹ جاوےگا"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "ساہ نال"
+    },
+    {
+      "surface": "פיو",
+      "gloss": "اُس دے مونہہ دا"
+    }
+  ],
+  "timestamp": "2026-10-16T04:18:06.172791753Z",
+  "model": "glm-5.3"
+}

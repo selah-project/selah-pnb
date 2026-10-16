@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 16:6",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨سن⟩",
+      "rationale": "عبرانی وِچ فعل نئیں — سِرلسٹ سطر اے، پنجابی جملے لئی فعل چُکیا"
+    }
+  ],
+  "translation": "تے اوہنے پتھراں نال ⟨את⟩ داوِد نوں تے ⟨את⟩ بادشاہ داوِد دے سارے غلاماں نوں سُٹیا؛ تے سارا قوم تے سارے بہادر سپاہی اوہدے سجّے پاسے تے کھبّے پاسے ⟨سن⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e8332458151d5a269c83129044611fd8d23856330c98a48e25b50557fd2ac38d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/16\/5-8.1792103514764.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסקל",
+      "gloss": "تے سُٹیا"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "پتھراں نال"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داوِد"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "سارے غلام"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "غلام"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سارا"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سارے"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "بہادر سپاہی"
+    },
+    {
+      "surface": "מימינו",
+      "gloss": "اوہدے سجّے پاسے"
+    },
+    {
+      "surface": "ומשמאלו",
+      "gloss": "تے کھبّے پاسے"
+    }
+  ],
+  "timestamp": "2026-10-15T22:31:54.765107059Z",
+  "model": "glm-5.3"
+}

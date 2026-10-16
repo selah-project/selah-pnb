@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 28:22",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "کفارہ",
+      "rationale": "לכפר دا مُڈھلا مطلب 'ڈھکݨا' اے — کجھ ڈھکݨ دا کم، صرف معافی نئیں"
+    },
+    {
+      "kind": "addition",
+      "subject": "تُہاڈے اُتے",
+      "rationale": "عלیکم پیشندی پنجابی وِچ پیشندی لفظ نال بجھی"
+    }
+  ],
+  "translation": "تے اِک بکرا گناہ دی قربانی لئی، تُہاڈے اُتے کفارہ بنّھن لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "77265568bed59cc19cfaf7d395f544448a295edd6d84bc1c11c2d893476da041",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/28\/21-24.1792099154744.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושעיר",
+      "gloss": "تے اِک بکرا"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "گناہ دی قربانی"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "اِک"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "کفارہ بنّھن لئی"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "تُہاڈے اُتے"
+    }
+  ],
+  "timestamp": "2026-10-15T21:19:14.745433638Z",
+  "model": "glm-5.3"
+}

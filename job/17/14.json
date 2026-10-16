@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 17:14",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "سڑن",
+      "rationale": "שחת = گڑھا\/بربادی؛ 'سڑن' — گلن سڑن والی تھاں دا چِتر"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אבי\/אמי\/אחותי",
+      "rationale": "پیو، ماں، بھین — موت دے نال خاندانی رشتے، پنجابی وِچ تصویر سلامت اے"
+    }
+  ],
+  "translation": "سڑن نوں میں پکاریا: تُوں میرا پیو ایں؛ کیڑے نوں ⟨את⟩: تُوں میری ماں تے میری بھین۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fe5141f07b75dc90736924856e52d130f83b18dea4313cb1d640d618a6f614e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/17\/13-16.1792115825679.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשחת",
+      "gloss": "سڑن نوں"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "میں پکاریا"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "میرا پیو"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُوں ایں"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "میری ماں"
+    },
+    {
+      "surface": "ואחתי",
+      "gloss": "تے میری بھین"
+    },
+    {
+      "surface": "לרמה",
+      "gloss": "کیڑے نوں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:57:05.680248811Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "کوئی",
+      "rationale": "عبرانی وچ اَن گنتی لفظ نئیں، پنجابی پرشن وچ لوڑیدا اے"
+    },
+    {
+      "kind": "you",
+      "subject": "یہوداہ توں یوسف",
+      "rationale": "یوسف دے پچھے ہوئے سوال دی دہرائی"
+    }
+  ],
+  "translation": "میرے سائیں نے ⟨את⟩ اپنے غلاماں نوں پُچھیا آکھنا: کیہ تہاڈے کوئی پیو اے یا بھرا؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0e74fe5b360afee7df539645da1ffa3c2625b1b31c6aba8b3b40c79684a63a91",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/44\/17-20.1792095934840.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "میرے سائیں نے"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "پُچھیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنے غلاماں نوں"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "اپنے غلاماں نوں"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھنا"
+    },
+    {
+      "surface": "היש",
+      "gloss": "کیہ اے"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تہاڈے"
+    },
+    {
+      "surface": "אב",
+      "gloss": "پیو"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "אח",
+      "gloss": "بھرا"
+    }
+  ],
+  "timestamp": "2026-10-15T20:25:34.843788109Z",
+  "model": "glm-5.3"
+}

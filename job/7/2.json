@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 7:2",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "دا بدل",
+      "rationale": "پاعولو لفظی روپ وِچ 'اوہدا کم' اے، پر سیاق اجرت دا اے — پنجابی جملہ 'بدل' منگدا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "پاعولو",
+      "rationale": "'اوہدا کم' (KJV 'reward of his work') بمقابلہ سِدھا 'اجر' (YLT 'wage') — عبرانی لفظ 'عمل' ای اے"
+    }
+  ],
+  "translation": "جیویں غلام چھاں لئی ٹھاہ ماردا اے، تے جیویں مزدور اپنے کم ⟨دا بدل⟩ اُڈیکدا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "42ca64289736c8d89e102b49281d6c690ce4d0e4bf9d8cabe25e93464da8be57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/7\/2-3.1792124313541.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כעבד",
+      "gloss": "جیویں غلام"
+    },
+    {
+      "surface": "ישאף",
+      "gloss": "ٹھاہ ماردا اے"
+    },
+    {
+      "surface": "צל",
+      "gloss": "چھاں"
+    },
+    {
+      "surface": "וכשכיר",
+      "gloss": "تے جیویں مزدور"
+    },
+    {
+      "surface": "יקוה",
+      "gloss": "اُڈیکدا اے"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "اپنے کم ⟨دا بدل⟩"
+    }
+  ],
+  "timestamp": "2026-10-16T04:18:33.542201804Z",
+  "model": "glm-5.3"
+}

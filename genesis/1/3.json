@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 1:3",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יהי אור \/ ויהי אור",
+      "rationale": "اِکو فقرہ دہرایا گیا — حکم تے پورا ہونا اِک آواز، پنجابی وِچ ریت برقرار"
+    }
+  ],
+  "translation": "تے ایلوہیم نے آکھیا: “چاننی ہووے” — تے چاننی ہو گئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "74811423b4ef720f67f63379fee8e2797e4ed37fb025781088bc80b89f4e564a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/1\/1-4.1792094689956.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم نے"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ہووے"
+    },
+    {
+      "surface": "אור",
+      "gloss": "چاننی"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "تے ہو گئی"
+    },
+    {
+      "surface": "אור",
+      "gloss": "چاننی"
+    }
+  ],
+  "timestamp": "2026-10-15T20:04:49.957842874Z",
+  "model": "glm-5.3"
+}

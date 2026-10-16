@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 3:10",
+  "book": "esther",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "—",
+      "rationale": "ہامان دے ناں دے پچھیترے جوڑے نوں پنجابی وِچ وکھرے جملے دے روپ وِچ چاہیدا سی"
+    }
+  ],
+  "translation": "تے بادشاہ نے ⟨את⟩ اپنی انگوٹھی اپنے ہتھ توں ہٹا کے ہامان نوں دے دتی — ہمداتا دے پُتر، اگاگی، یہودیاں دے دشمن نوں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "556a2ace82385f8675a87f6441b19e25695293e0594e0789163921a9440f1072",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/esther\/3\/9-12.1792117781631.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "تے ہٹائی"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنی انگوٹھی"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "اپنی انگوٹھی"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "توں"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "اپنے ہتھ"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "تے دے دتی"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "ہامان نوں"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "ہمداتا دے"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "اگاگی"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "دشمن"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "یہودیاں دے"
+    }
+  ],
+  "timestamp": "2026-10-16T02:29:41.632564657Z",
+  "model": "glm-5.3"
+}

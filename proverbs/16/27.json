@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 16:27",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "بلیعال",
+      "rationale": "לי-יעל 'کوئی فائدہ نئیں\/گھٹیا' — عبرانی آواز رکھی، ناں دا حرف-نقل"
+    },
+    {
+      "kind": "alternative",
+      "subject": "כרה רעה",
+      "rationale": "لفظی 'برائی پُٹدا اے' — 'کھوددا' وی 'پلان بندا اے' دے مطلب وِچ جاندا اے"
+    }
+  ],
+  "translation": "بلیعال دا بندہ برائی پُٹدا اے، تے اوہدے ہونٹھاں اُتے بھڑکدی اگّ ورگی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0cf071747af59804ffa791b5ff4fdb3e309376c98002a761a828368a35808735",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/16\/25-28.1792114732153.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "בליעل",
+      "gloss": "بلیعال دا"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "پُٹدا اے"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "وעל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "اوہدے ہونٹھاں"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "اگّ ورگی"
+    },
+    {
+      "surface": "צרבת",
+      "gloss": "بھڑکدی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:38:52.154373777Z",
+  "model": "glm-5.3"
+}

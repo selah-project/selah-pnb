@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 88,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש گلے\/ساہ\/جیون-زور دے نیڑے اے، روح نئیں"
+    },
+    {
+      "kind": "crux",
+      "subject": "شیول",
+      "rationale": "موت دا تھاں — قبر یا دوزخ نئیں کہنا"
+    }
+  ],
+  "translation": "کیوں جے میری جان برائیاں نال رجّ گئی اے، تے میرا جیون شیول تک پُجّ گیا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e9be61345a0526ae278b5e0ab0a1d76c8f25951a4be1da4f53fd5cee2af8d07f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/88\/1-4.1792113243015.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جے"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "رجّ گئی اے"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "برائیاں نال"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میری جان"
+    },
+    {
+      "surface": "וחיי",
+      "gloss": "تے میرا جیون"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "شیول تک"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "پُجّ گیا اے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:14:03.016622680Z",
+  "model": "glm-5.3"
+}

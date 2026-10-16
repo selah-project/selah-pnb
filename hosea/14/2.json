@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 14:2",
+  "book": "hosea",
+  "lang": "pnb",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "to Israel",
+      "rationale": "Verse opens with imperative summons 'return' addressed to Israel."
+    },
+    {
+      "kind": "crux",
+      "subject": "עד",
+      "rationale": "'עד' rendered 'کول' (unto\/near); can also read 'even until' — temporal sense."
+    },
+    {
+      "kind": "substitution",
+      "subject": "כשלת",
+      "rationale": "Literal 'you have stumbled\/tottered'; rendered with the fall implied."
+    }
+  ],
+  "translation": "وَاپس آ، اَی یِسرائیل، یاہوہ اَپنے ایلوہیم کول، کیونجہ تُو اَپنے گناہ وِچ ٹھوکّر کھا کے ڈِگیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d4f64cb382f2bb950a45546ee995c19197cc02a664b2c281b39c0ed5216848c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/hosea\/14\/2-3.1792124097613.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "وَاپس آ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اَی یِسرائیل"
+    },
+    {
+      "surface": "עד",
+      "gloss": "کول"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "اَپنے ایلوہیم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "כשלת",
+      "gloss": "ٹھوکّر کھا کے ڈِگیا"
+    },
+    {
+      "surface": "בעונך",
+      "gloss": "اپنے گناہ وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T04:14:57.614274368Z",
+  "model": "glm-5.3"
+}

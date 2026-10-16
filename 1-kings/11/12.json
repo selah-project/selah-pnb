@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 11:12",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ایہہ",
+      "rationale": "אקרענה دی مفعولی ضمیر (اوہنوں\/ایہنوں) پنجابی وِچ وکھ لفظ منگدی اے"
+    }
+  ],
+  "translation": "پر تیرے دِناں وِچ میں ایہہ نئیں کراں گا، داوِد تیرے پیو دے لئی؛ تیرے پُتر دے ہتھوں میں ایہنوں پاڑاں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "cbbaa254da38dde57fdbe0764f7cd7ed41105a68d24dddb63df3f28ab3342a84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/11\/9-12.1792104396441.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "پر"
+    },
+    {
+      "surface": "בימיך",
+      "gloss": "تیرے دِناں وِچ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "کراں گا"
+    },
+    {
+      "surface": "למען",
+      "gloss": "دے لئی"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "تیرے پیو"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "دے ہتھوں"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "تیرے پُتر"
+    },
+    {
+      "surface": "אקרענה",
+      "gloss": "میں پاڑاں گا"
+    }
+  ],
+  "timestamp": "2026-10-15T22:46:36.443281666Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 49:5",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نیں",
+      "rationale": "عبرانی وِچ کپولا نئیں؛ پنجابی نے منگیا"
+    },
+    {
+      "kind": "crux",
+      "subject": "מכרתיהם",
+      "rationale": "الفاظ دے مطلب 'تلواراں' نیں (ASV\/JPS) پر بمعنی 'ساک' (JPS kinship) تے 'ولاں' (YLТ espousals) دیاں پڑھائیاں وی نیں"
+    }
+  ],
+  "translation": "شِمعون تے لےوی بھرا نیں ⟨سن⟩؛ تشدد دے اوزار — اوہناں دیاں تلواراں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5ac288b5347b8a206f7033ea468830eeb62bf743b1517f85389b1b9b1a74a250",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/49\/5-8.1792096106961.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעון",
+      "gloss": "شِمعون"
+    },
+    {
+      "surface": "ולוי",
+      "gloss": "تے لےوی"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "بھرا"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "اوزار"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "تشدد دے"
+    },
+    {
+      "surface": "מכרתיהם",
+      "gloss": "اوہناں دیاں تلواراں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:28:26.962372004Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "micah 6:13",
+  "book": "micah",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "دی وجہ توں",
+      "rationale": "عبرانی על בمعنی 'بھُکھ کے\/سزا' — پنجابی جملہ لئی وجہ دا لفظ درکار"
+    },
+    {
+      "kind": "crux",
+      "subject": "החליתי",
+      "rationale": "'میں بیمار کیتا' (KJV, جنیوا) بمقابلہ 'میں مارنا شروع کیتا' (YLt) — جڑ חלה 'کمزور\/بیمار'"
+    }
+  ],
+  "translation": "تے میں وی تینوں بیمار کیتا اے، مار کے، تباہ کر کے، تیرے پاپاں ⟨دی وجہ توں⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6ab8c8cba877c067032a1c2fb66b983d29614d6356603e7d07090f9e4cebb5bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/micah\/6\/13-16.1792111195301.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "تے وی"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "החליתי",
+      "gloss": "میں بیمار کیتا اے"
+    },
+    {
+      "surface": "הכותך",
+      "gloss": "مار کے تینوں"
+    },
+    {
+      "surface": "השמם",
+      "gloss": "تباہ کر کے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "חטאתך",
+      "gloss": "تیرے پاپاں"
+    }
+  ],
+  "timestamp": "2026-10-16T00:39:55.301608914Z",
+  "model": "glm-5.3"
+}

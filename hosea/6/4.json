@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 6:4",
+  "book": "hosea",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "اِفرایم تے یہوداہ",
+      "rationale": "یاہوہ دوہاں راج-قبیلےآں نوں سدھا مخاطب اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מה אעשה לך … מה אעשה לך",
+      "rationale": "عبرانی وِچ سطر دا اِکو سوال دو واری — پنجابی وِچ دونوں واری وننجوائے گیا اے، لے نئیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "خیسِد",
+      "rationale": "חסד عارضی پھیلدا اے — 'رحم'\/'مہر' دا اکلا لفظ کمزور پیندا؛ نشان-لفظ رکھیا گیا"
+    }
+  ],
+  "translation": "اِفرایم، میں تیرے نال کیہ کراں؟ یہوداہ، میں تیرے نال کیہ کراں؟ کیونجے تہاڈا خیسِد سویر دے بدل وانگوں اے، تے سویر دی اوس وانگوں جو چڑھدیاں ہی چلیا جاندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ccd4e587470c4a05d8e068da3c391b409f88903cb9c8f66738ad549b22dd4730",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/hosea\/6\/1-4.1792110480868.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "میں کراں"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیرے نال"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "اِفرایم"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "میں کراں"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیرے نال"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    },
+    {
+      "surface": "וחסדכם",
+      "gloss": "کیونجے تہاڈا خیسِد"
+    },
+    {
+      "surface": "כענן",
+      "gloss": "سویر دے بدل وانگوں"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "سویر"
+    },
+    {
+      "surface": "וכטל",
+      "gloss": "تے اوس وانگوں"
+    },
+    {
+      "surface": "משכים",
+      "gloss": "چڑھدیاں ہی"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "چلیا جاندا اے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:28:00.869746715Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 3:4",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "داغ دار مَویشیاں دا پالن ہار",
+      "rationale": "נקד صرف ایتھے تے عاماہ 1:1 آیا اے — ‘مَویشیاں دے داغاں والا پالن ہار’"
+    },
+    {
+      "kind": "crux",
+      "subject": "اُن",
+      "rationale": "צמר اکلی اے — KJV ‘rams, with the wool’ (دونوں دے نال اُن)، ASV\/JPS ‘دونوں دا اُن’؛ ایتھے اُن دوواں جانوراں اُتے منیا گیا اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "اِک لکھ",
+      "rationale": "خراج دی گنتی — سو ہزار لیلیاں تے سو ہزار مینڈھیاں"
+    }
+  ],
+  "translation": "تے مِیشا، موآب دا بادشاہ، داغ دار مَویشیاں دا پالن ہار سی، تے اوہ یِسرائیل دے بادشاہ نوں اِک لکھ لیلیاں تے اِک لکھ مینڈھیاں دا اُن دیندا سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "19fe0c2000f7dbb73d8737987b8ccb91540b4e43538241518ec9b61ec9f597f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/3\/1-4.1792104933554.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומישע",
+      "gloss": "تے مِیشا"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب دا"
+    },
+    {
+      "surface": "היה",
+      "gloss": "سی"
+    },
+    {
+      "surface": "נקד",
+      "gloss": "داغ دار مَویشیاں دا پالن ہار"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "تے دیندا سی"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "…دے بادشاہ نوں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سو"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "لیلیاں"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "تے سو"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "مینڈھیاں"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "اُن"
+    }
+  ],
+  "timestamp": "2026-10-15T22:55:33.556179659Z",
+  "model": "glm-5.3"
+}

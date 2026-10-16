@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 18:28",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨کارن⟩",
+      "rationale": "בחמשה literally 'with five'; Punjabi needs 'for the sake of five' — bracket marks supplied sense"
+    },
+    {
+      "kind": "substitution",
+      "subject": "پینتالی",
+      "rationale": "Hebrew says 'forty and five' (two tokens); Punjabi single number word, so glosses split as چالی \/ تے پنج"
+    },
+    {
+      "kind": "you",
+      "subject": "to یاہوہ",
+      "rationale": "Abraham's question directly addresses یاہوہ with the second person"
+    }
+  ],
+  "translation": "اِک وار فیر اَوراہام نے آکھیا: ہو سکدا اے پنجاہ نیکوکاراں وِچوں پنج گھٹ ہو جان؛ کیہ تُسیں پنجاں دے ⟨کارن⟩ ⟨את⟩ سارے شہر نوں برباد کرو گے؟ تے اوہنے آکھیا: میں برباد نئیں کراںگا، جے اوتھے مینوں پینتالی (چالی تے پنج) مل جاݨ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d154233c84495488e8d8f4a8422e7b9f84d573ef090c1fd4e45478970ec7dacc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/18\/28-28.1792123185441.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אולי",
+      "gloss": "ہو سکدا اے"
+    },
+    {
+      "surface": "יחסרון",
+      "gloss": "گھٹ ہو جان"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاہ"
+    },
+    {
+      "surface": "הצדיקם",
+      "gloss": "نیکوکاراں"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "התשחית",
+      "gloss": "کیہ برباد کرو گے"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "پنجاں لئی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سارے شہر نوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے اوہنے آکھیا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "میں برباد کراںگا"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "مینوں مل جاݨ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اوتھے"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چالی"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "تے پنج"
+    }
+  ],
+  "timestamp": "2026-10-16T03:59:45.442881695Z",
+  "model": "glm-5.3"
+}

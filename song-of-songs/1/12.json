@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 1:12",
+  "book": "song-of-songs",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "misibbo",
+      "rationale": "misib = ghere hua sofe\/divan — 'apni chakri vich', 'bhat'the' ja 'apne mahal vich' v alaya janda"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nrd",
+      "rationale": "nard ik surkhi khusbo'dar jare da nau — punjabi vich koi lafzi na, harf-naqal kiya"
+    }
+  ],
+  "translation": "جدوں تک بادشاہ اپنی دیوان وِچ سی، میرے نارد نے اپنی خوشبو دتی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "13e9e8b6262b0ed6d7ff456ea667cf58fd281141f55283d6b7e286d8310f1f0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/song-of-songs\/1\/9-12.1792116620608.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "جدوں تک"
+    },
+    {
+      "surface": "שהמלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "במסבו",
+      "gloss": "اپنی دیوان وِچ"
+    },
+    {
+      "surface": "נרדי",
+      "gloss": "میرے نارد"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دتی"
+    },
+    {
+      "surface": "ריחו",
+      "gloss": "اپنی خوشبو"
+    }
+  ],
+  "timestamp": "2026-10-16T02:10:20.609206762Z",
+  "model": "glm-5.3"
+}

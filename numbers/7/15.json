@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 7:15",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בן בקר \/ בן שנתו",
+      "rationale": "عبرانی 'گلّاں دا پُتر' = نِکا پڑدا، 'ورھے دا پُتر' = اِک ورھے دا — پنجابی وِچ کجھ پگھرایا"
+    }
+  ],
+  "translation": "اِک پڑدا، گلّاں دا پُتر، اِک مینڈھا، اِک لیلا، اِک ورھے دا پُتر، سوختنی قربانی لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c846c29cdc00f52bdd43dc2eaa122f53da1229b0a0b968d0f135893ae8328980",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/7\/13-16.1792098353980.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "پڑدا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "اِک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "گلّاں دا"
+    },
+    {
+      "surface": "איל",
+      "gloss": "مینڈھا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "اِک"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "لیلا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "اِک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "اِک ورھے دا"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "سوختنی قربانی لئی"
+    }
+  ],
+  "timestamp": "2026-10-15T21:05:53.981141806Z",
+  "model": "glm-5.3"
+}

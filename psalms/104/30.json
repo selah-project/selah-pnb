@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 104:30",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יבראון",
+      "rationale": "ברא پیدائش 1:1 دا اوہو کریا اے — مِٹی توں موت تے روح توں نویں سرے پیدائش، اکو جوڑ۔"
+    }
+  ],
+  "translation": "تُوں اپنی روح گھلدیں، اوہ بنے جاندے نیں؛ تے تُوں دھرتی دے چہرے نوں نواں کردیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3dd1526d433936a330fb5192208e4a4da5c035a5f911b10addb33dfcdfb23f01",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/104\/29-32.1792113553295.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "گھلدیں"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "اپنی روح"
+    },
+    {
+      "surface": "יבראון",
+      "gloss": "بنے جاندے نیں"
+    },
+    {
+      "surface": "ותחדש",
+      "gloss": "نواں کردیں"
+    },
+    {
+      "surface": "פני",
+      "gloss": "چہرے نوں"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "دھرتی دی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:19:13.296668422Z",
+  "model": "glm-5.3"
+}

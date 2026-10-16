@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 9:16",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "فِیر وی",
+      "rationale": "عبرانی سدّی نہیں 'לא אאמין' اے؛ گلاں جوڑن لئی 'فِیر وی' پایا گیا۔"
+    },
+    {
+      "kind": "mystery",
+      "subject": "یقین نہ کرنا",
+      "rationale": "جواب ملن دے باوجود یقین دا نہ ہونا — ایلوہ دے اَگّوں کھلھ دا بند دروازہ۔"
+    }
+  ],
+  "translation": "جے میں پکاریا تے اوہنے مینوں جواب دِتا، فِیر وی میں یقین نہ کردا کہ اوہ میری آواز نوں کَن دھندا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "952cdf15cb2e6947895a0b9c0d0a6e64c187489bb14951bb2eee8be558634ca1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/9\/13-16.1792115576497.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "میں پکاریا"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "اوہنے مینوں جواب دِتا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אאמין",
+      "gloss": "یقین کردا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יאזין",
+      "gloss": "کَن دھندا"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "میری آواز نوں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:52:56.498466998Z",
+  "model": "glm-5.3"
+}

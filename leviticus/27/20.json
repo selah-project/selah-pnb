@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "تاں",
+      "rationale": "نتیجے دا جوڑ پنجابی نے پایا، عبرانی وِچ نئیں"
+    },
+    {
+      "kind": "measurement",
+      "subject": "چھڑاؤن دا حق",
+      "rationale": "واپسی دے حساب دا بند — کھیت فدیہ توں بند ہو گیا"
+    }
+  ],
+  "translation": "تے جے اوہ ⟨את⟩ کھیت نوں نہ چھڑاوے، تے جے ⟨את⟩ کھیت کسے ہور بندے نوں ویچ دے، تاں اوہ ہور کدی نہ چھڑایا جاوے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c202af0f32b682b1bd8d2c4546fe97d260143a8af2f6609ec89e6d7ce79c965f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/27\/17-20.1792098234086.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "چھڑاوے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کھیت نوں"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "کھیت"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "ویچ دے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کھیت"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "کھیت"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "بندے نوں"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "کسے ہور"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "چھڑایا جاوے"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ہور کدی"
+    }
+  ],
+  "timestamp": "2026-10-15T21:03:54.087458057Z",
+  "model": "glm-5.3"
+}

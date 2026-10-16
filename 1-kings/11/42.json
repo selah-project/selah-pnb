@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 11:42",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نیں",
+      "rationale": "پنجابی جملے لئی جوڑ، عبرانی وِچ کوئی فعل نئیں"
+    },
+    {
+      "kind": "measurement",
+      "subject": "چالی ورھے",
+      "rationale": "شلوموہ دے راج دی گنتی"
+    }
+  ],
+  "translation": "تے اوہ دن جیہڑے شلوموہ نے یروشلایم وِچ سارے یِسرائیل اُتے راج کیتا، چالی ورھے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "cbc5686352073280db1da9c26e022bc6c1af21427e447e8dcb73cda7b4cdadbb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/11\/41-43.1792104381610.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והימים",
+      "gloss": "تے اوہ دن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑے"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "راج کیتا"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلوموہ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "یروشلایم وِچ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چالی"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ورھے"
+    }
+  ],
+  "timestamp": "2026-10-15T22:46:21.611260251Z",
+  "model": "glm-5.3"
+}

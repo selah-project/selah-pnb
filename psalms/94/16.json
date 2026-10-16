@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 94:16",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יקום \/ יתיצב",
+      "rationale": "موازی جوڑ: ‘چُک کھلوسی’ تے ‘اُکھڑ کھلوسی’ — دونواں اُٹھن کھلوون دے فعل، پنجابی وِچ دونواں وکھرے رکھے۔"
+    },
+    {
+      "kind": "alternative",
+      "subject": "עם",
+      "rationale": "لفظی ‘نال’ اے پر سیاق دسدا اے ‘خلاف\/مقابل’ — زیادہ تر مترجم ‘against’ کردے نیں؛ لفظی ‘نال’ رکھیا گیا۔"
+    },
+    {
+      "kind": "invitation",
+      "subject": "سوال",
+      "rationale": "دو سوال آیت نوں سُنیں ول کھچدے نیں — بولن والا پُچھدا اے کہ کون اُوہدے نال کھلووے۔"
+    }
+  ],
+  "translation": "کون میرے لئی برائی کرنہاراں دے نال کھلوسی؟ کون میرے لئی کُوڑ دے کم کرنہاراں دے نال اُکھڑ کھلوسی؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c9a08e5c29c1506f3893aaf998809516621aba1058ba6867a065c6c93e25ca0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/94\/13-16.1792113434394.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "کھلوسی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرے لئی"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "برائی کرنہاراں دے"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "اُکھڑ کھلوسی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرے لئی"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "کم کرنہاراں دے"
+    },
+    {
+      "surface": "און",
+      "gloss": "کُوڑ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:17:14.395513341Z",
+  "model": "glm-5.3"
+}

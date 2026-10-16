@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 12:18",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "گجّاں",
+      "rationale": "קלת 'آوازاں'؛ 'گجّ' سیاق دا لفظ اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויקרא…ויתן",
+      "rationale": "آیت 17 دے אקרא\/ויתן دی عین تکرار — وعدہ پورا ہُندا دِسدا اے"
+    }
+  ],
+  "translation": "تے شموایل نے یاہوہ نوں پکاریا، تے یاہوہ نے اُسی دِن گجّاں تے مینہہ دِتّا؛ تے سارے لوک بہت ڈر گئے ⟨את⟩ یاہوہ توں تے ⟨את⟩ شموایل توں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c74917b27445638ffc111107d1585ce34ca4dc9e6730b1ce43d6d8f307567e21",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/12\/17-20.1792102469016.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "تے پکاریا"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموایل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "تے دِتّا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "קלת",
+      "gloss": "گجّاں"
+    },
+    {
+      "surface": "ומטר",
+      "gloss": "تے مینہہ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "دِن"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اُسی"
+    },
+    {
+      "surface": "ויירא",
+      "gloss": "تے ڈر گئے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوک"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بہت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "شموایل"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموایل"
+    }
+  ],
+  "timestamp": "2026-10-15T22:14:29.017004493Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 1:3",
+  "book": "song-of-songs",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨دی خُشبو⟩",
+      "rationale": "לריח 'خُشبو لئی' دا_vidhi اے، پنجابی جملہ ایہ سمجھدا اے پر 'خُشبو' شامل کرنا پیا"
+    },
+    {
+      "kind": "addition",
+      "subject": "وانگر ⟨اے⟩",
+      "rationale": "عبرانی وِچ کپیلا نئیں، پنجانی موازنہ پورا کرن لئی چاہیدا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "עלמות",
+      "rationale": "'نوجوان عورتاں' یا 'کنواریاں' — عبرانی لفظ کنواری نئیں کہندا پر روایت کنواریاں لے گیا اے"
+    }
+  ],
+  "translation": "تیرے تیل ⟨دی خُشبو⟩ لئی چنگے نیں، تیرا ناں انڈیلے ہوئے تیل وانگوں اے، ایس لئی کنواریاں تینوں پیار کردیاں نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "708639b00a5304c6985f489c6d7714dab9c2c2bae967edba93b746438fe76cd3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/song-of-songs\/1\/1-4.1792116646098.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לריח",
+      "gloss": "⟨دی خُشبو⟩ لئی"
+    },
+    {
+      "surface": "שמניך",
+      "gloss": "تیرے تیل"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "چنگے نیں"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "تیل"
+    },
+    {
+      "surface": "תורק",
+      "gloss": "انڈیلے ہوئے"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "تیرا ناں"
+    },
+    {
+      "surface": "על",
+      "gloss": "ایس"
+    },
+    {
+      "surface": "כן",
+      "gloss": "لئی"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "کنواریاں"
+    },
+    {
+      "surface": "אהבוך",
+      "gloss": "تینوں پیار کردیاں نیں"
+    }
+  ],
+  "timestamp": "2026-10-16T02:10:46.099452869Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 4:1",
+  "book": "ezra",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨دا⟩",
+      "rationale": "םבנה-status construct – 'ایلوہیم دا' – لئی پنجابی نوں واسطے دی لوڑ اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ویری",
+      "rationale": "צר لفظی روپ وِچ 'تنگ کرن والا' اے؛ 'ویری' اوہدے عام کم نوں دسدا اے"
+    }
+  ],
+  "translation": "تے یہوداہ تے بنیامین دے ویریاں نے سُنیا کہ جلاوطنی دے پُتر یاہوہ لئی، یِسرائیل دے ایلوہیم ⟨دا⟩ ہیکال بنا رہے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "62693c2ea865f18dd26d3eda9f2a50bd1940eb48f83da1c0dbb624023ce16589",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezra\/4\/1-4.1792119162531.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "سُنیا"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "ویریاں نے"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "تے بنیامین"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "جلاوطنی دے"
+    },
+    {
+      "surface": "בונים",
+      "gloss": "بنا رہے نیں"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "ہیکال"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ لئی"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ایلوہیم ⟨دا⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-10-16T02:52:42.531832741Z",
+  "model": "glm-5.3"
+}

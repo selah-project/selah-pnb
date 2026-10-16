@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 30:10",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "گڑھا",
+      "rationale": "שחת ٹونٹی\/گڑھا اے — موت دی تھاں دا ٹھیک مطلب، دوزخ نئیں۔"
+    },
+    {
+      "kind": "you",
+      "subject": "to یاہوہ",
+      "rationale": "پرشن والے بول یاہوہ ول سدھے نیں۔"
+    }
+  ],
+  "translation": "میرے لہو وِچ کی فیدا، جدوں میں گڑھے وِچ اتراں؟ کی دھوڑ تیری تعریف کریگی، کی اوہ تیری سچائی دسے گی؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9868f0f34f6039889bf7a90527c922a354613e4b4377ce6cf4458660abda6040",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/30\/9-12.1792112149022.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "کی"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "فیدا"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "میرے لہو وِچ"
+    },
+    {
+      "surface": "ברדתי",
+      "gloss": "جدوں میں اتراں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "گڑھے"
+    },
+    {
+      "surface": "היודך",
+      "gloss": "تیری تعریف کریگی"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "دھوڑ"
+    },
+    {
+      "surface": "היגיד",
+      "gloss": "دسے گی"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "تیری سچائی"
+    }
+  ],
+  "timestamp": "2026-10-16T00:55:49.023027918Z",
+  "model": "glm-5.3"
+}

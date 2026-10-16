@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 43:28",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שרי קדש",
+      "rationale": "'مقدس دے سردار' — کاہن یا مُکھ آگُو؛ حوالے وکھرے نیں۔"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ואחלל",
+      "rationale": "ماضی ('میں پلیت کیتا') جاں مستقبل ('میں پلیت کراں گا') — عبرانی فعل دوناں پاسے جا سکدا اے۔"
+    }
+  ],
+  "translation": "تے میں مقدس دے سرداراں نوں پلیت کیتا، تے یعقوو نوں حرام لئی دے دِتا، تے یِسرائیل نوں گالیاں لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fe49a81054e7a2701d57c200526619b14b534f5ddd80f4a03f24df34ec7d5459",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/43\/25-28.1792106740082.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחלל",
+      "gloss": "تے میں پلیت کیتا"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سرداراں نوں"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدس دے"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "تے میں دے دِتا"
+    },
+    {
+      "surface": "לחרם",
+      "gloss": "حرام لئی"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو نوں"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "تے یِسرائیل نوں"
+    },
+    {
+      "surface": "לגדופים",
+      "gloss": "گالیاں لئی"
+    }
+  ],
+  "timestamp": "2026-10-15T23:25:40.083276848Z",
+  "model": "glm-5.3"
+}

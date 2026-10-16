@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 26:7",
+  "book": "2-chronicles",
+  "lang": "pnb",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "خلاف",
+      "rationale": "⟨خلاف⟩ عربی تے معونیاں لئی عبرانی وچ صرف על اے، پنجابی نوں لفظ چاہیدا"
+    },
+    {
+      "kind": "crux",
+      "subject": "המעונים",
+      "rationale": "معونی: KJV 'Mehunims'، JPS 'Meunim' — معون دے وسنیک"
+    },
+    {
+      "kind": "measurement",
+      "subject": "قوماں دی لسٹ",
+      "rationale": "تن دشمن قوماں گن کے دسیاں گئیاں نیں"
+    }
+  ],
+  "translation": "تے ایلوہیم نے اوہدے مدد کیتی فلسطیاں دے خلاف، تے عربیاں دے خلاف جیہڑے گُور-بَعل وِچ وسدے سی، تے مُعونیاں دے ⟨خلاف⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9b2b58196afd8123c8e0d41b8981dbfad2deb10af6e861ef334b0ae313364129",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/26\/7-8.1792124439202.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעזרהו",
+      "gloss": "اوہدے مدد کیتی"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "על",
+      "gloss": "دے خلاف"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "فلسطی"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "تے دے خلاف"
+    },
+    {
+      "surface": "הערביים",
+      "gloss": "عربی"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "وسدے سی"
+    },
+    {
+      "surface": "בגור",
+      "gloss": "گُور-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "بَعل"
+    },
+    {
+      "surface": "והמעונים",
+      "gloss": "تے مُعونی"
+    }
+  ],
+  "timestamp": "2026-10-16T04:20:39.203081686Z",
+  "model": "glm-5.3"
+}

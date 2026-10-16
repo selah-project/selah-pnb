@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 55:7",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מי יתן",
+      "rationale": "عبرانی 'کون دیندا' تمنا دا روپ اے — 'کاش'، گل سدھی کرن تے اصل پچھو دا رنگ مٹ جاند اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨تاں⟩",
+      "rationale": "پنجابی وِچ شرطی جملے لئی 'تاں' چاہیدا، عبرانی وِچ نئیں"
+    }
+  ],
+  "translation": "تے میں آکھیا: کیہ کون میں نوں کبوتر وانگ پر دیندا؟ ⟨تاں⟩ میں اُڈّ جاواں تے آرام کراں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5ae239ef97c42c3352964e5516d57741f85c1846c41c65d3502152908a7afc05",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/55\/5-8.1792112636747.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "تے میں آکھیا"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دیندا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میں نوں"
+    },
+    {
+      "surface": "אבר",
+      "gloss": "پر"
+    },
+    {
+      "surface": "کיונה",
+      "gloss": "کبوتر وانگ"
+    },
+    {
+      "surface": "אעופה",
+      "gloss": "میں اُڈّ جاواں"
+    },
+    {
+      "surface": "ואשכנה",
+      "gloss": "تے آرام کراں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:03:56.748686717Z",
+  "model": "glm-5.3"
+}

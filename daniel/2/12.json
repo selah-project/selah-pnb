@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 2:12",
+  "book": "daniel",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כל קבל דנה",
+      "rationale": "آرامی ترکیب 'ایہناں ساریاں گلاں توں' — 'ایس کارن'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בנס · קצף",
+      "rationale": "دو نیڑلے جذبی فعل رل کے ودھاؤ — تلاوت وِچ غصے دا ڈھیر"
+    }
+  ],
+  "translation": "ایہناں ساریاں گلاں توں بادشاہ غصے نال بھریا تے بہت جذبی ہویا، تے آکھیا کہ بابل دے سارے دانا مارے جان۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2123c7a6b9e3142f8e2429d273eea47edc7e5579e864d4db40b26034ba9e89f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/daniel\/2\/9-12.1792118166111.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ایہناں ساریاں"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "گلاں توں"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "ایہناں"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "בנס",
+      "gloss": "غصے نال بھریا"
+    },
+    {
+      "surface": "וקצף",
+      "gloss": "تے جذبی"
+    },
+    {
+      "surface": "שגיא",
+      "gloss": "بہت"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "להובדה",
+      "gloss": "کہ مارے جان"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "חכימי",
+      "gloss": "دانا"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل دے"
+    }
+  ],
+  "timestamp": "2026-10-16T02:36:06.113477006Z",
+  "model": "glm-5.3"
+}

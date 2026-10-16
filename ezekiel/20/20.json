@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 20:20",
+  "book": "ezekiel",
+  "lang": "pnb",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "آں",
+      "rationale": "عبرانی وِچ کپولا نئیں، پنجابی نوں لوڑ اے۔"
+    },
+    {
+      "kind": "hapax",
+      "subject": "אות شبّات دا نشان",
+      "rationale": "شبّات 'میں تے تہاڈے وِچکار نشان' — ایہہ رویت خروج 31:13 نال جُڑی اے۔"
+    }
+  ],
+  "translation": "تے ⟨את⟩ میرے شبّاتاں نوں پاک رکھو، تے اوہ میرے تے تہاڈے وِچکار نشان بنن، ایہہ جانن لئی کہ میں یاہوہ تہاڈا ایلوهیم آں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2ee623699d856c959f223517ba9e7077197e6049745f78c026764d2b5f98bf88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/20\/17-20.1792109509492.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "میرے شبّاتاں"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "میرے شبّاتاں"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "پاک رکھو"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "تے اوہ بنن"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "نشاش وِچ"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "میرے تے"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "تہاڈے وِچکار"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "جانن لئی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "تہاڈا ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-10-16T00:11:49.493149469Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 18:33",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ההצל הצילו",
+      "rationale": "أصل مادّے دا دوہرا کھیوَن — 'چھُڈاؤنا، چھُڈیا' — پنجابی وچ فعل دو واری رکھیا گیا اے"
+    },
+    {
+      "kind": "you",
+      "subject": "دیوار دے لوکاں نوں",
+      "rationale": "ربشکیہ دا سوال اِیہناں اُتے سِدھا سُٹیا گیا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "دیوتے",
+      "rationale": "אלהי הגוים ایتھے قوماں دے معبوداں لئی عام لفظ اے، ناں ایلوہیم نئیں"
+    }
+  ],
+  "translation": "کیا قوماں دے دیوتےآں نے، ہر اِک نے، ⟨את⟩ اپنی زمین نوں آشُّور دے بادشاہ دے ہتھ توں کدے چھڑیا؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3d23a64626d02cac9213193d2c15c2bb7f1ca4715926b0e58930860abc9bc619",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/18\/33-36.1792105465965.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ההצל",
+      "gloss": "کیا کدے"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "چھڑیا"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "دیوتےآں دے"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "قوماں دے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ہر اِک نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنی زمین"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "اپنی زمین"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "دے ہتھ توں"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ دے"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "آشُّور"
+    }
+  ],
+  "timestamp": "2026-10-15T23:04:25.966506726Z",
+  "model": "glm-5.3"
+}

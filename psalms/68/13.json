@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 68:13",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ידדון ידדון",
+      "rationale": "فعل دو واری دوہایا گیا اے — بھَجن دی تلخی وِچ، پنجابی وِچ دوہاء رکھیا اے"
+    },
+    {
+      "kind": "hapax",
+      "subject": "ונות",
+      "rationale": "گھر وِچ بیٹھی عورت لئی وَنّواں لفظ — لفظی شکل رکھی، کردار نئیں"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨بیٹھی⟩ عورت",
+      "rationale": "עברانی اسم صفت اے، پنجابی نوں سیاق لئی وادھا چاہیدا سی"
+    }
+  ],
+  "translation": "لشکراں دے بادشاہ بھَجدے نیں، بھَجدے نیں، تے گھر وِچ ⟨بیٹھی⟩ عورت لُٹ دا بٹوا کردی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "332e26d3e902df686a11d308ceb207dbff09942d7d48b00832af7ed49536235d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/68\/13-16.1792112872506.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "لشکراں دے"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "بھَجدے نیں"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "بھَجدے نیں"
+    },
+    {
+      "surface": "ונות",
+      "gloss": "تے گھر وِچ ⟨بیٹھی⟩ عورت"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "بٹوا کردی اے"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "لُٹ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:07:52.507448564Z",
+  "model": "glm-5.3"
+}

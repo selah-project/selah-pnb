@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 68:36",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "عبرانی nominal clause — پنجابی copula پایا گیا"
+    },
+    {
+      "kind": "crux",
+      "subject": "ממקדשיך",
+      "rationale": "'تیرے مقدس تھانواں توں' — جمع؛ کجھ 'تیرے مقدس لوکاں وِچوں' پڑھدے نیں"
+    },
+    {
+      "kind": "you",
+      "subject": "ایلوہیم",
+      "rationale": "سدھا مخاطب — اے ایلوہیم، تیرے…؛ دعا دی ہوائے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "برکت والا",
+      "rationale": "ברוך اصل وِچ 'گوڑنا\/برکت دینا' — ستھائی صورت وِچ دعا دا روپ"
+    }
+  ],
+  "translation": "ڈراؤنا اے ایلوہیم، تیرے مقدس تھانواں توں — یِسرائیل دا ایل، اوہ ایہو اے جیہڑا لوکاں نوں زور تے طاقتاں دیندا اے۔ برکت والا اے ایلوہیم۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "db787a3cfc0de424d527218d90fef0db47c5c089d15c0fb8004454cb3683a825",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/68\/33-36.1792112885011.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נורא",
+      "gloss": "ڈراؤنا اے"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "ממקדשיך",
+      "gloss": "تیرے مقدس تھانواں توں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل دا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ ایہو"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دیندا اے"
+    },
+    {
+      "surface": "עז",
+      "gloss": "زور"
+    },
+    {
+      "surface": "ותעצמות",
+      "gloss": "تے طاقتاں"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "لوکاں نوں"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "برکت والا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-10-16T01:08:05.012592273Z",
+  "model": "glm-5.3"
+}

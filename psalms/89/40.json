@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 89:40",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "נארתה",
+      "rationale": "נאר دراصل اِکو واری تنخ وِچ آؤندا اے — 'پھاڑنا\/توڑنا'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "تاج",
+      "rationale": "נזר اصل وِچ نذری\/Iearning مقدس چیتر — 'مقدس تاج' تصویر اے"
+    }
+  ],
+  "translation": "توں نے اپنے بندے دا عہد پھاڑ دتا اے، اوہدا تاج توں دھرتی وِچ لتھاڑ دتا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e75d1dbc97a178cd633585fc2377983fd052a1d55d33dc8c99dc1d944e2419b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/89\/37-40.1792113268707.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נארתה",
+      "gloss": "پھاڑ دتا اے"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "عہد"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "اپنے بندے دا"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "پلیت کیتا"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "دھرتی وِچ"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "اوہدا تاج"
+    }
+  ],
+  "timestamp": "2026-10-16T01:14:28.708549232Z",
+  "model": "glm-5.3"
+}

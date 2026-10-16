@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 24:6",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "copula",
+      "rationale": "Second clause lacks a verb; ⟨ہوندا اے⟩ supplied."
+    },
+    {
+      "kind": "hapax",
+      "subject": "תחבלות",
+      "rationale": "Steerage\/rope-management metaphor for counsel; plural only, rare word."
+    }
+  ],
+  "translation": "کیونکہ تدبیراں نال تُوں ⟨اپنی⟩ لڑائی کردا ایں، تے بچاؤ بہت سوجھواناں وِچ ⟨ہوندا اے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8320fc7b200d794ac86d2bb4d59068a7f94c81280b8edc7b4f516a72ab04e693",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/24\/5-8.1792114994534.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "בתחבלות",
+      "gloss": "تدبیراں نال"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "کردا ایں"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تُوں"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "لڑائی"
+    },
+    {
+      "surface": "ותשועה",
+      "gloss": "تے بچاؤ"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "بہت"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "سوجھواناں وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:43:14.535199449Z",
+  "model": "glm-5.3"
+}

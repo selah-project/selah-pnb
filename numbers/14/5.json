@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 14:5",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ڈگے اوہناں دے مونہاں اُتے",
+      "rationale": "על פניהם — اِدّی دا اظہار، لفظی 'اوہناں دے چہریاں اُتے'"
+    },
+    {
+      "kind": "elision",
+      "subject": "تے",
+      "gloss rationale": null,
+      "rationale": "عبرانی واجب اللفظ نوں ویکھدے ہوئے جوڑ 'تے' شروع وِچ"
+    },
+    {
+      "kind": "you",
+      "subject": "جماعت",
+      "rationale": "سارے اکٹھ دے ساہمنے — بھیڑ نوں مخاطب ہون دی تیاری"
+    }
+  ],
+  "translation": "تے موشے تے اہروں اوہناں دے مونہاں اُتے ڈگے، سارے اکٹھ، یِسرائیل دے پُتراں دی جماعت دے ساہمنے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "671e3b0487f09d7a3ef9bd87ea021ed250f97ec560519c4f1c37a72b75b407f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/14\/5-8.1792098590162.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "ڈگے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "تے اہروں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "اوہناں دے مونہاں"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ساہمنے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "اکٹھ"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "جماعت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں دی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-10-15T21:09:50.163564223Z",
+  "model": "glm-5.3"
+}

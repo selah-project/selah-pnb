@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 4:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "پنجابی ماضی لئی سہائی فعل، عبرانی وِچ صیغہ ای کافی اے"
+    },
+    {
+      "kind": "you",
+      "subject": "داوِد توں ایلوہیم ولّ",
+      "rationale": "سِدھی اِبتا یاہوہ نوں"
+    }
+  ],
+  "translation": "میرے سَدّن اُتے مینوں جواب دے، اے میری راستبازی دے ایلوہیم! تنگی وِچ تاں نے مینوں چوڑا کیتا ⟨سی⟩؛ مینوں مہربانی کر تے میری اِبتا سُن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8c174a185ab4aa0e751ac7befed73883264b6c3469270b59a657583123ea5fff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/4\/1-4.1792111831703.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בקראי",
+      "gloss": "میرے سَدّن اُتے"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "مینوں جواب دے"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "میری راستبازی دے"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "تنگی وِچ"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "چوڑا کیتا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مینوں"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "مینوں مہربانی کر"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "تے سُن"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "میری اِبتا"
+    }
+  ],
+  "timestamp": "2026-10-16T00:50:31.704493152Z",
+  "model": "glm-5.3"
+}

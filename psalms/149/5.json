@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 149:5",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 149,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "خوشی نال",
+      "rationale": "רננ دا اصل مطلب اے چِیخ کے آواز کڈھنا — پنجابی جملے لئی خوشی دا لفظ پایا"
+    },
+    {
+      "kind": "alternative",
+      "subject": "جلال وِچ",
+      "rationale": "בכבוד نوں کجھ 'عزت' لئی وی پڑھدے نیں — جلال\/عزت دوویں چلدیاں نیں"
+    }
+  ],
+  "translation": "خیسِد جلال وِچ اُچھلن، اوہ اپنیاں وچھاؤناں اُتے ⟨خوشی نال⟩ گاؤن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "138774c5926d3ebe1c2386901e2fdc7601bfdce21de5403bc196f06529cc508b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/149\/5-8.1792114260440.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יעלזו",
+      "gloss": "اُچھلن"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "خیسِد"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "جلال وِچ"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "گاؤن"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "اوہناں دیاں وچھاؤناں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:31:00.441106218Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "روح",
+      "rationale": "רוח لفظی ہوا\/ساہ اے — جان توں وکھرا مطلب۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וישב \/ תשוב",
+      "rationale": "اوہو جڑ שׁוב دو واری — دھوڑ تے روح دوویں مُڑدیاں نیں؛ پنجابی وِچ مُڑ دا دوہرا سان رکھیا۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "כשהיה پہلاں جیویں سی — پنجابی وِچ ماضی دا معاون فعل چاہیدا۔"
+    }
+  ],
+  "translation": "تے دھوڑ دھرتی اُتے مُڑ جاوے گی، جیویں پہلاں سی، تے روح اُوہدے ایلوہیم ول مُڑ جاوے گی جیہنے اوہنوں دتا سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "99bb107c3ddb5ec46020dbb91c063417abc421a294aea445d0421aa115bf71cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ecclesiastes\/12\/5-8.1792117768470.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "تے مُڑ جاوے گی"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "دھوڑ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "دھرتی"
+    },
+    {
+      "surface": "כשהיה",
+      "gloss": "جیویں پہلاں سی"
+    },
+    {
+      "surface": "והרוח",
+      "gloss": "تے روح"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "مُڑ جاوے گی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ول"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہنے"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "دتی سی"
+    }
+  ],
+  "timestamp": "2026-10-16T02:29:28.471807724Z",
+  "model": "glm-5.3"
+}

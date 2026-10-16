@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 14:25",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جاناں",
+      "rationale": "נפש ساہ\/جان اے، صرف روح نئیں — ایتھے گواہ دی گواہی نال بچن والیاں جاناں نیں"
+    },
+    {
+      "kind": "alternative",
+      "subject": "پر جھوٹھ پھونکدا فریب اے",
+      "rationale": "یا: تے جِہڑا جھوٹھ اُگلدا اے ⟨اوہ⟩ فریب اے — יפח دا مطلب 'ساہ پھونکنا\/اُگلنا' اے"
+    }
+  ],
+  "translation": "سچا گواہ جاناں نوں بچاؤندا اے، پر جھوٹھ پھونکدا ⟨ڈرام⟩ فریب اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a503a4807eb145afe664ba979f1e1725135328101dd9c08a3e60042993ceb982",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/14\/25-28.1792114699160.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מציל",
+      "gloss": "بچاؤندا اے"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "جاناں"
+    },
+    {
+      "surface": "עד",
+      "gloss": "گواہ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "سچا"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "پر پھونکدا اے"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "جھوٹھ"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "فریب"
+    }
+  ],
+  "timestamp": "2026-10-16T01:38:19.161408192Z",
+  "model": "glm-5.3"
+}

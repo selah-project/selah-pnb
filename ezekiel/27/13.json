@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 27:13",
+  "book": "ezekiel",
+  "lang": "pnb",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "بندے",
+      "rationale": "נפש اِدھے 'جان' اے — غلاماں دا وپار، ترجمیاں وِچ persons\/slaves دا مخول"
+    },
+    {
+      "kind": "addition",
+      "subject": "سن",
+      "rationale": "عبرانی وِچ کوپولا نئیں"
+    }
+  ],
+  "translation": "یاون، تُوبال تے مِشِک — ایہہ تیرے وپاری سن: آدمیاں دیاں جاناں تے تانبے دے برتناں نال اوہناں تیرا وپار کیتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1602e6e1c68a13bed739779e9c9f3c4a46e7815ff65de9aedf14ecc2492dfcb5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/27\/13-16.1792109746980.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יון",
+      "gloss": "یاون"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "تُوبال"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "تے مِشِک"
+    },
+    {
+      "surface": "המה",
+      "gloss": "اوہ ای"
+    },
+    {
+      "surface": "רכליך",
+      "gloss": "تیرے وپاری"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "جاناں نال"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمیاں دیاں"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "تے برتن"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "تانبے دے"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "دِتے"
+    },
+    {
+      "surface": "מערבך",
+      "gloss": "تیرا وپار"
+    }
+  ],
+  "timestamp": "2026-10-16T00:15:46.981324961Z",
+  "model": "glm-5.3"
+}

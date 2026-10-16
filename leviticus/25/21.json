@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 25:21",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "וְצִוִּיתִי אֶת בְּרָכָתִי",
+      "rationale": "عبرانی 'میری برکت نوں حکم دیواں گا' — پنجابی وِچ برکت اُتے حکم دینا فعل ٹُٹدا اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "چھیویں سال \/ تن ورھے",
+      "rationale": "ورتے دے حساب نال فصل دا ناپ"
+    }
+  ],
+  "translation": "تے مَیں ⟨את⟩ آپݨی برکت تُہاڈے اُتے چھیویں سال وِچ حکم کراں گا، تے اوہ ⟨את⟩ فصل تن ورھیاں لئی بنائے گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "020bb7a7f7ff70852909841de2f58f655ca18b325424cfa578f5e56300c1465e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/25\/21-24.1792098045085.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצויתי",
+      "gloss": "تے مَیں حکم کراں گا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آپݨی برکت"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "آپݨی برکت"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُہاڈے اُتے"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "سال وِچ"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "چھیویں"
+    },
+    {
+      "surface": "ועשת",
+      "gloss": "تے اوہ بنائے گا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "فصل"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "فصل"
+    },
+    {
+      "surface": "לשלש",
+      "gloss": "تن"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "ورھیاں لئی"
+    }
+  ],
+  "timestamp": "2026-10-15T21:00:45.085853732Z",
+  "model": "glm-5.3"
+}

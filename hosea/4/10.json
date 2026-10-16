@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 4:10",
+  "book": "hosea",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ودھسن",
+      "rationale": "יפרצו: 'ودھنا\/اولاد ودھنا' (KJV, JPS) بمقابلہ 'پھوٹ پینا\/پھیلنا' — سیاق ودھنا دسدا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ואכלו…ישבעו",
+      "rationale": "کھانا-رجنا تے بدکاری-نہ ودھنا دا سمانتا، نبوت دی چال"
+    }
+  ],
+  "translation": "تے اوہ کھاونگے پر نہ رجن گے؛ بدکاری کرن گے پر نہ ودھسن؛ کیونکہ اوہناں نے ⟨את⟩ یاہوہ نوں منن چھڈ دتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "61fd4fa7e45da5a249ce1a742f6a4b5f09e252b4f90ba37b927373d011f5b48a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/hosea\/4\/9-12.1792110425408.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "تے اوہ کھاونگے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "پر نہ"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "رجن گے"
+    },
+    {
+      "surface": "הזנו",
+      "gloss": "بدکاری کرن گے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "پر نہ"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "ودھسن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "چھڈ دتا"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "منن"
+    }
+  ],
+  "timestamp": "2026-10-16T00:27:05.409475451Z",
+  "model": "glm-5.3"
+}

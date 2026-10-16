@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 36:4",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תמים דעות",
+      "rationale": "'کامل علم والا' — کیڑا اِلیہو آپ نوں آکھدا اے (Geneva\/KJV دوجیاں دے الٹ) یا کسے ہور نوں؛ میں بے-فاعل رکھیا"
+    },
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "عبرانی وِچ کوپلا نئیں"
+    }
+  ],
+  "translation": "کیونجے سچمچ میریاں گلاں وِچ جھوٹ نئیں؛ کامل علم والا تیرے نال ⟨اے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "24e5b87c4aed1074e52d143d36c2a5464aab640f76850493d0b42587f76621a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/36\/1-4.1792116401782.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "سچمچ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "جھوٹ"
+    },
+    {
+      "surface": "מלי",
+      "gloss": "میریاں گلاں وِچ"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "کامل"
+    },
+    {
+      "surface": "דעות",
+      "gloss": "علم والا"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تیرے نال"
+    }
+  ],
+  "timestamp": "2026-10-16T02:06:41.784006138Z",
+  "model": "glm-5.3"
+}

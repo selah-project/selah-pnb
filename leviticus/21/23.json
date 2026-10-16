@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 21:23",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מקדשי",
+      "rationale": "جمع اے — 'میریاں پوتر تھاواں' — عام ترجمے واحد کر دیندے نیں۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "יחלל",
+      "rationale": "'بے عزت\/گندا کرے' دی مثبت ہدایت دے روپ وِچ: کجھ 'اوہ نہ کرے'، کجھ 'اوہ نہ کر سکے' پڑھدے نیں۔"
+    }
+  ],
+  "translation": "پر پردے اُتے اوہ داخل نئیں ہووے تے قربانگاہ اُتے نیڑے نئیں ہووے، کیوں جے داغ اے اوہدے وِچ؛ تے اوہ میریاں پوتر تھاواں نوں ⟨את⟩ بے عزت نہ کرے، کیوں جے میں یاہوہ آں، اوہناں نوں پاک کرن والا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a42b5bc31cb5eabb7e25781a611f821d630ae940254865bd7ee2cf7a43494325",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/21\/21-24.1792097955297.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "پر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "پردے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "داخل ہووے"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے … اُتے"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "قربانگاہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "نیڑے ہووے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جے"
+    },
+    {
+      "surface": "מום",
+      "gloss": "داغ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوہدے وِچ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "بے عزت کرے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میریاں پوتر تھاواں"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "میریاں پوتر تھاواں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جے"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "اوہناں نوں پاک کرن والا"
+    }
+  ],
+  "timestamp": "2026-10-15T20:59:15.299141283Z",
+  "model": "glm-5.3"
+}

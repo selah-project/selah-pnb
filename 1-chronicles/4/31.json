@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 4:31",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سن",
+      "rationale": "عبرانی وِچ کوئی فعل نئیں، پنجابی نوں سن چاہیدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "راج",
+      "rationale": "מלך ایتھے ملک اے 'داوِد دے راج کرن تک'، بادشاہ نئیں"
+    }
+  ],
+  "translation": "تے بیت-مرکابوت وِچ، تے حتصڑ-سوسیم وِچ، تے بیت-بِری وِچ، تے شعارایم وِچ — ایہہ اوہناں دے شہر سن، داوِد دے راج تک۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "916655366969ccb70eba1bb7b2ccc34550fe31c2abbe186b85adeec72485e1fd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/4\/29-32.1792120332169.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובבית",
+      "gloss": "تے بیت-"
+    },
+    {
+      "surface": "מרכבות",
+      "gloss": "مرکابوت وِچ"
+    },
+    {
+      "surface": "ובחצר",
+      "gloss": "تے حتصڑ-"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "سوسیم وِچ"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "تے بیت-"
+    },
+    {
+      "surface": "בראי",
+      "gloss": "بِری وِچ"
+    },
+    {
+      "surface": "ובשערים",
+      "gloss": "تے شعارایم وِچ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "اوہناں دے شہر"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "راج"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    }
+  ],
+  "timestamp": "2026-10-16T03:12:12.170653778Z",
+  "model": "glm-5.3"
+}

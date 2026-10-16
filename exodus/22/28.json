@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 22:28",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מלאתך ודמעך",
+      "rationale": "KJV\/Geneva دے پرانے نمبر ایہنوں 'دیوتاں دی نندا نہ کرو' پڑھدے نیں؛ JPS\/عبرانی ریت 'اپنی بھری فصل تے رس' — عبرانی متن ایتھے فصل\/رس ای اے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "دمع",
+      "rationale": "لفظی 'ہنجھو' اے — اِتھے بھاڄی دے رس (تیل\/شراب) دا استعارہ؛ اِکو عبرانی لفظ دوویں مطلب رکھدا اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "فصل",
+      "rationale": "مملوکت\/بھرائی دا مطلب فصل نال پورا ہوندا اے؛ پنجابی جملے لئی شبد ویہوڑا لوڑیدا سی۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "پہلا دینا",
+      "rationale": "آیت پہلے پھل، پہلے رس تے پہلوڑے دا لیکھا دیندی اے — دَے دا انتظام۔"
+    }
+  ],
+  "translation": "اپنی بھری ہوئی ⟨فصل⟩ تے اپنا رس ⟨دمع⟩ نہ روکیں، اِیہہ کہ پہلا دِے دیو؛ اپنیاں پُتراں دا پہلوڑا تُوں میں نوں دِیویں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e4dabd8d8a7a3991419a5decd7de7d44b94f488e4717ca96e9ea5cc581e126ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/22\/28-28.1792123293494.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלאתך",
+      "gloss": "اپنی بھری ہوئی ⟨فصل⟩"
+    },
+    {
+      "surface": "ודמעך",
+      "gloss": "تے اپنا رس ⟨دمع⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "روکیں"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "پہلا"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "اپنیاں پُتراں دا پہلوڑا"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "تُوں دِیویں"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میں نوں"
+    }
+  ],
+  "timestamp": "2026-10-16T04:01:33.495809749Z",
+  "model": "glm-5.3"
+}

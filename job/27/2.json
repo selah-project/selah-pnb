@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 27:2",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جان-قوت دے نیڑے ہے، روح نئیں"
+    },
+    {
+      "kind": "crux",
+      "subject": "חי אל",
+      "rationale": "قسم دی اِدا: 'ایل دے زِندہ ہون دی قسم' — کجھ مترجم 'جیویں خدا زِندہ اے' لکھدے نیں"
+    }
+  ],
+  "translation": "جیوَتا ایل ⟨زِندہ اے⟩ جیہنے میرا انصاف ہٹا دتا، تے شدّای جیہنے میری جان کُڑھی کیتی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d6412e9fc0059d6fe7bd8e695fbe47f8d2dc1094142e5433c7fbf63cd7dfb9da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/27\/1-4.1792116097051.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "جیوَتا ⟨زِندہ⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "ہٹا دتا"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "میرا انصاف"
+    },
+    {
+      "surface": "ושדי",
+      "gloss": "تے شدّای"
+    },
+    {
+      "surface": "המר",
+      "gloss": "کُڑھی کیتی"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میری جان"
+    }
+  ],
+  "timestamp": "2026-10-16T02:01:37.051912782Z",
+  "model": "glm-5.3"
+}

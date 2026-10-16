@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 39:2",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "עשרה",
+      "rationale": "گیارہویں اِکو پنجابی لفظ نال آیا، دوجا حصہ وکھرا نئیں لکھیا"
+    },
+    {
+      "kind": "addition",
+      "subject": "دِن",
+      "rationale": "عبرانی صرف 'مہینے دے نَویں' آکھدا اے؛ پنجابی 'نَویں کیہ؟' منگدا اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "date formula",
+      "rationale": "شہر دے ڈھاہے جان دا دن گِنیا گیا اے"
+    }
+  ],
+  "translation": "صِدقیاہو دے گیارہویں سال وِچ، چوتھے مہینے وِچ، مہینے دے نَویں ⟨دِن⟩، شہر وِچ دَرڑ پے گئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "165028f1741c1b507e606daec09be736c48d7e915bae80b8fd56dffd4f1b403a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/39\/1-4.1792108442220.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעשתי",
+      "gloss": "گیارہویں"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال وِچ"
+    },
+    {
+      "surface": "לצדקיהו",
+      "gloss": "صِدقیاہو دے"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "مہینے وِچ"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "چوتھے"
+    },
+    {
+      "surface": "בתשעה",
+      "gloss": "نَویں"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "مہینے دے"
+    },
+    {
+      "surface": "הבקעה",
+      "gloss": "دَرڑ پے گئی"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T23:54:02.220827790Z",
+  "model": "glm-5.3"
+}

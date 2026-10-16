@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوہنے",
+      "rationale": "عبرانی وِچ فاعل دا ضمیر صریح نئیں، صرف کریا اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "شجرہ",
+      "rationale": "ناواں دی لسٹ"
+    }
+  ],
+  "translation": "تے حُوشِیم توں اوہنے ⟨את⟩ اَبِیتُوب نوں تے ⟨את⟩ اِلپَعَل نوں جَمیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1f9824ca169078305df306c3abe3fe36f41e6227c7b51f04824fc1b3e64167e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/8\/9-12.1792120385264.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "تے حُوشِیم توں"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "جَمیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَبِیتُوب"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "اَبِیتُوب"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اِلپَعَل"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "اِلپَعَل"
+    }
+  ],
+  "timestamp": "2026-10-16T03:13:05.265678379Z",
+  "model": "glm-5.3"
+}

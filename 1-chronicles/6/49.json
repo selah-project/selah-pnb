@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-chronicles 6:49",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ויתנו",
+      "rationale": "ہibriہ نال دین والے ناں پچھلی آیت توں آندا اے؛ پنجابی جملے لئی کوئی نواں اسم نئیں پایا گیا"
+    },
+    {
+      "kind": "addition",
+      "subject": "دِتے",
+      "rationale": "پنجانی ماضی لئی وکھ کرن والا فعل، اِکو ויתנو دو واری پہنچدا اے دو مفعولاں تے"
+    }
+  ],
+  "translation": "تے یِسرائیل دے پُتراں نے لوییاں نوں ⟨את⟩ شہر دِتے تے ⟨את⟩ اوہناں دے میدان۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d7f8203b399c7bb06e783bb6d6b6e44c5c310e466b18c4c3e05090dc60003919",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/6\/49-52.1792120417356.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "تے دِتے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں نے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "لوییاں نوں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شہر"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "اوہناں دے میدان"
+    },
+    {
+      "surface": "מגרשיהם",
+      "gloss": "اوہناں دے میدان"
+    }
+  ],
+  "timestamp": "2026-10-16T03:13:37.356806661Z",
+  "model": "glm-5.3"
+}

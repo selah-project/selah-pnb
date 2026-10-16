@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 8:2",
+  "book": "song-of-songs",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨تُوں⟩",
+      "rationale": "תלמדנی فعل دا فاعل عبرانی نے نئیں لکھیا، پنجانی نے ⟨تُوں⟩ دِتا"
+    },
+    {
+      "kind": "crux",
+      "subject": "מעסיס",
+      "rationale": "ترے گَھٹ دا رس — ترجمے 'رس' یا 'نویں شراب'، میں 'رس' رکھیا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הרקח",
+      "rationale": "'مَشک والی' — ریتی ترجمے 'مسالیاں نال مِلی ہوئی' دسدے نیں"
+    }
+  ],
+  "translation": "مَیں تینوں لَے جانواں، تینوں میری ماں دے گھر وِچ لیا کے دَیواں؛ ⟨تُوں⟩ مینوں سکھاویں؛ مَیں تینوں مَشک والی شراب پلاؤواں، میرے انار دے رس توں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4681abec20a1bb380eb99c89cdb81178bbedde8ecf8f3c17fcac4d09fb6b634a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/song-of-songs\/8\/1-4.1792116905548.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנהגך",
+      "gloss": "لَے جانواں تینوں"
+    },
+    {
+      "surface": "אביאך",
+      "gloss": "لیا کے دَیواں تینوں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "میری ماں دے"
+    },
+    {
+      "surface": "תלמדני",
+      "gloss": "سکھاویں مینوں"
+    },
+    {
+      "surface": "אשקך",
+      "gloss": "پلاؤواں تینوں"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "شراب"
+    },
+    {
+      "surface": "הרקח",
+      "gloss": "مَشک والی"
+    },
+    {
+      "surface": "מעסיס",
+      "gloss": "رس"
+    },
+    {
+      "surface": "רמני",
+      "gloss": "میرے انار دا"
+    }
+  ],
+  "timestamp": "2026-10-16T02:15:05.549708342Z",
+  "model": "glm-5.3"
+}

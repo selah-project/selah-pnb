@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 32:33",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "مِٹا دیواں گا",
+      "rationale": "מחה دا مُڈھلا مطلب رگڑ کے مِٹاؤنا اے — لکھت وِچوں مٹاؤن دا دُکھالا"
+    },
+    {
+      "kind": "addition",
+      "subject": "گا",
+      "rationale": "عبرانی وِچ مستقبل دا صیغہ اے، پنجابی وِچ وقت دا نشان جوڑنا پیا"
+    },
+    {
+      "kind": "elision",
+      "subject": "מי אשר",
+      "rationale": "سُوالواکر 'کون؟' پنجابی وِچ سُچج بیورو بناوݨ لئی 'جِنہاں' بݨیا"
+    }
+  ],
+  "translation": "تے یاہوہ نے موشے نوں آکھیا: جِنہاں مینوں گُناہ کیتا اے، میں اوہنوں اپنی کتاب وِچوں مِٹا دیواں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5dd0d8af5437b86c6b201ab3e74e916ee98ad021afa9f31210a1f62723d2a299",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/32\/33-35.1792097067926.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "מי",
+      "gloss": "جِنہاں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "گُناہ کیتا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مینوں"
+    },
+    {
+      "surface": "אמחנו",
+      "gloss": "میں اوہنوں مِٹا دیواں گا"
+    },
+    {
+      "surface": "מספרי",
+      "gloss": "اپنی کتاب وِچوں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:44:27.927103821Z",
+  "model": "glm-5.3"
+}

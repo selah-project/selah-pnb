@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 23:22",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ערום יעرם",
+      "rationale": "اکو جڑ دا اسم-مصدر جوڑا (چلاک-چلاکائی)، پنجابی وِچ شدت رچھ گئی تے جوڑے دی صورت ہٹّ گئی"
+    },
+    {
+      "kind": "idiom",
+      "subject": "תהיה רגלו",
+      "rationale": "پر literal 'اوہدا پیر ہووے' رکھیا — اوہدا ٹھکاؤں\/往返 منی ایہو اے"
+    },
+    {
+      "kind": "invitation",
+      "subject": "جاؤ ہن",
+      "rationale": "شاؤل حکم دیندے ہوئے سدّا کردا اے"
+    }
+  ],
+  "translation": "جاؤ ہن، ہور پکا کرو، تے جاݨو تے ویکھو ⟨את⟩ اوہدی تھاں، جِتھے اوہدا پیر ہووے، کِسے اوہنوں اوتھے ویکھیا اے — کیوں جو مینوں آکھیا گیا اے جو اوہ بڑا چلاک اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c0ed6fcac6cc2e16d43ce6e198d650ed6fd7955df1ee1f8b15fb8c3c19e47b4d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/23\/21-24.1792102844308.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "جاؤ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ہن"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "پکا کرو"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ہور"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "تے جاݨو"
+    },
+    {
+      "surface": "وראו",
+      "gloss": "تے ویکھو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہدی تھاں"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "اوہدی تھاں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جِتھے"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ہووے"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "اوہدا پیر"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کِسے"
+    },
+    {
+      "surface": "ראהו",
+      "gloss": "اوہنوں ویکھیا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اوتھے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا گیا"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مینوں"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "چلاک"
+    },
+    {
+      "surface": "יערם",
+      "gloss": "بڑا چلاک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    }
+  ],
+  "timestamp": "2026-10-15T22:20:44.309464854Z",
+  "model": "glm-5.3"
+}

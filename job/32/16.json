@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 32:16",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "והוחלתי",
+      "rationale": "وقت ماضی ‘میں اُڈیک کیتی’ (KJV) بمقابلہ مستقبل\/سوال ‘کی میں ہور اُڈیکاں؟’ (ASV, JPS) — دونویں پڑھائیاں نیں۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩",
+      "rationale": "فاعل دا ضمیر عبرانی کریا دی جُٹّ نال دسدا اے، پنجابی وِچ لکھنا پیا۔"
+    }
+  ],
+  "translation": "تے میں اُڈیک کیتی، کیونکہ ⟨اوہ⟩ نئیں بولدے؛ کیونکہ ⟨اوہ⟩ کھلوتے رہے، ہور جواب نئیں دِتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "63590c2346f64a465b88e631266c6be14919feb59bb413133f67a56388e27aee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/32\/13-16.1792116272617.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוחלתי",
+      "gloss": "تے میں اُڈیک کیتی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "بولدے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "کھلوتے رہے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "جواب دِتا"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ہور"
+    }
+  ],
+  "timestamp": "2026-10-16T02:04:32.618228487Z",
+  "model": "glm-5.3"
+}

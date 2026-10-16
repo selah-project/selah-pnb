@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כי אם",
+      "rationale": "'جے … تاں' دی تکرار — 'بلکہ اصل وِچ' وی پڑھیا جاندا اے؛ ایتھے شرطی سلسلے دا دوجا درجا لیا گیا"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨یقیناً⟩",
+      "rationale": "'כי אם' دی زور والی شرط نوں پنجابی وِچ سامبھن لئی"
+    }
+  ],
+  "translation": "جے تُو عقل نوں پکاریں تے سمجھ لئی ⟨את⟩ آواز بلند کریں،",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6aba919b2ae6305385c391d93c0fef0b8588fd88c7bd5358683e953ff4cbeb3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/2\/1-4.1792114437222.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "جے"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨یقیناً⟩"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "عقل نوں"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "پکاریں"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "سمجھ لئی"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "دِتیں \/ کریں"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "اپنی آواز"
+    }
+  ],
+  "timestamp": "2026-10-16T01:33:57.223440273Z",
+  "model": "glm-5.3"
+}

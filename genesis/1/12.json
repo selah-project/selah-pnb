@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 1:12",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اے⟩",
+      "rationale": "عبرانی وِچ کوئی کریا نئیں، پنجابی 'اودے وِچ اے' منگدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "وתוצא",
+      "rationale": "'باہر کڈھنا' — پنجابی 'دِتا' کہِیا؛ زمین نوں دین والی بنایا گیا اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "اپنی قسم دی\/دا",
+      "rationale": "למינהו دو واری — قسم دی ونڈ اُتے زور"
+    }
+  ],
+  "translation": "تے زمین نے پَھل دِتا — بوٹی، بیج بوون والی اپنی قسم دی، تے رُکھ فَل بنان والا، جیہدے بیج اودے وِچ ⟨اے⟩، اپنی قسم دا۔ تے ایلوہیم نے ویکھیا کی اوہ چنگا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8f62476ec3a8ec90584dda549afd1ebb203cffe7948ea8641e427d4533d89a9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/1\/9-12.1792094656763.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותוצא",
+      "gloss": "تے دِتا"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین نے"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "پَھل"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "بوٹی"
+    },
+    {
+      "surface": "מזריע",
+      "gloss": "بیج بوون والی"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "بیج"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "اپنی قسم دی"
+    },
+    {
+      "surface": "ו עץ",
+      "gloss": "تے رُکھ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بنان والا"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "فَل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہدے"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "بیج"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اودے وِچ"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "اپنی قسم دا"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "تے ویکھیا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم نے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگا اے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:04:16.765073087Z",
+  "model": "glm-5.3"
+}

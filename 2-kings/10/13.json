@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 10:13",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "لئی",
+      "rationale": "לשלום ایک اسم اے — 'سلام'؛ پنجابی ساخت لئی حرف دِتا گیا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "مہارانی",
+      "rationale": "הגבירה دا مطلب 'سردارنی\/ودی عورت' اے — بادشاہ دی ماں لئی"
+    },
+    {
+      "kind": "you",
+      "subject": "یہُو دا سوال",
+      "rationale": "یہُو اَخَزیاہو دے بھراواں نوں سدھا مخاطب کردا اے: تُسیں کون او؟"
+    }
+  ],
+  "translation": "تے یہُو نے یہوداہ دے بادشاہ اَخَزیاہو دے بھراواں نوں ⟨את⟩ لبھیا، تے آکھیا: تُسیں کون او؟ تے اوہناں آکھیا: اسیں اَخَزیاہو دے بھرا آں، تے اسیں بادشاہ دے پُتراں تے مہارانی دے پُتراں نوں سلام آکھن ⟨لئی⟩ اُتردے آں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "cb0993fa46ab74349bd70a6958a8e262ac5f7b40d4123f3fa7db8bf9af49e82a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/10\/13-16.1792105188133.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוא",
+      "gloss": "تے یہُو"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "لبھیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بھراواں نوں"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "بھرا"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "اَخَزیاہو"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تُسیں"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "بھرا"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "اَخَزیاہو"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "اسیں"
+    },
+    {
+      "surface": "ונרד",
+      "gloss": "تے اُتردے آں"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "سلام آکھن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ دے"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "تے پُتر"
+    },
+    {
+      "surface": "הגבירה",
+      "gloss": "مہارانی دے"
+    }
+  ],
+  "timestamp": "2026-10-15T22:59:48.134700479Z",
+  "model": "glm-5.3"
+}

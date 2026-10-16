@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 43:17",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "فتیلہ",
+      "rationale": "פשתה الففط اے؛ فتیلے دا تصوَر ASV\/JPS دی 'wick' نال رَلدا اے، KJV دی 'tow' توں ودھ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דעכו\/כבו",
+      "rationale": "دو نیڑے دے معنےآں والے فعل — بُجھنا\/مُک جانا — اکو ساہ وِچ، شعر دی کوٹھی"
+    }
+  ],
+  "translation": "جو رتھ تے گھوڑے نوں، فوج نوں تے زور نوں باہر کڈدا اے — اوہ سارے رَل کے لیہہ جاندے نیں، اُٹھدے نئیں؛ اوہ گُل گئے، فتیلے وانگ بُجھ گئے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "860c0abc2c81991eb53eb5768f4b9b71242da6c7952b6d344839c9c91e3e99f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/43\/17-20.1792106692635.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המוציא",
+      "gloss": "باہر کڈدا اے"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "رتھ"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "تے گھوڑے"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "فوج"
+    },
+    {
+      "surface": "ועזוז",
+      "gloss": "تے زور"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "رَل کے"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "لیہہ جاندے نیں"
+    },
+    {
+      "surface": "בל",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "اُٹھدے"
+    },
+    {
+      "surface": "דעכו",
+      "gloss": "گُل گئے"
+    },
+    {
+      "surface": "כפשתה",
+      "gloss": "فتیلے وانگ"
+    },
+    {
+      "surface": "כבו",
+      "gloss": "بُجھ گئے"
+    }
+  ],
+  "timestamp": "2026-10-15T23:24:52.635596032Z",
+  "model": "glm-5.3"
+}

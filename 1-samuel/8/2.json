@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 8:2",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اے⟩ \/ ⟨سن⟩",
+      "rationale": "پنجابی نوں جملے لئی copula چاہیدی اے، عبرانی وِچ نئیں"
+    },
+    {
+      "kind": "elision",
+      "subject": "בבאר שבע",
+      "rationale": "دو ٹوکن اِک تھاں دے ناں 'بیر-شیبّا' بندے نیں، شیبّا وکھرا ترجمہ نئیں ہوندا"
+    }
+  ],
+  "translation": "تے اوہدے پہلوں پتر دا ناں یوایل ⟨اے⟩، تے اوہدے دوجے دا ناں ابیاہ ⟨اے⟩؛ اوہ بیر-شیبّا وِچ ججّ ⟨سن⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d1ec159518378571bd01164a52afac388618af46ba725b2458b1ed4b7bc9b6dc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/8\/1-4.1792102251234.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے ⟨سن⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناں"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اوہدے پتر دا"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "پہلوں"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "یوایل"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "تے ناں"
+    },
+    {
+      "surface": "משנהו",
+      "gloss": "اوہدے دوجے"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ابیاہ"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "ججّ"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "بیر-شیبّا وِچ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-15T22:10:51.235061989Z",
+  "model": "glm-5.3"
+}

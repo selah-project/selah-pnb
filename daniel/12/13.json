@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "daniel 12:13",
+  "book": "daniel",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨دی⟩ تھاں",
+      "rationale": "پنجابی جملہ لئی ہور وضاحت درکار، عبرانی وِچ صرف لگورلکھ اے"
+    },
+    {
+      "kind": "you",
+      "subject": "دانی‌ایل نوں",
+      "rationale": "سیدھا مخاطب — فرشتہ دانی‌ایل نال گل کردا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "گورل",
+      "rationale": "גורל مُڈھ روپ وِچ کنکر\/پیؤ اے جیہدے نال قرعہ پایا جاندا سی — حصہ\/ونڈ دا مطلب"
+    }
+  ],
+  "translation": "تے تُوں جا، انت تک، تے آرام کریں گا، تے اپنی گورل ⟨دی⟩ تھاں کھلوۓ گا، دناں دے انت وِچ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "760fdc6885ab7e9c1e0cf22ba3c474b1eacfa66611e6c147e205f250a7b006d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/daniel\/12\/13-13.1792118794819.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "تے تُوں"
+    },
+    {
+      "surface": "לך",
+      "gloss": "جا"
+    },
+    {
+      "surface": "לקץ",
+      "gloss": "انت تک"
+    },
+    {
+      "surface": "ותנוח",
+      "gloss": "تے آرام کریں گا"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "تے کھلوۓ گا"
+    },
+    {
+      "surface": "לגרלך",
+      "gloss": "اپنی گورل وِچ"
+    },
+    {
+      "surface": "לקץ",
+      "gloss": "انت وِچ"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "دناں دے"
+    }
+  ],
+  "timestamp": "2026-10-16T02:46:34.820589467Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "پنجابی فعل لئی صیغہ درکار اے، عبرانی وِچ نئیں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הנטע\/היסר",
+      "rationale": "9–10 آیتاں وِچ توکھے فاعل دے سوالاں دی سمت — יצר (اکھ بناؤن والا) دوجی واری آدمی نال آؤندا اے"
+    }
+  ],
+  "translation": "جیہڑا کن ⟨لایا⟩، کیہ اوہ نئیں سُندا؟ جیہڑا اکھ بناؤندا ⟨اے⟩، کیہ اوہ نئیں ویکھدا؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e44314235dd6f7e33bfd17834b872df97f0fc478f6b1ca676f0faca882961b7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/94\/9-12.1792113330931.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "جیہڑا لایا"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "کن"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "کیہ نئیں"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "سُندا"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "بناؤندا"
+    },
+    {
+      "surface": "עין",
+      "gloss": "اکھ"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "کیہ نئیں"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "ویکھدا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:15:30.931958726Z",
+  "model": "glm-5.3"
+}

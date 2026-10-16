@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 22:10",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ולקח",
+      "rationale": "عبرانی صرف 'لے گا' آکھدا اے — قبول کریگا (KJV\/JPS) مقابلے وِچ لفظی 'لے گا' رکھیا گیا"
+    },
+    {
+      "kind": "addition",
+      "subject": "قسم نوں",
+      "rationale": "מקח دا اضافہ کیونجے عبرانی وِچ בעליو دا مفعول لکھیا نئیں"
+    }
+  ],
+  "translation": "دوہاں وِچکار یاہوہ دی قسم ہووےگی، کہ اوہنے اپنے ہمدے دے کم نوں ہتھ نئیں لایا؛ تے اوہدا مالک ⟨قسم نوں⟩ لے گا، تے اوہ ⟨پورا⟩ نئیں کریگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f80bf2e6de2bddac0dc60239cd715af131cedcde923a6b50eb7f4107600f818d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/22\/9-12.1792096715348.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "قسم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ہووےگی"
+    },
+    {
+      "surface": "בין",
+      "gloss": "وِچکار"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "دوہاں"
+    },
+    {
+      "surface": "אם",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "لایا"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "اپنا ہتھ"
+    },
+    {
+      "surface": "במלאכת",
+      "gloss": "دے کم نوں"
+    },
+    {
+      "surface": "רעהو",
+      "gloss": "اپنے ہمدے"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "تے لے گا"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "اوہدا مالک"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "پورا کریگا"
+    }
+  ],
+  "timestamp": "2026-10-15T20:38:35.349758476Z",
+  "model": "glm-5.3"
+}

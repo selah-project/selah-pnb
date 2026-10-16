@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 6:5",
+  "book": "hosea",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اوہناں نوں⟩",
+      "rationale": "عبرانی وِچ مفعول صرف فعل دی صیغے وِچ اے، وکھرے لفظ نئیں"
+    },
+    {
+      "kind": "crux",
+      "subject": "וּמִשְׁפָּטֶיךָ",
+      "rationale": "مختلف متن پڑھتاں: 'تیرے فیصلے' (ך=تیرے) جاں 'میرے فیصلے'؛ چانݨ 'جیویں نِکلسن گے' جاں 'وَجھاں چمکدے نیں'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חָצַבְתִּי",
+      "rationale": "پتھر\/لکڑ وَڑن دا چتر — مار درڑن دا سوا، پنجابی وِچ وَڑ-کٹیا رکھیا"
+    }
+  ],
+  "translation": "ایس لئی میں نے نبیاں راہیں ⟨اوہناں نوں⟩ وَڑ-کٹیا، میں نے آپݨے مُکھ دے بچناں نال ⟨اوہناں نوں⟩ مار مُکایا، تے تیرے فیصلے چانݨ وانگوں نِکلسݨ گے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c818525ae574dde31efd66e91023b645295c9302d2e625baff48fe1bbc7c577f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/hosea\/6\/5-8.1792110454034.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ایس"
+    },
+    {
+      "surface": "כן",
+      "gloss": "لئی"
+    },
+    {
+      "surface": "חצבתי",
+      "gloss": "میں نے وَڑ-کٹیا"
+    },
+    {
+      "surface": "בנביאים",
+      "gloss": "نبیاں راہیں"
+    },
+    {
+      "surface": "הרגתים",
+      "gloss": "میں نے ⟨اوہناں نوں⟩ مار مُکایا"
+    },
+    {
+      "surface": "באמרי",
+      "gloss": "بچناں نال"
+    },
+    {
+      "surface": "פי",
+      "gloss": "میرے مُکھ دے"
+    },
+    {
+      "surface": "ומשפטיך",
+      "gloss": "تے تیرے فیصلے"
+    },
+    {
+      "surface": "אור",
+      "gloss": "چانݨ وانگوں"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "نِکلسݨ گے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:27:34.035453336Z",
+  "model": "glm-5.3"
+}

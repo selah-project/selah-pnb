@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 22:16",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מות תמות",
+      "rationale": "Infinitive-absolute construction 'dying you shall die' — emphatic death sentence; rendered 'موت نوں مرنا اے'۔"
+    },
+    {
+      "kind": "you",
+      "subject": "to Ahimelek",
+      "rationale": "Saul's death sentence addressed directly to the priest."
+    }
+  ],
+  "translation": "تے بادشاہ نے آکھیا: موت نوں مرنا اے، اہیمَلِکھ، تُوں تے تیرے پیو دا سارا گھر۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fd62a7b52c9047b14fe1ac45fa93f9b807c18850d3097395a99c3952491bd8a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/22\/13-16.1792102830713.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ نے"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "تُوں مریں"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "اہیمَلِکھ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُوں"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سارا"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "تیرے پیو دا"
+    }
+  ],
+  "timestamp": "2026-10-15T22:20:30.714332514Z",
+  "model": "glm-5.3"
+}

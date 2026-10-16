@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 16:12",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אל",
+      "rationale": "بizzt بعشا ول \/ خلاف — عبرانی اِکو لفظ 'ول' وی ہووے، ایتھے خلاف ٹھیک لگدا"
+    }
+  ],
+  "translation": "تے ذمری نے ⟨את⟩ سارے بعشا دے گھر نوں فنا کر دتا، یاہوہ دے بچن دے مطابق جیہڑا اوہنے بعشا دے خلاف یہو نبی دے ہتھوں آکھیا سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6f02ec899826ec5a24e1809910db58003015a7afa903464827bd41d854d62eee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/16\/9-12.1792104534914.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "تے فنا کر دتا"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "ذمری"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سارے بعشا دے گھر نوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "بعشا"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "بچن دے مطابق"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "خلاف"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "بعشا"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ہتھوں"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "یہو"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبی"
+    }
+  ],
+  "timestamp": "2026-10-15T22:48:54.915411646Z",
+  "model": "glm-5.3"
+}

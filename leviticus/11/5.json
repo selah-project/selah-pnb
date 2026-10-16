@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 11:5",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "شافان",
+      "rationale": "شپان — چٹان دا کھرے والا جانور (ہائریکس)، جے پنجابی جانور عام ناں مِلدا اے تاں ⟨⟩ وِچ وضاحت جائز اے۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "چباؤندا اے",
+      "rationale": "مادَعלہ گراہ — جیہدا مطلب کُعّابے چبانا اے؛ حیاتیات دے موجد شافان کُعّابے نئیں چباندا، پر لکھیا ہویا ای رہنا اے۔"
+    }
+  ],
+  "translation": "تے ⟨את⟩ شافان نوں ⟨تے⟩، کیونکہ اوہ گراہ ⟨چباؤندا⟩ اے پر پرسہ نئیں پھیڑدا، اوہ تہاڈے لئی نجس اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "49b0ff479b4266b9e8da21a064e53f03e1ba4487e131af884edcfeb504156b15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/11\/5-8.1792097564924.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "شافان نوں"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "شافان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "چباؤندا اے"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "گراہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "تے پرسہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יפריס",
+      "gloss": "پھیڑدا"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "نجس"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تہاڈے لئی"
+    }
+  ],
+  "timestamp": "2026-10-15T20:52:44.925364946Z",
+  "model": "glm-5.3"
+}

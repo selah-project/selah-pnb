@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 105:17",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שלח\/לפניהם",
+      "rationale": "آیت 17 تے 20 وِچ שלח دا دہراؤ — یوسف دی گھلائی تے بادشاہ ولوں اوس دا کھلھن، کیوسی ساخت"
+    },
+    {
+      "kind": "addition",
+      "subject": "نوں",
+      "rationale": "پنجابی لئی لازم"
+    }
+  ],
+  "translation": "اوہنے اوہناں توں پہلاں اِک بندے نوں گھلیا — یوسف نوں، جیہڑا غلام بن کے ویچیا گیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f8327d44b013834f214f5d4c59b87ad829552042b07997840c8b507bc8c87c53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/105\/17-20.1792113605101.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "اوہنے گھلیا"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "اوہناں توں پہلاں"
+    },
+    {
+      "surface": "איש",
+      "gloss": "اِک بندہ"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "غلام بن کے"
+    },
+    {
+      "surface": "נמכר",
+      "gloss": "ویچیا گیا"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    }
+  ],
+  "timestamp": "2026-10-16T01:20:05.101889460Z",
+  "model": "glm-5.3"
+}

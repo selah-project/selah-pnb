@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 9:2",
+  "book": "nehemiah",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "اقرار",
+      "rationale": "ידה دا مول مطلب اے 'سُتر سٹنا\/کتاب چُڑھانا' — ایس سیاق وِچ گناہ دا اقرار"
+    },
+    {
+      "kind": "elision",
+      "subject": "وایתודو دا پہلا مطلب",
+      "rationale": "عبرانی فعل دی مورت (سُتر چُڑھانا) پنجابی وِچ نئیں رہِی"
+    }
+  ],
+  "translation": "تے یِسرائیل دی نسل اوہناں پرائے پُتراں توں وکھری ہوئی، تے کھلو کے اپنے پاپاں تے اپنے پیؤاں دیاں گناہاں دا اقرار کیتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7df96e07a80ec1d0bd97725d0c7d5b960c9ebe58508f312f625a658ce3cb3f70",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/nehemiah\/9\/1-4.1792119825002.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבדלו",
+      "gloss": "تے وکھری ہوئی"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "اوہناں ساریاں توں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "پرائے"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "تے کھلو کے"
+    },
+    {
+      "surface": "ויתודו",
+      "gloss": "اقرار کیتا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "חטאתיהם",
+      "gloss": "اپنے پاپاں"
+    },
+    {
+      "surface": "ועונות",
+      "gloss": "تے گناہاں"
+    },
+    {
+      "surface": "אבתיהם",
+      "gloss": "اوہناں دے پیؤاں دیاں"
+    }
+  ],
+  "timestamp": "2026-10-16T03:03:45.003076737Z",
+  "model": "glm-5.3"
+}

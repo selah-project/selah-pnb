@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جان\/پریر اے، س流转 'rooh' نئیں"
+    },
+    {
+      "kind": "crux",
+      "subject": "شقّقہ",
+      "rationale": "ترسدی\/ترلھدی — 口渴 توں تتڑا، یا تڑپھدا؛ یتّ نے 'longing' لیا"
+    }
+  ],
+  "translation": "کیونجے اوہنے ترسدی جان نوں رجائیت دتی تے بھکی جان نوں ⟨את⟩ چنگیائی نال بھریا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fa2b43ed24c66df6cd26b57e8a2bfa3111682000e5d407cf23a768b653f78263",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/107\/9-12.1792113596316.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "رجائیت دتی"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "ترسدی"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "تے جان"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "بھکی"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "بھریا"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگیائی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:19:56.316959665Z",
+  "model": "glm-5.3"
+}

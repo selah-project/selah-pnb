@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezra 5:16",
+  "book": "ezra",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩",
+      "rationale": "پنجانی جملا ا.ctx گربن منگدا اے جو عبرانی وِچ کریا دی حالت وِچ چھپا اے"
+    }
+  ],
+  "translation": "تد ایہہ شیشبضصر آیا، ایلوہ دے گھر دی نیہ رکھی جیہڑا یروشلایم وِچ اے، تے تد توں ہن تک ⟨اوہ⟩ بندا پیا اے پر مکایا نئیں گیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a07c4da2ceeef8267fb0cd0b22fdda7c4bf63bc54d8d591390e6d80d784cf694",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezra\/5\/13-16.1792119124646.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "تد"
+    },
+    {
+      "surface": "ששבצר",
+      "gloss": "شیشبضصر"
+    },
+    {
+      "surface": "דך",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "אתא",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "יהב",
+      "gloss": "رکھی"
+    },
+    {
+      "surface": "אשיא",
+      "gloss": "نیہ"
+    },
+    {
+      "surface": "די",
+      "gloss": "دی"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "ایلوہ"
+    },
+    {
+      "surface": "די",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "یروشلایم وِچ"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "تے توں"
+    },
+    {
+      "surface": "אדין",
+      "gloss": "تد"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "כען",
+      "gloss": "ہن"
+    },
+    {
+      "surface": "מתבנא",
+      "gloss": "بندا پیا اے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "پر نئیں"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "مکایا"
+    }
+  ],
+  "timestamp": "2026-10-16T02:52:04.647809621Z",
+  "model": "glm-5.3"
+}

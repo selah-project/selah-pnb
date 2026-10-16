@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 37:38",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "פשעים",
+      "rationale": "‘گُناہگار’ — پوشעیم دا بُنیادی مورت ‘توڑ کے ہٹّھ کرن والے’ نیں، صرف گُناہ کرن والے نئیں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אחרית … אחרית",
+      "rationale": "37 تے 38 آیتاں وِچ اِکو لفظ אחרית دُہرایا گیا — سکھ-چین والے دے انت دے مُقابل جِنّھے راہ توں ٹُرن والیاں دا انت — پنجابی وِچ توازن رہندا اے"
+    }
+  ],
+  "translation": "تے گُناہگار اِکّو ویلے مِٹا دِتّے جان گے، جِنّھے راہ توں ٹُرن والیاں دا انت کَٹّیا جاویگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a429064bfbb82ff744531d14d0c6779c9187060890e06f4c1a4cfcce2b767c20",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/37\/37-38.1792124101395.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופשעים",
+      "gloss": "تے گُناہگار"
+    },
+    {
+      "surface": "נשמדו",
+      "gloss": "مِٹا دِتّے جان گے"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "اِکّو ویلے"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "انت"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "جِنّھے راہ توں ٹُرن والیاں دا"
+    },
+    {
+      "surface": "נכרתה",
+      "gloss": "کَٹّیا جاویگا"
+    }
+  ],
+  "timestamp": "2026-10-16T04:15:01.396282470Z",
+  "model": "glm-5.3"
+}

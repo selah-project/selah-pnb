@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 16:20",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "تاں",
+      "rationale": "عبرانی وِچ صرف واول اے؛ پنجjabi جملے لئی ⟨تاں⟩ دا اضافہ"
+    }
+  ],
+  "translation": "تے جدوں اوہ ⟨את⟩ مقدس تھاں تے ⟨את⟩ خیمہ اجتماع تے ⟨את⟩ مذبح لئی کفارہ کرن مکمل کر لوے، تاں اوہ ⟨את⟩ جیوندے بکرے نوں پیش کرے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a17951f644ba6e4159dd6373631f4a90397291ef9a694cbace2753afb91de8d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/16\/17-20.1792097861302.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכלה",
+      "gloss": "تے مکمل کر لوے"
+    },
+    {
+      "surface": "מכפר",
+      "gloss": "کفارہ کرن لئی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مقدس تھاں"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "مقدس تھاں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "خیمہ اجتماع"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمہ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "اجتماع"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "مذبح"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "مذبح"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "تے پیش کرے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جیوندا بکرا"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "جیوندا بکرا"
+    },
+    {
+      "surface": "החי",
+      "gloss": "جیوندا"
+    }
+  ],
+  "timestamp": "2026-10-15T20:57:41.303627626Z",
+  "model": "glm-5.3"
+}

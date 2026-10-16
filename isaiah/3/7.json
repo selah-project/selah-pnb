@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 3:7",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חבש",
+      "gloss-note": "",
+      "rationale": "'پٹی بنھن والا' (زخم بھرن والا) جاں 'سہارا دین والا' — حرفی مورت رکھی"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ישא",
+      "rationale": "נשא ׅاکھر 'چُکنا' اے؛ یس نے 'قسم چُکنا' لِیا، ایتھے سادہ 'جواب چُکنا' رکھیا"
+    }
+  ],
+  "translation": "اوہ اُس دن جواب چُکیگا تے آکھیگا: میں پٹی بنھن والا نئیں، نہ میرے گھر روٹی اے نہ چادر؛ مینوں قوم دا سردار نہ بناؤ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8caa9ba7f17fbdff8bfa49a025950000c275335c4dfa940f91596b8922267569",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/3\/5-8.1792105800925.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "جواب چُکیگا"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "اُس دن"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اُس"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "تے آکھیگا"
+    },
+    {
+      "surface": "لא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "میں ہوواں"
+    },
+    {
+      "surface": "חבש",
+      "gloss": "پٹی بنھن والا"
+    },
+    {
+      "surface": "ובביתי",
+      "gloss": "نہ میرے گھر"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "روٹی"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "چادر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "مینوں بناؤ"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم دا"
+    }
+  ],
+  "timestamp": "2026-10-15T23:10:00.926879500Z",
+  "model": "glm-5.3"
+}

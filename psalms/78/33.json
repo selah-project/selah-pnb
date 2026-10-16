@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 78:33",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اوہنے⟩",
+      "rationale": "عبرانی وِچ کارن دا ناں نئیں، سیاق توں ایلوہیم۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הבל\/בהלה",
+      "rationale": "دوویں لفظ ہکّو آواز نال جُڑے نیں — واء تے دہشت دا سُر مِلدا اے، پنجابی وِچ ہٹ جاندا اے۔"
+    }
+  ],
+  "translation": "تے ⟨اوہنے⟩ اوہناں دے دن واء وِچ مُکا دِتے تے اوہناں دے ورھے دہشت وِچ ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2b971d857eeacbd88287acb27b1a30f59104f8a47b10e9f68508965e551653f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/78\/33-36.1792113095494.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "تے مُکایا"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "واء وِچ"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "اوہناں دے دن"
+    },
+    {
+      "surface": "ושנותם",
+      "gloss": "تے اوہناں دے ورھے"
+    },
+    {
+      "surface": "בבהלה",
+      "gloss": "دہشت وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:11:35.494994266Z",
+  "model": "glm-5.3"
+}

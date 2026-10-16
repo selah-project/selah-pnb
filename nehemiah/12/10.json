@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 12:10",
+  "book": "nehemiah",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "کاہناں دی نسل لڑی",
+      "rationale": "یِشُوع توں یادُوع تک پنج پیڑھیاں دا ناواں دا حساب"
+    },
+    {
+      "kind": "elision",
+      "subject": "הוליד",
+      "rationale": "تیجی جوڑ وِچ کریا دا دہراؤ پنجابی وِچ چھڈیا — عبرانی دا ادھورا جملہ ایسے سوں"
+    }
+  ],
+  "translation": "تے یِشُوع نے ⟨את⟩ یویاکِم نوں جنمیا، تے یویاکِم نے ⟨את⟩ اِلیاشِو نوں جنمیا، تے اِلیاشِو ⟨את⟩ یویاداع۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "11c870efc327358f421b2820a853415dc096647e9361edacfef9d48d6a83eb78",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/nehemiah\/12\/9-12.1792119916516.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישוע",
+      "gloss": "تے یِشُوع"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "جنمیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یویاکِم"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "یویاکِم"
+    },
+    {
+      "surface": "ויויקים",
+      "gloss": "تے یویاکِم"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "جنمیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اِلیاشِو"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "اِلیاشِو"
+    },
+    {
+      "surface": "ואלישיב",
+      "gloss": "تے اِلیاشِو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یویاداع"
+    },
+    {
+      "surface": "יוידע",
+      "gloss": "یویاداع"
+    }
+  ],
+  "timestamp": "2026-10-16T03:05:16.517477883Z",
+  "model": "glm-5.3"
+}

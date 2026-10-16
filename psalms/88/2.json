@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 88,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "چ",
+      "rationale": "پنجابی وچ 'دِن چ' لئی حالت دا نشان چاہیدا، عبرانی وچ نئیں"
+    }
+  ],
+  "translation": "یاہوہ، میری خلاصی دے ایلوہیم، دِن چ میں چیخدا آں، رات وِچ تیرے ساہمنے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e9be61345a0526ae278b5e0ab0a1d76c8f25951a4be1da4f53fd5cee2af8d07f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/88\/1-4.1792113243015.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "میری خلاصی"
+    },
+    {
+      "surface": "יום",
+      "gloss": "دِن چ"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "چیخدا آں"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "رات وِچ"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "تیرے ساہمنے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:14:03.016351115Z",
+  "model": "glm-5.3"
+}

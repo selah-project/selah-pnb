@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 2:12",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "גבעונה",
+      "gloss": "عبرانی وِچ تاکدی 'تک' کوئی نئیں؛ پنجابی 'نوں' نال جوڑ دِتا۔"
+    }
+  ],
+  "translation": "تے نیر دے پُتر اَونیر تے شاؤل دے پُتر اِش-بوشت دے غلام محنایم توں گِبعون نوں نِکلیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0ee6f91da8c11f6284c71095e8cd8f8c1d2c1df106a0b431eb45ed6dae18ff07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/2\/9-12.1792103065487.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "تے نِکلیا"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "اَونیر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "נר",
+      "gloss": "نیر"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "تے غلام"
+    },
+    {
+      "surface": "איש",
+      "gloss": "اِش-"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "بوشت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "ממחנים",
+      "gloss": "محنایم توں"
+    },
+    {
+      "surface": "גבעונה",
+      "gloss": "گِبعون نوں"
+    }
+  ],
+  "timestamp": "2026-10-15T22:24:25.488997824Z",
+  "model": "glm-5.3"
+}

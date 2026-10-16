@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 12:12",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "پھل",
+      "rationale": "עברי صرف 'دیندی اے' آکھدا اے — پنجابی وِچ پھل ⟨⟩ نال پایا گیا"
+    },
+    {
+      "kind": "crux",
+      "subject": "מצוד",
+      "rationale": "'جال\/شکار' — JPS 'شکار' لیندا اے، عبرانی لفظ جال دی ہی تصویر اے"
+    }
+  ],
+  "translation": "بدکار برے لوکاں دے جال دی خواہش رکھدا اے، پر نیوں دلاں دی جڑ ⟨پھل⟩ دیندی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0515d51e99208262472f592aff6a1f772cb943d75aba443c523cbfbe4bda4475",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/12\/9-12.1792114619513.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חמד",
+      "gloss": "خواہش-رکھدا-اے"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "מצוד",
+      "gloss": "جال"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "برے-لوکاں-دے"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "تے-جڑ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "نیوں-دلاں-دی"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دیندی-اے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:36:59.514214430Z",
+  "model": "glm-5.3"
+}

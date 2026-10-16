@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 23:19",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨کہ⟩",
+      "rationale": "عبرانی وِچ نسبت دا کوئی حرف نئیں؛ پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "پچھتاوے",
+      "rationale": "נחם دا مُڈھ ساہ لینا\/تسکین اے — پچھتاوا، تے بدلن دا ارادہ، دوویں پاسیوں نکھردا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "כזב",
+      "rationale": "'جھوٹ بولے' بمقابلہ ' dhوکھا دے' — کجھ مترجم دھوکھا دیندے نیں، کجھ سِدھا جھوٹ"
+    }
+  ],
+  "translation": "ایل بندہ نئیں ⟨کہ⟩ جھوٹ بولے، تے آدم دا پُتر نئیں ⟨کہ⟩ پچھتاوے۔ اوہ نے آکھیا — تے ⟨کی اوہ⟩ نہ کرے؟ تے بولیا — تے ⟨کی اوہ⟩ اوہنوں قائم نہ رکھے؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ea3788f67f9d0171360c4368d4d698cafff47776f74eac58fb090edb2e091f00",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/23\/17-20.1792099091201.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "ויכזב",
+      "gloss": "تے جھوٹ بولے"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "تے پُتر"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم دا"
+    },
+    {
+      "surface": "ויתנחם",
+      "gloss": "تے پچھتاوے"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اوہ خود"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کرے"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "تے بولیا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יקימננה",
+      "gloss": "قائم رکھے"
+    }
+  ],
+  "timestamp": "2026-10-15T21:18:11.202233739Z",
+  "model": "glm-5.3"
+}

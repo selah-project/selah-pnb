@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 24:7",
+  "book": "ezekiel",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "رہیا",
+      "rationale": "היה نوں پنجابی جملا مکمل کرن لئی فعل دی لوڑ اے — بریکٹ کیتا۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "צחיח",
+      "rationale": "'ننگا\/دُھپ وِچ کھلا' — چمکدا ہویا تِکھا پتھر؛ 'اُچا' (KJS دھرو) نئیں۔"
+    }
+  ],
+  "translation": "کیونکہ اوہدا لہو اوہدے وِچ ⟨رہیا⟩؛ ننگی چٹان اُتے اوہنوں رکھیا، دھرتی اُتے اوہنوں نئیں سُٹیا کہ اوہدے اُتے مٹی لا کے ڈھک دِتی جاوے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a5713b41536115e2a3b619c601c23e33efb8e0e97c5f60902790baa1b4279785",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/24\/5-8.1792109678070.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "اوہدا لہو"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "اوہدے وِچ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨رہیا⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "צחיח",
+      "gloss": "ننگی"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "چٹان"
+    },
+    {
+      "surface": "שמתהו",
+      "gloss": "اوہنوں رکھیا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "שפכתהו",
+      "gloss": "سُٹیا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "دھرتی"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "لا کے ڈھکنا"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اوہدے اُتے"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "مٹی"
+    }
+  ],
+  "timestamp": "2026-10-16T00:14:38.071687684Z",
+  "model": "glm-5.3"
+}

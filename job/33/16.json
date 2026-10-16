@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 33:16",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوہ",
+      "rationale": "عبرانی وچ کردار فعل دی صیغے توں پتہ چلدا اے؛ ضمیر پنجابی نے پائی"
+    },
+    {
+      "kind": "crux",
+      "subject": "יחתם",
+      "rationale": "'مہر لاؤندا اے' — مترجماں وِچوں اختلاف: کنج کہندا اے 'تعلیم اُتے مہر'، جے پی ایس 'اوہناں دی تنبیہ نال فرمان مہر کردا اے'، بی ایس بی 'ڈراؤندا اے' — مہر بند کرنا یا پکا کرنا دوویں سمجھے گئے نیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "کھولھدا اے",
+      "rationale": "יגלה دا مول مطلب 'بے نقاب کرنا \/ کھولھنا' اے — 'کان کھولھنا' سامع عادت اے"
+    }
+  ],
+  "translation": "تدوں اوہ بندیاں دے کان کھولھدا اے، تے اوہناں دی تنبیہ اُتے مہر لا دیندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b0dcf3360488f754ecc86138c9dea7233fcf3fdc07daf15cf5cc574e5a3c8f1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/33\/15-16.1792124282395.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "تدوں"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "کھولھدا اے"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "کان"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "بندیاں دے"
+    },
+    {
+      "surface": "ובמסרם",
+      "gloss": "تے اوہناں دی تنبیہ اُتے"
+    },
+    {
+      "surface": "יחתם",
+      "gloss": "مہر لا دیندا اے"
+    }
+  ],
+  "timestamp": "2026-10-16T04:18:02.396435663Z",
+  "model": "glm-5.3"
+}

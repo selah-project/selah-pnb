@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 68:21",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "دی اے",
+      "rationale": "عبرانی وِچ کوئی فعل کوپولا نئیں، پنجابی نوں لوڑ اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "نِکاسیاں",
+      "rationale": "תוצאות دا پکھ 'بھاگن دے رستے' اے — موت توں نِکلن دے راہ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "למושעות\/תוצאות",
+      "rationale": "دوواں جمع صیغے مُکتی تے نِکاسی — آواز دی رلائی"
+    }
+  ],
+  "translation": "ایہہ اِل ساڈا اے، اِل مُکتیاں دا، تے یاہوہ ادونای ⟨دی اے⟩ موت توں نِکاسیاں ⟨دی ملکیت⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7d1ce227a1f20f3019b18c287bbf851593961d95f40d6f997cd7aca082101515",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/68\/21-24.1792112850679.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "ایہہ اِل"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ساڈا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اِل"
+    },
+    {
+      "surface": "למושעות",
+      "gloss": "مُکتیاں دا"
+    },
+    {
+      "surface": "וליהוה",
+      "gloss": "تے یاہوہ نوں"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "למות",
+      "gloss": "موت توں"
+    },
+    {
+      "surface": "תוצאות",
+      "gloss": "نِکاسیاں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:07:30.680151442Z",
+  "model": "glm-5.3"
+}

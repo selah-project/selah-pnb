@@ -1,0 +1,148 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 13:11",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "sons: plural or one",
+      "rationale": "ויבוא בנו is singular 'his son came' (KJV 'his sons') — Punjabi keeps the singular 'پُتر آیا' per the Hebrew form"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ایلوہیم",
+      "rationale": "איש האלהים rendered 'ایلوہیم دے بندہ' — the divine name kept as name, not the common word 'خدا'"
+    }
+  ],
+  "translation": "تے اِک بُڈھا نبی بَیت ایل وِچ وس رہا سی، تے اوہدے پُتر آئے تے اوہنوں ⟨את⟩ سارا اوہ کم دسّیا جو خدا دے بندے نے اَج بَیت ایل وِچ کیتا — ⟨את⟩ اوہ بچن جو اوہنے بادشاہ نال آکھے، اوہناں اپنے پیو نوں دسّے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "38d5421fcb8046a6c84306eadc6c3688130497235b0557ec72485765958b1f13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/13\/9-12.1792104419330.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונביא",
+      "gloss": "تے اِک نبی"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "اِک"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "بُڈھا"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "وس رہا سی"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "بَیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل وِچ"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "تے آیا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اوہدا پُتر"
+    },
+    {
+      "surface": "ויספר",
+      "gloss": "تے دسّیا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہنوں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سارا اوہ کم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "کم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کیتا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم دے"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اَج"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "بَیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل وِچ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہ بچن"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "بچن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "آکھے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "ויספרום",
+      "gloss": "تے اوہ دسّے"
+    },
+    {
+      "surface": "לאביהם",
+      "gloss": "اپنے پیو نوں"
+    }
+  ],
+  "timestamp": "2026-10-15T22:46:59.331077292Z",
+  "model": "glm-5.3"
+}

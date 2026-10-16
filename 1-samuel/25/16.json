@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 25:16",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "کندھ بنے رہے",
+      "rationale": "عبرانی نقلی تصویر — بندے ہر ویلے ڈھال وانگوں کندھ سن؛ پنجابی وِچ وی اونوں تصویر ای رکھیا اے۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גם לילה גם יומם",
+      "rationale": "'وی… وی' دی تکرار رات تے دن نوں جوڑدی اے — پنجابی 'وی' نے اوہ سامان رکھیا اے۔"
+    }
+  ],
+  "translation": "کندھ بنے رہے اوہ ساڈے اُتے، رات وی تے دن وی، سارے دن ساڈے اوہناں نال رہن دے، اسیں بھیڈاں چاریندے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f31918c70d8ab991d80eaaa3feb942cda977601c4cac09f9b1e91c21798a190b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/25\/13-16.1792102874089.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חומה",
+      "gloss": "کندھ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "بنے رہے"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ساڈے اُتے"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "رات"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "دن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "دن"
+    },
+    {
+      "surface": "היותנו",
+      "gloss": "ساڈے رہن"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "اوہناں نال"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "چاریندے"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "بھیڈاں"
+    }
+  ],
+  "timestamp": "2026-10-15T22:21:14.090686565Z",
+  "model": "glm-5.3"
+}

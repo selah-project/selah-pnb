@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 19:14",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "رُوح",
+      "rationale": "רוח 'ہوا\/ساہ\/روح' — اِتھے تیجھیبھری ہوا ورگا روح، اِک لفظ رکھیا۔"
+    },
+    {
+      "kind": "idiom",
+      "subject": "בקיאו",
+      "rationale": "پنجابی 'اپنیے الٹیاں وِچ لڑھکنا' — عبرانی 'اوہدی اُلٹی وِچ ٹُرردا' دی صورت۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "پنجابی فعل حال لئی معاون فعل، عبرانی وِچ نئیں۔"
+    }
+  ],
+  "translation": "یاہوہ نے اوہدے وِچکار تیجھیبھری رُوح رَلائی اے، تے اوہ مِتصرایم نوں ⟨את⟩ اوہدے ہر کم وِچ گواہ لاؤندے نیں، جیویں نشے وِچ کوئی اپنیے الٹیاں وِچ لڑھکدا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5fabc8087edf6a27b3969907c2c408d1bd9b295faadc7a1a922b88b08a633a4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/19\/13-16.1792106147025.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "رَلائی"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "اوہدے وِچکار"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "رُوح"
+    },
+    {
+      "surface": "עועים",
+      "gloss": "تیجھیبھری"
+    },
+    {
+      "surface": "והתעו",
+      "gloss": "تے اوہ گواہ لاؤندے نیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مِتصرایم"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "اوہدے کم"
+    },
+    {
+      "surface": "כהתעות",
+      "gloss": "جیویں لڑھکدا اے"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "نشے وِچ کوئی"
+    },
+    {
+      "surface": "בקיאו",
+      "gloss": "اپنیے الٹیاں وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T23:15:47.026234262Z",
+  "model": "glm-5.3"
+}

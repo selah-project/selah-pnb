@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 20:30",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "תמריק",
+      "rationale": "ایہ شکل تنخ وچ صرف ایتھے آؤندی اے — مانگ منجھن\/گھسن دا مطلب"
+    },
+    {
+      "kind": "crux",
+      "subject": "کوڑیاں دے داغ",
+      "rationale": "KJV 'blueness of a wound' vs JPS 'sharp wounds' — חברות دا مطلب کوڑی دا نشان\/داغ اے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "پیٹ دے اندرونی کمرےآں",
+      "rationale": "חדרי בטن — شاید مراد شعور دے لُکے حصے، پر اصل تصویر 'پیٹ دے کمرے' ای رکھی"
+    }
+  ],
+  "translation": "کوڑیاں دے داغ تے زخم برائی نوں ⟨منجھدے⟩ نیں، تے ماراں پیٹ دے اندرونی کمرےآں تک اپڑدیاں نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6f470061edb896d65a39e812fe8b9cc41b6faa1019529df174eadd0c44ea442f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/20\/29-30.1792114879626.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חברות",
+      "gloss": "کوڑیاں دے داغ"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "زخم"
+    },
+    {
+      "surface": "תמריק",
+      "gloss": "منجھدے نیں"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "برائی نوں"
+    },
+    {
+      "surface": "ומכות",
+      "gloss": "تے ماراں"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "کمرےآں"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "پیٹ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:41:19.627062933Z",
+  "model": "glm-5.3"
+}

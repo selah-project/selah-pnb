@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 10:1",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמעת\/שמע",
+      "rationale": "اکو جڑ سُنݨ\/سنی ہوئی گل — فعل تے اوس دا مفعول اِکو آواز نال جُڑے نیں"
+    },
+    {
+      "kind": "mystery",
+      "subject": "בחידות",
+      "rationale": "بُجھارتاں — لُکائی ہوئی گیان دا مطلب، جان بُجھ کے کھولھے جان والے سوال"
+    }
+  ],
+  "translation": "تے شِبا دی ملکانی نے سُنی ⟨את⟩ شلوموہ دی سُنی ہوئی گل، یاہوہ دے ناں ⟨بارے⟩، تے آئی اوہنوں بُجھارتاں وِچ پرکھن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "50364eeec703b16db8f65781edc4e874adaca30b68e74428bb634791d189bdea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/10\/1-4.1792104332912.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומלכת",
+      "gloss": "تے ملکانی"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "شِبا"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "سُن رہی سی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شلوموہ دی سُنی ہوئی گل"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سُنی ہوئی گل"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلوموہ"
+    },
+    {
+      "surface": "لשם",
+      "gloss": "ناں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "تے آئی"
+    },
+    {
+      "surface": "לנסתו",
+      "gloss": "اوہنوں پرکھن"
+    },
+    {
+      "surface": "בחידות",
+      "gloss": "بُجھارتاں وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T22:45:32.913305248Z",
+  "model": "glm-5.3"
+}

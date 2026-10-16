@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ruth 3:2",
+  "book": "ruth",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "مودعتݨو",
+      "rationale": "مودعت 'جان-پچھان والا' یا 'ساک' — ترجمے ونڈدے نیں: کجھ 'رفیق'، کجھ 'اکھاؤں رشتے دار'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "گرݨ",
+      "rationale": "گرݨ کھلیھر (پھلݨ دی تھاں) اے، 'جَو دی کھلیھر' ٹھیک صورت اے"
+    }
+  ],
+  "translation": "تے ہن کی بوعز ساڈا جان-پچھان والا نئیں، جیدے نَوہِنکیاں ⟨את⟩ نال تُوں رلیا؟ ویکھ، اوہ اِس رات جَو دی کھلیھر ⟨את⟩ نوں پھوکدا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "dbb9a084c7daf989b62d592c2865d0508d20dc6c9940d8b4588d0f3c0e417192",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ruth\/3\/1-4.1792116982571.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "تے ہن"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "کی… نئیں"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "بوعز"
+    },
+    {
+      "surface": "מדעתנו",
+      "gloss": "ساڈا جان-پچھان والا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیدے"
+    },
+    {
+      "surface": "היית",
+      "gloss": "تُوں رلیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نَوہِنکیاں (اودھیاں جوان کُڑیاں)"
+    },
+    {
+      "surface": "נערותיו",
+      "gloss": "نَوہِنکیاں"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ویکھ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "پھوکدا اے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جَو دی کھلیھر"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "کھلیھر"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "جَو دی"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "اِس رات"
+    }
+  ],
+  "timestamp": "2026-10-16T02:16:22.572327296Z",
+  "model": "glm-5.3"
+}

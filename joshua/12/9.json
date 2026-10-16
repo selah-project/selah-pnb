@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 12:9",
+  "book": "joshua",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "دا",
+      "rationale": "عبرانی وِچ اضافت دا مورچہ اے، پنجابی نوں ’دا‘ چاہیدا اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "اِک",
+      "rationale": "بادشاہاں دی گنتی — ہر اِک دے مگروں ’اِک‘"
+    }
+  ],
+  "translation": "یریحو دا بادشاہ اِک؛ ہعای دا بادشاہ، جیہڑا بیت ایل دے پاسے اے، اِک؛",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ad6055c9a6b0b0a6addd8238de16a5f7e0e2bce20b98e803d2a02620ff729810",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joshua\/12\/9-12.1792100936553.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "یریحو"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "اِک"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "העי",
+      "gloss": "ہعای"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "מצד",
+      "gloss": "پاسے"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "اِک"
+    }
+  ],
+  "timestamp": "2026-10-15T21:48:56.553835384Z",
+  "model": "glm-5.3"
+}

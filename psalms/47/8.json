@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משכיל",
+      "rationale": "'سمجھ کے' بمقابلہ 'سُکھیا ہویا گیت' (مزمور دی سرخی دا لفظ) بمقابلہ 'ہوشیار ہو کے'"
+    },
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "عبرانی وِچ کوئی فعلِ ربط نئیں، پنجابی جملہ چاہیدا اے"
+    }
+  ],
+  "translation": "کیوں جے ساری دھرتی دا بادشاہ ایلوہیم اے — سمجھ کے وَڄاؤ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d85656acc6dcb427d1a999a114b159e188cebb46a2153fd77c0ea58dbb988aed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/47\/5-8.1792112560359.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جے"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "دھرتی دا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "זמרو",
+      "gloss": "وَڄاؤ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "سمجھ کے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:02:40.360316083Z",
+  "model": "glm-5.3"
+}

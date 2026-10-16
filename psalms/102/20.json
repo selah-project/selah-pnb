@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 102:20",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "השקיף",
+      "rationale": "Literal: to lean out (of a window) — rendered 'جھاتی پیا' (peered down)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "השקיף\/הביט",
+      "rationale": "Two near-synonymous gazing verbs frame a chiasm: look-out-from-height \/\/ YHWH-from-heaven-to-earth-gazed."
+    }
+  ],
+  "translation": "کیونجے اوہ اپنی مقدس اُچی تھاں توں جھاتی پیا، یاہوہ نے اسماناں توں دھرتی ول تک دیکھیا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "38816c447df579f62a10ec9aa4bb74f1928f848fff819936d8a49ae76bdeed98",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/102\/17-20.1792113473972.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "جھاتی پیا"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "اُچی تھاں توں"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "اپنی مقدس"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ نے"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "اسماناں توں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ول"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "دھرتی"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "تک دیکھیا اے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:17:53.973848144Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 46:6",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על יד",
+      "rationale": "'ہتھ اُتے' دا عبرانی محاورہ 'کنارے\/کول' دا کم دیندا اے — لفظی 'ہتھ' پنجابی وِچ گُمراہ کردا۔"
+    },
+    {
+      "kind": "alternative",
+      "subject": "אל ינוס",
+      "rationale": "منفی حکم ('بھجّ نہ جاوے') یا بیانی ('بھجّ نئیں سکدا') — دوویں واچن ممکن نیں؛ کُل وچ حکم چُنیا۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כשלו ונפלו",
+      "rationale": "ٹھوکِر تے ڈِگن — گرجدار جوڑ، عبرانی دی نبض قائم رہی۔"
+    }
+  ],
+  "translation": "پھرتیلا بھجّ نہ جاوے، تے سورما بچ نہ نِکلے؛ اُترلے پاسے دریائے پِراتھ دے کنڈھے اوہ ٹھوکِر کھا کے ڈِگ پئے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "099de369b38be0297e87452360f8fd24011f05e5a0d1937fbdce116c97513186",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/46\/5-8.1792108541247.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "بھجّ جاوے"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "پھرتیلا"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "بچ نِکلے"
+    },
+    {
+      "surface": "הגבור",
+      "gloss": "سورما"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "اُترلے پاسے"
+    },
+    {
+      "surface": "על",
+      "gloss": "کنڈھے"
+    },
+    {
+      "surface": "יד",
+      "gloss": "⟨کنارے⟩"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "دریا دے"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "پِراتھ"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "ٹھوکِر کھادی"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "تے ڈِگ پئے"
+    }
+  ],
+  "timestamp": "2026-10-15T23:55:41.248311177Z",
+  "model": "glm-5.3"
+}

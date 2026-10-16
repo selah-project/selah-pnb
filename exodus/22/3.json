@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 22:3",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ਹਿਮਾਤਸੇ ਤਿਮਾਤੇ",
+      "rationale": "ਇਬਰਾਨੀ ਕਿਰਿਆ ਦਾ ਅਨੰਤ-ਪਦ (ਯਕੀਨ ਦੀ ਤਾਕੀਦ) — 'ਯਕੀਨਾ ਪਾਈ ਜਾਵੇ' ਨਾਲ ਦਿੱਤਾ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ਦੋਹਰਾ ਭੁਗਤਾਨ",
+      "rationale": "ਚੋਰੀ ਦੀ ਜੁਰਮਾਨੇ ਦੀ ਗਿਣਤੀ — ਜੀਵਤ ਚੀਜ਼ ਲਈ ਦੁੱਗਣਾ"
+    }
+  ],
+  "translation": "جے چوری یقیناً اوہدے ہتھ وِچ پائی جاوے — بیل توں گدھے تک، لیلا تک — جِوندی، تاں اوہ دوہرا بھلّے گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1bc048124d35040857de33e617141d813587dc1df0fd409e15c47105e3bbd233",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/22\/1-4.1792096790306.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "המצא",
+      "gloss": "یقیناً"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "پائی جاوے"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "اوہدے ہتھ وِچ"
+    },
+    {
+      "surface": "הגנבה",
+      "gloss": "چوری"
+    },
+    {
+      "surface": "משור",
+      "gloss": "بیل"
+    },
+    {
+      "surface": "עד",
+      "gloss": "توں"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "گدھا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "שה",
+      "gloss": "لیلا"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "جِوندی"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دوہرا"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "بھلّے گا"
+    }
+  ],
+  "timestamp": "2026-10-15T20:39:50.307532241Z",
+  "model": "glm-5.3"
+}

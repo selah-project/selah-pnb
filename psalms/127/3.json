@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 127,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اوہدا⟩",
+      "rationale": "عبرانی وِچ سرنامہ نئیں، پنجابی جملہ منگدا سی۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בנים",
+      "rationale": "پتر (بنین) اوہو جڑ نیں جیہڑی آیت 1 دے بنان والیاں (בוניו) وِچ اے — پتر ای گھر دیاں 'اِٹاں' نیں۔"
+    }
+  ],
+  "translation": "دیکھو، پتر یاہوہ دی وراثت نیں، پیٹ دا پھل ⟨اوہدا⟩ انعام اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "de412493409e720eff8a200f3e3609ca19b3017ea76b09f2866818b55f730a05",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/127\/1-4.1792113986729.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "دیکھو"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "وراثت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "پتر"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "انعام"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "پھل"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "پیٹ دا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:26:26.729995227Z",
+  "model": "glm-5.3"
+}

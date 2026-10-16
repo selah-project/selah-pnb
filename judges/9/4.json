@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 9:4",
+  "book": "judges",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "چاندی دے سِکّے",
+      "rationale": "عبرانی صرف ‘سِتر چاندی’ آکھدا اے، پنجابی جملے لئی ‘سِکّے’ دتا"
+    },
+    {
+      "kind": "measurement",
+      "subject": "سِتر چاندی",
+      "rationale": "رقم دی گنتی دتی گئی اے"
+    },
+    {
+      "kind": "hapax",
+      "subject": "ופחזים",
+      "rationale": "پچھز — ابالدا\/جھاگدا ہویا، صرف ایتھے جمع صورت وِچ؛ ‘اُچّھلّے’ لیکن تصویر کھلدی اے"
+    }
+  ],
+  "translation": "تے اوہناں اوہنوں بعل-بِرِیت دے گھر توں سِتر ⟨چاندی دے سِکّے⟩ دِتے، تے اَویملِخ نے اوہناں نال خالی تے اُچّھلّے بندے کرائے، تے اوہ اوہدے پچھوں ٹُر پئے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "67371bf00ebf146ca0eff54b8b8278a29739bb9f04e066e50fd7bd1131edf929",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/judges\/9\/1-4.1792101730175.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "تے دِتے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہنوں"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "سِتر"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندی"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "گھر توں"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "بعل"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "بِرِیت"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "تے کرائے"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "اوہناں نال"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "اَویملِخ"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "ריקים",
+      "gloss": "خالی"
+    },
+    {
+      "surface": "ופחזים",
+      "gloss": "تے اُچّھلّے"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "تے ٹُر پئے"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "اوہدے پچھوں"
+    }
+  ],
+  "timestamp": "2026-10-15T22:02:10.176754998Z",
+  "model": "glm-5.3"
+}

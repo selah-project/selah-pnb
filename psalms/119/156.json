@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 156,
+  "ref": "psalms 119:156",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نیں",
+      "rationale": "عبرانی وِچ کوئی فعل نئیں، پنجابی نے جوڑ دتا"
+    },
+    {
+      "kind": "you",
+      "subject": "یاہوہ نوں",
+      "rationale": "سدہ — یاہوہ، مینوں جوا لے"
+    }
+  ],
+  "translation": "تیرے رحم وڈے نیں یاہوہ، تیرے فیصلیاں موجب مینوں جوا لے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d9cd2a4448b346bfe8c458de5e12ce2d95eeea0365c61bc1ac437241aafe7d5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/119\/153-156.1792113868719.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רחמיך",
+      "gloss": "تیرے رحم"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "وڈے نیں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "כמשפטיך",
+      "gloss": "تیرے فیصلیاں موجب"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "مینوں جوا لے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:24:28.720530542Z",
+  "model": "glm-5.3"
+}

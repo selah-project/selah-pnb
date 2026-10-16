@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 139:13",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "گرداں",
+      "rationale": "כליות لفظی طور تے گردے نیں، اندرلا.self دا چِنتن دا تھاں — 'inward parts' دی تھاں سُچجی گرداں رکھیا"
+    },
+    {
+      "kind": "you",
+      "subject": "یاہوہ",
+      "rationale": "ایہہ سارا گیت یاہوہ نوں سدھا مخاطب اے"
+    }
+  ],
+  "translation": "کیونجے تُوں نے میریاں گرداں بنایاں، تُوں نے مینوں ⟨بُنتے ویلے⟩ میری ماں دے پیٹ وِچ لپٹایا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bd8cf0abb86d16d029c777106342ac609397bad25d7305e4109303327bfc8581",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/139\/13-16.1792114153930.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُوں نے"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "بنایاں"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "میریاں گرداں"
+    },
+    {
+      "surface": "תסכני",
+      "gloss": "مینوں لپٹایا"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "پیٹ وِچ"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "میری ماں دے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:29:13.931364666Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 136,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "روٹی",
+      "rationale": "לחם بھاویں روٹی اے پر ایتھے کھان-پیتی پورا کھلار اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "خیسِد",
+      "rationale": "חסד حرف-نقل رکھیا — رحم\/فضل اکلوتا لفظ اوہدی چوڑائی نئیں پھڑ سکدا"
+    },
+    {
+      "kind": "invitation",
+      "subject": "مزمور دی آیت",
+      "rationale": "نویں گھٹنا دا ذکر کے 'کیوں جے اوہدا خیسِد ہمیشہ لئی اے' دے جواب نال سنیارے نوں رلاؤندا اے"
+    }
+  ],
+  "translation": "جیہڑا سارے ماس نوں روٹی دیندا اے، کیوں جے اوہدا خیسِد ⟨ہمیشہ⟩ لئی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b005a3986b7f0d63889d4132df88acbdf6a329a954a90888883bde5ceffe42ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/136\/25-26.1792114082629.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "دیندا اے"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "روٹی"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ماس"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جے"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشہ لئی"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "اوہدا خیسِد"
+    }
+  ],
+  "timestamp": "2026-10-16T01:28:02.629525109Z",
+  "model": "glm-5.3"
+}

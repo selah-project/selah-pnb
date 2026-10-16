@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 11:6",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/بھُکھ\/جان تے اے — 'ساڈی بھُکھ مری گئی' وی پڑھیا جا سکدا اے۔"
+    },
+    {
+      "kind": "idiom",
+      "subject": "تے ہن ساڈی جان سوکھی اے",
+      "rationale": "עתה נפשנו יבשה — سکھنا جان = بھُکھ مُک جانا، اِکھوتے عبرانی تے پنجابی دونوں وِچ ۔"
+    }
+  ],
+  "translation": "تے ہن ساڈی جان سوکھی اے؛ ⟨کوئی⟩ چیز نئیں، سِواۓ مان دے، ساڈیاں اکھیاں ⟨ساہمنے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "73d9902b17819ec162fd40a284d040e9e9e0c134b0144232766925da6e66abb8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/11\/5-8.1792098564258.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "تے ہن"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "ساڈی جان"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "سوکھی اے"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کوئی چیز"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "سِواۓ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨سواۓ⟩ تائیں"
+    },
+    {
+      "surface": "המן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "ساڈیاں اکھیاں"
+    }
+  ],
+  "timestamp": "2026-10-15T21:09:24.258841062Z",
+  "model": "glm-5.3"
+}

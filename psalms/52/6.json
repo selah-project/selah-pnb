@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בלע",
+      "rationale": "مول 'نگلّݨ' اے — 'تباہ کن' دی تھاں مول تصویر رکھی"
+    }
+  ],
+  "translation": "تُوں سارے نگل جان والے بچناں نوں پیاردا اے، دھوکھے دی بولی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "666400d223fe6cf286c73de32d4fbe9fba816680b00151162d82d6ed1e0aac97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/52\/5-8.1792112685327.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "تُوں پیاردا اے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "بچناں نوں"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "نگل جان والے"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "بولی"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "دھوکھے دی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:04:45.327999861Z",
+  "model": "glm-5.3"
+}

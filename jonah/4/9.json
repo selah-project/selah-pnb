@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 4:9",
+  "book": "jonah",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ההיטב חרה",
+      "rationale": "کجھ مترجم ایہنوں سوال پچھدے نیں ('کی چنگا اے؟') تے کجھ YLT وانگ الٹ پھیر دندے نیں ('چنگا کرنا مینوں بھڑکا دیندا اے')۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חרה",
+      "rationale": "لفظی 'بھڑکنا\/گرم ہونا' — پنجابی 'غصہ آؤندا اے' تصویر نوں کجھ گھٹ کردا اے۔"
+    },
+    {
+      "kind": "you",
+      "subject": "یونہ",
+      "rationale": "ایلوہیم سِدھا یونہ ولے سوال پچھدا اے۔"
+    }
+  ],
+  "translation": "تے ایلوہیم نے یونہ نوں آکھیا: کی تینوں قیقیون ⟨بارے⟩ اینا غصہ چنگا لگدا اے؟ تے اوہنے آکھیا: چنگا، مینوں موت تک غصہ آؤندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "66d4c6f21497030f10824e4d916018cd2d47e0ae7967b7a4c22e1e62b8fe2738",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jonah\/4\/9-11.1792111047279.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم نے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "یونہ"
+    },
+    {
+      "surface": "ההיטב",
+      "gloss": "کی چنگا"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "غصہ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تینوں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "قیقیون"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے اوہنے آکھیا"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "چنگا"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "غصہ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مینوں"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت"
+    }
+  ],
+  "timestamp": "2026-10-16T00:37:27.279943716Z",
+  "model": "glm-5.3"
+}

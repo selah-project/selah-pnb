@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 37:14",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ודרכו",
+      "rationale": "دרך دا مطلب ایتھے کمان وترنا اے (پیر نال دب کے)؛ 'چلائے\/دور کیتا' وی آکھیا گیا اے، پر וترنا اصلی تصویر اے"
+    },
+    {
+      "kind": "elision",
+      "subject": "ואביון",
+      "rationale": "واؤ جوڑ 'تے' نال چُکیا؛ اِکو ٹوکن رہیا"
+    }
+  ],
+  "translation": "بدکاراں نے تلوار کھولھی اے تے اپنی کمان وتری اے، دُکھی تے غریب نوں ڈگا لئی، سِدھے رستہ والیاں نوں ذبح کرن لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7f39e792d4f5efedebbc23dec149e1cf447459271ba0112cc11d05abe51312f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/37\/13-16.1792112333315.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "تلوار"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "کھولھی اے"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکاراں"
+    },
+    {
+      "surface": "ודרכו",
+      "gloss": "کمان وتری اے"
+    },
+    {
+      "surface": "קשתם",
+      "gloss": "اپنی کمان"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "ڈگا لئی"
+    },
+    {
+      "surface": "עני",
+      "gloss": "دُکھی"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "تے غریب"
+    },
+    {
+      "surface": "לטבוח",
+      "gloss": "ذبح کرن لئی"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "سِدھے رستہ والیاں"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "رستہ"
+    }
+  ],
+  "timestamp": "2026-10-16T00:58:53.316715719Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דרש דמים",
+      "rationale": "'لہو دا پچھا\/پڑتال کرن والا' بمقابلہ جپس 'لہو دا بدلہ لین والا' — عبرانی درشن دا مطلب پچھنا\/لبھنا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זכר\/שכח",
+      "rationale": "یاد رکھنا\/بھُلنا دی تضاد، آیت دا ڈھانچا"
+    }
+  ],
+  "translation": "کیونجہ جو لہو دا پچھا کردا اے، اوہ ⟨את⟩ اوہناں نوں یاد رکھدا اے؛ دکھاریاں دی چیخ نئیں بھُلدا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7177c1999b3dac1e63867afd0dc8bb3174a434db8c9474bf88cdd1be3a620ff9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/9\/13-16.1792111941137.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونجہ"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "پچھا کردا اے"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "لہو"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "اوہناں نوں"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "یاد رکھدا اے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "بھُلدا"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "چیخ"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "دکھاریاں دی"
+    }
+  ],
+  "timestamp": "2026-10-16T00:52:21.137780468Z",
+  "model": "glm-5.3"
+}

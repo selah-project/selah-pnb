@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 20:14",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ہُندا اے",
+      "rationale": "عبرانی وِچ کوئی فعل جوڑ نئیں، پنجابی وچ چاہیدا۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "מרורת",
+      "rationale": "کوڑا پانی\/زہر — ترجمے پُرانے زہر، صفرا یا افعی دی تلخی آکھدے نیں۔"
+    }
+  ],
+  "translation": "اوہدا کھانا اوہدے اَندراں وِچ پلٹ جاندا اے؛ افعی دا زہر اوہدے وِچکار ہُندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2eeb078858b3bfce377c3c30b05a714e374dc5aba42beba5a3fadfc2968462a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/20\/13-16.1792115941760.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לחמו",
+      "gloss": "اوہدا کھانا"
+    },
+    {
+      "surface": "במעיו",
+      "gloss": "اوہدے اَندراں وِچ"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "پلٹ جاندا اے"
+    },
+    {
+      "surface": "מרורת",
+      "gloss": "زہر ⟨کوڑا پانی⟩"
+    },
+    {
+      "surface": "פתנים",
+      "gloss": "افعی دا"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "اوہدے وِچکار"
+    }
+  ],
+  "timestamp": "2026-10-16T01:59:01.760883027Z",
+  "model": "glm-5.3"
+}

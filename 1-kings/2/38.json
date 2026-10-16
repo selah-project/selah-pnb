@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-kings 2:38",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "تک",
+      "rationale": "پنجابی ‘بوہتے دن’ نال وقت دی حد بیان کرن لئی ‘تک’ جوڑیا؛ عبرانی وِچ نئیں۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אדני",
+      "rationale": "بندے لئی ‘سائیں’ — ربّی ناں ادونای نئیں، سیاق بادشاہ دا بچن اے۔"
+    }
+  ],
+  "translation": "تے شِمعی نے بادشاہ نوں آکھیا: بھلا اے گلاں؛ جیویں میرے سائیں بادشاہ نے آکھیا، اویں تیرا نوکر کریگا۔ تے شِمعی یروشلایم وِچ بوہتے دن ⟨تک⟩ وسدا رہیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2053a203f57817654ee25c73335ce21bfead64a04f546083d70d2e92c82bd3c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/2\/37-40.1792103977391.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شِمعی نے"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "بادشاہ نوں"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "بھلا"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "اے گلاں"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "میرے سائیں"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ نے"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اویں"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کریگا"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "تیرا نوکر"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "تے وسدا رہیا"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شِمعی"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "یروشلایم وِچ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دن"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "بوہتے"
+    }
+  ],
+  "timestamp": "2026-10-15T22:39:37.392108610Z",
+  "model": "glm-5.3"
+}

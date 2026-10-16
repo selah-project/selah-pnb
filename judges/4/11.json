@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 4:11",
+  "book": "judges",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "את קדש",
+      "rationale": "ایتھے את (H854 'نیڑے') مفعول دا نشان نئیں، نیڑے دا حرف اے — 'قادِشہ دے نیڑے'، تے فیر وی ⟨את⟩ رکھیا گیا کیوں جو ٹوکن دوجے ٹبر دا لگ سکدا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "חתן",
+      "rationale": "حوباب موشے دا سُہرا (کیجیویں) یا ساک (اے ایس وی) — 'سُہرا' لفظی شکل اے"
+    },
+    {
+      "kind": "elision",
+      "subject": "قصے دا جوڑ",
+      "rationale": "ایہہ آیت اگلی کہانی (یاعیل دا ڈیرا) لئی پسمنظر اے"
+    }
+  ],
+  "translation": "تے حِبیر قینی، موشے دے سُہرے حوباب دی اولاد چوں، قینیاں توں وکھ ہو گیا سی، تے اوہنے اپنا ڈیرا کھلاریا تکڑے تک بِلدِ سِعَنّیم دے، جیہڑا ⟨את⟩ قادِشہ دے نیڑے اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "39128d9f5cd1ea89fc00d6ea3be1ac112c3edf8892b3a7efddd80eec11265859",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/judges\/4\/9-12.1792101475898.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "تے حِبیر"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "قینی"
+    },
+    {
+      "surface": "נפרד",
+      "gloss": "وکھ ہو گیا سی"
+    },
+    {
+      "surface": "مקין",
+      "gloss": "قینیاں توں"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "دی اولاد چوں"
+    },
+    {
+      "surface": "חבב",
+      "gloss": "حوباب"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "دے سُہرے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "تے کھلاریا"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "اپنا ڈیرا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تکڑے تک"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "بِلد"
+    },
+    {
+      "surface": "בצענים",
+      "gloss": "سِعَنّیم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قادِشہ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قادِشہ"
+    }
+  ],
+  "timestamp": "2026-10-15T21:57:55.899339646Z",
+  "model": "glm-5.3"
+}

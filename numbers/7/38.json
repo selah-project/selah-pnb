@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "numbers 7:38",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "شیکل",
+      "rationale": "عبرانی وِچ وزن دی اکائی لکھی ای نئیں، پنجابی نے ⟨شیکل⟩ پایا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ہتھیلی",
+      "rationale": "כף دا مطلب کھلی ہتھ دا چنگیرا اے؛ ایتھے سونے دا ناپ برتن اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "دس شیکل",
+      "rationale": "برتے دا وزن دسیا گیا اے"
+    }
+  ],
+  "translation": "اِک سونے دی ہتھیلی، دس ⟨شیکل⟩، خوشبو نال بھری ہوئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a8e41c39ce1bb6f63bef988cfa188776c5a8355bf78c3bf5bb1b4642820e88df",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/7\/37-40.1792098350518.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "ہتھیلی"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "اِک"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دس"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونے دی"
+    },
+    {
+      "surface": "مלאה",
+      "gloss": "بھری ہوئی"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "خوشبو"
+    }
+  ],
+  "timestamp": "2026-10-15T21:05:50.518979018Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 42:14",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "קרן הפוך",
+      "rationale": "کرن ہپوکھ — تناخ وچ صرف ایتھے؛ ناں دا مورت 'سرمے دی سنگی' جیہا اے۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ימימה\/קציעה",
+      "rationale": "یمیمہ 'کبوتریں' تے کتسیعہ 'دارچینی' ورگے سگنال نیں — اِک نام، اِک مورت۔"
+    }
+  ],
+  "translation": "تے اُس نے پہلی دا ناں یمیمہ رکھیا، تے دوجی دا ناں کتسیعہ، تے تیجی دا ناں کرن ہپوکھ ⟨سرمے دی سنگی⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4123a94f2e834c0f1e78180901017d69c5eb5a288970270bde1dd52431863bce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/42\/13-16.1792116659357.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "تے اُس نے…رکھیا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناں"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "پہلی"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "یمیمہ"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "تے…دا ناں"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "دوجی"
+    },
+    {
+      "surface": "קציעה",
+      "gloss": "کتسیعہ"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "تے…دا ناں"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "تیجی"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "کرن"
+    },
+    {
+      "surface": "הפוך",
+      "gloss": "ہپوکھ"
+    }
+  ],
+  "timestamp": "2026-10-16T02:10:59.358648831Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "سِماج",
+      "rationale": "שכבת 'لیٹن\/سماج' دی شکل اے؛ 'بھوگ' ورگا واضح لفظ عبرانی نے نئیں دتا"
+    },
+    {
+      "kind": "idiom",
+      "subject": "موت ماریا جائے گا",
+      "rationale": "موت יומת اِکو جڑ دی پھلواں اے — مُطلق سزا دا عبرانی ڈھنگ"
+    }
+  ],
+  "translation": "تے جو بندہ اپنی سِماج بہیمے نوں دےوے، موت اوہنوں ماریا جائے گا، تے ⟨את⟩ بہیمے نوں تسیں مار دِو۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "21191243944e117b26449d45e03ee1be66d6a8e7c6ff0d535101a1d59cdda3fd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/20\/15-16.1792123423604.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "تے اِک بندہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دےوے"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "اپنی سِماج"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "بہیمے نوں"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "مارے جائے گا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "بہیمے نوں"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "بہیمہ"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "تسیں مار دِو"
+    }
+  ],
+  "timestamp": "2026-10-16T04:03:43.605068377Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 11:10",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "רנה",
+      "rationale": "מول مطلب چِیک\/تِکّھی آواز — خوشی دا وی، دُکھ دا وی؛ ایتھے خوشی دا رَنّا"
+    },
+    {
+      "kind": "addition",
+      "subject": "آوازاں",
+      "rationale": "רנہ اسم اے، پنجابی وِچ فعل نال پورا جملہ بناؤن لئی ⟨آوازاں⟩ دِتی"
+    }
+  ],
+  "translation": "سِدھیاں دے چنگے ہون تے شہر خوش ہوندی اے، تے بدکاں دے مکن تے رَنّے ⟨آوازاں⟩ آؤندیاں نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "41c6229165c4af5a0f6304ad160214c060a21a801001977bf91eed4b3ddb948b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/11\/9-12.1792114605506.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בטוב",
+      "gloss": "چنگے ہون تے"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "سِدھیاں دے"
+    },
+    {
+      "surface": "תעלץ",
+      "gloss": "خوش ہوندی اے"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "ובאבד",
+      "gloss": "تے مکن تے"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکاں دے"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "رَنّے ⟨آوازاں⟩"
+    }
+  ],
+  "timestamp": "2026-10-16T01:36:45.507442559Z",
+  "model": "glm-5.3"
+}

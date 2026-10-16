@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 5:8",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משכים",
+      "rationale": "שכה — 'roaming with lust' (ASV) vs 'early risers' (KJV, from שכם)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "יצהלו",
+      "rationale": "literally 'neigh' — horse imagery carried through"
+    }
+  ],
+  "translation": "کھِلا کھلائے ہوئے گھوڑے بن گئے، ہر بندہ اپنے گوانڈھی دی زنانی ول ٹٹکاردا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2cfed1f50c62ce2f6a9ae9e6a509d262fbbbc74e934d8bc84791336d1677c9e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/5\/5-8.1792107428454.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סוסים",
+      "gloss": "گھوڑے"
+    },
+    {
+      "surface": "מיזנים",
+      "gloss": "کھِلا کھلائے ہوئے"
+    },
+    {
+      "surface": "משכים",
+      "gloss": "شہوت وِچ پھردے"
+    },
+    {
+      "surface": "היו",
+      "gloss": "بن گئے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ہر بندہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ول"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "زنانی"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "اپنے گوانڈھی دی"
+    },
+    {
+      "surface": "יצהלو",
+      "gloss": "ٹٹکاردا اے"
+    }
+  ],
+  "timestamp": "2026-10-15T23:37:08.455506772Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 9:16",
+  "book": "nehemiah",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויקשו את ערפם",
+      "rationale": "‘گردن سخت کرنا’ — اَڑی ضد دی عبرانی مورت، پنجابی وِچ وی چلدا اے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הזידו",
+      "rationale": "جڑ זוּد ‘اُبلنا’ توں — مطلب ‘اُبھریا، آکڑیا’؛ ‘آکڑ گئے’ صورت رکھی۔"
+    }
+  ],
+  "translation": "پر اوہ تے ساڈے پیؤ آکڑ گئے تے ⟨את⟩ اپنی گردن سخت کر لئی تے تُہاڈے حکماں دا نہ سنیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ad5aa74b501354e5c5559b9518269c92666a5586cf26d15d6de05129678ce5a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/nehemiah\/9\/13-16.1792119805364.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "پر اوہ"
+    },
+    {
+      "surface": "ואבתינו",
+      "gloss": "تے ساڈے پیؤ"
+    },
+    {
+      "surface": "הזידו",
+      "gloss": "آکڑ گئے"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "سخت کر لئی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنی گردن"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "اپنی گردن"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "سنیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دا"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "تُہاڈے حکم"
+    }
+  ],
+  "timestamp": "2026-10-16T03:03:25.365849804Z",
+  "model": "glm-5.3"
+}

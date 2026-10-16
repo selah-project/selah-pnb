@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 70:5",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 70,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ہووے",
+      "rationale": "عبرانی وِچ جُملے دا کوئی فعل نئیں، اردو جمع لئی تکمیل درکار اے"
+    },
+    {
+      "kind": "idiom",
+      "subject": "יגדל אלהים",
+      "rationale": "لفظی: 'ایلوہیم وڈا ہووے' — ودھاݨ والی دعا دا اسلوب"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישישו\/ישמחو",
+      "rationale": "שׂוּשׂ تے שמח دی مکرر خوشی، ترجمے وِچ وکھرا وکھرا دسندا اے"
+    }
+  ],
+  "translation": "خوش ہوݨ تے تیرے وِچ خُرمی کرݨ، اے سارے جو تینوں لبھدے نیں، تے آکھن ہمیشہ: ایلوہیم وڈا ہووے، جو تیری مُکتی دے پیارے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5472612b7449b7643614afcc20f7d591ddaadc21d2e1b50d1f5b2e14a76832a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/70\/5-6.1792112843762.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישישו",
+      "gloss": "خوش ہووݨ"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "تے خُرمی کرݨ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تیرے وِچ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "جو تینوں لبھدے نیں"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "تے آکھن"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "وڈا ہووے"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "پیارے"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "تیری مُکتی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:07:23.763345218Z",
+  "model": "glm-5.3"
+}

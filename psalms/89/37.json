@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 89:37",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨رہوگا⟩",
+      "rationale": "دوجی ورتوں لئی فعل عبرانی نے دُہریا نئیں، پنجابی جملہ منگدا اے"
+    }
+  ],
+  "translation": "اوہدا بیج سداں رہوگا، تے اوہدا تخت سورج وانگ میرے ساہمنے ⟨رہوگا⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e75d1dbc97a178cd633585fc2377983fd052a1d55d33dc8c99dc1d944e2419b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/89\/37-40.1792113268707.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זרעו",
+      "gloss": "اوہدا بیج"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "سداں"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "رہوگا"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "تے اوہدا تخت"
+    },
+    {
+      "surface": "כשמש",
+      "gloss": "سورج وانگ"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "میرے ساہمنے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:14:28.707923613Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 107:4",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "اُجاڑ جنگل",
+      "rationale": "יְשִׁימוֹן is a desolation\/wasteland; two Punjabi words joined for one Hebrew token"
+    },
+    {
+      "kind": "elision",
+      "subject": "דרך",
+      "rationale": "'in a desert way' — the noun 'way' has no smooth Punjabi slot; carried as راہ with bracketed بِنا"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מצאו\/מושב",
+      "rationale": "verse-end assonance -ו in מושב\/לא\/מצאו, a sound chain Punjabi cannot carry"
+    }
+  ],
+  "translation": "اوہ بیابان وِچ بھٹکدے رہے، اُجاڑ جنگل وِچ راہ ⟨بِنا⟩، وسن لئی کوئی شہر نہ لبھیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d9140e39ef3ab1a1c18ad99e6f9c6a87ba0ea4d72d4b275cb29a212149e09013",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/107\/1-4.1792113651838.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תעו",
+      "gloss": "بھٹکدے رہے"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "بیابان وِچ"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "اُجاڑ جنگل وِچ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "راح"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "وسن لئی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "لبھیا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:20:51.839291833Z",
+  "model": "glm-5.3"
+}

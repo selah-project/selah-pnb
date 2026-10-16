@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 7:6",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوہو",
+      "rationale": "כאשר دے نال پنجابی جملے لئی"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויעש \/ עשו",
+      "rationale": "آیت دی شروع تے انت اکو فعل عَمَل نال — کلائمیکس دی مُڑ تکرار، پنجابی وِچ کجھ رہندی اے"
+    }
+  ],
+  "translation": "تے موشے تے اہرون نے اوہو کیتا جیویں یاہوہ نے ⟨אתہماں⟩ حکم کیتا سی — اویں ای اوہناں کیتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a56b00862ee25365d28a59932fcb28df1030eb55df348801226a9d293a15abb3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/7\/5-8.1792096204704.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "تے نے کیتا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "تے اہرون"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم کیتا سی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ نے"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתہماں⟩",
+      "marks": "موشے تے اہرون"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اویں ای"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "اوہناں کیتا"
+    }
+  ],
+  "timestamp": "2026-10-15T20:30:04.704971426Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 12:16",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩",
+      "rationale": "ہیبرو وِچ کریا دا کرتا پچھلی جملا توں آندا اے، پنجابی نوں صریح ضمیر چاہیدی اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "ולן",
+      "rationale": "JPS 'جِتّوں اوہ اندر آیا، ہر واری ساری رات لیٹا' — پیئل دا تکرار، یا اک واری رات بتائی"
+    }
+  ],
+  "translation": "تے داوِد نے بال لئی ⟨את⟩ ایلوہیم نوں لبھیا، تے داوِد نے روزہ رکھیا، تے ⟨اوہ⟩ اندر آیا تے رات بتائی تے دھرتی ⟨اُتے⟩ لیٹا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "79b526961672fd5af3156f7567af2b5c048d331a7929f4c1be6e3c8310e9c3bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/12\/13-16.1792103401491.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "تے لبھیا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایلوہیم نوں"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "لئی"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "بال"
+    },
+    {
+      "surface": "ויצם",
+      "gloss": "تے روزہ رکھیا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد نے"
+    },
+    {
+      "surface": "צום",
+      "gloss": "روزہ"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "تے اندر آیا"
+    },
+    {
+      "surface": "ולן",
+      "gloss": "تے رات بتائی"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "تے لیٹا"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "دھرتی ⟨اُتے⟩"
+    }
+  ],
+  "timestamp": "2026-10-15T22:30:01.493143730Z",
+  "model": "glm-5.3"
+}

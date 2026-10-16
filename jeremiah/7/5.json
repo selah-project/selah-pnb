@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 7:5",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "היטיב תיטיבו \/ עשו תעשו",
+      "rationale": "عبرانی دی مطلق مصدر دا دہراؤ — کم نوں پکا کرنا؛ پنجابی وِچ چنگا-چنگا تے کر-کر نال اشارہ رکھیا اے۔"
+    },
+    {
+      "kind": "you",
+      "subject": "یہودیاں نوں",
+      "rationale": "آیت سِدھی مخاطب اے — بیت یہوہ دے پچھے کھلوئے لوکاں نوں۔"
+    }
+  ],
+  "translation": "کیونکہ جے تسیں اصل وِچ چنگا-چنگا کرو ⟨את⟩ تہاڈیاں راہواں نوں تے ⟨את⟩ تہاڈے کماں نوں، جے کر-کر کے انصاف کرو بندے تے اوہدے یار دے وِچکار۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "58b02c60bb11cf2a72f75dba882ae06d5ba5ef151d3d87d0bc84b79f03fd0a7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/7\/5-8.1792107415290.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "چنگا-چنگا"
+    },
+    {
+      "surface": "תיטיבו",
+      "gloss": "کرو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تہاڈیاں راہواں"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "تہاڈیاں راہواں نوں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "تہاڈے کماں"
+    },
+    {
+      "surface": "מעלליכם",
+      "gloss": "تہاڈے کماں نوں"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "کر-کر"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "کرو"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "בין",
+      "gloss": "وِچکار"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "تے … دے وِچکار"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "اوہدے یار"
+    }
+  ],
+  "timestamp": "2026-10-15T23:36:55.291119255Z",
+  "model": "glm-5.3"
+}

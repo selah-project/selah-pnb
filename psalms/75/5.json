@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 75:5",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 75,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "להוללים",
+      "rationale": "جڑ ה-ל-ل 'چمکنا\/شوق کرنا' — 'ڈینگاں مارن والے' (YLٹ) بمقابلہ 'نادان' (KJV)، میں نادان چُنیا"
+    },
+    {
+      "kind": "you",
+      "subject": "نادان تے بدکار",
+      "rationale": "ناداناں تے بدکاراں نوں سدھی مخاطبت"
+    }
+  ],
+  "translation": "میں آکھیا ناداناں نوں: نادانی نہ کرو، تے بدکاراں نوں: سنگ نہ چُکو۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d3288242dcc74fd52b1a4598606b68d0a2a108e24bca9cd89b2dfd78e5ae298c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/75\/5-8.1792113023026.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "میں آکھیا"
+    },
+    {
+      "surface": "להוללים",
+      "gloss": "ناداناں نوں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תהלו",
+      "gloss": "نادانی کرو"
+    },
+    {
+      "surface": "ולרשעים",
+      "gloss": "تے بدکاراں نوں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "چُکو"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "سنگ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:10:23.026908348Z",
+  "model": "glm-5.3"
+}

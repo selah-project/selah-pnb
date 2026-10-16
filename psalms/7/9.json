@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 7:9",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "دعا",
+      "rationale": "شاعر سِدھا یاہوہ نوں پکاردا اے — میتے انصاف کر۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "پاکیزگی",
+      "rationale": "תמי = مُکملیت\/بے داغی؛ پاکیزگی نیڑے دا لفظ اے۔"
+    }
+  ],
+  "translation": "یاہوہ قومیاں دا فیصلہ کریگا؛ یاہوہ میتے انصاف کر، میری صداقت مطابق تے میری پاکیزگی مطابق جیہڑی میرے اُتے اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "40ae694cbd7f6cf79a29ef0decb96b60e79950582892448604467b244f512c0b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/7\/9-12.1792111769750.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "فیصلہ کریگا"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "قومیاں دا"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "میتے انصاف کر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "میری صداقت مطابق"
+    },
+    {
+      "surface": "וכתמי",
+      "gloss": "تے میری پاکیزگی مطابق"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "میرے اُتے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:49:29.750909959Z",
+  "model": "glm-5.3"
+}

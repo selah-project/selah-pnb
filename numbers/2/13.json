@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 2:13",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨نیں⟩",
+      "rationale": "عبرانی وِچ کوئی کڑی نئیں، پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "گنتی",
+      "rationale": "لشکر دی گنتی: 59,300"
+    }
+  ],
+  "translation": "تے اوہدا لشکر، تے اوہناں دے گنے ہوئے: نَوں تے پنجاہ ہزار تے تن سو ⟨نیں⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2b500ff97263ae027f2b9a5a001f7822a3a1ea33061a9f6788b5047fc31b239c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/2\/13-16.1792098257461.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "تے اوہدا لشکر"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "تے اوہناں دے گنے ہوئے"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "نَوں"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "تے پنجاہ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "تے تن"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    }
+  ],
+  "timestamp": "2026-10-15T21:04:17.462442533Z",
+  "model": "glm-5.3"
+}

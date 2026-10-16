@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 2:9",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תרעם",
+      "rationale": "'توڑنا' بمقابلہ 'راج کرنا' — LXX اَتھے ροιβεύσεις\/حکمرانی ول گیا، عبرانی مُڈھ توڑنا ہی اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "יוצר",
+      "rationale": "'گملْ‌کار' — یوصر مٹی دے بھانڈے بناؤن والے لئی"
+    }
+  ],
+  "translation": "تُوں اوہناں نوں لوہے دے عصے نال توڑیں گا، جیویں گملْ‌کار دا بھانڈا ہوندا اے، اوہناں نوں روڑیاں وِچ اُڈیسیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8d533ebe6cabfaf3f69d9f613443902ecf5dcc17aedfcc9ed447684e0a1ae411",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/2\/9-12.1792111779616.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תרעם",
+      "gloss": "تُوں اوہناں نوں توڑیں گا"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "عصے نال"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "لوہے دے"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "جیویں بھانڈا"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "گملْ‌کار دا"
+    },
+    {
+      "surface": "תנפצם",
+      "gloss": "اوہناں نوں روڑیاں وِچ اُڈیسیں"
+    }
+  ],
+  "timestamp": "2026-10-16T00:49:39.616706165Z",
+  "model": "glm-5.3"
+}

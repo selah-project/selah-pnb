@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 59:4",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جان\/جیون-بل اے، صرف 'روح' نئیں"
+    },
+    {
+      "kind": "crux",
+      "subject": "יגורו",
+      "rationale": "'گِر آندے نیں \/ رل کے وسّدے نیں' — کجھ مترجم 'اکٹھے ہوندے نیں'، کجھ 'حملہ کردے نیں'"
+    },
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "عبرانی وِچ کریا دی جوڑ نئیں، پنجابی وِچ 'پائی اے \/ گئے نیں' منگدا اے"
+    }
+  ],
+  "translation": "کیونکہ ویکھو، اوہناں میری جان لئی گھات پائی اے؛ زور آور میرے اُتے جُٹ گئے نیں — میرا بغاوت دا قصور نئیں تے نہ میری گناہی، یاہوہ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "161e5b2a0a73b0a2567e038eb3a269d37ec94c55d3b8572bc845b05c96e95c64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/59\/1-4.1792112730970.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ویکھو"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "اوہناں گھات پائی اے"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "میری جان لئی"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "اوہ جُٹ گئے نیں"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "میرے اُتے"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "زور آور"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "میری بغاوت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "میری گناہی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:05:30.971531917Z",
+  "model": "glm-5.3"
+}

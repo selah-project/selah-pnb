@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "تیری روح",
+      "rationale": "מרוחך: خدا دی 'روح' (شخصی) یا 'واۓ\/ہوا' (طاقت) — دونوں پڑھائیاں پرچھاویں نیں"
+    },
+    {
+      "kind": "idiom",
+      "subject": "تیرے چہرے توں",
+      "rationale": "מפניך ایہ عبرانی اِدّوم اے 'تیرے ساہمنے\/حضور توں'، لفظی 'چہرے' دے نال رکھیا اے"
+    },
+    {
+      "kind": "invitation",
+      "subject": "کِتھے جاواں",
+      "rationale": "سوال پُچھݨ والی شکل، پڑھݨ والے نوں سدّ اے"
+    }
+  ],
+  "translation": "کِتھے جاواں تیری רੂਹ ਤੋਂ؟ تے کِتھے تیرے ਚہرے توں بھجّ سکدا؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "23f34992f0abf9b1e73c5c3835e92c0678749504d7c9181fb223e4ca452c589f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/139\/5-8.1792114121397.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "کِتھے"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "جاواں"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "تیری װਾਯੂ\/روح توں"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "تے کِتھے"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "تیرے چہرے توں"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "بھجّ سکدا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:28:41.398046285Z",
+  "model": "glm-5.3"
+}

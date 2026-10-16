@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 14:6",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جوڑا",
+      "rationale": "גרہ دا مُڈھلا چِتر 'پنگھروندا ہویا' اے؛ پنجابی 'جوڑا چُگنا' اوسو رِیت اے۔"
+    },
+    {
+      "kind": "you",
+      "subject": "تُسیں",
+      "rationale": "حکم یِسرائیل نوں سِدھا address کردا اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "سکدے او",
+      "rationale": "عبرانی participle اے؛ پنجابی وِچ اجازت دا معنے کریہ 'سکدے' دے نال آیا۔"
+    }
+  ],
+  "translation": "تے ہر اوہ چوپایہ جیہڑا کھر پھاڑدا اے، کھر نوں دو کھراں وِچ پوری طرح پھٹا ہویا تے جوڑا چُگدا اے، چوپائیاں وِچوں اوس چوپائے ⟨את⟩ نوں تُسیں کھا سکدے او۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "97825781facfb1fcb05fbe0c2a2ebb9533495643192486c6f4346725f79557e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/14\/5-8.1792100049560.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "تے ہر"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "چوپایہ"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "کھر پھاڑدا اے"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "کھر"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "تے پھٹا ہویا"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "پھٹ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دو"
+    },
+    {
+      "surface": "פרסות",
+      "gloss": "کھراں"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "چُگدا اے"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "جوڑا"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "چوپائیاں وِچوں"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "اوس چوپائے نوں"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "کھا سکدے او"
+    }
+  ],
+  "timestamp": "2026-10-15T21:34:09.561018195Z",
+  "model": "glm-5.3"
+}

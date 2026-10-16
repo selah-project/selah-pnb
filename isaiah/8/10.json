@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עצו עצה · דברו דבר",
+      "rationale": "اِکو جڑ فعل تے اسم دی جوڑی — مشورہ کرو مشورہ، گل کرو گل — پنجابی وِچ دہرائی نال دتی اے۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "עמנו אל",
+      "rationale": "ایمانوایل (8:8) دی آواز ایتھے واپس آندی اے — ‘ایل ساڈے نال اے’؛ کئی مترجم ایس گل نو اِکو سمجھدے نیں۔"
+    }
+  ],
+  "translation": "مشورہ کرو، تے اوہ ٹُٹ جائے گا؛ کوئی گل کرو، تے اوہ قایم نہ ہووےگا — کیونجے ایل ساڈے نال اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "466d7526568a79bc32309342ad3bb77d881c946ad1234e0a48ac62489a84c388",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/8\/9-12.1792105855899.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "مشورہ کرو"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "مشورہ"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "تے اوہ ٹُٹ جائے گا"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "گل کرو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گل"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "قایم ہووےگا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ساڈے نال"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    }
+  ],
+  "timestamp": "2026-10-15T23:10:55.900613635Z",
+  "model": "glm-5.3"
+}

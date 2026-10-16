@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 119:16",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אשתעשע",
+      "rationale": "'مزہ پاؤنا \/ دلاسہ دینا' — شاعرانہ ہپھا، 'take delight' بمقابلہ 'cling to'"
+    }
+  ],
+  "translation": "تیریاں حکماں وِچ میں مزہ پاواں گا، تیرا بچن نئیں بُھلاواں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a103e228e52cbf7f75f96eca95234b9257a48fdd132605aaf0d044e4e94c0c61",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/119\/13-16.1792113813150.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחקתיך",
+      "gloss": "تیریاں حکماں وِچ"
+    },
+    {
+      "surface": "אשתעשע",
+      "gloss": "میں مزہ پاواں گا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "بُھلاواں گا"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "تیرا بچن"
+    }
+  ],
+  "timestamp": "2026-10-16T01:23:33.151503093Z",
+  "model": "glm-5.3"
+}

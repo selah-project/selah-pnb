@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 59:7",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "יהמו",
+      "rationale": "המה مول طور تے گرجن ا\/رڑکن ا — بِنا کُتے دے سیتھ دے 'بھونکنا' تے لیایا گیا اے، کیونکہ משל וِچ کلاب نال جُڑیا اے۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ערב\/עיר",
+      "rationale": "ערב (شام) تے עיר (شہر) دی آواز اِکو جہی اے — آیت دا چکر ਸ਼ام-شہر گونجدا اے، پنجابی وِچ ہل جاند اے۔"
+    }
+  ],
+  "translation": "اوہ شام نوں واپس مُڑدے نیں، کُتیاں وانگوں بھونکدے نیں، تے شہر دے آلے دوآلے پھردے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f347719d37e4f95602fba4adaaf996d74f44c6efe14066355257547031ebde19",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/59\/5-8.1792112738020.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "اوہ واپس مُڑدے نیں"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "شام نوں"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "بھونکدے نیں"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "کُتیاں وانگوں"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "تے آلے دوآلے پھردے نیں"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    }
+  ],
+  "timestamp": "2026-10-16T01:05:38.021484772Z",
+  "model": "glm-5.3"
+}

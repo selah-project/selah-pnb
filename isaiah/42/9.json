@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 42:9",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اِس ویلے",
+      "rationale": "عبرانی وِچ حالال زمانہ لئی وکھرا لفظ نئیں، پنجابی لئی وضاحت چاہیدی سی"
+    },
+    {
+      "kind": "mystery",
+      "subject": "نویاں گلاں",
+      "rationale": "متن دسدا اے پر نئیں کہندا اوہ کیڑھیاں نیں — بھید وہی رکھیا گیا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מגיד \/ אשמיע",
+      "rationale": "دو فعل اِکو کم دے دہرائے — دسّنا تے سنائُنا — عبرانی دا جوڑ پنجابی وِچ نرم ہو گیا"
+    }
+  ],
+  "translation": "پہلیاں گلاں — ویکھو — آ گئیاں، تے نویاں گلاں اِی ⟨اِس ویلے⟩ دسّ رہیا واں؛ اِنھاں دے اُگّن توں پہلاں اِی ⟨את⟩ تہانوں سنائیاں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "283b51a72dc1ace145851846f3e4ecab8c5d3280644b94ba304ac661891ebf76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/42\/9-12.1792106677449.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הראשנות",
+      "gloss": "پہلیاں گلاں"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ویکھو"
+    },
+    {
+      "surface": "באו",
+      "gloss": "آ گئیاں"
+    },
+    {
+      "surface": "וחדשות",
+      "gloss": "تے نویاں گلاں"
+    },
+    {
+      "surface": "אני",
+      "gloss": "اِی"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "دسّ رہیا واں"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "توں پہلاں"
+    },
+    {
+      "surface": "תצמחנה",
+      "gloss": "اُگّن"
+    },
+    {
+      "surface": "אשמיע",
+      "gloss": "سنائیاں گا"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "تہانوں"
+    }
+  ],
+  "timestamp": "2026-10-15T23:24:37.449805881Z",
+  "model": "glm-5.3"
+}

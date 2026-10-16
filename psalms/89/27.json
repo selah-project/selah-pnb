@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 89:27",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "یاہوہ (اوہدے بندے ولوں)",
+      "rationale": "بندہ سِدھا ربّ نوں مخاطب اے — پیو، ایل، مُکتی دا چٹان۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ایل",
+      "rationale": "אלי دی حرف-نقل صوررت رکھی گئی — عام لفظ خدا نئیں۔"
+    }
+  ],
+  "translation": "اوہ میں نوں پکاریگا: توں میرا پیو ایں، میرا ایل تے میری مُکتی دا چٹان۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fa27ee0114a96624500b2d6b8ced6f447cfa0419fe34cc1e24ebe98391cdbf41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/89\/25-28.1792113246782.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "יקראני",
+      "gloss": "میں نوں پکاریگا"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "میرا پیو"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "توں"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میرا ایل"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "تے چٹان"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "میری مُکتی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:14:06.783223836Z",
+  "model": "glm-5.3"
+}

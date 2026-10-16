@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 25:28",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "רוחו",
+      "rationale": "ruach is wind\/breath\/spirit; rendered 'روح' — 'temper' in BSB is a narrowing"
+    },
+    {
+      "kind": "addition",
+      "subject": "اِتلا",
+      "rationale": "comparison word supplied; Hebrew juxtaposes the two pictures without 'like'"
+    }
+  ],
+  "translation": "اک شہر ڈھاہیا ہویا، فصیل نئیں — اِتلا بندہ جیہدے روح اُتے قابو نئیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2591fc4176d9e4fb80ba66b9151bd1e46b9d17ed4724f704e8e94bd45e83f85d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/25\/25-28.1792115096751.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "פרוצה",
+      "gloss": "ڈھاہیا ہویا"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "فصیل"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "מעצר",
+      "gloss": "قابو"
+    },
+    {
+      "surface": "לרוחו",
+      "gloss": "اپنے روح اُتے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:44:56.752605921Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 2:29",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "عبرانی وِچ کارب دا فعل نئیں، پنجابی نوں لوڑ اے"
+    }
+  ],
+  "translation": "تے اَبِشُور دی زنانی دا ناں اَوِیہایِل سی، تے اوہنے اوہدے لئی ⟨את⟩ اَخبان تے ⟨את⟩ مولِید نوں جمیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e7be342f221411014e5b1b89b12217c8ecf916c6415a43ddfc22a832b009af3a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/2\/29-32.1792120150206.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "تے ناں"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "زنانی"
+    },
+    {
+      "surface": "אבישור",
+      "gloss": "اَبِشُور"
+    },
+    {
+      "surface": "אביהיל",
+      "gloss": "اَوِیہایِل"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "تے جمیا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدے لئی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَخبان"
+    },
+    {
+      "surface": "אחבן",
+      "gloss": "اَخبان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "مولِید"
+    },
+    {
+      "surface": "مוליד",
+      "gloss": "مولِید"
+    }
+  ],
+  "timestamp": "2026-10-16T03:09:10.206992141Z",
+  "model": "glm-5.3"
+}

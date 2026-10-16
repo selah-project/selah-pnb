@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 26:6",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אשה אל אחתה",
+      "rationale": "'اِک اپنی بھین نال' — پردیاں دے جوڑ دا قرابتی استعارہ۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "ہووے گا",
+      "rationale": "وהיה اکھری 'تے ہووے گا' اے؛ عبارت وِچ قدرتی رِیت نال رکھیا۔"
+    }
+  ],
+  "translation": "تے تُوں پنجاہ سونے دے کُنجے بݨاویں گا، تے ⟨את⟩ پردیاں نوں جوڑیں گا اِک ⟨پرdeی⟩ اپنی بھین نال کُنجیاں نال، تے مسکن اِک ہووے گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "505dcc2faede235c10f79b09d8c21112796956b5b7033dce6f475a74007984f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/26\/5-8.1792096865512.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "تے تُوں بݨاویں گا"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاہ"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "کُنجے"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونے دے"
+    },
+    {
+      "surface": "וחברת",
+      "gloss": "تے جوڑیں گا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پردیاں نوں"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "پردیاں نوں"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "اِک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "اپنی بھین"
+    },
+    {
+      "surface": "בקרסים",
+      "gloss": "کُنجیاں نال"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "تے ہووے گا"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مسکن"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "اِک"
+    }
+  ],
+  "timestamp": "2026-10-15T20:41:05.514081446Z",
+  "model": "glm-5.3"
+}

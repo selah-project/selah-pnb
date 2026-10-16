@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 17:8",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אישון בת עין",
+      "rationale": "'اکھ دا نِکا بندہ، اکھ دی دھی' — عبرانی اکھ دے پتلے لئی؛ پنجابی 'اکھ دا پتلا' نال رلدا اے پر 'اکھ دی دھی' تصویر رکھی اے۔"
+    },
+    {
+      "kind": "you",
+      "subject": "یاہوہ نوں",
+      "rationale": "دعا دا سدھا مخاطب: 'میں نوں رکھ… میں نوں لُکا'۔"
+    },
+    {
+      "kind": "alternative",
+      "subject": "כנפיך",
+      "rationale": "پر כנף دا مول مطلب 'کنارا\/پر' اے — کنان دی سرحد دے پر وی ہو سکدے نیں، پر دعا دے سیاق وِچ پر زیادہ قدرتی نیں۔"
+    }
+  ],
+  "translation": "میں نوں رکھ، جیویں اکھ دے پتلے ⟨دی طرح⟩، اکھ دی دھی ⟨دی طرح⟩؛ تیرے پراں دی چھاں وِچ میں نوں لُکا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ed42e6203a2b00f92f88a775beee1b6eda610259e05f67698391a94bdb390549",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/17\/5-8.1792111959426.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "میں نوں رکھ"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "جیویں اکھ دا پتلا"
+    },
+    {
+      "surface": "בת",
+      "gloss": "دھی"
+    },
+    {
+      "surface": "עין",
+      "gloss": "اکھ"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "چھاں وِچ"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "تیرے پراں دی"
+    },
+    {
+      "surface": "תסתירני",
+      "gloss": "میں نوں لُکا"
+    }
+  ],
+  "timestamp": "2026-10-16T00:52:39.427706947Z",
+  "model": "glm-5.3"
+}

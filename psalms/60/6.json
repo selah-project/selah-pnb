@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 60:6",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "להתنוסס מפני קשט",
+      "rationale": "مروجہ 'سچ دی خاطر لہرایا جاوے' وِرودھ BSB دا 'کمان توں بچن لئی' (קֹשֶׁט نوں קֶשֶׁת پڑھ کے)"
+    },
+    {
+      "kind": "hapax",
+      "subject": "קשט",
+      "rationale": "قُשֶׁט — تنخ وِچ صرف اِتھے، 'سچ\/انصاف'"
+    }
+  ],
+  "translation": "تُوں نے اپنے ڈرن والیاں نوں جھنڈا دِتا اے، کہ سچ ⟨دی خاطر⟩ اُوہ لہرایا جاوے۔ سِلہ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "84865b9bc7ed5901f6561e9ff6231f3a2236584bb0617519ad72f3b3def82612",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/60\/5-8.1792112789828.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "دِتا اے"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "اپنے ڈرن والیاں نوں"
+    },
+    {
+      "surface": "נס",
+      "gloss": "جھنڈا"
+    },
+    {
+      "surface": "להתנוסס",
+      "gloss": "لہران لئی"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "کارن"
+    },
+    {
+      "surface": "קשט",
+      "gloss": "سچ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سِلہ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:06:29.828743739Z",
+  "model": "glm-5.3"
+}

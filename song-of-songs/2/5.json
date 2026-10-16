@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 2:5",
+  "book": "song-of-songs",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אשישות",
+      "rationale": "کشمشاں دے دبے ہوئے سیرے، تے سرائیکی سیب — پراناں 'سیب' تے 'خوشبو والا پھل' دوناں دسدے نیں۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חולת אהבה",
+      "rationale": "لفظی 'پیار توں کمزور\/بیمار' — پنجابی وچ 'پیار دی بیمار' اِکو تصویر رکھدا اے۔"
+    }
+  ],
+  "translation": "مینوں کشمشاں دے ⟨سیرے⟩ نال سہارو، مینوں سیباں نال بستر وچھاؤ، کیوں جے میں پیار دی ⟨بیمار⟩ آں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0a8e4ff521e79130072931154f13756e4a88c683f0908c6de7f7e8d0497d86da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/song-of-songs\/2\/5-8.1792116734494.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סמכוני",
+      "gloss": "مینوں سہارو"
+    },
+    {
+      "surface": "באשישות",
+      "gloss": "کشمشاں دے سیرے"
+    },
+    {
+      "surface": "רפדוני",
+      "gloss": "مینوں بستر وچھاؤ"
+    },
+    {
+      "surface": "בתפוחים",
+      "gloss": "سیباں نال"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جے"
+    },
+    {
+      "surface": "חולת",
+      "gloss": "بیمار"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "پیار دی"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    }
+  ],
+  "timestamp": "2026-10-16T02:12:14.495199396Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 30:4",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اپنی",
+      "rationale": "شِفحا دے نال جوڑ دا ضمیر پنجابی 'اپنی' نال دسیا"
+    },
+    {
+      "kind": "idiom",
+      "subject": "לאשה",
+      "rationale": "'زنانی بنا کے' — عبرانی 'ل + عِشا' مطلب بیوی دے طور تے، لفظی 'زنانی لئی'"
+    }
+  ],
+  "translation": "تے اوہنے ⟨את⟩ بلہا نوں، اپنی داسی نوں، اوہنوں زنانی بنا کے دتی، تے یعقوو اوہدے کول آیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "32b0a027d17b102c62d2f62e9dad1eee5c5c1caac83548fa17699b668aff9240",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/30\/1-4.1792095422379.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "تے دتی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہنوں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بلہا"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "بلہا"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "اپنی داسی"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "زنانی بنا کے"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "تے آیا"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "اوہدے کول"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    }
+  ],
+  "timestamp": "2026-10-15T20:17:02.380353034Z",
+  "model": "glm-5.3"
+}

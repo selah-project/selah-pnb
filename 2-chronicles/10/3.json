@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 10:3",
+  "book": "2-chronicles",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "کے",
+      "rationale": "‘گھل کے بلایا’ — عبرانی دے دو واو-طریقے کرییاں نیں، پنجابی لڑی وِچ ‘کے’ جوڑدا اے"
+    },
+    {
+      "kind": "elision",
+      "subject": "לאמר",
+      "rationale": "لفظی ‘آکھن لئی’ — پنجابی ‘آکھدے ہوئے’ نال پوری طرحاں کولوکوئیشن نئیں"
+    }
+  ],
+  "translation": "تے اوہناں نے گھل کے اوہنوں بلایا؛ تے یَرووام تے سارا یِسرائیل آیا، تے اوہناں رِحبعام نال آکھیا، آکھدے ہوئے:",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fd9e5648a40a5506a1d86ad29f3a01d1533b18ced9cb6d487483583c9110ad3a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/10\/1-4.1792122016596.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "تے گھل کے"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "بلایا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہنوں"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "تے آیا"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "یَرووام"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سارا"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "رِحبعام"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھدے ہوئے"
+    }
+  ],
+  "timestamp": "2026-10-16T03:40:16.597682924Z",
+  "model": "glm-5.3"
+}

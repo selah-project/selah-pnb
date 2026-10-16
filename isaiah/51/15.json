@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 51:15",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ای⟩",
+      "rationale": "پنجابی پربندھاج قول لئی، عبرانی وِچ کپولا نئیں"
+    },
+    {
+      "kind": "crux",
+      "subject": "רגע",
+      "rationale": "'ہلانا' (ASV\/JPS) بمقابلہ 'شاکر کرنا' (YLT) — فعل دوویں رخ رکھدا اے"
+    }
+  ],
+  "translation": "تے میں ای یاہوہ تیرا ایلوہیم آں، جیہڑا سمندر نوں ہلا دیندا اے تے اوہدیاں لہراں گرجدیاں نیں؛ یاہوہ تصواوت ⟨ای⟩ اوہدا ناں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4d4636d8b09c47c8209c5eb89dcc516b20117c04c72468b9e8943a9100890f25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/51\/13-16.1792106961303.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "تے میں ای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تیرا ایلوہیم آں"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "ہلا دیندا اے"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر نوں"
+    },
+    {
+      "surface": "ויהמו",
+      "gloss": "تے گرجدیاں نیں"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "اوہدیاں لہراں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "تصواوت"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "⟨ای⟩ اوہدا ناں"
+    }
+  ],
+  "timestamp": "2026-10-15T23:29:21.304508105Z",
+  "model": "glm-5.3"
+}

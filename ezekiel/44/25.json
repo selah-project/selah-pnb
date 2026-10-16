@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 44:25",
+  "book": "ezekiel",
+  "lang": "pnb",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אשר לא היתה לאיש",
+      "rationale": "بھین دے بڑ ناں ہووے دی اِدوم، لفظی 'جو بندے نوں نئیں ہوئی'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩",
+      "rationale": "عبرانی وچ فعل دا فاعل ضمیر نال لکھیا اے، پنجابی لئی وکھ ضمیر چاہیدی"
+    }
+  ],
+  "translation": "تے کسے مُردہ آدمی کول نئیں جانا چاہیدا آلودگی لئی، سِوائے پیو لئی تے ماء لئی، پُتر لئی تے دھی لئی، بھرا لئی تے بھین لئی جیہڑی کِسے بندے دی نئیں ہوئی — ⟨اوہ⟩ آلودہ ہو سکدے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f282b18a5e1cda7a9283ccfa1b3d22a05c3c3857e17167c7f9cc04534983e34b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/44\/25-28.1792110285510.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "تے کول"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مُردہ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "جانا چاہیدا"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "آلودگی لئی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "سِوائے"
+    },
+    {
+      "surface": "אם",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "پیو لئی"
+    },
+    {
+      "surface": "ולאם",
+      "gloss": "تے ماء لئی"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "پُتر لئی تے"
+    },
+    {
+      "surface": "ולבת",
+      "gloss": "دھی لئی تے"
+    },
+    {
+      "surface": "לאח",
+      "gloss": "بھرا لئی تے"
+    },
+    {
+      "surface": "ולאחות",
+      "gloss": "بھین لئی تے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ہوئی"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "کِسے بندے دی"
+    },
+    {
+      "surface": "יטמאו",
+      "gloss": "آلودہ ہو سکدے نیں"
+    }
+  ],
+  "timestamp": "2026-10-16T00:24:45.510782091Z",
+  "model": "glm-5.3"
+}

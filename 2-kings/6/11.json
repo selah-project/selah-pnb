@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 6:11",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויסער לב",
+      "rationale": "'دل ہلجا پیا' — طوفان والی صورت: بادشاہ دا دل اِکڑیا، اصل تصویر سمندری ہلج پُن وچ"
+    },
+    {
+      "kind": "addition",
+      "subject": "دا",
+      "rationale": "عبرانی 'ساڈے وِچوں کون یِسرائیل دے بادشاہ ⟨لئی⟩' — پنجابی نوں 'دا' چاہیدا"
+    },
+    {
+      "kind": "you",
+      "subject": "غلاماں نوں",
+      "rationale": "بادشاہ اپنے غلاماں نوں سدّ کے سوال کردا اے"
+    }
+  ],
+  "translation": "تے ایس گل توں اَرام دے بادشاہ دا دل ہلجا پے گیا، تے اوہنے اپنے غلاماں نوں سدّیا تے اوہناں نوں آکھیا: تسیں مینوں نئیں دسّوگے کہ ساڈے وِچوں کون یِسرائیل دے بادشاہ ⟨دا⟩ اے؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b5df42c8ee4da5b782e612421c37db39537b41c4eb129372d258e6b2a1047acf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/6\/9-12.1792105021735.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסער",
+      "gloss": "ہلجا پے گیا"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "اَرام دے"
+    },
+    {
+      "surface": "על",
+      "gloss": "توں"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "گل"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایس"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "سدّیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "اپنے غلاماں"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "اوہناں نوں"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "کی نئیں"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "تسیں دسّوگے"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مینوں"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "משלנו",
+      "gloss": "ساڈے وِچوں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دے بادشاہ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-10-15T22:57:01.736052879Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 150:4",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 150,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "کل قوم",
+      "rationale": "حکری فعل — سازاں تے ناچ نال تعریف دا سدّا، مزموڑ 150 دا وہار۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "تاراں والے ساز",
+      "rationale": "מנים دا مول مطلب 'ٹوٹے\/تاراں' اے — 'تاراں والے ساز' وضاحتی ترجمہ اے۔"
+    }
+  ],
+  "translation": "اُس دی تعریف کرو ڈھول تے ناچ نال، اُس دی تعریف کرو تاراں والے سازاں تے بانسری نال۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d89126023dc6c87f7ee6a7454441fb6dafd0c22bd186939e50453e2e6bf1a3a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/150\/3-4.1792124231045.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "اُس دی تعریف کرو"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "ڈھول نال"
+    },
+    {
+      "surface": "ומחול",
+      "gloss": "تے ناچ"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "اُس دی تعریف کرو"
+    },
+    {
+      "surface": "במנים",
+      "gloss": "تاراں والے سازاں نال"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "تے بانسری"
+    }
+  ],
+  "timestamp": "2026-10-16T04:17:11.045567459Z",
+  "model": "glm-5.3"
+}

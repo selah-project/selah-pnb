@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 79:8",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 79,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "خلاف",
+      "rationale": "לנو نوں 'ساڈے خلاف' کہن لئی پنجابی وچ خلاف دا اضافہ پئیدا اے۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "پہلیاں بھلاں",
+      "rationale": "עונת ראשנים: کیہ ایہہ ساڈیاں پرانیاں بھلاں نیں یا پیؤاں دیاں؟ دونوں ترجمے ملدے نیں۔"
+    },
+    {
+      "kind": "you",
+      "subject": "یاہوہ",
+      "rationale": "دعا سدھے یاہوہ نوں کیتی گئی اے۔"
+    }
+  ],
+  "translation": "ساڈیاں پہلیاں بھلاں ساڈے خلاف چیتے نہ کر، جلدی آ کے ساڈے اگے تیریاں رحمتاں آون، کیوں جو اسیں بہت جھک گئے آں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "15a0883b600fa9aa4aceb3a70cbf18f2add7ec6a9f697d6a881499ad8fa30ebb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/79\/5-8.1792113187108.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "چیتے کر"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ساڈے ⟨خلاف⟩"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "بھلاں"
+    },
+    {
+      "surface": "ראשנים",
+      "gloss": "پہلیاں"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "جلدی"
+    },
+    {
+      "surface": "יקדמונו",
+      "gloss": "ساڈے اگے آون"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "تیریاں رحمتاں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "דלונו",
+      "gloss": "اسیں جھک گئے آں"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بہت"
+    }
+  ],
+  "timestamp": "2026-10-16T01:13:07.109765101Z",
+  "model": "glm-5.3"
+}

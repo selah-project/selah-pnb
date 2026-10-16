@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 23:8",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש گلاے\/ساہ\/جی اے — 'تُہاڈی جان اے' عبرانی دی اِدّا اے، پنجابی وِچ منّت دا پھل۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ایہہ منّت⟩ · ⟨ہٹا کے⟩",
+      "rationale": "مکمل جملے لئی پنجابی نے دو جوٹاں منگیاں۔"
+    },
+    {
+      "kind": "invitation",
+      "subject": "اَوراہام دا حیت دے پُتراں نوں بین",
+      "rationale": "'مینوں سُݨو' — بین نال سُنن والے نوں جوڑدا اے۔"
+    },
+    {
+      "kind": "you",
+      "subject": "حیت دے پُتر",
+      "rationale": "اَوراہام سِدھا اوہناں نوں مخاطب اے۔"
+    }
+  ],
+  "translation": "تے اوہنے ⟨את⟩ اوہناں نال گل کیتی، آکھیا: جے ⟨את⟩ تُہاڈی جان ⟨ایہہ منّت⟩ اے کہ مَیں ⟨את⟩ اپنے مُردے نوں اپنی اکھ توں ⟨ہٹا کے⟩ دفناواں، مینوں سُݨو تے میرے لئی عِفرون، صوخار دے پُتر نال گل کرو۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e5130f2f5f44e5c266f3cbda3822c02e2e4d5f8c283fb3503540e0297589675b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/23\/5-8.1792095157854.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "گل کیتی"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ اوہناں نال",
+      "marks": "اوہناں نال"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "יש",
+      "gloss": "اے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تُہاڈی جان"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "تُہاڈی جان"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "دفناواں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنے מردے نوں"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "اپنے مُردے نوں"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "اپنی اکھ توں"
+    },
+    {
+      "surface": "שמעוני",
+      "gloss": "مینوں سُݨو"
+    },
+    {
+      "surface": "ופגעו",
+      "gloss": "تے گل کرو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرے لئی"
+    },
+    {
+      "surface": "בעפרון",
+      "gloss": "عِفرون نال"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "צחר",
+      "gloss": "صوخار"
+    }
+  ],
+  "timestamp": "2026-10-15T20:12:37.856069155Z",
+  "model": "glm-5.3"
+}

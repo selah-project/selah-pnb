@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 14:4",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "תולעת",
+      "rationale": "שני תולעת اِکو جوڑ اے — 'کِرم دا لال' — پنجابی وِچ اِک واری 'کِرم زعفرانی' آکھیا؛ تھوک دی گنتی برقرار، گلاس رلی۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "צרעת → چمڑ دی مار",
+      "rationale": "'کوڑھ' جدید بیماری دا ناں اے؛ عبرانی נגע 'مار\/واری' اے تے צרעת اوہلے دی چمڑ دی حالت۔"
+    }
+  ],
+  "translation": "تے کاہن حکم کرے، تے پاک ہون والے لئی دو جیوندے پرندے تے پاک پرندے لئے جان، تے دیار دا لکڑ، تے کِرم زعفرانی، تے اذکھار:",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "29ea0b6cc3e237a0c5c80aeead6d0d66e658116bace6411366c1a37b165328d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/14\/1-4.1792097693410.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "تے حکم کرے"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاהن"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "تے لئے جان"
+    },
+    {
+      "surface": "למטהר",
+      "gloss": "پاک ہون والے لئی"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دو"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "پرندے"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "جیوندے"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "تے لکڑ"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "دیار دا"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "تے کِرم زعفرانی"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": ""
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "تے اذکھار"
+    }
+  ],
+  "timestamp": "2026-10-15T20:54:53.411337291Z",
+  "model": "glm-5.3"
+}

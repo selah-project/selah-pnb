@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 78:21",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "زہر",
+      "rationale": "אף دا مول مطلب نَک\/ساہ اے، غصے دی صورت وِچ 'زہر' یا 'غصہ' — مول دی تصویر (ناساں وِچوں ساہ) پنجابی وِچ ریندی اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויתעבר\/עבר",
+      "rationale": "עבר ('پار کرنا\/گزرنا') ایتھے 'غصے وِچ لَنگھ جانا' — یعقوو دے ناں יעקב نال اکو جِہیا آواز، ایہہ پیار پنجابی وِچ گوانٹھا گیا"
+    },
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "ایتھے אپنے آپ کوست لفظ אף 'تے وی' نال چلدا اے؛ عبرانی وِچ کوئی הے نئیں، پنجابی نے 'اوہ' پایا"
+    }
+  ],
+  "translation": "ایس لئی یاہوہ نے سُنیا تے اوہ غصے نال بھر گیا، تے اگّ یعقوو وِچ بل پئی، تے زہرِielezaں وی یِسرائیل اُتے چڑھ آیا —",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "da57fde5bf333c2237b2715ecd4a86ab6c59a3732dd97f0a4f93e32741e3d531",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/78\/21-24.1792113056427.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ایس لئی"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سُنیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "تے اوہ غصے نال بھر گیا"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "تے اگّ"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "بل پئی"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "یعقوو وِچ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "تے وی"
+    },
+    {
+      "surface": "אף",
+      "gloss": "زہر"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "چڑھ آیا"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "یِسرائیل اُتے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:10:56.428305153Z",
+  "model": "glm-5.3"
+}

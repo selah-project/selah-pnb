@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 16:1",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ויקח",
+      "rationale": "לקח دا مفعول عبرانی وِچ کوئی نئیں؛ کجھ ترجمے 'بندے' جوڑدے نیں، ⟨⟩ وِچ دسیا گیا اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "نسل نامہ",
+      "rationale": "ناواں دی لڑی — قورح دی نسل لیوی تک تے داتان دی رئووین تک دسی گئی اے"
+    }
+  ],
+  "translation": "تے قورح نے — یِتصہر دا پتر، قہات دا پتر، لیوی دا پتر — تے داتان تے اَویرام، ایلیآب دے پتر، تے اون، پیلت دا پتر، رئووین دے پتر، ⟨کجھ بندے⟩ چُکے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b08d47f344a996abd6a774dec18d811fa32e96645baca05782813867eac04585",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/16\/1-4.1792098785007.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "چُکے"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورح"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پتر"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "یِتصہر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پتر"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قہات"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پتر"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لیوی"
+    },
+    {
+      "surface": "ודתן",
+      "gloss": "تے داتان"
+    },
+    {
+      "surface": "ואבירם",
+      "gloss": "تے اَویرام"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پتر"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "ایلیآب"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "تے اون"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پتر"
+    },
+    {
+      "surface": "פלת",
+      "gloss": "پیلت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پتر"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "رئووین"
+    }
+  ],
+  "timestamp": "2026-10-15T21:13:05.007873133Z",
+  "model": "glm-5.3"
+}

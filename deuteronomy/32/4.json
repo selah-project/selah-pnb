@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 32:4",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوہ (چٹان)",
+      "rationale": "عبرانی وِچ ہو تاں پچھے وچ اے، مُڈھ وِچ ‘اوہ’ پنجابی جملے لئی دتا گیا"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צדיק\/וישר",
+      "rationale": "سچّ\/سِدھا — س conveniently سدھی راہ دی تصویر، اگلے ہی آیت وِچ ‘ٹیڑھی پیڑھی’ دے الٹ"
+    }
+  ],
+  "translation": "اوہ چٹان — بیہتا اے اوہدا کم، کیوں جو اوہدیاں ساریاں راہواں انصاف نیں؛ اِک ایل اے جو سچّی وفاداری اے، تے کوئی ظل نئیں — پکا سچّ تے سِدھا اے اوہ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5ea134ecc658e6dcff41e48ec371637446f66eb77588760d54d8fcd24bfc9dfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/32\/1-4.1792100592658.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הצור",
+      "gloss": "اوہ چٹان"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "بیہتا"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "اوہدا کم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساریاں"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "اوہدیاں راہواں"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف نیں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اِک ایل"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "سچّی وفاداری"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "تے کوئی … نئیں"
+    },
+    {
+      "surface": "עול",
+      "gloss": "ظل"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "پکا سچّ"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "تے سِدھا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    }
+  ],
+  "timestamp": "2026-10-15T21:43:12.659392387Z",
+  "model": "glm-5.3"
+}

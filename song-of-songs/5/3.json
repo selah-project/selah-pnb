@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 5:3",
+  "book": "song-of-songs",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "مَیں",
+      "rationale": "عبرانی فعل دی جھل نال پہلا شخص دتا اے، وکھری ضمیر عبرانی وِچ نئیں"
+    },
+    {
+      "kind": "addition",
+      "subject": "اوہ",
+      "rationale": "אלבשנה تے אטנפם وِچ چھپا مفعول پنجابی نوں وکھرا ضمیر چاہیدا اے"
+    }
+  ],
+  "translation": "مَیں ⟨את⟩ اپنی قمیص لاہ لئی، کِویں فیر اوہ پاؤں؟ مَیں ⟨את⟩ اپنے پیر دھو لئی، کِویں فیر اوہ میلے کراں؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6245c91614d8e63421535f4c25092c415dc0cf2afcafa6f04b1ac40c30b1de99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/song-of-songs\/5\/1-4.1792116748939.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פשטתי",
+      "gloss": "لاہ لئی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنی قمیص"
+    },
+    {
+      "surface": "כתנתי",
+      "gloss": "اپنی قمیص"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "کِویں"
+    },
+    {
+      "surface": "אלבשנה",
+      "gloss": "فیر اوہ پاؤں"
+    },
+    {
+      "surface": "רחצתי",
+      "gloss": "دھو لئی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنے پیر"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "اپنے پیر"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "کِویں"
+    },
+    {
+      "surface": "אטנפם",
+      "gloss": "میلے کراں"
+    }
+  ],
+  "timestamp": "2026-10-16T02:12:28.941152024Z",
+  "model": "glm-5.3"
+}

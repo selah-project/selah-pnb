@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 9:2",
+  "book": "joshua",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "اِکّ مُںہ",
+      "rationale": "פה אחد lit. 'one mouth' — idiom for unanimous intent; shape kept in gloss"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יחדו \/ אחד",
+      "rationale": "both from one root — unitedly\/one — sound echo preserved in اِکٹھے\/اِکّ"
+    }
+  ],
+  "translation": "تے اوہ اِکٹھے ہوئے، یہوشُوا نال تے یِسرائیل نال لڑن لئی، اِکّ مُںہ ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "81e65d0d4238f32dcf3c7e29e05612b69f8ca1ba6ccd68d8d69e5ead40d1f202",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joshua\/9\/2-3.1792123558045.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתקבצו",
+      "gloss": "اِکٹھے ہوئے"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "رَل کے"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "لڑن لئی"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یہوشُوا"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "تے نال"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "פה",
+      "gloss": "مُںہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "اِکّ"
+    }
+  ],
+  "timestamp": "2026-10-16T04:05:58.045968194Z",
+  "model": "glm-5.3"
+}

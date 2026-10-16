@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 29:10",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨تاں⟩",
+      "rationale": "عبرانی وِچ تاں دا لفظ نئیں، پنجابی فقرہ منگدا اے"
+    },
+    {
+      "kind": "invitation",
+      "subject": "داوِد",
+      "rationale": "اخیش حکم دیندے ہوئے داوِد نُوں سدھا مخاطب کردا اے"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתך",
+      "gloss note": "عبرانی دا את marker قریبی 'نال' والا اے، ⟨את⟩ نال رکھیا گیا"
+    }
+  ],
+  "translation": "تے ہُن سویرے سویرے اُٹھ، تُو تے تیرے سائیں دے اوہ بندے جیہڑے ⟨את⟩ تیرے نال آئے نیں؛ تے سویرے سویرے اُٹھو، تے جِدّاں چانݨ ہو جاوے تُساں لئی ⟨تاں⟩ تُسیں ٹُر جاؤ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "544093e83701cbb8b62537b19d28a8d906a36dc98fa2fe3a66be5c5786ed4539",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/29\/9-11.1792102900502.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "تے ہُن"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "سویرے سویرے اُٹھ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "سویر وِچ"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "تے بندے"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "تیرے سائیں دے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑے"
+    },
+    {
+      "surface": "באו",
+      "gloss": "آئے نیں"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ تیرے نال"
+    },
+    {
+      "surface": "והשכמתם",
+      "gloss": "تے اُٹھوگے سویرے سویرے"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "سویر وِچ"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "تے چانݨ ہو جاوے"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُساں لئی"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "تے ٹُر جاؤ"
+    }
+  ],
+  "timestamp": "2026-10-15T22:21:40.503321322Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨کپڑے⟩",
+      "rationale": "عبرانی وِچ پچھلی آیت دا مفعول چھڈیا گیا اے؛ پنجابی جملہ منگدا اے۔"
+    }
+  ],
+  "translation": "تے جے اوہ ⟨کپڑے⟩ نہ دھووے تے اپنا ماس نہ نہاوے، تاں اوہ اپنا قص چُکیگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a730804f036026d31fa4f1ec807632a2a81dd5b2a57f8e21085bc3befa7b01be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/17\/13-16.1792097859918.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "دھووے"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "تے اوہدا ماس"
+    },
+    {
+      "surface": "لא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "نہاوے"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "تے چُکیگا"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "اوہدا قص"
+    }
+  ],
+  "timestamp": "2026-10-15T20:57:39.919457799Z",
+  "model": "glm-5.3"
+}

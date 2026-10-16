@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 3:3",
+  "book": "hosea",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اونا ای رہاںگا⟩",
+      "rationale": "عبرانی صرف کہندی اے 'تے میں وی تیرے لئی' — باقی پنجابی جملے لئی پایا گیا"
+    },
+    {
+      "kind": "you",
+      "subject": "عورت نوں",
+      "rationale": "ہوشےع اوہنوں سدھا مخاطب کردا اے"
+    }
+  ],
+  "translation": "تے میں اوہنوں آکھیا: دیر دناں تُوں میرے لئی رہِیں، بدکاری نہ کریں، تے کسے بندے دی نہ ہوویں، تے میں وی تیرے لئی ⟨اونا ای رہاںگا⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9d47e7184f112630e5685209087dd2f219885b067baed2ca42cc7b76cc1b463a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/hosea\/3\/1-4.1792110474938.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "تے میں آکھیا"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "اوہنوں"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دیر دناں"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "دیر"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "تُوں رہِیں"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرے لئی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תזני",
+      "gloss": "بدکاری کریں"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תהיי",
+      "gloss": "ہوویں"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "کسے بندے دی"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "تے وی"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تیرے لئی"
+    }
+  ],
+  "timestamp": "2026-10-16T00:27:54.939948294Z",
+  "model": "glm-5.3"
+}

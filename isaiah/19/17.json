@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 19:17",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "لחגא",
+      "rationale": "مُڈھ لفظ چکر\/سر پھرنا اے؛ ترجمے 'خوف' توں لے کے 'ٹھوکر دا سبب' تک نیں۔"
+    },
+    {
+      "kind": "elision",
+      "subject": "יפחד اگے توں",
+      "rationale": "عبرانی دا 'اوہدے اگے توں ڈریگا' پنجابی وِچ 'اگے' دوبارہ نئیں لیا۔"
+    }
+  ],
+  "translation": "تے یہوداہ دی زمین مِتصرایم لئی چکر-خوف بن جائے گی؛ ہر اوہ جو ⟨את⟩ اوہنوں اوہدے اگے یاد کریگا، ڈریگا، یاہوہ تصواوت دی صلاح توں جیہڑی اوہ اوہدے بارے صلاح دیندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2cc5f62d213d0192f810c16963c35cfd6ca1a008943ae3bf1acb3d3fc601a40e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/19\/17-20.1792106181307.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "تے بن جائے گی"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "مِتصرایم لئی"
+    },
+    {
+      "surface": "לחגא",
+      "gloss": "چکر-خوف لئی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر اوہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יזכיר",
+      "gloss": "یاد کریگا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "اوہنوں"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اوہدے اگے"
+    },
+    {
+      "surface": "יפחד",
+      "gloss": "ڈریگا"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "اگے توں"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "صلاح"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "تصواوت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "صلاح دیندا"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اوہدے بارے"
+    }
+  ],
+  "timestamp": "2026-10-15T23:16:21.307961839Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 35:12",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש جان\/ساہ اے، 'روح' نئیں"
+    },
+    {
+      "kind": "crux",
+      "subject": "שכול לנפשי",
+      "rationale": "'میری جان لئی بچھڑا' — KJV 'تو spoiling of my soul'، JPS 'bereavement is come to my soul'"
+    }
+  ],
+  "translation": "اوہ مینوں نیائی دی تھاں برائی دا بدلہ دیندے نیں، میری جان لئی بچھڑا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "088f89f98256a3dcaf5591a239c92a161ee60ee0a7f64da7ce0697f7d344267d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/35\/9-12.1792112279437.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישלמוני",
+      "gloss": "اوہ مینوں بدلہ دیندے نیں"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "دی تھاں"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "نیائی"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "بچھڑا"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "میری جان لئی"
+    }
+  ],
+  "timestamp": "2026-10-16T00:57:59.438738918Z",
+  "model": "glm-5.3"
+}

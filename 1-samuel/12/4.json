@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 12:4",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "מאומה",
+      "rationale": "مَنفی وِچ 'کجھ وی نئیں' دا 'وی' پنجابی روانی لئی رلیا، عبرانی اِک لفظ אַמ੼وּמָה رکھدا اے۔"
+    }
+  ],
+  "translation": "تے اوہناں آکھیا: تسیں سانوں نئیں دبایا، نہ سانوں کُچیا، نہ کسے بندے دے ہتھوں کجھ ⟨وی⟩ لیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8cd5788a29a0ef5ff52376b89afa0ca78dab6d9eae9face0727e1bcd513a3320",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/12\/1-4.1792102481417.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "تے اوہناں آکھیا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "עשקתנו",
+      "gloss": "تسیں سانوں دبایا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "רצותנו",
+      "gloss": "سانوں کُچیا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "لیا"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "دے ہتھوں"
+    },
+    {
+      "surface": "איש",
+      "gloss": "کسے بندے"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "کجھ"
+    }
+  ],
+  "timestamp": "2026-10-15T22:14:41.418610976Z",
+  "model": "glm-5.3"
+}

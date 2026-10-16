@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לא לנו … לא לנו",
+      "rationale": "دوہرا 'سانوں نئیں' — عبرانی دی دوہرائی، پنجابی وِچ رکھی گئی اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "خیسِد",
+      "rationale": "חסד حرف-نقل رکھیا گیا، ⟨دی خاطر⟩ اُردو نئیں، پنجabili وضاحت بریکٹ وِچ"
+    },
+    {
+      "kind": "you",
+      "subject": "یاہوہ نوں",
+      "rationale": "سدھی مخاطبت — دعاہ کرن والا یاہوہ ولّ منہ کر کے بولدا اے"
+    }
+  ],
+  "translation": "سانوں نئیں یاہوہ، سانوں نئیں، سگوں تیرے ناں نوں جلال دے، تیرے خیسِد ⟨دی خاطر⟩ تے تیری سچائی ⟨دی خاطر⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "80ac09966d24a74ffa4fcbea3480205d886b56e155f1cf2c46148ec88c69fb48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/115\/1-4.1792113763388.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "سانوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "לנو",
+      "gloss": "سانوں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "سگوں"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "تیرے ناں نوں"
+    },
+    {
+      "surface": "תן",
+      "gloss": "دے"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "تیرے خیسِد"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "تیری سچائی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:22:43.389215087Z",
+  "model": "glm-5.3"
+}

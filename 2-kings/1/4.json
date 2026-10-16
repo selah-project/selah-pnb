@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 1:4",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מות תמות",
+      "rationale": "عبرانی دا اِنفینِٹِو_ABSOLUTE خاص — لفظی ’موت مروگے‘، پنجابی وِچ ’یقین مرسوگے‘"
+    },
+    {
+      "kind": "elision",
+      "subject": "שם",
+      "gloss": "لفظی ’اتھے\/اوتھے‘ — پنجاری جملے وِچ رچ گیا"
+    },
+    {
+      "kind": "you",
+      "subject": "اَخزیاہ نوں",
+      "rationale": "یاہوہ دا بیان بادشاہ اَخزیاہ ول سدھا مخاطب اے"
+    }
+  ],
+  "translation": "اِس لئی یاہوہ ایہہ آکھدا اے: اِس پلنگ توں جس اُتے تُسیں چڑھے او، تُسیں اُتراؤگے نئیں، کیوں جو تُسیں یقین مرسوگے۔ تے الیاہ ٹُر پیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d4da3ecf09d8dbc7bdf118ca2bc3fa1fec0e9896447a31ce38e7567052c5a331",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/1\/1-4.1792104921035.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולכן",
+      "gloss": "اِس لئی"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھدا اے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "پلنگ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جس"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "تُسیں چڑھے او"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اتھے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "تُسیں اُتراؤگے"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "اِس توں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "מות",
+      "gloss": "یقین"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "مرسوگے"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "تے ٹُر پیا"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "الیاہ"
+    }
+  ],
+  "timestamp": "2026-10-15T22:55:21.037170586Z",
+  "model": "glm-5.3"
+}

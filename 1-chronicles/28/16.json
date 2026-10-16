@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 28:16",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "המערכת",
+      "rationale": "‘ترتیب’ — روٹیاں دی صف؛ رِیتاں وِچ ‘چوکھی روٹی’ کہیا جاندا اے، ایتھے شکل رکھی گئی: ترتیب-روٹی"
+    },
+    {
+      "kind": "addition",
+      "subject": "ہر",
+      "rationale": "לשלחן ושלחן ‘دسترخوان تے دسترخوان’ — پنجابی وِچ ‘ہر دسترخوان لئی’ سمجھ آؤندا اے، شکل دہرائی رکھی"
+    },
+    {
+      "kind": "measurement",
+      "subject": "وزن",
+      "rationale": "سونے دا وزن — تول-پھر والی آیت"
+    }
+  ],
+  "translation": "تے ⟨את⟩ سونے دا وزن ترتیب-روٹی دے دسترخواناں لئی، ہر دسترخوان لئی؛ تے چاندی چاندی دے دسترخواناں لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9618b62f233265ffe12f4dec4698e2faefc1363636d9a5cccf09305250c7ebeb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/28\/13-16.1792121371546.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "سونے"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "سونے دا"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "وزن"
+    },
+    {
+      "surface": "לשלחנות",
+      "gloss": "دسترخواناں لئی"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "ترتیب-روٹی دے"
+    },
+    {
+      "surface": "לשלחן",
+      "gloss": "ہر دسترخوان لئی"
+    },
+    {
+      "surface": "ושלחן",
+      "gloss": "تے دسترخوان"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "تے چاندی"
+    },
+    {
+      "surface": "לשלחנות",
+      "gloss": "دسترخواناں لئی"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "چاندی دے"
+    }
+  ],
+  "timestamp": "2026-10-16T03:29:31.547356220Z",
+  "model": "glm-5.3"
+}

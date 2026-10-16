@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "והבית",
+      "rationale": "دوجے مفعول 'گھر' دے نال عبرانی وِچ את نئیں — پہلے نال اے، دوجے نال نئیں۔"
+    }
+  ],
+  "translation": "تے سبا دی ملکہ نے ⟨את⟩ شلوموہ دی دانائی ویکھی، تے اوہ گھر جیہڑا اوہنے بنایا سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2b6658eb8b144776200fa24f9b6f3cc3b46e9e81b80fe172c543c4e3f4385aa3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/9\/1-4.1792122014956.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "تے ویکھی"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "ملکہ"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "سبا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شلوموہ دی دانائی"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "دانائی"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلوموہ"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "تے گھر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "بنایا سی"
+    }
+  ],
+  "timestamp": "2026-10-16T03:40:14.957443741Z",
+  "model": "glm-5.3"
+}

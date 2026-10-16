@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 11:10",
+  "book": "joshua",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לפנים",
+      "rationale": "لفظی 'چہرے' — ایتھے 'پہلاں\/کدے' دا ویلے دا اِڈiom اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "سِر",
+      "rationale": "ראש لفظی 'سِر' اے، 'سردار\/رئیس' نئیں — صورت رکھی اے"
+    }
+  ],
+  "translation": "تے اُس ویلے یَہوشُوَا مُڑ آیا تے ⟨את⟩ حاصور نوں فتح کیتا، تے ⟨את⟩ اوہدا بادشاہ تلوار نال ماریا، کیونکہ حاصور پہلاں اوہناں سبھ بادشاہتاں دا سِر سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2e957455d72014792a99304929dfde5480d3079de9f83a9c40e0e3de0973fb15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joshua\/11\/9-12.1792100979529.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "مُڑ آیا"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یَہوشُوَا"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "اُس ویلے"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "וילכد",
+      "gloss": "فتح کیتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حاصور"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "حاصور"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اوہدا بادشاہ"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "اوہدا بادشاہ"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ماریا"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "تلوار نال"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "حاصور"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "پہلاں"
+    },
+    {
+      "surface": "היא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سِر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سبھ"
+    },
+    {
+      "surface": "הממלכות",
+      "gloss": "بادشاہتاں دا"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "اوہناں"
+    }
+  ],
+  "timestamp": "2026-10-15T21:49:39.531357035Z",
+  "model": "glm-5.3"
+}

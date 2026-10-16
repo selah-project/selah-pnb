@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 21:14",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "לא…כי אם عبرانی نفی دا جوڑ اے، 'نہ… سگوں صرف'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אלמנה\/חללה",
+      "rationale": "آیت وِچ چار منع عورتاں دی لڑی اے، فیر اِک آگیا — موازنے دی بنا"
+    },
+    {
+      "kind": "you",
+      "subject": "کاہن اُتے",
+      "rationale": "حکم اُچّے کاہن نوں پرتیت ہوندا اے (آیت 13 دا سیاق)"
+    }
+  ],
+  "translation": "کنواری، تے وِچھوڑی، تے وگڑی، تے بازاری عورت — ایہناں ⟨את⟩ نوں نہ لَوے؛ سگوں صرف اِک ببتولی، اِپنے قوم وِچوں، عورت لَوے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9140dfa80f81c9a79f810af57a24a5fca1dcc9dd36c07f61470c19e049437d50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/21\/13-16.1792097930310.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "کنواری"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "تے وِچھوڑی"
+    },
+    {
+      "surface": "וחללה",
+      "gloss": "تے وگڑی"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "بازاری عورت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایہناں نوں"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایہناں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "لَوے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "سگوں"
+    },
+    {
+      "surface": "אם",
+      "gloss": "صرف"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "اِک ببتولی"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "اِپنے قوم وِچوں"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "لَوے"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "عورت"
+    }
+  ],
+  "timestamp": "2026-10-15T20:58:50.311418526Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 29:19",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "عبرانی وِچ کوئی کنی نئیں؛ پنجابی نے ⟨اے⟩ منگیا۔"
+    },
+    {
+      "kind": "alternative",
+      "subject": "میری فصل وِچ",
+      "rationale": "בקצירי کجھ پرانیاں نے 'میری ٹاہنی' پڑھیا (تلفظ نال)، پر 'فصل' الفاظ دے نیڑے اے۔"
+    }
+  ],
+  "translation": "میری جَرھ پانیاں ول کُھلی ⟨اے⟩، تے میڈی فصل وِچ شبنم رات بیتے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "67b55e43b46e5aea6489b3731ee9f09bc547a38e369050b8a5a71d68d6c0bfd3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/29\/17-20.1792116148314.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שרשי",
+      "gloss": "میری جَرھ"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "کُھلی"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ول"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پانیاں"
+    },
+    {
+      "surface": "وטל",
+      "gloss": "تے شبنم"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "رات بیتے"
+    },
+    {
+      "surface": "בקצירי",
+      "gloss": "میری فصل وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T02:02:28.315105506Z",
+  "model": "glm-5.3"
+}

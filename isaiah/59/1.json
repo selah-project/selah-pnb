@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 59:1",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "הן",
+      "rationale": "آیت دی شروعات 'دیکھو' نال سُنن والے نوں سدیا جاندا اے"
+    },
+    {
+      "kind": "idiom",
+      "subject": "קצרה יד",
+      "rationale": "'ہتھ دا چھوٹا ہونا' — عبرانی محاورہ بے بسّی دا، پنجابی وِچ ایہو تصویر رکھی گئی"
+    },
+    {
+      "kind": "you",
+      "subject": "اسرائیل",
+      "rationale": "گواہی دا خطاب غیریہود دے سامنون قید کیتے ہوئے لوکاں نوں"
+    }
+  ],
+  "translation": "دیکھو، یاہوہ دا ہتھ بچان توں نئیں چھوٹا ہویا، تے اُوندا کَن سُنن توں نئیں بھاری ہویا،",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "04429048d6d647fe72b013c68146140c067f55770dccbbc112988908a49eed58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/59\/1-4.1792107113471.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "دیکھو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "קצרה",
+      "gloss": "چھوٹا ہویا"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دا"
+    },
+    {
+      "surface": "מהושיע",
+      "gloss": "بچان توں"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "کבדה",
+      "gloss": "بھاری ہویا"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "اُوندا کَن"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "سُنن توں"
+    }
+  ],
+  "timestamp": "2026-10-15T23:31:53.471870029Z",
+  "model": "glm-5.3"
+}

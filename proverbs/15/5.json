@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 15:5",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יערם",
+      "rationale": "ערום: 'چلاک\/چوکسی' بنام 'سُچجا' — ترجمیاں وِچ دووے پاسے نیں۔"
+    },
+    {
+      "kind": "elision",
+      "subject": "תוכחת",
+      "rationale": "جھانسا\/جلن والی گل — مکمل فوٹو پنجابی وِچ اک لفظ نئیں دسدا۔"
+    }
+  ],
+  "translation": "بھوندا اپنے پیو دی تربیت نوں ہاسے وِچ پاؤندا اے، پر جیہڑا جھانسا مندا اے اوہ چلاک بن جاندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "37c8f20d94c77a270694137ac827fa8a9cf240f9f27269f655d367465573d74f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/15\/5-8.1792114707763.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אויל",
+      "gloss": "بھوندا"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "ہاسے وِچ پاؤندا اے"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "تربیت"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "اپنے پیو دی"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "پر جھاسدا اے"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "جھانسا"
+    },
+    {
+      "surface": "יערם",
+      "gloss": "چلاک بن جاندا اے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:38:27.763964390Z",
+  "model": "glm-5.3"
+}

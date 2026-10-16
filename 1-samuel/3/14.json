@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 3:14",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אם",
+      "rationale": "قسم دی فارمولا اِם اے — حلفیہ 'کدے نئیں'، سادھا 'جے' نئیں"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨کدے⟩",
+      "rationale": "عبرانی دی حلفیہ نفی پنجابی وچ 'کدے نئیں' نال پوری ہوندی اے"
+    }
+  ],
+  "translation": "تے ایس لئی میں عیلی دے گھر نوں قسم کھادی اے کہ عیلی دے گھر دا گناہ قربانی نال تے نذر نال ہمیشہ لئی ⟨کدے⟩ پونچھیا نئیں جاوے گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "cef5407b470d2e5681ecaa2b58fec26369326a75204fd0e70138abf3b36508a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/3\/14-15.1792123659238.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולכן",
+      "gloss": "تے ایس لئی"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "میں قسم کھادی اے"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "گھر نوں"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "عیلی دے"
+    },
+    {
+      "surface": "אם",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יתכפר",
+      "gloss": "پونچھیا جاوے گا"
+    },
+    {
+      "surface": "עון",
+      "gloss": "گناہ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر دا"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "عیلی"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "قربانی نال"
+    },
+    {
+      "surface": "ובמנחה",
+      "gloss": "تے نذر نال"
+    },
+    {
+      "surface": "עד",
+      "gloss": "لئی"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیشہ"
+    }
+  ],
+  "timestamp": "2026-10-16T04:07:39.239306449Z",
+  "model": "glm-5.3"
+}

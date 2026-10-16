@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 15:9",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "میں\/میرا",
+      "rationale": "عبرانی بنا ضمیر فعل اے؛ پنجابی صیغہ منگدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/شوق\/جیون-زور دا نیڑے اے، روح نئیں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ארדף אשיג אחלק",
+      "rationale": "دشمن دے چھ کریاں اک لَے وِچ ٹھاٹھ ماردیاں نیں، پنجابی وِچ تال رہندا اے، شکل نئیں"
+    }
+  ],
+  "translation": "دشمن نے آکھیا: میں پچھا کراںگا، میں پجاںگا، میں لُٹ دا مال ونڈاں، اوہناں نال میری جان بھر جاوے، میں اپنی تلوار اِڈ دِیاں، میرا ہتھ اوہناں نوں مٹا دیوے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1ab465ffed77a72d930c0577bbcf47ead1e5b3eb2067358ed9b163c5cdf06dbd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/15\/9-12.1792096454098.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "دشمن"
+    },
+    {
+      "surface": "ארדף",
+      "gloss": "میں پچھا کراںگا"
+    },
+    {
+      "surface": "אשיג",
+      "gloss": "میں پجاںگا"
+    },
+    {
+      "surface": "אחלק",
+      "gloss": "میں ونڈاں"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "لُٹ دا مال"
+    },
+    {
+      "surface": "תמלאמו",
+      "gloss": "بھر جاوے"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میری جان"
+    },
+    {
+      "surface": "אריק",
+      "gloss": "اِڈ دِیاں"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "میری تلوار"
+    },
+    {
+      "surface": "תורישמו",
+      "gloss": "مٹا دیوے"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "میرا ہتھ"
+    }
+  ],
+  "timestamp": "2026-10-15T20:34:14.099132959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 13:24",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "گیا",
+      "rationale": "عبرانی پاسو کریا نئیں دسدی، پنجابی نوں چاہیدا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אשכול \/ האשכול",
+      "rationale": "ناں تے گُچھا اِکو لفظ — ایہی نام رکھن دا کارن اے"
+    }
+  ],
+  "translation": "اوہ تھاں وادی اَشکول آکھیا گیا، اوس گُچھے دے واسطے جیہڑا یِسرائیل دے پُتراں نے اوتھوں کتریا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "88b56335fc16430197b8e71700a49db5367559a661e80d68ccb5398cd7bc9a8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/13\/21-24.1792098597593.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למקום",
+      "gloss": "اوہ تھاں نوں"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "آکھیا گیا"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "وادی"
+    },
+    {
+      "surface": "אשכול",
+      "gloss": "اَشکول"
+    },
+    {
+      "surface": "על",
+      "gloss": "واسطے"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "……دے"
+    },
+    {
+      "surface": "האשכול",
+      "gloss": "گُچھے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "כרתו",
+      "gloss": "کتریا"
+    },
+    {
+      "surface": "משם",
+      "gloss": "اوتھوں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں نے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-10-15T21:09:57.595357475Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 19:25",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "گوٰیل (גֹּאֲלִי)",
+      "rationale": "قدیم سابقہ: 'ساڑا چڑیتا' یا 'مُڑ لین والا' — خاطری سٹ نئیں، 'گوٰیل' دا کولو ورتا گیا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "מי کھلووے گا",
+      "rationale": "וְאַחֲרוֹן יָקוּם — کجھ پڑھدے نیں 'آخری (گوٰیل) مٹی اُتے کھلووے گا'، کجھ 'میرے آخری (دن) میں مٹی توں (میں) اٹھاں گا' (ون یاون)"
+    },
+    {
+      "kind": "addition",
+      "subject": "ہے",
+      "rationale": "پنجابی خبر لئی کوپلا درکار، عبرانی وِچ کولو نئیں"
+    }
+  ],
+  "translation": "اتے میں ⟨جاندا واں⟩ کہ میرا گوٰیل زندہ اے، تے آخری ⟨رُکھ⟩ مٹی اُتے کھلووے گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e587d3bf64eef27daa4e5a3d739e2325de31017fc870a615993301b9e7e6aedd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/19\/25-28.1792115896890.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "اتے میں"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "جاندا واں"
+    },
+    {
+      "surface": "גאלי",
+      "gloss": "میرا گوٰیل"
+    },
+    {
+      "surface": "חי",
+      "gloss": "زندہ اے"
+    },
+    {
+      "surface": "ואחרון",
+      "gloss": "تے آخری"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "مٹی"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "کھلووے گا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:58:16.891178805Z",
+  "model": "glm-5.3"
+}

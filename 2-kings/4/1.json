@@ -1,0 +1,153 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 4:1",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "مر گیا اے",
+      "rationale": "عبرانی ו-ہوائی ماضی اے، پنجابی حال نال دسیا اے"
+    },
+    {
+      "kind": "you",
+      "subject": "ذال دا اِلیشع نوں同胞اخ",
+      "rationale": "سِدھی گل اِلیشع نال: 'توں جاندا اے'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "دونوں پُتر",
+      "rationale": "شِنے-یِم دی گنتی — دو، شکل اِوَیں رکھی"
+    }
+  ],
+  "translation": "تے نبیاں دے پُتراں دیاں ذالیں وِچوں اِک ذال نے اِلیشع نوں پکار کے آکھیا: تیرا نَوکر — میرا مُردا — مر گیا اے، تے توں جاندا اے کہ تیرا نَوکر یاہوہ دا ڈر ⟨مندا⟩ سی، تے قرض دین والا آ گیا اے کہ ⟨את⟩ میرے دونوں پُتراں نوں اوہدے لئی غلام بنان لئی لَے جاوے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "cbf9e9acaa57307841f54d7f94891d183ea828694b502b9f700b9f9fa531684c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/4\/1-4.1792105008707.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "تے اِک ذال"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "اِک"
+    },
+    {
+      "surface": "מנשי",
+      "gloss": "ذالیں وِچوں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں دیاں"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "نبیاں"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "پکار کے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "اِلیشع"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "تیرا نَوکر"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "میرا مُردا"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مر گیا"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "تے توں"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "جاندا اے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "تیرا نَوکر"
+    },
+    {
+      "surface": "היה",
+      "gloss": "سی"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ڈر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "והנשה",
+      "gloss": "تے قرض دین والا"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آ گیا اے"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "لَے جان لئی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میرے دونوں پُتراں نوں"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دونوں"
+    },
+    {
+      "surface": "ילדי",
+      "gloss": "میرے پُتر"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدے لئی"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "غلام بنان"
+    }
+  ],
+  "timestamp": "2026-10-15T22:56:48.708644447Z",
+  "model": "glm-5.3"
+}

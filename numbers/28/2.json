@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 28:2",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اے⟩",
+      "rationale": "عبرانی وِچ کوئی فعل ربط نئیں، پنجابی جملہ ایہنوں منگدا اے"
+    },
+    {
+      "kind": "invitation",
+      "subject": "حکم دیو… آکھو",
+      "rationale": "موشے ول سِدھا حکم — یِسرائیل دے پُتراں ول سُنیا کے"
+    },
+    {
+      "kind": "you",
+      "subject": "حکم دیو",
+      "rationale": "خطاب موشے ول، یاہوہ دا حکم"
+    }
+  ],
+  "translation": "یِسرائیل دے پُتراں نوں ⟨את⟩ حکم دیو تے اوہناں نوں آکھو: میری قربانی ⟨את⟩، میری روٹی میری اَگّاں لئی، میری نِیہ چُکوائی خوشبو ⟨اے⟩ — مینوں اپنے اَجرے ویلے چڑھاؤن لئی ⟨ایہنوں⟩ چُکّو گے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c5b90edf946f889fa14d15da624c04cc5724aa28e13f03e1958766bb81328d77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/28\/1-4.1792099208201.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "حکم دیو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یِسرائیل دے پُتراں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "تے آکھو"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "اوہناں نوں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میری قربانی"
+    },
+    {
+      "surface": "קרבני",
+      "gloss": "میری قربانی"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "میری روٹی"
+    },
+    {
+      "surface": "לאשי",
+      "gloss": "میری اَگّاں لئی"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "خوشبو"
+    },
+    {
+      "surface": "ניחחי",
+      "gloss": "نِیہ چُکوائی"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "چُکّو گے"
+    },
+    {
+      "surface": "להקריב",
+      "gloss": "چڑھاؤن لئی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مینوں"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "اپنے اَجرے ویلے"
+    }
+  ],
+  "timestamp": "2026-10-15T21:20:08.202280209Z",
+  "model": "glm-5.3"
+}

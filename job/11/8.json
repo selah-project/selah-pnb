@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 11:8",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "شیول",
+      "rationale": "תעלמות نیست؛ شیول موت دے تھاں دا ناں — 'دوزخ' نئیں، عدالت والا پچھوکڑ نئیں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ماہ ... ماہ",
+      "rationale": "دوہرا 'کی' سوال — اُچائی تے ڈونگھائی دی کردار آہمہ؛ پنجابی وِچ سنگت نال رکھیا گیا"
+    },
+    {
+      "kind": "mystery",
+      "subject": "اُچائی تے ڈونگھائی",
+      "rationale": "خدا دیاں حداں اُپر تے ہیٹھ دوویں پاسے پھیلیاں — بندے دی پہنچ توں باہر"
+    }
+  ],
+  "translation": "اسماناں توں اُچا — کی کریں؟ شیول نالوں ڈونگھا — کی جانیں؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ee13c2c189a8dc22359355045e8953618a04de69ccc54542c572e284d181c291",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/11\/5-8.1792115708239.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גבהי",
+      "gloss": "اُچا"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "اسماناں توں"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کی"
+    },
+    {
+      "surface": "תפעל",
+      "gloss": "کریں"
+    },
+    {
+      "surface": "עמקה",
+      "gloss": "ڈونگھا"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "شیول نالوں"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کی"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "جانیں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:55:08.241335818Z",
+  "model": "glm-5.3"
+}

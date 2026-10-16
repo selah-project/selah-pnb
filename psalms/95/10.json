@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 95:10",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 95,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אקוט",
+      "rationale": "قیوت دا مطلب کٹنا\/نفرت کرنا اے: تنگ رہیا، کراہیتا، غصہ رکھیا — مترجم ونڈے ہوئے نیں۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עם … הם והם",
+      "rationale": "עם دے مگروں ہم تے وہم دی دوہری گونج — قوم دی اکھڑ نال زور پیدا کردی اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "ایہو جئی اے جیہدے",
+      "rationale": "عبرانی وچ جملے دی چال پنجابی وِچ جوڑن لئی پایا گیا۔"
+    }
+  ],
+  "translation": "چالیس ورھے میں اوس نسل توں تنگ رہیا تے آکھیا: قوم ⟨ایہو جئی اے جیہدے⟩ دل بھٹکدے نیں، اوہ، تے اوہ میریاں راہواں نوں نئیں جاندے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "31ad06238abde40becff53422bc1a7a4603b320c8617d2636113f0bd59aad6f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/95\/9-11.1792113362829.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "چالیس"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ورھے"
+    },
+    {
+      "surface": "אקוט",
+      "gloss": "تنگ رہیا"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "اوس نسل توں"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "بھٹکدے"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "הם",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "והם",
+      "gloss": "تے اوہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "جاندے"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "میریاں راہواں نوں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:16:02.830488607Z",
+  "model": "glm-5.3"
+}

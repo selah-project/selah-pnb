@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 1:1",
+  "book": "lamentations",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨سی⟩",
+      "rationale": "عبرانی وِچ کارکن فعل صرف اک واری اے؛ پنجابی دے ہر موازنے لئی جدا فعل منگیا"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "איכה",
+      "rationale": "ایہہ لفظ کتاب دا ناں اے (ایکھا)، ہر ابوگ دا مُڈھ؛ دکھ دا چیخ بن کے دہرایا گیا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "למס",
+      "rationale": "مُڈھی مطلب جبری مزدوری دا ٹیکس؛ 'لنگھان والی' کھلار کے ودھیا لفظ اے"
+    }
+  ],
+  "translation": "کیوے اکی بیٹھی اے اوہ شہر، لوکاں نال بھری ہوئی ⟨سی⟩! کیوے ہو گئی اے ہنودھیوانی ورگی! قوماں وِچ وڈی سی، صوبیاں وِچ سردار سی، کیوے لنگھان والی ہو گئی اے!",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9f3d9a904525dee1a3f9eb2475fa53f53d00376f398bbede518c33fc6a6fdf7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/lamentations\/1\/1-4.1792117039760.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "کیوے"
+    },
+    {
+      "surface": "ישבה",
+      "gloss": "بیٹھی اے"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "اکی"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "اوہ شہر"
+    },
+    {
+      "surface": "רבתי",
+      "gloss": "بھری ہوئی"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لوکاں نال"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "سی"
+    },
+    {
+      "surface": "כאלמנה",
+      "gloss": "ہنودھیوانی ورگی"
+    },
+    {
+      "surface": "רבתי",
+      "gloss": "وڈی"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "قوماں وِچ"
+    },
+    {
+      "surface": "שרתי",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "במדינות",
+      "gloss": "صوبیاں وِچ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "سی"
+    },
+    {
+      "surface": "למס",
+      "gloss": "لنگھان والی"
+    }
+  ],
+  "timestamp": "2026-10-16T02:17:19.761310698Z",
+  "model": "glm-5.3"
+}

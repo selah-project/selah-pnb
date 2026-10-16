@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اُنہاں (پہلا)",
+      "rationale": "عبرانی وِچ کوئی ضمیر نئیں؛ فعل دی جمع صورت پرلاے دا سیاق دسدا اے۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "אמר...להם",
+      "rationale": "'اُنہاں نوں آکھیا' — کجھ پڑھدے نیں 'اُنہاں بارے آکھیا' (اُنہاں دے بارے حکم دتا)؛ سیاق حکم منݨ دا اے۔"
+    }
+  ],
+  "translation": "اُنہاں اُنہاں ⟨את⟩ قوماں نوں بارباد نئیں کیتا، جنہاں بارے یاہوہ نے اُنہاں نوں آکھیا سی،",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bc1945d688b20fc5f89cfc6c0c2511330e5a2c83611c2f56f83df6d2cd8e68de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/106\/33-36.1792113614728.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "بارباد کیتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اُنہاں قوماں نوں"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "قوماں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنہاں بارے"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اُنہاں نوں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:20:14.729648962Z",
+  "model": "glm-5.3"
+}

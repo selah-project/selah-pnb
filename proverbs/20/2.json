@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 20:2",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "عبرانی وِچ تشبیہ لئی کوئی کریا نئیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/زندگی-قوت اے، مُڈھ وِچ 'روح' نئیں"
+    },
+    {
+      "kind": "crux",
+      "subject": "מתעברו",
+      "rationale": "'اوس نوں پار کرنا\/غصہ دینا' — کجھ 'اوس دا ساہمنا کرنا' پڑھدے نیں"
+    }
+  ],
+  "translation": "دھاڑ اے جوان شیر ورگی — بادشاہ دا ڈر؛ جو اوس نوں غصہ دواندا اے، اوہ اپنی جان دے خلاف گناہ کردا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0f9c7c64221fc5c6bfd97993f683221b708f6b467088b670700d2ab997dbd0cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/20\/1-4.1792114970028.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נהם",
+      "gloss": "دھاڑ"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "جوان-شیر-ورگی"
+    },
+    {
+      "surface": "אימת",
+      "gloss": "ڈر"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ-دا"
+    },
+    {
+      "surface": "מתעברו",
+      "gloss": "غصہ-دواندا-اے"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "گناہ-کردا-اے"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "اپنی-جان"
+    }
+  ],
+  "timestamp": "2026-10-16T01:42:50.029502965Z",
+  "model": "glm-5.3"
+}

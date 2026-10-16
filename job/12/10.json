@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 12:10",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جیوَ والی جان اے، روح توں وکھرا تصور"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨اے⟩",
+      "rationale": "دوجی جُملے وِچ عبرانی دی کوئی copula نئیں، پنجابی نے منگی"
+    }
+  ],
+  "translation": "جِہدے ہتھ وِچ ہر جیوندے دی جان اے تے ہر ماس بندے دی روح ⟨اے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ff3b4df072ff2e545b0f9cf9949b11f9eb09ee997cd08f68424c37cda5ca1a7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/12\/9-12.1792115603494.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "جِہدے"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ہتھ وِچ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "חי",
+      "gloss": "جیوندے"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "تے روح"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ماس"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:53:23.495468642Z",
+  "model": "glm-5.3"
+}

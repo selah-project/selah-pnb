@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 37:22",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ברך\/קלל",
+      "rationale": "آیت برکت تے لعنت دا جوڑا کٹائی نال مکاؤندی اے — چیاстроک بنتر اے۔"
+    }
+  ],
+  "translation": "کیوں جو اوہدیاں برکتاں والے دھرتی نوں ورثے وِچ لین گے، تے اوہدیاں لعنتاں والے کٹّے جان گے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a13246e97a02c7faa3e9a509ae8ffa9dbb697ccf6ae0b306fdec14b5ea9e05e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/37\/21-24.1792112398256.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "מברכיו",
+      "gloss": "اوہدیاں برکتاں والے"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "ورثے وِچ لین گے"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "دھرتی"
+    },
+    {
+      "surface": "ומקלליו",
+      "gloss": "تے اوہدیاں لعنتاں والے"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "کٹّے جان گے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:59:58.256660853Z",
+  "model": "glm-5.3"
+}

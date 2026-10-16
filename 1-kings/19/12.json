@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 19:12",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קול דממה דקה",
+      "rationale": "'دھیمے چُپ دی باریک آواز' — متبادل: 'اِک باریک سنسان سُر' یا 'ہلکی جئی چُپ دی آواز' — שקט-شکنی والی مشہور جوڑ"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨سی⟩",
+      "rationale": "عبرانی وِچ فعل نئیں — پنجابی واسطے 'سی' دتی"
+    },
+    {
+      "kind": "mystery",
+      "subject": "دھیمے چُپ دی آواز",
+      "rationale": "یاہوہ دا ظہور دھماکے نئیں، لُکائے ہوئے ول — پرچھانویں آیت تک اوہدے مطلب دی مہر"
+    }
+  ],
+  "translation": "تے زلزلے دے مگروں اگ — اگ وِچ یاہوہ نئیں ⟨سی⟩؛ تے اگ دے مگروں اِک دھیمے چُپ دی باریک آواز۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "66be424d0aaf562f1d9b295ea91326dc9473343133ffd5d58af94cabf5c6bae9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/19\/9-12.1792104717108.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "تے مگروں"
+    },
+    {
+      "surface": "הרעש",
+      "gloss": "زلزلے دے"
+    },
+    {
+      "surface": "אש",
+      "gloss": "اگ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "באש",
+      "gloss": "اگ وِچ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "تے مگروں"
+    },
+    {
+      "surface": "האש",
+      "gloss": "اگ دے"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "דממה",
+      "gloss": "چُپ"
+    },
+    {
+      "surface": "דקה",
+      "gloss": "باریک"
+    }
+  ],
+  "timestamp": "2026-10-15T22:51:57.109947545Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 17:15",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בהקיץ",
+      "rationale": "'جاگن تے' — یا سوں توں جاگنا یا موت توں جی اُٹھنا؛ سیاق طے نئیں کردا۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישבעו \/ אשבעה",
+      "rationale": "ردیابی: بدکار آیت 14 وِچ 'رجدے نیں'، دعا کرن والا آیت 15 وِچ 'رجے گا' — اکو جڑ، دو جیون۔"
+    }
+  ],
+  "translation": "مَیں نیائی نال تیرا منہ ویکھاں گا، جاگن تے تیری صورت نال رجاں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "16a4bad9a59e51584fd3aecb9b76a34c45d370cd0cc2e263983226aafc0d1ea0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/17\/13-15.1792111920691.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "مَیں"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "نیائی نال"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "ویکھاں گا"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "تیرا منہ"
+    },
+    {
+      "surface": "אשבעה",
+      "gloss": "رجاں گا"
+    },
+    {
+      "surface": "בהקיץ",
+      "gloss": "جاگن تے"
+    },
+    {
+      "surface": "תמונתך",
+      "gloss": "تیری صورت"
+    }
+  ],
+  "timestamp": "2026-10-16T00:52:00.692806425Z",
+  "model": "glm-5.3"
+}

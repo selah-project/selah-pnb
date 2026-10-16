@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 15:34",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "פרש",
+      "rationale": "جڑ دا مطلب 'وکھرا کرنا\/واضح کرنا' — پنجابی وِچ 'پوری طرحاں دسیا گیا'"
+    },
+    {
+      "kind": "mystery",
+      "subject": "مہ یעשה لו",
+      "rationale": "فیصلہ معطل اے — عبرانی خود منگدی اے کہ ہوکا کتوں آوے"
+    }
+  ],
+  "translation": "تے اوہناں اوہنوں ⟨אתו⟩ قید وِچ رکھیا، کیونجے پوری طرحاں نئیں دسیا گیا سی کہ اوہدے نال کیہ کیتا جائے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b9eaf215c8ee028124bc5cdd3bc5b328e97261029c8d5e5f4afa57c6038d9aa0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/15\/33-36.1792098696371.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויניחו",
+      "gloss": "رکھیا"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "اوہنوں قید وِچ"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "قید وِچ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونجہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "پوری طرحاں دسیا گیا سی"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کیتا جائے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدے نال"
+    }
+  ],
+  "timestamp": "2026-10-15T21:11:36.372140833Z",
+  "model": "glm-5.3"
+}

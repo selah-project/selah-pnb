@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 109:20",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اے⟩",
+      "rationale": "عبرانی وچ سورت فاعلیہ اے بغیر کریہہ 'اے' دے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש 'ساہ\/جان-زور' اے، آدرشی 'روح' نئیں۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "מאת יהוה",
+      "rationale": "'یاہوہ دے پاسوں' — پاد دا دعا-روپ (KJV) یا بیانیہ (JPS 'effect from HaShem')۔"
+    }
+  ],
+  "translation": "ایہہ میرے مخلصین دا کم اے ⟨את⟩ یاہوہ دے پاسوں، تے اوہناں دا جیہڑے میری جان بارے گر گلاں کردے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d726760e8ad24e053ef4fc3d09ef9a0423cca03724ff79bba4bf68ea5f67ffa7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/109\/17-20.1792113733682.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "کم ⟨اے⟩"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "میرے مخلصین دا"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ دے پاسوں",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "והדברים",
+      "gloss": "تے اوہناں دا جیہڑے گل کردے نیں"
+    },
+    {
+      "surface": "רע",
+      "gloss": "گر"
+    },
+    {
+      "surface": "על",
+      "gloss": "بارے"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میری جان"
+    }
+  ],
+  "timestamp": "2026-10-16T01:22:13.683753794Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 51:13",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "داوِد توں ایلوہیم",
+      "rationale": "سدھی دعا — منگݨ والا اپنے الُوہ دی اگّوں وسنیاں منگدا اے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "اپنا پوتر روح",
+      "rationale": "רוח קדשך — „تیرے قُدس دا روح“ وی پڑھیا جا سکدا اے؛ پنجابی وِچ صفت-جور بݨایا"
+    }
+  ],
+  "translation": "مینوں اپنے اگّوں توں نہ سُٹّیں، تے اپنا پوتر روح مِتوں نہ لے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0b316f709416da554966f354afab6cf7b0bd3778a8f6cc8a5b61ccad330c358d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/51\/13-16.1792112649450.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "مینوں سُٹّیں"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "اپنے اگّوں توں"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "تے روح"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "تیرا پوتر ⟨قُدس⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "لے"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "مِتوں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:04:09.450893603Z",
+  "model": "glm-5.3"
+}

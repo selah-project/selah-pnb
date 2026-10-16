@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joel 1:17",
+  "book": "joel",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "פרודות",
+      "rationale": "وکھرے بیج — تنخ وچ صرف ایتھے"
+    },
+    {
+      "kind": "hapax",
+      "subject": "ממגרות",
+      "rationale": "بھنڈار — صرف ایتھے آؤندا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "הביש",
+      "rationale": "جڑ י-ב-ש 'سُکّ جانا' اے پر املا הוביש 'شرمندہ ہونا' والی طرح؛ 'اناج سُکّ گیا' بمقابلہ 'اناج شرمندہ اے'"
+    },
+    {
+      "kind": "addition",
+      "subject": "اے \/ نیں",
+      "rationale": "پنجابی فعل لئی معاون فعل، عبرانی وِچ نئیں"
+    }
+  ],
+  "translation": "دلیاں ہیٹھاں بیج سُکّ گئے نیں، کھلیاں اجڑ گئیاں نیں، بھنڈار ڈھہہ گئے نیں، کیونجے اناج شوک کر چکیا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2f5da06fad5160cc3597ad94adb8f89518ef59dd0b78a95cb99b3bb167956acb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joel\/1\/17-20.1792110707387.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עבשו",
+      "gloss": "سُکّ گئے نیں"
+    },
+    {
+      "surface": "פרودות",
+      "gloss": "بیج"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ہیٹھاں"
+    },
+    {
+      "surface": "מגרפתיהם",
+      "gloss": "اوہناں دے دلیاں"
+    },
+    {
+      "surface": "נשמו",
+      "gloss": "اجڑ گئیاں نیں"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "کوٹھے"
+    },
+    {
+      "surface": "נהרסו",
+      "gloss": "ڈھہہ گئے نیں"
+    },
+    {
+      "surface": "ממגרות",
+      "gloss": "بھنڈار"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "הביש",
+      "gloss": "شوک کر چکیا اے"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "اناج"
+    }
+  ],
+  "timestamp": "2026-10-16T00:31:47.388260233Z",
+  "model": "glm-5.3"
+}

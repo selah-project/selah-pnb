@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 14:13",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "קדש קדשים",
+      "rationale": "پوتراں توں پوتر — عبرانی دا اُپر-چڑھاؤ والا اِدّات، اِک لفظ نال نئیں گھٹایا۔"
+    },
+    {
+      "kind": "elision",
+      "subject": "הוא",
+      "rationale": "دو واری آیا پاسہ-سٹا لفظ؛ پنجابی جملے وِچ دہرایا گیا۔"
+    }
+  ],
+  "translation": "تے اوہ ⟨את⟩ لیلا نوں اُس تھاں تے ذبح کریگا جتھے اوہ ⟨את⟩ گناہ دی قربانی نوں تے ⟨את⟩ سوختنی قربانی نوں ذبح کردا اے — پوتر تھاں وِچ؛ کیوں جے جیویں گناہ دی قربانی، ایشم قربانی وی کاہن لئی اے — اوہ پوتراں توں پوتر اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b11f18e47f81d439321057a275afa8702d4cc7dcb1e6b20a022b0b2d8181d049",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/14\/13-16.1792097721856.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "تے ذبح کریگا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لیلا"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "لیلا"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "اُس تھاں تے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جتھے"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "ذبح کردا اے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گناہ دی قربانی"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "گناہ دی قربانی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "سوختنی قربانی"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "سوختنی قربانی"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "تھاں وِچ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "پوتر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جے"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "جیویں گناہ دی قربانی"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "ایشم قربانی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "کاہن لئی"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پوتر"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "پوتراں توں پوتر"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    }
+  ],
+  "timestamp": "2026-10-15T20:55:21.856730361Z",
+  "model": "glm-5.3"
+}

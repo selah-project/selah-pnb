@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 2:10",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "نسی",
+      "rationale": "نשיא دا مول مطلب اُچا ہویا\/سردار — پنجابی وچ نسی رکھیا گیا تے شکل بچائی گئی"
+    },
+    {
+      "kind": "measurement",
+      "subject": "نسابتی لڑی",
+      "rationale": "پیڑھی دا ہندسہ — رام توں نَخشون تک دا حساب"
+    }
+  ],
+  "translation": "تے رام نے ⟨את⟩ عمینادو نوں جَمایا، تے عمینادو نے ⟨את⟩ نَخشون نوں جَمایا، یہودا دے پُتراں دا نسی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "01d11bfd31e4082d34566e18918f3bdd765a5de5f63c42a85b856346cc97b460",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/2\/9-12.1792120134459.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "تے رام"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "جَمایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عمینادو"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "عمینادو"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "تے عمینادو"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "جَمایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نَخشون"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "نَخشون"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "نسی ⟨سردار⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں دا"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہودا"
+    }
+  ],
+  "timestamp": "2026-10-16T03:08:54.460504382Z",
+  "model": "glm-5.3"
+}

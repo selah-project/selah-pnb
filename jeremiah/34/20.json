@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 34:20",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جِند",
+      "rationale": "נפש ساہ\/جان\/جیف اے، صرف 'روح' نئیں — 'جِند منگن والے' یعنی جان دے پچھے لگے۔"
+    },
+    {
+      "kind": "elision",
+      "subject": "אותם",
+      "gloss-missing": "",
+      "rationale": "אותם צبر دا نشان اے جیہڑا ⟨את⟩ ٹبر دا اے — پنجابی وِچ صرف نشان رکھیا، کوئی وکھرا لفظ نئیں۔"
+    }
+  ],
+  "translation": "تے وچ اُہناں نوں ⟨את⟩ دینگا اُہناں دے ویریاں دے ہتھ تے اُہناں دی جِند دے منگن والیاں دے ہتھ؛ تے اُہناں دی لاش اسمان دے پنچھیاں لئی تے دھرتی دے ڈنگراں لئی خوراک بنے گی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7d0230518154abe19c650c24ad53b1258aa8c3287d60cf6dadaf0dde2c2238a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/34\/17-20.1792108343681.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "تے وچ دینگا"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "اُہناں نوں"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "اُہناں دے ویریاں دے"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "تے ہتھ"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "منگن والیاں دے"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "اُہناں دی جِند"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "تے بنے گی"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "اُہناں دی لاش"
+    },
+    {
+      "surface": "למאכל",
+      "gloss": "خوراک لئی"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "پنچھیاں لئی"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "اسمان دے"
+    },
+    {
+      "surface": "ולבהמת",
+      "gloss": "تے ڈنگراں لئی"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "دھرتی دے"
+    }
+  ],
+  "timestamp": "2026-10-15T23:52:23.683418146Z",
+  "model": "glm-5.3"
+}

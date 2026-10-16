@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 2:16",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אל תשבי את פני",
+      "rationale": "مونہھ پھیرنا عبرانی محاورہ، منگ نوں ٹھکراؤن دا مطلب۔"
+    },
+    {
+      "kind": "you",
+      "subject": "بث سبع",
+      "rationale": "اَدُنیاہو بث سبع اگّوں اِک اَلتُوں رکھدا اے۔"
+    }
+  ],
+  "translation": "تے ہن اِک اَلتُوں میں تیرے کولوں ⟨את⟩ منگدا واں، میرا مونہھ نہ پھیر۔ تے اُوہنے اُس نوں آکھیا: آکھ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "821f81cb60b100be09e801f68e96ef2d54e7a9d5349f971f72540a75bf0b53c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/2\/13-16.1792103945030.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "تے ہن"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "اَلتُوں"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "اِک"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "منگدا واں"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "تیرے کولوں ⟨את⟩",
+      "marks": "اَلتُوں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "پھیر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میرا مونہھ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "میرا مونہھ"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "اُوہنے آکھیا"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اُس نوں"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "آکھ"
+    }
+  ],
+  "timestamp": "2026-10-15T22:39:05.031644576Z",
+  "model": "glm-5.3"
+}

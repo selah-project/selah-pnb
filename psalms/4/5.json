@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "رگزو",
+      "rationale": "کانپو (خوف\/غصے نال تھرکنا) بمقابلہ 'غصہ ہووو' — LXX 'غصہ ہووو تے پاپ نہ کرو' دے راہ تے گئی۔"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "موسیقی دا وقفہ نشان، ترجمہ نئیں ہوندا — 'سلہ' حرف-نقل۔"
+    },
+    {
+      "kind": "invitation",
+      "subject": "بندیاں نوں حکم",
+      "rationale": "پور verse مخاطب نوں اپنے دل نال گل کرن دا سدّا اے۔"
+    }
+  ],
+  "translation": "کانپو، تے پاپ نہ کرو؛ اپنے دل وِچ آکھو، اپنے بستر اُتے، تے چپ رہو۔ سلہ",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a3bd87c48661f56309d6a35bebae66b06a6ceb9024570ce214dcf6a4d178f119",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/4\/5-8.1792111810971.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "کانپو"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "پاپ کرو"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "آکھو"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "اپنے دل وِچ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "اپنے بستر"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "تے چپ رہو"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سلہ"
+    }
+  ],
+  "timestamp": "2026-10-16T00:50:10.971653819Z",
+  "model": "glm-5.3"
+}

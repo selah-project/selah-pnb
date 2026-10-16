@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 3:9",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "قسم دا فارمولا",
+      "rationale": "כה יעשה אלהים…וכה יוסיף — قسم دا روایتی فارمولا: نہ کرن اُتے خدا اِیہو سزا کرے؛ literal 'اِویں ایلوہیم کرے' پنجابی وِچ واضح نئیں دسدا۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "אלהים",
+      "rationale": "ایتھے ایلوہیم ناں دی تھاں عام صیغہ جمع اے؛ ترجمے 'God' نیں لکھے پر شکل جمع ای رکھی اے — بناں تفسیر دے۔"
+    }
+  ],
+  "translation": "اِویں ایلوہیم اَبنیر نال کرے تے اِویں ہور کرے، کیونکہ جیویں یاہوہ نے داوِد نال قسم کھادی اے، اِویں اِی میں اوہدے نال کراں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "310cc5d93efec93e8936256316913592c0c8d1b3acd996b53030dfca13a57ab5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/3\/9-12.1792103102355.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "اِویں"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کرے"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "לאבנר",
+      "gloss": "اَبنیر نال"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "تے اِویں"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "ہور کرے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدے نال"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "قسم کھادی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد نال"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بے شک"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اِویں اِی"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "کراں گا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدے نال"
+    }
+  ],
+  "timestamp": "2026-10-15T22:25:02.356322416Z",
+  "model": "glm-5.3"
+}

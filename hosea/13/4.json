@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 13:4",
+  "book": "hosea",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "آں",
+      "rationale": "Hebrew has no present copula; Punjabi requires 'āṅ' (am)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זולתי \/ בלתי",
+      "rationale": "Two near-rhyming 'besides me' expressions bracket the verse; Punjabi repeats 'mere to-binā' for both, losing the rhyme."
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Direct second-person address — YHWH speaking to Israel in covenant formula echoing Exodus 20:2."
+    }
+  ],
+  "translation": "تے میں یاہوہ تیرا ایلوہیم آں، مِتصرایم دے دیس توں؛ تے میرے توں بِنا کوئی ہور ایلوہیم تُوں نئیں جاݨدا، تے کوئی بچاوݨ ہارا نئیں، میرے توں بِنا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ca0f4fb742851dcb93bd5d93f75845bdc4db3cb12b255e8bf482080710e96783",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/hosea\/13\/1-4.1792110630242.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "تے میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تیرا ایلوہیم"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "دیس توں"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم دے"
+    },
+    {
+      "surface": "ואלהים",
+      "gloss": "تے ایلوہیم"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "میرے توں بِنا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "تُوں جاݨدا"
+    },
+    {
+      "surface": "ומושיע",
+      "gloss": "تے بچاوݨ ہارا"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کوئی نئیں"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "میرے توں بِنا"
+    }
+  ],
+  "timestamp": "2026-10-16T00:30:30.243812600Z",
+  "model": "glm-5.3"
+}

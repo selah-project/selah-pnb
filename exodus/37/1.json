@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 37:1",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "عبرانی وِچ کوئی کپولا نئیں، پنجابی نوں چاہیدا اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "صندوق دے ناپ",
+      "rationale": "ہتھ (אמה) وِچ لمبائی چوڑائی اُچائی گِنی گئی اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "صندوق",
+      "rationale": "הארן اک ڈبہ اے؛ D2 وِچ عہد دے صندوق لئی 'صندوق' مقرر اے"
+    }
+  ],
+  "translation": "تے بِتصلایل نے ⟨את⟩ صندوق نوں کملاݨ دے لکڑیاں نال بنایا — دو ہتھ تے ادھا اوہدا لمبائی سی، تے اِک ہتھ تے ادھا اوہدی چوڑائی، تے اِک ہتھ تے ادھا اوہدی اُچائی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1ba85dff12874f16ead7e2987442980a6b60f47329bac91de219cd554bd03b2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/37\/1-4.1792097281500.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "بنایا"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "بِتصلایل نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صندوق"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "لکڑیاں"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "کملاݨ دے"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "دو ہتھ"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "تے ادھا"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "اوہدا لمبائی"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "تے اِک ہتھ"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "تے ادھا"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "اوہدی چوڑائی"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "تے اِک ہتھ"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "تے ادھا"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "اوہدی اُچائی"
+    }
+  ],
+  "timestamp": "2026-10-15T20:48:01.501382097Z",
+  "model": "glm-5.3"
+}

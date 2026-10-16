@@ -1,0 +1,133 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 13:13",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הכין",
+      "rationale": "Hebrew perfect 'قائم کر چکا' دسدا اے پر مترجمین 'قائم کر چکا ہوندا' (KJV\/ASV) یا 'قائم کر دتا' (Geneva) پڑھدے نیں؛ پنجابی وچ مشروط صورت ⟨ہوندا⟩ نال دتی گئی۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נסכלת",
+      "rationale": "أصل 'بیوقوف\/بھولا ہویا' اے؛ 'مُورکھ بنیا' وزنی پنجابی اے، بھاون سادہ لفظ 'بیوقوف' وی جائز۔"
+    },
+    {
+      "kind": "you",
+      "subject": "to Saul",
+      "rationale": "شمُوایل شاؤل نوں سدھا مخاطب کردا اے۔"
+    }
+  ],
+  "translation": "تے شمُوایل نے شاؤل نوں آکھیا: تُوں مُورکھ بنیا ایں، تُوں نے ⟨את⟩ یاہوہ اپنے ایلوہیم دی حکمت نئیں رکھی، جیہڑی اوہنے تُوں نوں حکم کیتی سی۔ کیوں جو ہُن یاہوہ تیری بادشاہی نوں یِسرائیل اُتے ہمیشہ تک قائم کر چکا ہوندا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7f41e70fa1fcee670f56647ebedd8fc5293f14d40b7a36177e24643f0d40ec42",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/13\/13-16.1792102419096.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شمُوایل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "נסכלת",
+      "gloss": "تُوں مُورکھ بنیا ایں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "رکھی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حکمت"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "اپنے ایلوہیم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "تُوں نوں حکم کیتی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ہُن"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "قائم کر چکا ہوندا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بادشاہی"
+    },
+    {
+      "surface": "ממלכתך",
+      "gloss": "تیری بادشاہی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیشہ"
+    }
+  ],
+  "timestamp": "2026-10-15T22:13:39.096808343Z",
+  "model": "glm-5.3"
+}

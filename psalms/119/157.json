@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 157,
+  "ref": "psalms 119:157",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "پر",
+      "rationale": "عبرانی وِچ اپوزیشن دا کوئی لفظ نئیں، پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "you",
+      "subject": "یاہوہ دوواں پاسے",
+      "rationale": "آیت مَں گوٹھ دی آپ توں اپنے ظالم دشمناں دا ذکر اے"
+    }
+  ],
+  "translation": "میرے پچھے پین والے تے میرے دشمن بہوں نیں؛ پر تیرے گواہی-بچناں توں میں نئیں جھکیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ebceea0ab5e72f3b307cc5c217ad32df22e7a88725dc4c7454dd564e18f12351",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/119\/157-160.1792113942809.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "بہوں"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "میرے پچھے پین والے"
+    },
+    {
+      "surface": "וצרי",
+      "gloss": "تے میرے دشمن"
+    },
+    {
+      "surface": "מעדותיך",
+      "gloss": "تیرے گواہی-بچناں توں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "נטיתי",
+      "gloss": "میں جھکیا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:25:42.810128502Z",
+  "model": "glm-5.3"
+}

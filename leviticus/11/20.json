@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "اِسرائیل",
+      "rationale": "خوارکاری دے قنون وِچ سدھی خطاب — 'تہاڈے لئی'"
+    },
+    {
+      "kind": "crux",
+      "subject": "שרץ העוף",
+      "rationale": "'اُڈن والے کیڑے' (BSB) بمقابلہ KJV 'ہَر پکھی جیہڑا چاراں اُتے تُردا اے'"
+    }
+  ],
+  "translation": "ہَر اُڈن والا رینگݨ والا جی جیہڑا چاراں اُتے تُردا اے، اوہ تہاڈے لئی گھِناؤنا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4adbb0eca54bd254fe6c40c14044bbb8dcc24df06e1ba126b8139e8383848e82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/11\/17-20.1792097605280.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہَر"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "رینگݨ والا جی"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "اُڈن والا"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "تُردا اے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چاراں"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "گھِناؤنا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تہاڈے لئی"
+    }
+  ],
+  "timestamp": "2026-10-15T20:53:25.281432914Z",
+  "model": "glm-5.3"
+}

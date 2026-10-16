@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 27:24",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נזר",
+      "rationale": "نِزر: وکھّ کیتا ہویا، تاج\/مُکُٹ — کاہن دا تاج یا بادشاہ دا، دوویں جائز"
+    },
+    {
+      "kind": "substitution",
+      "subject": "تاج",
+      "rationale": "نِزر دا پہلا مطلب 'وکھّ کیتا ہویا' اے — تاج اُس دا بَعد دا روپ اے"
+    }
+  ],
+  "translation": "کیونکہ دولت ہمیشہ لئی نئیں ہوندی، تے تاج ⟨کیہ⟩ پشت در پشت ⟨قائم رہندا اے؟⟩",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "089b685c2516269e15c418bcd57debee709475f2cd6e2e5206c61eaa0805a22f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/27\/21-24.1792115197301.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشہ لئی"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "دولت"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "تے کیہ"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "تاج"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "پشت در"
+    },
+    {
+      "surface": "דור",
+      "gloss": "پشت"
+    }
+  ],
+  "timestamp": "2026-10-16T01:46:37.302336964Z",
+  "model": "glm-5.3"
+}

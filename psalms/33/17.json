@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩ \/ ⟨کسے نوں⟩",
+      "rationale": "عبرانی فعل دا فاعل تے مفعول چھڈیا اے؛ پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "שקר הסוס",
+      "rationale": "'گھوڑا جھوٹھ اے' بمقابلہ 'گھوڑا وین امید اے' — שקר نوں صفت یا اعلان دے طور تے پڑھیا جا سکدا اے"
+    }
+  ],
+  "translation": "نجات لئی گھوڑا جھوٹھ اے، تے اوہدی طاقت دی بہتات وِچ ⟨اوہ⟩ کسے نوں نئیں بچا سکدا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "807dad4e0ae498344a0a1c7e24ffe96f648a79a9ec0832cee397d0bd538c4880",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/33\/17-20.1792112293928.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "جھوٹھ"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "گھوڑا"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "نجات لئی"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "تے بہتات وِچ"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "اوہدی طاقت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "بچا سکدا"
+    }
+  ],
+  "timestamp": "2026-10-16T00:58:13.929239522Z",
+  "model": "glm-5.3"
+}

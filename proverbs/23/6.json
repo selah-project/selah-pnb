@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 23:6",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תלחם\/לחם",
+      "rationale": "کھان والا فعل تے روٹی — اِکو جز، پنجابی وِچ 'روٹی کھا' نال ٹھیک رہندا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "ماڑی اکھ",
+      "rationale": "רע עין — کنجوس\/حسد والی اکھ، وایدی 'بدنظر' نئیں؛ پنجابی 'ماڑی اکھ' نیڑے دا تصور اے"
+    }
+  ],
+  "translation": "ماڑی اکھ والے دا ⟨את⟩ روٹی نہ کھا، تے اوہدیاں مزے دار شیزاں لئی ترس نہ کھا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3a19efeb16716e587f5348d891244f4e882322d6bd267df8a6fe000130f503c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/23\/5-8.1792115049715.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תלחם",
+      "gloss": "کھا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "روٹی"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "روٹی"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ماڑی"
+    },
+    {
+      "surface": "עין",
+      "gloss": "اکھ والے"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "ترس کھاویں"
+    },
+    {
+      "surface": "למטעמתיו",
+      "gloss": "اوہدیاں مزے دار شیزاں لئی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:44:09.716516483Z",
+  "model": "glm-5.3"
+}

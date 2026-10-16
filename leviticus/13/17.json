@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 13:17",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "نگع",
+      "rationale": "נגע دا مول مطلب 'وݨ' یا 'متاث' اے — بیماری دا ناں نئیں"
+    },
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "عبرانی وِچ ہوئے دی تھاں پنجابی وجوں 'اے' دا ودھاء"
+    }
+  ],
+  "translation": "تے کاہن اوہدے ویکھے، تے ویکھو، نگع چِٹا ہو گیا اے، تے کاہن ⟨את⟩ نگع نوں پاک ٹھہرائےگا — اوہ پاک اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c665129c6aeaa9a3b860aa251de1384f78dc272012315e2c1f032831b3f63406",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/13\/17-20.1792097714236.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "تے ویکھے"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "تے ویکھو"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "ہو گیا اے"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "نگع"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "چِٹا"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "تے پاک ٹھہرائےگا"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نگع نوں"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "نگع"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    }
+  ],
+  "timestamp": "2026-10-15T20:55:14.236880935Z",
+  "model": "glm-5.3"
+}

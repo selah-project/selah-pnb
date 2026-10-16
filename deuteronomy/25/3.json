@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 25:3",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יסיף…יסיף",
+      "rationale": "اِکو فعل دو واری — ‘ودھیکی نہ کرے، نہ کہ ودھ کرے’ — تکرار عبرانی وِچ زور اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "دے کے",
+      "rationale": "مکمل پنجابی جملے لئی لگایا، عبرانی وِچ רק ماراں دا ذکر اے۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "چالیہ ماراں",
+      "rationale": "سزا دی حد گنی گئی اے — چالیہ توں اگے نئیں۔"
+    }
+  ],
+  "translation": "چالیہ مارے، ودھیکی نہ کرے، نہ ہووے کہ اوہناں توں ودھ مار کے بہت ساریاں ماراں دے کے تیرا بھرا تیری اکھیاں اگے ہلکی ہو جاوے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "dfaf0a3c3caf3a7e56df34ddf9e6006e7bc3096da424490e144aa2b777e6b08f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/25\/1-4.1792100303100.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "چالیہ"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "مارے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "ودھیکی کرے"
+    },
+    {
+      "surface": "פן",
+      "gloss": "نہ ہووے کہ"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "ودھ"
+    },
+    {
+      "surface": "להכתו",
+      "gloss": "مار کے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اوہناں توں"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "⟨ایہناں⟩"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "ماراں"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "بہت ساریاں"
+    },
+    {
+      "surface": "ונקלה",
+      "gloss": "ہلکی ہو جاوے"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "تیرا بھرا"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "تیری اکھیاں اگے"
+    }
+  ],
+  "timestamp": "2026-10-15T21:38:23.101778933Z",
+  "model": "glm-5.3"
+}

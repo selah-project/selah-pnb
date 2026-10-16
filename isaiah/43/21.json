@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 43:21",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨آپ⟩",
+      "rationale": "לי صرف 'لئی' اے؛ 'اپنے آپ' دا ٹیون عبرانی وِچ نئیں"
+    },
+    {
+      "kind": "you",
+      "subject": "قوم",
+      "rationale": "یاہوہ دی بندی قوم (یعقوو\/یِسرائیل) نوں المخاطب اے"
+    }
+  ],
+  "translation": "ایہہ قوم میں ⟨آپ⟩ لئی گھڑی اے، اوہ میری تعریف بیان کرن گے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8fd549779e895247aa5f3d97d5bb2cc3abcc6be3e33ed596ee28c8bf300a9019",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/43\/21-24.1792106709585.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "יצרתי",
+      "gloss": "میں گھڑیا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرے لئی"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "میری تعریف"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "بیان کرن گے"
+    }
+  ],
+  "timestamp": "2026-10-15T23:25:09.586132301Z",
+  "model": "glm-5.3"
+}

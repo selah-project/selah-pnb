@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 78:16",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ויורד",
+      "rationale": "اصلی مطلب 'اتار لیاندا' اے — پانی دے تھلے وگن دا چتر"
+    }
+  ],
+  "translation": "تے چٹان توں وہندے دھارے کڈھے، تے پانیاں نوں دریاواں وانگو تھلے وہایا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "72c6c5410ab05fc6c4f97fac561837ad9097507f1b394ff4793951fcaa5d00eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/78\/13-16.1792113049899.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "تے کڈھے"
+    },
+    {
+      "surface": "נוזלים",
+      "gloss": "وہندے دھارے"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "چٹان توں"
+    },
+    {
+      "surface": "ויורד",
+      "gloss": "تے تھلے وہایا"
+    },
+    {
+      "surface": "כנהרות",
+      "gloss": "دریاواں وانگو"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پانیاں نوں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:10:49.900672891Z",
+  "model": "glm-5.3"
+}

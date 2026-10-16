@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 7:15",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "پیدائش دا مَثَل",
+      "rationale": "جُوت → مہینگی → جَمݨ: برائی دا سارا سفر اک جنم دے مَثَل وچ، پنجابی وچ ایہو تِن پدھر رکھے گئے نیں"
+    }
+  ],
+  "translation": "ویکھو، اوہ جُوت نال پیڑا بھردا اے، تے مہینگی سمیٹدا اے، تے جھوٹ جَمدا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "cde8a333cd66e7f1e6340b4957c7a2c26ead845377c63444c6458b18cbe08ba2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/7\/13-16.1792111780151.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ویکھو"
+    },
+    {
+      "surface": "یחבל",
+      "gloss": "پیڑا بھردا اے"
+    },
+    {
+      "surface": "און",
+      "gloss": "جُوت"
+    },
+    {
+      "surface": "והרה",
+      "gloss": "تے مہینگی سمیٹدا اے"
+    },
+    {
+      "surface": "עמل",
+      "gloss": "مہینگی"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "تے جَمدا اے"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "جھوٹ"
+    }
+  ],
+  "timestamp": "2026-10-16T00:49:40.152366292Z",
+  "model": "glm-5.3"
+}

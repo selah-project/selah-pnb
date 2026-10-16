@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 20:28",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אפו",
+      "rationale": "لفظی 'اوہدی نَک' — عبرانی وچ غصے دا تصوَر، پنجابی وچ 'غصہ'"
+    },
+    {
+      "kind": "elision",
+      "subject": "נגרות",
+      "rationale": "'وگن\/ڈِھلن' — پانی ورگا بہنا؛ اوہدے مال دا اُڈنا پنجابی وچ پورا نئیں ٹر سکیا"
+    }
+  ],
+  "translation": "اوہدے گھر دی فصل لُٹ جاوے گی؛ اوہدے غصے دے دن وِچ وگ جانگیاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "808d4f9111a4f9943accc31da01a87509ac0d05ddc141915a5c83eaae2861ea4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/20\/25-28.1792115991923.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יגל",
+      "gloss": "لُٹ جاوے گی"
+    },
+    {
+      "surface": "יבול",
+      "gloss": "فصل"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "اوہدے گھر دی"
+    },
+    {
+      "surface": "נגרות",
+      "gloss": "وگ جانگیاں"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "دن وِچ"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "اوہدے غصے دے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:59:51.924723621Z",
+  "model": "glm-5.3"
+}

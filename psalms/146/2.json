@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 146:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 146,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اپنے",
+      "rationale": "لאלהی وِچ ਜُڑی ہوئی ضمیر اے (ایلوہیم دی پہلی شخص ملکیت)، پنجابی وچ وکھ لکھی گئی۔"
+    }
+  ],
+  "translation": "جیوے تیک میں یاہوہ نوں سُپرِیفاں، جیوے تیک میں ساہ لَے رہاں، میں اپنے ایلوہیم دا گیت گاواں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "cd9c1e02f2015f113f5c19e5cd83121533a352060ea047a6cf44a0c908ab641f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/146\/1-4.1792114254007.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "سُپرِیفاں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "اپنی زندگی وِچ"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "میں گیت گاواں"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "اپنے ایلوہیم لئی"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "جدوں تیک میں ہاں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:30:54.008094234Z",
+  "model": "glm-5.3"
+}

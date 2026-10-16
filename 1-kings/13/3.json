@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 13:3",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اُس نے",
+      "rationale": "عبرانی وِچ فاعل صریح نئیں، پنجابی لئی ⟨⟩ وِچ وادھا ضروری سی"
+    },
+    {
+      "kind": "substitution",
+      "subject": "مُفت",
+      "rationale": "מופת دا مُول نشَن\/نشانی اے، پہلا مطلب ’عجیب کم‘ وی اے"
+    }
+  ],
+  "translation": "تے اُس نے اُس دِن وِچ ⟨نشَن⟩ دِتّا، آکھ کے: ایہہ اوہ نشَن اے جیہڑا یاہوہ نے آکھیا — ویکھو، قربانی چبوترہ پھٹّ گیا تے ڈِھیہ گئی سواہ جیہڑی اوہدے اُتے اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a7e303eb38a7ff2a3184f455e869979c233f703e0e6fcf667985e288152c6d1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/13\/3-4.1792123813701.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "دِتّا"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "دِن وِچ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اُس"
+    },
+    {
+      "surface": "מופת",
+      "gloss": "نشَن"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ کے"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "המופת",
+      "gloss": "اوہ نشَن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ویکھو"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "قربانی چبوترہ"
+    },
+    {
+      "surface": "נקרע",
+      "gloss": "پھٹّ گیا"
+    },
+    {
+      "surface": "ונשפך",
+      "gloss": "تے ڈِھیہ گئی"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "سواہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اوہدے اُتے"
+    }
+  ],
+  "timestamp": "2026-10-16T04:10:13.702389953Z",
+  "model": "glm-5.3"
+}

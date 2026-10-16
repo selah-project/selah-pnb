@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 3:25",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اے⟩",
+      "rationale": "عبرانی وِچ کپولا نئیں، پنجابی جملے لئی پایا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "משכן",
+      "rationale": "مسکن — תורה دا ریت دا لفظ، 'ٹکاؤں' یا 'ڈیرا' نئیں"
+    }
+  ],
+  "translation": "تے گرشون دے پُتراں دی چوکسی میل ملاقات دے خیمے وِچ: مسکن تے خیمہ، اوہدا ڈھکاء، تے میل ملاقات دے خیمے دے بوآ دا پردہ ⟨اے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2f002afddf14d9efe08c1955bed26c958743be818b4f50a1566dd794b04db758",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/3\/25-28.1792098293767.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומשמרת",
+      "gloss": "چوکسی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں دی"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "گرشون"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "خیمے وِچ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "میل ملاقات"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مسکن"
+    },
+    {
+      "surface": "והאהל",
+      "gloss": "تے خیمہ"
+    },
+    {
+      "surface": "מכסהו",
+      "gloss": "اوہدا ڈھکاء"
+    },
+    {
+      "surface": "ומסך",
+      "gloss": "تے پردہ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "بوآ دا"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمے"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "میل ملاقات"
+    }
+  ],
+  "timestamp": "2026-10-15T21:04:53.768171848Z",
+  "model": "glm-5.3"
+}

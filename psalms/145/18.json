@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 145:18",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "عبرانی وِچ کوئی فعل نئیں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קרוב\/יקראהו",
+      "rationale": "اکو جڑ ק-ר-آ دا دہراؤ، پنجابی وِچ نئیں رہندا"
+    }
+  ],
+  "translation": "یاہوہ نیڑے اے سارے اُہناں لئی جیہڑے اُسنوں پکاریاں، سارے اُہناں لئی جیہڑے اُسنوں سچائی نال پکاریاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f47c414869819a76e70b46732b17f901a1344239eccf6af168e501655b3c4f38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/145\/17-20.1792114279367.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "نیڑے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سارے اُہناں لئی"
+    },
+    {
+      "surface": "קראיו",
+      "gloss": "اُسدے پکاریاں"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سارے اُہناں لئی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑے"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "اُسنوں پکاریاں"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "سچائی نال"
+    }
+  ],
+  "timestamp": "2026-10-16T01:31:19.368646716Z",
+  "model": "glm-5.3"
+}

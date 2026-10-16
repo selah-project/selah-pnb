@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "joshua 15:59",
+  "book": "joshua",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "چھ شہر",
+      "rationale": "شہراں دی گنتی"
+    },
+    {
+      "kind": "elision",
+      "subject": "بیت عَنوت",
+      "rationale": "שני ٹوکن اِک جُڑیا ناں نیں"
+    }
+  ],
+  "translation": "تے مَعارت، تے بیت عَنوت، تے ایلتِیکون — چھ شہر تے اوہناں دے پنڈ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "79b8d69c71435e2884296c1ccdb0e54575faefbfa4b455ed1a366efcf0f6e840",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joshua\/15\/57-60.1792101082411.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומערת",
+      "gloss": "تے مَعارت"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "تے بیت"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "عَنوت"
+    },
+    {
+      "surface": "ואלתקן",
+      "gloss": "تے ایلتِیکون"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "שש",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "تے اوہناں دے پنڈ"
+    }
+  ],
+  "timestamp": "2026-10-15T21:51:22.411810763Z",
+  "model": "glm-5.3"
+}

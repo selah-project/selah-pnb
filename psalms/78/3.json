@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 78:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "تے",
+      "rationale": "و- العاطفہ جوڑ لئی پنجابی لئی چُکیا"
+    }
+  ],
+  "translation": "جو اسیں سنیا تے جاݨیا، تے ساڈے پیوآں نے سانوں دسیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3e3ee46cb0243c73fa00113b107409634b754c7f3d77dde0081c59b41f124e16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/78\/1-4.1792113069776.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "اساں سنیا"
+    },
+    {
+      "surface": "ונדעם",
+      "gloss": "تے جاݨیا"
+    },
+    {
+      "surface": "ואבותינו",
+      "gloss": "تے ساڈے پیوآں نے"
+    },
+    {
+      "surface": "ספرו",
+      "gloss": "دسیا"
+    },
+    {
+      "surface": "لנו",
+      "gloss": "سانوں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:11:09.777207949Z",
+  "model": "glm-5.3"
+}

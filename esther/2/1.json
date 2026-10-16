@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 2:1",
+  "book": "esther",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כשך חמת",
+      "rationale": "'غصے دا ٹھنڈا ہونا' — عبرانی وِچ لفظی 'غصے دا پھوکن\/بجھنا'، پنجابی وِچ ٹھنڈا ہونا فطری اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩",
+      "rationale": "אשר دے بعد کئے واسطے پنجابی نوں ضمیر چاہیدی اے، عبرانی وِچ نئیں۔"
+    }
+  ],
+  "translation": "ایہناں گلاں توں بعد، جد بادشاہ اَکھشویروش دا غصہ ٹھنڈا ہویا، اوہنے ⟨את⟩ وشتِی نوں یاد کیتا، تے ⟨את⟩ ⟨اوہ⟩ جو کیتا سی، تے ⟨את⟩ ⟨اوہ⟩ جو اوہدے اُتے فیصلہ کیتا گیا سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9bdd3d203ce627ff1a40a7847651526a09c59a571ec214639253a16270c51805",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/esther\/2\/1-4.1792117837980.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "توں بعد"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ایہناں گلاں"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ایہناں"
+    },
+    {
+      "surface": "כשך",
+      "gloss": "جد ٹھنڈا ہویا"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "غصہ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "اَکھشویروش"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "یاد کیتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وشتِی نوں"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "وشتِی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "⟨اوہ⟩ جو کیتا سی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "کیتا سی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "⟨اوہ⟩ جو فیصلہ کیتا گیا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "فیصلہ کیتا گیا"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "اوہدے اُتے"
+    }
+  ],
+  "timestamp": "2026-10-16T02:30:37.981081200Z",
+  "model": "glm-5.3"
+}

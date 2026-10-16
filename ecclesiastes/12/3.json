@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 12:3",
+  "book": "ecclesiastes",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "گھر دے رکھوالے \/ طاقتوار بیلے \/ پسے",
+      "rationale": "بڈھیپے دی چھپی مورت — رکھوالے=باں، بیلے=لَتاں، پسے=دند؛ مورت رکھی اے، کھولہی نئیں"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי מעטו",
+      "rationale": "'کیونکہ اوہ گھٹ ہو گئے' — پسیاں دے گھٹ ہون دی وضاحت، لفظی رکھیا"
+    }
+  ],
+  "translation": "اس دن جدوں گھر دے رکھوالے کانبناں، طاقتوار بیلے جُکھ جان، پسیا بند ہو جان کیونکہ اوہ گھٹ نیں، تے جھروکیاں وچوں ویکھن والے ہنیرے ہو جان،",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2238545a3ef1695f438d24eebaac952d1714a0c551225e507539f7b9da94679b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ecclesiastes\/12\/1-4.1792117746640.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "اس دن"
+    },
+    {
+      "surface": "שיזעו",
+      "gloss": "جدوں کانبناں"
+    },
+    {
+      "surface": "شמרי",
+      "gloss": "رکھوالے"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر دے"
+    },
+    {
+      "surface": "והתעותו",
+      "gloss": "تے جُکھ جان"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "بیلے"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "طاقتوار"
+    },
+    {
+      "surface": "ובטלו",
+      "gloss": "تے بند ہو جان"
+    },
+    {
+      "surface": "הטחנות",
+      "gloss": "پسے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "מעטו",
+      "gloss": "اوہ گھٹ نیں"
+    },
+    {
+      "surface": "וחשכו",
+      "gloss": "تے ہنیرے ہو جان"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "ویکھن والے"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "جھروکیاں وِچوں"
+    }
+  ],
+  "timestamp": "2026-10-16T02:29:06.641980715Z",
+  "model": "glm-5.3"
+}

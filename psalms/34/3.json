@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 34:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "نپشی",
+      "rationale": "نپش جان\/ساہ اے — 'روح' نئیں؛ لہندی وچ 'جان' سب توں نیڑے اے۔"
+    },
+    {
+      "kind": "alternative",
+      "subject": "תתהلל",
+      "rationale": "'ہَل کردی اے' لفظی اے؛ 'فخر کردی اے' دوجا عام ترجمہ اے۔"
+    },
+    {
+      "kind": "invitation",
+      "subject": "عاجزاں نوں",
+      "rationale": "آیت عاجزاں نوں سُن کے خُش ہون دا سدّا دیندی اے۔"
+    }
+  ],
+  "translation": "یاہوہ وِچ ہَل کردی اے میری جان؛ عاجز سُنّن گے تے خُش ہون گے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "524b62f9fa7c2d2af2a94384b2df7c93efd856ea353531d4cc63798ac3604083",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/34\/1-4.1792112296315.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "یاہوہ وِچ"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "ہَل کردی اے"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میری جان"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "سُنّن گے"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "عاجز"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "تے خُش ہون گے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:58:16.316531421Z",
+  "model": "glm-5.3"
+}

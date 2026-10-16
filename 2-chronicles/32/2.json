@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 32:2",
+  "book": "2-chronicles",
+  "lang": "pnb",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ופניו למלחמה",
+      "rationale": "عبرانی محاورہ ‛اوہدا منہ جنگ ولّ سی‛ = اوہنے جنگ دا ارادہ بنا لیا؛ پنجابی وِچ اویں ای رکھیا گیا اے، ‛ارادہ‛ نئیں پایا گیا۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "پنجابی حال ویلے لئی ‛اے‛ پایا گیا؛ عبرانی وِچ کوئی ضمیر-فعل نئیں۔"
+    }
+  ],
+  "translation": "تے حِزقیاہو نے ویکھیا کی سنسریب آیا اے، تے اوہدا منہ یروشلایم اُتے جنگ ولّ اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "05a3739b24c5b0b1c6b48f0b8dbb24f538bbd30fb42dcd121dad9709462f6380",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/32\/1-4.1792122909402.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "تے ویکھیا"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "حِزقیاہو نے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آیا اے"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "سنسریب"
+    },
+    {
+      "surface": "ופניו",
+      "gloss": "تے اوہدا منہ"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "جنگ ولّ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم"
+    }
+  ],
+  "timestamp": "2026-10-16T03:55:09.403738320Z",
+  "model": "glm-5.3"
+}

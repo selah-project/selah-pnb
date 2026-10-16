@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 11:15",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "Here את is the pronoun 'you' (אתה), NOT the direct-object marker — no ⟨את⟩ bracket."
+    },
+    {
+      "kind": "idiom",
+      "subject": "מצאתי חן בעיניך",
+      "rationale": "'I found favor in your eyes' — Hebrew idiom kept literal; Punjabi reads it naturally."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הרגני \/ הרג",
+      "rationale": "Root ה-ר-ג doubled within three words — 'kill me, kill' — the desperation carried by repetition."
+    }
+  ],
+  "translation": "تے جے توں میرے نال ایویں کردا ایں، تے مینوں مار سٹ، میں انہیں کردا ہاں، جے میں تیریاں اکھیاں وِچ میہر ملی ہووے؛ تے نہ میں ویکھاں اپنی بُرائی نوں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c2719e650628983d68892c17d09f89d289778e8fd58e4b2a8e4aafeb154802d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/11\/13-16.1792098653989.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "ایویں"
+    },
+    {
+      "surface": "את",
+      "gloss": "تو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کردا ایں"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرے نال"
+    },
+    {
+      "surface": "הרגני",
+      "gloss": "مینوں مار سٹ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "میں انہیں کردا ہاں"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "مار"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "میں ملی ہووے"
+    },
+    {
+      "surface": "חן",
+      "gloss": "میہر"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "تیریاں اکھیاں وِچ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "میں ویکھاں"
+    },
+    {
+      "surface": "ברעתי",
+      "gloss": "اپنی بُرائی نوں"
+    }
+  ],
+  "timestamp": "2026-10-15T21:10:53.990823703Z",
+  "model": "glm-5.3"
+}

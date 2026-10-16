@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "השמים שמים",
+      "rationale": "تکرار — 'اسمان، بلکہ اسمان' دا ودھاؤ، پنجابی وِچ دو واری رکھیا"
+    },
+    {
+      "kind": "addition",
+      "subject": "نیں",
+      "rationale": "عبرانی وِچ کوئی فعل کوئی نئیں، پنجابی جملے لئی چاہیدا"
+    }
+  ],
+  "translation": "اسمان، اسمان یاہوہ دے نیں، تے دھرتی اوہنے آدمیاں دییاں اولاداں نوں دتی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "94fdd6dfbc9af7eca968cd0d3b2707bef8936df77625e627c8acbdad3d4cef3d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/115\/13-16.1792113764900.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "اسمان"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "اسمان"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ دے"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "تے دھرتی"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دتی اے"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "اولاداں نوں"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمیاں دییاں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:22:44.901374559Z",
+  "model": "glm-5.3"
+}

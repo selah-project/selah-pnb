@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 101:8",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 101,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "מעיר יהוה",
+      "rationale": "'From the city of YHWH' — Jerusalem; some read 'from the city of YHWH' as separation, others as the site of the cutting-off."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אצמית",
+      "rationale": "Rare verb צמת repeats from v. 5 — 'extirpate' — binding the psalm's verdicts; Punjabi 'مِٹاواںگا' keeps the echo."
+    }
+  ],
+  "translation": "سویر سویر میں دھرتی دے سارے بدکاراں نوں مِٹاواںگا، تاں جو یاہوہ دے شہر توں سارے برائی کرداراں نوں کٹّھا کراں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "752dc5bdafb1c1ddfe14a1ce4d7bfa2679cce1bf0a40c35d771455eacfa97750",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/101\/5-8.1792113533237.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבקרים",
+      "gloss": "سویر سویر"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "مِٹاواںگا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "بدکاراں"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "دھرتی دے"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "کٹّھا کرن لئی"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "شہر توں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "کرداراں"
+    },
+    {
+      "surface": "און",
+      "gloss": "برائی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:18:53.238215905Z",
+  "model": "glm-5.3"
+}

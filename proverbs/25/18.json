@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 25:18",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ایہو اوہ بندہ اے",
+      "rationale": "عبرانی وچ تشبیہ بِنا کپلے لفظاں توں جُڑی اے؛ پنجابی جملہ نساخت منگدا اے"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מפיץ",
+      "rationale": "مُکھّا (توڑن والا\/ہتھوڑا) — تنخ وِچ صرف ایتھے"
+    }
+  ],
+  "translation": "مُکھّا تے تلوار تے نوکدار تیر — ایہو اوہ بندہ اے جیہڑا اپنے یار دے خلاف جھوٹی گواہی دیندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fe440564fc10a898150559450bf13af24c6ff93bf6143fb08ef05e032fc14eef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/25\/17-20.1792115096677.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מפיץ",
+      "gloss": "مُکھّا"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "تے تلوار"
+    },
+    {
+      "surface": "וחץ",
+      "gloss": "تے تیر"
+    },
+    {
+      "surface": "שנון",
+      "gloss": "نوکدار"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "گواہی دیندا"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "اپنے یار دے خلاف"
+    },
+    {
+      "surface": "עד",
+      "gloss": "گواہ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "جھوٹا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:44:56.678120357Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 6:1",
+  "book": "daniel",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨تقریباً⟩ ⟨سی⟩",
+      "rationale": "ארامی כבר 'تقریباً\/ہنے ہنے' دا بھاو تے جُملے لئی لوڑیدا فعل، عبرانی نے نئیں لکھیا"
+    },
+    {
+      "kind": "crux",
+      "subject": "دارْیَوُش دا مآخذ",
+      "rationale": "وائس دے علاوہ ساریاں پرانیاں ترجمے دوجی آیت دا کردار ایتھے رلا دیندے نیں؛ متن صرف ایہہ آکھدا اے کہ دارْیَوُش نے بادشاہی قبول کیتی، تقریباً باسٹھ سالاں دا"
+    },
+    {
+      "kind": "measurement",
+      "subject": "سٹھ تے دو سال",
+      "rationale": "دارْیَوُش دی عمر دی گنتی"
+    }
+  ],
+  "translation": "تے دارْیَوُش مادی نے بادشاہی قبول کیتی، ⟨تقریباً⟩ سٹھ تے دو سالاں دا ⟨سی⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ac30af728ec1bd744f920fa1ebd1ea33394aa6c11b7b042e28140fdc2aea8b6e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/daniel\/6\/1-4.1792118673098.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודריוש",
+      "gloss": "تے دارْیَوُش"
+    },
+    {
+      "surface": "מדיא",
+      "gloss": "مادی"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "قبول کیتی"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "بادشاہی"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "⟨تقریباً⟩"
+    },
+    {
+      "surface": "שנין",
+      "gloss": "سالاں دا"
+    },
+    {
+      "surface": "שתין",
+      "gloss": "سٹھ"
+    },
+    {
+      "surface": "ותרתין",
+      "gloss": "تے دو"
+    }
+  ],
+  "timestamp": "2026-10-16T02:44:33.099458748Z",
+  "model": "glm-5.3"
+}

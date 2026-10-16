@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 39:2",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "عبرانی وِچ ਁاں-فعل (copula) نئیں، پنجابی نوں 'سی' منگدا اے۔"
+    },
+    {
+      "kind": "idiom",
+      "subject": "יהוה את יוסף",
+      "rationale": "יְהוָה אֶת ਙاֹסֵף دا مطلب 'یاہوہ یوسف دے نال سی' اے — את ایتھے 'نال' والا حرف اے، نشان ⟨את⟩ ایسے رستے مطابق رکھیا گیا۔"
+    }
+  ],
+  "translation": "تے یاہوہ ⟨את⟩ یوسف دے نال رہا، تے اوہ اِک کامیاب بندہ سی، تے اوہ اپنے سائیں مِصرایمی دے گھر وِچ رہا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "17e25ea9f80445fb68623ec36d87ab2dc3e7437fdba07a19abc3006360b6fcf6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/39\/1-4.1792095804841.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے ہویا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یوسف"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "تے اوہ سی"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "کامیاب"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "تے اوہ رہا"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "گھر وِچ"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "اپنے سائیں"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "مِصرایمی"
+    }
+  ],
+  "timestamp": "2026-10-15T20:23:24.842437856Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 15:32",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "وہانوالی",
+      "rationale": "הַזָּב 'وہ جس توں وہاء ہووے' — کسے روک دا ناں نئیں، صورت دا قاعدہ اے۔"
+    }
+  ],
+  "translation": "ایہہ وہانوالی دی تورات ⟨ہدایت⟩ اے، تے جو بیج دا اِخراج اوہدے توں نکلے، جیندے نال اوہ بے پاک ہووے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "acf7171abcf72a7bc2720fc42d68a1b48d5712f6fbbaf6705a6dfb62592970d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/15\/29-32.1792097839436.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "تورات ⟨ہدایت⟩"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "وہانوالی دی"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "تے جو"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "نکلے"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "اوہدے توں"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "دے لیٹن"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "بیج"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "بے پاکی لئی"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اوہدے نال"
+    }
+  ],
+  "timestamp": "2026-10-15T20:57:19.437238374Z",
+  "model": "glm-5.3"
+}

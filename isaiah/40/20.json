@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 40:20",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "המסכן תרומה",
+      "rationale": "پرچی مترجم 'گِھٹ-چِراہا جیہڑا قربانی نئیں دے سکدا'، JPS 'رُکھ تےappointed' — عبرانی سیاق وِچ جملہ گُھنس بیٹھا اے، ایہدا صحیح جوڑ مشہور جھیڑا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "دے قابل",
+      "rationale": "عبرانی وِچ صرف گِھٹ-چِراہا تے قربانی اک پاسے کھلے نیں، پنجابی جملے لئی جوڑ چاہیدا سی"
+    }
+  ],
+  "translation": "گِھٹ-چِراہا قربانی ⟨دے قابل⟩ — رُکھ جیہڑا نئیں سڑدا چُندا اے؛ اک سیانا کاریگر اوہدے لئی لبھدا اے، کہ مُورت کھلووے جیہڑی نہ ہلے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b020e2ecec575243b2e86dad6985604644b31184f151ef0c52c777de3f60ff82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/40\/17-20.1792106729263.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המסכן",
+      "gloss": "گِھٹ-چِراہا"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "قربانی"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "رُکھ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "ירקב",
+      "gloss": "سڑدا"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "چُندا اے"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "کاریگر"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "سیانا"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "لبھدا اے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدے لئی"
+    },
+    {
+      "surface": "להכין",
+      "gloss": "کھلوائن لئی"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "مُورت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "ہلدا"
+    }
+  ],
+  "timestamp": "2026-10-15T23:25:29.265014465Z",
+  "model": "glm-5.3"
+}

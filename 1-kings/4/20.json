@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 4:20",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سن",
+      "rationale": "عبرانی وِچ کریا نئیں"
+    },
+    {
+      "kind": "idiom",
+      "subject": "كחול אשר על הים",
+      "rationale": "سمندر کنارے دی ریت — گنتی نہ سمت جان والی ہون دی عبرانی مہاورہ"
+    }
+  ],
+  "translation": "یِہوداہ تے یِسرائیل بہت سارے سن، سمندر کنارے دی ریت دے وانگ گنتی وِچ، کھا رہے، پی رہے تے خوش۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ca69ac76d9703b59432a4f6fcc18b5e51bb22b6c2f88df81660f625407d9b3ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/4\/17-20.1792104076719.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "یِہوداہ"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "تے یِسرائیل"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "بہت سارے"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "ریت دے وانگ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "گنتی وِچ"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "کھا رہے"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "پی رہے"
+    },
+    {
+      "surface": "ושמחים",
+      "gloss": "تے خوش"
+    }
+  ],
+  "timestamp": "2026-10-15T22:41:16.720794892Z",
+  "model": "glm-5.3"
+}

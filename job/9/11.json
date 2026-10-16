@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 9:11",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יעבר\/ויחלף",
+      "rationale": "دو وی_PASS لنگھن دے فعلاں نال متوازی جوڑا — پنجابی وِچ لنگھنا\/گزری جانا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "میرے اگے",
+      "rationale": "עלی صحیح معنی 'میرے اُتے' اے؛ عبرانی دا درستی بھار پنجابی توں وکھرا اے"
+    }
+  ],
+  "translation": "دیکھو، اوہ میرے اگے لنگھدا اے تے میں (اوہنوں) نئیں ویکھدا؛ تے اوہ گزر جاندا اے تے میں (اوہنوں) نئیں سمجھدا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2ab3c1c69a9533ac77a7220ddb8ce5ba6470832460dad54f87b6021569a08f0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/9\/10-11.1792124261271.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "دیکھو"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "لنگھدا اے"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "میرے اگے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ویکھدا"
+    },
+    {
+      "surface": "ויחלף",
+      "gloss": "تے گزر جاندا اے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "سمجھدا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨اوہنوں⟩"
+    }
+  ],
+  "timestamp": "2026-10-16T04:17:41.271743372Z",
+  "model": "glm-5.3"
+}

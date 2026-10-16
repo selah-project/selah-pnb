@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 31:1",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מפני",
+      "rationale": "ہور_txt פנִי 'منہ دے سامنے' — پنجابی وِچ 'توں \/ اگّوں' ورتیا اے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חללים",
+      "rationale": "'سوراخ کیتے ہوئے' — 'زخمی' \/ 'مارے ہوئے' دوناں پڑھائیاں نیں۔"
+    }
+  ],
+  "translation": "تے پلشتیم یِسرائیل نال لڑدے رہے، تے یِسرائیل دے بندیاں پلشتیم توں بھجّے، تے زخمی گِلبوع پہاڑ اُتے ڈگّ پئے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4d58a11e9585da1d0ab4c9bb6a498cf93acdc7312f7e4d83624cc74d42f561da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/31\/1-4.1792103112900.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "تے پلشتیم"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "لڑدے رہے"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "یِسرائیل نال"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "تے بھجّے"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "بندیاں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل دے"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "توں \/ اگّوں"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "پلشتیم"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "تے ڈگّ پئے"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "زخمی"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "پہاڑ اُتے"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "گِلبوع"
+    }
+  ],
+  "timestamp": "2026-10-15T22:25:12.901158497Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 11:2",
+  "book": "hosea",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "سدیا",
+      "rationale": "קראו دا فاعل غیر واضح اے — نبی، خدا، جاں (بعد وچ) مُنسک لوک؛ مترجم ونڈے ہوئے نیں"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מפניהם",
+      "rationale": "'اوہناں دے مونہوں\/اگوں' — عبرانی 'چہرے توں' دی پنجابی روڑی 'توں مُڑ کے'"
+    },
+    {
+      "kind": "addition",
+      "subject": "رہے",
+      "rationale": "מעשے دے لگاتار ہون دا احساس پنجابی چ لگانا پیا"
+    }
+  ],
+  "translation": "اوہناں نوں سدیا، پر اوہ اِنے اِی اوہناں توں مُڑ کے ٹُر گئے؛ بعل اَستراں نوں قربانیاں دیندے رہے تے مُورتاں نوں خوشبوواں ساڑدے رہے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c81d79e57dac57173e550a82528b1d1ea86adb547d7436ec63417f9789559a87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/hosea\/11\/1-4.1792110597212.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "اوہناں نوں سدیا"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اوہناں نوں"
+    },
+    {
+      "surface": "כן",
+      "gloss": "پر اِنے اِی"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "اوہ ٹُر گئے"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "اوہناں توں مُڑ کے"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "بعل اَستراں نوں"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "قربانیاں دیندے رہے"
+    },
+    {
+      "surface": "ולפסלים",
+      "gloss": "تے مُورتاں نوں"
+    },
+    {
+      "surface": "יקטרון",
+      "gloss": "خوشبوواں ساڑدے رہے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:29:57.212787934Z",
+  "model": "glm-5.3"
+}

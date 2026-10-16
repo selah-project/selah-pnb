@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 115:17",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "چُپ",
+      "rationale": "דומה צُوڑ چُپ تے موت دوویں دا چِتھ اے — پنجابی وِچ چُپ رکھیا، موت دا پہلو ہٹ گیا"
+    },
+    {
+      "kind": "addition",
+      "subject": "ہیں",
+      "rationale": "کریا دا انت عبرانی وِچ نئیں، پنجابی واری کھلوندا اے"
+    }
+  ],
+  "translation": "مردے یاہ نوں تعریف نئیں کردے، تے نہ ای اوہ سارے جیہڑے چُپ وِچ اُتردے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7662961dd3dedde7f9f6b6bc6210fd78de76748a34b1961e1c014666ddffab1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/115\/17-18.1792113766559.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "مردے"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "تعریف کردے"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاہ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "اُترن والے"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "چُپ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:22:46.559956593Z",
+  "model": "glm-5.3"
+}

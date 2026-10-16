@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 7:33",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "stand",
+      "rationale": "The verse inventories the wheels' parts — technical description of cast work."
+    },
+    {
+      "kind": "hapax",
+      "subject": "חשקיהם",
+      "gloss": "wheel-spoke appears only here in the Tanakh."
+    },
+    {
+      "kind": "hapax",
+      "subject": "חשריהם",
+      "gloss": "wheel-hub appears only here in the Tanakh."
+    }
+  ],
+  "translation": "تے چکیاں دا کم رتھ دی چکّی دے کم ورگا سی: اوہناں دے دھرے، اوہناں دے کنارے، اوہناں دے تِلیاں تے اوہناں دھراں دے گبھے — سب سُٹیا ہویا سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "340cb0d766be05c5ab741643c4c89ae5d27070f46f62e296166667903e3186b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/7\/33-36.1792104103562.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומעשה",
+      "gloss": "تے کم"
+    },
+    {
+      "surface": "האופנים",
+      "gloss": "چکیاں دا"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "ورگا سی … دے کم"
+    },
+    {
+      "surface": "אופן",
+      "gloss": "چکّی"
+    },
+    {
+      "surface": "המרכבה",
+      "gloss": "رتھ دی"
+    },
+    {
+      "surface": "ידותם",
+      "gloss": "اوہناں دے دھرے"
+    },
+    {
+      "surface": "וגביהם",
+      "gloss": "اوہناں دے کنارے"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "اوہناں دے تِلیاں"
+    },
+    {
+      "surface": "וחשריהם",
+      "gloss": "اوہناں دھراں دے گبھے"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "מוצק",
+      "gloss": "سُٹیا ہویا سی"
+    }
+  ],
+  "timestamp": "2026-10-15T22:41:43.563094395Z",
+  "model": "glm-5.3"
+}

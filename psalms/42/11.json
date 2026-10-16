@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ברצח",
+      "rationale": "KJV 'تلوار' (رِبّی روایت توں) بمقابلہ JPS 'کُچیل' — مُڈھلا مطلب 'قتل دا چِیک\/کُچیل' اے"
+    },
+    {
+      "kind": "you",
+      "subject": "ظالماں توں نمازی ولّ",
+      "rationale": "ظالماں دی گھوک 'تیرا ایلوہیم کِتھے اے؟' سِدھی مخاطبت اے"
+    }
+  ],
+  "translation": "میریاں ہڈیاں وِچ ⟨تلوار⟩ نال میرے ظالم مینوں بدنام کردے نیں، جد اوہ سارا دِن مینوں آکھدے نیں: تیرا ایلوہیم کِتھے اے؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "dd0bffdb5820e29ed6499137322efd3aa7881cb0c2854312e051700e8e3994fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/42\/9-12.1792112442750.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "تلوار نال"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "میریاں ہڈیاں وِچ"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "مینوں بدنام کردے نیں"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "میرے ظالم"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "اوہناں دے آکھن نال"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مینوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "دِن"
+    },
+    {
+      "surface": "איה",
+      "gloss": "کِتھے"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تیرا ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-10-16T01:00:42.751258083Z",
+  "model": "glm-5.3"
+}

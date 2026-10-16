@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 17:15",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "یمیم",
+      "rationale": "מוחלט 'دِن' — عبرانی وِچ 'بہت دناں تک' دا ریتا طریقہ؛ پنجابی 'دِناں تک' رکھیا"
+    }
+  ],
+  "translation": "تے اوہ گئی تے ایلیاہو دے بچن مطابق کیتا، تے اوہ کھا گئی — اوہ تے اوہ تے اوہدا گھر — دِناں تک۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "abd7c02b3ec8f488cdcb15d5b438955f1e3c3beb632ddba858b5d1e3a10c924f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/17\/13-16.1792104575427.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "تے گئی"
+    },
+    {
+      "surface": "ותעשה",
+      "gloss": "تے کیتا"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "بچن مطابق"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ایلیاہو"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "تے کھا گئی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "تے اوہ"
+    },
+    {
+      "surface": "וביתה",
+      "gloss": "تے اوہدا گھر"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دِناں تک"
+    }
+  ],
+  "timestamp": "2026-10-15T22:49:35.428636658Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 17:4",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "champion",
+      "rationale": "אישׁ הבנים literal 'وِچکار-دو-طرفے دا بندہ' — dual of בין, the space between two armies; 'چیمپیئن' the role loses the picture"
+    },
+    {
+      "kind": "measurement",
+      "subject": "six cubits and a span",
+      "rationale": "گولیات دی اُچائی دی پیمائش — چھ ہتھ تے اِک پھیل-ہتھا"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "dual בנים",
+      "rationale": "دوہری صورت (dual) ہی معنی اے — 'دو فوجاں دے وِچکار' — پنجابی وِچ جوڑ-لفظ نال رکھیا اے"
+    }
+  ],
+  "translation": "تے پِلتِشتِیاں دے پڑاؤاں وِچوں اِک بندہ وِچکار-دو-طرفے دا نِکلیا، گلایت اوس دا ناں، گتّ توں؛ اوس دی اُچائی چھ ہتھ تے اِک پھیل-ہتھا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f503f545e1a624f5604f857088632c8d4475eee2b15853584204f7ef4f35410d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/17\/4-4.1792123605255.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "تے نِکلیا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "اِک بندہ"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "وِچکار-دو-طرفے دا"
+    },
+    {
+      "surface": "ממחנות",
+      "gloss": "پڑاؤاں وِچوں"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "پِلتِشتِیاں دے"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "گلایت"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اوس دا ناں"
+    },
+    {
+      "surface": "מגת",
+      "gloss": "گتّ توں"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "اوس دی اُچائی"
+    },
+    {
+      "surface": "שש",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "تے اِک پھیل-ہتھا"
+    }
+  ],
+  "timestamp": "2026-10-16T04:06:45.256425616Z",
+  "model": "glm-5.3"
+}

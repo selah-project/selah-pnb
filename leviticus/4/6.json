@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 4:6",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את פני",
+      "rationale": "دوجا את 'دے اگلے پاسے' دی طرحاں کم کردا اے، پریتیوگ اے، مگر אتحرف ٹبر وِچ اے، ایس لئی ⟨את⟩ رکھیا گیا۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "שבע פעמים",
+      "rationale": "ستّ واری دی گنتی — چھِڑکن دا مقدار آیت دا ڈھانچا اے۔"
+    }
+  ],
+  "translation": "تے کاہن ⟨את⟩ اپنی اُنگل لہو وِچ ڈبووے، تے لہو وِچوں ستّ واری یاہوہ دے ساہمنے، ⟨את⟩ پاک پردے دے اگلے پاسے چھِڑکے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "46f23767fdb2de46ed91d0956a57582b5ffc98e9c8f54e3dbbd0e018a719c018",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/4\/6-7.1792123443125.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "ڈبووے"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنی اُنگل"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "اُنگل"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "لہو وِچ"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "چھِڑکے"
+    },
+    {
+      "surface": "מן",
+      "gloss": "وِچوں"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "لہو"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ستّ"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "واری"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ساہمنے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پاک پردے"
+    },
+    {
+      "surface": "פני",
+      "gloss": "اگلا پاسہ"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "پردہ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "پاک"
+    }
+  ],
+  "timestamp": "2026-10-16T04:04:03.125979064Z",
+  "model": "glm-5.3"
+}

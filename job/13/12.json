@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 13:12",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "זכרניכם משלי אפר",
+      "rationale": "'تہاڈے چیتے\/بھاشن سواہ ورگی مثالاں نیں' — KJV 'remembrances'، ASV 'maxims\/proverbs'۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "גב",
+      "rationale": "'ٹیبے\/اُچائیاں' بمقابلہ 'دفاع\/قلعے' — ASV 'defences'، یلت 'high places'۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לגבי … גביכם",
+      "rationale": "اِکو گنڈ ח م ر تے گ ب دے نال جوڑ — مٹی دے ٹیبے دا تکرار، پنجابی وِچ ٹیبے-ٹیبے نال رکھیا۔"
+    }
+  ],
+  "translation": "تہاڈے چیتے سواہ دیاں مثالاں نیں، تہاڈے اُچے ٹیبے مٹی دے ٹیبے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a03f396d8017cd9af76fc3885c64bd789e66619cf0b77c44e0b2edf7dd66d9e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/13\/9-12.1792115644491.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכרניכם",
+      "gloss": "تہاڈے چیتے"
+    },
+    {
+      "surface": "משלי",
+      "gloss": "مثالاں"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "سواہ"
+    },
+    {
+      "surface": "לגבי",
+      "gloss": "اُچے ٹیبے وانگ"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "مٹی"
+    },
+    {
+      "surface": "גביכם",
+      "gloss": "تہاڈے ٹیبے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:54:04.492820555Z",
+  "model": "glm-5.3"
+}

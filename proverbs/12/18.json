@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 12:18",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اے⟩",
+      "rationale": "יש نال جُڑیا کریا-سہائِتہ پنجابی منگدا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "بے-سُوجھا",
+      "rationale": "בוטה: 'بے-سُوجھا\/تُند خُو' بمقابلہ صرف 'بولدا' — مول 'گڑگڑاؤنا\/غصے نال چیخنا'"
+    }
+  ],
+  "translation": "اِک ⟨اے⟩ جِہڑا بے-سُوجھا بولدا اے، جیویں تلوار دے وار؛ پر سیاناں دی بولی شفا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d2b247a064930752ec0018257715f3a815efa746933b395b4820daac39f82d5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/12\/17-20.1792114641729.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "اِک ⟨اے⟩"
+    },
+    {
+      "surface": "בוטה",
+      "gloss": "بے-سُوجھا بولدا"
+    },
+    {
+      "surface": "כמדקרות",
+      "gloss": "جیویں وار"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "تلوار دے"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "پر بولی"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "سیاناں دی"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "شفا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:37:21.730387465Z",
+  "model": "glm-5.3"
+}

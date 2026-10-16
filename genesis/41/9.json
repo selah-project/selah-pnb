@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 41:9",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نال",
+      "rationale": "על\/את ورگے تعلق دا لفظ — پنج جملہ 'نال' منگدا اے"
+    },
+    {
+      "kind": "you",
+      "subject": "فرعون",
+      "rationale": "مشریب سردار سدھا فرعون نوں مخاطب اے"
+    }
+  ],
+  "translation": "تے شراب پلان والیاں دے سردار نے ⟨את⟩ فرعون نال آکھیا: اَج میں ⟨את⟩ اپنیاں غلطیاں یاد کردا آں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "738e5aebcec41dacc9580b1a423114915c5cabc304ce52d8ee6d42f27f3a33ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/41\/9-12.1792095779783.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "تے بولیا"
+    },
+    {
+      "surface": "שר",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "شراب پلان والیاں دے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "فرعون"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ کے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنیاں غلطیاں"
+    },
+    {
+      "surface": "חטאי",
+      "gloss": "اپنیاں غلطیاں"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "یاد کردا آں"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اَج"
+    }
+  ],
+  "timestamp": "2026-10-15T20:22:59.784284589Z",
+  "model": "glm-5.3"
+}

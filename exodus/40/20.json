@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 40:20",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "کفورت",
+      "rationale": "כפורת 'کپورٹ' — کورۃ (KJV) بمقابلہ ڈھکن (JPS) بمقابلہ غفران دی جڑ دی وضاحت"
+    },
+    {
+      "kind": "substitution",
+      "subject": "شہتیناں",
+      "rationale": "בדים — صندوق چکن والیاں سلاں، 'شہتیناں' پنجابی تصویر"
+    }
+  ],
+  "translation": "تے اُس نے لے کے ⟨את⟩ گواہی نوں صندوق وِچ پائی، تے ⟨את⟩ شہتیناں صندوق اُتے لائیاں، تے ⟨את⟩ کپورٹ نوں صندوق اُتے اُتےوں رکھیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9b292847f9a64783364f7652d99e4e0d0a705c68284c16d9f4a995cfa7706462",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/40\/17-20.1792097366725.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "لے کے"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "پائی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گواہی نوں"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "گواہی نوں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "لائیاں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شہتیناں"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "شہتیناں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "رکھیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کپورٹ نوں"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "کپورٹ نوں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "اُتےوں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:49:26.726822021Z",
+  "model": "glm-5.3"
+}

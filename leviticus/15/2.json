@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 15:2",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אישׁ אישׁ",
+      "rationale": "Doubled 'man, man' — distributive 'any man'; Punjabi single phrase absorbs it."
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Command addressed through Moshe and Aharon to the sons of Yisrael."
+    }
+  ],
+  "translation": "یِسرائیل دے پُتراں نال گل کرو تے اوہناں نوں آکھو: کوئی بندہ، جدوں اوہدے ماس توں وگدا ہووے، اوہدے وگن توں اوہ ناپاک اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f7d8388bac6284fb4da5c44f4b5e5a5d5c612bb1133e19fbf128272f46f0c857",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/15\/1-4.1792097740622.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "گل کرو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل دے"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "تے آکھو"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "اوہناں نوں"
+    },
+    {
+      "surface": "איש",
+      "gloss": "کوئی بندہ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جدوں"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہووے"
+    },
+    {
+      "surface": "זב",
+      "gloss": "وگدا ہووے"
+    },
+    {
+      "surface": "מבשרו",
+      "gloss": "اوہدے ماس توں"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "اوہدے وگن توں"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ناپاک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ اے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:55:40.623987276Z",
+  "model": "glm-5.3"
+}

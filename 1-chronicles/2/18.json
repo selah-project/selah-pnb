@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 2:18",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "عزوبا تے یریوت",
+      "rationale": "عیسیٰ\/بائبل ترجمے اختلاف کردے نیں: کالےو نے عزوبا توں یریوت نوں جنیا، یا دوویں دھیاں\/تریمتیاں سی — عبرانی حرف-بہ-حرف دوویں نوں مفعول رکھدا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "سن",
+      "rationale": "پنجابی جملے لئی ضمیر-ربط دتی گئی، عبرانی وِچ نئیں"
+    },
+    {
+      "kind": "measurement",
+      "subject": "نسل نامہ",
+      "rationale": "ناواں دی لسٹ"
+    }
+  ],
+  "translation": "تے کالےو حیزرون دا پُتر سی؛ اوہنے ⟨את⟩ عزوبا تریمتی نوں تے ⟨את⟩ یریوت نوں جنیا، تے اِہناں دے پُتر ایہہ سن: ییشیر، تے شوواب، تے اردون۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "df66b52cd7b39d71470cbd0b8f9a80537e58d09120bdc00f2eac9dac8f1b1b62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/2\/17-20.1792120170458.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכלב",
+      "gloss": "تے کالےو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "حیزرون دا"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "جنیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عزوبا"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "عزوبا"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "تریمتی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "یریوت"
+    },
+    {
+      "surface": "יריעות",
+      "gloss": "یریوت"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "تے ایہہ"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "اِہناں دے پُتر"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ییشیر"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "تے شوواب"
+    },
+    {
+      "surface": "וארדון",
+      "gloss": "تے اردون"
+    }
+  ],
+  "timestamp": "2026-10-16T03:09:30.459546450Z",
+  "model": "glm-5.3"
+}

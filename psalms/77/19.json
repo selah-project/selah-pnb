@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 77:19",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בגלגל",
+      "rationale": "'چکر\/بھنور' یا 'گرجدے بدلاں وِچ' — KJV 'اسمان وِچ'، ASV 'بھنور وِچ'؛ بھنور لیا۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ברקים…האירו",
+      "rationale": "ברק (بجلی) تے אור (اجلاؤ) اکو جڑھ توں گونجدے نیں، پنجابی وِچ ایہہ سربت گواچ گیا۔"
+    }
+  ],
+  "translation": "تیرے گرج دا گل وِچارے وِچ سی؛ بجلیاں نے دنیا نوں اجلیا؛ دھرتی کپی تے ہلی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "237a6ef3212480a073053ad2f6687c93a9331e9aa81b618ee548636cfbb71808",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/77\/17-20.1792113010301.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "گل"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "تیرے گرج دا"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "گل وِچارے وِچ"
+    },
+    {
+      "surface": "האירו",
+      "gloss": "اجلیا"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "بجلیاں"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "دنیا نوں"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "کپی"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "تے ہلی"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "دھرتی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:10:10.302798241Z",
+  "model": "glm-5.3"
+}

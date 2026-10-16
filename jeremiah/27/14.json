@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 27:14",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "تُساں",
+      "rationale": "negative command addressed to the king and people of Judah"
+    },
+    {
+      "kind": "addition",
+      "subject": "نوں",
+      "rationale": "Punjabi postposition supplied for the Hebrew preposition אל before 'words'"
+    }
+  ],
+  "translation": "تے نبیاں دے بچن نوں نہ سُنو جیہڑے تُہاڈے نال آکھدے نیں کہ تُساں بابل دے بادشاہ ⟨את⟩ دی خدمت نہ کرو، کیوں جو اوہ تُہاڈے نال جھوٹ نبی آکھدے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "991f2449ecf4ad3dc2b9acf02475d511e4026d6e87cf6cfc40ff5334cfac17cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/27\/13-16.1792108064978.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "سُنو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "بچن"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "نبیاں دے"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "آکھدے نیں"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "تُہاڈے نال"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תעבדו",
+      "gloss": "خدمت کرو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بابل دا بادشاہ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "جھوٹ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "نبی آکھدے"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُہاڈے نال"
+    }
+  ],
+  "timestamp": "2026-10-15T23:47:44.979635247Z",
+  "model": "glm-5.3"
+}

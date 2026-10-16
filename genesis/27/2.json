@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 27:2",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "عرض-گلوں والا ذرہ جو پنجابی وِچ وکھرا لفظ نئیں ملدا، 'ہُن' نال رلا دتا"
+    }
+  ],
+  "translation": "تے اوہنے آکھیا: ویکھ، میں ہُن بوڑا ہو گیا آں، میں اپنی موت دا دن نئیں جاݨدا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "82fed4a047f332614c066d7b5855631bf5a5b08e1159aedbfb6f9c17ff7cfb54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/27\/1-4.1792095302311.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے اوہنے آکھیا"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ویکھ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ہُن"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "میں بوڑا ہو گیا آں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "میں جاݨدا"
+    },
+    {
+      "surface": "יום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "اپنی موت دا"
+    }
+  ],
+  "timestamp": "2026-10-15T20:15:02.312697524Z",
+  "model": "glm-5.3"
+}

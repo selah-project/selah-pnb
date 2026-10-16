@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 4:10",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "השא השאת",
+      "rationale": "'تُسیں ٹٹّھا اے' — مخلص اک多人 پڑھدے نیں 'میں کویں ٹٹّھا'، پر مصدر مطلق + صیغہ ماضی 'یقیناً ٹٹّھا' ای دسدا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "השא השאת",
+      "rationale": "اکو جڑ دو واری — عبرانی دا اتپردیشی وزن، پنجابی وِچ 'بھُلا-بھُلا کے' نال رکھیا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جان-بجھ دی شے اے، صرف 'روح' نئیں"
+    }
+  ],
+  "translation": "تے میں آکھیا: ہائے! ادونای یاہوہ! یقیناً بھُلا-بھُلا کے تُسیں ⟨את⟩ اس قوم نوں تے یروشلایم نوں ٹٹّھا اے، آکھ کے: 'امن تہاڈے لئی ہووےگا'، حالانکہ تلوار جان تک پہنچے گی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "522189bc4beb5ac7c576936390379b034031937826f9dc1c8273d9363df1e784",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/4\/9-12.1792107351994.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "تے میں آکھیا"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "ہائے!"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "یقیناً"
+    },
+    {
+      "surface": "השא",
+      "gloss": "بھُلا-بھُلا کے"
+    },
+    {
+      "surface": "השאת",
+      "gloss": "تُسیں ٹٹّھا اے"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "قوم نوں"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اس"
+    },
+    {
+      "surface": "ולירושלם",
+      "gloss": "تے یروشلایم نوں"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ کے"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "امن"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہووےگا"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تہاڈے لئی"
+    },
+    {
+      "surface": "ונגעה",
+      "gloss": "تے پہنچے گی"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "تلوار"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "جان"
+    }
+  ],
+  "timestamp": "2026-10-15T23:35:51.995434316Z",
+  "model": "glm-5.3"
+}

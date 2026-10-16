@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 9:2",
+  "book": "zechariah",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תגבל בה",
+      "rationale": "'اوہدے نال ملےگا \/ اوہدے تے جُڑے گا' — حَمات دمشق دے علاقے نال جُڑن دا مطلب؛ ترجمے 'border thereof' توں 'against it' تک نیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "جانوار",
+      "rationale": "חכמה لفظی طور 'سیانپ' اے — صُور دی دُنیاوی چلاکی، پنجابی 'جانوار' نزدیک پیندا اے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "کال",
+      "rationale": "'اوہ بہت سیانی اے' واضح پنجابی روپ ہو سکدا اے، پر ماخذ دی ٹیسی رکھی"
+    }
+  ],
+  "translation": "تے حَمات وی اوہدے نال ⊃رلے گا؛ تے صُور تے صیدون، بھاویں اوہ بہت جانوار نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "82e04f6d4340b01cc923910d2da33ce2c02af35fc3e94a7de9612cacd178f272",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/zechariah\/9\/2-3.1792124115486.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "تے وی"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "حَمات"
+    },
+    {
+      "surface": "תגבל",
+      "gloss": "⊕ رلے گا"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اوہدے نال"
+    },
+    {
+      "surface": "צר",
+      "gloss": "صُور"
+    },
+    {
+      "surface": "וצידון",
+      "gloss": "تے صیدون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بھاویں"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "جانوار"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بہت"
+    }
+  ],
+  "timestamp": "2026-10-16T04:15:15.487591339Z",
+  "model": "glm-5.3"
+}

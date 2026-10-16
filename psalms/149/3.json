@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 149,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "במחול",
+      "rationale": "'نچّ وِچ' (تھاں دے طور تے) بمقابلہ 'نچّدے ہوئے' (طریقے دے طور تے) — پرانا ترجمہ پہلا، نواں دوجا"
+    }
+  ],
+  "translation": "نچ کے اوہدا ناں سلاوا کرن، ڈھول نال تے ونجھلی نال اوہنوں وجاؤن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "207302da79d7a429801265f61941fcacd9212f46dd4d4d2d5241d922294d54cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/149\/1-4.1792114223677.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "سلاوا کرن"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اوہدا ناں"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "نچ کے"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "ڈھول نال"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "تے ونجھلی نال"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "وجاؤن"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہنوں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:30:23.678743197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 23:7",
+  "book": "joshua",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "دیوتےآں",
+      "rationale": "אלהיהם قومیں دے معبوداں لئی اے — عام لفظ ٹھیک اے، یاہوہ دے ناں والی حالت نئیں۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לא … ולא ×4",
+      "rationale": "چار 'نہ' اِکو تال وِچ — منعی لسٹ دی چار پدوی سٹrutج اے، پنجابی وِچ 'تے نہ' دہرائی نال رکھی۔"
+    },
+    {
+      "kind": "you",
+      "subject": "یِسرائیل",
+      "rationale": "پورا آیت ممنوع حکماں دا خطاب اے۔"
+    }
+  ],
+  "translation": "کہ تسیں ایہناں قومیں وِچ نہ وڑو، ایہناں جو تہاڈے نال ⟨את⟩ رہ گئیاں نیں، تے اوہناں دے دیوتےآں دے ناں نوں نہ چیت کرو، تے نہ اوہناں توں قسم کھاوو، تے نہ اوہناں دی سیوا کرو، تے نہ اوہناں نوں سجدہ کرو۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5f5a2ed8404013cbe60c3c7ed3c6193131bb971a95de5526e700e35030e42703",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joshua\/23\/5-8.1792101304154.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבלתי",
+      "gloss": "کہ نہ"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "وڑو"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "قومیں وِچ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ایہناں"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "رہ گئیاں"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ایہناں"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ تہاڈے نال",
+      "marks": "تہاڈے نال"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "تے ناں"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "اوہناں دے دیوتےآں دا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תזכירו",
+      "gloss": "چیت کرو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תשביעו",
+      "gloss": "قسم کھاوو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תעבדום",
+      "gloss": "اوہناں دی سیوا کرو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תשתחוו",
+      "gloss": "سجدہ کرو"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اوہناں نوں"
+    }
+  ],
+  "timestamp": "2026-10-15T21:55:04.155117563Z",
+  "model": "glm-5.3"
+}

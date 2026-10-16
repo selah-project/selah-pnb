@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 22:29",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨کہ⟩",
+      "rationale": "عبرانی وِچ اے لفظ نئیں، پنجابی جملہ سٹرکچر منگدا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "השפילו",
+      "rationale": "کیہ 'اوہناں نے جھکا دتا' (KJV 'جTable men') یا 'توں نوں جھکا دتا جائے' (JPS 'توں نوں') — ضمیر دا مرجع مخفی اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "גוה",
+      "rationale": "لفظی 'اُچائی\/فخر' اے — ایتھے 'اُچا کیتا جائے' دے طور تے لیا گیا"
+    }
+  ],
+  "translation": "کیونکہ جدوں جھکا دتا جاوے، تے توں آکھیں ⟨کہ⟩ اُچا کیتا جائے، تے جھکیاں ہوئیاں اکھاں والے نوں اوہ بچاؤندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4983a18876d1aff17858b477c1741da9e6f1ce9f4d440f1875880175129c4dae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/22\/29-30.1792115950594.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "השפילו",
+      "gloss": "جھکا دتا جاوے"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "تے توں آکھیں"
+    },
+    {
+      "surface": "גוה",
+      "gloss": "اُچا کیتا جائے"
+    },
+    {
+      "surface": "ושח",
+      "gloss": "جھکیا ہوئیاں"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "اکھاں والے نوں"
+    },
+    {
+      "surface": "יושע",
+      "gloss": "بچاؤندا اے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:59:10.595403780Z",
+  "model": "glm-5.3"
+}

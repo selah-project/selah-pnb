@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 10:21",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩",
+      "rationale": "عبرانی وِچ چangi نئیں؛ پنجابی نوں اشارہ چاہیدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "موت دا پچھا",
+      "rationale": "צלמות پہلی پچھا (سایہ) + موت دا جوڑ اے؛ پنجابی وِچ پورا چتر دینا اوکھا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "کتھے توں",
+      "rationale": "KJV\/JPS 'whence I shall not return' پڑھدے نیں؛ عبرانی صرف 'تے نہ مڑدا' آکھدا اے"
+    }
+  ],
+  "translation": "میں جاواں تے مڑ نہ آواں — اِس توں پہلاں، ⟨اوہ⟩ دھرتی دھرتی ول، جتھے ادھیری تے موت دا پچھا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3cb5fd647e8707cdffffeeba5b8d227593115b29d19a62ad932f8a27c7609f60",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/10\/21-22.1792115633869.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "توں پہلاں"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "میں جاواں"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "مڑ آواں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ول"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "دھرتی"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ادھیری"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "تے موت دا پچھا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:53:53.870088156Z",
+  "model": "glm-5.3"
+}

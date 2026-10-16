@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 9:12",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "سوختہ قربانی",
+      "rationale": "העלה دا مطلب 'چڑھن والی' قربانی اے — پنجابی وِچ روایت پکا لفظ ورتیا"
+    },
+    {
+      "kind": "addition",
+      "subject": "اوہنوں",
+      "rationale": "ויזרקהו وِچ لاحقہ اوہنوں داخل کرن والا اے، پنجابی وِچ وکھ لفظ منگیا"
+    }
+  ],
+  "translation": "تے اوہنے ⟨את⟩ سوختہ قربانی ذبح کیتی، تے اہرون دے پُتراں نے اوہدے کول ⟨את⟩ لہو لیاندا، تے اوہنے اوہنوں قربانی گاہ اُتے چاروں پاسے چھڑکا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "aaad847a22f39bff0395895f94587c598660adf1c3798e31d9160b4edb928c4b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/9\/9-12.1792097569278.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "ذبح کیتی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سوختہ قربانی"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "سوختہ قربانی"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "لیاندا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں نے"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون دے"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اوہدے کول"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لہو"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "لہو"
+    },
+    {
+      "surface": "ויזרקהו",
+      "gloss": "چھڑکا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "قربانی گاہ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چاروں پاسے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:52:49.279401906Z",
+  "model": "glm-5.3"
+}

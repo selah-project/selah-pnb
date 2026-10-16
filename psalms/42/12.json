@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 42:12",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جان-بل اے، صرف 'روح' نئیں"
+    },
+    {
+      "kind": "you",
+      "subject": "اپنی جان نوں",
+      "rationale": "نمازی اپنی ہی جان نوں مخاطب کردا اے — آیت دا ڈھانچہ ایہو اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "میرے چہرے دی نجات",
+      "rationale": "ישועת פני — 'چہرے دی نجات' بمقابلہ 'چہرے دا روشن ہونا'؛ لفظی عبرانی رکھیا"
+    }
+  ],
+  "translation": "میری جان، تُوں کیوں جھُکی ہوئی ایں؟ تے کیوں میرے اُتے ہلچل کردی ایں؟ ایلوہیم لئی اُڈیک کر، کیونجے مَیں ہُن وی اوہدا شکر کراں گا — ⟨اوہ⟩ میرے چہرے دی نجات تے میرا ایلوہیم ⟨اے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "dd0bffdb5820e29ed6499137322efd3aa7881cb0c2854312e051700e8e3994fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/42\/9-12.1792112442750.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "جھُکی ہوئی ایں"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میری جان"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "تے کیوں"
+    },
+    {
+      "surface": "תהמי",
+      "gloss": "ہلچل کردی ایں"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "میرے اُتے"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "اُڈیک کر"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ایلوہیم لئی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ہُن وی"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "اوہدا شکر کراں گا"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "نجت"
+    },
+    {
+      "surface": "פני",
+      "gloss": "میرے چہرے دی"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "تے میرا ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-10-16T01:00:42.751433050Z",
+  "model": "glm-5.3"
+}

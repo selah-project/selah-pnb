@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 27:7",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "شلیم",
+      "rationale": "שלמים 'سلامتی\/پورے پن دی قربانی' اے — 'شلیم قربانی' عبرانی دا نشان اے، 'امن دی قربانی' کہن توں بہتر۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלמות\/שלמים",
+      "rationale": "پچھلی آیت دے سالم پتھراں نال جوڑ — عبرانی وِچ سُریلی واپسی اے۔"
+    }
+  ],
+  "translation": "تے توں شلیم قربانیاں کریں، تے اوتھے کھاوےں، تے یاہوہ اپنے ایلوہیم دے ساہمنے خوش ہووےں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a726ccf7e5c1c3038c01f39bb36aeb21a5be93f8eec6609eb2c047837b2946d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/27\/5-8.1792100323883.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזבחת",
+      "gloss": "تے توں قربانیاں کریں"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "شلیم"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "تے کھاوےں"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اوتھے"
+    },
+    {
+      "surface": "ושמחת",
+      "gloss": "تے خوش ہووےں"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "دے ساہمنے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "اپنے ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-10-15T21:38:43.884850612Z",
+  "model": "glm-5.3"
+}

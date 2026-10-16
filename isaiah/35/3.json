@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 35:3",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "حکم",
+      "rationale": "دو پنجابی حکم قوم نوں کمزوراں نوں تکڑا کرن دا سددے نیں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חזקו\/אמצו",
+      "rationale": "دو وکھرے 'تکڑا کرن' دے فعل، ہتھ تے گوڈیاں لئی — دوہری توازن"
+    }
+  ],
+  "translation": "سُست ہتھاں نوں تکڑیاں کرو، تے کُھہڑدیاں گوڈیاں نوں مضبوط کرو۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5ee87909dddb49cae05685bd3052db40e8e1d4e76ad247954a8e52d4e7d18a19",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/35\/1-4.1792106554315.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "تکڑیاں کرو"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "ہتھاں نوں"
+    },
+    {
+      "surface": "رפות",
+      "gloss": "سُست"
+    },
+    {
+      "surface": "וברכים",
+      "gloss": "تے گوڈیاں نوں"
+    },
+    {
+      "surface": "כשלות",
+      "gloss": "کُھہڑدیاں"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "مضبوط کرو"
+    }
+  ],
+  "timestamp": "2026-10-15T23:22:34.315955324Z",
+  "model": "glm-5.3"
+}

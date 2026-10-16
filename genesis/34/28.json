@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 34:28",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "بھیڈاں",
+      "rationale": "צאן بھیڈاں تے بکریاں دوناں دا جمع اسم اے؛ صرف بھیڈاں تنگ اے پر پنجابی وِچ ایہو نیڑے دا لفظ اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "سب",
+      "rationale": "לקחו دے نال پنجابی واپسی لئی 'سب' دا وادھا کیتا گیا"
+    }
+  ],
+  "translation": "⟨את⟩ اوہناں دیاں بھیڈاں تے ⟨את⟩ اوہناں دے ڈنگر تے ⟨את⟩ اوہناں دے کھوتے، تے ⟨את⟩ جو کجھ شہر وِچ سی تے ⟨את⟩ جو کجھ کھیت وِچ سی، سب لے گئے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f05ef42a7affe51afee7aa91176d2279645e89e1fe1621c25f4f637b2587f4e4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/34\/28-28.1792123195977.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہناں دیاں بھیڈاں"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "اوہناں دیاں بھیڈاں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "اوہناں دے ڈنگر"
+    },
+    {
+      "surface": "בקרם",
+      "gloss": "اوہناں دے ڈنگر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "اوہناں دے کھوتے"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "اوہناں دے کھوتے"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "جو کجھ شہر وِچ سی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو کجھ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "شہر وِچ سی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "جو کجھ کھیت وِچ سی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو کجھ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "کھیت وِچ سی"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "سب لے گئے"
+    }
+  ],
+  "timestamp": "2026-10-16T03:59:55.979490950Z",
+  "model": "glm-5.3"
+}

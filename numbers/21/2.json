@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 21:2",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נתן תתן",
+      "rationale": "لامحض فعل دی دوہرائی 'یقینی دینا' — پنجابی 'سچ مُچی دِتا' نال берابر"
+    },
+    {
+      "kind": "substitution",
+      "subject": "وהחרמתי",
+      "rationale": "חרਮ = حرام کرنا\/مکاؤنا، مکمل بھینٹ — 'مِٹا دیواں' پورا نئیں دسدا"
+    },
+    {
+      "kind": "you",
+      "subject": "نذر",
+      "rationale": "یِسرائیل دا یاہوہ نوں سِدھیا کوآکھیا ہویا نذر"
+    }
+  ],
+  "translation": "تے یِسرائیل نے یاہوہ نوں اک نذر منیا تے آکھیا: جے تُوں ایس ⟨את⟩ قوم نوں سچ مُچی میرے ہتھ وِچ دِتا، تاں میں ⟨את⟩ اوہناں دیاں بیٹھکاں حرام کر دیواں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5a5565236b19cab88eba94ea7deea28af558303e9fb9ad29fdfd29f46756ddd5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/21\/1-4.1792098891168.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידר",
+      "gloss": "نذر منیا"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "اک نذر"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ نوں"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "سچ مُچی"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "دِتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایس قوم نوں"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم نوں"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایس"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "میرے ہتھ وِچ"
+    },
+    {
+      "surface": "והחרמתי",
+      "gloss": "حرام کر دیواں گا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہناں دیاں بیٹھکاں"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "اوہناں دیاں بیٹھکاں"
+    }
+  ],
+  "timestamp": "2026-10-15T21:14:51.169635258Z",
+  "model": "glm-5.3"
+}

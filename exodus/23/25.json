@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 23:25",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اپنے",
+      "rationale": "عبرانی وِچ سرنامہ الف دے بجائے گناندی سرنامہ اے جیہڑا جملے لئی لوڑیدا اے"
+    }
+  ],
+  "translation": "تے تُسیں اپنے ایلوہیم یاہوہ دی سیوا کرو گے، تے اوہ تہاڈی روٹی نوں تے تہاڈے پانی نوں برکت دیوے گا، تے میں بیماری نوں تہاڈے وِچوں ہٹاواں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "09aea98edcf83508f9a87ce90569f2bc5090005b642b125e73dd8042a31f12da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/23\/25-28.1792096739090.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "تے تُسیں سیوا کرو گے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "تُہاڈے ایلوہیم"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "تے اوہ برکت دیوے گا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تُہاڈی روٹی"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "تُہاڈی روٹی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "تُہاڈے پانی"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "تُہاڈے پانی"
+    },
+    {
+      "surface": "והסרתי",
+      "gloss": "تے میں ہٹاواں گا"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "بیماری"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "تُہاڈے وِچوں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:38:59.091244189Z",
+  "model": "glm-5.3"
+}

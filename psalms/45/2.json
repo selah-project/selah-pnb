@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "רחש",
+      "rationale": "رَحَش — تنخ وِچ صرف ایتھے؛ مول 'بلبلاہٹ\/ابھار'، دل وِچوں گل دا اُبلنا۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "ਪੰਜਾਬੀ ਪُرکاش لئی کوپلا 'اے' چاہیدا، عبرانی وِچ نئیں۔"
+    }
+  ],
+  "translation": "میرا دل چنگی گل اُگھڑدا اے، میں آکھدا آں: میرے کم بادشاہ لئی نیں؛ میری بولی اِک چست لکھاری دی قلم ⟨اے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2f0ced1bac9db241d0082f3c5f0d669dda6b700031a2644694911d4ac6ca1979",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/45\/1-4.1792112587486.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "اُگھڑدا اے"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "میرا دل"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گل"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگی"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھدا"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "میرے کم"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "بادشاہ لئی"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "میری بولی"
+    },
+    {
+      "surface": "עט",
+      "gloss": "قلم"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "لکھاری"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "چست"
+    }
+  ],
+  "timestamp": "2026-10-16T01:03:07.487568048Z",
+  "model": "glm-5.3"
+}

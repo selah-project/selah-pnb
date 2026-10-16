@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 13:15",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "איתן",
+      "rationale": "'اٹل\/سخت رہندا اے' (KJ, JPS) بمقابلہ پرانی جانچ 'چِکھڑدا اے \/ برباد ہوندا اے' (LXX, Grotius — جڑ ع-ת-ר توں)"
+    },
+    {
+      "kind": "addition",
+      "subject": "رہندا اے",
+      "rationale": "عبرانی وِچ کوئی فعل نئیں — صفت 'اٹل' اے، پنجابی وچ جملہ مکاؤن لئی فعل پایا"
+    }
+  ],
+  "translation": "چنگی سمجھ فضل دیندی اے، پر غداراں دا راہ اٹل ⟨رہندا اے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bb6c3147f9e08a85b9bcee30626f8eea74e1c97f856cb57d264f358145ecd904",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/13\/13-16.1792114655345.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שכל",
+      "gloss": "سمجھ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگی"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دیندی اے"
+    },
+    {
+      "surface": "חן",
+      "gloss": "فضل"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "پر … راہ"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "غداراں دا"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "اٹل"
+    }
+  ],
+  "timestamp": "2026-10-16T01:37:35.346509670Z",
+  "model": "glm-5.3"
+}

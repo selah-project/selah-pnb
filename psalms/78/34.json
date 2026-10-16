@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 78:34",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "چنگھاڑدے",
+      "rationale": "שחר ਦا مطلب سویر ہونا اے — سویرے سویرے لبھنا؛ پنجابی وِچ چنگھاڑݨ (چانن ویلے لبھݨ) رکھیا۔"
+    }
+  ],
+  "translation": "جد ⟨اوہنے⟩ اوہناں نوں ماریا، تے اوہ اوہنوں لبھدے تے مُڑ کے ایل نوں چنگھاڑدے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2b971d857eeacbd88287acb27b1a30f59104f8a47b10e9f68508965e551653f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/78\/33-36.1792113095494.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جد"
+    },
+    {
+      "surface": "הרגם",
+      "gloss": "اوہناں نوں ماریا"
+    },
+    {
+      "surface": "ודרשוהו",
+      "gloss": "تے اوہنوں لبھدے"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "تے مُڑدے"
+    },
+    {
+      "surface": "ושחרו",
+      "gloss": "تے چنگھاڑدے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    }
+  ],
+  "timestamp": "2026-10-16T01:11:35.495174331Z",
+  "model": "glm-5.3"
+}

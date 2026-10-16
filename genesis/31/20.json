@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "גנב את לב",
+      "rationale": "عبرانی محاورہ 'دل چوری لیا' — چوری دا لفظ 19 آیت دی راحیل دی چوری نال جڑدا اے۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גנב",
+      "rationale": "راحیل تراپیم چوری کردی اے، یعقوو دل چوری کردا اے — اِکو فعل وِچکار، پنجابی وِچ وی ایہو دُہراؤ رکھیا گیا۔"
+    }
+  ],
+  "translation": "تے یعقوو نے اَرامی لابن دا ⟨את⟩ دل چوری لیا، اس گل توں کہ اوہنوں نہ دسیا کہ اوہ بھجّ رہیا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "93367398b5382931a5259cd7a5738d0f05c3f002f2211fd032c21391df57c5f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/31\/17-20.1792095498741.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "چوری لیا"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دل نوں"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لابن"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "اَرامی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اس گل توں"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "بِنا"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "دسے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہنوں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "بھجّدا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    }
+  ],
+  "timestamp": "2026-10-15T20:18:18.742726181Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 12:9",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אף",
+      "rationale": "اُتے دا مطلب نَک اے تے غصہ — 'ناک اُتے آن والا غصہ'، پنجابی وِچ صرف غصہ رہِ گیا"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩",
+      "rationale": "عبرانی وِچ فعل دا کردار ضمیر نال دسیا گیا اے، پنجابی نوں وکھرا ضمیر چاہیدا"
+    }
+  ],
+  "translation": "تے یاہوہ دا غصہ اوہناں اُتے بھڑکیا، تے اوہ ⟨اوہ⟩ ٹُر گیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "04be339c93e097ae88f92da7d36ebf3c14357cadb92c94044ecf0bc05592beca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/12\/9-12.1792098581899.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "تے بھڑکیا"
+    },
+    {
+      "surface": "אף",
+      "gloss": "غصہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دا"
+    },
+    {
+      "surface": "בם",
+      "gloss": "اوہناں اُتے"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "تے ٹُر گیا"
+    }
+  ],
+  "timestamp": "2026-10-15T21:09:41.899968022Z",
+  "model": "glm-5.3"
+}

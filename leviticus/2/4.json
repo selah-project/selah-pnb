@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 2:4",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "بے خمیری",
+      "rationale": "מצה دا مول 'مٹھاس' اے پر مطلب خمیر توں خالی روٹی اے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "תנור",
+      "rationale": "'تندور' دی تھاں 'چُلھا' وی ہو سکدا اے — پر 'تندور' لہندی ریت وچ ودھ ٹھیک"
+    }
+  ],
+  "translation": "تے جدوں تُوں تندور وچ پکائی ہوئی مَنّوحہ دی قربانی پیش کرے، باریک آٹے دی بے خمیری روٹیاں تیل وچ رَلیاں ہوئیاں ہون، تے بے خمیری پتلی روٹیاں تیل لائیاں ہوئیاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1ed7f38f8483914aa16183040be31cb682f3b1ec4df0c29cdc017130667c87c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/2\/1-4.1792097381981.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "تے جدوں"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "تُوں پیش کرے"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "قربانی"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "مَنّوحہ دی"
+    },
+    {
+      "surface": "מאפה",
+      "gloss": "پکائی ہوئی"
+    },
+    {
+      "surface": "תנור",
+      "gloss": "تندور وچ"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "باریک آٹے دی"
+    },
+    {
+      "surface": "חלות",
+      "gloss": "روٹیاں"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "بے خمیری"
+    },
+    {
+      "surface": "בלולת",
+      "gloss": "رَلیاں ہوئیاں"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "تیل وچ"
+    },
+    {
+      "surface": "ורקיקי",
+      "gloss": "تے پتلی روٹیاں"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "بے خمیری"
+    },
+    {
+      "surface": "משחים",
+      "gloss": "تیل لائیاں ہوئیاں"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "تیل"
+    }
+  ],
+  "timestamp": "2026-10-15T20:49:41.982889289Z",
+  "model": "glm-5.3"
+}

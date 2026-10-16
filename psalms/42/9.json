@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 42:9",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨دا حکم⟩",
+      "rationale": "یומם یצוה دو ٹوکن نیں پر پنجابی وِچ 'حکم دینا' دو لفظ منگدا اے"
+    },
+    {
+      "kind": "you",
+      "subject": "نمازی",
+      "rationale": "آیت مَیں-صیغے وِچ یاہوہ نال گل اے پر کسے دوجے نوں مخاطب نئیں"
+    }
+  ],
+  "translation": "دِن ویلے یاہوہ اپنی خیسِد ⟨دا حکم⟩ دیندا اے، تے رات وِچ ⟨اوہدا⟩ گیت میرے نال ⟨اے⟩، دُعا ایل ⟨کول⟩ جو میری جان دا ⟨اے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "dd0bffdb5820e29ed6499137322efd3aa7881cb0c2854312e051700e8e3994fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/42\/9-12.1792112442750.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "دِن ویلے"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "حکم دیندا اے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "اپنی خیسِد"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "تے رات وِچ"
+    },
+    {
+      "surface": "שירה",
+      "gloss": "گیت"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "میرے نال"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "دُعا"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ایل ⟨کول⟩"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "میری جان دا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:00:42.750884750Z",
+  "model": "glm-5.3"
+}

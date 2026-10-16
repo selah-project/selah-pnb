@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 72:15",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨لوک⟩",
+      "rationale": "عبرانی وِچ فعل دی کوئی نئیں دسی؛ پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "دعا اوہدے لئی",
+      "rationale": "ויתפלל دیاں دونوں سچائیاں — 'اوہ دعا کرے (اوہناں لئی)' جاں 'اوہدے لئی دعا کیتی جاوے'"
+    }
+  ],
+  "translation": "تے اوہ جیوے، تے اوہنوں شِبا دا سونا دتا جاوے، تے اوہدے لئی ہمیشہ دعا کیتی جاوے، سارا دن ⟨لوک⟩ اوہنوں برکت دیون۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "af32cd9fb2b8939ad65613025edd74cfd05d123041b1a254e9037257e399f37e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/72\/13-16.1792112949710.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "تے اوہ جیوے"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "تے دتا جاوے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہنوں"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "سونا"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "شِبا دا"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "تے دعا کیتی جاوے"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "اوہدے لئی"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "יברכנהו",
+      "gloss": "اوہنوں برکت دیون"
+    }
+  ],
+  "timestamp": "2026-10-16T01:09:09.711263171Z",
+  "model": "glm-5.3"
+}

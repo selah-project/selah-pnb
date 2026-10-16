@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 14:1",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ליהוה…אלהיכם",
+      "rationale": "عبرانی وِچ کوئی کاپلا نئیں؛ پنجابی نوں 'دے' چاہیدا اے پر جُڑے حالت نے ⟨⟩ توں باہر رکھیا گیا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "קרחה",
+      "rationale": "'گنج' — اِدھر مراد اکھاں دے وِچکار (پراں اُتے) والا مُونڈھانا اے، سر دا سارا گنج نئیں"
+    },
+    {
+      "kind": "you",
+      "subject": "یِسرائیل نوں",
+      "rationale": "خطاب اِسرائیل نوں — تُسیں\/تُہاڈے دا چلدا خطاب"
+    }
+  ],
+  "translation": "تُسیں یاہوہ اپنے ایلوہیم دے پُتر نیں؛ اپنے آپ نوں نہ وَڈھو تے مُریاں دے لئی اپنیاں اکھاں دے وِچکار ⟨گنج⟩ نہ بناؤ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "04ef3a08525212de66191003461017c55080fb274ec431eedec4f533c64587e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/14\/1-4.1792099940020.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تُسیں"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ لئی"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "تُہاڈے ایلوہیم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתגדדו",
+      "gloss": "اپنے آپ نوں وَڈھو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תשימו",
+      "gloss": "بناؤ"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "⟨گنج⟩"
+    },
+    {
+      "surface": "בין",
+      "gloss": "وِچکار"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "تُہاڈیاں اکھاں دے"
+    },
+    {
+      "surface": "למת",
+      "gloss": "مُریاں دے لئی"
+    }
+  ],
+  "timestamp": "2026-10-15T21:32:20.021333016Z",
+  "model": "glm-5.3"
+}

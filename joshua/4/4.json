@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 4:4",
+  "book": "joshua",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "ماضی دا معاون فعل جیہڑا عبرانی وِچ نئیں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "איש אחד איש אחד",
+      "rationale": "دوہرا اکھان رکھیا گیا، آیت 2 ورگا"
+    }
+  ],
+  "translation": "تے یہوشُواع نے اُنہاں باراں بندیاں نوں سدیا جنہاں نوں اوہنے یِسرائیل دے پُتراں وِچوں تیار کیتا سی، اِک بندا اِک بندا ہر قبیلیے توں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "302add0f9dd61a390f8ff10f9c6e7521801e07ce2c4614323c71999dbfbaea87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joshua\/4\/1-4.1792100781099.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "تے سدیا"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یہوشُواع نے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "باراں ⟨دو⟩"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "⟨-یاں⟩ ⟨دس⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندیاں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنہاں نوں"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "تیار کیتا"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "پُتراں وِچوں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل دے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "اِک بندا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "اِک"
+    },
+    {
+      "surface": "איש",
+      "gloss": "اِک بندا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "اِک"
+    },
+    {
+      "surface": "משבט",
+      "gloss": "قبیلیے توں"
+    }
+  ],
+  "timestamp": "2026-10-15T21:46:21.101260108Z",
+  "model": "glm-5.3"
+}

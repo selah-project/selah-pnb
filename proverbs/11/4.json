@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 11:4",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "غصہ",
+      "rationale": "عبررہ ⟨عِبرہ⟩ پرتشدد پھٹّ اے — 'غصہ' دا عام لفظ، پر 'ورتھی' بھاوَ دا پکھ رکھیا اے"
+    }
+  ],
+  "translation": "غصے دے دن مال کوئی کم نئیں آؤندا، تے راستبازی موت توں بچاؤندی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "63d83c8e6d48e81c570f6aa8664cb0f6a93bb39b9ba2312fbfca03e5d2e79420",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/11\/1-4.1792114674397.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "کوئی کم آؤندا"
+    },
+    {
+      "surface": "הון",
+      "gloss": "مال"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "غصے دے"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "تے راستبازی"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "بچاؤندی اے"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "موت توں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:37:54.398114227Z",
+  "model": "glm-5.3"
+}

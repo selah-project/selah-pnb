@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דרשו",
+      "rationale": "کتاب-متن דרשו ('اوہ کھوندی اے') تے قرأت דרשי ('اوہ کھوندے نیں') — مترجم ونڈے ہوئے نیں۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "יעקב",
+      "rationale": "یعقوو پکاریا گیا اے، نوں، جاں 'یعقوو ⟨دی پیڑھی⟩' — KJV\/BSB ونڈوے نیں۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "اوہدے نوں",
+      "rationale": "عبرانی وِچ דרשו دی مفعول لکھی نئیں، پنجابی جملہ منگدا اے۔"
+    }
+  ],
+  "translation": "ایہہ اے اوہ پیڑھی جیہڑی ⟨اوہدے نوں⟩ کھوجدی اے، اوہناں دا جیہڑے تیرا چہرہ منگدے نیں — یعقوو۔ سِلاہ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6f551de92922aac10d996a88c62ddc366ac90a7bf740575a5aa3540fdeac51f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/24\/5-8.1792112201598.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "پیڑھی"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "کھوجدی اے"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "منگدے نیں"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "تیرا چہرہ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سِلاہ"
+    }
+  ],
+  "timestamp": "2026-10-16T00:56:41.599533981Z",
+  "model": "glm-5.3"
+}

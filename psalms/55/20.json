@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 55:20",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חליפות",
+      "rationale": "'بدلاؤ' — کجھ مترجم ایہنوں 'موت' لیندے نیں (لودھی خانداناں دی تبدیلی)، کجھ 'توبہ\/بدلو'؛ تصویر اوہنا دا اَڑ جانا اے۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "וישב קדם",
+      "rationale": "'پرانے توں بیٹھدا اے' — تخت اُتے بیٹھن والے دی تصویر؛ KJV 'رہندا اے'، JPS 'تخت اُتے اے'۔"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "سنگیت دا وقفہ — نشان طور رکھیا گیا، ترجمہ نئیں۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨کیونجے⟩",
+      "rationale": "عبرانی صرف אשر رکھدا اے؛ پنجابی وجوں منگدا اے۔"
+    }
+  ],
+  "translation": "ایل سُنیگا تے اوہناں نوں دباؤنگا، جیہڑا پرانے توں ⟨بیٹھدا⟩ اے۔ سِلاہ। ⟨کیونجے⟩ اوہناں لئی کوئی بدلاؤ نئیں، تے اوہ ایلوہیم توں نئیں ڈردے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "06c244c0473a8c3ba724d7d1b2747a147f2a7ca54e3fca27b5f58876db31d6b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/55\/20-20.1792124191158.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "سُنیگا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "تے اوہناں نوں دباؤنگا"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "جیہڑا بیٹھدا اے"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "پرانے توں"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سِلاہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨کیونجے⟩ جو"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "کوئی بدلاؤ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "اوہناں لئی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ڈردے"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم توں"
+    }
+  ],
+  "timestamp": "2026-10-16T04:16:31.158734421Z",
+  "model": "glm-5.3"
+}

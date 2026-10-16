@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 14:7",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨کم⟩",
+      "rationale": "עשה اِک اَ一根 کرن والا فعل اے، پنجابی نوں مفعول چاہیدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ענו בנו",
+      "rationale": "پُچھا-جواب دا انداز اے — ساڈے خلاف جواب دینا؛ گواہی دینا(ctx دا قریبی مطلب)"
+    },
+    {
+      "kind": "you",
+      "subject": "یاہوہ",
+      "rationale": "سدھی مخاطبت — قوم یاہوہ نوں پکاردی اے"
+    }
+  ],
+  "translation": "اگر ساڈیاں بدکاریاں ساڈے خلاف گواہی دیندیاں نیں، یاہوہ اے، اپنے ناں لئی ⟨کم⟩ کر، کیوں جو ساڈیاں مُڑ-موڑیاں بہوں نیں؛ تیرے خلاف اسیں پاپ کیتا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e018ed08d285cc275625b5270a596a90e306718eb9ff1b275c9be7e6c2fa7321",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/14\/5-8.1792107656134.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "עונינו",
+      "gloss": "ساڈیاں بدکاریاں"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "گواہی دیندیاں نیں"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ساڈے خلاف"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کر"
+    },
+    {
+      "surface": "למען",
+      "gloss": "لئی"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "تیرا ناں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "بہوں نیں"
+    },
+    {
+      "surface": "משובתינו",
+      "gloss": "ساڈیاں مُڑ-موڑیاں"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیرے خلاف"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "پاپ کیتا اے"
+    }
+  ],
+  "timestamp": "2026-10-15T23:40:56.135788463Z",
+  "model": "glm-5.3"
+}

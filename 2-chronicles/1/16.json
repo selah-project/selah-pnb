@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 1:16",
+  "book": "2-chronicles",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ומקוא \/ מקוא",
+      "rationale": "KJV ‘کتّے دا دھاگہ’ پڑھدا اے، YLT\/ASV ‘کِوّہ’ تھاں دا ناں — تھاں والا پڑھائی پکی اے کیوں جو دوجی واری ਮקוא مُڈھ دا الا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨گھوڑ⟩",
+      "rationale": "عبرانی ‘لَے جاندے سن’ وِچ مفعول لکھیا نئیں، پنجابی نوں صاف کرن لئی پایا"
+    }
+  ],
+  "translation": "تے شلوموہ دے گھوڑیاں دا نِکاس مِتصرایم توں سی تے کِوّہ توں؛ بادشاہ دے سوداگر کِوّہ توں ⟨گھوڑ⟩ مُل پا کے لَے جاندے سن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b522cde81c7d4a1fae2e0916c314ca6b3c0a090920620ba3779150bcae1ea46d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/1\/13-16.1792121442937.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומוצא",
+      "gloss": "تے نِکاس"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "گھوڑیاں دا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "شلوموہ دے"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "مِتصرایم توں"
+    },
+    {
+      "surface": "ומקוא",
+      "gloss": "تے کِوّہ توں"
+    },
+    {
+      "surface": "סחרי",
+      "gloss": "سوداگر"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ دے"
+    },
+    {
+      "surface": "מקוא",
+      "gloss": "کِوّہ توں"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "لَے جاندے سن"
+    },
+    {
+      "surface": "במחיר",
+      "gloss": "مُل پا کے"
+    }
+  ],
+  "timestamp": "2026-10-16T03:30:42.938743739Z",
+  "model": "glm-5.3"
+}

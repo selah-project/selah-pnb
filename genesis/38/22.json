@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 38:22",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "قادیشاہ",
+      "rationale": "קדשה جڑ ק-ד-ש 'مقدس' توں اے — مقدس ودیالی زناکارن؛ 'ہر عام زناکارن' (זונה) توں وکھرا لفظ اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "کوئی",
+      "rationale": "عبرانی وِچ ننگا نفی اے؛ پنجابی جملے لئی 'کوئی' پایا گیا"
+    }
+  ],
+  "translation": "تے اوہ مُڑ کے یہوداہ کول آیا تے آکھیا: میں اوہنوں نئیں لبھیا؛ تے اُس تھاں دے بندیاں نے وی آکھیا: اِتھے کوئی قادیشاہ ⟨زناکارن⟩ نئیں رئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "cadafa1b0f90b593746194ab945396ee1031a62ec993ab571064caed20f16748",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/38\/22-23.1792123240841.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "مُڑ کے آیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "מצאתיה",
+      "gloss": "اوہنوں لبھیا"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "تے وی"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "بندیاں"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "اُس تھاں دے"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "رئی"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "اِتھے"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "قادیشاہ ⟨زناکارن⟩"
+    }
+  ],
+  "timestamp": "2026-10-16T04:00:40.842273758Z",
+  "model": "glm-5.3"
+}

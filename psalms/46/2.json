@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 46:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "عبرانی وِچ کوئی فعل ربط نئیں؛ پنجابی جملہ ⟨اے⟩ منگدا اے۔"
+    }
+  ],
+  "translation": "ایلوہیم ساڈے لئی ⟨اے⟩ پناہ تے طاقت، مصیبتاں وِچ بہُوں مِلݨ والی مدد۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e381cb8fb4f044d1d19f379d27980836baee6048f2d738c22d0e88aa35a92f92",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/46\/1-4.1792112551156.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ساڈے لئی"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "پناہ"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "تے طاقت"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "مدد"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "مصیبتاں وِچ"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "مِلدی اے"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بہُوں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:02:31.157398917Z",
+  "model": "glm-5.3"
+}

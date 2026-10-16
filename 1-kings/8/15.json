@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 8:15",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ایہہ⟩",
+      "rationale": "מלא دا مفعول عبرانی وِچ دسیا نئیں — پنجابی جملہ اوہدا ناں منگدا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "לאמר",
+      "rationale": "'آکھدا ہویا' — حوالہ ماضی دی گل ول اے یا آن والی تعریف ول؛ مترجم وکھرے جوڑدے نیں"
+    }
+  ],
+  "translation": "تے اوہنے آکھیا: برکت والا اے یاہوہ، یِسرائیل دا ایلوہیم، جیہنے اپنے مونہہ نال ⟨את⟩ میرے پیو داوِد نال گل کیتی تے اپنے ہتھ نال ⟨ایہہ⟩ پورا کیتا، آکھدا ہویا:",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c3d0130d287b0e0a8f8d4a70538f2d252f0949e271b0a9ca0562899dee6ad96d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/8\/14-15.1792123622816.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے اوہنے آکھیا"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "برکت والا اے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل دا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہنے"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گل کیتی"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "اپنے مونہہ نال"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میرے پیو داوِد"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "میرے پیو"
+    },
+    {
+      "surface": "ובידו",
+      "gloss": "تے اپنے ہتھ نال"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "پورا کیتا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھدا ہویا"
+    }
+  ],
+  "timestamp": "2026-10-16T04:07:02.817162880Z",
+  "model": "glm-5.3"
+}

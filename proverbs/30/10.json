@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 30:10",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "پڑھن والے نوں",
+      "rationale": "منفی حکم سِدھا مخاطب نوں: نَوکر بارے زبان نہ لائے کر"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ہلکا کرے",
+      "rationale": "קלל دا مول مطلب 'ہلکا کرنا' اے؛ لعنت\/تحقیر اوہدی گھٹنی تھاں اے — ایتھے مول مطلب رکھیا"
+    }
+  ],
+  "translation": "نَوکر اُتے اوس دے مالک کول زبان نہ لائے کر، نہ جو اوہ تینوں ہلکا کرے تے توں ملزم ٹھہریں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d343f7d21d47d0dcc93b15c7d598a54b798a382d73f2a82b16355da7cfbe58d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/30\/9-12.1792115234945.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תלשן",
+      "gloss": "زبان لائے کر"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "نَوکر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "אדנו",
+      "gloss": "اوس دے مالک ⟨تے⟩"
+    },
+    {
+      "surface": "פן",
+      "gloss": "نہ جو"
+    },
+    {
+      "surface": "יקללך",
+      "gloss": "تینوں ہلکا کرے"
+    },
+    {
+      "surface": "ואשמת",
+      "gloss": "تے توں ملزم ٹھہریں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:47:14.945941612Z",
+  "model": "glm-5.3"
+}

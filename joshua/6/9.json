@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 6:9",
+  "book": "joshua",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "המאסף",
+      "rationale": "لیما 'اکٹھا کرن والا' — 'پچھے آن والا دستہ' (ریئر گارڈ) دا تصور؛ لفظ دا مُڈھلا چِتر 'جمع کرن والا' اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨دی⟩ ⟨دا⟩",
+      "rationale": "عبرانی אחרי\/לפני نال جُڑے تعلق دی اِزارت لئی پنجابی اِزارت منگدی اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הלך הלך הלוך",
+      "rationale": "ہالک فعل دی تن واری دوہرائت — ٹردا رہیا \/ ٹردے — رفتار دا مسلسل دہراؤ اے"
+    }
+  ],
+  "translation": "تے ہتھیاربند دستہ کاہناں ⟨دی⟩ اگے ٹردا رہیا، شوپھراں نوں وڄاندے، تے پچھے آن والا دستہ صندوق ⟨دا⟩ مگروں ٹردا رہیا، ٹردے تے شوپھراں وِچ وڄاندے رہے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "394fc078a3e4aedf636a5f5ce1cfef312692e2f6f9914fc4cf641908e055cffb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joshua\/6\/9-12.1792100734995.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והחלוץ",
+      "gloss": "تے ہتھیاربند دستہ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ٹردا رہیا"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اگے"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاہناں ⟨دی⟩"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "وڄاندے"
+    },
+    {
+      "surface": "השופרות",
+      "gloss": "شوپھراں نوں"
+    },
+    {
+      "surface": "והמאסף",
+      "gloss": "تے پچھے آن والا دستہ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ٹردا رہیا"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "مگروں"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "صندوق ⟨دا⟩"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "ٹردے"
+    },
+    {
+      "surface": "ותקוע",
+      "gloss": "تے وڄاندے"
+    },
+    {
+      "surface": "בשופרות",
+      "gloss": "شوپھراں وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T21:45:34.995667923Z",
+  "model": "glm-5.3"
+}

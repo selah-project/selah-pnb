@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 5:17",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתך",
+      "rationale": "عبرانی 'نال' والا اِت اے، مفعول دا نشان نئیں، ایس لئی صرف ⟨את⟩ نشان دے نال 'نال' چھُپا دتا"
+    },
+    {
+      "kind": "you",
+      "subject": "to the son",
+      "rationale": "پتر نوں سدیا گیا سِدھی گل، اوپریاں توں ہٹ کے رہن دی ہدایت"
+    }
+  ],
+  "translation": "اوہ تیرے ہون، صرف تیرے اپنے، تے اوپریاں ⟨دے⟩ نال نہ ہون۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "cb5e11857aa1f8d623275b7be3c8a68dc344c55192ad1865286b7a8f31939512",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/5\/17-20.1792114427883.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ہون"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیرے"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "صرف تیرے اپنے"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "اوپریاں نوں"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "تیرے نال"
+    }
+  ],
+  "timestamp": "2026-10-16T01:33:47.884351073Z",
+  "model": "glm-5.3"
+}

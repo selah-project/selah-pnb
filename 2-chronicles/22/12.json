@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 22:12",
+  "book": "2-chronicles",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "چھ سال",
+      "rationale": "چھپے رہن دی میعاد گِنی گئی اے — یِہوآش دی عمر تے عَتَلیاہو دے راج دی ونڈ۔"
+    },
+    {
+      "kind": "elision",
+      "subject": "הוא (یِہوآش)",
+      "rationale": "عبرانی صرف کم کردا اے؛ کردار دا ناں پچھلی آیت توں آندا اے۔"
+    }
+  ],
+  "translation": "تے ⟨את⟩ اوہناں نال اوہ ایلوہیم دے گھر وِچ چھ سال لُکیا رہیا، تے عَتَلیاہو دھرتی اُتے بادشاہی کردی رہی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c09938c0c2352b3e1eb16fa77ca221ecea3486b7c8c4b20815322acb56e2e0d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/22\/9-12.1792122429972.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے ہویا"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "اوہناں نال"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "گھر وِچ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم دے"
+    },
+    {
+      "surface": "מתחבא",
+      "gloss": "لُکیا ہویا"
+    },
+    {
+      "surface": "שש",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ועתליה",
+      "gloss": "تے عَتَلیاہو"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "بادشاہی کردی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "دھرتی"
+    }
+  ],
+  "timestamp": "2026-10-16T03:47:09.974099793Z",
+  "model": "glm-5.3"
+}

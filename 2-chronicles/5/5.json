@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 5:5",
+  "book": "2-chronicles",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "صندوق",
+      "rationale": "ארון دی سِدھی شکل 'ڈبہ\/صندوق' اے؛ 'تابوت' ریتاں دا لفظ اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "سن",
+      "rationale": "عبرانی وِچ فعل دوجی واری نئیں، 'جو خیمے وِچ سن' توں بعد کریا پوری کرن لئی"
+    }
+  ],
+  "translation": "تے اوہناں صندوق نوں چُکیا، تے ⟨את⟩ خیمے نوں جتھے مِلوائی دا اے، تے ⟨את⟩ سارے پوتر ساز سن جو خیمے وِچ سن — اوہناں نوں کاہن لاویاں نے چُکیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3f938b32a4b31e42c83a9334b9c84d6b1548fa0639962a2da62cc8ec3c58611d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/5\/5-8.1792121682519.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "چُکیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صندوق"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "خیمہ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمہ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "مِلوائی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "سارے پوتر ساز"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ساز"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "پوتر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "خیمے وِچ"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "چُکیا"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "اوہناں نوں"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاہناں"
+    },
+    {
+      "surface": "ہלוیم",
+      "gloss": "لاویاں"
+    }
+  ],
+  "timestamp": "2026-10-16T03:34:42.520538964Z",
+  "model": "glm-5.3"
+}

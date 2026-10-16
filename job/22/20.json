@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 22:20",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ساڈے",
+      "rationale": "קימנו دی جمع پچھوکی وِچ، پنجابی وِچ ضمیر چاہیدی اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "קימנו",
+      "rationale": "'ساڈے ویری' (ASV) بمقابلہ 'اوہناں دا مال' (JPS: substance) — شکل 'قیما' اوہناں دا سامان وی ہو سکدا اے"
+    },
+    {
+      "kind": "hapax",
+      "subject": "קימנו",
+      "gloss_source": "lemma קִים",
+      "rationale": "קים ایس روپ وِچ تنخ وِچ بہت گھٹ آندا اے"
+    }
+  ],
+  "translation": "⟨کیا⟩ ساڈے ویری نئیں مِٹا دِتے گئے، اتے اوہناں دا بچیا کھچھا اگّ کھا گئی اے؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5604adf21904d7e7c69009cec48db614adb6fdd8e0cb30c73d57b097fca58d86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/22\/17-20.1792115944829.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "⟨کیا⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "مِٹا دِتے گئے"
+    },
+    {
+      "surface": "קימנו",
+      "gloss": "ساڈے ویری"
+    },
+    {
+      "surface": "ויתרם",
+      "gloss": "اتے اوہناں دا بچیا کھچھا"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "کھا گئی اے"
+    },
+    {
+      "surface": "אש",
+      "gloss": "اگّ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:59:04.830415025Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "حکم دی شکل",
+      "rationale": "عبرانی دی کوئی ایمانداری نئیں، پنجابی وِچ کوئی راہ دسنی پئی — کوٹ کرن والی گل اے۔"
+    }
+  ],
+  "translation": "تے یِسرائیل دے پُتر فسح ⟨את⟩ اوہدے مقرر ویلے اُتے کرن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ce9e7835df5b90f08726f5addab408b39b5709056e758b0bffd17ea91f56ee3a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/9\/1-4.1792098557199.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "تے کرن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "فسح"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "فسح"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "اوہدے مقرر ویلے اُتے"
+    }
+  ],
+  "timestamp": "2026-10-15T21:09:17.200642430Z",
+  "model": "glm-5.3"
+}

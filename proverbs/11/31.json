@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 11:31",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "کجھ زیادہ تاں",
+      "rationale": "אַף כִּי دا اگلا مطلب 'کِتے زیادہ' — پنجابی جملے لئی وضاحت درکار"
+    },
+    {
+      "kind": "crux",
+      "subject": "بدلہ",
+      "rationale": "יְשֻׁלָּם — 'بدلہ پاؤندا اے' (سزا یا انعام) دا 'پورا ہووےگا'؛ سیاق ۱ peter 4:18 وچ وی ایہو گل"
+    }
+  ],
+  "translation": "ویکھو، نیائے والا دھرتی اُتے بدلہ پاؤندا اے، کجھ زیادہ تاں بدکار تے گناہگار!",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "738265098498f9a90c008ce173b3bcf8c2ec1e374fdb0f5954fe98d77e23d816",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/11\/29-31.1792114658085.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ویکھو"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "نیائے والا"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "دھرتی اُتے"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "بدلہ پاؤندا اے"
+    },
+    {
+      "surface": "אף",
+      "gloss": "کجھ زیادہ تاں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "! ⟨کِتے زیادہ⟩"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "تے گناہگار"
+    }
+  ],
+  "timestamp": "2026-10-16T01:37:38.086572980Z",
+  "model": "glm-5.3"
+}

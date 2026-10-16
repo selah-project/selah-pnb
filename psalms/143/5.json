@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 143:5",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 143,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "سوچ وِچار",
+      "rationale": "אשוחח دا مُڈھلا مطلب اے آپ نال گل کرنا \/ سرگوشی، پنجابی وِچ سوچ وِچار دا بھار آیا"
+    },
+    {
+      "kind": "crux",
+      "subject": "مِקֶּדֶם",
+      "rationale": "مقدّم دا مطلب 'پہلاں دے دِن' یا 'پورب دِناں' — ویہار وِچ 'پرانے دِن' اے"
+    }
+  ],
+  "translation": "مینوں پرانیاں گلاں یاد آئیاں نیں؛ اَجیہے دِناں نوں میں یاد کیتا، تُورے توں پہلاں دے دِن؛ تیرے سارے کماں وِچ میں گوڑیاں کیتیاں؛ تیرے ہتھاں دے کم وِچ میں سوچ وِچار کردا واں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8819e593b95d1e83a7c349f50670be0586c1116177939e61aeaa365cf3685927",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/143\/5-8.1792114188417.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "میں یاد کیتا"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دِناں نوں"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "پہلاں دے"
+    },
+    {
+      "surface": "הגיתי",
+      "gloss": "میں گوڑیاں کیتیاں"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "تیرے سارے"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "کماں وِچ"
+    },
+    {
+      "surface": "במעשה",
+      "gloss": "کم وِچ"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "تیرے ہتھاں دے"
+    },
+    {
+      "surface": "אשוחח",
+      "gloss": "میں سوچ وِچار کردا واں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:29:48.417711536Z",
+  "model": "glm-5.3"
+}

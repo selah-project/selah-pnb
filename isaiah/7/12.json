@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 7:12",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "آزمایا",
+      "rationale": "נסה = پرکھن\/تکلیف دینا؛ 'آزمایا' سب توں نیڑے اے پر 'بھروسہ توں جنجائے' دا سواد ہلکا ہو جاندا اے"
+    }
+  ],
+  "translation": "تے اکھز نے آکھیا: میں منگ نئیں سکدا، تے یاہوہ نوں ⟨את⟩ آزمایا نئیں کراں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c98f078f313b73a8784c949650af5c89516139d3e118f10f31c027a8ad8ee195",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/7\/9-12.1792105841902.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے … آکھیا"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "اکھز نے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "אשאל",
+      "gloss": "میں منگ سکدا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "אנסה",
+      "gloss": "میں آزمایا کراں گا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-10-15T23:10:41.903182404Z",
+  "model": "glm-5.3"
+}

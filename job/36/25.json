@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 36:25",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "پنجابی وچ مددی فعل چاہیدا اے، عبرانی وِچ صیغہ ای کافی اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אדם\/אנוש",
+      "rationale": "آدمی تے بنیاں دی سنونت并行یت — عبرانی دی سمتی واروالی پنجابی وِچ رہندی اے"
+    }
+  ],
+  "translation": "سارا آدمی اے اوہنوں ویکھیا اے، بنیاں دوروں تکدا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9d0e647d59e2a844a09e99bb31d08222085fe8af42eb0c519d346a2c21dfc3ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/36\/25-28.1792116355712.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "ویکھیا اے"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوہنوں"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "بنیاں"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "تکدا اے"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "دوروں"
+    }
+  ],
+  "timestamp": "2026-10-16T02:05:55.712954306Z",
+  "model": "glm-5.3"
+}

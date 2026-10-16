@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 68:15",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "תשלג",
+      "rationale": "لفظی 'برف پیندی اے' — قتل دے سُوہݨے کپڑیاں دی سفیدی دا اشارہ، ایتھے 'برف ورگا سفید' رکھیا"
+    },
+    {
+      "kind": "crux",
+      "subject": "בפרש שדי",
+      "rationale": "'جد شدّای کھِنڈاؤندا اے' بمقابلہ 'برف دے پراں نال' (פרש חלקיקות שלג) — کجھ مفسر برف دی پھٹکی دا پڑھدے نیں"
+    }
+  ],
+  "translation": "جد شدّای اوتھے بادشاہواں نوں کھِنڈا دندا اے، ⟨اوہ⟩ صلمون وِچ برف ورگا سفید ہو جاندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "332e26d3e902df686a11d308ceb207dbff09942d7d48b00832af7ed49536235d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/68\/13-16.1792112872506.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בפרש",
+      "gloss": "کھِنڈا دندا اے"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "شدّای"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "بادشاہواں نوں"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اوتھے"
+    },
+    {
+      "surface": "תשלג",
+      "gloss": "برف ورگا سفید ہو جاندا اے"
+    },
+    {
+      "surface": "בצלמון",
+      "gloss": "صلمون وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:07:52.507843829Z",
+  "model": "glm-5.3"
+}

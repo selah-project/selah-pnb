@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 22:16",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מאן ימאן",
+      "rationale": "ماضی مطلق دا دہراؤ — 'پکّے پکّا منع کرے' — عبرانی دا زور دین دا ول۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "چاندی تولنا",
+      "rationale": "مہر دا پیسہ تولن دی ریت — وزن نال ادائیگی۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "آیت دی گنتی",
+      "rationale": "KJV وِچ ایہہ 22:17 اے؛ عبرانی متن وِچ 16ویں آیت اے۔"
+    }
+  ],
+  "translation": "جے اوہدا پیو پکّے پکّا منع کرے کہ اوہنوں اوہدے ہتھ نہ دتا جاوے، تاں اوہ کنواریاں دے مہر باجوں چاندی تول دےوے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "dbfb1c578c3168f2288e95847263f2e33eaea289897796e79e8ac31cea707c06",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/22\/13-16.1792096743365.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "پکّے پکّا"
+    },
+    {
+      "surface": "ימאן",
+      "gloss": "منع کرے"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "اوہدا پیو"
+    },
+    {
+      "surface": "לתתה",
+      "gloss": "کہ اوہنوں دتا جاوے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدے ہتھ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندی"
+    },
+    {
+      "surface": "ישקל",
+      "gloss": "تول دےوے"
+    },
+    {
+      "surface": "כמהر",
+      "gloss": "مہر باجوں"
+    },
+    {
+      "surface": "הבתולת",
+      "gloss": "کنواریاں دے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:39:03.366376821Z",
+  "model": "glm-5.3"
+}

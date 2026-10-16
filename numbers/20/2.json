@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 20:2",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על",
+      "rationale": "'عَل' دا مطلب 'اُتے' اے؛ سیاق وِچ 'دے خلاف' — اِکٹھے ہو کے مقابلہ"
+    }
+  ],
+  "translation": "تے مجمع لئی پانی نئیں سی، تے اوہ موشے دے خلاف تے اہرون دے خلاف اِکٹھے ہوئے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a3a2ca00832cf7147da871aaf6dee075e2dfc0e4f47759e3ee8c3f432fc0c18b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/20\/1-4.1792098909718.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "היה",
+      "gloss": "سی"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پانی"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "مجمع لئی"
+    },
+    {
+      "surface": "ויקהלו",
+      "gloss": "تے اِکٹھے ہوئے"
+    },
+    {
+      "surface": "על",
+      "gloss": "خلاف"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "تے خلاف"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    }
+  ],
+  "timestamp": "2026-10-15T21:15:09.719013359Z",
+  "model": "glm-5.3"
+}

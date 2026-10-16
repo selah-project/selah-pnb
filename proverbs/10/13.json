@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 10:13",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חסר־לב",
+      "rationale": "لفظی 'دل دا گھاٹا' — پنجابی وِچ 'دل توں سُکيا' آکھیا اے، تصویر کجھ گھٹ صاف اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חכמה\/שבט",
+      "rationale": "دانائی تے چھڈی دی اُلٹ گنتی — ہونٹھ برابر پٹھّ — پنجابی وِچ وژن رہ جاندا اے"
+    }
+  ],
+  "translation": "سمجھدار دے ہونٹھاں اُتے دانائی لبھی جاندی اے، تے دل توں سُکیاں دی پٹھّ لئی چھڈی مار اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3327ddd08224dd2b01ba9ebc43fe55f4beea596d03ea59b3aef588bb4393e959",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/10\/13-16.1792114574676.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשפתי",
+      "gloss": "ہونٹھاں اُتے"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "سمجھدار دے"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "لبھی جاندی اے"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "دانائی"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "تے چھڈی"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "پٹھّ لئی"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "توں سُکیاں"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    }
+  ],
+  "timestamp": "2026-10-16T01:36:14.676512983Z",
+  "model": "glm-5.3"
+}

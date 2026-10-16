@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩",
+      "rationale": "عبرانی وِچ ضمیر نئیں، پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "ونڈ کیتی",
+      "rationale": "בדל فعل اے 'وکھرا کیتا' — وِچکار…وِچکار دی دہرائی پنجابی وِچ ونڈ نال پوری ہوئی"
+    }
+  ],
+  "translation": "تے ایلوہیم نے ⟨את⟩ چاننی ویکھی کہ ⟨اوہ⟩ چنگی اے، تے ایلوہیم نے چاننی تے ہنیرے وِچکار ونڈ کیتی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "74811423b4ef720f67f63379fee8e2797e4ed37fb025781088bc80b89f4e564a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/1\/1-4.1792094689956.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "تے ویکھیا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چاننی"
+    },
+    {
+      "surface": "האור",
+      "gloss": "چاننی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگی"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "تے وکھرا کیتا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم نے"
+    },
+    {
+      "surface": "בין",
+      "gloss": "وِچکار"
+    },
+    {
+      "surface": "האור",
+      "gloss": "چاننی"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "تے وِچکار"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "ہنیرے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:04:49.958004499Z",
+  "model": "glm-5.3"
+}

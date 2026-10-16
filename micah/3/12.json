@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 3:12",
+  "book": "micah",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "بن جاوسی",
+      "rationale": "Hebrew verb 'to be' plus nouns rendered as 'become' constructions; Punjabi needs 'بن'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "لבמות",
+      "rationale": "'High places' may echo cultic bamot-sites; kept literal 'اُچے ٹیلے' without importing that cultic reading."
+    }
+  ],
+  "translation": "اس واسطے تُساڈے سبب توں صہیون کھیت وانگوں واہیا جاوسی، تے یروشلایم ملبہ بن جاوسی، تے گھر دا پہاڑ جنگل دے اُچے ٹیلے بن جاوسی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8054e25b9379e10f4e79d295d88785af63e5dc9fa92df8248ac3686478ef1f17",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/micah\/3\/9-12.1792111030363.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "اس واسطے"
+    },
+    {
+      "surface": "בגללכם",
+      "gloss": "تُساڈے سبب توں"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صہیون"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "کھیت وانگوں"
+    },
+    {
+      "surface": "תחرש",
+      "gloss": "واہیا جاوسی"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "تے یروشلایم"
+    },
+    {
+      "surface": "עיין",
+      "gloss": "ملبہ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "بن جاوسی"
+    },
+    {
+      "surface": "והר",
+      "gloss": "تے پہاڑ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر دے"
+    },
+    {
+      "surface": "לבמות",
+      "gloss": "اُچے ٹیلیاں نوں"
+    },
+    {
+      "surface": "יער",
+      "gloss": "جنگل"
+    }
+  ],
+  "timestamp": "2026-10-16T00:37:10.364712030Z",
+  "model": "glm-5.3"
+}

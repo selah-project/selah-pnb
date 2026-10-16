@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 5:17",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جان دی طاقت اے، 'کوئی بندہ' دا سچ مچ ترجمہ کوئی وکھرا لفظ نئیں"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨کوئی⟩",
+      "rationale": "عبرانی وِچ صرف נפש אے، پنجابی وِچ فاعل دی لوڑ"
+    }
+  ],
+  "translation": "تے جے کوئی جان پھٹیا کھاوے تے یاہوہ دیاں اِکو اِک حکماں وِچوں کوئی اِک ایہجا کم کرے جیہڑا نئیں کرنا، تے اوہنوں پتہ نہ ہووے، تے اوہ قصوروار ہووے، تے اوہ اپنا قصور چُکی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0359f33d9fc124a38136db3b468374ea3f6919416035ca6312a786464215df3f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/5\/17-20.1792097458735.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کوئی"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "پھٹیا کھاوے"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "تے کرے"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "اِک"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ساریاں وِچوں"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "حکماں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תעשינה",
+      "gloss": "کرنا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "اوہنوں پتہ ہووے"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "تے قصوروار ہووے"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "تے چُکی"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "اپنا قصور"
+    }
+  ],
+  "timestamp": "2026-10-15T20:50:58.735894039Z",
+  "model": "glm-5.3"
+}

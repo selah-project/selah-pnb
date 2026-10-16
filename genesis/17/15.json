@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 17:15",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "اَوراہام نوں",
+      "rationale": "ایلوہیم سدھا اَوراہام نال گل کردا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "سارای\/سارہ",
+      "rationale": "ناں دا بدلاؤ — لفظاں دا قریبی آواز-جوڑ، پنجابی وِچ دو صورتاں نال رکھیا"
+    }
+  ],
+  "translation": "تے ایلوہیم نے اَوراہام نوں آکھیا: تیری زنانی سارای — اوہدا ناں سارای نئیں آکھیں، کیوں جے سارہ اوہدا ناں اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bd70323f7013dc768a279706e7a0a734fca4f182081ac9899ddff6f8d6046068",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/17\/13-16.1792095009577.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم نے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراہام"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سارای"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "تیری زنانی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "آکھیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہدا ناں"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "اوہدا ناں"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سارای"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جے"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "سارہ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "اوہدا ناں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:10:09.578886666Z",
+  "model": "glm-5.3"
+}

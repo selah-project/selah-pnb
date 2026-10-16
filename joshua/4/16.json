@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 4:16",
+  "book": "joshua",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "یہوشُعا",
+      "rationale": "یاہوہ یہوشُعا نوں سِدھی ہُکم دیندا اے — اِک حکمیہ آیت۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "صندوق",
+      "rationale": "ארון دا ساڈا ٹھیک لفظ 'صندوق' اے — 'ہارون' دی بھُل توں بچو۔"
+    }
+  ],
+  "translation": "ہُکم دے ⟨את⟩ کاہناں نوں جیہڑے گواہی دے صندوق نوں چُکدے نیں، تے اوہ یَردن توں چڑھ آئِن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "19fcd643dd2c99e5a14445762e0d9bbd97023cf95eb7c589e7cc815feef9f167",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joshua\/4\/13-16.1792100679412.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "ہُکم دے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کاہناں"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاہناں"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "چُکدے نیں"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "گواہی دا"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "تے چڑھ آئِن"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "یَردن"
+    }
+  ],
+  "timestamp": "2026-10-15T21:44:39.413828753Z",
+  "model": "glm-5.3"
+}

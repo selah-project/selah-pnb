@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 98,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "شوفار",
+      "rationale": "شوپھار حرف-نقل رکھیا گیا — ایہہ مذہبی نشان-بیتی اے، عام 'سِنگ' نئیں۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הריעו",
+      "rationale": "جڑ ر-ו-ע 'کان پھاڑنا' توں — شور مچاؤ اوہدی کھل پھٹ آواز دا گواہ اے۔"
+    }
+  ],
+  "translation": "ترمبیاں تے شوفار دی آواز نال، بادشاہ یاہوہ دے ساہمنے شور مچاؤ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d0c70d0449de28f277a4e22571880ac3cd848c2108023311254a4152dd585472",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/98\/5-8.1792113499447.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "ترمبیاں نال"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "تے آواز"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "شوفار"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "شور مچاؤ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ساہمنے"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:18:19.448180922Z",
+  "model": "glm-5.3"
+}

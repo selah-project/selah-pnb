@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 41:11",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "کیتی سی",
+      "rationale": "عبرانی وِچ کوئی معاون فعل نئیں؛ پنجابی ماضی پوری کرن لئی چاہیدا۔"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "اِیتھے אתو preposition 'نال' اے، مفعولی نشان نئیں — ⟨את⟩ دے نال 'اُہدے نال' رکھیا۔"
+    }
+  ],
+  "translation": "تے یوخنان پُتر قریاخ تے سبھے فوجاں دے سرداراں نے جِہڑے ⟨את⟩ اُہدے نال سن، ⟨את⟩ سبھ اُوہ برائی سُنی جِہڑی یِشماعیل پُتر نَتنیاہ نے کیتی سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "88c0c5e1f141ce8db6c7e42557bf42aa0328ee61806f77fd49ed734ec7e489a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/41\/9-12.1792108463407.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "تے سُنیا"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "یوخنان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قریاخ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سبھے"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سرداراں"
+    },
+    {
+      "surface": "החילים",
+      "gloss": "فوجاں دے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جِہڑے"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ اُہدے نال",
+      "marks": "یوخنان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سبھ برائی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سبھ"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جِہڑی"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کیتی"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "یِشماعیل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "נתניה",
+      "gloss": "نَتنیاہ"
+    }
+  ],
+  "timestamp": "2026-10-15T23:54:23.408460115Z",
+  "model": "glm-5.3"
+}

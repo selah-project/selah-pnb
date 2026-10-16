@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 3:13",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שכב\/ישן\/נוח",
+      "rationale": "تنِ سارے آرام دے فعل اِک لڑی وِچ نیں — لیٹنا، سُتنا، آرام — ایہہ دہراؤ پنجابی وِچ پورا نئیں اُتردا۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "یعقوو دی سوگ بولی",
+      "rationale": "عبرانی ماضی اُمیدوار اے (ہوندا\/ملدا) — عبرانی دی حالت نئیں، ایس لئی ⟨ہوندا⟩ والی صورت چُنی گئی۔"
+    }
+  ],
+  "translation": "کیونجے ہُن میں لیٹدا تے چُپ رہندا، میں سُتیا ہوندا، اوس ویلے مینوں آرام ملدا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8a181b5fc0d00486d693f5149c13c170114b2e44865f92d27c8aabb3761f5a52",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/3\/13-16.1792115337899.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ہُن"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "میں لیٹدا"
+    },
+    {
+      "surface": "ואשקוט",
+      "gloss": "تے چُپ رہندا"
+    },
+    {
+      "surface": "ישנתי",
+      "gloss": "میں سُتیا ہوندا"
+    },
+    {
+      "surface": "אז",
+      "gloss": "اوس ویلے"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "آرام ملدا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مینوں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:48:57.899947835Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 9:1",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "سُݨ، اے یِسرائیل",
+      "rationale": "شمع دی خطاب فعل — پڑھن والے نوں سُݨن لئی سدا۔"
+    },
+    {
+      "kind": "you",
+      "subject": "تُوں",
+      "rationale": "سِدھا خطاب یِسرائیل نوں۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "اسمان تیک",
+      "rationalale": "",
+      "rationale": "בשמים پہنچ دا نشان اے — 'اسمان تک' — ودھا کے لکھیا۔"
+    }
+  ],
+  "translation": "سُݨ، اے یِسرائیل! تُوں اَج ⟨את⟩ یَردن نوں لنگھدا ایں، وڑ کے قوماں نوں ہتھ کرن لئی — وڈیاں تے تُوں توں زورآور — شہر وڈے تے مضبوط بَند، اسمان تیک۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c298cf0073ab1c65ea62ad12d9b9b519ee49c8cf6fc63b54e0ad4a07c4f2f618",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/9\/1-4.1792099895179.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "سُݨ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اے یِسرائیل"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُوں"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "لنگھدا ایں"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اَج"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یَردن نوں"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "یَردن"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "وڑ کے"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "ہتھ کرن لئی"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قوماں نوں"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "وڈیاں"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "تے زورآور"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "تُوں توں"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "وڈے"
+    },
+    {
+      "surface": "ובצרת",
+      "gloss": "تے مضبوط بَند"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "اسمان تیک"
+    }
+  ],
+  "timestamp": "2026-10-15T21:31:35.180055057Z",
+  "model": "glm-5.3"
+}

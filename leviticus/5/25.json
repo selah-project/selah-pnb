@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 5:25",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אשם",
+      "rationale": "אשם گناہ تے اوہدی قربانی دوویں اے؛ پنجابی وِچ «گناہ-قربانی» دو اِک تھاں — عبرانی اِک لفظ اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "בערכך",
+      "rationale": "«تیری قیمت مطابق» — یاہوہ کاہن نال گل کردا اے (دوجا واحد)، کجھ پڑھدا «اوہدی قیمت» منگدے نیں"
+    }
+  ],
+  "translation": "تے اوہ ⟨את⟩ اپنی گناہ-قربانی یاہوہ کول لیاوے — اِک مینڈھا، بِناؤں والا، اِڑواں توں، تیری قیمت مطابق، گناہ-قربانی لئی، کاہن کول۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e72e9be578792134e9626e8076cc5fa5751bd4834d83410a45040802ed2338b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/5\/25-26.1792097396402.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اپنی گناہ-قربانی"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "اپنی گناہ-قربانی"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "لیاوے"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ کول"
+    },
+    {
+      "surface": "איל",
+      "gloss": "اِک مینڈھا"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "بِناؤں والا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "اِڑواں"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "تیری قیمت مطابق"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "گناہ-قربانی لئی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    }
+  ],
+  "timestamp": "2026-10-15T20:49:56.403084110Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 7:16",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "אטון",
+      "rationale": "تنخ وِچ صرف ایتھے — 'اُگھیا ہویا دھاگہ'، مصر دا مہانگوں کپڑا"
+    },
+    {
+      "kind": "hapax",
+      "subject": "חטובות",
+      "rationale": "صرف ایتھے — 'نقش-کار\/کتے ہوئے' پردے"
+    },
+    {
+      "kind": "crux",
+      "subject": "חטובות אטון",
+      "rationale": "متراجماں وِچ وکھریاں悄 معنے: 'کتے ہوئے کمبلاں'، 'نقش-دار پردے'، 'مصر دی سوتی' — شکل دے ٹوٹے جوڑ کے رکھے"
+    }
+  ],
+  "translation": "“میں اپنا بستر چادراں نال وچھائیا اے، مِتصرایم دے اُگھے دھاگے دے نقش-دار پردے نال۔”",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "923b0451f9b7c1218cfc070d4fa8bd0d2ebd13a24ce53b0c22dd2767c56714eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/7\/13-16.1792114486268.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מרבדים",
+      "gloss": "چادراں"
+    },
+    {
+      "surface": "רבדתי",
+      "gloss": "وچھائیا"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "میرا بستر"
+    },
+    {
+      "surface": "חטובות",
+      "gloss": "نقش-دار پردے"
+    },
+    {
+      "surface": "אטון",
+      "gloss": "اُگھیا ہویا دھاگا"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم"
+    }
+  ],
+  "timestamp": "2026-10-16T01:34:46.269406689Z",
+  "model": "glm-5.3"
+}

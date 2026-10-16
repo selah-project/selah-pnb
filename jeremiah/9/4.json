@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 9:4",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יהתלו",
+      "rationale": "KJV وچ 'supplant'، JPS وچ 'deceive'؛ ہِتَل دا مطلب ٹھٹھا\/دھوکھا دوویں نیں۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דבר שקר \/ העוה נלאו",
+      "rationale": "آیت دے انت وِچ ਦوہرا کرت دا چلن اے — جھوٹ بولنا سکھایا، کجھا کر کے تھک گئے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "اوہ",
+      "rationale": "ہעוה نלאو دا کردار پنجابی وچ واضح کرن لئی ضمیر پایا گیا، عبرانی وِچ نئیں۔"
+    }
+  ],
+  "translation": "تے ہر اِک بندہ اپنے ساتھی ⟨نوں⟩ ٹھٹھا کردا اے، تے سچائی نئیں بولدا؛ اوہناں نے اپنی بولی نوں جھوٹ بولنا سکھایا اے؛ ⟨اوہ⟩ کجھا کر کے تھک گئے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1d15d8c3f6dde9bb10a5b6761d38f1692062adcff98074110e911b3c9dbc3a35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/9\/4-4.1792123834748.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "تے ہر اِک بندہ"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "اپنے ساتھی"
+    },
+    {
+      "surface": "יהתלו",
+      "gloss": "ٹھٹھا کردا اے"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "تے سچائی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "بولدا"
+    },
+    {
+      "surface": "למדו",
+      "gloss": "سکھایا اے"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "اپنی بولی نوں"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "بولنا"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "جھوٹ"
+    },
+    {
+      "surface": "העוה",
+      "gloss": "کجھا"
+    },
+    {
+      "surface": "נלאו",
+      "gloss": "تھک گئے نیں"
+    }
+  ],
+  "timestamp": "2026-10-16T04:10:34.748960345Z",
+  "model": "glm-5.3"
+}

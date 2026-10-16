@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 42:24",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חטאנו — پہلا شخص",
+      "rationale": "'اسیں گناہ کیتا' — بولن والے اچانک اپنے آپ وِچ شامل ہو جاندے نیں؛ ریتیاں ایس بدل نوں رکھدیاں نیں۔"
+    },
+    {
+      "kind": "elision",
+      "subject": "זו",
+      "rationale": "مختصر اشارہ 'اوہی' — کجھ ریتیاں ایہنوں 'کیوں جو' نال جوڑ دیندیاں نیں۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בתורתו",
+      "rationale": "تورات — 'شریعت' نئیں لکھیا؛ 'سُنیا اوہدی تورات' دا مورت رکھیا۔"
+    }
+  ],
+  "translation": "کون دے گیا یعقوو نوں لُٹ لئی تے یِسرائیل نوں لُٹن ہاراں دے ہتھ؟ کی یاہوہ نئیں ⟨ایس نے⟩ — اوہدے اگّے جِدّوں اسیں گناہ کیتا؟ کیوں جو اوہ اوہدیاں راہواں تے ٹرن نوں نئیں منے، تے اوہدی تورات نوں نئیں سنیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e65b8dd7afb4d1a26416ee62cd4fe54059084c041ae9035f1d21ca5f8c235eab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/42\/21-24.1792106721427.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دے گیا"
+    },
+    {
+      "surface": "למשוסה",
+      "gloss": "لُٹ لئی"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "تے یِسرائیل"
+    },
+    {
+      "surface": "לבזזים",
+      "gloss": "لُٹن ہاراں دے ہتھ"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "کی … نئیں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "זו",
+      "gloss": "اوہی ⟨ایس نے⟩"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "اسیں گناہ کیتا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدے اگّے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "אבו",
+      "gloss": "منے"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "اوہدیاں راہواں تے"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "ٹرن"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "سنیا"
+    },
+    {
+      "surface": "בתורתו",
+      "gloss": "اوہدی تورات وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T23:25:21.428987087Z",
+  "model": "glm-5.3"
+}

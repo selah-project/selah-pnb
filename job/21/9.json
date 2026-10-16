@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 21:9",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "دی",
+      "rationale": "عبرانی وِچ קلامی تعلق 'אלוה שבט' نال پنجابی 'ایلوہ دی سوٹی' لئی 'دی' چاہیدی اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שבט",
+      "rationale": "שבט سوٹی\/چھیڑا اے — 'אלוהה' عام لفظ نوں 'ایلوہ' رکھیا، 'خدا' نئیں"
+    }
+  ],
+  "translation": "اوہناں دے گھر ڈر توں امن وِچ نیں، تے ایلوہ دی سوٹی اوہناں اُتے نئیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2d78f45b90f8a900dc00f04eeb041cc02a703d3c2fabe3296e0c813e979dcf61",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/21\/9-12.1792115957151.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בתיהם",
+      "gloss": "اوہناں دے گھر"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "امن وِچ نیں"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "ڈر توں"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "سوٹی"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ایلوہ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "اوہناں اُتے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:59:17.152240476Z",
+  "model": "glm-5.3"
+}

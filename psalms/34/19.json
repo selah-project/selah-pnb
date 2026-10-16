@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 34:19",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "רוח",
+      "rationale": "لفظی 'روح\/ہوا' — ایتھے 'ساہ' ورتیا اے، تھاں دے مطابق"
+    }
+  ],
+  "translation": "یاہوہ ٹُٹے ہوئے دلاں والیاں دے نیڑے اے، تے دبے ہوئے ساہ والیاں نوں ⟨את⟩ بچاؤندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "deacfc4a563e0f4dbb1bc795bbc0156b1a79fc87098c7cd4335ebe683ef5b97d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/34\/17-20.1792112265955.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "نیڑے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לנשברי",
+      "gloss": "ٹُٹے ہوئے … والیاں دے"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دلاں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "دبے ہوئے ساہ والیاں نوں"
+    },
+    {
+      "surface": "דכאי",
+      "gloss": "دبے ہوئے"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ساہ"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "بچاؤندا اے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:57:45.956571343Z",
+  "model": "glm-5.3"
+}

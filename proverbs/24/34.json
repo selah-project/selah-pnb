@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 24:34",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "تیرے اُتے",
+      "rationale": "عبرانی وِچ صرف 'آؤندی اے' اے — پنجابی جملے لئی ٹیچا شامل کیتا"
+    },
+    {
+      "kind": "crux",
+      "subject": "מתהלך",
+      "rationale": "'چلدا ہویا' دا مطلب: مسافر، دوڑدا ہویا، یا لُٹیرا — KJV 'traveller'، ASV 'robber'، JPS 'runner'؛ شکل دا مطلب 'ٹُردا ہویا' رکھیا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מגן",
+      "rationale": "'ڈھال والا' — 'ہتھیار بند' (armed man) روایت دا کھیلا اے؛ عبرانی لفظ صرف ڈھال اے"
+    }
+  ],
+  "translation": "تے تیری غربت چلدی ہوئی ⟨تیرے اُتے⟩ آؤندی اے، تے تیری محرومی اک ڈھال والے بندے وانگوں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "68e58741dc4fbe24155f1982feed4bf4f6ac405c60bbd72b2aa19a35cfafd0c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/24\/33-34.1792114991165.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "تے آؤندی اے"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "چلدا ہویا"
+    },
+    {
+      "surface": "רישך",
+      "gloss": "تیری غربت"
+    },
+    {
+      "surface": "ומחסריך",
+      "gloss": "تے تیری محرومی"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "اک بندے وانگوں"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ڈھال والا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:43:11.165691158Z",
+  "model": "glm-5.3"
+}

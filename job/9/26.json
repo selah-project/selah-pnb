@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 9:26",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "אבה",
+      "rationale": "کاہ — ایہ لفظ تنخ وِچ صرف ایتھے آیا اے، ایس لئی کُجھ ترجمے ‘تیز بیڑیاں’ لکھدے نیں۔"
+    },
+    {
+      "kind": "alternative",
+      "subject": "עם",
+      "rationale": "کُجھ ‘ناݪ\/امبے’ پڑھدے نیں — ‘کاہ دے امبے ناݪ بیڑیاں’ — پر ‘وانگوں’ مکھ ریت اے۔"
+    }
+  ],
+  "translation": "اوہ کاہ دیاں بیڑیاں وانگوں لنگھ گئے، اِک شکھ دے وانگوں جیہڑا کھاݨے اُتے جھپٹدا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4801450eb48f99f045c3af83460d9b6faffe4507bc4d9480dc0e2b91a1342361",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/9\/25-28.1792115595228.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חלפו",
+      "gloss": "لنگھ گئے"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨وانگوں⟩"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "بیڑیاں"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "کاہ"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "اِک شکھ دے وانگوں"
+    },
+    {
+      "surface": "יטוש",
+      "gloss": "جھپٹدا اے"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "کھاݨے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:53:15.229202491Z",
+  "model": "glm-5.3"
+}

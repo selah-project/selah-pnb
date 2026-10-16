@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 29:35",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אודה\/יהודה",
+      "rationale": "اسم یِہودا فعل יָדָה (شکر\/ستائی کرنا) نال جُڑیا اے — پنجابی وِچ جوڑ پھٹدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "شکر کراں گا",
+      "rationale": "אודہ دا مول مطلب 'منّݨ\/ستائی کرنا' اے — 'شکر کرنا' نیڑلے پنجابی اظہار اے"
+    }
+  ],
+  "translation": "تے اوہ پھر حاملہ ہوئی، تے اِک پتر جنیا، تے اوہنے آکھیا: ایس واری میں یاہوہ دا ⟨את⟩ شکر کراں گا؛ اس لئی اوہنے اوہدا ناں یِہودا رکھیا، تے اوہ جَنّن توں رُک گئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0e35d280aaa9c330725fb3fea65a57a3595665dc67975a2ca991e9797cdc22d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/29\/33-35.1792095338077.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "تے اوہ حاملہ ہوئی"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "پھر"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "تے جنیا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پتر"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "تے اوہنے آکھیا"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "ایس واری"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "شکر کراں گا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اس"
+    },
+    {
+      "surface": "כן",
+      "gloss": "لئی"
+    },
+    {
+      "surface": "קראה",
+      "gloss": "اوہنے ناں رکھیا"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اوہدا ناں"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یِہودا"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "تے اوہ رُک گئی"
+    },
+    {
+      "surface": "מלדת",
+      "gloss": "جَنّن توں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:15:38.078778761Z",
+  "model": "glm-5.3"
+}

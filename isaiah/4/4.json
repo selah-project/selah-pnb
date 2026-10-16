@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 4:4",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جد",
+      "rationale": "אם روايتی طور تے جے\/جد — ایتھے جد\/جِدوں وقت والا احساس دندا اے، شرط دا نئیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "رُوح",
+      "rationale": "רוח ہوا\/ساہ\/روح — ایتھے ساہ ہلاؤن والی طاقت دے قریب اے"
+    }
+  ],
+  "translation": "جد ادونای صیہون دیاں دھیاں دی ⟨את⟩ میل دھووےگا تے یروشلایم دے ⟨את⟩ لہو نوں اوہدے وِچوں انصاف دی رُوح نال تے ساڑن والی رُوح نال کڈھےگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a19b5c914eb955c63f4e3e304528e109f58632fa94e03c8925e5bd87525337a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/4\/1-4.1792105866056.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جد"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "دھووےگا"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میل"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "میل"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "دھیاں"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صیہون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "لہو"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "لہو"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم"
+    },
+    {
+      "surface": "ידיח",
+      "gloss": "کڈھےگا"
+    },
+    {
+      "surface": "מקרבה",
+      "gloss": "اوہدے وِچوں"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "رُوح نال"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "تے رُوح نال"
+    },
+    {
+      "surface": "בער",
+      "gloss": "ساڑن والی"
+    }
+  ],
+  "timestamp": "2026-10-15T23:11:06.057587091Z",
+  "model": "glm-5.3"
+}

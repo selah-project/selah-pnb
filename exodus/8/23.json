@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 8:23",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "تِن دناں دا پینڈا",
+      "rationale": "سفر دا حساب دِتا گیا اے — تِن دن"
+    },
+    {
+      "kind": "substitution",
+      "subject": "جنگل",
+      "gloss-context": "מדבار چراند\/بیابان دا میدان اے، لہندی پنجابی دی ریت وِچ 'جنگل' اوہو بھومکا نبھاندا اے"
+    }
+  ],
+  "translation": "تِن دناں دا پینڈا اسیں جنگل وِچ ٹُردے آں، تے یاہوہ ساڈے ایلوہیم نوں قربانی دیندے آں، جیویں اوہ سانوں آکھے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "eb70608fdca283c9f342c3b827ba5a6978de7a20ec89bbd06d6f35ad9efd7b83",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/8\/21-24.1792096357493.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "پینڈا"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "تِن"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دناں دا"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "اسیں ٹُردے آں"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "جنگل وِچ"
+    },
+    {
+      "surface": "וזבחנו",
+      "gloss": "تے قربانی دیندے آں"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ نوں"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ساڈے ایلوہیم"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "اوہ آکھے"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "سانوں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:32:37.494903609Z",
+  "model": "glm-5.3"
+}

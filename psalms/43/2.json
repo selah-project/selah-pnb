@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 43:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "دباؤ ہیٹھ",
+      "rationale": " construct chain 'the oppression of the enemy' unpacked; possessive supplied."
+    },
+    {
+      "kind": "substitution",
+      "subject": "کالا-بھورا",
+      "rationale": " קדר literally 'to be ashy-dark', mourning kept as colour-word to preserve the picture."
+    },
+    {
+      "kind": "you",
+      "subject": "to Elohim",
+      "rationale": " continued direct address, two 'why' questions to God."
+    }
+  ],
+  "translation": "کیوںکہ تُوں ای ایلوہیم، میری طرف دا مورچہ ایں ⟨کیوں⟩ مینوں کیوں رَتّھ چھڈیوایا؟ ⟨کیوں⟩ میں کیوں کالا-بھورا ٹردا واں، دبے کے، وَیر دے دباؤ ہیٹھ؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "41ab8dd1895d64a93406ebbb3da9594cefb1eb7969d8a9bb66103e591d4fbece",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/43\/1-4.1792112460323.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوںکہ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُوں ای"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "میری طرف دا مورچہ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "זנחתני",
+      "gloss": "مینوں رَتّھ چھڈیوایا"
+    },
+    {
+      "surface": "למה",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "کالا-بھورا"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "میں ٹردا واں"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "دبے کے"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "وَیر دے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:01:00.324652495Z",
+  "model": "glm-5.3"
+}

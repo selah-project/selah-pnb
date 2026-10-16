@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 1:5",
+  "book": "micah",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "عبرانی وِچ کاپولا نئیں، پنجابی نوں ⟨اے⟩ چاہیدا۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "במות",
+      "rationale": "پوجا دیاں اُچیاں تھاواں — مُڈھ اُچی تھاں تے قربانی دا تھاں؛ 'اُچیاں تھاواں' سمبھالی، 'مزار' نئیں۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פשע…פשע",
+      "rationale": "بغاوت دا لوآ تے فیر سوال وِچ واپسی — عبرانی تکرار، سوال-جواب ڈھانچہ قائم اے۔"
+    },
+    {
+      "kind": "you",
+      "subject": "سروتے\/بنی یروشلایم",
+      "rationale": "سوالاں نال سروتے نوں سدیا گیا — کی\/کی… نئیں۔"
+    }
+  ],
+  "translation": "یعقوو دی بغاوت لئی سارا ایہہ ⟨اے⟩، تے یِسرائیل دے گھر دے پاپاں لئی۔ یعقوو دی بغاوت کی اے؟ کی شومرون نئیں؟ تے یِہودا دیاں اُچیاں تھاواں کی نیں؟ کی یروشلایم نئیں؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9d865aee7b4b9800d461f410ca7b360ff6f89c5266dce4220e568c671f2149f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/micah\/1\/5-6.1792124092684.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "بغاوت لئی"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "ובחטאות",
+      "gloss": "تے پاپاں لئی"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "بغاوت"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "کی… نئیں؟"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "شومرون"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "تے کی"
+    },
+    {
+      "surface": "במות",
+      "gloss": "اُچیاں تھاواں"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یِہودا"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "کی… نئیں؟"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم"
+    }
+  ],
+  "timestamp": "2026-10-16T04:14:52.685147342Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 64:5",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اوہدے اُتے⟩",
+      "rationale": "عبرانی وِچ مفعول دا نشان وی مونڈھا اے؛ نشاناں نوں صاف کرن لئی پنجابی وچ جوڑیا"
+    },
+    {
+      "kind": "crux",
+      "subject": "תם",
+      "rationale": "'مکمل\/بے داغ' — کجھ ترجمے 'معصوم' لکھدے نیں، لیکن ایہہ نسھ جوڑ اے ناں کہ کردار دا"
+    }
+  ],
+  "translation": "لُکائی ہوئی تھاں وِچوں مکمل نوں تیر مارن لئی؛ اچانک اوہ ⟨اوہدے اُتے⟩ تیر ماردے نیں تے نئیں ڈردے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e4c926892af85c968b9c94d9a9a9cd39e2d0b004f518b1f88a54f79e6d22fed4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/64\/5-8.1792112831935.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לירות",
+      "gloss": "تیر مارن لئی"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "لُکائی ہوئی تھاں وِچوں"
+    },
+    {
+      "surface": "תם",
+      "gloss": "مکمل"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "اچانک"
+    },
+    {
+      "surface": "ירהו",
+      "gloss": "اوہ تیر ماردے نیں"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "ڈردے نیں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:07:11.935750731Z",
+  "model": "glm-5.3"
+}

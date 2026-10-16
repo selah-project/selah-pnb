@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ruth 3:1",
+  "book": "ruth",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הלא",
+      "rationale": "عبرانی 'کی-نئیں' ریتی سوال اے — پکی گل منگن دا ول، سادہ سوال نئیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "مݨوح",
+      "rationale": "מנוח اوہ تھاں اے جتھے آ کے بندہ ہل جاوے — 'آرام' نال وجھیائی گل، 'بیٹھن دی تھاں' وی ہووے"
+    },
+    {
+      "kind": "you",
+      "subject": "روت نُوں",
+      "rationale": "ناعومی سدھی اپنی پتونی نُوں مخاطب اے — 'میری دِیوی'"
+    }
+  ],
+  "translation": "تے اودھی ساءس ناعومی نے اوہدے آکھیا: “میری دِیوی، کی میں تیرے لئی آرام نئیں لبھاں، جیہڑا تیرے بھلیاں نال ہووے؟”",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "dbb9a084c7daf989b62d592c2865d0508d20dc6c9940d8b4588d0f3c0e417192",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ruth\/3\/1-4.1792116982571.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "تے… آکھیا"
+    },
+    {
+      "surface": "לה",
+      "gloss": "اوہدے"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "ناعومی"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "ساءس"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "میری دِیوی"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "کی… نئیں"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "میں لبھاں"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیرے لئی"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "آرام"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "بھلیاں نال ہووے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیرے"
+    }
+  ],
+  "timestamp": "2026-10-16T02:16:22.572086952Z",
+  "model": "glm-5.3"
+}

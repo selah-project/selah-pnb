@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 70:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 70,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/ڳلہ\/جیون-بل اے — پنجابی 'جان' سب توں نیڑے اے پر 'خون' والا مطلب کھوہ جاندا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "یבשו\/ויחפרו … יסגו\/ויכלמו",
+      "rationale": "دو جوڑیاں دی موازی بندش — شرم دے دو فعل، پچھے ہٹن دے دو فعل — پنجابی وِچ تاکنیک زندہ رہندی اے پر آواز-جوڑ گُم اے"
+    }
+  ],
+  "translation": "شرمندہ ہون تے خفتار ہون اوہ جو میری جان دے پچھے نیں؛ پچھے ہٹن تے لجّا جاون اوہ جو میری برائی چاہندے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7460f835e149b447375fa1fedeeda630ef165f4394ff2d5a21b9823cfa1060d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/70\/1-4.1792112918210.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "شرمندہ ہون"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "تے خفتار ہون"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "دے پچھے لگے"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میری جان"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "پچھے ہٹن"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "پچھوں"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "تے لجّا جاون"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "چاہن والے"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "میری برائی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:08:38.211142825Z",
+  "model": "glm-5.3"
+}

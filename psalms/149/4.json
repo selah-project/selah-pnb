@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 149:4",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 149,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "عبرانی وِچ ہُنݨہاں فعل 'اے' — پنجابی جملہ منگدا اے (بریکٹ نئیں لگایا کیونکہ راوی فعل ای جوڑیا)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מחול→نچّ کے",
+      "rationale": "ענוים 'نمراز' — دبے ہوئے، غریب؛ 'عاجز' دا مطلب تھوڑا رہندا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "ישועה",
+      "rationale": "مُکتی\/فتح\/مدد — بعد دے مذہبی مطلب توں بِنا ٹھیک 'نانجات' رکھیا اے"
+    }
+  ],
+  "translation": "کیونکہ یاہوہ اپنی قوم وِچ خوش اے، نمرازاں نوں مُکتی نال سِنگاردا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "207302da79d7a429801265f61941fcacd9212f46dd4d4d2d5241d922294d54cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/149\/1-4.1792114223677.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "רוצה",
+      "gloss": "خوش اے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "اپنی قوم وِچ"
+    },
+    {
+      "surface": "יפאר",
+      "gloss": "سِنگاردا اے"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "نمرازاں نوں"
+    },
+    {
+      "surface": "בישועה",
+      "gloss": "مُکتی نال"
+    }
+  ],
+  "timestamp": "2026-10-16T01:30:23.678871506Z",
+  "model": "glm-5.3"
+}

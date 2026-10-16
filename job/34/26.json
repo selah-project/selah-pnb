@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 34:26",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תחת",
+      "rationale": "'تھلے' — BSB ایہنوں 'بدکاری دے بدلے' پڑھدا اے؛ عبرانی لفظ تھاں دا اے، قیمت دا نئیں، اس لئی 'تھلے' رکھیا۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "ראים",
+      "rationale": "'ویکھدیاں اڳوں' — کجھ 'دیکھݨ والیاں دی تھاں' (Geneva)، کجھ 'کھلھی تھاں وِچ' (KJV) پڑھدے نیں۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "ماریگا",
+      "rationale": "عبرانی وچ صیغہ فعل دا کوئی وکھرا فعل نئیں؛ تاڑی مارنا ای مارن دا کاروبار اے، پنجابی جملے لئی وادھو۔"
+    }
+  ],
+  "translation": "اوہ بدکاراں نوں تاڑی مار کے ماریگا، ویکھدیاں اڳوں تھاں وِچ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "49d02fb502258b9d04dee6e3b91addb9242f28ff4005e2a17b5ac4b391148848",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/34\/25-28.1792116362328.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "تھلے"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکاراں نوں"
+    },
+    {
+      "surface": "ספקם",
+      "gloss": "تاڑی مار کے"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "تھاں وِچ"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "ویکھدیاں اڳوں"
+    }
+  ],
+  "timestamp": "2026-10-16T02:06:02.329286648Z",
+  "model": "glm-5.3"
+}

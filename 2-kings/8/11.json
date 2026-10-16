@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 8:11",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "کوں شرم گیا",
+      "rationale": "موضوع نوں عبرانی صاف نئیں کہندا — بوے الیشع نیں یا حزائیل؛ زیادہ تر حزائیل منیا جاندا اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨حزائیل⟩",
+      "rationale": "موضوع پنجابی جملاں منگدا سی، عبرانی وِچ نئیں سی۔"
+    }
+  ],
+  "translation": "تے اوہنے ⟨את⟩ اپنا چہرہ ٹکایا تے جمائی رکھیا، ایتھوں تک کہ ⟨حزائیل⟩ شرم گیا، تے ایلوہیم دے بندے نے رونا کیتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ef3e1dd3ad2524176cd96db34c2bf7bee4578bd8e1282a9356eebfe0349daf89",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/8\/9-12.1792105149358.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "تے ٹکایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنا چہرہ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "اپنا چہرہ"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "تے جمائی رکھی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ایتھوں تک کہ"
+    },
+    {
+      "surface": "בש",
+      "gloss": "شرم گیا"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "تے رونا کیتا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم دے"
+    }
+  ],
+  "timestamp": "2026-10-15T22:59:09.359555674Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 14:7",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מי יתן",
+      "rationale": "عبرانی دی خواہش دی ترکیب — 'کون دیوےگا' یعنی 'کاش'، پنجابی وِچ پرکار رکھیا"
+    },
+    {
+      "kind": "alternative",
+      "subject": "שבות",
+      "rationale": "شبدی مطلب 'قید\/غلامی' اے؛ کجھ مفسر 'پہلی خوشحالی واپس' پڑھدے نیں، مُکھ ترجمہ ٹھیک رکھیا"
+    }
+  ],
+  "translation": "کون دیوےگا صیون توں یِسرائیل دی مُکتی؟ جدوں یاہوہ اپنے لوکاں دی قید واپس موڑےگا، تاں یعقوو نچےگا تے یِسرائیل خوش ہووےگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "89dffb7fa07d7843d987d6eb0864d529d8029060358ba5764b434165b0ed1d8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/14\/5-7.1792111929522.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מִי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "יִתֵּן",
+      "gloss": "دیوےگا"
+    },
+    {
+      "surface": "מִצִּיּוֹן",
+      "gloss": "صیون توں"
+    },
+    {
+      "surface": "יְשׁוּעַת",
+      "gloss": "…دی مُکتی"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "בְּשׁוּב",
+      "gloss": "جدوں … واپس موڑےگا"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "שְׁבוּת",
+      "gloss": "قید"
+    },
+    {
+      "surface": "עַמּוֹ",
+      "gloss": "اپنے لوکاں دی"
+    },
+    {
+      "surface": "יָגֵל",
+      "gloss": "نچےگا"
+    },
+    {
+      "surface": "יַעֲקֹב",
+      "gloss": "یعقوو"
+    },
+    {
+      "surface": "יִשְׂמַח",
+      "gloss": "خوش ہووےگا"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-10-16T00:52:09.523867842Z",
+  "model": "glm-5.3"
+}

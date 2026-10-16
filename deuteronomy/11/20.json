@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوہناں نوں",
+      "rationale": "مفعول پچھلی آیت دے 'ایہہ بچن' توں آیا اے، اِبراوی ایس آیت وِچ اوہناں دا دہراؤ نئیں کردا۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "چوکھٹاں",
+      "rationale": "מזוזה بوہے دی کھڑی چوکھٹ اے؛ یہودی روایت وِچ مذہبی مینار بن گئی، متن صرف بوہے دی لَٹ اے۔"
+    }
+  ],
+  "translation": "تے تُسیں اوہناں نوں اپنے گھر دیاں چوکھٹاں اُتے تے اپنیاں بوہیاں اُتے لکھو۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bf9d61cdcc33eb40cbcedb8fcff71a0bfb4b7a78d261f4da31f7e3eb3c487429",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/11\/17-20.1792099867981.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "تے لکھو"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "چوکھٹاں"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "اپنے گھر دیاں"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "تے اپنیاں بوہیاں اُتے"
+    }
+  ],
+  "timestamp": "2026-10-15T21:31:07.982415837Z",
+  "model": "glm-5.3"
+}

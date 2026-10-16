@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 40:23",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩",
+      "rationale": "موصولہ فقرے لئی ضمیر پنجابی نے دتی، عبرانی نئیں"
+    },
+    {
+      "kind": "crux",
+      "subject": "תהו",
+      "rationale": "اوہو لفظ جو پیدائش 1:2 وِچ اے — 'اُڈیک\/بے-شکل'؛ 'بے کار چیز' وی منیا گیا اے"
+    }
+  ],
+  "translation": "⟨اوہ⟩ جو سرداراں نوں کُجھ نئیں بنا دندا، دھرتی دے حاکماں نوں اُڈیک ⟨پرتی⟩ ورگا بناؤندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b98ee671101c64af0e54df5fc32fe792ba3d5551e1d784d394155d4b21c38fe2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/40\/21-24.1792106699606.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "دندا اے"
+    },
+    {
+      "surface": "רוזנים",
+      "gloss": "سرداراں نوں"
+    },
+    {
+      "surface": "לאין",
+      "gloss": "کُجھ نئیں"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "حاکماں نوں"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "دھرتی دے"
+    },
+    {
+      "surface": "כתהו",
+      "gloss": "اُڈیک ⟨پرتی⟩ ورگا"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بناؤندا اے"
+    }
+  ],
+  "timestamp": "2026-10-15T23:24:59.607177615Z",
+  "model": "glm-5.3"
+}

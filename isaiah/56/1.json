@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 56:1",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اے⟩",
+      "rationale": "عبرانی وِچ کاپولا نئیں، پنجابی نوں 'ظاہر ہون لئی اے' منگدا سی"
+    },
+    {
+      "kind": "invitation",
+      "subject": "رکھو تے کرو",
+      "rationale": "یاہوہ دی حکمی مخاطبت — اسرائیل نوں سدّا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "مُکتی",
+      "rationale": "ישועתי چھوٹاوی\/مدد\/نجات اے، اِک پکا لفظ نئیں"
+    }
+  ],
+  "translation": "ایویں یاہوہ آکھدا اے: عدل نوں رکھو تے صداقت کرو، کیونکہ میری مُکتی آن لئی نیڑے اے تے میری صداقت ظاہر ہون لئی ⟨اے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4a23418dc5036747c8e984fd2eb5ba15533d7eb3ca8d10b29b9430e138f7cd43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/56\/1-4.1792106987758.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ایویں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھدا اے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "رکھو"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "عدل نوں"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "تے کرو"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "صداقت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "نیڑے اے"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "میری مُکتی"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "آن لئی"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "تے میری صداقت"
+    },
+    {
+      "surface": "להגלות",
+      "gloss": "ظاہر ہون لئی"
+    }
+  ],
+  "timestamp": "2026-10-15T23:29:47.758941112Z",
+  "model": "glm-5.3"
+}

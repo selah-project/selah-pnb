@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 20:4",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "پسל",
+      "rationale": "'تراشی ہوئی مورت' — مورتی سادہ ترازو اے پر نزدیک اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ממעל\/מתחת",
+      "rationale": "اُپر\/ہیٹھ دی تِن جُتی چiasm اے — اسمان، دھرتی، پانی — ترتیب رکھی گئی"
+    }
+  ],
+  "translation": "تُوں اپنے لئی کوئی مورتی نہ بنائیں، تے کوئی شکل وی نہ — جیہڑی اسماناں وِچ اُپر اے، تے جیہڑی دھرتی وِچ ہیٹھ اے، تے جیہڑی پانیاں وِچ دھرتی توں ہیٹھ اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "69a775fb3ec2f7e067ade54b76e564d770df72874c6f1c38229a2acf4d17d8ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/20\/1-4.1792096635258.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "بنائیں"
+    },
+    {
+      "surface": "לך",
+      "gloss": "اپنے لئی"
+    },
+    {
+      "surface": "پסל",
+      "gloss": "مورتی"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے کوئی"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "شکل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "اسماناں وِچ"
+    },
+    {
+      "surface": "مמעל",
+      "gloss": "اُپر"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "تے جیہڑی"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "دھرتی وِچ"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ہیٹھ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "تے جیہڑی"
+    },
+    {
+      "surface": "במים",
+      "gloss": "پانیاں وِچ"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "توں ہیٹھ"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "دھرتی"
+    }
+  ],
+  "timestamp": "2026-10-15T20:37:15.259072468Z",
+  "model": "glm-5.3"
+}

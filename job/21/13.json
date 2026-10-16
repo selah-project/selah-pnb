@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 21:13",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "چنگائی",
+      "rationale": "טוב 'چنگا' عام لفظ اے، 'دولت' نئیں — ترجمے آیت دے سیاق توں مطلب کڈھدے نیں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ברגע",
+      "rationale": "'اک پلک' — اکھ دا ہلنا، موت دی تیزی دی تصویر"
+    },
+    {
+      "kind": "elision",
+      "subject": "شیول",
+      "rationale": "عبرانی شیول نوں قبر نئیں آکھیا — موت دی تھاں دا ناں اے"
+    }
+  ],
+  "translation": "او اپنے دن چنگائی وِچ گزار دیندے نیں، تے اِک پلک وِچ شیول نوں اُتر جاندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bbead0a37655ffbed3813813b8c67392d5d7fb3d254befde5bae15624994ae1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/21\/13-16.1792115927026.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבלו",
+      "gloss": "گزار دیندے نیں"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "چنگائی وِچ"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "اپنے دن"
+    },
+    {
+      "surface": "וברגע",
+      "gloss": "تے اِک پلک وِچ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شیول نوں"
+    },
+    {
+      "surface": "יחתו",
+      "gloss": "اُتر جاندا اے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:58:47.027374997Z",
+  "model": "glm-5.3"
+}

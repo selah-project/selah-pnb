@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 3:23",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "החרב נחרבו",
+      "rationale": "مصدر مطلق تے فعل اِکو جڑ توں — مُکا سُٹنا، مُکا سُٹے گئے — عبرانی دی زور دار دہرائی۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "مُوآب نوں سدّن لئی پنجابی نُدا دا لفظ دِتا گیا، عبرانی وِچ صرف مُوآب۔"
+    }
+  ],
+  "translation": "تے اوہناں آکھیا: ایہ لہو اے — بادشاہ مُکا سُٹے گئے نیں، تے اوہناں ہر بندہ ⟨את⟩ اپنے ساتیں نوں ماریا اے؛ تے ہن لُٹائی لئی، اے مُوآب!",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "988ab2402c976aeb615252d2c2c8843834bbd2e059948347b8f1cb8ededf308e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/3\/21-24.1792104965634.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "تے اوہناں آکھیا"
+    },
+    {
+      "surface": "דם",
+      "gloss": "لہو"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہ"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "مُکا سُٹنا"
+    },
+    {
+      "surface": "נחרבו",
+      "gloss": "مُکا سُٹے گئے نیں"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "تے ماریا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ہر بندہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنے ساتیں نوں"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "اپنے ساتھی"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "تے ہن"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "لُٹائی لئی"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مُوآب"
+    }
+  ],
+  "timestamp": "2026-10-15T22:56:05.635488154Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 17:19",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "הרפות",
+      "rationale": "کُٹیا ہویا اناج — ایہو لفظ تنخ وِچ صرف ایتھے آؤندا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "گل نہ سُنی گئی",
+      "rationale": "عبرانی ‘‘دَبار نہ جاݨیا گیا’’ — پنجابی اِدم دے روپ وِچ"
+    }
+  ],
+  "translation": "تے اوہ زنانی نے لَے کے کھوہ دے مُونہہ اُتے ⟨את⟩ پردہ کھِلریا، تے اوہدے اُتے کُٹیا ہویا اناج کھِلر دِتا، تے گل نہ سُنی گئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2d71b50cd8a9e2a9e26b4079c477a1c0cea2e3e4995c5486c2e452a11c303ac7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/17\/17-20.1792103531428.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "تے لَے کے"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "اوہ زنانی"
+    },
+    {
+      "surface": "ותפרש",
+      "gloss": "کھِلریا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پردہ"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "پردہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مُونہہ"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "کھوہ دا"
+    },
+    {
+      "surface": "ותשטח",
+      "gloss": "تے کھِلر دِتا"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اوہدے اُتے"
+    },
+    {
+      "surface": "הרפות",
+      "gloss": "کُٹیا ہویا اناج"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "سُنی گئی"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گل"
+    }
+  ],
+  "timestamp": "2026-10-15T22:32:11.429532564Z",
+  "model": "glm-5.3"
+}

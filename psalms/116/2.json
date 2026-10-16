@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 116:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 116,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "کَن جُھکایا",
+      "rationale": "עזנו הטה — Hebrew idiom of God inclining the ear, i.e. attentively listening."
+    },
+    {
+      "kind": "addition",
+      "subject": "میرے سارے دِناں",
+      "rationale": "Hebrew says 'in my days'; 'all my days' is the idiomatic sense carried by the plural."
+    }
+  ],
+  "translation": "کیونکہ اوہنے اپنا کَن میرے وَل جُھکایا اے، تے میرے سارے دِناں وِچ ⟨میں⟩ اوہنوں پُکاراں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5897e4c1e51bf2c50d80e75a595ba47d56c93cfae3d2e2a5233a0143986693db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/116\/1-4.1792113811646.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "جُھکایا اے"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "اوہدا کَن"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرے وَل"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "تے میرے سارے دِناں وِچ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "پُکاراں گا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:23:31.647533074Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 12:14",
+  "book": "zechariah",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "משפחת משפחת",
+      "rationale": "عبرانی دہراؤ 'ٹبر ٹبر' = ہر ٹبر آپوں اِکو، پنجابی وِچ اکو جہی ودھ اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "وِکھری",
+      "rationale": "לבד 'وکھ، اِکلا' — 'ہر اِک وکھو وکھ' دا سیاق"
+    }
+  ],
+  "translation": "سارے ٹبر جیہڑے رہ جانے نیں — ٹبر ٹبر وِکھری، تے اوہناں دیاں تریمتیاں وِکھریاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9da2352e6f394225960ba5903795fbcb2a8b4fdd72ebf72b245f0f252075b458",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/zechariah\/12\/13-14.1792111580178.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "המשפחות",
+      "gloss": "ٹبر"
+    },
+    {
+      "surface": "הנשארות",
+      "gloss": "جیہڑے رہ جانے نیں"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ٹبر"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ٹبر"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "وِکھری"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "تے اوہناں دیاں تریمتیاں"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "وِکھریاں"
+    }
+  ],
+  "timestamp": "2026-10-16T00:46:20.179114905Z",
+  "model": "glm-5.3"
+}

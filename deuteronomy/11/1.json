@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 11:1",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "משמרתו",
+      "rationale": "اوہدی رکھوالی دی رکھوالی — عبرانی دا اندرونی جوڑ (شمر...משמרת) رکھیا گیا۔"
+    },
+    {
+      "kind": "you",
+      "subject": "اسرائیل",
+      "rationale": "ایہہ حکم سِدھا اسرائیل نال اے۔"
+    }
+  ],
+  "translation": "تے تُسیں ⟨את⟩ یاہوہ اپنے ایلوہیم نوں پیار کرو گے، تے اوہدی رکھوالی دی رکھوالی کرو گے، تے اوہدے حکم تے اوہدے فیصلے تے اوہدے احکام سارے دِناں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ef31f912133a2ad1a85300cb17934c74cead5a3e93929008cea6e78a38d84730",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/11\/1-4.1792099858774.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "تے تُسیں پیار کرو گے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "اپنے ایلوہیم"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "تے رکھوالی کرو گے"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "اوہدی رکھوالی دی رکھوالی"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "تے اوہدے حکم"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "تے اوہدے فیصلے"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "تے اوہدے احکام"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "دِناں"
+    }
+  ],
+  "timestamp": "2026-10-15T21:30:58.775148064Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 15:11",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "שרותך",
+      "rationale": "שרות (چھوٹ\/آزادی) تنخ وِچ صرف اِتھے آؤندا اے — سارے پرانے ترجمے اِک دوجے توں وکھرے پڑھدے نیں۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "אם לא שרותך לטוב",
+      "rationale": "وائیکلف\/کی جے وی: 'بیشک میں تینوں چنگائی لئی چھڈّ دیاںگا' (وعدہ) بمقابلہ وائیکلف: 'کی میں نئیں…؟' (سوال) — اِکو عبرانی دوویں پاسے جا سکدا اے۔"
+    },
+    {
+      "kind": "alternative",
+      "subject": "הפגעתי בך...את האיב",
+      "rationale": "دوجا مطالعہ: 'میں تیرے لئی دشمن اگے سفارش کیتی' (بی ایس بی) — فعل פגע دی سمیت کھلھی اے۔"
+    }
+  ],
+  "translation": "یاہوہ آکھدا اے: کی میں نئیں تیری چھوٹ چنگائی لئی کیتی؟ کی میں نئیں بُرے ویلے تے تنگی دے ویلے تیرے نال ⟨آ کے⟩ ⟨את⟩ دشمن نوں مِلیا؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ab3d2ed937c420afea07ddfd8bd62312d32f51d4c9ff7061f80ec9c81c7dd2f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/15\/10-11.1792123898080.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "آکھدا اے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "کی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "שרותך",
+      "gloss": "تیری چھوٹ"
+    },
+    {
+      "surface": "لטוב",
+      "gloss": "چنگائی لئی"
+    },
+    {
+      "surface": "אם",
+      "gloss": "کی"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "הפגעתי",
+      "gloss": "میں مِلیا"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تیرے نال"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ویلے وِچ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بُرے"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "تے ویلے وِچ"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "تنگی دے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دشمن"
+    },
+    {
+      "surface": "האיב",
+      "gloss": "دشمن"
+    }
+  ],
+  "timestamp": "2026-10-16T04:11:38.081096004Z",
+  "model": "glm-5.3"
+}

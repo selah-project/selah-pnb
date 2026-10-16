@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 139:22",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "پوری نفرت",
+      "rationale": "תכלית literally 'completion\/extremity' — 'utmost\/complete hatred' rather than moral 'perfect'."
+    }
+  ],
+  "translation": "پوری نفرت نال میں اوہناں توں نفرت کیتی اے؛ اوہ میرے دشمن بن گئے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1eda32a22fb1984b335321c369a0668a3e2046fbbda41aff5c9a3b27e93e8ce0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/139\/21-24.1792114124160.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תכלית",
+      "gloss": "پوری"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "نفرت"
+    },
+    {
+      "surface": "שנאתים",
+      "gloss": "میں اوہناں توں نفرت کیتی اے"
+    },
+    {
+      "surface": "לאויבים",
+      "gloss": "دشمن"
+    },
+    {
+      "surface": "היו",
+      "gloss": "بن گئے نیں"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:28:44.161545297Z",
+  "model": "glm-5.3"
+}

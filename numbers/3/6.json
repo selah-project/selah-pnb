@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 3:6",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Moshe",
+      "rationale": "Imperative an Moshe: הקרב und והעמדת sind direkte Befehle."
+    },
+    {
+      "kind": "addition",
+      "subject": "تاں جو",
+      "rationale": "Absichtskonjunktion, die das Hebräische hier nur durch die Verbform andeutet."
+    }
+  ],
+  "translation": "قبیلہ لِوی نوں ⟨את⟩ نیڑے کرو، تے اوہنوں ⟨אתו⟩ کاہن اہرون دے ساہمنے کھلوائیں، تاں جو اوہ اوہدی ⟨אתו⟩ خدمت کرن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a0917d52c1d7978ab02442be5920d8a43d150f2fd26bf333a3fc8033155d9923",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/3\/5-8.1792098309558.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הקרב",
+      "gloss": "نیڑے کرو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قبیلہ لِوی"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "قبیلہ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لِوی"
+    },
+    {
+      "surface": "והעמדת",
+      "gloss": "تے کھلوائیں"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "اہرون دے ساہمنے"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ساہمنے"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "ושרתו",
+      "gloss": "تے اوہ خدمت کرن"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "اہرون"
+    }
+  ],
+  "timestamp": "2026-10-15T21:05:09.558872391Z",
+  "model": "glm-5.3"
+}

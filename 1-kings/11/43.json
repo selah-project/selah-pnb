@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 11:43",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "اپنے پیوواں نال سُتا",
+      "rationale": "עם אבתיו לکھی حالت وچ موت دا عبرانی محاورہ"
+    },
+    {
+      "kind": "addition",
+      "subject": "گیا",
+      "rationale": "پنجانی مجہول، عبرانی وِچ سادہ قالب"
+    }
+  ],
+  "translation": "تے شلوموہ اپنے پیوواں نال سُتا، تے اپنے پیو داوِد دے شہر وِچ دفنایا گیا، تے اوہدا پُتر رَحَوام اوہدی تھاں راج کرن لگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "cbc5686352073280db1da9c26e022bc6c1af21427e447e8dcb73cda7b4cdadbb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/11\/41-43.1792104381610.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "سُتا"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلوموہ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "اپنے پیوواں"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "دفنایا گیا"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "شہر وِچ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "اپنے پیو"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "راج کرن لگا"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "رَحَوام"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اوہدا پُتر"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "اوہدی تھاں"
+    }
+  ],
+  "timestamp": "2026-10-15T22:46:21.611407279Z",
+  "model": "glm-5.3"
+}

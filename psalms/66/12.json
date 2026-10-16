@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 66:12",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לרויה",
+      "rationale": "רויה буквально سیرابی\/بھرپوری — ترجمے امیر تھاں، بھرپور تھاں، ترےات — لکھت سیرابی دے نیڑے اے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "بندے",
+      "rationale": "אנוש فانی بندہ — صرف بندہ نئیں، مرن ہار ہونا اوہدے وِچ اے۔"
+    }
+  ],
+  "translation": "تُسیں بندیاں نوں ساڈے سِراں اُتے سوار کیتا؛ اسیں اگّ وِچ تے پانی وِچ وڑے، تے تُسیں سانوں ⟨ترےات تھاں تے⟩ کڈھ دِتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "56782ef46e878ffa6f08f37a011266e91bec69f83797b221aa3e3faf934ce059",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/66\/9-12.1792112768815.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרכבת",
+      "gloss": "تُسیں سوار کیتا"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "לראשנו",
+      "gloss": "ساڈے سِراں اُتے"
+    },
+    {
+      "surface": "באנו",
+      "gloss": "اسیں وڑے"
+    },
+    {
+      "surface": "באש",
+      "gloss": "اگّ وِچ"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "تے پانی وِچ"
+    },
+    {
+      "surface": "ותוציאנو",
+      "gloss": "تے تُسیں سانوں کڈھ دِتا"
+    },
+    {
+      "surface": "לרויה",
+      "gloss": "⟨ترےات تھاں تے⟩"
+    }
+  ],
+  "timestamp": "2026-10-16T01:06:08.817055793Z",
+  "model": "glm-5.3"
+}

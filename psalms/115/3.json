@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اے⟩",
+      "rationale": "عبرانی وِچ کریا نئیں، پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בשמים",
+      "rationale": "دوہویں (dual) — دو اوٹھاں والا اسمان؛ پنجابی 'اسماناں' جمع نال دوہری شکل رکھی گئی"
+    }
+  ],
+  "translation": "تے ساڈا ایلوہیم اسماناں وِچ ⟨اے⟩؛ جو کجھ اوہنوں پسند آیا، اوہنے کیتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "80ac09966d24a74ffa4fcbea3480205d886b56e155f1cf2c46148ec88c69fb48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/115\/1-4.1792113763388.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "تے ساڈا ایلوہیم"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "اسماناں وِچ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "جو کجھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "پسند آیا"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کیتا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:22:43.389506628Z",
+  "model": "glm-5.3"
+}

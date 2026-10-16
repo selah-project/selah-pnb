@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 6:9",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יתר",
+      "rationale": "جڑ 'چھلڑنا\/تُرٹنا' — 'اوہدا ہتھ کھولھے' مقابل 'اوہدا ہتھ ہٹاوے'؛ نسخے کال دی طرف جھکدے نیں۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "وکھ کرے",
+      "rationale": "בצע دا مُڈھلا مطلب 'توڑ کے لینا\/غارت کرنا' اے — 'وکھ کرنا' اوہدا چِتر کول رکھدا اے۔"
+    }
+  ],
+  "translation": "کاش ایلوہ رضا کرے تے مینوں کُچھ دے، اوہدا ہتھ کھولھے تے مینوں وکھ کرے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "671760bb976709a9f9abe80a24b05c2ca760148014d1ec445f7cbefb10f33f06",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/6\/9-12.1792115495017.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאל",
+      "gloss": "رضا کرے"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ایلوہ"
+    },
+    {
+      "surface": "וידכאני",
+      "gloss": "تے مینوں کُچھ دے"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "کھولھے"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "اوہدا ہتھ"
+    },
+    {
+      "surface": "ויבצעני",
+      "gloss": "تے مینوں وکھ کرے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:51:35.017587712Z",
+  "model": "glm-5.3"
+}

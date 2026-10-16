@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 19:5",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "شلُمیم",
+      "rationale": "שלמים دا حرف-نقل رکھیا — تنخ دا خاص قربانی ناں اے، ترجمہ نئیں"
+    },
+    {
+      "kind": "crux",
+      "subject": "لרצנכם",
+      "rationale": "اپنی رضا موجب` (KJV) بمقابلہ `قبول ہون لئی` (JPS) — رِصون دے دونوں پاسے"
+    }
+  ],
+  "translation": "تے جدوں تسیں یاہوہ لئی شلُمیم دی قربانی ذبح کرو، اپنی رضا موجب ⟨اوہنوں⟩ ذبح کرو۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d5afeb929d4b000f574ca67650360a92ee191ae9b8594ea880768493d7a8ff5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/19\/5-8.1792097866168.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "تے جدوں"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "تسیں ذبح کرو"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "قربانی"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "شلُمیم دی"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ لئی"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "اپنی رضا موجب"
+    },
+    {
+      "surface": "תזבחהו",
+      "gloss": "⟨اوہنوں⟩ ذبح کرو"
+    }
+  ],
+  "timestamp": "2026-10-15T20:57:46.169292141Z",
+  "model": "glm-5.3"
+}

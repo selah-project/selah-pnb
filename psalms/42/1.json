@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "משכיל",
+      "rationale": "لمحة-لمحة سِکھاؤن والا\/عقلمند نغمہ؛ اِک صنف دا ناں اے، سادہ صفت نئیں"
+    }
+  ],
+  "translation": "مُنتظم لئی، بنے قورح دے پُتراں دا اِک سِکھاؤن والا نغمہ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9adda3a0b6d948574b8d5f6e9a495cfb0791bdaabbc2aee75c9250080c01ffbd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/42\/1-4.1792112465982.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "مُنتظم لئی"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "سِکھاؤن والا نغمہ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "پُتراں دا"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورح"
+    }
+  ],
+  "timestamp": "2026-10-16T01:01:05.982852950Z",
+  "model": "glm-5.3"
+}

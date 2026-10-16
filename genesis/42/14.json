@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 42:14",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نے",
+      "rationale": "پنجابی فعل اِگوایتی 'نے' منگدا اے، عبرانی وِچ نئیں۔"
+    },
+    {
+      "kind": "you",
+      "subject": "یوسف بھراواں نوں",
+      "rationale": "یوسف بھراواں نوں سدھا مخاطب کردا اے۔"
+    }
+  ],
+  "translation": "تے یوسف نے اوہناں نوں آکھیا: ایہو اوہ اے جو میں تہاڈے نوں آکھیا سی، آکھ کے: تسیں جاسوس او۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b080eeb48fdfeee6f4db1fd92b048b4d20d01703f83e984a7c8a00888f47d908",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/42\/13-16.1792095879410.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "اوہناں نوں"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ایہو اوہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "میں آکھیا"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "تہاڈے نوں"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ کے"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "جاسوس"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تسیں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:24:39.413915786Z",
+  "model": "glm-5.3"
+}

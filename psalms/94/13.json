@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 94:13",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יכרה",
+      "rationale": "کھُڈنا (dig) بنا ذکر فعل دے — ‘بدکار لئی گڈا کھُڈیا جاوے’؛ کجھ مترجم ‘بدکاری وُٹدا’ (plot) دسدے نیں۔"
+    },
+    {
+      "kind": "alternative",
+      "subject": "להשקיט لו",
+      "rationale": "مکمل لفظی: ‘اُوہدے لئی چُپ کراؤنا’ — یعنی برائی دے دِناں وِچ سکون دینا۔"
+    }
+  ],
+  "translation": "کہ بدی دے دِناں وِچوں اُوہنوں آرام دے، ایتھوں تک کہ بدکار لئی گڈا کھُڈیا جاوے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c9a08e5c29c1506f3893aaf998809516621aba1058ba6867a065c6c93e25ca0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/94\/13-16.1792113434394.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להשקיט",
+      "gloss": "کہ آرام دے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اُوہنوں"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "دِناں وِچوں"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بدی دے"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ایتھوں تک"
+    },
+    {
+      "surface": "יכרה",
+      "gloss": "کھُڈیا جاوے"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "بدکار لئی"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "گڈا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:17:14.394980479Z",
+  "model": "glm-5.3"
+}

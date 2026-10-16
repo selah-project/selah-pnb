@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 6:10",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "חמש אמות",
+      "rationale": "پنج ہتھ (اَمّہ) اُچائی — ہیکل دی اساری دی ناپ"
+    },
+    {
+      "kind": "crux",
+      "subject": "היצוע",
+      "rationale": "'پساری\/پلنگ' دی شکل — سائیڈ-کمرےآں دی پٹی یا منزلاں؛ 'پہلو دی اساری' شکل نیڑے رکھی گئی"
+    }
+  ],
+  "translation": "تے اُس نے ⟨את⟩ پہلو دی اساری سارے گھر اُتے بنائی، پنج ہتھ اوہدی اُچائی؛ تے اُس نے ⟨את⟩ گھر نوں دیودار دی لکڑ نال جوڑیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b291258192b9064879a8291a92eedb88d5b66afdef0b548eeb45d4d9e83554b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/6\/9-12.1792104091745.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "بنایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پہلو دی اساری"
+    },
+    {
+      "surface": "היצוע",
+      "gloss": "پہلو دی اساری"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "اوہدی اُچائی"
+    },
+    {
+      "surface": "ויאחז",
+      "gloss": "جوڑیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گھر"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "لکڑ نال"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "دیودار"
+    }
+  ],
+  "timestamp": "2026-10-15T22:41:31.746043542Z",
+  "model": "glm-5.3"
+}

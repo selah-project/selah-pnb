@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "میں",
+      "rationale": "عبرانی وِچ ضمیر صیغے وِچ اے، پنجابی وِچ وکھو وکھ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "איכה",
+      "rationale": "איכה دا لفظ بعد وِچ ایلیاہ دے میل دا ناں بنیا — اداس سوال دی آواز، پنجابی 'کِویں' وِچ ہلکی جہی رہندی اے"
+    }
+  ],
+  "translation": "میں اِکلا کِویں چُکّاں تُہاڈا بجھ، تے تُہاڈا بھار، تے تُہاڈیاں جھگڑیاں؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7ad343c6a9f3c2409e5db444556643da6e3a0932ec8447c87792229105ba673d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/1\/9-12.1792099491545.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "کِویں"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "چُکّاں"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "اِکلا"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "تُہاڈا بجھ"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "تے تُہاڈا بھار"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "تے تُہاڈیاں جھگڑیاں"
+    }
+  ],
+  "timestamp": "2026-10-15T21:24:51.546459879Z",
+  "model": "glm-5.3"
+}

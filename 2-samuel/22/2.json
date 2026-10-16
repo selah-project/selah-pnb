@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 22:2",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اے⟩",
+      "rationale": "عبرانی وِچ کپولا نئیں، پنجابی واک بݨاوݨ لئی رکھیا۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לי",
+      "rationale": "استھائی 'میرے لئی' جیہنوں 'میرا' ای کہہ دتا — پنجابی وِچ لگاؤن دا ودھیک ہٹا دتا۔"
+    }
+  ],
+  "translation": "تے اوہنے آکھیا: یاہوہ ⟨اے⟩ میرا چٹان، تے میری قلعہ، تے میرا چھڑان والا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "22829b331f01b37e5e509c3177c4a99e24074ca3f0057e4dd5dd4cb715f1d438",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/22\/1-4.1792103772340.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے اوہنے آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "میرا چٹان"
+    },
+    {
+      "surface": "ומצדתי",
+      "gloss": "تے میری قلعہ"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "تے میرا چھڑان والا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرے لئی ⟨اے⟩"
+    }
+  ],
+  "timestamp": "2026-10-15T22:36:12.341080784Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 45:5",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "کورس نوں",
+      "rationale": "آیت سدھی مخاطب اے — سیاق (45:1) وِچ کورس نال گل اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "אאזרך",
+      "rationale": "'کمر باندھیا' (بس دا مطلب) بمقابلہ 'جنگ لئی تیار کیتا' (BSB ورگا آزاد پڑھائی)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "باندھیا",
+      "rationale": "אזר دا شبدی مطلب 'پیٹی\/کمر کس کے بنھنا' اے"
+    }
+  ],
+  "translation": "میں یاہوہ آں، تے کوئی ہور نئیں؛ میرے سِوا کوئی ایلوہیم نئیں۔ میں تینوں ⟨کمر⟩ باندھیا اے، تے تُوں میں نوں نئیں جانیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a2319d47bf10e5600081d6627eb87009091f23f577112c5d2b1cfb5b64ecdd40",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/45\/5-8.1792106854373.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "تے کوئی نئیں"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ہور"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "میرے سِوا"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کوئی نئیں"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "אאזרך",
+      "gloss": "میں تینوں باندھیا اے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "تُوں میں نوں جانیا"
+    }
+  ],
+  "timestamp": "2026-10-15T23:27:34.373692381Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 18:17",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "کیہ",
+      "rationale": "עברי سوال دا نشان، پنجابی منگدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "تُربھی وِچ پاؤندا",
+      "rationale": "עכר دا مُڈھلا مطلب مٹیا ہویا پانی — روپ دھارے وچ پریشانی، شکل رکھی گئی اے"
+    },
+    {
+      "kind": "you",
+      "subject": "اَخآب دا اِلییاهو نوں سوال",
+      "rationale": "سِدھا مخاطب — بادشاہ نبی نوں پُچھدا اے"
+    }
+  ],
+  "translation": "تے ہویا اے، جدوں اَخآب نے ⟨את⟩ اِلییاهو نوں ویکھیا، تاں اَخآب نے اوہدے نوں آکھیا: کیہ تُوں اوہ ای اے جیہڑا یِسرائیل نوں تُربھی وِچ پاؤندا اے؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "504816e03c8e004468c2349f92b3c1f16f5a1ea567f4874d490f3afaf7fa58c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/18\/17-20.1792104690796.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے ہویا اے"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "جدوں ویکھیا"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "اَخآب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اِلییاهو"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "اِلییاهو"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "اَخآب"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اوہدے نوں"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "کیہ تُوں"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اوہ ای"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "تُربھی وِچ پاؤن والا"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-10-15T22:51:30.796680098Z",
+  "model": "glm-5.3"
+}

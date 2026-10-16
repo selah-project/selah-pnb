@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ruth 2:21",
+  "book": "ruth",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אם",
+      "rationale": "עד אם دا شرطی 'اِم' پنجابی وِچ وکھرا نئیں ٹِردا، 'کہ' نال رَلایا گیا"
+    },
+    {
+      "kind": "addition",
+      "subject": "کہ",
+      "rationale": "عبرانی دا اَنُ Kok وِچ گل بات دا جوڑ پنجابی 'کہ' نال منگدا اے"
+    }
+  ],
+  "translation": "تے روت موآبی زنانی نے آکھیا: اوہنے مینوں ایہہ وی آکھیا کہ میرے نوجواناں نال، جیہڑے میرے نیں، جُڑی رہو، جدوں تک ⟨کہ⟩ اوہناں ⟨את⟩ ساری فصل، جیہڑی میری اے، مُکا نہ لین۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "dbaa07bbc94ff09d7eb10587cabfa1086177a2ab022eb61a343598f8cd0324cc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ruth\/2\/21-23.1792116903276.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "רות",
+      "gloss": "روت"
+    },
+    {
+      "surface": "המואביה",
+      "gloss": "موآبی زنانی نے"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مینوں"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "نوجواناں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑے"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرے نیں"
+    },
+    {
+      "surface": "תדבקין",
+      "gloss": "جُڑی رہو"
+    },
+    {
+      "surface": "עד",
+      "gloss": "جدوں تک"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨کہ⟩"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "مُکا نہ لین"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ساری فصل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "הקציר",
+      "gloss": "فصل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میری اے"
+    }
+  ],
+  "timestamp": "2026-10-16T02:15:03.276764088Z",
+  "model": "glm-5.3"
+}

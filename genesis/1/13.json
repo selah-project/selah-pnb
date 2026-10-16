@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 1:13",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ہوئی\/ہویا",
+      "rationale": "عبرانی ויהی دا مکمل فعل اے، سہاواں نئیں — پنجابی وچ فعل دی صیغہ بندی لئی جوڑیا گیا"
+    },
+    {
+      "kind": "measurement",
+      "subject": "تِجھا دن",
+      "rationale": "دناں دی گنتی دا فارمولا، ہر سرویش دا دہراؤ"
+    }
+  ],
+  "translation": "تے شام ہوئی تے سویر ہویا — تِجھا دن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a6c8848f1ec5934cf37513f2c9cd4ebec9aad6c165f2a0036feef99f8b86fca4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/1\/13-16.1792094673337.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے ہوئی"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "شام"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "تے ہویا"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "سویر"
+    },
+    {
+      "surface": "יום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "تِجھا"
+    }
+  ],
+  "timestamp": "2026-10-15T20:04:33.338238490Z",
+  "model": "glm-5.3"
+}

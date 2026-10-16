@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 18:25",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מֹהַר",
+      "rationale": "مہر — 'داج' وِی آکھیا جاندا اے؛ 'بdovry' تے 'price' دوویں پڑھائیاں نیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חשב",
+      "rationale": "اوہدے مطلب وِچ 'منصوبہ بنانا' اے — 'سوچیا' سادہ اے، پر مکر ایتھے چھپیا اے"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "'کیوں جو' دی تھاں 'سِوائے…دے' — عبرانی دی لڑی ٹُٹی"
+    }
+  ],
+  "translation": "تے شاؤل نے آکھیا: اِیوں آکھو داوِد نوں: بادشاہ نوں مہر وِچ کوئی چاہ نئیں، سِوائے پِلشتِیاں دیاں سو لتھاں دے، تاں جو بادشاہ دے ویریاں توں بدلا لیا جاوے۔ تے شاؤل نے سوچیا داوِد نوں پِلشتِیاں دے ہتھے ڈِگاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3947b1780ce21376e3cbc01f787976095b2ff64ba28f91a1f5f3f0d8c5bcbd9c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/18\/25-28.1792102704413.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "כה",
+      "gloss": "اِیوں"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "آکھو"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد نوں"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "چاہ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "بادشاہ نوں"
+    },
+    {
+      "surface": "במהר",
+      "gloss": "مہر وِچ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "سِوائے ⟨تاں جو⟩"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "سو"
+    },
+    {
+      "surface": "ערלות",
+      "gloss": "لتھاں"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "پِلشتِیاں دِیاں"
+    },
+    {
+      "surface": "להנקם",
+      "gloss": "بدلے لئی"
+    },
+    {
+      "surface": "באיבי",
+      "gloss": "ویریاں توں"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ دے"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "تے شاؤل"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "سوچیا"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "ڈِگاں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داوِد"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد نوں"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ہتھے"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "پِلشتِیاں دے"
+    }
+  ],
+  "timestamp": "2026-10-15T22:18:24.414415715Z",
+  "model": "glm-5.3"
+}

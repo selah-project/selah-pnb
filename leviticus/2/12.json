@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 2:12",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ہو",
+      "rationale": "عبرانی وِچ کاپولا نئیں، پنجابی نے جوڑیا۔"
+    },
+    {
+      "kind": "you",
+      "subject": "کاہناں نوں",
+      "rationale": "אתם (اوہناں نوں) تے حکم — براہ راست مخاطبہ، گل بینوں نال۔"
+    }
+  ],
+  "translation": "پہلاں پھلاں دی قربانی وجوں تسیں ⟨את⟩ اوہناں نوں یاہوہ لئی لیاؤندے ہو، پر قربان گاہ اُتے اوہ خوشبو، سکھ دین والی لئی نئیں چڑھدے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "144bcf371a4a9b6f0310814f2135b7f2aa7b5a2eec824b06de461ab233121cc2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/2\/9-12.1792097358947.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרבן",
+      "gloss": "قربانی"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "پہلاں پھلاں دی"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "تسیں لیاؤندے ہو"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ لئی"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "پر اُتے"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "قربان گاہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "چڑھدے"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "خوشبو لئی"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "سکھ دین والی"
+    }
+  ],
+  "timestamp": "2026-10-15T20:49:18.948957291Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 34:27",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نوں",
+      "rationale": "پنجابی مفعول لئی 'نوں' منگدا اے، عبرانی وِچ نئیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ماریا",
+      "rationale": "חלל ہنے والے — 'ودھائے ہوئے' لفظی نیں؛ 'مارے ہوئے' سیاق دا کام اے"
+    }
+  ],
+  "translation": "یعقوو دے پُتراں نے مارے ہوئیاں اُتے آ دھاکیا تے شہر نوں لُٹ لیا، کیوں جو اوہناں نے اوہناں دی بھین نوں پلید کیتا سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7cfb335228328d23693a0a7b3b5db923c326c531c158f5f5984ef2d129878abf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/34\/26-27.1792123248819.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "دے پُتراں نے"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    },
+    {
+      "surface": "באו",
+      "gloss": "آ دھاکیا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "החלالים",
+      "gloss": "مارے ہوئیاں"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "تے لُٹ لیا"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر نوں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "پلید کیتا سی"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "اوہناں دی بھین نوں"
+    }
+  ],
+  "timestamp": "2026-10-16T04:00:48.820295376Z",
+  "model": "glm-5.3"
+}

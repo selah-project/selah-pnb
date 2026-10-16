@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "عبرانی وِچ ماضی دی نشانی نئیں، پنجابی نوں 'سی' منگدا اے"
+    }
+  ],
+  "translation": "تے بالاق صِپّور دے پُتر نے ویکھیا ⟨את⟩ سب کُجھ جیہڑا یِسرائیل نے اَموری نال کیتا سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ec2b09880c3eb528bdb762c35f45472513c45496523e19d40021a0e47d74c480",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/22\/1-4.1792098977992.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ویکھیا"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بالاق"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "صِپّور"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سب کُجھ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کیتا سی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل نے"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "اَموری نال"
+    }
+  ],
+  "timestamp": "2026-10-15T21:16:17.992947325Z",
+  "model": "glm-5.3"
+}

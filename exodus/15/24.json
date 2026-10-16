@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Moshe",
+      "rationale": "قوم دی شکایت موشے نال سِدھی گل اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "וילנו",
+      "rationale": "מלון — بِن وِچ کھانا پیݨ لئی شکایت، “بغاوت” نئیں"
+    }
+  ],
+  "translation": "تے قوم نے موشے اُتے شکایت کیتی، آکھیا: “اسیں کی پیویے؟”",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "cf8c720d123cbb9253908586f969c4be994690da457a19806077978c6dcb568e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/15\/21-24.1792096458658.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "شکایت کیتی"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم نے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کی"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "پیویے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:34:18.659535452Z",
+  "model": "glm-5.3"
+}

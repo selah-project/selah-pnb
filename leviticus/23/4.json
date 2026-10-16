@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 23:4",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תקראו\/מקראי",
+      "rationale": "فیر اکو جڑ ک-ר-آ — پکار تے سمبل دا جوڑ، پنجابی وِچ گُم"
+    },
+    {
+      "kind": "measurement",
+      "subject": "مقرر سمیں",
+      "rationale": "تہواراں دے مقرر ویلے متھے گئے نیں"
+    }
+  ],
+  "translation": "ایہے یاہوہ دے مقرر سمیں نیں، پاک سنبلاں، جیہڑے تسیں اوہناں دے اپنے مقرر سمیں وِچ پکاریو گے ⟨את⟩ اوہناں نوں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b3d0fc4e4072df08a2e8eaa075ad5aec8d392f95e273127b2ca8247fa846ee97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/23\/1-4.1792098015980.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ایہے"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "مقرر سمیں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "سنبلاں"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑے"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "پکاریو گے"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "اوہناں نوں"
+    },
+    {
+      "surface": "במועדם",
+      "gloss": "اوہناں دے مقرر سمیں وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T21:00:15.981163116Z",
+  "model": "glm-5.3"
+}

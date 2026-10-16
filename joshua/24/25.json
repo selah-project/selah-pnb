@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 24:25",
+  "book": "joshua",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ברית כרת",
+      "rationale": "عبرانی 'عہد کٹنا' — پنجابی وِچ 'عہد کیتا'، کٹنے دا تصویر ونج گیا"
+    },
+    {
+      "kind": "elision",
+      "subject": "ביום ההוא",
+      "rationale": "'اُس دِن' — بریٹ دے حوالے دی لوڑ پئی، دیبرانت نئیں"
+    }
+  ],
+  "translation": "تے یہوشُع نے اُس دن قوم لئی ⟨⟩ عہد کیتا تے شکیم وِچ اوہدے لئی حکم تے انصاف مقرر کیتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0ea6fac4e53442ab14b92e2bd76b615d1d1ef32e85e05d23b0a442b331fef423",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joshua\/24\/25-28.1792101275961.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "کیتا"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یہوشُع"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "عہد"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "قوم لئی"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "دِن"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اُس"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "مقرر کیتا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدے لئی"
+    },
+    {
+      "surface": "חק",
+      "gloss": "حکم"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "تے انصاف"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "شکیم وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T21:54:35.962243662Z",
+  "model": "glm-5.3"
+}

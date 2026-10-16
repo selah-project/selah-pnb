@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 33:21",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سانوں",
+      "rationale": "עברית وِچ کریا نال فاعل دی ضمیر نئیں، پنجابی کریا منگدی اے"
+    }
+  ],
+  "translation": "کیوں جو اُوہدے وِچ ساڈا دل خوش ہوندا اے، کیوں جو اُوہدے پوترے ناں اُتے سانوں بھروسہ اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a916f9d90cad1c57c489438c97d4795a397d2217c582100b666eb5e16c7c782b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/33\/21-22.1792112236399.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اُوہدے وِچ"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "خوش ہوندا اے"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "ساڈا دل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ناں اُتے"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "اُوہدا پوترا"
+    },
+    {
+      "surface": "בטחנו",
+      "gloss": "سانوں بھروسہ اے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:57:16.399689531Z",
+  "model": "glm-5.3"
+}

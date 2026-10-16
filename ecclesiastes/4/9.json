@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "טובים…טוב",
+      "rationale": " verse opens and closes with 'good' — good are the two, good is their reward — framing repetition lost partly in Punjabi word order."
+    },
+    {
+      "kind": "addition",
+      "subject": "کیونکہ",
+      "rationale": "אשר here introduces the ground of the comparison; Punjabi needs the conjunction supplied."
+    }
+  ],
+  "translation": "دو چنگے نیں اِک توں، کیونکہ اوہناں نوں اوہناں دی محنت وِچ چنگا بدلہ اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "da31e3970c32c59c4f9f012eaedb32f6b05f7cec520d2046e0f09b862f94130b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ecclesiastes\/4\/9-12.1792117354062.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "چنگے نیں"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "اِک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "اے"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اوہناں نوں"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "بدلہ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگا"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "اوہناں دی محنت وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T02:22:34.063125435Z",
+  "model": "glm-5.3"
+}

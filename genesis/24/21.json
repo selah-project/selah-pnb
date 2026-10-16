@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 24:21",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نوں",
+      "rationale": "پنجابی مفعول لئی ’نوں‘ منگدا اے، عبرانی وِچ نئیں"
+    },
+    {
+      "kind": "you",
+      "subject": "servant",
+      "rationale": "بندہ اوہدے اُتے نظر پائی بیٹھا اے، پر آیت سِدھی مخاطب نئیں"
+    }
+  ],
+  "translation": "تے اوہ بندہ اوہدے اُتے حیران ہو رہیا سی، چُپ کر کے ایہہ جانن لئی کہ یاہوہ نے اوہدی راہ نوں کامیاب کیتا اے یا نئیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "929efbe90f8e3e4962f02e9091b861a681496f80a429afb3f9334022efb959b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/24\/21-24.1792095221309.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "تے اوہ بندہ"
+    },
+    {
+      "surface": "משתאה",
+      "gloss": "حیران ہو رہیا سی"
+    },
+    {
+      "surface": "לה",
+      "gloss": "اوہدے اُتے"
+    },
+    {
+      "surface": "מחריש",
+      "gloss": "چُپ کر کے"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "جانن لئی کہ"
+    },
+    {
+      "surface": "ההצליח",
+      "gloss": "کامیاب کیتا اے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "اوہدی راہ نوں"
+    },
+    {
+      "surface": "אם",
+      "gloss": "یا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:13:41.310297687Z",
+  "model": "glm-5.3"
+}

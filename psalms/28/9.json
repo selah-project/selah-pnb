@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 28:9",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اپنے\/اپنی",
+      "rationale": "عبرانی وِچ ضمیر جڑی ہوئی اے (עמך، נחלתך)، پنجابی وِچ وکھ لفظ منگدا اے — بریکٹ توں باہر کیوں جو اوہ ٹوکن دا حصہ اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "وנשאם",
+      "rationale": "נשא = 'چُکنا\/اُٹھانا': 'اُچا چُکنا'، 'چَکیو جانا' (jps 'carry') یا 'پالنا' — مترجم واں وِچ وکھرا"
+    },
+    {
+      "kind": "invitation",
+      "subject": " Psalm 28:9",
+      "rationale": "یاہوہ نوں سدھی عرض — 'اپنے قوم نوں بچا' — بندیاں دے فعل امر نال دعا"
+    }
+  ],
+  "translation": "⟨את⟩ اپنے قوم نوں بچا، تے ⟨את⟩ اپنی وِراثت نوں برکت دیو، تے اوہناں دی چرائی کر، تے اوہناں نوں اُچا چُک، سدا تیک۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "148f3cb8edf9a33d506ebfe46cde3702e171ff4e49225e6ff3010540e0c90737",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/28\/9-9.1792112117688.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "بچا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنے قوم نوں"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "اپنے قوم نوں"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "تے برکت دیو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنی وِراثت نوں"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "اپنی وِراثت نوں"
+    },
+    {
+      "surface": "ורעם",
+      "gloss": "تے اوہناں دی چرائی کر"
+    },
+    {
+      "surface": "ונשאם",
+      "gloss": "تے اوہناں نوں اُچا چُک"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تیک"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "سدا"
+    }
+  ],
+  "timestamp": "2026-10-16T00:55:17.689300447Z",
+  "model": "glm-5.3"
+}

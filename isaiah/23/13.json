@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 23:13",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "בחין",
+      "rationale": "چوکیدار مینار دا لفظ تنخ وِچ اِکو واری آیا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "זה העם לא היה",
+      "rationale": "‘ایہہ قوم نئیں سی’ — کسدِیم پہلے کوئی قوم نئیں سن، یا ایہہ ٹُر دا قوم سی؟ مترجم وکھرے پڑھدے نیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לציים",
+      "rationale": "‘بیابانی ترکھیے’ — لفظ دی لاٹری ‘چلن والے \/ جنگلی جانور’"
+    }
+  ],
+  "translation": "ویکھو کسدِیم دی زمین! ایہہ قوم ⟨نئیں⟩ سی؛ اَشّور نے اوہنوں بیابانی ترکھیےآں لئی بنیاد دِتی۔ ⟨اوہناں نے⟩ اوہدے چوکیدار مینار کھڑے کیتے، اوہدے قلعے ڈھا دتے، اوہنوں نیوسی لئی پا دِتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "55c261131dfbbb23620c228e788c4477ab817ae41d967429cd8f6bcbbe3ffe23",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/23\/13-16.1792106264369.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ویکھو"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "کسدِیم"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "היה",
+      "gloss": "سی"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "اَشّور"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "بنیاد دِتی"
+    },
+    {
+      "surface": "לציים",
+      "gloss": "بیابانی ترکھیےآں لئی"
+    },
+    {
+      "surface": "הקימו",
+      "gloss": "کھڑے کیتے"
+    },
+    {
+      "surface": "בחיניו",
+      "gloss": "چوکیدار مینار"
+    },
+    {
+      "surface": "עררו",
+      "gloss": "ڈھا دتے"
+    },
+    {
+      "surface": "ארמנותיה",
+      "gloss": "اوہدے قلعے"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "پا دِتا"
+    },
+    {
+      "surface": "למפלה",
+      "gloss": "نیوسی لئی"
+    }
+  ],
+  "timestamp": "2026-10-15T23:17:44.369947492Z",
+  "model": "glm-5.3"
+}

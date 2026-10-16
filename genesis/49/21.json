@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 49:21",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אמרי שפר",
+      "rationale": "'سوہنے بچن' (KJV\/JPS) بمقابلہ 'سوہنے بچے' (BSB، אמרי نوں یلد دے قریب پڑھ کے)"
+    },
+    {
+      "kind": "addition",
+      "subject": "اِک … اے",
+      "rationale": "عبرانی وِچ کوئی اشار نئیں؛ پنجابی جملے لئی پایا"
+    }
+  ],
+  "translation": "نفتالی اِک ہِنی اے، گھلی ہوئی، سوہنے بچن دین والی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "93b0d21c5b4cb20d6cfd0ba103f7a3d38581c723a1d9718ddd685f799721e13c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/49\/21-24.1792096086218.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפתלי",
+      "gloss": "نفتالی"
+    },
+    {
+      "surface": "אילה",
+      "gloss": "ہِنی"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "گھلی ہوئی"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "دین والی"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "بچن"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "سوہنے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:28:06.219154240Z",
+  "model": "glm-5.3"
+}

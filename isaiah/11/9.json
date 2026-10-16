@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 11:9",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨حصے⟩",
+      "rationale": "بَکُول چنگے پنجابی واسطے پئی گئی، عبرانی وِچ صرف بکول دا اِک مل کے اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "כמים לים מכסים",
+      "rationale": "'جیویں پانی سمندر نوں ڈھکن دے نیں' — کجھ مترجم پلٹا دیندے نیں 'جیویں سمندر پانی نال بھریا اے'؛ عبرانی اصلی ترتیب پانی-توں-سمندر-اتے رکھی اے"
+    }
+  ],
+  "translation": "نئیں اوہ برا کرنگے تے نئیں تباہ کرنگے میرے پوتر پہاڑ دے سارے ⟨حصے⟩ وِچ، کیوں جو دھرتی بھری اے گیان نال ⟨את⟩ یاہوہ دے، جیویں پانی سمندر نوں ڈھکن دے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "40ad29122bc801ab7c835e82fd8e3a800f1174ce92c6bcc5b7ddf1f553f906dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/11\/9-12.1792106012164.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "اوہ برا کرنگے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "ישחיתו",
+      "gloss": "تباہ کرنگے"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سارے … وِچ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "میرے پوتر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "بھری اے"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "دھرتی"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "گیان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "جیویں پانی"
+    },
+    {
+      "surface": "לים",
+      "gloss": "سمندر نوں"
+    },
+    {
+      "surface": "מכסים",
+      "gloss": "ڈھکن دے نیں"
+    }
+  ],
+  "timestamp": "2026-10-15T23:13:32.164721819Z",
+  "model": "glm-5.3"
+}

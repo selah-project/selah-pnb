@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 5:6",
+  "book": "esther",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨تینوں⟩ ⟨اوہ⟩",
+      "rationale": "عبرانی وِچ کرمیل فعل دا مفعول صرف ضمیر نال، پنجابی نوں پورا لفظ چاہیدا"
+    },
+    {
+      "kind": "measurement",
+      "subject": "بادشاہی دا ادھ",
+      "rationale": "بادشاہ اپنی بادشاہی دے ادھ تک دی ناپ دِتی وعدہ کردا اے"
+    },
+    {
+      "kind": "you",
+      "subject": "اِستیر نوں",
+      "rationale": "بادشاہ سدیاں اِستیر نال گل کردا اے"
+    }
+  ],
+  "translation": "تے بادشاہ نے شراب دی مِہمانی وِچ اِستیر نوں آکھیا: تیری منگ کی اے، تے ⟨تینوں⟩ دتی جاوے؟ تے تیری عرض کی اے؟ بادشاہی دے ادھ تک ⟨اوہ⟩ ہو جاوے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3c605cda140b6bbc6f14507df3805437f8b392bb7a953cfd738f2d5f67c4cc35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/esther\/5\/5-8.1792117840738.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ نے"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "اِستیر نوں"
+    },
+    {
+      "surface": "במשתה",
+      "gloss": "مِہمانی وِچ"
+    },
+    {
+      "surface": "היין",
+      "gloss": "شراب دی"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کی"
+    },
+    {
+      "surface": "שאלתך",
+      "gloss": "تیری منگ"
+    },
+    {
+      "surface": "וינתן",
+      "gloss": "تے دتی جاوے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تینوں"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "تے کی"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "تیری عرض"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "ادھ"
+    },
+    {
+      "surface": "המלכות",
+      "gloss": "بادشاہی دے"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "تے ہو جاوے"
+    }
+  ],
+  "timestamp": "2026-10-16T02:30:40.739710530Z",
+  "model": "glm-5.3"
+}

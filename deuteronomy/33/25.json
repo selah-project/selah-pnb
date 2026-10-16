@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 33:25",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מנעליך",
+      "rationale": "'تیرے کُنڈے' (دروازے دیاں کڑیاں) بمقابلہ 'تیرے جُتیاں' (KJV\/Wycliffe) — عبرانی دا مطلب بُتّھا اے"
+    },
+    {
+      "kind": "hapax",
+      "subject": "דבאך",
+      "rationale": "דֹבֶא تنخ وِچ صرف ایتھے آؤندا اے، مطلب 'چُپ' جاں 'بھریا ہویا دان'؛ 'طاقت' سیاق توں"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ہووے⟩",
+      "rationale": "عبرانی وِچ فعل نئیں، پنجابی جملہ منگدا اے"
+    }
+  ],
+  "translation": "لوہا تے تانبا تیرے کُنڈے ہون، تے جیویں تیرے دن، اویں ⟨ہووے⟩ تیری طاقت۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "67f3d8fca57661e18ca252ddd0319b9708581d1a1571610ed31b1af14c4eb4e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/33\/25-28.1792100573049.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "لوہا"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "تے تانبا"
+    },
+    {
+      "surface": "מנעליך",
+      "gloss": "تیرے کُنڈے"
+    },
+    {
+      "surface": "וכימיך",
+      "gloss": "تے جیویں تیرے دن"
+    },
+    {
+      "surface": "דבאך",
+      "gloss": "تیری طاقت"
+    }
+  ],
+  "timestamp": "2026-10-15T21:42:53.049637824Z",
+  "model": "glm-5.3"
+}

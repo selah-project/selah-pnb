@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 15:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רעהו\/רעה",
+      "rationale": "'یار' تے 'برائی' اکو جڑ ر-ע-ہ توں نیں — ورتیا رشتہ تے برائی وچ وینگ، پنجابی وِچ گُم۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "بدنامی لاؤندا",
+      "rationale": "רגל صفتی لفظ 'پیراں نال تُرنا' توں اے، دوجیاں دے پچھے پھرنا — 'بدنامی لاؤنا' رواجی سمجھ اے۔"
+    }
+  ],
+  "translation": "جیہڑا اپنی زبان نال بدنامی نئیں لاؤندا، اپنے یار نوں برائی نئیں کردا، تے اپنے قریبی اُتے طعنہ نئیں چُکدا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7bd07a927db12a3c9f3ba9985d72ca75203c33e4e56e90f4e39c2c8eb5ed67a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/15\/1-4.1792111999254.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "بدنامی لاؤندا"
+    },
+    {
+      "surface": "על",
+      "gloss": "نال"
+    },
+    {
+      "surface": "לשנו",
+      "gloss": "اپنی زبان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کردا"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "اپنے یار نوں"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "וחרפה",
+      "gloss": "تے طعنہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "چُکدا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "اپنے قریبی"
+    }
+  ],
+  "timestamp": "2026-10-16T00:53:19.254953913Z",
+  "model": "glm-5.3"
+}

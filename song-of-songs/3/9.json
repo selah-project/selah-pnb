@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 3:9",
+  "book": "song-of-songs",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אפריון",
+      "rationale": "نایاب لفظ: پالکی (سلیمان دا ویاہ دا تخت) بمقابلہ بعض تراجم محل یا گڈی۔"
+    }
+  ],
+  "translation": "تخت-پالکی بادشاہ شیلموہ نے اپنے لئی لبنان دے رُکھاں توں بنوائی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "71e21560894ad074036b41b027eeb0e5db4d25da6f0b12fef7a17e933d8ca081",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/song-of-songs\/3\/9-11.1792116662412.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אפריון",
+      "gloss": "پالکی"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بنوائی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اپنے لئی"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شیلموہ"
+    },
+    {
+      "surface": "מעצי",
+      "gloss": "رُکھاں توں"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "لبانان دے"
+    }
+  ],
+  "timestamp": "2026-10-16T02:11:02.413390818Z",
+  "model": "glm-5.3"
+}

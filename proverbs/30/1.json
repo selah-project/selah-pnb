@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 30:1",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לאיתיאל ואכל",
+      "rationale": "ناں نیں (اِتیایِل تے اُکھل) جاں جملہ 'مَیں خدا لئی تھک گیا واں تے رَل گیا واں' — بہوں مترجم اِتھے وکھرے نیں"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ایہہ⟩ \/ ⟨لئی⟩",
+      "rationale": "عبرانی وِچ نئیں، پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לאיתיאל",
+      "rationale": "اوہو اکھر ناں وی تے جملہ وی — عبرانی دا دوہرا مطلب پنجابی وِچ گُم ہو جاندا اے"
+    }
+  ],
+  "translation": "اگوُر دے بچن، یاکِہ دا پُتر — ⟨ایہہ⟩ بوجھ، اوہ بندے دا آکھنا: اِتیایِل ⟨لئی⟩، اِتیایِل تے اُکھل ⟨لئی⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c1f519550c5932c037aff7281dde419de295c41d45ca261f3051263f39fa2982",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/30\/1-4.1792115267443.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "بچن"
+    },
+    {
+      "surface": "אגור",
+      "gloss": "اگوُر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "יקה",
+      "gloss": "یاکِہ"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "⟨ایہہ⟩ بوجھ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "آکھنا"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "اوہ بندے"
+    },
+    {
+      "surface": "לאיתיאל",
+      "gloss": "اِتیایِل ⟨لئی⟩"
+    },
+    {
+      "surface": "לאיתיאל",
+      "gloss": "اِتیایِل"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "تے اُکھل ⟨لئی⟩"
+    }
+  ],
+  "timestamp": "2026-10-16T01:47:47.443725682Z",
+  "model": "glm-5.3"
+}

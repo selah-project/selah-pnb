@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 4:9",
+  "book": "ezra",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לקיש لکھیا",
+      "rationale": "אדין دا فعل (لکھیا) پچھلی آیت توں آندا اے، ایس آیت وِچ صرف ناں نیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "بعل-طعم",
+      "rationale": "בעל טעם اک سرکاری خطاب اے — سردار\/متحمّل؛ حرف-نقل رکھیا تے وضاحت ⟨⟩ وِچ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "قومیں دی لسٹ",
+      "rationale": "ناواں دی گنتی — خط لکھن والے نوَ قبیلیاں دی پوری فہرست"
+    }
+  ],
+  "translation": "تے رہُوم بعل-طعم ⟨سردار⟩ تے شِمشے لکھاری تے اوہناں دے باقی ساتھی — دِنائی، اَفرستخیائی، طرپلائی، افرسائی، ارکوی، بابلی، شوشنخیائی، دِہاوای جو عیلامی نیں —",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1c2eac6fa0bee047c4dc0d89f940497835a3a73ad713520aa0fdb8c151b1fb21",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezra\/4\/9-12.1792119049923.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "تے"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "رہُوم"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "بعل"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "طعم"
+    },
+    {
+      "surface": "ושמשי",
+      "gloss": "تے شِمشے"
+    },
+    {
+      "surface": "ספרא",
+      "gloss": "لکھاری"
+    },
+    {
+      "surface": "ושאר",
+      "gloss": "تے باقی"
+    },
+    {
+      "surface": "כנותהון",
+      "gloss": "اوہناں دے ساتھی"
+    },
+    {
+      "surface": "דיניא",
+      "gloss": "دِنائی"
+    },
+    {
+      "surface": "ואפרסתכיא",
+      "gloss": "اَفرستخیائی"
+    },
+    {
+      "surface": "טרפליא",
+      "gloss": "طرپلائی"
+    },
+    {
+      "surface": "אפרסיא",
+      "gloss": "افرسائی"
+    },
+    {
+      "surface": "ארכוי",
+      "gloss": "ارکوی"
+    },
+    {
+      "surface": "בבליא",
+      "gloss": "بابلی"
+    },
+    {
+      "surface": "שושנכיא",
+      "gloss": "شوشنخیائی"
+    },
+    {
+      "surface": "דהוא",
+      "gloss": "جو"
+    },
+    {
+      "surface": "עלמיא",
+      "gloss": "عیلامی"
+    }
+  ],
+  "timestamp": "2026-10-16T02:50:49.924338215Z",
+  "model": "glm-5.3"
+}

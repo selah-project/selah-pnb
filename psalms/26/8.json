@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 26:8",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "یاہوہ",
+      "rationale": "سِدھا یاہوہ نوں مخاطب"
+    }
+  ],
+  "translation": "یاہوہ، میں تیرے گھر دے رہن دی تھاں نوں پیار کیتا اے، تے تیرے جلال دے مسکن دی تھاں نوں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "60fce77910616cd9c245ceb15c47eed972a069c102c8eca9d765fa5097c59c2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/26\/5-8.1792112170368.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "پیار کیتا اے"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "رہن دی تھاں"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "تیرے گھر دے"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "تے … دی تھاں"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "مسکن"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "تیرے جلال دے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:56:10.369060786Z",
+  "model": "glm-5.3"
+}

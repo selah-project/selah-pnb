@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 16:32",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "اَس والا",
+      "rationale": "אפים دے مطلب نک\/تُنّ اے — عبرانی وِچ غصے دا ٹکاݨا نک اے؛ 'لمبی اَس' = ہولی غصہ"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨اے اوہ چنگا اے⟩",
+      "rationale": "دوجی تلنbart وِچ عبرانی دا ٹوکن صرف پہلی واری اے؛ پنجابی لئی دہرایا"
+    }
+  ],
+  "translation": "چنگا اے لمبی اَس والا گبھرو توں، تے جیہڑا اپنی روح اُتے راج کردا ⟨اے اوہ چنگا اے⟩ شہر فتح کرن والے توں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b8d5488630d9718e13a4c86dab67c1fab2abc533b365a14780e881385f43e6c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/16\/29-32.1792114780915.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چنگا اے"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "لمبی"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "اَس والا"
+    },
+    {
+      "surface": "מגבור",
+      "gloss": "گبھرو توں"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "تے راج کردا"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "اپنی روح اُتے"
+    },
+    {
+      "surface": "מלכד",
+      "gloss": "فتح کرن والے توں"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    }
+  ],
+  "timestamp": "2026-10-16T01:39:40.916014361Z",
+  "model": "glm-5.3"
+}

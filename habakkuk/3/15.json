@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "habakkuk 3:15",
+  "book": "habakkuk",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חומר",
+      "rationale": "ایہدا مطلب 'ابلتا ہِٹھ\/کِیڑ' اے — کجھ 'پانیاں دا ڈھیر' آکھدے نیں، میں ابلاوٹ دی صورت رکھی اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "پیدا ہویا",
+      "rationale": "عبرانی وچ کوئی کریا نئیں، صرف ہِٹھ دا ذکر اے؛ پنجابی جملے لئی ⟨پیدا ہویا⟩ پایا۔"
+    }
+  ],
+  "translation": "تُوں نے سمندر وِچ اَپنے گھوڑیاں نال روڑھا، وڈھیاں پانیاں دا ہِٹھ ⟨پیدا ہویا⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "45f117aa822882145116e35a6fa09473d570895da61666be3f0fb7885cb22b73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/habakkuk\/3\/13-16.1792111344246.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דרכת",
+      "gloss": "روڑھا"
+    },
+    {
+      "surface": "בים",
+      "gloss": "سمندر وِچ"
+    },
+    {
+      "surface": "סוסיך",
+      "gloss": "اَپنے گھوڑیاں نال"
+    },
+    {
+      "surface": "חומר",
+      "gloss": "ہِٹھ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پانیاں"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "وڈھیاں"
+    }
+  ],
+  "timestamp": "2026-10-16T00:42:24.247722132Z",
+  "model": "glm-5.3"
+}

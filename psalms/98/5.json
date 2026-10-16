@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 98,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "זמרו\/זמרה",
+      "rationale": "اوہو جڑ ל-מ-ר آغاز تے انت اُتے — وجاؤ تے گیت، پنجابی وِچ ایہہ فقرہ بازی گُم ہو جاندی اے۔"
+    },
+    {
+      "kind": "invitation",
+      "subject": "بجاؤ",
+      "rationale": "بہتوں صیغے دی حکم آیت، پورے آیت-گروپ 4–9 دا سدا۔"
+    }
+  ],
+  "translation": "یاہوہ نوں کنّور نال بجاؤ، کنّور نال تے گیت دی آواز نال۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d0c70d0449de28f277a4e22571880ac3cd848c2108023311254a4152dd585472",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/98\/5-8.1792113499447.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "بجاؤ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ نوں"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "کنّور نال"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "کنّور نال"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "تے آواز"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "گیت دی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:18:19.448029004Z",
+  "model": "glm-5.3"
+}

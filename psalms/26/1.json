@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 26:1",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "انصاف نال",
+      "rationale": "שפטני وِچ عبرانی دا مطلب 'فیصلہ کر' اے — دوویں پاسے دا ہو سکدا اے، پنجابی نے کسے پاسے دا چُݨیا"
+    },
+    {
+      "kind": "crux",
+      "subject": "לא אמעד",
+      "rationale": "'نئیں لَہساندا' (موجودہ پکا) بمقابلہ 'نئیں لَہساں' (گل کرن والے دا یقین) — عبرانی دوناں نوں سہار دیندا اے"
+    }
+  ],
+  "translation": "داوِد دا۔ یاہوہ ای، مینوں ⟨انصاف نال⟩ فیصلہ دے، کیوں جو میں اپنی سادگی وِچ ٹریا آں، تے یاہوہ اُتے بھروسہ کیتا اے، ایس لئی میں لَہساں نئیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c1625a3339a801d19092547c4881464665dc0a2dd25d9b8e187962f73e39d976",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/26\/1-4.1792112200935.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد دا"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "مینوں فیصلہ دے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "اپنی سادگی وِچ"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "ٹریا آں"
+    },
+    {
+      "surface": "וביהוה",
+      "gloss": "تے یاہوہ اُتے"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "بھروسہ کیتا اے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "אמעד",
+      "gloss": "لَہساں"
+    }
+  ],
+  "timestamp": "2026-10-16T00:56:40.936251886Z",
+  "model": "glm-5.3"
+}

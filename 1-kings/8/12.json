@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 8:12",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אמר…אמר",
+      "rationale": "'آکھیا… آکھیا' — سلیمان دا آکھن تے یاہوہ دا آکھن اِکو لفظ نال جُڑے نیں"
+    },
+    {
+      "kind": "crux",
+      "subject": "ערפל",
+      "rationale": "'گوڑھا ہنیر' — کجھ مترجم 'بادل' اتے کجھ 'اندھیرا' آکھدے نیں؛ مول لفظ گھٹدا آسمانیں ہنیر اے"
+    },
+    {
+      "kind": "you",
+      "subject": "سلیمان",
+      "rationale": "سلیمان دا بچن، بادی وِچ موجود کاہناں تے قوم ول"
+    }
+  ],
+  "translation": "اودوں سلیمان نے آکھیا: یاہوہ نے آکھیا کہ اوہ گوڑھے ہنیر وِچ وسے گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5a4410f162ccfad969b89850ef66aa415dd1b91d9b54a93cb4d14de09287504e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/8\/9-12.1792104270934.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "اودوں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "سلیمان نے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "وسے گا"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "گوڑھے ہنیر وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T22:44:30.935941466Z",
+  "model": "glm-5.3"
+}

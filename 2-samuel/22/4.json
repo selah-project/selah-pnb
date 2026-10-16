@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 22:4",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מהולל אקרא יהוה",
+      "rationale": "'میں تعریف والے یاہوہ نوں پکاریاں گا' (KJV) بمقابلہ 'تعریف کیتی جاندی اے — میں یاہوہ نوں پکاریا' (JPS\/عبرانی لفظ ترتیب) — دوناں پڑھائیاں پرچار وِچ نیں۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משעי\/אושע",
+      "rationale": "22:3 دے مשעی تے 22:4 دے אושע اکو جڑ (ישע) توں نیں — 'بچان والا' تے 'بچیا' دا تالم پنجابی وِچ مٹھا اے۔"
+    }
+  ],
+  "translation": "تعریف والے نوں — یاہوہ نوں — میں پکاریاں گا، تے اپنے ویریاں توں میں بچیا جاواں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "22829b331f01b37e5e509c3177c4a99e24074ca3f0057e4dd5dd4cb715f1d438",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/22\/1-4.1792103772340.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מהולל",
+      "gloss": "تعریف والے نوں"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "میں پکاریاں گا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ نوں"
+    },
+    {
+      "surface": "ומאויבי",
+      "gloss": "تے اپنے ویریاں توں"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "میں بچیا جاواں گا"
+    }
+  ],
+  "timestamp": "2026-10-15T22:36:12.341435537Z",
+  "model": "glm-5.3"
+}

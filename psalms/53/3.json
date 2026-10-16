@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 53:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 53,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨کہ⟩",
+      "rationale": "عبرانی وِچ 'کہ' نئیں، پنجابی جملہ منگدا اے۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ایلوہیم دی جھات",
+      "rationale": "آیت اک گنتی دی پڑتال اے — کوئی سمجھدار اے؟ کوئی منگدا اے؟"
+    }
+  ],
+  "translation": "ایلوہیم نے اسماناں توں جھات پائی آدمیاں دی اولاد اُتے، ویکھن لئی ⟨کہ⟩ کوئی سمجھدار اے، کوئی ایلوہیم نوں ⟨את⟩ منگدا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "11f4fd5d5f402ea558e860ad4da049524b37a5cbce193374b0584f471e58d19c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/53\/1-4.1792112661112.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "اسماناں توں"
+    },
+    {
+      "surface": "השکיף",
+      "gloss": "جھات پائی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…دی اولاد"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ویکھن لئی"
+    },
+    {
+      "surface": "היש",
+      "gloss": "کی کوئی اے"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "سمجھدار"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "منگدا اے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایلوہیم"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-10-16T01:04:21.113294065Z",
+  "model": "glm-5.3"
+}

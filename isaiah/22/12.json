@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 22:12",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "مونڈی سر",
+      "rationale": "לקרחה سِر'dا 'گنجا پن' اے — پنجابی وِچ 'سِر' دا لفظ سیاق نال دتا گیا۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לבכי ולמספד ולקרחה ולחגר שק",
+      "rationale": "چاروں سوگ دے کماں اُتے اِکو 'ل' دی آواز — سوگ دی لہر، پنجابی وِچ صرف 'تے' نال دہرائی۔"
+    }
+  ],
+  "translation": "تے اُس دن ادونای یاہوہ تصواوت نے سوگ تے بین، مونڈی سر تے ٹاٹ بنھن لئی سدّیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a8df3a0bd92b14c5d595ea3309762a66406f5ac26837093517551adb04537708",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/22\/9-12.1792106159905.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "تے سدّیا"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "تصواوت"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "اُس دن"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اُس"
+    },
+    {
+      "surface": "לבכי",
+      "gloss": "سوگ لئی"
+    },
+    {
+      "surface": "ולמספד",
+      "gloss": "تے بین"
+    },
+    {
+      "surface": "ולקרחה",
+      "gloss": "تے مونڈی سر"
+    },
+    {
+      "surface": "ולחגר",
+      "gloss": "تے بنھن"
+    },
+    {
+      "surface": "שק",
+      "gloss": "ٹاٹ"
+    }
+  ],
+  "timestamp": "2026-10-15T23:15:59.906467231Z",
+  "model": "glm-5.3"
+}

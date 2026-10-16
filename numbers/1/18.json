@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 1:18",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨دن⟩",
+      "rationale": "عبرانی وِچ صرف ‘اک’ اے، پنجابی ‘پہلے دن’ منگدا اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "پوری آیت",
+      "rationale": "گنتی دا حکم — ناواں دی گنتی، ویہہ وریھاں توں اُتے، سر-بہ-سر"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לגלגלתם",
+      "rationale": "لفظی مطلب اے ‘کھوپری’ — گنتی وِچ ‘سر-بہ-سر’ رکھیا اے، تصویر جیوندی"
+    }
+  ],
+  "translation": "تے ⟨את⟩ ساری عمرت نوں دوئیے مہینے دے پہلے ⟨دن⟩ اکٹھا کیتا، تے اوہناں نے اپنیاں کنبیاں وِچ، اپنے پیو-دادیاں دے گھراں وِچ، ناواں دی گنتی نال، ویہہ وریھاں دے بیٹے توں اُتے، سر-بہ-سر، اپنا جم-نسب دسیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5838d805e1730833b235a238c4f25a536657472b152ade4d3e2413dec3bff45d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/1\/17-20.1792098249741.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ساری عمرت نوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "عمرت"
+    },
+    {
+      "surface": "הקהילו",
+      "gloss": "اکٹھا کیتا"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "پہلے ⟨دن⟩"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "مہینے"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دوئیے"
+    },
+    {
+      "surface": "ויתילדו",
+      "gloss": "تے اپنا جم-نسب دسیا"
+    },
+    {
+      "surface": "על",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "משפחתם",
+      "gloss": "اپنیاں کنبیاں"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "گھراں وِچ"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "اپنے پیو-دادیاں دے"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "گنتی نال"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ناواں دی"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "بیٹے توں"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ویہہ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "وریھاں"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "توں اُتے"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "سر-بہ-سر"
+    }
+  ],
+  "timestamp": "2026-10-15T21:04:09.741966560Z",
+  "model": "glm-5.3"
+}

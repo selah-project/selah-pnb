@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 18:16",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חקי … תורתיו",
+      "rationale": "دو جوڑے لفظ — حکم تے تورات — اِکو جملے وِچ دہرائی؛ پنجابی وِچ جوڑ قایم اے پر عبرانی دی آہنگ نئیں۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "جدوں … تاں",
+      "rationale": "عبرانی כי יהיה صرف 'کیونکہ ہووے' اے — پنجابی وچ مشروط جوڑ لازمی آیا۔"
+    }
+  ],
+  "translation": "کیونکہ جدوں اوہناں لئی کوئی گل ہوندی اے تاں میرے کول آؤندی اے، تے میں اِک بندے تے اوہدے یار دے وچکار فیصلہ کردا آں، تے میں ⟨את⟩ ایلوہیم دے حکماں نوں تے ⟨את⟩ اوہدیاں توراتاں نوں دسدا آں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ce328a5cdd359ac2f207792e9f058d238e634b94be6fbaf36c2442434ab8bab6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/18\/13-16.1792096638178.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوندی اے"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اوہناں لئی"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گل"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آؤندی اے"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میرے کول"
+    },
+    {
+      "surface": "ושפטתי",
+      "gloss": "تے میں فیصلہ کردا آں"
+    },
+    {
+      "surface": "בין",
+      "gloss": "وچکار (اِک)"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "تے وچکار"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "اوہدے یار"
+    },
+    {
+      "surface": "והודעתי",
+      "gloss": "تے میں دسدا آں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حکماں نوں"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "حکماں نوں"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم دے"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "توراتاں نوں"
+    },
+    {
+      "surface": "תורתיו",
+      "gloss": "اوہدیاں توراتاں نوں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:37:18.179570912Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-samuel 17:54",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "اپنے ڈیرے وِچ",
+      "rationale": "באהללו — 'اوس دے اپنے ڈیرے' (بَرقیت) دے مقابلے ویکلف دا پرانا پڑھاؤ 'یاہوہ دے ڈیرے وِچ' (مسکن) سی"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ہتھیار",
+      "rationale": "כליو مطلب 'اوس دا سَند\/سامان' — سیاق ہتھیار دسدا اے، پر لفظ سامان دا عام لفظ اے"
+    }
+  ],
+  "translation": "تے داوِد نے ⟨את⟩ اوس فِلستی دا سر لے کے یروشلایم لے آندا، تے ⟨את⟩ اوس دے ہتھیار اپنے ڈیرے وِچ رکھے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ec733bd8fea3bc62283a4684d678d2bdb8b426e343e89844a8cbee86867b89a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/17\/53-56.1792102654880.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "لے کے"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوس فِلستی دا سر"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "اوس فِلستی"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "لے آندا"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اوس دے ہتھیار"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "اوس دے ہتھیار"
+    },
+    {
+      "surface": "שם",
+      "gloss": "رکھے"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "اپنے ڈیرے وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T22:17:34.881303184Z",
+  "model": "glm-5.3"
+}

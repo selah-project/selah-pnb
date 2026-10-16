@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 11:1",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨گیت⟩ ⟨وانگوں⟩ ⟨ول⟩",
+      "rationale": "عبرانی وِچ نئیں، پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جان-ساہ اے، صرف 'rooh' نئیں"
+    },
+    {
+      "kind": "crux",
+      "subject": "نُودُو",
+      "rationale": "جمع امر: 'بھج جاؤ' — کُجھ مترجم اک singular 'بھج جا' کردے نیں (KJV بمقابلہ JPS 'ye birds')"
+    },
+    {
+      "kind": "invitation",
+      "subject": "پورا مخاطب",
+      "rationale": "شاعر آپنے ساتھیاں دے خوف والے آکھن نوں سوال نال واپس ماردا اے"
+    }
+  ],
+  "translation": "مربی لئی، داوِد دا ⟨گیت⟩۔ یاہوہ وِچ میں پناہ لئی اے — کیوں آکھدے او میری جان نوں: بھج جاؤ، اِک چڑی ⟨وانگوں⟩، تیرے پہاڑ ⟨ول⟩؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f02f3330c4fda7bdb82299e862584d872de357f9dcfc72725284e49181bcefae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/11\/1-4.1792112002451.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "مربی لئی"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد لئی"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "یاہوہ وِچ"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "میں پناہ لئی"
+    },
+    {
+      "surface": "איך",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "آکھدے او"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "میری جان نوں"
+    },
+    {
+      "surface": "נודו",
+      "gloss": "بھج جاؤ"
+    },
+    {
+      "surface": "הרכם",
+      "gloss": "تیرے پہاڑ"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "اِک چڑی"
+    }
+  ],
+  "timestamp": "2026-10-16T00:53:22.452057550Z",
+  "model": "glm-5.3"
+}

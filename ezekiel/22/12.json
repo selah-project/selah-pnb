@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 22:12",
+  "book": "ezekiel",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "نئیں ⟨نوں⟩",
+      "rationale": "קחת دی علامت اے، 'توں' ظاہر کرن لئی pnb وِچ صرف لفظ چُکیا گیا — عبرانی وِچ کافی اے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "کٹیا",
+      "rationale": "בצע 'توڑنا\/کٹنا\/لُٹنا' دا اِک ای لفظ اے — 'کٹیا' لفظی شک رکھدا اے۔"
+    },
+    {
+      "kind": "you",
+      "subject": "یروشلایم نُو",
+      "rationale": "فعل دا صیغہ تیراث (توں) شہر نوں سدھا خطاب اے۔"
+    }
+  ],
+  "translation": "تیرے وِچ رشوت لئی لہو ڈولن لئی؛ سود تے وادھا توں لئی، تے ظلم نال اپنیاں پڑوسیاں نوں کٹیا، تے ⟨את⟩ مینوں بھلا دتا — ادونای یاہوہ دا آکھنا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "79f9d99b002c91211468242fab69a423619d8b9711a4e1a1971b42177f35253f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/22\/9-12.1792109597125.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שחד",
+      "gloss": "رشوت"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "لئی"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تیرے وِچ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "لئی"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "ڈولن"
+    },
+    {
+      "surface": "דם",
+      "gloss": "لہو"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "سود"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "تے وادھا"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "لئی"
+    },
+    {
+      "surface": "ותבצעי",
+      "gloss": "تے کٹیا"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "اپنیاں پڑوسیاں نوں"
+    },
+    {
+      "surface": "בעשק",
+      "gloss": "ظلم نال"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "تے ⟨את⟩"
+    },
+    {
+      "surface": "שכחת",
+      "gloss": "بھلا دتا"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "دا آکھنا"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-10-16T00:13:17.126848101Z",
+  "model": "glm-5.3"
+}

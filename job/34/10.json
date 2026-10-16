@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 34:10",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "to men of understanding",
+      "rationale": "Elihu summons his hearers with imperative שמעו"
+    },
+    {
+      "kind": "you",
+      "subject": "to the wise men",
+      "rationale": "direct second-person address by Elihu"
+    },
+    {
+      "kind": "idiom",
+      "subject": "חללה",
+      "rationale": "interjection 'far be it!' — literal 'a profaned thing', rendered as پنجابی دوری دی دعا"
+    }
+  ],
+  "translation": "لہٰذا دل والے بندیو، میرے سنّو: ایل ⟨توں⟩ بری گل ⟨توں⟩ دور ہووے، تے شدّای ⟨توں⟩ ظلم۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3ffb375b8b937087dca96c982a7456ed856af0c4bcf2792f26d1c4f6c82c5b6c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/34\/9-12.1792116325445.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "لہٰذا"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "بندیو"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "دل والے"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "سنّو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرے"
+    },
+    {
+      "surface": "חללה",
+      "gloss": "دور ہووے"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "מרשע",
+      "gloss": "بری گل توں"
+    },
+    {
+      "surface": "ושדי",
+      "gloss": "تے شدّای"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "ظلم توں"
+    }
+  ],
+  "timestamp": "2026-10-16T02:05:25.446021189Z",
+  "model": "glm-5.3"
+}

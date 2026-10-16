@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 19:24",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מאת יהוה",
+      "rationale": "'یاہوہ دے ولوں' — کجھ مترجم دوویں یاہوہ نوں اِک سمجھدے نیں، کجھ دوجی مطلب لبھدے نیں؛ متن دوویں واری ناں لکھدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "השמים",
+      "rationale": "دوہوا (dual) 'اسمان' — ریت اِک لفظ، دوہری شکل عبرانی وِچ رہندی اے"
+    }
+  ],
+  "translation": "تے یاہوہ نے سدُوم اُتے تے عمورہ اُتے گندھک تے اگّ وسی، ⟨את⟩ یاہوہ دے ولوں، اسماناں ولوں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1b9c393f0642792d16d44d3439edc797b2e9bf6c9bea95040bc345850880ab16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/19\/21-24.1792095003345.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "تے یاہوہ نے"
+    },
+    {
+      "surface": "המטיר",
+      "gloss": "وسی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "سدُوم"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "عمورہ"
+    },
+    {
+      "surface": "גפרית",
+      "gloss": "گندھک"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "تے اگّ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ ولوں",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ولوں"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "اسماناں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:10:03.346938328Z",
+  "model": "glm-5.3"
+}

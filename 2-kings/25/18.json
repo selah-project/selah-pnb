@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 25:18",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "רב טבחים",
+      "rationale": "لفظی 'جَلّاداں دا سردار' — قتل کرن والیاں دا افسر؛ روایتی 'گارڈ دا کپتان' اے۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "تن پَہریدار",
+      "rationale": "بندیاں دی گِنتی — تن دَروازے دار، اگلی آیت وِچ ہور گنتی۔"
+    }
+  ],
+  "translation": "تے جَلّاداں دے سردار نے ⟨את⟩ سِرایاہ مُکھیا کاہن نوں تے ⟨את⟩ تُسفنیاہو دُوجے کاہن نوں تے ⟨את⟩ دَروازے دے تن پَہریداراں نوں پھڑیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f3e6f30233979fe242ff0f2f16cab7868083b443f5e777e8e69adf2a90cbc644",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/25\/17-20.1792105787572.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "تے پھڑیا"
+    },
+    {
+      "surface": "רב",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "جَلّاداں دے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سِرایاہ مُکھیا کاہن"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "سِرایاہ"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "مُکھیا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "تُسفنیاہو دُوجا کاہن"
+    },
+    {
+      "surface": "צפניהו",
+      "gloss": "تُسفنیاہو"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "دُوجا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "تن پَہریدار"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "تن"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "پَہریدار"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "دَروازے دے"
+    }
+  ],
+  "timestamp": "2026-10-15T23:09:47.573128477Z",
+  "model": "glm-5.3"
+}

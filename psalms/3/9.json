@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 3:9",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "عبرانی وِچ copula نئیں، پنجابی جملے لئی ⟨اے⟩ پایا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מוקتی",
+      "rationale": "הישועہ — مدد، فتح، نجات ساریاں_SM سندیاں نیں؛ پنجابی 'مُکتی' وِچ 'مدد\/فتح' دی جھلک گھٹ اے"
+    },
+    {
+      "kind": "hapax",
+      "subject": "סלה",
+      "rationale": "سنگیت رُکن دا نشان — ترجمہ نئیں، حرف-نقل 'سِلاہ'"
+    }
+  ],
+  "translation": "یاہوہ دے کول ⟨اے⟩ مُکتی؛ تیریاں برکتاں تیرے قوم اُتے ہون۔ سِلاہ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1e5256742b8da765fc6a8e55eeb049274ecfd9ef0927008167d0942e4b06c099",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/3\/9-9.1792111748506.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ دے کول"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "مُکتی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تیرے قوم"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "تیریاں برکتاں"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سِلاہ"
+    }
+  ],
+  "timestamp": "2026-10-16T00:49:08.506966572Z",
+  "model": "glm-5.3"
+}

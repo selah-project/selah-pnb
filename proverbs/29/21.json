@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 29:21",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מנון",
+      "rationale": "ایہہ لفظ تنخ وچ صرف ایتھے آیا اے؛ معنی غیر یقینی اے — وارث، باغی، یا دکھ دا سبب۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "مونون",
+      "rationale": "ترجمے وکھرے نیں: KJV 'پتر بنیا'، JPS 'مالک بنیا'، BSB 'دکھ پاویگا' — عبرانی دا مڈھوالا مطلب واضح نئیں۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "اوہو",
+      "rationale": "پنجابی جملے لئی لوڑیدی ضمیر، عبرانی وِچ نئیں۔"
+    }
+  ],
+  "translation": "جو بندہ اپنے نوکر نوں نِکّی عمر توں لاڈ نال پالدا اے، اوہدے انت وچ اوہ ⟨اوہو⟩ وارث بنیا گوشت-خرچ ⟨وَگا⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9bef0474573f69c111e98c95d3281ec1fafffe8fd6f88626d7b2c184f0204893",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/29\/21-24.1792115163918.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מפנק",
+      "gloss": "لاڈ نال پالدا اے"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "نِکّی عمر توں"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "اپنے نوکر نوں"
+    },
+    {
+      "surface": "ואחריתו",
+      "gloss": "تے اوہدے انت وچ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہووےگا"
+    },
+    {
+      "surface": "מנון",
+      "gloss": "وارث بنیا گوشت-خرچ ⟨وَگا⟩"
+    }
+  ],
+  "timestamp": "2026-10-16T01:46:03.918640501Z",
+  "model": "glm-5.3"
+}

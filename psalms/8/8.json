@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "צנה",
+      "rationale": "לفظ צֹנֶא صرف اِتھے آندا اے — 'انبار\/بھیڈاں'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "فہرست",
+      "rationale": "آیت راج دیاں چیزاں دی گنتی کردی اے — بھیڈاں، بیل، جنگلی جانور"
+    }
+  ],
+  "translation": "بھیڈاں تے بیل، سبھے، بلکہ کھیتراں دے جانور وی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "268bfcd211b5d4c36c7f6e12facb2d85493245ab393c1b5c4a8577bb5f61ff54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/8\/5-8.1792111907310.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "بھیڈاں"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "تے بیل"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "سبھے"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "بلکہ … وی"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "جانور"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "کھیتراں دے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:51:47.311207046Z",
+  "model": "glm-5.3"
+}

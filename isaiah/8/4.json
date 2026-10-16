@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 8:4",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "بچپن دی میعاد",
+      "rationale": "نشانی دا ویلہ گِنیا گیا اے — بولنا سِکھن توں پہلاں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "مال",
+      "rationale": "חיל 'دولت\/تاکات\/فوج' — اِک لفظ، پنجابی وِچ 'مال' چُنیا"
+    }
+  ],
+  "translation": "کیوں جے اس توں پہلاں کہ بال جاݨے کہ 'میں پیو، تے میں ماں' آکھے، دمشق دا ⟨את⟩ مال تے شومرون دا ⟨את⟩ لُٹ اشور دے بادشاہ اگے چُکیا جائے گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e2d06167ceeb8678f62676fc08be23cbdbd69f391e823400572719e4f3f4f4ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/8\/1-4.1792105879378.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جے"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "توں پہلاں"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "جاݨے"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "بال"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "آکھے"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "میں پیو"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "تے میں ماں"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "چُکیا جائے گا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دمشق دا مال"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "مال"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "دمشق دا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "شومرون دا لُٹ"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "لُٹ"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "شومرون"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اگے"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "اشور دے"
+    }
+  ],
+  "timestamp": "2026-10-15T23:11:19.379329663Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 10:2",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "הזה",
+      "rationale": "הספר ہ ہזہ — پنجابی وِچ ایہہ چِٹھی وچ مؤخر دکھایا گیا۔"
+    },
+    {
+      "kind": "you",
+      "subject": "چِٹھی دے پڑھن والے",
+      "rationale": "یِہوٗ دی چِٹھی سِدھی سرداراں تے بزرگاں نوں مخاطب اے — تُساں صیغہ۔"
+    },
+    {
+      "kind": "mystery",
+      "subject": "چِٹھی دا مضمون",
+      "rationale": "یِہوٗ دا اصل مَطلب (10:6–7) ایتھے چھپیا ہویا اے — پڑھن والا اجے نئیں جاندا۔"
+    }
+  ],
+  "translation": "تے ہُن جدوں ایہہ چِٹھی تُہاڈے کول آوے، تے تُہاڈے کول ⟨את⟩ تُہاڈے سائیاں دے پُتر نیں، تے تُہاڈے کول ⟨את⟩ رَتھ تے گھوڑے نیں، تے اِک مضبوط شہر تے ہتھیار ⟨نیں⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d4e50aa8915e2e755faa7ba87899cdc7e2c1afe79244906a9173676e6150e0bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/10\/1-4.1792105136081.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "تے ہُن"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "جدوں آوے"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "ایہہ چِٹھی"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "تُہاڈے کول"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩",
+      "marks": "تُہاڈے سائیاں دے پُتر"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "تُہاڈے سائیاں دے"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩",
+      "marks": "رَتھ تے گھوڑے"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "رَتھ"
+    },
+    {
+      "surface": "והסוסים",
+      "gloss": "تے گھوڑے"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "تے شہر"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "مضبوط"
+    },
+    {
+      "surface": "והנשק",
+      "gloss": "تے ہتھیار"
+    }
+  ],
+  "timestamp": "2026-10-15T22:58:56.082657708Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 5:13",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "گھیری رکھدا ایں",
+      "rationale": "תעטרנו دی جڑ עטר تاج\/گھیرن دی اے — تے تاج بَھرنا تے ڈھال وانگوں گھیرنا دوویں تصویر وِچ نیں"
+    },
+    {
+      "kind": "crux",
+      "subject": "כצנה",
+      "rationale": "ایہہ وڈی گول ڈھال اے؛ کجھ مترجم بکّل\/چھوٹی ڈھال کردے نیں"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨نال⟩",
+      "rationale": "پنجابی رشتہ ظاہر کرن لئی عبرانی وِچ نئیں"
+    }
+  ],
+  "translation": "کیوں جو تُو، یاہوہ، نیائے نوں برکت دیندا ایں؛ خوشنودی ⟨نال⟩ اوہنوں ڈھال وانگوں گھیری رکھدا ایں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ddadfc070bb11a9fb5fbc5d276f8157956b397d664a9fb3777933473a4c81ad8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/5\/13-13.1792111754975.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُو"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "برکت دیندا ایں"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "نیائے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "כצנה",
+      "gloss": "ڈھال وانگوں"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "خوشنودی"
+    },
+    {
+      "surface": "תעטרנו",
+      "gloss": "اوہنوں گھیری رکھدا ایں"
+    }
+  ],
+  "timestamp": "2026-10-16T00:49:14.975521613Z",
+  "model": "glm-5.3"
+}

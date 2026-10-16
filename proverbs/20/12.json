@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 20:12",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גם שניהם",
+      "rationale": "20:10 نال ہم آواز انت اے — اوتھے 'دونوں مکروہ'، ایتھے 'دونوں یاہوہ نے بنائے'"
+    },
+    {
+      "kind": "addition",
+      "subject": "سُنن والا",
+      "rationale": "عبرانی دا جوڑ 'کان سُنن والی\/اکّھ ویکھن والی' اے — فعل-صفت دا جوڑ، پنجابی نے وضاحت دی لوء"
+    }
+  ],
+  "translation": "کان ⟨سُنن والا⟩ تے اکّھ ویکھن والی — یاہوہ نے اوہ دونوں بنائے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0b57c84e8816b0afce4a7d833df3bcb143f9b89999e98825a6d957e7bb66b826",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/20\/9-12.1792114879496.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אזן",
+      "gloss": "کان"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "⟨سُنن والا⟩"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "تے اکّھ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ویکھن والی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بنائے نیں"
+    },
+    {
+      "surface": "גם",
+      "gloss": "دونوں"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "اوہ دونوں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:41:19.497770329Z",
+  "model": "glm-5.3"
+}

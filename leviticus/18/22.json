@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 18:22",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "طرز",
+      "rationale": "משכבי جمع اے — 'سون دے طرحاں' — پنجابی نوں صاف کرن لئی ودھایا"
+    },
+    {
+      "kind": "you",
+      "subject": "بنی یِسرائیل",
+      "rationale": "حکم سِدھا سُنیویں والیاں ول"
+    }
+  ],
+  "translation": "تے ⟨את⟩ مرد نال عورت دے سون ⟨طرز⟩ نہ سونا؛ ایہہ گھناؤنی گل اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6d461c2b5031aba06a10c5fb7516bd1edc5782b69c67e7ca1c7918f84e3ed068",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/18\/21-24.1792097797130.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "مرد"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "سونا"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "سون ⟨طرز⟩"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "عورت دے"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "گھناؤنی گل"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ ⟨اے⟩"
+    }
+  ],
+  "timestamp": "2026-10-15T20:56:37.131495284Z",
+  "model": "glm-5.3"
+}

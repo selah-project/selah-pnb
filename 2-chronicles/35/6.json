@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 35:6",
+  "book": "2-chronicles",
+  "lang": "pnb",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "موشے دے ہتھ رائیں",
+      "rationale": "عبرانی 'ביד משה' — موشے دے ہتھ وِچ، یعنی موشے دے ذریعے؛ پنجابی 'دے ہتھوں' دا مطلب اے، لفظی 'ہتھ وِچ' رکھیا۔"
+    },
+    {
+      "kind": "invitation",
+      "subject": "ذبح کرو",
+      "rationale": "امری آیت — یووشیاہ دا لیویاں نوں سِدھا حکم۔"
+    }
+  ],
+  "translation": "تے پیسح نوں ذبح کرو، تے آپ نوں پوتر کرو، تے اپنے بھراواں لئی تیار کرو، تاں اوہ یاہوہ دے بچن وانگ کرن، موشے دے ہتھ ⟨رائیں⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "222e660984a6101e96b5e5262be30bf4f613f811e6ae2ec49640c1f5e66453e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/35\/5-8.1792123120702.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושחטו",
+      "gloss": "تے ذبح کرو"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "پیسح نوں"
+    },
+    {
+      "surface": "והתקדשו",
+      "gloss": "تے آپ نوں پوتر کرو"
+    },
+    {
+      "surface": "והכינו",
+      "gloss": "تے تیار کرو"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "اپنے بھراواں لئی"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "کرن لئی"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "بچن وانگ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ہتھ وِچ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    }
+  ],
+  "timestamp": "2026-10-16T03:58:40.703676632Z",
+  "model": "glm-5.3"
+}

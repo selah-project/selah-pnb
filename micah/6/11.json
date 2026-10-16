@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "micah 6:11",
+  "book": "micah",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ترازو تے پتھر",
+      "rationale": "تولن-ناپن دی سُچی گنتی — دھوکھے دے وَزن"
+    },
+    {
+      "kind": "substitution",
+      "subject": "پاک ٹھہراں",
+      "rationale": "זכה دا مول 'پُٹھا\/صاف ہونا' اے — 'معاف کرواؤں' نئیں"
+    }
+  ],
+  "translation": "کی میں بدکار ترازوآں نال پاک ٹھہراں، تے دھوکھے دے پتھراں دے تھیلے نال؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "14ecb6a1b26b324bf8125e185a8da189ca560aabba32e9cbc819594ea1fbcee0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/micah\/6\/9-12.1792111161541.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האזכה",
+      "gloss": "کی میں پاک ٹھہراں"
+    },
+    {
+      "surface": "במאזני",
+      "gloss": "ترازوآں نال"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "ובכיס",
+      "gloss": "تے تھیلے نال"
+    },
+    {
+      "surface": "אבנی",
+      "gloss": "پتھراں دے"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "دھوکھے دے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:39:21.542537303Z",
+  "model": "glm-5.3"
+}

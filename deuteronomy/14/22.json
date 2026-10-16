@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עשר תעשר",
+      "rationale": "اِکو گنجھ نال مُکرر ساخت — 'یقین نال دسواں کڈھو' دی فوجی فعل دی ٹون، پنجابی وِچ 'دسواں دسویں' دا مُکرر رکھیا"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שנה שנה",
+      "rationale": "'سال سال' — مُکرر انداز جو 'ہر سال' دسدا اے، اِکو ٹوکن دو واری"
+    },
+    {
+      "kind": "measurement",
+      "subject": "دسواں",
+      "rationale": "عشر دا حکم — فصل دا دسواں حصہ گِݨیا جاندا اے"
+    }
+  ],
+  "translation": "دسواں ⟨את⟩ دسویں ⟨توں⟩ اپنے بیج دی ساری فصل دا کریا کرو، جو کھیت ہر سال سال کڈھدا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "69e526c007014041ba60a222fd9fa6dca0a19184f8258b509eb97e24965daafc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/14\/21-22.1792123537166.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "دسواں"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "دسویں کڈھو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنے بیج دی ساری فصل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "فصل"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "تیرے بیج دی"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "جو کڈھدا اے"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "کھیت"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    }
+  ],
+  "timestamp": "2026-10-16T04:05:37.167886928Z",
+  "model": "glm-5.3"
+}

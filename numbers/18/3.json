@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 18:3",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "משמרתך \/ ומשמרת",
+      "rationale": "שמר جڑ دی دُہرائی — چوکسی تے چوکسی — عبرانی دا اکو سُر پنجابی وِچ وی سامان پھڑدا اے۔"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ולא ימתו",
+      "rationale": "KJV 'کہ نہ مرن' (مقصد) تے YLT 'تے اوہ نہ مرن' (سِدھی پڑھائی) — عبرانی ترتیب دوناں ول کھلھی اے۔"
+    },
+    {
+      "kind": "you",
+      "subject": "اہرون",
+      "rationale": "آیت دا آخری حصہ 'تُسیں وی' — یاہوہ آیت 1 والے خطاب نوں ایتھے مُڑ دُہراؤندا اے۔"
+    }
+  ],
+  "translation": "تے اوہ تیری چوکسی رکھن تے پورے خیمے دی چوکسی؛ صرف مقدس ⟨دے⟩ برتناں الیٰ تے قربان گاہ الیٰ نہ آؤن، کہ نہ اوہ مرن — اوہ وی، تُسیں وی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6d40404a03b0ceb6b3bc595288120140be4821ad367889c711f289d435f16f75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/18\/1-4.1792098839917.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "تے اوہ رکھن"
+    },
+    {
+      "surface": "משמרתך",
+      "gloss": "تیری چوکسی"
+    },
+    {
+      "surface": "ומשמרת",
+      "gloss": "تے چوکسی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوری"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "خیمے دی"
+    },
+    {
+      "surface": "אך",
+      "gloss": "صرف"
+    },
+    {
+      "surface": "אל",
+      "gloss": "الیٰ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "برتناں"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "مقدس ⟨دے⟩"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے الیٰ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "قربان گاہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יקרבו",
+      "gloss": "آؤن"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "مرن"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "הם",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تُسیں"
+    }
+  ],
+  "timestamp": "2026-10-15T21:13:59.918424366Z",
+  "model": "glm-5.3"
+}

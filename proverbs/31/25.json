@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 31:25",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "کھِلدی اے",
+      "rationale": "ותשחק دا مطلب 'کھلنا\/ہسنا' اے — 'خوش ہونا' نرم کردنا اے، ایتھے پچھلے دن اتے اُچی کھِل دا اے۔"
+    },
+    {
+      "kind": "alternative",
+      "subject": "کھِلدی اے",
+      "rationale": "ہاسا مذاق دا وی ہو سکدا اے — 'آون والے دن دا مذاق اُڈاوندی اے' — پر سیاق تعریف دا اے۔"
+    }
+  ],
+  "translation": "زور تے جلال اوہدا لباس اے، تے اوہ آون والے آخری دن اُتے کھِلدی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "367a2eb04767da084c3b8bc8175d675cf721c72f9e8345f9af424efdb8f9efd7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/31\/25-28.1792115269676.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עז",
+      "gloss": "زور"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "تے جلال"
+    },
+    {
+      "surface": "לבושה",
+      "gloss": "اوہدا لباس اے"
+    },
+    {
+      "surface": "ותשחק",
+      "gloss": "تے اوہ کھِلدی اے"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "آخری دن اُتے"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "آون والے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:47:49.676753910Z",
+  "model": "glm-5.3"
+}

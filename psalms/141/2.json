@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 141:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 141,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עללות\/להתעולל (آیت 4)",
+      "rationale": "ایتھے نئیں پر 141:4 وِچ שמרה\/נצרہ دی جوڑی (v3) تے مِنسَر structure — v2 دی تنsimilar structure: دعا=خوشبو، ہتھ=قربانی، دوویں اکو جوڑ۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "مשאת",
+      "gloss_add": false,
+      "rationale": "משאת اُچالنے دی کرتوت اے (ہتھ جاں دھوں دی لوء)؛ 'اُچالنا' شکل رکھدا اے۔"
+    }
+  ],
+  "translation": "میری دعا تیرے ساہمنے خوشبو بن کے چڑھے، میرے ہتھاں دا اُچالنا شام دی قربانی بنے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d8d5ab5faecd126e6dd5f69cf8d88ebaaed02bba0296454339c2cfc5c4280d5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/141\/1-4.1792114186886.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תכון",
+      "gloss": "چڑھے"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "میری دعا"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "خوشبو بن کے"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "تیرے ساہمنے"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "اُچالنا"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "میرے ہتھاں دا"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "قربتی قربانی"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "شام دی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:29:46.887250280Z",
+  "model": "glm-5.3"
+}

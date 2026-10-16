@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 7:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جان\/جیون-بل اے، پنجابی 'جان' سب توں نیڑے اے۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יטרף … פרק",
+      "rationale": "دو پھاڑن والے فعل لگا لگ آؤندے نیں — شیر دے پنجے دی تصویر دہرائی گئی اے۔"
+    }
+  ],
+  "translation": "نہ کوئی ہووے کہ شیر وانگوں میری جان نوں پھاڑے، پھاڑ سُٹے، تے کوئی بچاؤن والا نہ ہووے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "121a5ee6b14bbeec86d2ab3a3588a24a266e59ffbd56b802907984948cff1406",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/7\/1-4.1792111837125.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "نہ کوئی ہووے کہ"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "پھاڑے"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "شیر وانگوں"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میری جان"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "پھاڑ سُٹے"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "تے کوئی نہ"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "بچاؤن والا"
+    }
+  ],
+  "timestamp": "2026-10-16T00:50:37.125910497Z",
+  "model": "glm-5.3"
+}

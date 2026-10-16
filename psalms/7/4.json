@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ظلم",
+      "rationale": "עול اخلاقی بے انصافی\/کجھ توں ٹیڑھ اے — 'بدی' توں زیادہ ٹھیک 'ظلم\/بے انصافی'۔"
+    },
+    {
+      "kind": "you",
+      "subject": "یاہوہ نوں",
+      "rationale": "صاف پکے self-defense دی قسم یاہوہ اگے۔"
+    }
+  ],
+  "translation": "یاہوہ میرے ایلوہیم، جے میں ایہہ کیتا، جے میرے ہتھاں ⟨دی ہتھیلی⟩ وِچ کوئی ظلم اے،",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "121a5ee6b14bbeec86d2ab3a3588a24a266e59ffbd56b802907984948cff1406",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/7\/1-4.1792111837125.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "میرے ایلوہیم"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "میں کیتا"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "יש",
+      "gloss": "اے"
+    },
+    {
+      "surface": "עול",
+      "gloss": "ظلم"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "میرے ہتھاں ⟨دی ہتھیلی⟩ وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T00:50:37.126040693Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 3:3",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "بارے",
+      "rationale": "عبرانی وِچ صرف „تے اُس رُکھ دے پھل توں“ اے؛ پنجابی جملے لئی وضاحت درکار"
+    },
+    {
+      "kind": "alternative",
+      "subject": "زنانی دا وادھو „تے نہ چھُووو“",
+      "rationale": "خدا دے حکم وِچ (2:17) چھُون دی کوئی گل نئیں سی — زنانی پہلاں ای حکم نوں ودھا چکی اے"
+    }
+  ],
+  "translation": "پر اُس رُکھ دے پھل ⟨بارے⟩، جیہڑا باغ دے وِچکار اے، ایلوہیم نے آکھیا اے: اُس توں نہ کھاؤ تے اُدوں ہتھ وی نہ لاؤ، ورنہ تسیں مر جاؤ گے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a700f949133974de2274d0c924c426bc0771e9a00f90f5959b103eeacfe55278",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/3\/1-4.1792094709786.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומפרי",
+      "gloss": "پر … دے پھل"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "رُکھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "وِچکار"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "باغ دے"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "نے آکھیا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "کھاؤ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "اُس توں"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "لاوو"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اُدوں"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ورنہ"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "مر جاؤ گے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:05:09.787440549Z",
+  "model": "glm-5.3"
+}

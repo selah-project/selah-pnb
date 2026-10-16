@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 74:18",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨کہ⟩",
+      "rationale": "عبرانی وِچ 'کہ' دی تھاں اکربا نال ہی نسبتی جوڑ اے؛ پنجابی جملہ 'کہ' منگدا اے"
+    },
+    {
+      "kind": "you",
+      "subject": "یاہوہ نوں",
+      "rationale": "سِدھی بینتی یاہوہ ول — 'یاد رکھ' تے 'تیرا ناں' دوجے واعدے دے بندے نیں"
+    },
+    {
+      "kind": "crux",
+      "subject": "חרף",
+      "rationale": "کجھ ترجمے 'دشمن نے یاہوہ نوں ہتکیا'، کجھ 'یاہوہ، دشمن نے ہتکیا اے' (وکالتا پکار دے روپ وِچ) — معنے بدلدے نیں"
+    }
+  ],
+  "translation": "ایہہ گل یاد رکھ ⟨کہ⟩ دشمن نے یاہوہ نوں ہتکیا اے، تے نسمجھ قوم نے تیرا ناں بدنام کیتا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3e75c41b88e06c8b472ba8954393a62ef7c09a1fb584779e2e479e176987f910",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/74\/17-20.1792113035225.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "یاد رکھ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ایہہ گل"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "دشمن نے"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "ہتکیا اے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ نوں"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "تے قوم نے"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "نسمجھ"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "بدنام کیتا اے"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "تیرا ناں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:10:35.225678273Z",
+  "model": "glm-5.3"
+}

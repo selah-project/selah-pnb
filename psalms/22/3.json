@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ולא דומיה לי",
+      "rationale": "'تے میں لئی چُپ نئیں' — مطلب میں چُپ نئیں کر سکدا؛ KJV پلٹ کے 'تے میں چُپ نئیں واں' دا مطلب دسدا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨توں⟩",
+      "rationale": "عبرانی دی فعل صیغہ دوجا اے، پنجابی نوں ضمیر چائیدی"
+    }
+  ],
+  "translation": "میرے ایلوہیم، میں پکاردا واں — دن چ، تے ⟨توں⟩ جواب نئیں دیندا؛ تے رات چ، تے میں لئی چُپ نئیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1f377ff2861ad5d39d4b6ab6e36301de183a672594ae4acfa7b61725f2b88b0b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/22\/1-4.1792112099909.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "میرے ایلوہیم"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "پکاردا واں"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "دن چ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "جواب دیندا"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "تے رات چ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "چُپ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرے لئی"
+    }
+  ],
+  "timestamp": "2026-10-16T00:54:59.910428946Z",
+  "model": "glm-5.3"
+}

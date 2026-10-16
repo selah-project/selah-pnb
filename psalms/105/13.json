@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 105:13",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גוי\/ממלכה\/עם",
+      "rationale": "تِن وکھرے لفظ اِکو سوچ لئی — تکرار دی ساخت، پنجابی وِچ ہلکی جہی رہِ جاندی اے۔"
+    }
+  ],
+  "translation": "تے اوہ قوم توں قوم تک ٹُردے پھرے، اِک مملکت توں دوجے قوم تک۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9bcd5fa945c956f216e73e64353d732b6dd67505ae7714aa05e78c7dc51889dc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/105\/13-16.1792113569130.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "تے اوہ ٹُردے پھرے"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "قوم توں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تک"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "מממלכה",
+      "gloss": "مملکت توں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تک"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "دوجے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:19:29.131155116Z",
+  "model": "glm-5.3"
+}

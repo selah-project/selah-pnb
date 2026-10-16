@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 17:16",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "کی اے",
+      "rationale": "عبرانی وِچ کریا نئیں، پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "you",
+      "subject": "داوِد دا یاہوہ ایلوہیم نوں مخاطب ہونا",
+      "rationale": "سِدھا مخاطب — 'میں کون آں' دا سوال"
+    },
+    {
+      "kind": "substitution",
+      "subject": "درشَ (v15) \/ بیٹھنا",
+      "rationale": "לפני ਸਾਹਮਣੇ = منہ دے اگے، 'ساہمنے' روایت دی صورت"
+    }
+  ],
+  "translation": "تے بادشاہ داوِد آیا تے یاہوہ دے ساہمنے بیٹھا تے آکھیا: میں کون آں، یاہوہ ایلوہیم، تے میاڈا گھر ⟨کی اے⟩، کیونکہ تُوں میاڈے اِتھے تک لیاندا اے؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5b893a976ccf180e82bf5ea8607127b61dd5732d6e9d5f12c20924ae9d9a98d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/17\/13-16.1792120997464.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "تے آیا"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "تے بیٹھا"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "دے ساہمنے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "تے کی"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "میاڈا گھر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "הביאתני",
+      "gloss": "تُوں میاڈے لیاندا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "اِتھے"
+    }
+  ],
+  "timestamp": "2026-10-16T03:23:17.465613045Z",
+  "model": "glm-5.3"
+}

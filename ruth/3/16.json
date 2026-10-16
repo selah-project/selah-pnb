@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 3:16",
+  "book": "ruth",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מי את בתי",
+      "rationale": "'توں کون اےں، میری دِھی؟' — پڑھائیاں ونڈیاں نیں: لیٹیاں ادھورے اُٹھن والی روت، جاں سوال دا مطلب 'کیوے گیا؟'۔"
+    },
+    {
+      "kind": "elision",
+      "subject": "את (מי את)",
+      "rationale": "اِتھے את ضمیر 'توں' اے (H859)، مفعول دا نشان ⟨את⟩ نئیں — دو وکھرے لفظ، اوہو اکھر۔"
+    },
+    {
+      "kind": "you",
+      "subject": "روت نوں",
+      "rationale": "نعومی روت نوں سدھی مخاطب کردی اے۔"
+    }
+  ],
+  "translation": "تے اوہ اپنی سَس کول آئی، تے اوہنے آکھیا: توں کون اےں، میری دِھی؟ تے اوہنے اوہنوں ⟨את⟩ سارا کجھ دسّ دِتا جیہڑا اوہ بندے اوہدے نال کیتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6e54733758e2a093edcd5a550e0411a759284e4972eb66951c546baa1146bd51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ruth\/3\/13-16.1792116978303.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבוא",
+      "gloss": "تے اوہ آئی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "اپنی سَس"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "تے اوہنے آکھیا"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "את",
+      "gloss": "توں"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "میری دِھی"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "تے اوہنے دسّیا"
+    },
+    {
+      "surface": "לה",
+      "gloss": "اوہنوں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سارا کجھ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا کجھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "اوہنے کیتا"
+    },
+    {
+      "surface": "לה",
+      "gloss": "اوہدے نال"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "اوہ بندے"
+    }
+  ],
+  "timestamp": "2026-10-16T02:16:18.304758817Z",
+  "model": "glm-5.3"
+}

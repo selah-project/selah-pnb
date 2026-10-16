@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 9:28",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "تُوں",
+      "rationale": "عبرانی وِچ فعل وچ کوئی نشان نئیں کہ کون نئیں بخشے گا — پنجابی جملہ ⟨تُوں⟩ منگدا اے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עצבתי",
+      "rationale": "‘تکلیفاں\/دُکھ’ — لفظ دی مُڈھلی شکل ‘مُورتی’ وی ہو سکدی اے، پر ایتھے دُکھ ای بھاؤندا اے۔"
+    }
+  ],
+  "translation": "میں اپنی ساریاں تکلیفاں توں ڈردا واں، میں جاندا واں کہ ⟨تُوں⟩ میں نوں بے قصور نئیں ٹھہریں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4801450eb48f99f045c3af83460d9b6faffe4507bc4d9480dc0e2b91a1342361",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/9\/25-28.1792115595228.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יגרתי",
+      "gloss": "ڈردا واں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساریاں"
+    },
+    {
+      "surface": "עצבתי",
+      "gloss": "تکلیفاں توں"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "جاندا واں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תנקני",
+      "gloss": "میں نوں بے قصور ٹھہریں گا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:53:15.229479714Z",
+  "model": "glm-5.3"
+}

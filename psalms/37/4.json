@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "مزے کر",
+      "rationale": "ענג دا مول 'نرم ہونا، ناز نواز ہونا' — یاہوہ نال آنند لینا"
+    },
+    {
+      "kind": "invitation",
+      "subject": "حکم تے وعدہ",
+      "rationale": "پہلا حکم، فیر نتیجے دا وعدہ — دل دیاں منگاں دی نوں"
+    }
+  ],
+  "translation": "تے یاہوہ وِچ مزے کر، تے اوہ تینوں تیرے دل دیاں منگاں دیوے گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2fb92fe0b5b9a22c03a7f2fe40733beeaa14e477302e81f9dfacd73e3f5316ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/37\/1-4.1792112333105.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "تے مزے کر"
+    },
+    {
+      "surface": "על",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "تے دیوے گا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تینوں"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "منگاں"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "تیرے دل دیاں"
+    }
+  ],
+  "timestamp": "2026-10-16T00:58:53.106503746Z",
+  "model": "glm-5.3"
+}

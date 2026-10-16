@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 39:10",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רים",
+      "rationale": "جنگلی بیل (یک سنگ) بمقابلہ یونانی\/کلیسائی 'یکاون' — تنخ وِچ ریم وڈا جنگلی بیل اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "התקשר",
+      "rationale": "'بنّ سکدا ایں' — مطلب قابو کر کے جوت لئی بنّنا، بنّ دا سادہ مطلب نئیں"
+    },
+    {
+      "kind": "you",
+      "subject": "ایوب نوں",
+      "rationale": "یاہوہ ایوب نوں سوال پچھدا اے — سِدھا خطاب"
+    }
+  ],
+  "translation": "کیا تُو جنگلی بیل نوں اوہدی رسی نال تل وِچ بنّ سکدا ایں؟ جاں اوہ تیری پچھوں وادیاں وِچ ہل چلائےگا؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "cc30b123301086e93661dff0cb5320717c7c17f4635ac207e8116e9ba0765975",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/39\/10-11.1792124282129.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "התקשר",
+      "gloss": "کیا تُو بنّ سکدا ایں"
+    },
+    {
+      "surface": "רים",
+      "gloss": "جنگلی بیل"
+    },
+    {
+      "surface": "בתלם",
+      "gloss": "تل وِچ"
+    },
+    {
+      "surface": "עבתו",
+      "gloss": "اوہدی رسی نال"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جاں"
+    },
+    {
+      "surface": "ישדד",
+      "gloss": "ہل چلائےگا"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "وادیاں وِچ"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "تیری پچھوں"
+    }
+  ],
+  "timestamp": "2026-10-16T04:18:02.129485618Z",
+  "model": "glm-5.3"
+}

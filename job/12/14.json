@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 12:14",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩",
+      "rationale": "عبرانی فعل دا فاعل کویا اے، پنجابی نوں صریح ضمیر چاہیدی اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "יסגר על איש",
+      "rationale": "'اوہ بندے اتے بند کردا اے' — کجھ مترجم 'بندے نوں قید کردا اے' لیندے نیں؛ حرف על دی شکل 'اتے\/خلاف' اے"
+    }
+  ],
+  "translation": "دیکھو، اوہ ڈھاہدا اے تے ⟨اوہ⟩ نئیں بنیا جا سکدا؛ اوہ کسے بندے اُتے بند کردا اے تے ⟨اوہ⟩ نئیں کھُلھ سکدا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1918f7a0cb6ae538439044e5127df1d65cb5d5dd8a2d0fea7d6a6edd0ed57fe2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/12\/13-16.1792115647186.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "دیکھو"
+    },
+    {
+      "surface": "יהרוס",
+      "gloss": "اوہ ڈھاہدا اے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "بنیا جاندا"
+    },
+    {
+      "surface": "יסגר",
+      "gloss": "اوہ بند کردا اے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اتے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "کھُلھدا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:54:07.186810009Z",
+  "model": "glm-5.3"
+}

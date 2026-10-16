@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "کی",
+      "rationale": "عبرانی כی پنجابی 'کہ\/کی' بن سکدا اے پر جملہ بناں وی چلدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ہتھ",
+      "rationale": "יד הتھ دے نال نال طاقت دا چِنتن وی اے — 'تیری طاقت' وی ممکن"
+    }
+  ],
+  "translation": "تے اوہ جانن ⟨کی⟩ ایہہ تیری ہتھ اے؛ توں، یاہوہ، ایہہ کیتا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b36e15f242b8f3ef42b00063f66bc60f70bf1ed4009aa7c9406df4c942a989ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/109\/25-28.1792113708242.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "تے اوہ جانن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨کی⟩"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "تیری ہتھ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "توں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "ایہہ کیتا اے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:21:48.243249389Z",
+  "model": "glm-5.3"
+}

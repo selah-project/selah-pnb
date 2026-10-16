@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 22:3",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "چالاک",
+      "rationale": "ערום: چُ sovereign تے چتر — پنجابی 'چالاک' دوہرے سواد رکھدا اے، اے حد تیکر ٹھیک اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ناسمجھ",
+      "rationale": "פתיים: لغوی 'کھلھے دل والے، بہلائے جا سکن والے' — 'ناسمجھ' نیڑے دا پرکھا لفظ"
+    }
+  ],
+  "translation": "چالاک بندہ بُرائی ویکھ کے لُک جاندا اے، پر ناسمجھ لنگھ جاندے نیں تے سزا پاندے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "da30ecec23518da05e20c566ab391ef5a453dbaa5d01661c9410f34e9853b227",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/22\/1-4.1792114962474.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "چالاک"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ویکھ کے"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بُرائی"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "لُک جاندا اے"
+    },
+    {
+      "surface": "ופתיים",
+      "gloss": "پر ناسمجھ"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "لنگھ جاندے نیں"
+    },
+    {
+      "surface": "ונענשו",
+      "gloss": "سزا پاندے نیں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:42:42.475056190Z",
+  "model": "glm-5.3"
+}

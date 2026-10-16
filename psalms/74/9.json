@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אותתינו",
+      "rationale": "‘ساڈے نشانے’ — نشانیاں کیہڑیاں؟ کجھ مفسر دین٘دے نیں معبد دے نشان، کجھ عجیب کرشمے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אתנו",
+      "rationale": "ایہہ את H854 ‘نال’ اے، مفعول نشان H853 نئیں — پھر وی نشان دا ٹبر منگدا گیا"
+    }
+  ],
+  "translation": "ساڈے نشانے اسیں نئیں ویکھے؛ ہور کوئی نبی نئیں، تے ⟨את⟩ ساڈے نال کوئی نئیں جیہڑا جاݨے ⟨کِتنا چِر⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d0b0e81afd83bea474f49218cf95856acef3d10f706cd01b96a3c959eafea057",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/74\/9-12.1792113018826.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "ساڈے نشانے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "ویکھے"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کوئی نئیں"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ہور"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "نبی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "ساڈے نال"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "جاݨن٘ والا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تیکر"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کِنا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:10:18.826584602Z",
+  "model": "glm-5.3"
+}

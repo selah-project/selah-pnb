@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "لبھن دا",
+      "rationale": "לבקש אُتے 'لبھنا' (سیک) بنا لیا اے؛ KJV 'get' (حاصل کرنا) اے، بھاویں جڑ 'لبھنا' ای اے۔"
+    }
+  ],
+  "translation": "ویلہ لبھن دا، تے ویلہ مٹاون دا؛ ویلہ رکھن دا، تے ویلہ سٹن دا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "eff92defa97ce1f5d25f172896c59199ae84891171d7b4583df73e44508184f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ecclesiastes\/3\/6-7.1792124339544.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ویلہ"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "لبھن دا"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "تے ویلہ"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "مٹاون دا"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ویلہ"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "رکھن دا"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "تے ویلہ"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "سٹن دا"
+    }
+  ],
+  "timestamp": "2026-10-16T04:18:59.544739300Z",
+  "model": "glm-5.3"
+}

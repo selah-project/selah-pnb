@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 38:5",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כבד\/יכבדו",
+      "rationale": "اکو جڑ کَ-بَ-د: بھاری بوجّ تے بھاری ہو جانا — پنجابی وِچ بھاری دوہرائے نال وی ہور نیڑے جا سکدا سی"
+    }
+  ],
+  "translation": "کیونجے میرے قصور میرے سر توں لنگھ گئے نیں، بھاری بوجّ وانگوں اوہ میرے توں بھاری ہو گئے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6e0e4481c66985f76af9c5f6a00308d3b84c548b2b59255c12da3f9d044e2080",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/38\/5-8.1792112400001.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "میرے قصور"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "لنگھ گئے نیں"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "میرے سر"
+    },
+    {
+      "surface": "כמשא",
+      "gloss": "بھاری بوجّ وانگوں"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "بھاری"
+    },
+    {
+      "surface": "יכבדו",
+      "gloss": "بھاری ہو گئے نیں"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "میرے توں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:00:00.002246116Z",
+  "model": "glm-5.3"
+}

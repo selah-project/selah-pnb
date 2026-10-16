@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 147:18",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اوہناں نوں⟩",
+      "rationale": "וימסם دی مفعولی ضمیر پنجابی وچ وکھرا لکھنی پئی — عبرانی وِچ فعل دے اندر اے"
+    }
+  ],
+  "translation": "اوہ اپنا بچن گھلدا اے تے ⟨اوہناں نوں⟩ پگھلا دیندا اے؛ اوہ اپنی ہوا پھوکدا اے، پانی وگدے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4589482b212d111c5e480abc4637813234e773414154ac4a2f9cd7ae1bc7d3ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/147\/17-20.1792114283880.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "گھلدا اے"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "اپنا بچن"
+    },
+    {
+      "surface": "וימסם",
+      "gloss": "تے پگھلا دیندا اے"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "پھوکدا اے"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "اپنی ہوا"
+    },
+    {
+      "surface": "יזלو",
+      "gloss": "وگدے نیں"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پانی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:31:23.880860539Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezra 1:11",
+  "book": "ezra",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨سن⟩",
+      "rationale": "عبرانی وِچ گنتی دے مگروں ‘نیں’ ورگا فعل کوئی نئیں؛ پنجابی واسطے لوڑیا۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "شیشبصر نے",
+      "gloss": "",
+      "rationale": "عبرانی نے ‘شیشبصر نے’ دا نہیں لکھیا؛ ‘نے’ پنجابی نے لوڑیا۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "عہد دی کل گنتی",
+      "rationale": " آیتاں 9–10 دے انگ ( 2499 + 410 + 1000 = 3909 ) کل 5400 نالوں گھٹ نیں؛ ریتاں ایس فرق نوں ایویں سمجھدی اے کہ لسٹ ادھوری اے۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "کل",
+      "rationale": "سمی دا سارے برتناں دی کل گنتی دیندا اے — پنج ہزار چار سَو۔"
+    }
+  ],
+  "translation": "سونے تے چاندی دے سارے برتن پنج ہزار چار سَو ⟨سن⟩۔ سارا ⟨את⟩ سہنا اُٹھا کے لے گیا، جدوں جلاوطن بابل توں یروشلایم نوں چڑھے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "003003a3a0c6e0a46b92bf4d4563bcb04cc632ef077ec6a0262f84219e745832",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezra\/1\/9-11.1792118829839.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "برتن"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "سونے"
+    },
+    {
+      "surface": "ולכסף",
+      "gloss": "تے چاندی دے"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "اُٹھا کے لے گیا"
+    },
+    {
+      "surface": "ששבצר",
+      "gloss": "شیشبصر نے"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "העלות",
+      "gloss": "جدوں چڑھے"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "جلاوطن"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "بابل توں"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "یروشلایم نوں"
+    }
+  ],
+  "timestamp": "2026-10-16T02:47:09.840247553Z",
+  "model": "glm-5.3"
+}

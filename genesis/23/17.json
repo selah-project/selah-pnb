@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 23:17",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ויקם",
+      "rationale": "اکھری مطلب 'کھلیا\/قایم ہویا' — 'پکا ہو گیا' کارروائی دا مطلب دیندا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "اُوہ",
+      "rationale": "عبرانی وِچ ضمیر وکھری نئیں، پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ہندوے",
+      "rationale": "جائداد دے بارڈر دا ذکر — خریدی ہوئی تھاں دی پیمائش"
+    }
+  ],
+  "translation": "تے عِفرون دا کھیت، جیہڑا مکپیلاہ وِچ اے، جیہڑا ممری دے اُگھاڑے اے — ایہہ کھیت، تے اوہ غار جیہڑا اُس وِچ اے، تے سارا رُکھ جیہڑا اُس کھیت وِچ اے، جیہڑا اُسدے سارے ہندوے وِچ، دوآلے — اُوہ پکا ہو گیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ade1faa765ae617b9c1f9c73aeec578e005fb612bedfdb608b815e83c41af3c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/23\/17-20.1792095142151.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "پکا ہو گیا"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "کھیت"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "عِفرون دا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "במכפלה",
+      "gloss": "مکپیلاہ وِچ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اُگھاڑے"
+    },
+    {
+      "surface": "ממרא",
+      "gloss": "ممری"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ایہہ کھیت"
+    },
+    {
+      "surface": "והמערה",
+      "gloss": "تے اوہ غار"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اُس وِچ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سارا"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "رُکھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "اُس کھیت وِچ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "גבלו",
+      "gloss": "ہندوے وِچ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "دوآلے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:12:22.152524451Z",
+  "model": "glm-5.3"
+}

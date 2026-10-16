@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 8:13",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "لہراؤ",
+      "rationale": "תנופה دی شکلی تصویر اے — ہلا کے پیش کرنا؛ 'قربانی' لفظ عبرانی وِچ نئیں"
+    },
+    {
+      "kind": "addition",
+      "subject": "توں",
+      "rationale": "עמדת دا فاعل — عبرانی وچ گُریا ہویا اے، پنجابی جملہ منگدا اے"
+    }
+  ],
+  "translation": "تے توں ⟨את⟩ لاویاں نوں اہرون دے ساہمنے تے اوہدے پتراں دے ساہمنے کھلوائیں گا، تے توں اوہناں ⟨אתם⟩ نوں یاہوہ لئی لہراؤ لہرائیں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "11a7c9fb5da448de54b3da957ac50036381c3aa8c961806556f326303b052136",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/8\/13-16.1792098514037.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והעמדת",
+      "gloss": "تے توں کھلوائیں گا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لاویاں نوں"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لاوی"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "دے ساہمنے"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "ו לפני",
+      "gloss": "تے دے ساہمنے"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "اوہدے پتراں"
+    },
+    {
+      "surface": "והנפת",
+      "gloss": "تے توں لہرائیں گا"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "اوہناں نوں"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "لہراؤ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ لئی"
+    }
+  ],
+  "timestamp": "2026-10-15T21:08:34.038084541Z",
+  "model": "glm-5.3"
+}

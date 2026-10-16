@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 79:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 79,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوہناں",
+      "rationale": "فعل دی کوئی ضمیر عبرانی وچ نئیں، پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "خیسِداں",
+      "rationale": "חסיד תورات دا خاص لفظ اے — 'پرہیزگار' یا 'سنت' مکمل نئیں پھڑدا، ایس لئی حرف-نقل رکھیا"
+    }
+  ],
+  "translation": "اوہناں تیرے غلاماں دیاں لاشاں ⟨את⟩ اسمان دے پنچھیاں لئی خوراک بھینٹ کیتیاں، تیرے خیسِداں دا ماس دھرتی دے جنگلی جانوراں لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "cd81df0e54f4d266d36d3234b5ea3b932259dec5977cf30a68608337529de99c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/79\/1-4.1792113186682.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "دتیاں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لاشاں"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "لاشاں"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "تیرے غلاماں دیاں"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "خوراک"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "پنچھیاں لئی"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "اسمان دے"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ماس"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "تیرے خیسِداں دا"
+    },
+    {
+      "surface": "לחיתו",
+      "gloss": "جنگلی جانور لئی"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "دھرتی دے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:13:06.683653607Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 16:3",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אשפר",
+      "rationale": "hapax — 'ماپ دا حصہ'؛ پرانے ترجمے 'گوشت دا ٹُکڑا' (ولکلف) تے 'انگوری شیرہ' (کے جے وی) آکھدے نیں"
+    },
+    {
+      "kind": "crux",
+      "subject": "אשישה",
+      "rationale": "کشمش نال دبی ہوئی پھُلکی؛ ولکلف 'تلے ہوئے اٹے' تے کے جے وی 'شراب دی بوتل' لکھدے نیں"
+    }
+  ],
+  "translation": "تے اوہنے یِسرائیل دے ہر اِک بندے نوں، بندے توں عورت تک، ہر اِک بندے لئی اِک روٹی دی مُندری، اِک ماپ دا حصہ تے اِک کشمش دا پھُلکی ونڈ دتی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9a9e5ed4dcd96bd925e2d4cc0c38c23b8ef320c4b7d1d81d44e99f001296a5cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/16\/1-4.1792120852041.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחלק",
+      "gloss": "ونڈ دتی"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "איש",
+      "gloss": "اِک بندے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل دے"
+    },
+    {
+      "surface": "مאיש",
+      "gloss": "بندے توں"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "عورت"
+    },
+    {
+      "surface": "لאיש",
+      "gloss": "ہر اِک بندے لئی"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "روٹی دی مُندری"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "روٹی"
+    },
+    {
+      "surface": "ואשפר",
+      "gloss": "اِک ماپ دا حصہ"
+    },
+    {
+      "surface": "ואשישה",
+      "gloss": "کشمش دا پھُلکی"
+    }
+  ],
+  "timestamp": "2026-10-16T03:20:52.042539182Z",
+  "model": "glm-5.3"
+}

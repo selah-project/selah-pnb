@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 23:6",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "عبرانی فعل نئیں رکھدا؛ پنجابی جمله لئی کوپلا ⟨اے⟩ پایا۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "پندرواں، ستّ دن",
+      "rationale": "دناں دی کنتی نال تہوار دا ہیکل مقرر اے۔"
+    }
+  ],
+  "translation": "اتے اِس مہینے دے پندرواں ⟨دن⟩ نوں یاہوہ لئی بے خمیری روٹیاں دا تہوار اے؛ ستّ دن بے خمیری روٹیاں کھاؤ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "aaddea67b567a03f02648c5bab695ddf236514b61cd15164fc86a80f7f406873",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/23\/5-8.1792098017264.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובחמשה",
+      "gloss": "اتے پنج"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دس"
+    },
+    {
+      "surface": "יום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "مہینے دے"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اِس"
+    },
+    {
+      "surface": "חג",
+      "gloss": "تہوار"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "بے خمیری روٹیاں دا"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ لئی"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ستّ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دن"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "بے خمیری روٹیاں"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "کھاؤ"
+    }
+  ],
+  "timestamp": "2026-10-15T21:00:17.265618174Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 3:8",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "نَوں",
+      "rationale": "یروشلایم وِچ جمے داوِد دے پتراں دی کل گنتی — نَوں۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "اِلیپھالت",
+      "rationale": "اِلیپھالت دو واری آؤندا اے (آیت 6 تے 8) — کجھ مترجم دوہراؤ منندے نیں، کجھ مٹا دیندے نیں؛ لکھیا ہویا رکھیا گیا۔"
+    }
+  ],
+  "translation": "تے اِلیشاماعا، تے اِلییاداعا، تے اِلیپھالت — نَوں ⟨کُل⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8f603a07f24bf175669bd034fa9a7fda45112e410b60769ef68e86fe2bb69a2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/3\/5-8.1792120243896.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "تے اِلیشاماعا"
+    },
+    {
+      "surface": "ואלידע",
+      "gloss": "تے اِلییاداعا"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "تے اِلیپھالت"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "نَوں ⟨کُل⟩"
+    }
+  ],
+  "timestamp": "2026-10-16T03:10:43.896900107Z",
+  "model": "glm-5.3"
+}

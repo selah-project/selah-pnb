@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نوں",
+      "rationale": "پنجابی مفعول دا نشان منگدی اے، عبرانی את دے نال"
+    },
+    {
+      "kind": "invitation",
+      "subject": "شبّات دے دن نوں یاد رکھ",
+      "rationale": "حکم سدھا سُنن والے نوں مخاطب اے — اسرائیل نوں"
+    },
+    {
+      "kind": "you",
+      "subject": "اسرائیل",
+      "rationale": "فرمان دا مخاطب بنی اسرائیل اے"
+    }
+  ],
+  "translation": "شبّات دے ⟨את⟩ دن نوں یاد رکھ، اوہنوں پاک کرن لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e2ed40b161a324795b03b569ff524a40cd57d93f2db6b9dd05fd2a8733b74564",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/20\/8-8.1792123274577.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "یاد رکھ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شبّات دے دن نوں"
+    },
+    {
+      "surface": "יום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "شبّات"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "اوہنوں پاک کرن لئی"
+    }
+  ],
+  "timestamp": "2026-10-16T04:01:14.579329553Z",
+  "model": "glm-5.3"
+}

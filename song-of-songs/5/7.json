@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 5:7",
+  "book": "song-of-songs",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "اَوڑنائی",
+      "rationale": "רדיד پَھیلی ہوئی اوڑنائی\/گھُنڈ اے — مینو‌پہن دا مطلب 'چادر' (KJV mantle) وی اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "چوکیداراں دا مارنا",
+      "rationale": "3:3 وچ چوکیدار صرف سوال پُچھدے نیں، ایتھے ماردے نیں — تنخ دا اِکلا تشدد والا تَرانگھ"
+    }
+  ],
+  "translation": "مُچھیر لَبھے شہر وچ پھردے مُونہہ مَیں مِلے؛ مینوں ماریا، زَخم کیتا؛ چوکیداراں نے ⟨את⟩ میری اَوڑنائی میرے اُتروں لَاہ لئی، دیواراں دے رَکھوالےآں نے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b4111710938a3607345c034ee20276c6407f36ae66f274aae2594f83da376343",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/song-of-songs\/5\/5-8.1792116772055.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מצאני",
+      "gloss": "مینوں لَبھے"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "مُچھیر لَبھے"
+    },
+    {
+      "surface": "הסבבים",
+      "gloss": "پھردے ہوئے"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "شہر وچ"
+    },
+    {
+      "surface": "הכוני",
+      "gloss": "مینوں ماریا"
+    },
+    {
+      "surface": "פצעוני",
+      "gloss": "زَخم کیتا"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "لَاہ لئی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میری اَوڑنائی"
+    },
+    {
+      "surface": "רדידי",
+      "gloss": "میری اَوڑنائی"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "میرے اُتروں"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "رَکھوالےآں نے"
+    },
+    {
+      "surface": "החמות",
+      "gloss": "دیواراں دِیاں"
+    }
+  ],
+  "timestamp": "2026-10-16T02:12:52.056466659Z",
+  "model": "glm-5.3"
+}

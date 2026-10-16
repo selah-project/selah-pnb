@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 16:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اے⟩",
+      "rationale": "عبرانی کرملا نئیں رکھدا؛ پنجابی واک منگدا اے۔"
+    },
+    {
+      "kind": "alternative",
+      "subject": "مقدساں لئی",
+      "rationale": "לקדושים دی لام 'لئی' اے — 'مقدساں نال' یا 'مقدساں بارے' وی پڑھیا جا سکدا اے۔"
+    }
+  ],
+  "translation": "دھرتی وِچ جو مقدس نیں — اوہ نیں، تے ودھیا ⟨لوک⟩؛ سارا میرا چاء اوہناں وِچ ⟨اے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "dac7418744feaab5a3e0868637f42acc9b8efebf12029a003f62e88da584ce76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/16\/1-4.1792111961935.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לקדושים",
+      "gloss": "مقدساں لئی \/ متعلق"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "دھرتی وِچ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "اوہ نیں"
+    },
+    {
+      "surface": "ואדירי",
+      "gloss": "تے ودھیا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "میرا چاء"
+    },
+    {
+      "surface": "בם",
+      "gloss": "اوہناں وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T00:52:41.935829659Z",
+  "model": "glm-5.3"
+}

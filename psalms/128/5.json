@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 128:5",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 128,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "تُوں",
+      "rationale": "عبرانی وِچ کریا دا صیغہ تینوں دسدا اے، پنجابی نوں صریح ضمیر چاہیدا اے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "برکت دیوے",
+      "rationale": "یعقوبی فعل دی نییت اے — ’یاہوہ تینوں تسییں توں برکت دیوے‘ بمقابلہ دعا دا اِقرار"
+    }
+  ],
+  "translation": "یاہوہ تینوں تسییں توں برکت دیوے، تے تُوں یروشلایم دی بھلائی ویکھے، اپنی زندگی دے سارے دِناں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e206f8ef259e99df1014c7f33292f5f6536466b405d31c30e8d72f2affd7a24e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/128\/5-6.1792113956513.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "تینوں برکت دیوے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "تسییں توں"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "تے ویکھے"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "بھلائی"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم دی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "دِناں"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "تیری زندگی دے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:25:56.514352712Z",
+  "model": "glm-5.3"
+}

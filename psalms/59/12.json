@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 59:12",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עמי",
+      "rationale": "“میرا قوم” (داوِد دا) بمقابلہ “اوہناں دا قوم” — کون بھُلے گا، وکھرا پڑھائی اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "اڈونای",
+      "rationale": "אדנای خدا لئی اے، ایس لئی اڈونای رکھیا — سائیں\/مالک صرف بندیاں لئی"
+    }
+  ],
+  "translation": "اوہناں نوں نہ مار، کہ کتے ایسے کہ میرا قوم بھُل جاوے؛ اپنی طاقت نال اوہناں نوں ہلا دے، اوہناں نوں تھلے لے آ، اڈونای، ساڈا ڈھال۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f0283e5b1c1d299a88dc20399bc6a9716c62d1628082d08dfa487ce0e6e075c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/59\/9-12.1792112731724.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "مار"
+    },
+    {
+      "surface": "פן",
+      "gloss": "کہ کتے"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "بھُل جاوے"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "میرا قوم"
+    },
+    {
+      "surface": "הניעמו",
+      "gloss": "ہلا دے"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "اپنی طاقت نال"
+    },
+    {
+      "surface": "והורידמו",
+      "gloss": "تھلے لے آ"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "ساڈا ڈھال"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اڈونای"
+    }
+  ],
+  "timestamp": "2026-10-16T01:05:31.725409119Z",
+  "model": "glm-5.3"
+}

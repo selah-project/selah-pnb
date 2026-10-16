@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 8:1",
+  "book": "amos",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اِک … دی",
+      "rationale": "پنجابی نوں صفت-اسم جوڑ لئی اِک تے دی دی لوڑ اے، عبرانی وِچ نئیں"
+    },
+    {
+      "kind": "alternative",
+      "subject": "כלוב",
+      "rationale": "لفظی مطلب پرنی دا جال\/ٹوکری — ٹوکری رکھیا، پرنے والا جال اوہدیاں جڑاں وِچ اے"
+    }
+  ],
+  "translation": "ایویں ادونای یاہوہ نے مینوں وکھایا، تے ویکھو، اِک ٹوکری گرمیاں دے پھل دی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "10ec73eb39d32b7962da45acc33df79fcc10d9761653ff1086b4565ed91f7928",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/amos\/8\/1-4.1792110902007.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ایویں"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "مینوں وکھایا"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "تے ویکھو"
+    },
+    {
+      "surface": "כלוב",
+      "gloss": "اِک ٹوکری"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "گرمیاں دے پھل دی"
+    }
+  ],
+  "timestamp": "2026-10-16T00:35:02.007849317Z",
+  "model": "glm-5.3"
+}

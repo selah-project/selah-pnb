@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 44:21",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "تُسیں",
+      "rationale": "عبرانی وِچ فعل دا صنف دسیا نئیں — سیاق توں پتہ لگدا اے کہ گل یوسف کولوں اے"
+    },
+    {
+      "kind": "idiom",
+      "subject": "اکھ رکھنا",
+      "rationale": "עיני אשים — مطلب 'اوہدیاں اُتے نگاہ رکھنا'، پنجابی اِکو محاورے نال دتا"
+    }
+  ],
+  "translation": "تے تُسیں اپنے غلاماں نوں آکھیا: اوہنوں اتار کے میرے کول لیاؤ، تے میں اپنی اکھ اوہدے اُتے رکھاں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5c3d7b915734945335198bfb967da9e29d2b152041fa9243dd5f30456f19980c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/44\/21-24.1792095861978.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "تے تُسیں آکھیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "اپنے غلاماں"
+    },
+    {
+      "surface": "הורדהו",
+      "gloss": "اوہنوں اتار لیاؤ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میرے کول"
+    },
+    {
+      "surface": "ואשימה",
+      "gloss": "تے میں رکھاں گا"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "اپنی اکھ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اوہدے اُتے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:24:21.979327588Z",
+  "model": "glm-5.3"
+}

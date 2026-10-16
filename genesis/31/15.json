@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 31:15",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "کھا گئی اے",
+      "rationale": "אכל دی اُپما — کھا جانا = خرچ کر دینا؛ کھان دا پکا مطلب نئیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "چاندی",
+      "rationale": "כסף چاندی وی تے قیمت\/دولت وی —ایتھے اوہ پیسا جو اوہناں دیاں واہراں دی قیمت سی"
+    }
+  ],
+  "translation": "کی اسیں اوہدے لئی اوپریاں نئیں گِنیاں گئیاں؟ کیوں جو اوہنے سانوں ویچ دِتا تے اوہنے ساڈی چاندی نوں ⟨את⟩ پوری طرحاں کھا گئی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "633d0f13da6bc9e250ee29bcf281bed18956cf82d707e27cb1fba260ef9f2862",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/31\/13-16.1792095493305.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "کی … نئیں"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "اوپریاں"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "اسیں گِنیاں گئیاں"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدے لئی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "מכרנו",
+      "gloss": "اوہنے سانوں ویچ دِتا"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "تے اوہنے کھا گئی اے"
+    },
+    {
+      "surface": "גם",
+      "gloss": "پوری طرحاں"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "کھا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ساڈی چاندی نوں"
+    },
+    {
+      "surface": "כספנו",
+      "gloss": "ساڈی چاندی"
+    }
+  ],
+  "timestamp": "2026-10-15T20:18:13.306706327Z",
+  "model": "glm-5.3"
+}

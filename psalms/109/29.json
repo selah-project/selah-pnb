@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 109:29",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "میرے",
+      "rationale": "עברית وِچ چھڈیا suffix اِکو جیہا اے پر پنجابی نوں صیغہ چاہیدا سی"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ילבשו\/ויעטו",
+      "rationale": "دوویں کپڑے پہنن دے کریاواں نیں — کِلیمہ پہننا تے شرمات نال لپیڑنا — اِک تصویر دو وار"
+    }
+  ],
+  "translation": "میرے شکایتاں کرن والے کِلیمہ پہنن، تے لپیڑ جان اوہناں دی شرمات نوں چوغے وانگ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c42f5d874f9618809df20fc2570b4cb2ddf2e164b7ffbf1999091ddcfb74a7bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/109\/29-31.1792113725201.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ילבשו",
+      "gloss": "پہنن"
+    },
+    {
+      "surface": "שוטני",
+      "gloss": "میرے شکایتاں کرن والے"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "کِلیمہ"
+    },
+    {
+      "surface": "ויעטו",
+      "gloss": "تے لپیڑ جان"
+    },
+    {
+      "surface": "כמעיל",
+      "gloss": "چوغے وانگ"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "اوہناں دی شرمات"
+    }
+  ],
+  "timestamp": "2026-10-16T01:22:05.202153442Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 18:20",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "על בן המלך מת",
+      "rationale": "عبرانی الفاظ نُوں ای لکھدا اے — 'بادشاہ دے پُتر بارے: مُردہ' — پنجابی جملے لئی فعل 'مر گیا اے' دا وادھا کیتا گیا"
+    },
+    {
+      "kind": "you",
+      "subject": "اَحیمعص",
+      "rationale": "یوآو دا اِھ جواب سِدھا اَحیمعص نوں مخاطب اے"
+    }
+  ],
+  "translation": "تے یوآو نے اوہدے نال آکھیا: اَج دے دن تُوں خوشخبری دا بندہ نئیں — دوجے دن خوشخبری دیویں، پر اَج دے دن خوشخبری نہ دیویں، کیوں جو ⟨بارے⟩ بادشاہ دے پُتر دے — اوہ مر گیا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a3385d7e7061cab6f1dbfea11606d7db1d1288afa95d0129e8f35c584ccd1cde",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/18\/17-20.1792103707973.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدے نال"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآو نے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "בשרה",
+      "gloss": "خوشخبری دا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُوں"
+    },
+    {
+      "surface": "היום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایس"
+    },
+    {
+      "surface": "ובשרת",
+      "gloss": "تے خوشخبری دیویں"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "دنے"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "دوجے"
+    },
+    {
+      "surface": "והיום",
+      "gloss": "پر اَج دے دن"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایس"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תבשר",
+      "gloss": "خوشخبری دیویں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "על",
+      "gloss": "بارے"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ دے"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مر گیا اے"
+    }
+  ],
+  "timestamp": "2026-10-15T22:35:07.974866416Z",
+  "model": "glm-5.3"
+}

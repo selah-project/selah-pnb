@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 8:5",
+  "book": "hosea",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "זנח",
+      "rationale": "کُجھ ترجمے 'اوہ نے چھڈ دتا' (خدا فاعل)، کُجھ 'چھڈیا گیا \/ تینوں چھڈ گیا' (وچھڑا فاعل) — پنجابی وچ غیرمکروفعل 'چھڈیا گیا' رکھیا۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אפי",
+      "rationale": "لفظی 'میرے ناس' — غصے دی تصویر؛ ترجمے وِچ 'غصہ' رکھیا، نک دی شکل ٹُٹ گئی۔"
+    },
+    {
+      "kind": "you",
+      "subject": "اے شومرون",
+      "rationale": "خدا شومرون (اتلی پاتری دے راجگڑھ) نوں سدّھا مخاطب اے۔"
+    }
+  ],
+  "translation": "چھڈیا گیا اے تیرا وچھڑا، اے شومرون! میرا غصہ اوہناں اُتے بھڑکا اے — کِن دیر تیک اوہ بےگناہی نئیں چکّ سکدے؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4a1bc1d98521bcab45a678ecebe74c1632eb79b3c6b554d344a64194bb829b0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/hosea\/8\/5-8.1792110648474.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "چھڈیا گیا اے"
+    },
+    {
+      "surface": "עגלך",
+      "gloss": "تیرا وچھڑا"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "اے شومرون"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "بھڑکا اے"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "میرا نک-غصہ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "اوہناں اُتے"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تیک"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "کِن دیر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "چکّ سکدے"
+    },
+    {
+      "surface": "נקין",
+      "gloss": "بےگناہی"
+    }
+  ],
+  "timestamp": "2026-10-16T00:30:48.474779560Z",
+  "model": "glm-5.3"
+}

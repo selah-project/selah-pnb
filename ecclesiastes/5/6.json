@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הבלים",
+      "rationale": "ہابیل\/ہواب — قہارت دا دہرایا شبد، 'ہوا' دی طرحہ اُڈ جان والا۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "تُو",
+      "rationale": "عبرانی وِچ امر دا صیغہ پہلے شخص وِچ، پنجابی لئی ضمیر درکار۔"
+    }
+  ],
+  "translation": "کیونکہ خواباں دی بہتات، ہواباں تے گلاں دی بہتات نال ہوندی اے — پر تُو ⟨את⟩ ایلوہیم نوں ڈر۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3bb4f776930c8569185c768a12a7729af61f2e989338b1c8829e9a8722be85ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ecclesiastes\/5\/5-8.1792117620596.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "بہتات نال"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "خواباں"
+    },
+    {
+      "surface": "והבלים",
+      "gloss": "تے ہواباں"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "تے گلاں"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "بہتات"
+    },
+    {
+      "surface": "כי",
+      "gloss": "پر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایلوہیم"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ڈر"
+    }
+  ],
+  "timestamp": "2026-10-16T02:27:00.597150346Z",
+  "model": "glm-5.3"
+}

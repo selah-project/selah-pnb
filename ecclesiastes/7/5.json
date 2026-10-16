@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 7:5",
+  "book": "ecclesiastes",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جھلک",
+      "rationale": "גערת دا مول مطلب مار-کڑکدا ٹوہنا اے — گلاں دا زبردستی روکنا"
+    },
+    {
+      "kind": "alternative",
+      "subject": "مقابلہ",
+      "rationale": "عبرانی صرف کہندا اے: چنگا اے غالب دی جھلک سننا … توں بندے دے گیت سننا؛ حرف مٰنوں مقابلا پڑھنا اے"
+    }
+  ],
+  "translation": "چنگا اے کمین بندے دی جھلک سننا، ⟨اوہو⟩ بندہ اے جیہڑا مورکھاں دا گیت سندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3c76ffd76d5268fcc23e84eebccc32f72e9e2a3da275c9ae6a28e1493253cfcf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ecclesiastes\/7\/5-8.1792117491836.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چنگا"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "سننا"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "کمین بندے دی جھلک"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "کمین بندے دی"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "⟨اوہو⟩ بندے توں"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سندا اے"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "گیت"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "مورکھاں دا"
+    }
+  ],
+  "timestamp": "2026-10-16T02:24:51.837087298Z",
+  "model": "glm-5.3"
+}

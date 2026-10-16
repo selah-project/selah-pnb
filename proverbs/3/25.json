@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 3:25",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩",
+      "rationale": "כי תבא دا فاعل عبرانی وِچ نئیں، پنجابی نوں چاہیدا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "وמשאת",
+      "rationale": "šoʾat راشاں دی: کجھ مترجم 'تیز ہوا\/طوفان' لیندے نیں، کجھ 'تباہی'"
+    },
+    {
+      "kind": "you",
+      "subject": "to the disciple",
+      "rationale": "حکم سِدھا سُنتے نوں مخاطب اے"
+    }
+  ],
+  "translation": "اچانک ڈر توں نہ ڈر، تے نہ بدکاں دی تباہی توں، جدوں ⟨اوہ⟩ آوے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0c2e9554bbf6365b297f5c3177d32bd650b4985fcba4a58c168db6864d96bc5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/3\/25-28.1792114416992.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ڈر"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "توں ڈر"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "اچانک"
+    },
+    {
+      "surface": "ומשאת",
+      "gloss": "تے تباہی"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکاں دی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جدوں"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "آوے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:33:36.993161083Z",
+  "model": "glm-5.3"
+}

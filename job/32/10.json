@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 32:10",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اپݨا",
+      "rationale": " possessive عبرانی وِچ نئیں، 'דעי' اسم 'علم' اے، سیاق توں 'میرا' آندا اے۔"
+    },
+    {
+      "kind": "invitation",
+      "subject": "سُݨو میݨو",
+      "rationale": "الیہو دا سدھا سدا — اِیووب دے تن یاراں ول۔"
+    },
+    {
+      "kind": "you",
+      "subject": "الیہو دے سُنیوائے ول",
+      "rationale": "حکمیہ جمع مخاطب — ایوب دے دوست۔"
+    }
+  ],
+  "translation": "اِس لئی میں نے آکھیا: سُݨو میݨو، میں وی اپݨا علم دساں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2743f4787f260e77c7363dc55da4eab6146757b1b3a753abdc93df51a4377513",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/32\/9-12.1792116202906.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "اِس لئی"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "سُݨو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میݨو"
+    },
+    {
+      "surface": "אחוה",
+      "gloss": "دساں گا"
+    },
+    {
+      "surface": "דעי",
+      "gloss": "علم"
+    },
+    {
+      "surface": "אף",
+      "gloss": "وی"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    }
+  ],
+  "timestamp": "2026-10-16T02:03:22.906879940Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 99,
+  "ref": "psalms 119:99",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "השכלתי",
+      "rationale": "Hiphil 'made me act wisely\/insightful' vs stative 'I have understanding'"
+    },
+    {
+      "kind": "addition",
+      "subject": "نیں",
+      "rationale": "copula supplied, Hebrew lacks it"
+    }
+  ],
+  "translation": "سارے اپنے اُستاداں توں میں سوجھواں ہوئیاں، کیونجے تیری گواہیاں میری سوچ-بچار نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ca75195e5bc9a719cc360d1115e5e3fe88c81cfbdb6c45cd3970420370d65d07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/119\/97-100.1792113893191.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "سارے… توں"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "اپنے اُستاداں"
+    },
+    {
+      "surface": "השכלתי",
+      "gloss": "میں سوجھواں ہوئیاں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "تیری گواہیاں"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "سوچ-بچار"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میری"
+    }
+  ],
+  "timestamp": "2026-10-16T01:24:53.191996211Z",
+  "model": "glm-5.3"
+}

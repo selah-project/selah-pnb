@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zephaniah 2:12",
+  "book": "zephaniah",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "وڈھے ہوئے",
+      "rationale": "חללی طعنے کھادھے\/زخمی — تے مارے ہوئے (مردہ)؛ پنجابی وِچ 'وڈھے ہوئے' صوربت نیڑے اے پر مرنے دا پکھ مقررہ اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "لوکا",
+      "rationale": "عبرانی جمع دا نشان پنجابی جمع نال دسّن لئی"
+    },
+    {
+      "kind": "you",
+      "subject": "کُوشی لوکا",
+      "rationale": "صیغۂ خطاب — نبی کُوش (ایتھوپیا\/سُودان) دے لوکاں نوں مخاطب اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "המה",
+      "rationale": "مقطع وچ زور بھرن والا ضمیر — 'اوہ ای' آخری تھاں کلوز نوں ٹکراؤ نال بند کردی اے"
+    }
+  ],
+  "translation": "تُساں وی، کُوشی لوکا، میری تلوار دے وڈھے ہوئے نیں — اوہ ای۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "91f0b4d6ec6af733665005eafbbe45f7a6f25ef7c976eb12fe2ab7c0cd0816be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/zephaniah\/2\/12-12.1792124046655.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تُساں"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "کُوشی لوکا"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "وڈھے ہوئے"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "میری تلوار"
+    },
+    {
+      "surface": "המה",
+      "gloss": "اوہ ای"
+    }
+  ],
+  "timestamp": "2026-10-16T04:14:06.655833998Z",
+  "model": "glm-5.3"
+}

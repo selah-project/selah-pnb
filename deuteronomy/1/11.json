@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 1:11",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "امر\/دعا",
+      "rationale": "یہودیش کمندی صیغہ اے — 'ودھائے' خواہش دے طور تے یا یسعیاہو دا حوالہ؛ ترجمے وِچ دعا ورگی صورت رکھی گئی"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ہزار واری",
+      "rationale": "گنتی دا نشان — اَبراہام نال ہوئے وعدے دی پورت"
+    }
+  ],
+  "translation": "یاہوہ، تُہاڈے پیوآں دا ایلوہیم، تُہاڈے اُتے تُہاڈے برابر ہزار واری ودھائے، تے ⟨את⟩ تُہانوں برکت دے، جیویں اوہنے تُہاکوں آکھیا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7ad343c6a9f3c2409e5db444556643da6e3a0932ec8447c87792229105ba673d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/1\/9-12.1792099491545.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "אבותכם",
+      "gloss": "تُہاڈے پیوآں دا"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "ودھائے"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "تُہاڈے اُتے"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "تُہاڈے برابر"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "واری"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "تے برکت دے"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "تُہانوں"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "آکھیا اے"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُہاکوں"
+    }
+  ],
+  "timestamp": "2026-10-15T21:24:51.546288894Z",
+  "model": "glm-5.3"
+}

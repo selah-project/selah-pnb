@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בל",
+      "rationale": "بلکہ\/انکار دا مضبوط لفظ — 'بالکل نئیں ڈُلساں'۔"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר לא ברע",
+      "rationale": "کئی ترجمے ایس نوں 'کیوں جے میں برائی وِچ نئیں آواں گا' جوڑدے نیں؛ لفظی: 'جو نئیں برائی وِچ'۔"
+    }
+  ],
+  "translation": "اُوہنے آکھیا اپنے دل وِچ: میں ⟨کدے⟩ نئیں ڈُلساں، پشت توں پشت تک برائی وِچ نئیں آواں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3d0ec7f7f2ba534563dbe64b24ba7705488bea745822cf09aa16a41555ebb82b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/10\/5-8.1792111986020.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "اُوہنے آکھیا"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "اپنے دل وِچ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "بلکہ نئیں"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "میں ڈُلساں"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "پشت توں"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "پشت تک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "برائی وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T00:53:06.021101285Z",
+  "model": "glm-5.3"
+}

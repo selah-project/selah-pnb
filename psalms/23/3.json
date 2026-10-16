@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 23:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جیون-بل اے، روح دی طرح وکھری چیز نئیں"
+    }
+  ],
+  "translation": "میری جان نوں اوہ واپس موڑدا اے، اوہ مینوں نیائی دے پنڈیاں وِچ لجھدا اے، اپنے ناں لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "30dcf7afd1bdf981fb4c49a20047dc0199dc32abf65a7c8632038662ed306b48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/23\/1-4.1792112119417.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "میری جان"
+    },
+    {
+      "surface": "ישובב",
+      "gloss": "اوہ واپس موڑدا اے"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "اوہ مینوں لجھدا اے"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "دے پنڈیاں وِچ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "نیائی"
+    },
+    {
+      "surface": "למען",
+      "gloss": "لئی"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اپنے ناں"
+    }
+  ],
+  "timestamp": "2026-10-16T00:55:19.418233148Z",
+  "model": "glm-5.3"
+}

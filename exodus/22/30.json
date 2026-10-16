@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 22:30",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "پھاڑی ہوئی ہڈی",
+      "rationale": "טרפה دا مطلب 'پھاڑی ہوئی' (درندے دی ہتھکنڈی) اے — 'مردار' نئیں۔"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "تسیں — یاہوہ دا سِدھا حکم یِسرائیل نوں۔"
+    }
+  ],
+  "translation": "تے تسیں میرے لئی مقداس بندے ہووو، تے کھیت وِچ پھاڑی ہوئی ہڈی ماس نئیں کھاونا — کُتیاں نوں سُٹنا اوہنوں ⟨את⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0daa481e6d8d6b0dcc39aa380373fcba324226b4ba7538638f24e1179dc53b22",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/22\/29-30.1792096703281.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "تے بندے"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقداس"
+    },
+    {
+      "surface": "תהיון",
+      "gloss": "ہووو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرے لئی"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "تے ماس"
+    },
+    {
+      "surface": "בשدה",
+      "gloss": "کھیت وِچ"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "پھاڑی ہوئی ہڈی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "کھاونا"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "کُتیاں نوں"
+    },
+    {
+      "surface": "תשלכון",
+      "gloss": "سُٹنا"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "اوہنوں (پھاڑی ہوئی ہڈی)"
+    }
+  ],
+  "timestamp": "2026-10-15T20:38:23.282733801Z",
+  "model": "glm-5.3"
+}

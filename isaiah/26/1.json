@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 26:1",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "عبرانی وِچ کپولا نئیں، پنجابی نے منگیا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "مورچیاں",
+      "rationale": "חel חיל فوج\/مورچا — مورچا صورت رکھی اے"
+    }
+  ],
+  "translation": "اُس دن یہُودا دی زمین وِچ ایہہ گیت گایا جائے گا: ساڈے لئی اِک مضبوط شہر اے، اوہ بچاؤ نوں کندھاں تے مورچیاں دی تھاں لائے گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c6631b478f19035b9145ed4ef31e301360bfa1bb9d389280d368b7fa869e7f3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/26\/1-4.1792106283555.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "اُس دن"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اُس"
+    },
+    {
+      "surface": "יושר",
+      "gloss": "گایا جائے گا"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "گیت"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین وِچ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہُودا دی"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "עז",
+      "gloss": "مضبوط"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ساڈے لئی"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "بچاؤ"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "لائے گا"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "کندھاں"
+    },
+    {
+      "surface": "וחל",
+      "gloss": "تے مورچیاں"
+    }
+  ],
+  "timestamp": "2026-10-15T23:18:03.556440786Z",
+  "model": "glm-5.3"
+}

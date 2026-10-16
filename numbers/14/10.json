@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 14:10",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سُٹو",
+      "rationale": "عبرانی وِچ صرف infinitive לרגום اے، حکم دا فعل پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתם",
+      "rationale": "מفعول دا نشان ⟨את⟩ بندا اے، اوہناں دا الگ لفظ عبرانی وِچ نئیں"
+    }
+  ],
+  "translation": "تے ساری عِدا نے آکھیا: ⟨את⟩ اوہناں نوں پتھراں نال سُٹو، تے یاہوہ دا جلال میل دے خیمے وِچ یِسرائیل دے سبھیاں پُتراں ⟨لئی⟩ دکھائی دتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c209fc7c29436dbb4406eafd01a9ce5f14b055ce92bb3447b94876aeb6b44e62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/14\/10-11.1792123425364.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "عِدا"
+    },
+    {
+      "surface": "לרגום",
+      "gloss": "پتھراں نال سُٹن"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "اوہناں نوں"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "پتھراں نال"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "تے جلال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دا"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "دکھائی دتا"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "خیمے وِچ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "میل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں ⟨لئی⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-10-16T04:03:45.364890552Z",
+  "model": "glm-5.3"
+}

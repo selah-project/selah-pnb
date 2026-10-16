@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 43:20",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ירד ירדנו",
+      "rationale": "مصدر مطلق + فعل — زور دین دا عبرانی ڈھنگ: اُترنا اسیں اُترے؛ پنجابی وِچ سچ مُچ نال دسیا"
+    },
+    {
+      "kind": "you",
+      "subject": "میرے سائیں",
+      "rationale": "سمیٹݨ والے بندے نوں سدھی خطاب — بندے لئی ادون (אדני)، ربّ لئی نئیں"
+    }
+  ],
+  "translation": "تے اوہناں آکھیا: اَ میرے سائیں، پہلی واری اسیں سچ مُچ اناج خریدن لئی اُترے سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8bfaadb19cb1dd2a0f16b19a3632f1fdb933e5d6e836695ab8319008c57dda33",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/43\/17-20.1792095882585.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "تے اوہناں آکھیا"
+    },
+    {
+      "surface": "בי",
+      "gloss": "اَ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "میرے سائیں"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "سچ مُچ اُترنا"
+    },
+    {
+      "surface": "ירדנו",
+      "gloss": "اسیں اُترے"
+    },
+    {
+      "surface": "בתחלה",
+      "gloss": "پہلی واری"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "خریدن"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "اناج"
+    }
+  ],
+  "timestamp": "2026-10-15T20:24:42.590600291Z",
+  "model": "glm-5.3"
+}

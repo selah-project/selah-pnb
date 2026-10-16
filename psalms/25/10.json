@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 25:10",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "חסד",
+      "rationale": "Hebrew 'chesed' rendered as the marked Hebrew-sound word خیسِد per discipline, gloss ⟨رحم، وفاداری⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ארחות",
+      "rationale": "'well-trodden roads\/caravan paths' rendered simply as راہ"
+    }
+  ],
+  "translation": "یاہوہ دے سارے راہ خیسِد ⟨⟨تے⟩⟩ سچ نیں، اوہناں لئی جو اوہدے عہد تے اوہدیاں گواہیاں نوں مانن والے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a30d850e7a42832cef0ccd636d9eca98b1382e0264ff2f0b03c1f9c58ef415c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/25\/9-12.1792112139482.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "راہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دے"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "خیسِد"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "تے سچ"
+    },
+    {
+      "surface": "לנצרי",
+      "gloss": "مانن والے نیں"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "اوہدے عہد"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "تے اوہدیاں گواہیاں"
+    }
+  ],
+  "timestamp": "2026-10-16T00:55:39.482970244Z",
+  "model": "glm-5.3"
+}

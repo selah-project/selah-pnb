@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 31:23",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "איד אל",
+      "rationale": "איד (آفت) تے אל (ایلوہ) دی آواز-جوڑی — پنجابی وِچ گواچ گئی۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ומשאתו",
+      "gloss": "لفظی ‘اوہدا اُچاچ\/جھنڈا’ — ‘جلال’ ریت دا لفظ رکھیا۔"
+    }
+  ],
+  "translation": "کیوں جو ایلوہ دی آفت میرے اُتے دہشت اے، تے اوہدا جلال ⟨سہ⟩ میں نئیں سکدا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e62f837fbc4509f27d6f303164333111b49ce26198068a34fb6172b3f91ae074",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/31\/21-24.1792116180341.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "دہشت"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میرے اُتے"
+    },
+    {
+      "surface": "איד",
+      "gloss": "ایلوہ دی آفت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایلوہ"
+    },
+    {
+      "surface": "ומשאתו",
+      "gloss": "تے اوہدا جلال"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "میں سکدا"
+    }
+  ],
+  "timestamp": "2026-10-16T02:03:00.341904168Z",
+  "model": "glm-5.3"
+}

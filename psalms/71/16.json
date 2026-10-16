@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 71:16",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בגברות אדני יהוה",
+      "rationale": "یہودी شکل جو 1515 وِچ رخ بدل کے 'آؤنگاں قوتاں نال' ولے نیں؛ عبرانی 'قوتاں وِچ آؤنا' بندا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨اُڈیک⟩",
+      "rationale": "לבדך 'تیری اکیلی' — پنجابی جملہ لئی شامل"
+    }
+  ],
+  "translation": "میں آواں گا ادونای یاہوہ دیاں قوتاں وِچ؛ میں تیری دھرمیائت یاد کراں گا، صرف تیری ⟨اُڈیک⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0a1ee5dc1511e1ef3f3520935b85d72f87a00495bbe70beb00fb03821231156b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/71\/13-16.1792112896977.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "آواں گا"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "دیاں قوتاں وِچ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "یاد کراں گا"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "تیری دھرمیائت"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "صرف تیری ⟨اُڈیک⟩"
+    }
+  ],
+  "timestamp": "2026-10-16T01:08:16.978685484Z",
+  "model": "glm-5.3"
+}

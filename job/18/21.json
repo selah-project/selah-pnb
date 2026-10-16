@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 18:21",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לא ידע אל",
+      "rationale": "بہت سارے ترجمے 'اُس بندے دا جیہڑا ایل نوں نئیں جاندا' آکھدے نیں، پر یونگ لٹرل 'تھاں جیہڑا ایل نئیں جاندا' — عبرانی دوویں پڑھائیاں دیندا اے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "عول",
+      "rationale": "עַוָּל مولَوی صفت اے پر ایتھے اسم دے طور تے 'بدکار' دے طور تے لیا گیا اے۔"
+    }
+  ],
+  "translation": "بے شک ایہی نیں مسکن بدکاری دے، تے ایہو تھاں اُس بندے دا جیہڑا ایل نوں نئیں جاندا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "924f3a2efc525b5d3e5b0f6af4a75bb198b929e33c229cacdd6e36ae489b88f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/18\/21-21.1792115742748.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "بے شک"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایہی"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "مسکن"
+    },
+    {
+      "surface": "עול",
+      "gloss": "بدکاری دے"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "تے ایہو"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "تھاں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "جاندا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    }
+  ],
+  "timestamp": "2026-10-16T01:55:42.749360630Z",
+  "model": "glm-5.3"
+}

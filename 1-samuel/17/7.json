@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 17:7",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "چھ سو شیکل لوہا",
+      "rationale": "دھار دا وزن گِنیا گیا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "ולהבת",
+      "rationale": "لفظی مطلب 'لوء' (جَوالا)، ترجمیاں وِچ نیزے دی دھار"
+    },
+    {
+      "kind": "substitution",
+      "subject": "کھڈی دا دستا",
+      "rationale": "כמנור اُنّا اے جیہڑا جُلّاہے دی کھڈی دا ہُندا اے، اوہدی شکل دسی گئی اے"
+    }
+  ],
+  "translation": "تے اُسدے نیزے دا تِیر جُلّاہیاں دی کھڈی دے دستے ورگا سی، تے اُس نیزے دی دھار چھ سو شیکل لوہے دی سی، تے ڈھال چُکن والا اُسدے اگے ٹُریا جاندا سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8866e59e1f1a781d96d653628d7ce65d84c51ed008f113b2c0f4dedf9fecaf51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/17\/5-8.1792102609488.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחץ",
+      "gloss": "تے تِیر"
+    },
+    {
+      "surface": "חניתו",
+      "gloss": "اُسدے نیزے دا"
+    },
+    {
+      "surface": "כמנור",
+      "gloss": "کھڈی دے دستے ورگا"
+    },
+    {
+      "surface": "ארגים",
+      "gloss": "جُلّاہیاں دی"
+    },
+    {
+      "surface": "ולהבת",
+      "gloss": "تے دھار"
+    },
+    {
+      "surface": "חניתו",
+      "gloss": "اُس نیزے دی"
+    },
+    {
+      "surface": "שש",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "شیکل"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "لوہے دی"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "تے چُکن والا"
+    },
+    {
+      "surface": "הצנה",
+      "gloss": "ڈھال"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ٹُریا"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "اُسدے اگے"
+    }
+  ],
+  "timestamp": "2026-10-15T22:16:49.489213932Z",
+  "model": "glm-5.3"
+}

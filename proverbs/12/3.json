@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 12:3",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בל ימוט",
+      "rationale": "'ہرگز نئیں ہلیگی' — عبرانی زور دین والی نفی، سادہ 'نئیں' توں تکھا"
+    }
+  ],
+  "translation": "بدی نال بندہ قائم نئیں ہوندا، پر نیکیاں دی جڑ ہلیگی نئیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0638d996d48731068fb7026737d18735acaf4c13abd6173197b0aa539974cd24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/12\/1-4.1792114647374.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "قائم ہوندا"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "بدی نال"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "پر جڑ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "نیکیاں دی"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ہرگز"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "ہلیگی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:37:27.375663481Z",
+  "model": "glm-5.3"
+}

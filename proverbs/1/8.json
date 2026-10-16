@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 1:8",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ہدایت⟩",
+      "rationale": "تورات مول لفظ اے؛ پنجابی قاری لئی وضاحت بریکٹ وِچ پہلی واری جائز۔"
+    },
+    {
+      "kind": "you",
+      "subject": "میرے پُتر",
+      "rationale": "سِدھا خطاب — پتر نوں، باپ دے بچن وِچ۔"
+    },
+    {
+      "kind": "invitation",
+      "subject": "سُن",
+      "rationale": "حکم نال خطاب — پورے ادب دا دروازہ۔"
+    }
+  ],
+  "translation": "میرے پُتر، اپنے پیو دا سکھ سُن، تے اپنی ماں دی تورات ⟨ہدایت⟩ نوں نہ چھڈ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4b21d2a2ebb7d3f3dcc9b511e93c982f7f1074896c2058845e036a4c12dd5a3d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/1\/5-8.1792114297498.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "سُن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "میرے پُتر"
+    },
+    {
+      "surface": "مוסר",
+      "gloss": "سکھ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "اپنے پیو دا"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תטש",
+      "gloss": "چھڈ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "تورات"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "اپنی ماں دی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:31:37.499831888Z",
+  "model": "glm-5.3"
+}

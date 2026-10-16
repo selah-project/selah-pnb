@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 30:24",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "پوری آیت",
+      "rationale": "تنخ دی سبّھ توں اوکھی آیتاں وِچوں اِک — 'בעי' بھِک\/گلابے دا ڈھیر، شقولاں وِچوں جے‌ایس‌وی 'قبر ول ہتھ نئیں اڈایا جاندا، بھانویں اوہ اُسدی تباہی وِچ پکارن'، اے‌ایس‌وی 'کی کوئی ڈِگن اُتے ہتھ نئیں اڈاوندا؟'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "بھِک",
+      "rationale": "'בעי' نوں 'مِٹی دا ڈھیر' (עי) پڑھیا جا سکدا اے — جے‌پی‌ایس دا 'تباہ ڈھیر' اِہو رخ اے"
+    },
+    {
+      "kind": "elision",
+      "subject": "להן",
+      "rationale": "'اِس لئی' عبرانی دا جوڑ-لفظ اے جیہدا وزن پنجابی وچ پوری طرح نئیں اُتردا"
+    }
+  ],
+  "translation": "پر بھِک اُتے ہتھ نئیں اڈایا جاندا؛ کی اُسدی مصیبت وِچ اِس لئی کوئی مدد دی پکار پکاردا اے؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1f56baa33c094ec857824903ef203d3602fadcb434be39cdd4b31f39a1d8f10f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/30\/21-24.1792116215581.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "پر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "בעי",
+      "gloss": "بھِک اُتے"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "اڈایا جاندا"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "کی"
+    },
+    {
+      "surface": "בפידו",
+      "gloss": "اُسدی مصیبت وِچ"
+    },
+    {
+      "surface": "להן",
+      "gloss": "اِس لئی"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "مدد دی پکار"
+    }
+  ],
+  "timestamp": "2026-10-16T02:03:35.583163927Z",
+  "model": "glm-5.3"
+}

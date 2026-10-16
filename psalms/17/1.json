@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 17:1",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "پنجابی پکار لئی جی بولدا اے، عبرانی وِچ نئیں"
+    },
+    {
+      "kind": "crux",
+      "subject": "سچائی سن",
+      "rationale": "צדק نوں مُکھ منگ دا ناں سمجھیا جا سکدا اے ('مُکھ منگ سن') یا اک بدلہ — ترجمے آپس وِچ وکھرے نیں"
+    },
+    {
+      "kind": "you",
+      "subject": "یاہوہ نوں",
+      "rationale": "دعا دا سدھا مخاطب یاہوہ اے"
+    }
+  ],
+  "translation": "منگ، داوِد دی۔ یاہوہ اے، سچائی سن، میری بنگ تے دھیان دے، میری منگ نوں کَن دھَر — بِناں دھوکھے والیاں ہونٹھاں ⟨توں⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "613f5ebf5e2899eea61296da291e5f5c715f3f5469ce6385da044a8b89f8f99f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/17\/1-4.1792111994499.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "منگ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد دی"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "سن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "سچائی"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "دھیان دے"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "میری بنگ"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "کَن دھَر"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "میری منگ"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "بِناں"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ہونٹھاں"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "دھوکھے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:53:14.499738772Z",
+  "model": "glm-5.3"
+}

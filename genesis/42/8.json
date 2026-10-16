@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויכר\/הכרהו",
+      "rationale": "پچھان دا الٹ — یوسف پچھاندا اے، بھرا نئیں"
+    }
+  ],
+  "translation": "تے یوسف نے ⟨את⟩ اپنے بھراواں نوں پچھانیا، پر اوہناں اوہنوں نئیں پچھانیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9bb81c7dff511a718e6ceacf51e0c3cadab9e3c7b45af9b1e55e83a91b8ba728",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/42\/5-8.1792095856701.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "تے پچھانیا"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنے بھراواں نوں"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "اپنے بھراواں"
+    },
+    {
+      "surface": "והם",
+      "gloss": "پر اوہناں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "اوہنوں پچھانیا"
+    }
+  ],
+  "timestamp": "2026-10-15T20:24:16.711061135Z",
+  "model": "glm-5.3"
+}

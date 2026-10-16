@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 1:22",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תפלה",
+      "rationale": "'بے ہودہ گل' دا پتر کِتے کِتے 'بے وقوفانا دوش' (KJV) تے کِتے 'بے ادبی منسوب کرنا' (JPS) — عبرانی شکل 'حماقت\/ہلکی گل ایلوہیم ول دینا' اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨کوئی⟩",
+      "rationale": "پنجابی جملے لئی چاہیدا، عبرانی وِچ نئیں۔"
+    }
+  ],
+  "translation": "ایہناں ساریاں گلاں وِچ ایوب نے گناہ نئیں کیتا، تے ایلوہیم نوں ⟨کوئی⟩ بے ہودہ گل نئیں منسوب کیتی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "06199c6de84486b09b59a53d2c0ee266d2726eff55483cce7ac5c28a1954cee8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/1\/21-22.1792115300214.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ساریاں گلاں وِچ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ایہناں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "گناہ کیتا"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ایوب نے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "منسوب کیتی"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "بے ہودہ گل"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ایلوہیم نوں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:48:20.215274970Z",
+  "model": "glm-5.3"
+}

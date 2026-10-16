@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 2:11",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨دریا⟩",
+      "rationale": "سیاق دا لفظ، عبرانی وِچ صرف 'پہلے دا ناں' اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "دریاواں دے ناں",
+      "rationale": "چار سراں دی لسٹ شروع ہوئی اے — ناں گنے جا رہے نیں"
+    }
+  ],
+  "translation": "پہلے ⟨دریا⟩ دا ناں پیشون اے؛ اوہی اے جیہڑا ⟨את⟩ سارے حویلہ دیس نوں چکر ماردا اے — جتھے سونا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b4cd62958375c9359b944679d157bf42a17e537c70d4a3e3bc7e8a8a53562873",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/2\/9-12.1792094661233.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "ناں"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "پہلے"
+    },
+    {
+      "surface": "פישון",
+      "gloss": "پیشون"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہی"
+    },
+    {
+      "surface": "הסבב",
+      "gloss": "چکر ماردا اے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سارے حویلہ دیس نوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "دیس"
+    },
+    {
+      "surface": "החוילה",
+      "gloss": "حویلہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جتھے"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اوتھے"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "سونا"
+    }
+  ],
+  "timestamp": "2026-10-15T20:04:21.234536282Z",
+  "model": "glm-5.3"
+}

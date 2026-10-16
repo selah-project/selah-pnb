@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "پہاڑ چڑھدے نیں",
+      "rationale": "יעלו\/ירדו 'اوہ چڑھدے\/اتردے نیں' (پانی، KJV) یا 'پہاڑ اُچے ہوئے\/وادیاں ڈبّ گئیاں' (JPS، ماضی) — پرنسپل بے نشان فعل اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יעלו\/ירדו",
+      "rationale": "چڑھنا\/اترنا دی جوڑی، عبرانی دا تضاد پنجابی وِچ رکھیا گیا اے"
+    }
+  ],
+  "translation": "پہاڑ چڑھدے نیں، وادیاں اتردیاں نیں — اُس تھاں ول جیہڑی توہاڈے اوہناں لئی بنائی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8202c7e37d5797457beb32e8a067e7064a0f9109a9c1fa3ac159ab44788762d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/104\/5-8.1792113514149.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "چڑھدے نیں"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "اتردیاں نیں"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "وادیاں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ول"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "تھاں"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اُس"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "توہاڈے بنائی اے"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اوہناں لئی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:18:34.150967888Z",
+  "model": "glm-5.3"
+}

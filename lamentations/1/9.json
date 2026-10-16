@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 1:9",
+  "book": "lamentations",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "پنجابی حالیہ جمله لئی فعل چاہیدا، عبرانی وِچ کوئی فعل نئیں"
+    },
+    {
+      "kind": "you",
+      "subject": "یاہوہ",
+      "rationale": "آیت دوجے ادھ وِچ سِدھی یاہوہ نوں مخاطب اے: ویکھ میری مصیبت"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פלאים",
+      "rationale": "پھیر 'عجیب کم' لئی — اتھے گِرن دی ہیبت دسدا اے، 'بے حد' دا احساس پنجابی وِچ نرم ہو جاندا اے"
+    }
+  ],
+  "translation": "اوہدی گندگی اوہدے دامن وِچ اے؛ اوہنے اپنا انت نئیں یاد کیتا، ایس لئی اوہ عجیب طریقے نال اُتری، اوہنوں تسلی دین والا کوئی نئیں۔ ویکھ، اے یاہوہ، ⟨את⟩ میری مصیبت، کیوں جے دشمن نے وڈا ⟨کیتا⟩ اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b06e9ec64673604ad70a1d7e07ef63215918f44796f7c02b3ddc823fa7e0a590",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/lamentations\/1\/9-12.1792117229736.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טמאתה",
+      "gloss": "گندگی"
+    },
+    {
+      "surface": "בשוליה",
+      "gloss": "اوہدے دامن وِچ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "זכרה",
+      "gloss": "یاد کیتا"
+    },
+    {
+      "surface": "אחריתה",
+      "gloss": "اپنا انت"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "تے اُتری"
+    },
+    {
+      "surface": "פלאים",
+      "gloss": "عجیب طریقے نال"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کوئی نئیں"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "تسلی دین والا"
+    },
+    {
+      "surface": "לה",
+      "gloss": "اوہنوں"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ویکھ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میری مصیبت"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "میری مصیبت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جے"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "وڈا کیتا"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "دشمن"
+    }
+  ],
+  "timestamp": "2026-10-16T02:20:29.737516616Z",
+  "model": "glm-5.3"
+}

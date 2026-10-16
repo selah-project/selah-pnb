@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 7:21",
+  "book": "ecclesiastes",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "بددعا",
+      "rationale": "מקללך دا چتر 'تینوں ہلکا کرن والا' اے؛ پنجابی وِچ 'بددعا دیندا' براکت وِچ دتا"
+    },
+    {
+      "kind": "invitation",
+      "subject": "نہ دیو",
+      "rationale": "پٹھاری نال ہدایت — سُنن والے نوں سدھیا مخاطب"
+    }
+  ],
+  "translation": "وی سارے اُنہاں گلاں وِچ جو اوہ بولدے نیں، دل نہ دیو، کہ نہ تُوں سُنیں ⟨את⟩ اپنے نوکر نوں جو تینوں ⟨بددعا⟩ دیندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "385c9c9fdc314d77e75f5b26db6d111d282e8b4cd842916d92321956b6bc9450",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ecclesiastes\/7\/21-24.1792117539089.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "گلاں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "بولدے نیں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "دیو"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "دل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "سُنیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنے نوکر نوں"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "اپنے نوکر"
+    },
+    {
+      "surface": "מקללך",
+      "gloss": "جو تینوں بددعا دیندا اے"
+    }
+  ],
+  "timestamp": "2026-10-16T02:25:39.090328224Z",
+  "model": "glm-5.3"
+}

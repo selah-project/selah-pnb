@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 58:6",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חובר חברים",
+      "rationale": "اکو جڑ دا کھیڈ — 'جوڑن والا جوڑ'؛ پنجابی وِچ جادوگر\/منتر نال ایہہ تلنگ گھٹ جاندی اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "מחכם",
+      "rationale": "'سبھ توں ماہر جادوگر' پر پڑھیا جاوے 'بلا سخاوت' — پراݨے مترجماں دا اختلاف"
+    }
+  ],
+  "translation": "جیہڑا منتر پڑھن والیاں دی آواز نئیں سندا، جادوگر جِنّا ماہر ہووے ⟨تے نئیں سندا⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "eb817a6b037371ddaaf7bf83a2a4b6b8f71815d55c3ab7cafac572118ebca6f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/58\/5-8.1792112726591.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "سندا"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "מלחשים",
+      "gloss": "منتر پڑھن والیاں دی"
+    },
+    {
+      "surface": "חובר",
+      "gloss": "جادو کرن والا"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "منتر"
+    },
+    {
+      "surface": "מחכם",
+      "gloss": "ماہر"
+    }
+  ],
+  "timestamp": "2026-10-16T01:05:26.592415533Z",
+  "model": "glm-5.3"
+}

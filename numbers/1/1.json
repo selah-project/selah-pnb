@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 1:1",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "date",
+      "rationale": "Verse fixes an exact date: day one of month two of the second year — the census anchor."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨دن⟩",
+      "rationale": "Punjabi needs 'day'; Hebrew says only 'in the one of the month'."
+    }
+  ],
+  "translation": "تے یاہوہ نے موشے نال گل کیتی، سینای دے وِچ، مِلن دے ٹبانے وِچ، دوجے مہینے دے پہلے ⟨دن⟩، مِتصرایم دے دیس توں نِکلن دے دوجے ورھے، آکھدا ہویا:",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6644281be4303ce7a73fdb58cbdaf9eb2f36d97306ae9dd0814bfe6bad26ccf0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/1\/1-4.1792098233854.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "تے… نال گل کیتی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "سینای دے"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "مِلن دے ٹبانے"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "دے پہلے"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "دوجے مہینے"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دوجے"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ورھے وِچ"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "دوجے"
+    },
+    {
+      "surface": "לצאתם",
+      "gloss": "اوہناں دے نِکلن"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "دیس توں"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھدا ہویا"
+    }
+  ],
+  "timestamp": "2026-10-15T21:03:53.854950455Z",
+  "model": "glm-5.3"
+}

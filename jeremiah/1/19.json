@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 1:19",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אתך",
+      "rationale": "ایتھے את+ך پیشیجشن اے ‹تیرے نال›، مگر ٹوکن ڈیٹا ایہنوں ⟨את⟩ ٹبر وِچ گن٘دا اے؛ ایس لئی نشان نال رکھیا گیا۔"
+    },
+    {
+      "kind": "idiom",
+      "subject": "יוכלו לך",
+      "rationale": "شبدی ‹تیرے لئی نہ سکن گے› — پنجابی اِڈیئم ‹تیرا کجھ نئیں وِگ سکن گے›۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "کیوں جو",
+      "rationale": "כی دا وجہ والا پھیلاؤ — پنجابی جوڑ لئی۔"
+    }
+  ],
+  "translation": "تے اوہ تیرے خلاف لڑن گے، پر تیرا کجھ نئیں وِگ سکن گے، کیوں جو میں ⟨את⟩ نال ہاں تیرے — یاہوہ دا آکھنا اے — تینوں بچاؤن لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "01911bf39988c42a8df8d7d7c506888bfa260d4a0c6098784f68fbb19416463d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/1\/17-19.1792107243917.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונלחמו",
+      "gloss": "تے اوہ لڑن گے"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تیرے خلاف"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "پر نئیں"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "وِگ سکن گے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیرا کجھ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ نال تیرے"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "دا آکھنا اے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "להצילך",
+      "gloss": "تینوں بچاؤن لئی"
+    }
+  ],
+  "timestamp": "2026-10-15T23:34:03.917950576Z",
+  "model": "glm-5.3"
+}

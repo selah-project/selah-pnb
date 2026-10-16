@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 11:5",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רשעתו\/רשע",
+      "rationale": "بدی تے بدکار اِکو جڑ رشع نال — پنجابی وِچ بدی\/بدکار دی سانجھ کجھ بچ جاندی اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "بے داگ",
+      "rationale": "תמים دا مول تصویر 'پورا، سارا' اے؛ 'بے داگ' یدش-فارسی کِردار اے پر اِکو کھیتر رکھدا اے"
+    }
+  ],
+  "translation": "بے داگ دِی صداقت اُوہدا راہ سِدھا کردی اے، تے اپنی بدی وِچّوں ہی بدکار ڈِگ پَیندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f062b502b3555d788633c3c73d1110edcf11ed908c5e08e65ccb17fc3c76daac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/11\/5-8.1792114643681.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צדקת",
+      "gloss": "صداقت"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "بے داگ"
+    },
+    {
+      "surface": "תישר",
+      "gloss": "سِدھا کردی اے"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "اُوہدا راہ"
+    },
+    {
+      "surface": "וברשעתו",
+      "gloss": "تے اُوہدی بدی وِچّوں"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ڈِگدا اے"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدکار"
+    }
+  ],
+  "timestamp": "2026-10-16T01:37:23.682408602Z",
+  "model": "glm-5.3"
+}

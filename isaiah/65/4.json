@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 65:4",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "دی پھتری",
+      "rationale": "عبرانی وِچ کوئی کارا نئیں، پنجابی جملے لئی 'دی پھتری' پایا گیا۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "בנצורים",
+      "rationale": "'بند\/چھپے تھانواں وِچ' — ترجمے 'یادگاراں'، 'ویران'، 'اوجھڑے' وی کہندے نیں۔"
+    },
+    {
+      "kind": "hapax",
+      "subject": "פרק",
+      "rationale": "'یخنی' — عبرانی تنخ وِچ ہور اِکو تھاں (ہزیقیاہ 65 بھاویں دوہری)۔"
+    }
+  ],
+  "translation": "جیہڑے قبراں وِچ بیٹھدے نیں تے بند تھانواں وِچ راتاں لنگھاندے نیں؛ سور دا ماس کھان والے، تے اوہناں دے برتناں وِچ نجس یخنی دی پھتری۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ec6d24d98bc3c49334ea8e65009354aa4de03dae426c5af008d8061d1a71489a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/65\/1-4.1792107226051.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הישבים",
+      "gloss": "بیٹھن والے"
+    },
+    {
+      "surface": "בקברים",
+      "gloss": "قبراں وِچ"
+    },
+    {
+      "surface": "ובנצורים",
+      "gloss": "تے بند تھانواں وِچ"
+    },
+    {
+      "surface": "ילינו",
+      "gloss": "راتاں لنگھاندے نیں"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "کھان والے"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ماس"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "سور دا"
+    },
+    {
+      "surface": "ופרק",
+      "gloss": "تے یخنی"
+    },
+    {
+      "surface": "פגלים",
+      "gloss": "نجس"
+    },
+    {
+      "surface": "כליהם",
+      "gloss": "اوہناں دے برتناں وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T23:33:46.052587090Z",
+  "model": "glm-5.3"
+}

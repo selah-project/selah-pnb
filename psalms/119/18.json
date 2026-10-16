@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 119:18",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "کھولھ دے",
+      "rationale": "גל پہلی نظر وِچ 'پٹی ہٹا' اے — اکھاں توں پردہ ہٹا؛ 'کھولھ' سوکھا پر سابقہ گواچا۔"
+    },
+    {
+      "kind": "you",
+      "subject": "to یاہوہ",
+      "rationale": "دعا — منگ اے، پڑھنوالی نوں نئیں، رب نوں مخاطب اے۔"
+    }
+  ],
+  "translation": "میریاں اکھاں ⟨کھولھ⟩ دے، کہ میں ویکھاں تیرے تورات دیاں عجیب گلاں ⟨توں⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8410f7721cca6dca8b2bfa92cb74b33b0734243193ac14728053acf7f8f0f115",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/119\/17-20.1792113820578.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "کھولھ دے"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "میریاں اکھاں"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "کہ میں ویکھاں"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "عجیب گلاں"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "تیرے تورات توں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:23:40.578830481Z",
+  "model": "glm-5.3"
+}

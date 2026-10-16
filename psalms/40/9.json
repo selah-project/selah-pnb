@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 40:9",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اے⟩",
+      "rationale": "عبرانی وِچ کپولا نئیں، پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "میرے اندرلےآں",
+      "rationale": "מעי دا پکھا مطلب ’ادھاڑ\/اندرلے انگ‘، ’دل‘ نئیں"
+    },
+    {
+      "kind": "you",
+      "subject": "یاہوہ",
+      "rationale": "بندیا دا سدھا سنیہا یاہوہ نوں"
+    }
+  ],
+  "translation": "تیری رضا کرن نوں، میرے ایلوہیم، میں نے پسند کیتا، تے تیری تورات میرے اندرلےآں وِچ ⟨اے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "91eced36a45d2fc058f527b35a65514f4e07413fbfe2c39fdaafac82224baf61",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/40\/9-12.1792112429840.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "کرن نوں"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "تیری رضا"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "میرے ایلوہیم"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "میں نے پسند کیتا"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "تے تیری تورات"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "میرے اندرلےآں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:00:29.841119525Z",
+  "model": "glm-5.3"
+}

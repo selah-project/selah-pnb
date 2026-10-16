@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 14:1",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ہر",
+      "rationale": "ہبرو وِچ اِک سیانی زنانہ، پنجابی وچ عموم لئی ہر پائی گیا"
+    },
+    {
+      "kind": "addition",
+      "subject": "اوہنوں",
+      "rationale": "مفعول دا ضمیر جیہڑا ہبرو دے صیغے وِچ کریا وِچ چھپیا اے، پنجابی وِچ وکھ لکھیا"
+    }
+  ],
+  "translation": "ہر سیانی زنانہ اپنا گھر بناندی اے، پر مورکھ اپنے ہتھاں نال ⟨اوہنوں⟩ ڈھا دیندی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "92140400659569df3ba77072ccf0569b26db16f94ecfeaeb3693a617fe82ee6b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/14\/1-4.1792114681439.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "سیانی"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "زنانہ"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "بناندی اے"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "اپنا گھر"
+    },
+    {
+      "surface": "ואולת",
+      "gloss": "پر مورکھ"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "اپنے ہتھاں نال"
+    },
+    {
+      "surface": "תהרסנו",
+      "gloss": "ڈھا دیندی اے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:38:01.439859690Z",
+  "model": "glm-5.3"
+}

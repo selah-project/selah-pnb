@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ויסרו",
+      "rationale": "יסר — ڈرنا\/تادیب؛ مار وی ہو سکدا اے تے بچاں نال تادیب وی"
+    }
+  ],
+  "translation": "تے اُس شہر دے زیر ⟨את⟩ بندے نوں لے لینگے تے اوہنوں ⟨את⟩ ڈرنا دینگے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0b35c2ca1cf594574b21e168d5e357c8aab3c76385631338aeca2915d17316f1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/22\/17-20.1792100275154.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "تے لے لینگے"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "زیر"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر دے"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اُس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بندے نوں"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "تے ڈرنا دینگے"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "اوہنوں"
+    }
+  ],
+  "timestamp": "2026-10-15T21:37:55.155295988Z",
+  "model": "glm-5.3"
+}

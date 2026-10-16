@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 10:17",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "להורד",
+      "rationale": "عبرانی دا مُڈھلا مطلب 'تھلے کیتا گیا' اے — 'لاہیا گیا' اوہدے نیڑے اے، پر 'اتاریا گیا' وی متبادل اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "پڑاؤ اُٹھا کے",
+      "rationale": "نسیע دا پورا چتر 'کھُنہیآں اُٹھا کے پِے چلنا' اے، پنجابی نے وادھو فعل منگیا"
+    }
+  ],
+  "translation": "تے مسکن لاہیا گیا، تے گیرشون دے پُتر تے مراری دے پُتر، مسکن چُکن والے، پڑاؤ اُٹھا کے تور گئے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fd25d804d3c6123e966f779b7dd9123ed19dd5efef035efa6b1e1ec0ac6186ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/10\/17-20.1792098494612.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והורד",
+      "gloss": "لاہیا گیا"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مسکن"
+    },
+    {
+      "surface": "ונסעו",
+      "gloss": "تے تور گئے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "گیرشون"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "تے پُتر"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "مراری"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "چُکن والے"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مسکن"
+    }
+  ],
+  "timestamp": "2026-10-15T21:08:14.613292657Z",
+  "model": "glm-5.3"
+}

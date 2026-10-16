@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 51:21",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אז … אז",
+      "rationale": "ਆਇਤ ਦੋ ਵਾਰ 'ਉਸ ਵੇਲੇ' ਨਾਲ ਜੁੜੀ ਹੈ — ਆਦਿ-ਅੰਤ ਦਾ ਮੇਲ, pnb ਵਿੱਚ ਦੋਹਰਾਵ ਰੱਖਿਆ ਗਿਆ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "عولہ",
+      "rationale": "עolah اَتੇ חפץ\/יעלו ਇੱਕੋ ਜਿਹੀ 'ਚੜ੍ਹਨ' ਜੜ੍ਹ — 'ਚੜ੍ਹਾਈ ਜਾਣ ਵਾਲੀ ਬਲੀ'; pnb ਵਿੱਚ ਚੜ੍ਹਨ ਦਾ ਚਿੱਤਰ ਕਮਜ਼ੋਰ ਹੋ ਜਾਂਦਾ ਹੈ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨پوری سوں ساڑی جان والی قربانی⟩",
+      "rationale": "عولہ د‏‏ی وضاحت پہلی وار ⟨⟩ وچ۔"
+    }
+  ],
+  "translation": "تے اُوں ویلے تُوں راست قربانیاں نوں پسند کریں گا — عولہ ⟨پوری سوں ساڑی جان والی قربانی⟩ تے وکھووکھ قربانی؛ اُوں ویلے چھترے تیرے قربان گاہ اُتے چڑھائے جان گے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "eeadf88d2c32473eb4328f14062b9152a2c5e5b0ef54a847ff898d6596f8fd6f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/51\/21-21.1792112620247.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "اُوں ویلے"
+    },
+    {
+      "surface": "תחפץ",
+      "gloss": "پسند کریں گا"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "قربانیاں"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "راست"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "عولہ"
+    },
+    {
+      "surface": "וכליל",
+      "gloss": "تے وکھووکھ قربانی"
+    },
+    {
+      "surface": "אז",
+      "gloss": "اُوں ویلے"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "چڑھائے جان گے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "تیرے قربان گاہ"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "چھترے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:03:40.248087100Z",
+  "model": "glm-5.3"
+}

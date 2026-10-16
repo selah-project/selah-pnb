@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 27:20",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨کجھ⟩ · ⟨اوہدے⟩",
+      "rationale": "מהודך 'چوں' کجھ دا سوماں دسدا اے پر لفظ نئیں اے؛ שמעו دا پُچھلا کرتا پنجابی وِچ اوہدے مننے لئی سپشٹ کرنا پیا"
+    },
+    {
+      "kind": "crux",
+      "subject": "הוד",
+      "rationale": "'جلال' بمقابلہ 'اعزاز\/سکھ' — ترجمے ادھر اُدھر ونڈے ہوئے نیں"
+    }
+  ],
+  "translation": "تے اوہدے اُتے آپنے جلال چوں ⟨کجھ⟩ دیوے، تاں جو یِسرائیل دے پُتراں دی ساری قوم ⟨اوہدے⟩ منے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e4c81f34a54fb2c02c5121486f7f60459112c71d9e825cc9ceee6aee9942d653",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/27\/17-20.1792099224375.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "تے دیوے"
+    },
+    {
+      "surface": "מהודך",
+      "gloss": "آپنے جلال چوں"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اوہدے اُتے"
+    },
+    {
+      "surface": "למען",
+      "gloss": "تاں جو"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "منے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں دی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-10-15T21:20:24.376985530Z",
+  "model": "glm-5.3"
+}

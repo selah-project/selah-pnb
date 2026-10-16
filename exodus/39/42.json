@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 39:42",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نے",
+      "rationale": "عبرانی وِچ فعل توں پہلاں، پنجابی نوں کرتا دے مگروں لگدا اے۔"
+    }
+  ],
+  "translation": "جِدّاں یاہوہ نے ⟨את⟩ موشے نوں حکم دتا سی، اُویں ای یِسرائیل دے پُتراں نے ⟨את⟩ سارا کم کیتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "696a491457e03c16faa0801637556b0304715a12c59ddc983248e348d290098a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/39\/41-43.1792097304928.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "سارے اُوہدے مطابق"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جِدّاں"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم دتا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اُویں ای"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "کیتا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں نے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل دے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سارا کم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "کم"
+    }
+  ],
+  "timestamp": "2026-10-15T20:48:24.929800237Z",
+  "model": "glm-5.3"
+}

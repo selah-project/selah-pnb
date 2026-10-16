@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 10:4",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Pharaoh",
+      "rationale": "دھمکی سِدھی فرعون نوں — ' تُو منکر ایں '۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "מחר",
+      "rationale": "وعدے دا ویلہ پکیا ہویا اے — کل۔"
+    }
+  ],
+  "translation": "کیونکہ جے تُو ⟨את⟩ میرے قوم نوں گھلݨ توں منکر ایں، تے ویکھ، میں کل ٹڈیلیاں تیری ہد وِچ لیاواں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1a89ea37e7c821724c294bf08cc9d67f68240694cbebc06b24780dc4241f2ffd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/10\/1-4.1792096381968.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "منکر ایں"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُو"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "گھلݨ توں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میرے قوم نوں"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "میرے قوم نوں"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "تے ویکھ"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "لیاواں گا"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "کل"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "ٹڈیلیاں"
+    },
+    {
+      "surface": "בגבלך",
+      "gloss": "تیری ہد وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T20:33:01.969366561Z",
+  "model": "glm-5.3"
+}

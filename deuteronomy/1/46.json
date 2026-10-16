@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "deuteronomy 1:46",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوتھے",
+      "rationale": "عبرانی وِچ تھاں دا لفظ نئیں، پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ותשבו \/ ישבתם",
+      "rationale": "اکو جڑ י-ש-ب دو واری — «بیٹھے رہے، جِنّے بیٹھے» — پنجابی وِچ «رہے» دو واری اوہو ہمآہنگی رکھدا اے"
+    }
+  ],
+  "translation": "تے تسیں قادِش وِچ بہت دن رہے، جِنّے دن تسیں ⟨اوتھے⟩ رہے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8cccfbdff248723b53791e05221452b7ccd6d8aaafa2d3af531b9b69179958ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/1\/45-46.1792099456964.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותשבו",
+      "gloss": "رہے"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "قادِش وِچ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دن"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "بہت"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "جِنّے دن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "ישבתם",
+      "gloss": "رہے"
+    }
+  ],
+  "timestamp": "2026-10-15T21:24:16.965381446Z",
+  "model": "glm-5.3"
+}

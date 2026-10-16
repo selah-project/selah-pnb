@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 11:12",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "تن آہنیاں",
+      "rationale": "پچھلی آیت دی تِنی توں وکھرا گروہ — 'تِن'، اِک ہور گنتی۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "عبرانی وِچ کریا نئیں، صرف 'הוא'؛ پنجابی نوں 'سی' دی لوڑ۔"
+    }
+  ],
+  "translation": "تے اوہدے مگروں الِعازر پُتر دودو اَخوخی، اوہ تن آہنیاں وِچوں سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1354ac7c1c1430906e4b2bc7ab8401232cc4fa9143bf634df1cad654c1633e12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/11\/9-12.1792120578005.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "تے اوہدے مگروں"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "الِعازر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "דודו",
+      "gloss": "دودو"
+    },
+    {
+      "surface": "האחוחי",
+      "gloss": "اَخوخی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "تن وِچوں"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "آہنیاں"
+    }
+  ],
+  "timestamp": "2026-10-16T03:16:18.008666625Z",
+  "model": "glm-5.3"
+}

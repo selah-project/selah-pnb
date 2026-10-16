@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 49:19",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ضمیر دی تبدیلی",
+      "rationale": "عبرانی اچانک تیجے توں دوجے شخص وچ بدل جاندا اے — بھاویں 'توں' دولت مند نوں مخاطب اے بھاویں خدا، مترجم آپس وِچ ونڈے ہوئے نیں۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨لوک⟩",
+      "rationale": "יודך دا کوئی ڈھکواں صیغہ پنجابی وِچ نئیں، کرم دا کرتا شامل کیتا۔"
+    }
+  ],
+  "translation": "کیونکہ اوہدی جان اوہدی زندگی وِچ دعا دیندی اے، تے ⟨لوک⟩ تیری تعریف کردے نیں، کیونکہ تُوں آپ نوں چنگا کر لیندا ایں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e05fb71515cee11022f7c26bbd2e6428d750500abb376f9135e9707b79a9e2d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/49\/17-20.1792112550710.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "اوہدی جان"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "اوہدی زندگی وِچ"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "دعا دیندی اے"
+    },
+    {
+      "surface": "ויודך",
+      "gloss": "تیری تعریف کردے نیں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "چنگا کر لیندا ایں"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تُوں آپ نوں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:02:30.711528680Z",
+  "model": "glm-5.3"
+}

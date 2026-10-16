@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "ایلوہیم",
+      "rationale": "سدیاں خطاب — دعا سُݨن والے الٰہ نوں 'تیرے تک' دا اعلان"
+    }
+  ],
+  "translation": "دعا سُݨن والا، تیرے تک سارا ماس آوے گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d3aff8c50347acb0f564b73a480599286c9e131652b5fb885b167de99e50ebde",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/65\/1-4.1792112829275.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "سُݨن والا"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "دعا"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "تیرے تک"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ماس"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "آوے گا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:07:09.276403721Z",
+  "model": "glm-5.3"
+}

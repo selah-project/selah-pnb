@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 3:5",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יגאלהו",
+      "rationale": "'اوس نوں مُڑ مِلن' (گا‌ءل — اگلے رشتے دار وانگوں دعویٰ کرنا)؛ KJV 'stain'، JPS 'claim' پڑھدے نیں"
+    },
+    {
+      "kind": "hapax",
+      "subject": "כמרירי",
+      "rationale": "ایہہ لفظ تنخ وِچ صرف ایتھے آؤندا اے — دن دے کالےپن\/کوڑے دا بول"
+    },
+    {
+      "kind": "substitution",
+      "subject": "موت دا پچھا",
+      "rationale": "צלמות سائے تے موت دا جوڑ اے؛ اِک لفظ دو شکلاں رکھدا اے"
+    }
+  ],
+  "translation": "اُندھیرا تے موت دا پچھا اوس نوں مُڑ مِلن؛ بدل اوس اُتے وسے؛ دن دے کوڑے ⟨⟨نہ⟩⟩ — اوس نوں اوہ ڈرائوں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "04cc00782941dd4c58ff4d92d2e5b7f1bc517d601098d9e661d5de6ddd945575",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/3\/5-8.1792115345162.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יגאלהו",
+      "gloss": "اوس نوں مُڑ مِلن"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "اُندھیرا"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "تے موت دا پچھا"
+    },
+    {
+      "surface": "תשכן",
+      "gloss": "وسے"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اوس اُتے"
+    },
+    {
+      "surface": "עננה",
+      "gloss": "بدل"
+    },
+    {
+      "surface": "יבעתהו",
+      "gloss": "اوس نوں ڈرائوں"
+    },
+    {
+      "surface": "כמרירי",
+      "gloss": "کوڑے"
+    },
+    {
+      "surface": "יום",
+      "gloss": "دن دے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:49:05.162643781Z",
+  "model": "glm-5.3"
+}

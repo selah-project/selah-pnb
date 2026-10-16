@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 4:5",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כהן",
+      "rationale": "زابود لئی כהן — 'کاہن' بنا اسے 'وڈا افسر' بناؤنا (KJV) عبرانی دے خلاف اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "عبرانی وِچ کوئی کریا نئیں؛ پنجابی جملے لئی 'سی' پایا گیا۔"
+    }
+  ],
+  "translation": "تے عزریاہو ناتن دا پُتر نِتھوویاں اُتے سی، تے زابود ناتن دا پُتر کاہن ⟨سی⟩، بادشاہ دا رفیق۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9e57713a188d7b2adeca76d9526ba49caeb63f85edcf555f81ddc0e7bee2c001",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/4\/5-8.1792103962729.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועזריהו",
+      "gloss": "تے عزریاہو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتن"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הנצבים",
+      "gloss": "نِتھوویاں"
+    },
+    {
+      "surface": "וזבוד",
+      "gloss": "تے زابود"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتن"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "رفیق"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    }
+  ],
+  "timestamp": "2026-10-15T22:39:22.729999465Z",
+  "model": "glm-5.3"
+}

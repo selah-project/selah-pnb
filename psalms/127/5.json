@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 127:5",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 127,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "مہیناں",
+      "rationale": "אֲשֶׁר ਵِچھڑ گیا اے — جِہنے\/جو نال جُڑ گیا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "یعقوو نے",
+      "rationale": "בְּפַעַם אַחַת = اِک واری، دوجی واری نئیں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "سراسر نئیں",
+      "rationale": "כִּי־עַל־כֵּן دوویں واری — کارن دا دُہراؤ، عبرانی دا سُر"
+    }
+  ],
+  "translation": "خوش اے اوہ گبھرو جِہنے ⟨את⟩ اپنا تیرکش اوہناں نال بھر لیا؛ اوہ شرمندہ نئیں ہونگے، کیوں جے اوہ ⟨את⟩ دشمناں نال دروازے تے گل کردے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e9d87ba12ccdb924ae9984211be8974e22e990c6516ffcd2b95a87ffd082225d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/127\/5-5.1792113955424.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "خوش اے"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "اوہ گبھرو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جِہنے"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "بھر لیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنا تیرکش"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "اپنا تیرکش"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "اوہناں نال"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "شرمندہ ہونگے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جے"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "گل کردے نیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دشمناں نال"
+    },
+    {
+      "surface": "אויבים",
+      "gloss": "دشمناں"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "دروازے تے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:25:55.425163313Z",
+  "model": "glm-5.3"
+}

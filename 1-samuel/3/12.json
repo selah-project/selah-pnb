@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 3:12",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "החל וכלה",
+      "rationale": "شروع کرنا-مُکانا — پورا تُکّا، اِکو وار دا اِڈیوم، کجھ ادھا نئیں چھڈیا جاوے گا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "کھڑا کراں گا",
+      "rationale": "אקים اوہی فعل اے جیہڑا نبیاں دے وعدیاں نال جُڑیا اے — گلاں نوں کھڑا کرنا یعنی اوہناں نُوں واقف کرنا"
+    }
+  ],
+  "translation": "اُس دن میں عیلی دے خلاف ⟨את⟩ سارے اوہ گلاں پوریاں کراں گا جیہڑیاں میں اوہدے گھر بار بار آکھیاں نیں — شروع کر کے مُکا کے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0c5e13e9fa98e0373fdb0caf232f518294f5856e8159d0b5f8ddb99cf25a9221",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/3\/9-12.1792102241063.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "اُس دن"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "کھڑا کراں گا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دے خلاف"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "عیلی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سارے اوہ گلاں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "میں آکھیاں نیں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بارے"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "اوہدے گھر"
+    },
+    {
+      "surface": "החל",
+      "gloss": "شروع کر کے"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "مُکا کے"
+    }
+  ],
+  "timestamp": "2026-10-15T22:10:41.064404604Z",
+  "model": "glm-5.3"
+}

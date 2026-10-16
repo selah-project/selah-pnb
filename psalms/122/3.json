@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 122:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 122,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שחברה לה יחדו",
+      "rationale": "“جو اِکو وِچ جُڑی اے” بمقابلہ کجھ پرانے ترجمے “جیہڑی اِکٹھی کرکے آباد کیتی گئی” — عبرانی حلقی تصویر رکھدا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יחדו",
+      "rationale": "جڑ י-ח-ד “اِکٹھا\/ایکتا” — شہر دی ایکتا تے قبیلیاں دی ایکتا دوناں دا سنکیت"
+    }
+  ],
+  "translation": "یروشلایم ⟨اوہ⟩ بنی ہوئی اے، اویں شہر وانگ جیہڑی ⟨اوہدے نال⟩ اِکو وِچ جُڑی ہوئی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fada0221024951a7a1377830d44fecf2faf73c73fd36e54566392241ebf71cce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/122\/1-4.1792114029543.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم"
+    },
+    {
+      "surface": "הבנויה",
+      "gloss": "بنی ہوئی"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "شہر وانگ"
+    },
+    {
+      "surface": "שחברה",
+      "gloss": "جُڑی ہوئی"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨اوہدے نال⟩"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "اِکو وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:27:09.544369741Z",
+  "model": "glm-5.3"
+}

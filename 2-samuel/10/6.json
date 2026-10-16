@@ -1,0 +1,166 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 10:6",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נבאשו",
+      "rationale": " букв 'بدبو بن گئے' — عبرانی محاورہ، داوِد لئی نفرت انگیز ہونا"
+    },
+    {
+      "kind": "measurement",
+      "subject": "فوجاں دی گنتی",
+      "rationale": "ویہہ ہزار + ہزار + باراں ہزار — کرائے دیاں فوجاں دا حساب"
+    },
+    {
+      "kind": "crux",
+      "subject": "ואיש טוב",
+      "rationale": "'اِش توو' — 'توو دے بندے' (ASV\/JPS) بمقابلہ تھاں دے ناں 'اِش-توو' (KJV)"
+    }
+  ],
+  "translation": "تے بنی عیمون نے ویکھیا کہ اوہ داوِد دی نظر وِچ بدبودار ہو گئے نیں، تے بنی عیمون نے گھلیا تے کرائے اُتے لیا ⟨את⟩ آرام بیت رحوب نوں تے ⟨את⟩ آرام تسوبا نوں — ویہہ ہزار پیدل — تے ⟨את⟩ بادشاہ معاکھا نوں — ہزار بندے — تے اِش توو — باراں ہزار بندے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1f0a0346653f7a5df07da2fabd99978e9a335e8a9f1633e7df2421446ea44326",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/10\/5-8.1792103296614.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "تے اوہناں ویکھیا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عیمون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "نבאשو",
+      "gloss": "بدبودار ہو گئے نیں"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "داوِد دی نظر وِچ"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "تے اوہناں گھلیا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عیمون نے"
+    },
+    {
+      "surface": "וישכרו",
+      "gloss": "تے کرائے اُتے لیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آرام بیت رحوب"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "آرام"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "رحوب"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "آرام تسوبا"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "آرام"
+    },
+    {
+      "surface": "צובא",
+      "gloss": "تسوبا"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ویہہ ہزار"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "⟨ہزار⟩"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "پیدل"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "بادشاہ معاکھا"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "معاکھا"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "تے اِش"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "توو"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "باراں دا پہلا حصہ ⟨دو⟩"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨دس⟩"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندے"
+    }
+  ],
+  "timestamp": "2026-10-15T22:28:16.616303712Z",
+  "model": "glm-5.3"
+}

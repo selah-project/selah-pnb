@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 22:22",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "دی موت",
+      "rationale": "عبرانی صرف סבתי (مڑایا\/پھیریا) اے؛ پنجابی جملے لئی وضاحت شامل کیتی۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הגד\/יגיד",
+      "rationale": "اکو جڑ ن-ג-ד دو واری — پہلا نسخ تے دوجا مستقبل — 'دسنا دسیوے گا'۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "סבתי",
+      "rationale": "'میں سب لیاندیاں' (سبب بننا) بمقابلہ لفظی 'میں سب مڑا دتا' — ترجمے ادھار لیندا اے۔"
+    }
+  ],
+  "translation": "تے داوِد نے اَویاتار نوں آکھیا: میں جاندا سی اوس دن، جدوں دوایگ ادومی اوتھے سی، کہ اوہ شاؤل نوں ضرور دسیوے گا؛ میں تیرے پیو دے گھر دی ہر جان ⟨دی موت⟩ آپ لیاندیاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "319c1bcccfac058cbb6f70e417e24a79300a215fe8a23dbb5fc628fdf7108782",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/22\/21-23.1792102779705.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد نے"
+    },
+    {
+      "surface": "לאביתר",
+      "gloss": "اَویاتار نوں"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "میں جاندا سی"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "اوس دن"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اوتھے"
+    },
+    {
+      "surface": "דויג",
+      "gloss": "دوایگ"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "ادومی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "دسنا"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "اوہ دسیوے گا"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "شاؤل نوں"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "סבתי",
+      "gloss": "لیاندیاں"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر دی"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "تیرے پیو دے"
+    }
+  ],
+  "timestamp": "2026-10-15T22:19:39.705934954Z",
+  "model": "glm-5.3"
+}

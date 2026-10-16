@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 29:10",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "عبرانی وِچ مفعولی جملے وِچ کوئی فعل کم معاون نئیں؛ پنجابی نوں ⟨مبارک اے⟩ دا اے چاہیدا — عبرانی دی اسمی جملہ اے، پنجابی فعل منگدی اے۔"
+    },
+    {
+      "kind": "you",
+      "subject": "یاہوہ نوں",
+      "rationale": "داوِد دی دُعایت سِدھی یاہوہ نوں مخاطب اے۔"
+    }
+  ],
+  "translation": "تے داوِد نے ساری ہزارے دے اگے ⟨את⟩ یاہوہ نوں دُعایت دتی، تے داوِد آکھیا: مبارک اے توں، یاہوہ، یِسرائیل ساڈے پیو دا ایلوہیم، ہمیشہ توں لے کے ہمیشہ تک۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "88ea3f74b3c79d46ed22924f10adbbd73a9db1041ef805e5554c1111b19025d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/29\/9-12.1792121396078.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "دُعایت دتی"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "اَکھاں دے اگے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ہزارے دے"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "مبارک"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "توں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "ساڈے پیو دا"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "ہمیشہ توں"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "لے کے"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیشہ تک"
+    }
+  ],
+  "timestamp": "2026-10-16T03:29:56.079322919Z",
+  "model": "glm-5.3"
+}

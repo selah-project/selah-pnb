@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 27:5",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חלילה",
+      "rationale": "חלילה میل-پلیت لئی اے، پر پکی مترادف دے طور تے 'دور رے' ورگیاں دعاواں دا مطلب اے۔"
+    },
+    {
+      "kind": "you",
+      "subject": "تُساں نوں",
+      "rationale": "ایوب اپنیاں ترے ساتھیاں نوں مخاطب اے۔"
+    }
+  ],
+  "translation": "میرے لئی دور رے، جے میں تُساں نوں ⟨את⟩ نیائیک آکھاں؛ جدوں تک میں ساہ نہ چھڈاں، میں اپنی بےگناہی اپنے توں نئیں ہٹاواں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0934fe33eea176bbf262959dfada883b99561d0ad27bccec034829090a68ff18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/27\/5-8.1792116073781.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חלילה",
+      "gloss": "دور رے"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرے لئی"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "אצדיק",
+      "gloss": "نیائیک آکھاں"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "تُساں نوں"
+    },
+    {
+      "surface": "עד",
+      "gloss": "جدوں تک"
+    },
+    {
+      "surface": "אגוע",
+      "gloss": "ساہ نہ چھڈاں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "ہٹاواں گا"
+    },
+    {
+      "surface": "תמתי",
+      "gloss": "میری بےگناہی"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "اپنے توں"
+    }
+  ],
+  "timestamp": "2026-10-16T02:01:13.782210534Z",
+  "model": "glm-5.3"
+}

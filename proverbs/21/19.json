@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 21:19",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اے⟩",
+      "rationale": "'چنگا اے' دا فعل عبرانی وِچ صفت نال چھپا اے — پنجابی وِچ وکھ دسایا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "مڈبار",
+      "rationale": "מדבר اصل 'چراگاہ\/کھلا میدان' — بے آب ویران تھاں دا مطلب سیاق دسدا اے"
+    }
+  ],
+  "translation": "ویران دھرتی وِچ وسنا چنگا اے — جھگڑیاں تے غصے والی تریمتیں نالوں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "00ec8059659f6647b954235f0a8e886bcb31701761039b161e0ae23e2dde182e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/21\/17-20.1792114946310.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چنگا"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "وسنا"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "دھرتی وِچ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ویران"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "تریمتیں نالوں"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "جھگڑیاں والی"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "تے غصے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:42:26.311709159Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 122:4",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 122,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עדות לישראל",
+      "rationale": "KJV “عیسرائیل دی گواہی لئی” بمقابلہ LXX\/جنیوا “عدالت\/قنون بمطابق عیسرائیل لئی” — عبرانی “گواہی” ہی اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עלו \/ מעלות",
+      "rationale": "قبیلیاں دا “چڑھنا” (עלו) گیت دے ناں “چڑھائیاں” (המעלות) نال جُڑدا اے"
+    }
+  ],
+  "translation": "کیونجے اوتھے قبیلیاں چڑھدیاں نیں، یاہ دے قبیلیے، یِسرائیل لئی گواہی، یاہوہ دے ناں دا دھنیواں کرن لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fada0221024951a7a1377830d44fecf2faf73c73fd36e54566392241ebf71cce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/122\/1-4.1792114029543.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ששם",
+      "gloss": "اوتھے"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "چڑھدیاں نیں"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "قبیلیاں"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "دے قبیلیے"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاہ"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "گواہی"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "یِسرائیل لئی"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "دھنیواں کرن لئی"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "دے ناں دا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:27:09.544503428Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,158 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "malachi 2:2",
+  "book": "malachi",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ושלחתי … ארותיה",
+      "rationale": " عبرانی مستقبل لَے کے اے — KJV\/ASV 'میں پہلے ہی لعن دِتّا اے' وی پڑھدیاں نیں؛ شکل مستقبل ای رکھی"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שמע",
+      "rationale": "'سُن٘ناں' عبرانی وِچ مانڻ تے دھیان دوویں اے — صرف کَن نال سُن٘ناں نئیں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ארותי\/ארותיה",
+      "rationale": "'لعن' دی تن واری واں — لعن-برکت دا الٹ، پنجابی وِچ تال قایم رکھن دی کوشش"
+    },
+    {
+      "kind": "you",
+      "subject": "کاہناں نوں",
+      "rationale": "دھمکی والا خطاب جاری اے"
+    }
+  ],
+  "translation": "جے تُساں سُن٘دے نئیں، تے جے تُساں ایہہ دل اُتے نئیں لَیندے کہ میرے ناں نوں جلال دیو، یاہوہ تصواوت آکھدا اے، تاں میں تُہاڈے وِچ ⟨את⟩ لعنت بھیجاں گا، تے میں ⟨את⟩ تُہاڈیاں برکتاں نوں لعناں گا، تے اوہنوں وی لعناں گا، کیوں جو تُساں دل اُتے نئیں لَیندے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "dd82bcdabdf8b43f73f4a7e460cc05ae7a0ccce12245284aef255edbfdcdd1c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/malachi\/2\/1-4.1792111741567.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "تُساں سُن٘دے"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תשימו",
+      "gloss": "تُساں لَیندے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "کہ دیو"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "میرے ناں نوں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھدا اے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "تصواوت"
+    },
+    {
+      "surface": "ושלחתי",
+      "gloss": "تاں میں بھیجاں گا"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "تُہاڈے وِچ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لعنت"
+    },
+    {
+      "surface": "המארה",
+      "gloss": "لعنت"
+    },
+    {
+      "surface": "וארותי",
+      "gloss": "تے میں لعناں گا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تُہاڈیاں برکتاں"
+    },
+    {
+      "surface": "ברכותיכם",
+      "gloss": "تُہاڈیاں برکتاں"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "تے اوہنوں وی"
+    },
+    {
+      "surface": "ארותיה",
+      "gloss": "لعناں گا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "تُساں نئیں"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "لَیندے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    }
+  ],
+  "timestamp": "2026-10-16T00:49:01.568173168Z",
+  "model": "glm-5.3"
+}

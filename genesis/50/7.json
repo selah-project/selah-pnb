@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 50:7",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "עמ\/את دا قریبی لفظ اے؛ ⟨את⟩ دا نشان رکھیا تے «اُس دے نال» دتا۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "سوگ دی پوجا",
+      "rationale": "آیت وادھے دے پدھراں دی گنتی کردی اے: سارے غلام، بزرگ، بزرگ — قافلے دا ناپ۔"
+    }
+  ],
+  "translation": "تے یوسف چڑھیا اپنے پیو نوں دفناون، تے اُس دے نال ⟨את⟩ چڑھے فرعون دے سارے غلام، اُس دے گھر دے بزرگ، تے ارض مِتصرایم دے سارے بزرگ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "817d4df067c4f227a9473aec907b44708b2986f3771ef8416bb5c347ff93777b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/50\/5-8.1792096119830.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "تے چڑھیا"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "دفناون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنے پیو نوں"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "اپنے پیو"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "تے چڑھے"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ اُس دے نال"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "غلام"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون دے"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "بزرگ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "اُس دے گھر دے"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سارے"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "بزرگ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ارض"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم"
+    }
+  ],
+  "timestamp": "2026-10-15T20:28:39.831490274Z",
+  "model": "glm-5.3"
+}

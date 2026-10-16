@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "whole congregation",
+      "rationale": "ساری سنگت دی حاضری دا حکم — تقرُب دی گواہی لئی"
+    }
+  ],
+  "translation": "تے ساری سنگت نوں ⟨את⟩ میل مُہاڑ دے خیمے دے دَروازے تے اِکٹھا کَر۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "359e61bd7e59f02f881d920ce9d384266db146429ce2f0bede128791870f4375",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/8\/1-4.1792097476531.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ساری سنگت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "سنگت"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "اِکٹھا کَر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تے"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "دَروازے"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمے"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "میل مُہاڑ"
+    }
+  ],
+  "timestamp": "2026-10-15T20:51:16.532778183Z",
+  "model": "glm-5.3"
+}

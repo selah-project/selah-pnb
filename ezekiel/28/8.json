@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 28:8",
+  "book": "ezekiel",
+  "lang": "pnb",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "موتاں",
+      "rationale": "ממותי جمع اے — 'موتاں' — بہت ساریاں موتاں دی سوچ، اِک موت نئیں؛ پنجابی وِچ جمع رکھی گئی۔"
+    },
+    {
+      "kind": "idiom",
+      "subject": "לב ימים",
+      "rationale": "'سمندراں دے دل' = وچکار، پانیاں دی اَگّوں؛ ٹھیک پنجابی 'وِچکار' اے پر مول تصویر دل دی اے۔"
+    },
+    {
+      "kind": "you",
+      "subject": "صور دے بادشاہ نوں",
+      "rationale": "موت دی گھوشناوا سِدھے مخاطب نوں۔"
+    }
+  ],
+  "translation": "گڑھے وِچ اوہ تینوں اتارنگے، تے توں زخمیاں دیاں موتاں وِچ مرےں گا، سمندراں دے وچکار۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c6d64305b394125e266ebc9c699602790a8c614fbf09aa73164c54f213c801e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/28\/5-8.1792109736609.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשחת",
+      "gloss": "گڑھے وِچ"
+    },
+    {
+      "surface": "יורדוך",
+      "gloss": "اوہ تینوں اتارنگے"
+    },
+    {
+      "surface": "ומתה",
+      "gloss": "تے توں مرےں گا"
+    },
+    {
+      "surface": "ממותי",
+      "gloss": "موتاں وِچ"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "زخمیاں دیاں"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "وِچکار"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "سمندراں دے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:15:36.610162204Z",
+  "model": "glm-5.3"
+}

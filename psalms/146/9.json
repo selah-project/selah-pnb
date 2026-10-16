@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 146,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "رکھیا کردا اے",
+      "rationale": "שמר دا مول مطلب کانڈیاں نال باڑ دینا اے — پہرہ دینا؛ 'رکھیا' اوہدا گھٹایا ہویا روپ"
+    },
+    {
+      "kind": "crux",
+      "subject": "کھلوندا اے",
+      "rationale": "יעודד (קום توں) — 'کھلوندا اے \/ سہارا دیندا اے'، کجھ مترجم 'پالنا پوسنا' لیندے نیں"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩",
+      "rationale": "عبرانی وِچ فعل دا فاعل پہلاں ہی یاہوہ اے، پنجابی صیغے لئی سبجیکٹ دہرایا"
+    }
+  ],
+  "translation": "یاہوہ ⟨את⟩ پردیسیاں دی رکھیا کردا اے، یتیم تے ودھوا نوں ⟨اوہ⟩ کھلوندا اے، تے بدکاراں دا راہ ٹیڈھا کردا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d5fcbf227f804cb9f705f06dde37bba557510f04d8b58a66a2a92cf66769d671",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/146\/9-10.1792114222737.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "رکھیا کردا اے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پردیسیاں"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "پردیسیاں"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "یتیم"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "تے ودھوا"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "کھلوندا اے"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "تے راہ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکاراں دا"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "ٹیڈھا کردا اے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:30:22.738403367Z",
+  "model": "glm-5.3"
+}

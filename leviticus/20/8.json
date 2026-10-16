@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 20:8",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "آں",
+      "rationale": "عبرانی وِچ 'אני יהוה' — copula نئیں؛ پنجابی لئی 'آں' پایا گیا۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "پوتری کردا",
+      "rationale": "מקדשכם وِچ 'مُقدس\/پوتر' دا سببّی صیغہ اے — 'مُقدس بنان والا'؛ 'پوتری کردا' لہور دی بول چال دا سببّی روپ۔"
+    },
+    {
+      "kind": "you",
+      "subject": "اسرائیل",
+      "rationale": "حکم جمع مخاطب وِچ، قوم نوں۔"
+    }
+  ],
+  "translation": "تے اُتھے میریاں قیداں نوں ⟨את⟩ مانو تے اوہناں نوں ⟨אתם⟩ کرو — اَ میں یاہوہ آں جیہڑا تہانوں پوتری کردا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "81eae7be84484b6eb4f18765251f4c3fc88d7fb023e0e78a42d6038537726f15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/20\/5-8.1792097941676.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "تے اُتھے … مانو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میریاں قیداں نوں"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "میریاں قیداں"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "تے کرو"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "اوہناں نوں"
+    },
+    {
+      "surface": "אני",
+      "gloss": "اَ میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "تہانوں پوتری کردا"
+    }
+  ],
+  "timestamp": "2026-10-15T20:59:01.677426475Z",
+  "model": "glm-5.3"
+}

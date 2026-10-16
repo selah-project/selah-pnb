@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 34:6",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויקבר",
+      "rationale": "کس دفنایا — متن فاعل نئیں دسدا: یلٹ\/بی ایس بی 'اوہنوں' (یعنی یاہوہ نے) دسدیاں نیں، جے پی ایس غیر شخصی 'دفنایا گیا'؛ پنجابی نے غیر شخصی ریت چُنی"
+    },
+    {
+      "kind": "hapax-ish",
+      "subject": "גי",
+      "rationale": "'علی‌پہ' دی گھاٹی — عبرانی گائے نال تھاں دا اشارہ؛ شکل 'گھاٹی' رکھی"
+    }
+  ],
+  "translation": "تے ⟨اوہنوں⟩ گھاٹی وِچ، موآب دی دھرتی وِچ، بیت فعور دے اُلٹ دفنایا گیا؛ تے کوئی بندہ اوہدی قبر ⟨جاندے⟩ ⟨جُو⟩، اِس دن تک نئیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "03f4fddf3f8c4eb367c85ded4bf2314bddad1e38aa2eb2110b57cdca35216597",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/34\/5-8.1792100632931.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "تے دفنایا"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "موشے نوں"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "گھاٹی وِچ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "دھرتی وِچ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "מול",
+      "gloss": "اُلٹ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "فعور"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "جاندا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "کوئی بندہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہدی قبر"
+    },
+    {
+      "surface": "קברתו",
+      "gloss": "اوہدی قبر"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "היום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اِس"
+    }
+  ],
+  "timestamp": "2026-10-15T21:43:52.932792430Z",
+  "model": "glm-5.3"
+}

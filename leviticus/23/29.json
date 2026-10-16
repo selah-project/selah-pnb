@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 23:29",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جیون-زور اے، روح نئیں"
+    },
+    {
+      "kind": "crux",
+      "subject": "تڑفے گی",
+      "rationale": "תענה: 'دُکھی ہووے' (روزے نال) بمقابلہ 'جھکے' — عیینتاً 'آپ نوں دباؤ'"
+    }
+  ],
+  "translation": "کیوں کہ ہر جان جیہڑی اِس عین دن آپ نوں نئیں تڑفے گی، تے اوہ اپنی قوم وِچوں کٹی جاوے گی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0403cf303b488289d4083fa673329129a9d87f79d444d64c93e4d1d875bd3543",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/23\/29-32.1792098080068.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں کہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "تڑفے گی"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "عین"
+    },
+    {
+      "surface": "היום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اِس"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "تے کٹی جاوے گی"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "اپنی قوم وِچوں"
+    }
+  ],
+  "timestamp": "2026-10-15T21:01:20.069330314Z",
+  "model": "glm-5.3"
+}

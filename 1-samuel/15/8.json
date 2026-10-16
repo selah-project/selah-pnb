@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 15:8",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "החרים",
+      "rationale": "חרם — اوہنوں عہد توں باہر کر کے پورا مِٹانا؛ 'حرام کر دتا' اوہدی نیت رکھدا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לפי חרב",
+      "rationale": "'تلوار دے مُونہہ نال' — عبرانی وِچ 'مُونہہ' تلوار دی دھار اے؛ پنجابی 'دہاڑی' اوہدے نیڑے اے"
+    }
+  ],
+  "translation": "تے اوہنے ⟨את⟩ عمالیک دے بادشاہ اگگ نوں جِوندا پھڑیا، تے ⟨את⟩ سارے لوکاں نوں تلوار دی دہاڑی نال حرام کر دتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0a955b7d8dae29e8aef1339ddbc58eb33abd967e7699924eaa4a1d829a501b09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/15\/5-8.1792102568522.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "تے پھڑیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اگگ"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "اگگ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "عمالیک"
+    },
+    {
+      "surface": "חי",
+      "gloss": "جِوندا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "سارے لوکاں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوکاں"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "حرام کر دتا"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "دی دہاڑی"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "تلوار"
+    }
+  ],
+  "timestamp": "2026-10-15T22:16:08.523460774Z",
+  "model": "glm-5.3"
+}

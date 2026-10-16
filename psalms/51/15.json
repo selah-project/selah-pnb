@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 51:15",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨تداں⟩",
+      "rationale": "عبرانی وِچ کوئی „تداں“ نئیں؛ واو دے بغیر فعل صیغہ مستقبل مُڈھلا جوڑ دسدا اے، پنجابی جوڑ لئی شبد پا کے دتا"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "השיבה \/ ישובו",
+      "rationale": "آیت 14 دا „واپس کر“ تے ایتھے دا „مُڑ آؤن گے“ اِکو جד שׁוּב — الُوہ واپس کردا اے تے پاپی واپس آؤندے نیں"
+    }
+  ],
+  "translation": "⟨تداں⟩ میں باغیّت کرن والیاں نوں تیرے رستیاں دی سکھیا دواں گا، تے پاپی تیرے ول مُڑ آؤن گے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0b316f709416da554966f354afab6cf7b0bd3778a8f6cc8a5b61ccad330c358d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/51\/13-16.1792112649450.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלמדה",
+      "gloss": "سکھیا دواں گا"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "باغیّت کرن والے"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "تیرے رستے"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "تے پاپی"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تیرے ول"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "مُڑ آؤن گے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:04:09.451210150Z",
+  "model": "glm-5.3"
+}

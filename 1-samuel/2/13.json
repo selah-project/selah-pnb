@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 2:13",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משפט",
+      "rationale": "مشتمل فیصلہ\/ریت — ترجمیاں 'custom' تے 'right' دوویں کردیاں نیں؛ اتھے ریت (عادت) دا سیاق اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "ایہہ سی",
+      "rationale": "عبرانی وِچcopula نئیں، پنجابی جملہ منگدا اے۔"
+    }
+  ],
+  "translation": "تے کاہناں دی ریت ⟨את⟩ لوکاں نال ایہہ سی: جدوں کوئی بندہ قربانی کردا، کاہن دا مُندر آؤندا، جدوں کہ ماس ابلیا جاندا ہوندا، تے تن دنداں والا کانٹا اوہدے ہتھ وِچ ہوندا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a66a902cbb32e94b06154aa409551a1a4108a20f827696d55518340d7eabdf4a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/2\/13-16.1792102190030.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומשפט",
+      "gloss": "تے ریت"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاہناں دی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لوکاں نوں"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوکاں نوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "قربانی کرے"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "قربانی"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "آؤندا"
+    },
+    {
+      "surface": "נער",
+      "gloss": "مُندر"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن دا"
+    },
+    {
+      "surface": "כבשל",
+      "gloss": "جدوں ابلیا جاندا اے"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ماس"
+    },
+    {
+      "surface": "והמזלג",
+      "gloss": "تے کانٹا"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "تن"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "دنداں والا"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "اوہدے ہتھ وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T22:09:50.030902578Z",
+  "model": "glm-5.3"
+}

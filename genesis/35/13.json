@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 35:13",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "کر چُکیا سی",
+      "rationale": "عبرانی دا ماضی مکمل منگدا اے، پنجابی وچ پورا کرنا پیا"
+    }
+  ],
+  "translation": "تے ایلوہیم اوہدے اُتّوں اُتے چڑھ گیا — اُس تھاں وِچ جِتھے اوہ ⟨את⟩ اوہدے نال گل کر چُکیا سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "12621bee20c0f198d5670f1fb24ec6f5514dfef2edb7ff482140f6e955f2ac34",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/35\/13-16.1792095604488.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "تے اُتے چڑھ گیا"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "اوہدے اُتّوں"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "اُس تھاں وِچ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جِتھے"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "گل کر چُکیا سی"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "اوہدے نال"
+    }
+  ],
+  "timestamp": "2026-10-15T20:20:04.489403993Z",
+  "model": "glm-5.3"
+}

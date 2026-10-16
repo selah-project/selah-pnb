@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 20:3",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גוענו\/בגוע",
+      "rationale": "اوہو根部 גוע دو واری — 'کاش اسیں مِر جاندے جد اوہ مِرے'؛ پنجابی وِچ مرن دا دوہرا وار رکھیا"
+    },
+    {
+      "kind": "elision",
+      "subject": "לאמר",
+      "rationale": "آکھن دا نشان؛ 'آکھ کے' نال اوہدی شکلی تھاں رکھی"
+    }
+  ],
+  "translation": "تے قوم نے موشے نال جھگڑا کیتا تے آکھیا، آکھ کے: کاش اسیں ساڈے بھراواں دے مرنے ویلے یاہوہ دے ساہمنے مِر جاندے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a3a2ca00832cf7147da871aaf6dee075e2dfc0e4f47759e3ee8c3f432fc0c18b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/20\/1-4.1792098909718.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירב",
+      "gloss": "تے جھگڑا کیتا"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم نے"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "לאمר",
+      "gloss": "آکھ کے"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "کاش"
+    },
+    {
+      "surface": "גוענו",
+      "gloss": "اسیں مِر جاندے"
+    },
+    {
+      "surface": "בגוע",
+      "gloss": "دے مرنے ویلے"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "ساڈے بھرا"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "دے ساہمنے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-10-15T21:15:09.719155987Z",
+  "model": "glm-5.3"
+}

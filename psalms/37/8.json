@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 37:8",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אף \/ חמה",
+      "rationale": "אף مول 'نَک' تے חמה مول 'گرمی' — دوویں غصے دے بھاوَ؛ پنجابی غصہ تے بل دو وکھرے رکھے"
+    },
+    {
+      "kind": "crux",
+      "subject": "להרע",
+      "rationale": "'برائی کرن لئی چِرھ' جاں 'چِرھݨ تیری برائی ول لے جاویگا' (KJV\/JPS) — عبرانی להרע دوویں پاسے کھلھدا اے"
+    },
+    {
+      "kind": "you",
+      "subject": "پڑھن والا",
+      "rationale": "حکم مخاطب ول"
+    }
+  ],
+  "translation": "غصے توں رک جا تے بل چھوڑ دے؛ برائی کرن لئی ہی چِرھ نہ کر۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "98c18dcb6728e7f29dbb7de9d5244f72da13f2a491b26a5e734f7d4cce0ca2c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/37\/5-8.1792112348508.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "رک جا"
+    },
+    {
+      "surface": "מאף",
+      "gloss": "غصے توں"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "تے چھوڑ دے"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "بل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "چِرھ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ہی"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "برائی لئی"
+    }
+  ],
+  "timestamp": "2026-10-16T00:59:08.509590558Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 1:3",
+  "book": "joshua",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "בו",
+      "rationale": "'اُس وِچ' — تھاں تے پیر دے وِچکار عبرانی ضمیر، پنجابی وِچ گِر جاندا اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ہر اُوہ تھاں",
+      "rationale": "زمین دا دائرہ پیراں دے قدم ناپ کے دِتا جاندا اے"
+    }
+  ],
+  "translation": "ہر اُوہ تھاں جِتھے تُہاڈے پیراں دا تَلوُوہ ٹُرے، اُوہ تُہانوں مے دِتا، جِویں مے موشے نال آکھیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "30b15dc5f2f1deb881c888d1939f98d478454c1c548751c06f65420249dfcb96",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joshua\/1\/1-4.1792100755339.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "تھاں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جِتھے"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "ٹُرے"
+    },
+    {
+      "surface": "כף",
+      "gloss": "تَلوُوہ"
+    },
+    {
+      "surface": "רגלכם",
+      "gloss": "تُہاڈے پیراں دا"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اُس وِچ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُہانوں"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "مے اُوہ دِتا"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جِویں"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "مے آکھیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    }
+  ],
+  "timestamp": "2026-10-15T21:45:55.340473403Z",
+  "model": "glm-5.3"
+}

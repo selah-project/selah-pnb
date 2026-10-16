@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 26:17",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ہتھ",
+      "rationale": "ידות اصل وچ 'ہتھ' اے — تختی دے تھلے نِکلے ہوئے دو توڑے؛ 'tenons' واہی تکنیکی اے"
+    },
+    {
+      "kind": "idiom",
+      "subject": "اِک اپنی بہن نال",
+      "rationale": "אשה אל אחתה 'اِک اپنی بہن ولّ' — عبرانی دا مُوازنہ اے، مطلب 'اِک دوجے دے مُقابل'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "دو ہتھ",
+      "rationale": "تختی دے بناؤ دی ناپ دا ذکر"
+    }
+  ],
+  "translation": "اِک تختی لئی دو ہتھ ہون، اِک ہتھ اپنی بہن نال جُڑیا ہویا؛ اِویں تُسیں مسکن دیاں ساریاں تختیاں لئی کرنا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4ba5905649043316d4b06920bdb369035029294b469f1c0299e63a9592c289f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/26\/17-20.1792096885807.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שתי",
+      "gloss": "دو"
+    },
+    {
+      "surface": "ידות",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "לקרש",
+      "gloss": "تختی لئی"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "اِک"
+    },
+    {
+      "surface": "משלבת",
+      "gloss": "جُڑیا ہویا"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "اِک ہتھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "اپنی بہن"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اِویں"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "کرنا"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ساریاں لئی"
+    },
+    {
+      "surface": "קרשי",
+      "gloss": "تختیاں"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مسکن دیاں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:41:25.808574184Z",
+  "model": "glm-5.3"
+}

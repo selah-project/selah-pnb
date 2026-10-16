@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 17:12",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אור קרוב מפני חשך",
+      "rationale": "KJV\/JPS 'چانݨ ہنیرے کارن مُختصر اے'، بھاویں یلت\/بی ایس بی 'چانݨ ہنیرے دے مونہہ توں نیڑے اے' — دونویں پڑھائیاں مشہور نیں۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ کہندے نیں⟩",
+      "rationale": "ایہ فرضی جملہ عبرانی وِچ نئیں، پنجابی وِچ پورا کرن لئی پایا گیا۔"
+    }
+  ],
+  "translation": "رات نوں دن بنا دیندے نیں، ⟨اوہ کہندے نیں⟩ چانݨ ہنیرے دے مونہہ توں نیڑوں ⟨ہے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "050969a89630496a4744c107a379889634846bc987949476ecb337d38f01da9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/17\/9-12.1792115768312.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לילה",
+      "gloss": "رات نوں"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "بنا دیندے نیں"
+    },
+    {
+      "surface": "אור",
+      "gloss": "چانݨ"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "نیڑوں"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "دے مونہہ توں"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ہنیرے دے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:56:08.313686065Z",
+  "model": "glm-5.3"
+}

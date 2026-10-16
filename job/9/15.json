@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 9:15",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "למשפטי",
+      "rationale": "'میرے فیصلہ کرن والے لئی' — KJV 'میرے مُنفص کول'، JPS 'جِہڑا میرے نال جھگڑدا'؛ صیغہ اِکو اے پر سمجھ وکھری۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "فِیر وی",
+      "rationale": "عبرانی 'אשר אם' صرف شرط اے؛ پنجابی وضاحت لئی 'فِیر وی' پایا گیا۔"
+    }
+  ],
+  "translation": "بھاویں میں نیائں والا ہوواں، فِیر وی جواب نہ دِواں؛ اپنے فیصلہ کرن والے توں بخشش منگاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "952cdf15cb2e6947895a0b9c0d0a6e64c187489bb14951bb2eee8be558634ca1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/9\/13-16.1792115576497.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "⟨جِہڑا⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "بھاویں"
+    },
+    {
+      "surface": "צדקתי",
+      "gloss": "نیائں والا ہوواں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "جواب دواں"
+    },
+    {
+      "surface": "למשפטי",
+      "gloss": "اپنے فیصلہ کرن والے توں"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "بخشش منگاں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:52:56.498335685Z",
+  "model": "glm-5.3"
+}

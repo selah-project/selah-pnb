@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 24:21",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to the king",
+      "rationale": "اَرونہ بادشاہ نال مخاطب اے — ‘میرا سائیں بادشاہ’۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ہلاکت",
+      "rationale": "המגפہ طاعون\/مہین مرگ اے؛ ‘ہلاکت’ نیڑلے مطلب دا لفظ اے۔"
+    }
+  ],
+  "translation": "تے اَرونہ نے آکھیا: میرا سائیں بادشاہ اپنے نَوکر کول کیوں آیا اے؟ تے داوِد نے آکھیا: تَیں توں ⟨את⟩ خرمن خریدن لئی، یاہوہ لئی قربانی گاہ بنان لئی، تے ہلاکت لوکاں توں رُک جاوے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "eef23091f1960a4a3cb001a5ece3a77b5eaa80131300db4cd2e7f250f6a1ce02",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/24\/21-24.1792103889656.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "اَرونہ"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "میرا سائیں"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "اپنے نَوکر"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "לקנות",
+      "gloss": "خریدن لئی"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "تَیں توں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خرمن"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "خرمن"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "بنان لئی"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "قربانی گاہ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ لئی"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "تے رُکے"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "ہلاکت"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "توں"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوک"
+    }
+  ],
+  "timestamp": "2026-10-15T22:38:09.657472162Z",
+  "model": "glm-5.3"
+}

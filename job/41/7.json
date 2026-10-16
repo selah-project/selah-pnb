@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 41:7",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אפיקי מגנים",
+      "rationale": "‘ڈھالاں دے بھنے’ — JPS ‘پَسّیاں دے جُٹ’؛ لفظ دی شکل نال رہن دی کوشش"
+    },
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "عبرانی وِچ فعل نئیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "تنگُو",
+      "rationale": "צר ‘تنگ’ اے — ‘زبردست’ (KJV 'close seal') نرمی اے"
+    }
+  ],
+  "translation": "اوہدا مان — ڈھالاں دے بھنے، تنگُو مُہر نال بند ⟨اے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "99325afaae36f89ebcccfe733ab17645911107141b496c35276ec02e79ac64b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/41\/5-8.1792116574545.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גאוה",
+      "gloss": "مان"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "بھنے"
+    },
+    {
+      "surface": "מגנים",
+      "gloss": "ڈھالاں دے"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "بند"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "مُہر نال"
+    },
+    {
+      "surface": "צר",
+      "gloss": "تنگُو"
+    }
+  ],
+  "timestamp": "2026-10-16T02:09:34.546017604Z",
+  "model": "glm-5.3"
+}

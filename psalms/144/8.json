@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ہتھ",
+      "rationale": "دوجی واری ימין واپس آیا — عبرانی دہراند اے، پنجابی جملہ لئی وضاحت جوڑی"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שוא\/שקר",
+      "rationale": "جھوٹ تے دھوکھے دا جوڑا، منہ تے ہتھ دی اکو کھیپ"
+    }
+  ],
+  "translation": "جیہناں دا منہ جھوٹ بولدا اے، تے اوہناں دا سجّا ہتھ دھوکھے دا ہتھ اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3823681dd95ba4e8da74844860cec153bb0ccfe1195e43e232858978f5b1f86d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/144\/5-8.1792114254523.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "جیہناں"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "دا منہ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "بولدا اے"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "جھوٹ"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "تے اوہناں دا سجّا ہتھ"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "دھوکھے دا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:30:54.524101654Z",
+  "model": "glm-5.3"
+}

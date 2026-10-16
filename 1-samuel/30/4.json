@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 30:4",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "ایہہ קرفی اے ('اوہدے نال')، مفعول دا نشان את نئیں — پھر وی ⟨את⟩ شکلاں وِچ رکھیا گیا کیونکہ اکھر اوہو نیں"
+    },
+    {
+      "kind": "addition",
+      "subject": "رہی",
+      "rationale": "עד אשר אין نوں پورا کرن لئی پنجابی فعل دا وادھا"
+    }
+  ],
+  "translation": "تے داوِد تے اوہ قوم جو ⟨את⟩ اوہدے نال سی، اوہناں دی ⟨את⟩ آواز چُکی تے روئے، جدوں تک اوہناں وِچ روون دی طاقت نئیں رہی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c5a1cae895f30f68d8204c6f76e15ef79df17cc33d17bcd369bcea9b5c53f4ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/30\/1-4.1792103007053.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "تے چُکی"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "تے اوہ قوم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ اوہدے نال"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آواز"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "اوہناں دی آواز"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "تے روئے"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جدوں تک"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "اوہناں وِچ"
+    },
+    {
+      "surface": "כח",
+      "gloss": "طاقت"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "روون دی"
+    }
+  ],
+  "timestamp": "2026-10-15T22:23:27.054756236Z",
+  "model": "glm-5.3"
+}

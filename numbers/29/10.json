@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 29:10",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "עשרון עשרון",
+      "rationale": "دہرایا گیا دسواں حصہ ہر لیلے لئی وکھرا اے — گنتی دا نشان۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עשרון עשרון",
+      "rationale": "لفظ دو واری آندا اے — وکھرے قربانی والا دہراؤ، پنجابی وِچ وی دہرایا اے۔"
+    }
+  ],
+  "translation": "اِک دسواں حصہ دسواں حصہ اِک لیلے لئی، سَتّ لیلیاں لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8103c7a15495f92bf88f8ba5a333ef9355073a7549897e1ae3d6ef0f7e34c7b6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/29\/9-12.1792099164289.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "اِک دسواں حصہ"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "دسواں حصہ"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "لیلے لئی"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "اِک"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "سَتّ"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "لیلیاں"
+    }
+  ],
+  "timestamp": "2026-10-15T21:19:24.290025877Z",
+  "model": "glm-5.3"
+}

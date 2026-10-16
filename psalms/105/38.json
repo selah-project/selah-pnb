@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 105:38",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "عبرانی وِچ کوپھروگ نئیں، پنجابی لئی پایا گیا۔"
+    }
+  ],
+  "translation": "مِتصرایم اوہناں دے نِکلن تے خوش ہویا، کیونکہ اوہناں دا ڈر اوہناں اُتے ڈِگّھ پیا سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "13de54975d6c0cf9b7d16426a426cdfa39d7074471677b7046572bcaf8b6fda9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/105\/37-40.1792113564580.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "خوش ہویا"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "اوہناں دے نِکلن تے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ڈِگّھ پیا"
+    },
+    {
+      "surface": "פחדם",
+      "gloss": "اوہناں دا ڈر"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "اوہناں اُتے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:19:24.580761106Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 25:2",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בן הכות",
+      "rationale": "عبرانی ‘مار دا پتر’ یعنی مارن دا قابل — پنجابی وِچ ‘ماری جان دا بندہ’ رکھیا، لفظی ‘پتر’ نئیں۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "במספר",
+      "rationale": "ماراں گنتی نال، رشاشت دے بَرابر — سزا تولی جاندی اے۔"
+    }
+  ],
+  "translation": "تے ایہہ ہووے، جے برے نوں مار مارن والا ہونا چاہیدا ہووے، تاں قاضی اوہنوں ڈھاہے تے اوہدے اگے اوہدی رشاعت دے بَرابر، گنتی نال مارے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "dfaf0a3c3caf3a7e56df34ddf9e6006e7bc3096da424490e144aa2b777e6b08f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/25\/1-4.1792100303100.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "تے ایہہ ہووے"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ماری جان دا ⟨بندہ⟩"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "مار مارن دا"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "برے"
+    },
+    {
+      "surface": "והפילו",
+      "gloss": "تے ڈھاہے"
+    },
+    {
+      "surface": "השפט",
+      "gloss": "قاضی"
+    },
+    {
+      "surface": "והכהו",
+      "gloss": "تے اوہنوں مارے"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "اوہدے اگے"
+    },
+    {
+      "surface": "כדי",
+      "gloss": "بَرابر"
+    },
+    {
+      "surface": "רשעתו",
+      "gloss": "اوہدی رشاعت دے"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "گنتی نال"
+    }
+  ],
+  "timestamp": "2026-10-15T21:38:23.101601731Z",
+  "model": "glm-5.3"
+}

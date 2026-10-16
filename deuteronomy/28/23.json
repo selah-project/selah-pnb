@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 28:23",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ہون گے \/ ہوویگی",
+      "rationale": "عبرانی وِچ فعل اگے دے وچ، پنجابی نوں بمقابلہ پہلے انشا وِچ درکار — صیغہ ⟨⟩ توں باہر رکھیا جے عبرانی وِچ ہے (והיו)۔"
+    },
+    {
+      "kind": "you",
+      "subject": "تیرے",
+      "rationale": "مخاطب یِسرائیل — اُتے دے اسمان تے ہیٹھاں دی دھرتی، دوہرا نشان۔"
+    }
+  ],
+  "translation": "تے تیرے اسمان، جیہڑے تیرے سر اُتے نیں، تانبا ہون گے؛ تے دھرتی، جیہڑی تیرے تھلے اے، لوہا ہوویگی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4b220c7b71648f3a82fdce1ff67afff678b2ce4e628ef399c09516313a8a3471",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/28\/21-24.1792100452792.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "ہون گے"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "تیرے اسمان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "تیرے سر"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "تانبا"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "تے دھرتی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "تیرے تھلے"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "لوہا"
+    }
+  ],
+  "timestamp": "2026-10-15T21:40:52.793029259Z",
+  "model": "glm-5.3"
+}

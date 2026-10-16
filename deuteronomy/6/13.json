@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 6:13",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "اسرائیل",
+      "rationale": "اِکو جثے وِچ بنے اسرائیل نوں سدھا حکم — ڈرو، عبادت کرو، قسم کھاؤ۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "اپنے",
+      "rationale": "عبرانی ضمیر دوجی Person واحد اے؛ پنجابی نوں 'اپنے' چاہیدا اے۔"
+    }
+  ],
+  "translation": "⟨את⟩ یاہوہ اپنے ایلوہیم نوں ڈرو، تے ⟨אתו⟩ اوہدی عبادت کرو، تے اوہدے ناں نال قسم کھاؤ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7594844095c98708fa98b750ee367d9e02bf6867226e3984820ff4410f59c518",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/6\/13-16.1792099670916.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "اپنے ایلوہیم"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ڈرو"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "عبادت کرو"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "عبادت کرو"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "تے اوہدے ناں نال"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "قسم کھاؤ"
+    }
+  ],
+  "timestamp": "2026-10-15T21:27:50.917428995Z",
+  "model": "glm-5.3"
+}

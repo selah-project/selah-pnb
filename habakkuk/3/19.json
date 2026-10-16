@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "habakkuk 3:19",
+  "book": "habakkuk",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ہے⟩",
+      "rationale": "عبرانی وِچ سرمایه نئیں، پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "במותי",
+      "rationale": "'میریاں اُچیاں تھاواں' — لفظی اُچیاں؛ کجھ مترجم جنگی فتح، کجھ مقدس تھاواں دی کنجی لیندے نیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "למנצח",
+      "rationale": "مخروطہ یادگار — 'گائیکاں دا مُکھی' ( بین ہنر منگدا اے)"
+    }
+  ],
+  "translation": "یاہوہ ادونای ⟨ہے⟩ میری طاقت، تے اوہنے میرے پیر ہرنیاں ورگے کیتے، تے میریاں اُچیاں تھاواں اُتے مینوں ٹُریا۔ ⟨سربندھ⟩ گائیکاں دے مُکھی لئی، میرے تارے سازاں نال۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3a432eb2950b67e7331edff9805c0cf6779a7bce7883b5544cf929f1576ab01c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/habakkuk\/3\/17-19.1792111337063.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "חילי",
+      "gloss": "میری طاقت"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "تے اوہنے کیتے"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "میرے پیر"
+    },
+    {
+      "surface": "כאילות",
+      "gloss": "ہرنیاں ورگے"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "במותי",
+      "gloss": "میریاں اُچیاں تھاواں"
+    },
+    {
+      "surface": "ידרכני",
+      "gloss": "مینوں ٹُریا"
+    },
+    {
+      "surface": "למנצח",
+      "gloss": "گائیکاں دے مُکھی لئی"
+    },
+    {
+      "surface": "בנגינותי",
+      "gloss": "میرے تارے سازاں نال"
+    }
+  ],
+  "timestamp": "2026-10-16T00:42:17.063956844Z",
+  "model": "glm-5.3"
+}

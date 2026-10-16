@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 12:17",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سن",
+      "rationale": "عبرانی فعال فعل اے، پنجابی نوں مددگی فعل چاہیدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "یِسرائیل دے",
+      "rationale": "וימלך את... نئیں سگوں עליהם — راج 'اُتے' ہوندا اے، پنجابی وِچ 'دا\/دے' نال جُڑیا"
+    }
+  ],
+  "translation": "اتے یِسرائیل دے پتراں، جیہڑے یِسرائیل دے شہراں وِچ وسدے ⟨سن⟩، اوہناں اُتے رحبعم راج کرن لگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ebce0a2364cf3acde976d87e5d97a61fc1a27c9c85125086c5746248017ffc35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/12\/17-20.1792104394161.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "اتے پتراں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل دے"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "وسدے"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "شہراں وِچ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یِسرائیل دے"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "راج کرن لگا"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "اوہناں اُتے"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "رحبعم"
+    }
+  ],
+  "timestamp": "2026-10-15T22:46:34.161970793Z",
+  "model": "glm-5.3"
+}

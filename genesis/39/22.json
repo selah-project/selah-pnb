@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 39:22",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ביד יוסף",
+      "rationale": "'یوسف دے ہتھے' — عبرانی 'ہتھ وِچ' یعنی اوس دے ماتحت، پنجابی 'ہتھے' اوہو اِڈیوم پھڑدا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "نوں",
+      "rationale": "پنجابی مفعول لئی 'نوں' منگدی اے، عبرانی وِچ صرف ⟨את⟩ نشان اے"
+    }
+  ],
+  "translation": "تے بندی خانے دے سردار نے یوسف دے ہتھے ⟨את⟩ سارے قیدیواں نوں دے دتا جیہڑے بندی خانے وِچ سن، تے ⟨את⟩ جو کجھ اوتھے ہوندا سی اوہ اوہی کردا سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e7021eb3202ab55b7f3374ae437367b22f0aaeb88576f12a8637770a72a1e3da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/39\/21-23.1792095731674.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "تے دے دتا"
+    },
+    {
+      "surface": "שר",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "بندی خانہ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ہتھے وِچ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سارے قیدی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "האסירם",
+      "gloss": "قیدی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑے"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "گھر وِچ"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "بندی خانہ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "سارا جو کجھ کردے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "کردے"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اوتھے"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "سی"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کردا"
+    }
+  ],
+  "timestamp": "2026-10-15T20:22:11.675429894Z",
+  "model": "glm-5.3"
+}

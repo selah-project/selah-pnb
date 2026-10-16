@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "عبرانی وِچ کوئی فعل ربط نئیں، پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "idiom",
+      "subject": "دل اُتے",
+      "rationale": "על לב — 'دل اَبشالوم اُتے اے' یعنی بادشاہ دا جھکاؤ اَبشالوم ول سی"
+    }
+  ],
+  "translation": "تے یوآب، تصرویہ دا پتر، جان گیا کہ بادشاہ دا دل اَبشالوم اُتے ⟨سی⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "372ea23b4c7856a668ad38eb43aa60b6ae69205f4ce510ad305ac0a78c71e955",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/14\/1-4.1792103471618.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "جان گیا"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پتر"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "تصرویہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "اَبشالوم"
+    }
+  ],
+  "timestamp": "2026-10-15T22:31:11.618725542Z",
+  "model": "glm-5.3"
+}

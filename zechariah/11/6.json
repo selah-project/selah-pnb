@@ -1,0 +1,136 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 11:6",
+  "book": "zechariah",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ממציא",
+      "rationale": "ḥifʿil مَتصا — 'ہتھ وِچ پاؤنا\/حوالے کرنا' (kjv 'deliver') بمقابلہ 'سامنے لیاؤنا\/مُنہجم ہونا' (ylt 'cause to come forth')؛ مطلب اِکو جیہا، ذمہ داری یاہوہ دی۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "کُچھ سُٹݨ گے",
+      "rationale": "כתת دا مُڈھلا چتر 'پیجݨا\/بھونیں مارنا' اے — 'کُچھ' اوہدی آواز تے وَہند رکھدا اے۔"
+    }
+  ],
+  "translation": "کیونکہ میں دھرتی دے وسنیکاں اُتے ہور ترس نئیں کراں گا، یاہوہ آکھدا اے؛ تے ویکھو، میں بندے نوں ⟨את⟩ مُنہجم کرنا اے، ہر اِک نوں اوہدے یار دے ہتھ وِچ تے اوہدے بادشاہ دے ہتھ وِچ، تے اوہ دھرتی نوں ⟨את⟩ کُچھ سُٹݨ گے، تے میں اوہناں دے ہتھوں نئیں بچاواں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "14a19b808ae01bc553c6902bb70a2f96ba68d0a5cda50e4324dbf9b5c3e50236",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/zechariah\/11\/5-8.1792111724448.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "אחמול",
+      "gloss": "میں ترس کراں گا"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ہور"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "دے وسنیک"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "دھرتی"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "آکھدا اے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "تے ویکھو"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "ממציא",
+      "gloss": "مُنہجم کرنا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بندے نوں"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "بندے نوں"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ہر اِک"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "دے ہتھ وِچ"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "اوہدے یار"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "تے دے ہتھ وِچ"
+    },
+    {
+      "surface": "מלכו",
+      "gloss": "اوہدے بادشاہ"
+    },
+    {
+      "surface": "וכתתו",
+      "gloss": "تے اوہ کُچھ سُٹݨ گے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دھرتی نوں"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "دھرتی نوں"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "אציל",
+      "gloss": "میں بچاواں گا"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "اوہناں دے ہتھوں"
+    }
+  ],
+  "timestamp": "2026-10-16T00:48:44.448874175Z",
+  "model": "glm-5.3"
+}

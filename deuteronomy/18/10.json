@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 18:10",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "متن وِچ את نئیں، پر عبرانی مفعول دا نشان ایتھے کجھ نئیں نشاندا — دوویں مفعول בلا את نیں"
+    },
+    {
+      "kind": "crux",
+      "subject": "מעביר באש",
+      "rationale": "اگّ وِچوں لنگھانا: قربانی (bسب) بمقابلہ رسمی لنگھانا (کجو، جےپس) — لفظی 'لنگھائے' رکھیا"
+    },
+    {
+      "kind": "crux",
+      "subject": "מעונן",
+      "rationale": "جڑ ענן (بدھ): 'بدھواں دیکھن والا' بمقابلہ 'وقتاں دا جانن والا' (کجو)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קסם קסמים",
+      "rationale": "اِکو جڑ دا دوہرا روپ — اِکو گنتی وجوں رکھیا اے"
+    }
+  ],
+  "translation": "تیرے وِچ کوئی نہ لبھے جیہڑا ⟨את⟩ اپنے پُتر نوں تے ⟨את⟩ اپنی دھی نوں اگّ وِچ لنگھائے، قیامت کرن والا، قیامتاں کرن والا، بدھواں دیکھن والا، فال والا تے جادو کرن والا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "756c5d568d36c63ed13817f8bc4bba70be0e33ec811166d307ce0f3159a68fbb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/18\/10-11.1792123527088.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "لبھے"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تیرے وِچ"
+    },
+    {
+      "surface": "מעביר",
+      "gloss": "لنگھائے"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اپنے پُتر نوں"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "تے اپنی دھی نوں"
+    },
+    {
+      "surface": "באש",
+      "gloss": "اگّ وِچ"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "قیامت کرن والا"
+    },
+    {
+      "surface": "קסמים",
+      "gloss": "قیامتاں کرن والا"
+    },
+    {
+      "surface": "מעונן",
+      "gloss": "بدھواں دیکھن والا"
+    },
+    {
+      "surface": "ומנחש",
+      "gloss": "تے فال والا"
+    },
+    {
+      "surface": "ומכשף",
+      "gloss": "تے جادو کرن والا"
+    }
+  ],
+  "timestamp": "2026-10-16T04:05:27.088695948Z",
+  "model": "glm-5.3"
+}

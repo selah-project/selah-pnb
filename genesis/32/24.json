@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 32:24",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوہنے",
+      "rationale": "عبرانی وِچ فعل دی صیغہ شهول اسمانی دسدی اے پر پنجالی جملہ Subject منگدا اے — چنگی گل ای اے جو ہیبرو وِچ وی کوئی نام لِکھیا نئیں۔"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ויעבר",
+      "rationale": "'لنگھایا' (causative) ٹھیک اے؛ بعض مترجم 'آپ لنگھیا' پڑھدے نیں پر نِقطے causative ای دسدے نیں۔"
+    }
+  ],
+  "translation": "تے اوہنے اوہ لئے، تے ⟨את⟩ نالے توں لنگھایا، تے ⟨את⟩ جو کجھ اوس دا سی اوہ لنگھایا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1e06ba7227d31125b92a37af8680e8a23c0c7b009b7bfd61fe8923c5cc539ad4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/32\/21-24.1792095447979.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחם",
+      "gloss": "تے اوہنے اوہ لئے"
+    },
+    {
+      "surface": "ויעברם",
+      "gloss": "تے لنگھایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نالا"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "نالا"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "تے لنگھایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جو کجھ اوس دا سی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو کجھ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوس دا سی"
+    }
+  ],
+  "timestamp": "2026-10-15T20:17:27.980374687Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 23:8",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "تن",
+      "rationale": "شجرہ نامے دی گنتی — لعدن دے تن پتر۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "הראש — سر",
+      "rationale": "'سر' یعنی سب توں وڈا\/پہلا؛ کجھ مترجم 'سردار'، کجھ 'پہلا' لکھدے نیں — عبرانی لفظ 'سِر' دا اے۔"
+    }
+  ],
+  "translation": "لعدن دے پتر — سر یحیایل، تے زیتام، تے یوائل — تن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "46c003404f311bbda53646321ee5081a50720b0a20bda5dc0e0688be7b894c1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/23\/5-8.1792121162696.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "پتر"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "لعدن دے"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "یحیایل"
+    },
+    {
+      "surface": "וזתם",
+      "gloss": "تے زیتام"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "تے یوائل"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "تن"
+    }
+  ],
+  "timestamp": "2026-10-16T03:26:02.697505077Z",
+  "model": "glm-5.3"
+}

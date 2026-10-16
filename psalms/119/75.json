@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "psalms 119:75",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "دکھ دتا",
+      "rationale": "עניתנی دا مول مطلب 'دبایا\/پریشان کیتا' — پنجابی وچ 'دکھ دتا' کول آیا"
+    },
+    {
+      "kind": "you",
+      "subject": "یاہوہ",
+      "rationale": "سدیا مخاطب — یاہوہ نوں"
+    }
+  ],
+  "translation": "میں جاندا واں، یاہوہ، کہ تیرے فیصلے نیارے نیں، تے ایمانداری نال تُوں نے میںوں دکھ دتا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "46f8de14e78cfb5e23511b2a2f66feec5d4c8bfa32810a665daaa2ee44872858",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/119\/73-76.1792113885021.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "میں جاندا واں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "نیارے"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "تیرے فیصلے"
+    },
+    {
+      "surface": "ואמונה",
+      "gloss": "تے ایمانداری نال"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "تُوں نے میںوں دکھ دتا اے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:24:45.022200601Z",
+  "model": "glm-5.3"
+}

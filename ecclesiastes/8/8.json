@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 8:8",
+  "book": "ecclesiastes",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רוח",
+      "rationale": "'روح' بمقابلہ 'ہوا\/ساہ' (wind, JPS) — لفظ دوویں مطلب رکھدا اے؛ مرن والا ساہ وی، ہوا وی۔"
+    },
+    {
+      "kind": "hapax",
+      "subject": "משלחת",
+      "rationale": "ایہ لفظ سارے تنخ وِچ صرف ایتھے آیا اے — لڑائی وِچوں چھٹی\/رہائی۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "کوئی بندہ … نئیں",
+      "rationale": "عبرانی אין نوں پنجابی جملے لئی پھیلا کے 'کوئی … نئیں' لکھیا گیا۔"
+    }
+  ],
+  "translation": "کوئی بندہ روح اُتے راج کرن والا نئیں کہ ⟨את⟩ روح نوں روک سکے، تے موت دے دن کوئی راج نئیں، تے لڑائی وِچ کوئی رہائی نئیں، تے برائی ⟨את⟩ اوہدے مالک نوں نئیں بچاوےگی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "56a3026b6825d76560ccd71f2baf9a4a0c548ba5efe2520948e03917e6f3f2ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ecclesiastes\/8\/5-8.1792117653623.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "کوئی … نئیں"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "שליט",
+      "gloss": "راج کرن والا"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "روح اُتے"
+    },
+    {
+      "surface": "לכלוא",
+      "gloss": "روک سکے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "روح نوں"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "تے کوئی نئیں"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "راج"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "دن … وِچ"
+    },
+    {
+      "surface": "המות",
+      "gloss": "موت دے"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "تے کوئی نئیں"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "رہائی"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "لڑائی وِچ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "بچاوےگی"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہدے مالک نوں"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "اوہدے مالک"
+    }
+  ],
+  "timestamp": "2026-10-16T02:27:33.625392393Z",
+  "model": "glm-5.3"
+}

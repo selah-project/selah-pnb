@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 19:12",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מות יומת",
+      "rationale": "اوہو ای جڑ دو واری — موت نال ماریا جاوے گا؛ پنجابی وِچ دوہرا نئیں رہ سکیا۔"
+    },
+    {
+      "kind": "you",
+      "subject": "to Moses \/ to the people",
+      "rationale": "حکم موشے ول، تے اوہدے وچوں قوم نوں آکھیا گیا۔"
+    }
+  ],
+  "translation": "تے توں قوم دے ⟨את⟩ دوالے ہݙ بَدھیں، آکھ کے: اپنے آپ نوں سنبھالو، پہاڑ اُتے چڑھن توں تے اوہدے کنارے نوں چھُوڑن توں؛ ہر اوہ جِہڑا پہاڑ نوں چھُووے، موت نال ماریا جاوے گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "66dda5231d17377caef8e1b3a3c34613f0b1454d322acd057333e77c7a394032",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/19\/9-12.1792096604140.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והגבלת",
+      "gloss": "تے توں ہݙ بَدھیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قوم"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "دوالے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ کے"
+    },
+    {
+      "surface": "השמרו",
+      "gloss": "سنبھالو"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "اپنے آپ نوں"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "چڑھن توں"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "پہاڑ اُتے"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "تے چھُوڑن توں"
+    },
+    {
+      "surface": "בקצהו",
+      "gloss": "اوہدے کنارے نوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر اوہ"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "جِہڑا چھُووے"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "پہاڑ نوں"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت نال"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ماریا جاوے گا"
+    }
+  ],
+  "timestamp": "2026-10-15T20:36:44.142168628Z",
+  "model": "glm-5.3"
+}

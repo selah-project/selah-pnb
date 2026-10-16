@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 13:9",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "עלה",
+      "rationale": "'چڑھائی' — עלה دی جڑ 'چڑھنا' اے، قربانی 'اوپر چڑھدی' اے؛ ایہہ تصویر پنجابی وِچ رکھی گئی"
+    }
+  ],
+  "translation": "تے شاؤُل نے آکھیا: میرے کول سوختہ قربانی تے سلامتی قربانیاں لیاؤ؛ تے اوہنے سوختہ قربانی چڑھائی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e44bac68101a6d610ae204f3b0252869f1554c5f7a2954cfcbd37d3ab4409e56",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/13\/9-12.1792102367846.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤُل"
+    },
+    {
+      "surface": "הגשו",
+      "gloss": "لیاؤ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میرے کول"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "سوختہ قربانی"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "تے سلامتی قربانیاں"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "چڑھائی"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "سوختہ قربانی"
+    }
+  ],
+  "timestamp": "2026-10-15T22:12:47.846845803Z",
+  "model": "glm-5.3"
+}

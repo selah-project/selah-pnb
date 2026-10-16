@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 11:17",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "بیت-لِخیم ⟨لِخیم دے شہر⟩",
+      "rationale": "عبرانی وِچ ناں دو ٹوکناں وِچ اے (بیت + لِخیم)، پنجابی وِچ وضاحت درکار"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מי ישקני",
+      "rationale": "لفظی 'کون میہنوں پلائے' — خواہش دا سامی انداز، 'کاش کوئی…' دا مطلب"
+    }
+  ],
+  "translation": "تے داوِد نے تمنا کیتی تے آکھیا: کون میہنوں بیت-لِخیم ⟨لِخیم دے شہر⟩ دے کھوہ دا پانی پلائے، جیہڑا دروازے ہے؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d06c681df034431934f61b681cf762dc4b8285148ed3e58a2a579b32a46c7402",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/11\/17-20.1792120650284.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתאו",
+      "gloss": "تمنا کیتی"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "ישקני",
+      "gloss": "میہنوں پلائے"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پانی"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "کھوہ دا"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لِخیم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "دروازے ہے"
+    }
+  ],
+  "timestamp": "2026-10-16T03:17:30.285351969Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 11:25",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "لُوڑ",
+      "rationale": "نבלה دا مُڈھلا رنگ 'ڈھیلی\/سُست چیز' اے — لاش یا لُوڑ"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨دی⟩",
+      "rationale": "عبرانی وِچ 'چُکن والا' نال جُڑی ہوئی گل پنجابی وِچ 'دی' منگدی اے"
+    }
+  ],
+  "translation": "تے جِنّھاں اوہناں دی لُوڑ ⟨دی⟩ چُکے، اوہ اپنے کپڑے دھووے، تے شام تک اُنجھ نہ رہے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "55337d5d672178627bbf251ffd4e73c156ebca57bf3650e8c75eddad0a680521",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/11\/25-28.1792097609753.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "تے ہر اوہ"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "چُکن والا"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "اوہناں دی لُوڑ توں"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "دھووے"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "اپنے کپڑے"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "تے اُنجھ ہووے"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "شام"
+    }
+  ],
+  "timestamp": "2026-10-15T20:53:29.753789782Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 26:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨رحمت⟩",
+      "rationale": "خیسِد دا اِکو پنجابی لفظ نئیں — پہلی واری ⟨⟩ وِچ وضاحت جائز اے"
+    }
+  ],
+  "translation": "کیوں جو تیرا خیسِد ⟨رحمت⟩ میریاں اکھیاں دے ساہمنے اے، تے میں تیری سچائی وِچ ٹردا رہا آں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c1625a3339a801d19092547c4881464665dc0a2dd25d9b8e187962f73e39d976",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/26\/1-4.1792112200935.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "تیرا خیسِد"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "ساہمنے"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "میریاں اکھیاں"
+    },
+    {
+      "surface": "והתהלכתי",
+      "gloss": "تے میں ٹردا رہا آں"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "تیری سچائی وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T00:56:40.936558096Z",
+  "model": "glm-5.3"
+}

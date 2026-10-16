@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 78:20",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "قوم اِسرائیل نوں",
+      "rationale": "اوہناں دے خود-عام سوال — خروج 17 دے پانی دے وارے توں بعد روٹی تے ماس بارے شک"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ماس",
+      "rationale": "שאר ماس\/گُشت اے — 'روٹی' بمقابلہ کھانے دی دو-پدوی"
+    }
+  ],
+  "translation": "ویکھو، اوہنے چٹان ماری تے پانی وگیا، نہرے وہِ گئیاں؛ کیہ اوہ روٹی وی دے سکدا اے؟ کیہ اوہ اپنی قوم لئی ماس تیار کر سکدا اے؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "45132fcddd19c03ae7c7fda930131bc10ebc10a668dd27918511bfbed25c9ec8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/78\/17-20.1792113038672.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ویکھو"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "اوہنے ماری"
+    },
+    {
+      "surface": "צור",
+      "gloss": "چٹان"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "تے وگیا"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پانی"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "تے نہرے"
+    },
+    {
+      "surface": "یשטפו",
+      "gloss": "وہِ گئیاں"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "کیہ وی"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "روٹی"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "سکدا اے"
+    },
+    {
+      "surface": "תת",
+      "gloss": "دے"
+    },
+    {
+      "surface": "אם",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "تیار کر سکدا اے"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "ماس"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "اپنی قوم لئی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:10:38.673303518Z",
+  "model": "glm-5.3"
+}

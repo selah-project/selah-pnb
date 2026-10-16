@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 129:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 129,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חרשו\/חרשים",
+      "rationale": " اکو جڑ توں فعل تے فاعل — 'واہی کیتی ہل والیاں نے' — ناٹک دی تکھی تصویر"
+    },
+    {
+      "kind": "hapax",
+      "subject": "למענותם",
+      "rationale": " מענה 'واہ' تنخ وِچ صرف ایتھے آؤندا اے"
+    }
+  ],
+  "translation": "میری پٹھ اُتے ہل والیاں نے واہی کیتی، اپنیاں واہواں لمیاں کر دتیاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "58285c11522c46da220725c3eb2919fded4da33396d06c57f96d1c2ceab1b499",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/129\/1-4.1792113987480.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "میری پٹھ"
+    },
+    {
+      "surface": "חרשו",
+      "gloss": "واہی کیتی"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "ہل والیاں نے"
+    },
+    {
+      "surface": "האריכו",
+      "gloss": "لمیاں کر دتیاں"
+    },
+    {
+      "surface": "למענותם",
+      "gloss": "اپنیاں واہواں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:26:27.480966704Z",
+  "model": "glm-5.3"
+}

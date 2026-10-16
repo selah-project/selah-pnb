@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 9:2",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "טבחה טבחה",
+      "rationale": "اکو جڑ دا فعل-اسم دوہراؤ ('ذبح کیتا اپنا ذبح')، زیادہ تر ترجمے ایس ساخت نوں صاف کر دیندے نیں"
+    },
+    {
+      "kind": "addition",
+      "subject": "تے",
+      "rationale": "אף دا ودھوین-esque کم پنجابی جوڑ لئی"
+    }
+  ],
+  "translation": "اوہنے اپنا ذبح ذبح کیتا، اپنی شراب رلائی، تے اپنا دسترخوان لایا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2381893b98fd6be50dd58ce2817bdce99a32304759f48ab4b4543d752224f921",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/9\/1-4.1792114569466.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טבחה",
+      "gloss": "ذبح کیتا"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "اپنا ذبح"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "رلائی"
+    },
+    {
+      "surface": "יינה",
+      "gloss": "اپنی شراب"
+    },
+    {
+      "surface": "אף",
+      "gloss": "تے"
+    },
+    {
+      "surface": "ערכה",
+      "gloss": "لایا"
+    },
+    {
+      "surface": "שלחנה",
+      "gloss": "اپنا دسترخوان"
+    }
+  ],
+  "timestamp": "2026-10-16T01:36:09.467599681Z",
+  "model": "glm-5.3"
+}

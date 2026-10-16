@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 90,
+  "ref": "psalms 119:90",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اے⟩",
+      "rationale": "عبرانی وِچ کریا نئیں، پنجابی نے ہووے پایا"
+    },
+    {
+      "kind": "measurement",
+      "subject": "پیڑھی توں پیڑھی",
+      "rationale": "دورھیاں دا حساب نال وفاداری دا وعدہ"
+    }
+  ],
+  "translation": "پیڑھی توں پیڑھی تک ⟨اے⟩ تیری اِیمانداری؛ تُوں نے دھرتی نوں ٹکی کیتا تے اوہ ٹکی رہی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "98a14759d8aca89bd024f0b466bc6ff453bc4b3f2100e74ee4425717a4540894",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/119\/89-92.1792113876970.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדר",
+      "gloss": "پیڑھی توں"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "پیڑھی تک"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "تیری اِیمانداری"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "تُوں نے ٹکی کیتا"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "دھرتی نوں"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "تے اوہ ٹکی رہی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:24:36.971415497Z",
+  "model": "glm-5.3"
+}

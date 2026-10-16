@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 10:3",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ہول",
+      "rationale": "הבל ساہ\/واپس اے — ادھورا، اڈن والا؛ ہول (بھور-جیہا) سب توں نیڑے دا پنجابی لفظ"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩",
+      "rationale": "הוא پرمکھ اے — ایہہ خود ہول اے؛ پنجابی جملے لئی ضمیر وادھو لگی"
+    },
+    {
+      "kind": "alternative",
+      "subject": "رسماں",
+      "rationale": "חקות 'قنوناں\/فرض کیتے ریتیں' وی ہو سکدا اے؛ 'رسماں' سیاق وِچ سُچج اے"
+    }
+  ],
+  "translation": "کیوں جو قوماں دیاں رسماں ہول نیں: کیوں جو ⟨اوہ⟩ رُکھ اے جیہڑا جنگل توں کٹیا گیا، دستکار دے ہتھاں دا کم، کلہاڑے نال۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4423868545f1e7dcc8eb95e1b831d0180720645aa70793560812d7a5c58ba9f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/10\/1-4.1792107578735.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "חקות",
+      "gloss": "رسماں"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "قوماں دیاں"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ہول"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "نیں ⟨اوہ⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "رُکھ"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "جنگل توں"
+    },
+    {
+      "surface": "כרתו",
+      "gloss": "کٹیا گیا"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کم"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ہتھاں دا"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "دستکار"
+    },
+    {
+      "surface": "במעצד",
+      "gloss": "کلہاڑے نال"
+    }
+  ],
+  "timestamp": "2026-10-15T23:39:38.736114605Z",
+  "model": "glm-5.3"
+}

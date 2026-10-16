@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 8:18",
+  "book": "ezekiel",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "غصہ",
+      "rationale": "חמה دا مول مطلب 'گرمی' اے — پنجابی 'غصہ' صورت بنا کے مول تصویر گوا دِتی۔"
+    },
+    {
+      "kind": "alternative",
+      "subject": "پکاریں گے",
+      "rationale": "וקראו مستقبل اے — 'اوہ پکاریں گے' (KJV مقلد) جاں حالیہ 'پکاریاں کردے نیں'؛ مستقبل رکھیا اے کیونکہ سبق احکام نال جُڑیا اے۔"
+    }
+  ],
+  "translation": "تے میں وی غصے نال کریں گا؛ میری اکھ رحم نہ کریگی تے نہ میں بخشاں گا؛ تے اوہ میریاں کنّاں وِچ وڈی آواز نال پکاریں گے تے میں اوہناں نوں نہ سُناں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "77b8fa1e0b355580b60e4b4872b538b2f2dd331c7959ac955c28091a6d4da268",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/8\/17-18.1792109122506.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "تے وی"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "کریں گا"
+    },
+    {
+      "surface": "בחמה",
+      "gloss": "غصے نال"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "رحم کریگی"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "میری اکھ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "אחמל",
+      "gloss": "بخشاں گا"
+    },
+    {
+      "surface": "וקראו",
+      "gloss": "تے اوہ پکاریں گے"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "میریاں کنّاں وِچ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "وڈی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "سُناں گا"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "اوہناں نوں"
+    }
+  ],
+  "timestamp": "2026-10-16T00:05:22.507693894Z",
+  "model": "glm-5.3"
+}

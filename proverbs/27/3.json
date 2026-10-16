@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 27:3",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "عبرانی وِچ کوئی فعل نئیں؛ پنجابی وچ جملہ پورا کرن لئی"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כבד\/כבד",
+      "rationale": "آیت دے شروع تے انت وِچ ایوہو کلمہ — چیاسٹک ڈھانچا"
+    }
+  ],
+  "translation": "پتھر دا بھار تے ریت دا بوجھ، پر اِک اویل دا غصہ اوہناں دوواں توں بھاری اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "81d2d0e6cfc7d804ac9d71aa808e9a0d52bf8ea375903dde1d43d040883d40a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/27\/1-4.1792115198157.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "بھار"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "پتھر دا"
+    },
+    {
+      "surface": "ונטל",
+      "gloss": "تے بوجھ"
+    },
+    {
+      "surface": "החול",
+      "gloss": "ریت دا"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "پر غصہ"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "اِک اویل دا"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "بھاری"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "اوہناں دوواں توں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:46:38.158482577Z",
+  "model": "glm-5.3"
+}

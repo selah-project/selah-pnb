@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 51:7",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "پیالا",
+      "rationale": "כוס זהב metaphor اے — بابل جگ دی طاقت دا نشہ؛ 'پیالا' اوہو شکل رکھدا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שתו \/ יתהללו",
+      "rationale": "שתה (پینا) تے הלל دی چڑھدی لے — شراب پی کے قوماں پاگل ہو گئیاں، آواز دا کھیو پنجابی وِچ نئیں رہندا"
+    },
+    {
+      "kind": "crux",
+      "subject": "משכרת",
+      "rationale": "'نشہ کر رہیا' vs کجھ ترجمے 'نشہ کردا رہیا' (ماضی) — صورت فعل دی پیچیدگی"
+    }
+  ],
+  "translation": "سونے دا پیالا بابل اے یاہوہ دے ہتھ وِچ، ساری دھرتی نوں نشہ کر رہیا؛ اوہدی شراب توں قوماں پئیاں نیں، اسی واسطے قوماں دیوانیاں ہو گئیاں نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "82c3b9a6ca7a0e787b7bad66e3b682316d48e30fcbd34ecc782917694fecd745",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/51\/5-8.1792108821998.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כוס",
+      "gloss": "پیالا"
+    },
+    {
+      "surface": "زהב",
+      "gloss": "سونا"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ہتھ وِچ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "משכרת",
+      "gloss": "نشہ کر رہیا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "دھرتی"
+    },
+    {
+      "surface": "מיינה",
+      "gloss": "اوہدی شراب توں"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "پئیاں نیں"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قوماں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اسی"
+    },
+    {
+      "surface": "כן",
+      "gloss": "واسطے"
+    },
+    {
+      "surface": "יתהללو",
+      "gloss": "دیوانیاں ہو گئیاں نیں"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قوماں"
+    }
+  ],
+  "timestamp": "2026-10-16T00:00:21.999892548Z",
+  "model": "glm-5.3"
+}

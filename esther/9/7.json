@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 9:7",
+  "book": "esther",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ہامان دے پتراں دی لسٹ",
+      "rationale": "ناواں دی لسٹ — ڳݨتی والا ڈھانچا، آیت 9:7–9 وِچ دسے پتر ہر اک ناں نال۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "نوں",
+      "rationale": "مفعول دا پنجابی نشان ⟨את⟩ دے نال جوڑیا، عبرانی وِچ صرف את اے۔"
+    }
+  ],
+  "translation": "تے ⟨את⟩ پَرشَنداتا نوں، تے ⟨את⟩ دَلفون نوں، تے ⟨את⟩ اَسپاتا نوں —",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1436c781cc6b90c6e2122f1d24c2af583224b647f09093b1fa8f346f02c180d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/esther\/9\/5-8.1792117956492.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "پَرشَنداتا"
+    },
+    {
+      "surface": "פרשנדתא",
+      "gloss": "پَرشَنداتا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "دَلفون"
+    },
+    {
+      "surface": "דלפון",
+      "gloss": "دَلفون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اَسپاتا"
+    },
+    {
+      "surface": "אספתא",
+      "gloss": "اَسپاتا"
+    }
+  ],
+  "timestamp": "2026-10-16T02:32:36.493737527Z",
+  "model": "glm-5.3"
+}

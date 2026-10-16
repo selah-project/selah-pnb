@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 30:12",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "פלח",
+      "rationale": "פלח (ٹکڑا) تے דבלہ (انجیراں دی ٹکی) تنخ وِچ بہت گھٹ تھاواں تے آئے نیں۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "روح",
+      "rationale": "רוח ساہ\/جی دی مورت اے — بھُکھے بال دا ساہ واپس آیا، کوئی وکھری روح نئیں۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "تن دن تے تن راتاں",
+      "rationale": "گنتی — بِناں کھان پین دے ویلے دی پیمائش۔"
+    }
+  ],
+  "translation": "تے اوہنوں اِنجیراں دی ٹکی دا اِک ٹکڑا تے کشمش دیاں دو گچھاں دتیاں، تے اوہنے کھادا تے اوہدی روح اوہدے ول واپس آ گئی، کیوں جو تن دن تے تن راتاں توں اوہنے نہ ⟨את⟩ روٹی کھادی سی تے نہ پانی پیا سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2e11ce54202fda946839caa3c84e69ce09fb055b50ca2078aea9357e52f24921",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/30\/9-12.1792102936729.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "تے دتیاں"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہنوں"
+    },
+    {
+      "surface": "פלח",
+      "gloss": "اِک ٹکڑا"
+    },
+    {
+      "surface": "דבלה",
+      "gloss": "انجیراں دی ٹکی"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "تے دو"
+    },
+    {
+      "surface": "צמקים",
+      "gloss": "کشمش دیاں گچھاں"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "تے اوہنے کھادا"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "تے واپس آ گئی"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "اوہدی روح"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اوہدے ول"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "کھادی"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "روٹی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "پیا"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پانی"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "تن"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دن"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "تے تن"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "راتاں"
+    }
+  ],
+  "timestamp": "2026-10-15T22:22:16.731010734Z",
+  "model": "glm-5.3"
+}

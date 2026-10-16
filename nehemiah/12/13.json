@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nehemiah 12:13",
+  "book": "nehemiah",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨دے⟩",
+      "rationale": "ל prefix of the father-house list has no Punjabi equivalent; supplied connective marked"
+    },
+    {
+      "kind": "measurement",
+      "subject": "کاہناں دے گھراں دی لسٹ",
+      "rationale": "پیرواں دے گھراں دی گنتی لسٹ — نوں ناں"
+    }
+  ],
+  "translation": "عِزرا ⟨دے⟩ مِشُلّام؛ اَمَریاہ ⟨دے⟩ یُہوحانان؛",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d40271501da3125583b8769e354a8ed15bd75f8c0190256deaad5e76e39d0d7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/nehemiah\/12\/13-16.1792119933750.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לעזרא",
+      "gloss": "عِزرا ⟨دے⟩"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "مِشُلّام"
+    },
+    {
+      "surface": "لאמריה",
+      "gloss": "اَمَریاہ ⟨دے⟩"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "یُہوحانان"
+    }
+  ],
+  "timestamp": "2026-10-16T03:05:33.750438421Z",
+  "model": "glm-5.3"
+}

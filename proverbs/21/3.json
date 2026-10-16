@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 21:3",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "چُنیا ہویا",
+      "rationale": "נבחר نپات 'چُنیا ہویا\/منیا ہویا' اے؛ ترجمے 'پسند کیتا' توں زیادہ پیارا' تک لے جاندے نیں۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "قربانی",
+      "rationale": "מזבח دا مول مطلب ذبح\/قربانی دا ماس اے؛ پنجابی 'قربانی' رواجی منٹ اے۔"
+    }
+  ],
+  "translation": "سدھائی تے فیصلہ کرنا قربانی توں زیادہ یاہوہ لئی چُنیا ہویا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d15a74477e7c58955ab6ab793fa2ebbba0f84de4f11c6e53b95476b1ae291ec7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/21\/1-4.1792114949142.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "کرنا"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "سدھائی"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "تے فیصلہ"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "چُنیا ہویا اے"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ لئی"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "قربانی توں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:42:29.143063629Z",
+  "model": "glm-5.3"
+}

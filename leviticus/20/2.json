@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 20:2",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אישׁ אישׁ",
+      "rationale": "دوہرا אیش — 'ہر اک بندہ'، پنجابی وِچ بندہ ⟨کوئی⟩ دو ٹوکناں نال"
+    },
+    {
+      "kind": "crux",
+      "subject": "למלך",
+      "rationale": "مولیک (ل + مولیک) — امونیاں دا معبود؛ کجھ پڑھدے نیں 'ملیک' یعنی بادشاہ، نشان لگے رستے وِچ مولیک رکھیا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עם הארץ",
+      "rationale": "'دیش دا لوک' — 'دیش دے لوک' جمع، عبرانی واحد قوم-جتھے لئی"
+    }
+  ],
+  "translation": "تے تُوں یِسرائیل دے پُتراں نال آکھے: کوئی بندہ یِسرائیل دے پُتراں وِچوں، جاں رہن والے پردیسیاں وِچوں جیہڑے یِسرائیل وِچ وسدے نیں، جے اوہ اپنی نسل وِچوں کسے نوں مولیک نوں دےوے، موت نال ماریا جاوے؛ دیش دے لوک اوہدے اُتے پتھر مارن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "cee23beb50facc4104b773d04b158c429ebd13766ce2148a0d1f3bbbd858d18a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/20\/1-4.1792098006454.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "آکھے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨کوئی⟩"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "پُتراں وِچوں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "تے … وِچوں"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "پردیسیاں"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "رہن والے"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "یِسرائیل وِچ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دےوے"
+    },
+    {
+      "surface": "מזרעו",
+      "gloss": "اپنی نسل وِچوں"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "مولیک نوں"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ماریا جاوے"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لوک"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "دیش دے"
+    },
+    {
+      "surface": "ירגמהו",
+      "gloss": "اوہدے اُتے پتھر مارن"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "پتھر"
+    }
+  ],
+  "timestamp": "2026-10-15T21:00:06.455239124Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezra 4:24",
+  "book": "ezra",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ایہہ",
+      "rationale": "והות تعددی فعل اے جیہدا خاص مفعول دوبارہ آؤݨ نال پنجابی نوں ضمیر چاہیدی اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "دوجی سال",
+      "rationale": "سمے دا بیان — داریاوَش دے راج دی دوجی سال تک کم رُکیا رہیا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ایلاہاہ",
+      "rationale": "آرامی אלהא ایلوہیم دی آرامی صورت اے؛ حرف-نقل رکھیا گیا"
+    }
+  ],
+  "translation": "تدوں ایلاہاہ دے گھر دا کم جیہڑا یروشلایم وِچ سی، رُک گیا تے ایہہ داریاوَش بادشاہ پارس دے راج دی دوجی سال تک رُکیا رہیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ca046bd20883f9f08a14a02e1631db62ac592dcc0489c9ca31f3ea7e47e36d82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezra\/4\/21-24.1792119044442.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "تدوں"
+    },
+    {
+      "surface": "בטלת",
+      "gloss": "رُک گیا"
+    },
+    {
+      "surface": "עבידת",
+      "gloss": "کم"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "ایلاہاہ دے"
+    },
+    {
+      "surface": "די",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "یروشلایم وِچ"
+    },
+    {
+      "surface": "והות",
+      "gloss": "تے ⟨ایہہ⟩"
+    },
+    {
+      "surface": "בטלא",
+      "gloss": "رُکیا رہیا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "سال"
+    },
+    {
+      "surface": "תרתין",
+      "gloss": "دوجی"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "راج دی"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "داریاوَش"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "پارس"
+    }
+  ],
+  "timestamp": "2026-10-16T02:50:44.443678526Z",
+  "model": "glm-5.3"
+}

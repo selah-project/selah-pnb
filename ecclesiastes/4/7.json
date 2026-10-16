@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "واپھ",
+      "rationale": "הבל لفظی 'سیاہ\/بھاپ' اے — 'حسرت' یا 'بیکارگی' تصویر گوا دیندے نیں"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨نوں⟩",
+      "rationale": "مفعول دا نشان عبرانی وِچ את نئیں، پنجانی پڑھاؤ لئی پوروّت لفظ"
+    }
+  ],
+  "translation": "تے میں مُڑ کے ویکھیا سورج ہیٹھ واپھ ⟨نوں⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "41e3a196145a68c09ccc0a255909c14ac6c33e4e140d40852bd667d3efda73d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ecclesiastes\/4\/5-8.1792117480421.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "تے میں مُڑ کے"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ویکھیا"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "واپھ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ہیٹھ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سورج"
+    }
+  ],
+  "timestamp": "2026-10-16T02:24:40.422001876Z",
+  "model": "glm-5.3"
+}

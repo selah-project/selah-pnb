@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 118:17",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "مَیں",
+      "rationale": "عبرانی وِچ ضمیر فعل دی صیغے وِچ اے، وکھ لکھی گئی"
+    },
+    {
+      "kind": "you",
+      "subject": "قومی طریق نال",
+      "rationale": "بول چال بندی اے جیہڑا مندر وِچ داخل ہو کے یاہ دے کماں دا اعلان کردا اے"
+    }
+  ],
+  "translation": "مَیں نئیں مراں گا، سگوں جِیاں گا، تے یاہ دے کم بیان کَرواں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "054739b81d58769ad3454f9c1db11c07dca8c746921a4c10b959f73f4a890008",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/118\/17-20.1792113787719.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "مَیں مراں گا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "سگوں"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "جِیاں گا"
+    },
+    {
+      "surface": "ואספר",
+      "gloss": "تے بیان کَرواں گا"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "کم"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاہ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:23:07.719929868Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 32:10",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "مُک گئی",
+      "rationale": "כלہ فعل اے پر پنجابی جملے لئی وضاحت ⟨⟩ وِچ دتی"
+    },
+    {
+      "kind": "crux",
+      "subject": "دناں تے اِک ورھے",
+      "rationale": "יום על שנה: کجھ مترجم 'اِک ورھے توں ودھ دن'، کجھ 'اِک ورھے مگروں دن' — عبارت الٹی جُڑی اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "دن تے ورھا",
+      "rationale": "ویلہ گِنیا گیا اے — دن تے اِک ورھا"
+    }
+  ],
+  "translation": "دناں تے اِک ورھے تک تُسیں تڑپوگے، بھروسہ کرن والیاں، کیونجے انگوراں دی فصل ⟨مُک گئی⟩، کٹائی آؤنی نئیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7c511c6a17fc7bd099fb8f980d19dbf99caba575bc91838a22dfe6706c83e9d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/32\/9-12.1792106373962.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "دناں"
+    },
+    {
+      "surface": "על",
+      "gloss": "تک"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "اِک ورھے"
+    },
+    {
+      "surface": "תרגזנה",
+      "gloss": "تڑپوگے"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "بھروسہ کرن والیاں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "⟨مُک گئی⟩"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "انگوراں دی فصل"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "کٹائی"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "آؤنی"
+    }
+  ],
+  "timestamp": "2026-10-15T23:19:33.962771020Z",
+  "model": "glm-5.3"
+}

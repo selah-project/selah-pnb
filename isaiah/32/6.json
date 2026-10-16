@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 32:6",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נבל \/ נבלה",
+      "rationale": "اِکو جڑ دو وار — بندہ تے اوہدی بولی، پنجابی وِچ 'کم عقل\/بیوقوفی' نال جوڑ رکھیا گیا اے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "نفس",
+      "rationale": "נפש ایتھے 'جان\/ساہ' اے، بھوکے دی جانداری — روح نئیں۔"
+    }
+  ],
+  "translation": "کیونجے کم عقل بیوقوفی بولدا اے، تے اوہدا دل برائی کردا اے — بدکاری کرن لئی تے یاہوہ بارے گمراہی بولن لئی، بھوکے دی جان کھالی کرن لئی، تے پیاسے دا پانی اوہ روک دیندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "53d23cbd994253d13f78c38678c077e527f1ab8c0ae2b2241a0adedc88dff514",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/32\/5-8.1792106438698.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "کم عقل"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "بیوقوفی"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "بولدا اے"
+    },
+    {
+      "surface": "ולבו",
+      "gloss": "تے اوہدا دل"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کردا اے"
+    },
+    {
+      "surface": "און",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "کرن لئی"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "بدکاری"
+    },
+    {
+      "surface": "ולדבר",
+      "gloss": "تے بولن لئی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بارے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "תועה",
+      "gloss": "گمراہی"
+    },
+    {
+      "surface": "להריק",
+      "gloss": "کھالی کرن لئی"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "بھوکے دی"
+    },
+    {
+      "surface": "ומשקה",
+      "gloss": "تے پیاسے دا پانی"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "پیاسے"
+    },
+    {
+      "surface": "יחסיר",
+      "gloss": "روک دیندا اے"
+    }
+  ],
+  "timestamp": "2026-10-15T23:20:38.699709701Z",
+  "model": "glm-5.3"
+}

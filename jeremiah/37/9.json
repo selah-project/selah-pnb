@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 37:9",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "آپ نوں",
+      "rationale": "נפש则是 جان\/ساہ، ایتھے دھوکھے دا آپ اے، 'سوئل' نئیں۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הלך ילכו … לא ילכו",
+      "rationale": "اکّو جڑ ה-ل-ک تن واری دوہائی جاوندی اے — 'اَٹّے جانے نیں … نئیں جانگے' دی چھنک۔"
+    },
+    {
+      "kind": "you",
+      "subject": "یروشلایم دے لوک",
+      "rationale": "نبی آکھیا نال براہِ راست مخاطب۔"
+    }
+  ],
+  "translation": "اِنج یاہوہ آکھدا اے: آپ نوں دھوکھا نہ دِوو، ایہہ آکھ کے کہ کلدی اَٹّے جانے نیں ساڈے اُتّوں، کیوں جو اوہ نئیں جانگے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "34abc6e22be67936765d00e0ad9beab40db8b5b7ee9f56e32ed52d65c98f30e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/37\/9-12.1792108366557.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "اِنج"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھدا اے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשאו",
+      "gloss": "دھوکھا دِوو"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "آپ نوں"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ایہہ آکھ کے کہ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "اَٹّے"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "جانے نیں"
+    },
+    {
+      "surface": "מעלינו",
+      "gloss": "ساڈے اُتّوں"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "کلدی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "جانگے"
+    }
+  ],
+  "timestamp": "2026-10-15T23:52:46.557660383Z",
+  "model": "glm-5.3"
+}

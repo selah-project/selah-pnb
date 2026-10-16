@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 4:5",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "تو تُرُٹ جاندا ایں",
+      "rationale": "عبرانی فعل دا بندہ دوجواں شخص اے — ’تو تُرُٹ گیا، تو گھبرا گیا‘ — کجھ مترجم ایہو پڑھدے نیں؛ مَیں حال دی صورت رکھی۔"
+    },
+    {
+      "kind": "you",
+      "subject": "ایوب نوں",
+      "rationale": "الیفز دا ایوب نوں سدھا مخاطب ہونا۔"
+    }
+  ],
+  "translation": "پر ہن ایہہ تینوں آ ⟨ویکھ⟩ تے تُرُٹ جاوندا اے، ایہہ تیرے تک آؤندا اے تے تُرُٹ جاندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "651daa9554ff663b765f401e04b5a09d155f23b9e7c5d81a545cd120ce53e323",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/4\/5-8.1792115311226.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "پر"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ہن"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "آ ویکھ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تینوں"
+    },
+    {
+      "surface": "ותלא",
+      "gloss": "تے تُرُٹ جاندا اے"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "آؤندا اے"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "تیرے تک"
+    },
+    {
+      "surface": "ותבהل",
+      "gloss": "تے گھبرا جاندا اے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:48:31.226951748Z",
+  "model": "glm-5.3"
+}

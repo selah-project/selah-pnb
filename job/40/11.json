@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 40:11",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "نَسّ",
+      "rationale": "אפך پنجابی وِچ 'تیرا نَسّ\/چہرہ' — عبرانی غصے نوں نَسّ نال جوڑدا اے۔"
+    },
+    {
+      "kind": "you",
+      "subject": "to ایوب",
+      "rationale": "حکم ایوب ول۔"
+    }
+  ],
+  "translation": "اپنے نَسّ دا غصہ پھیلاء، تے ہر اُکڑے نوں ویکھ تے اوہنوں جھکا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ddc96f5b4a9968a83a0c7b5889c591dfe192340bc037b4a7a916fa2eec58d31f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/40\/9-12.1792116490268.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הפץ",
+      "gloss": "پھیلاء"
+    },
+    {
+      "surface": "עברות",
+      "gloss": "غصہ"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "اپنے نَسّ دا"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "تے ویکھ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "גאה",
+      "gloss": "اُکڑے نوں"
+    },
+    {
+      "surface": "והשפילהו",
+      "gloss": "تے اوہنوں جھکا"
+    }
+  ],
+  "timestamp": "2026-10-16T02:08:10.268986095Z",
+  "model": "glm-5.3"
+}

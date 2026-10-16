@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 1:1",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "عبرانی وِچ ہووَے دا کوئی لفظ نئیں، پنجابی جملے لئی ⟨سی⟩ لوڑیدا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "רמתים צופים",
+      "rationale": "اِکو تھاں دے دو حصے نیں — ‘راماتایم دو اُچیاں تھاواں’ دوال\/جمع اے؛ کجھ مترجم ‘صوپھ دے دیکھن والے’ لیندے نیں"
+    }
+  ],
+  "translation": "تے اِک بندہ ہویا راماتایم-صوپھیم توں، اپھرایم دے پہاڑ توں، تے اوہدا ناں ایلکانہ سی، یروخام دا پُتر، الیہو دا پُتر، توحو دا پُتر، صوپھ دا پُتر، اِک اپھراتی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1526a3718eeb1adf31a5ab9614213e1b59046a2d1c8f3c30d7108ab220d3b947",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/1\/1-4.1792102180355.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے ہویا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "اِک"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "הרמתים",
+      "gloss": "راماتایم"
+    },
+    {
+      "surface": "צופים",
+      "gloss": "صوپھیم"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "پہاڑ توں"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "اپھرایم"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "تے اوہدا ناں"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ایلکانہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "یروخام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אליהוא",
+      "gloss": "الیہو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "תחו",
+      "gloss": "توحو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "צוף",
+      "gloss": "صوپھ"
+    },
+    {
+      "surface": "אפרתי",
+      "gloss": "اپھراتی"
+    }
+  ],
+  "timestamp": "2026-10-15T22:09:40.356122681Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 28:5",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וירא\/וירא",
+      "rationale": "اکو لفظی شکل 'ویکھیا' تے 'ڈریا' — ویکھن توں ڈر اِکو اکھری جوڑ نال جُڑیا اے، پنجابی وِچ مُک جاندا اے"
+    }
+  ],
+  "translation": "تے شاؤل نے ویکھیا ⟨את⟩ پلشتیاں دا پڑاؤ، تے اوہ ڈر گیا تے اوہدا دل بہت کانپیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "93e13a5bc7758e50f368d55c5fe0ecf8fa3d9ee9af084a736af4b4234a53a784",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/28\/5-8.1792103027780.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "تے ویکھیا"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پلشتیاں دا پڑاؤ"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "پڑاؤ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "پلشتیاں دے"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "تے ڈر گیا"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "تے کانپیا"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "اوہدا دل"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بہت"
+    }
+  ],
+  "timestamp": "2026-10-15T22:23:47.781644830Z",
+  "model": "glm-5.3"
+}

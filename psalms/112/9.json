@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 112:9",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 112,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sang",
+      "rationale": "قرن دی اصلی مورت 'سنگ' رکھی — طاقت تے عزت دی مثال، 'شان' نئیں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "پذר نتن",
+      "rationale": "دو کریاواں رل کے 'پھیلا کے دتا' — اِکو کم دو وار، پنجابی وِچ جُڑیاں نیں"
+    }
+  ],
+  "translation": "اُوں پھیلا کے دِتّا سوڑیاں نوں، اُوہدا راستبازی ہمیشہ لئی کھلونی اے، اُوہدا سنگ جلال نال اُچا ہوسی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9566651accaed6a76ce47cb37f1b9ea158627822966125073ed6baa3591cd1b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/112\/9-10.1792113655477.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פזר",
+      "gloss": "اُوں پھیلا کے"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دِتّا"
+    },
+    {
+      "surface": "לאביונים",
+      "gloss": "سوڑیاں نوں"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "اُوہدا راستبازی"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "کھلونی اے"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ہمیشہ لئی"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "اُوہدا سنگ"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "اُچا ہوسی"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "جلال نال"
+    }
+  ],
+  "timestamp": "2026-10-16T01:20:55.477934297Z",
+  "model": "glm-5.3"
+}

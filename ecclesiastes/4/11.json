@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "איך יחם",
+      "rationale": "Rhetorical question addressed to the hearer — 'how shall one be warm?' — draws the listener into the argument."
+    },
+    {
+      "kind": "addition",
+      "subject": "ہووے",
+      "rationale": "יחם is 'be warm'; Punjabi states it as 'گرمی ہووے' (warmth be), splitting one verb into noun+verb."
+    }
+  ],
+  "translation": "فیر جے دو سُتّن، تے اوہناں نوں گرمی اے؛ تے اِک لئی کیویں گرمی ہووے؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "da31e3970c32c59c4f9f012eaedb32f6b05f7cec520d2046e0f09b862f94130b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ecclesiastes\/4\/9-12.1792117354062.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "فیر"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "سُتّن"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "تے گرمی"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اوہناں نوں"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "تے اِک لئی"
+    },
+    {
+      "surface": "איך",
+      "gloss": "کیویں"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "گرمی ہووے"
+    }
+  ],
+  "timestamp": "2026-10-16T02:22:34.063505892Z",
+  "model": "glm-5.3"
+}

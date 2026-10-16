@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 4:8",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ומשפחות אחרחל",
+      "rationale": "'اَخَرچیل دے ٹبر' — ایہہ پُتر نیں جاں صِرف اوہدے ٹبر دا ذکر؛ ترجمے آپس وِچ وکھرے نیں"
+    },
+    {
+      "kind": "measurement",
+      "subject": "نسب نامہ",
+      "rationale": "ناواں تے ٹبراں دی لسٹ"
+    }
+  ],
+  "translation": "تے قُوص نے ⟨את⟩ عانُوب نوں تے ⟨את⟩ صوبیباہ نوں جَمّیا، تے اَخَرچیل دے ٹبر — ہارُوم دے پُتر ⟨دا⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7678e41596076479fe7e3fbae83b05648f80451685e48af60b370706998969bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/4\/5-8.1792120281848.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "تے قُوص نے"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "جَمّیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عانُوب"
+    },
+    {
+      "surface": "ענוב",
+      "gloss": "عانُوب"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "صوبیباہ"
+    },
+    {
+      "surface": "הצבבה",
+      "gloss": "صوبیباہ"
+    },
+    {
+      "surface": "ומשפחות",
+      "gloss": "تے ٹبر"
+    },
+    {
+      "surface": "אחרחל",
+      "gloss": "اَخَرچیل دے"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "הרום",
+      "gloss": "ہارُوم دے"
+    }
+  ],
+  "timestamp": "2026-10-16T03:11:21.849152337Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 132:7",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "to worshippers",
+      "rationale": "'آؤ اسیں جائیے' — تعبیر دی پکار، بول چال دے جمع صیغے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הדם\/רגליו",
+      "rationale": "'پیراں دا ٹیکا' — ہادوم رڳا رگل نال جُڑیا، اِکو تصویر وِچ دو ٹوکن"
+    }
+  ],
+  "translation": "آؤ اسیں اوہدے مسکناں وِچ جائیے، اوہدے پیراں دے ٹیکے اگے سجدہ کریے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bb87b8b264bc7567d707878fb2682a94a531c35bd177531ffc0507c582e30ce3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/132\/5-8.1792114028282.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נבואה",
+      "gloss": "آؤ جائیے"
+    },
+    {
+      "surface": "למשכנותיו",
+      "gloss": "اوہدے مسکناں وِچ"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "سجدہ کریے"
+    },
+    {
+      "surface": "להדם",
+      "gloss": "پیراں دے ٹیکے اگے"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "اوہدے پیراں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:27:08.283705839Z",
+  "model": "glm-5.3"
+}

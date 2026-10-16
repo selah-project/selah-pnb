@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 23:21",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יורש",
+      "rationale": "'وارث' — متروجمین دا اختلاف: 'غریبی دا وارث بندا اے' بمقابلہ 'اوہدے توں سب کجھ کھوہ لیا جاندا اے'; حرف-نقل دا وزن 'وارث' اُتے رکھیا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "نُوما",
+      "rationale": "اوہ 'اُونّھ\/سُتاوَں' اے، بیماری نئیں — عبرانی لفظ جسمانی اُونّھ دا اے، تے اوہو کپڑے پاؤندا اے جیویں کوئی بندہ"
+    }
+  ],
+  "translation": "کیوں جو شرابی تے شکم-پرست غریبی دے وارث بندے نیں، تے سُتاوَں پھٹے کپڑے پاؤندی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e92b0a7b96c6ca27ad0ed2e7d7f28bd931ca0350ca145a23445f7edfddcbb74f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/23\/21-24.1792115027879.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "סבא",
+      "gloss": "شرابی"
+    },
+    {
+      "surface": "וזולל",
+      "gloss": "تے شکم-پرست"
+    },
+    {
+      "surface": "יורש",
+      "gloss": "وارث بندے نیں"
+    },
+    {
+      "surface": "וקרעים",
+      "gloss": "پھٹے کپڑے"
+    },
+    {
+      "surface": "תלביש",
+      "gloss": "پاؤندی اے"
+    },
+    {
+      "surface": "נומה",
+      "gloss": "سُتاوَں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:43:47.880127963Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 9:1",
+  "book": "nehemiah",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ٹاٹ",
+      "rationale": "שק खُردار کپاہ دا ردا اے؛ 'ٹاٹ' اوہدے سب نالے نال بدل اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "عبرانی وِچ کوئی فعل نئیں، صرف 'اُوہناں اُتے مِٹی' — پنجابی جوڑ ⟨سی⟩ منگدا اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "چَوّیویں تاریخ",
+      "rationale": "مِتصرایم توں واپسی مگروں دے مہینے دا دن گِنیا گیا اے"
+    }
+  ],
+  "translation": "تے اِس مہینے دی چَوّیویں تاریخ نوں یِسرائیل دے پُتر روزے نال تے ٹاٹاں نال اِکٹھے ہوئے، تے اُوہناں اُتے مِٹی سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7df96e07a80ec1d0bd97725d0c7d5b960c9ebe58508f312f625a658ce3cb3f70",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/nehemiah\/9\/1-4.1792119825002.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "تے … نوں"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ویہہ"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "تے چار"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "مہینے دی"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اِس"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "اِکٹھے ہوئے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "بצום",
+      "gloss": "روزے نال"
+    },
+    {
+      "surface": "ובשקים",
+      "gloss": "تے ٹاٹاں نال"
+    },
+    {
+      "surface": "ואדמה",
+      "gloss": "تے مِٹی"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "اُوہناں اُتے"
+    }
+  ],
+  "timestamp": "2026-10-16T03:03:45.002857418Z",
+  "model": "glm-5.3"
+}

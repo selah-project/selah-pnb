@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 2:9",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "תבין",
+      "rationale": "عبرانی دا مطلب اے 'وکھریواں کر کے سمجھنا' — پنجابی وِچ 'ویکھنا\/سمجھنا' آکھیا"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צדק משפט מישרים",
+      "rationale": "تِن مِترے ابسترَیکٹ لفظ اِکو ساہ تے — پنجابی وِچ اوہناں دا تالُ مو گواچیا"
+    }
+  ],
+  "translation": "تد اوہ ویکھسیں کیہ اے اِنصاف تے کیہ اے فیصلہ، تے سِدھے رستے — ہر چنگی پگڈنڈی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c1ad0c5531a682a64dee5fa30ca5d40a87b36ecfd10576bbd17c8f81ae25b3be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/2\/9-12.1792114337543.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "تد"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "اوہ ویکھسیں کیہ اے"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "اِنصاف"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "تے فیصلہ"
+    },
+    {
+      "surface": "ומישרים",
+      "gloss": "تے سِدھے رستے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "پگڈنڈی"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:32:17.543908905Z",
+  "model": "glm-5.3"
+}

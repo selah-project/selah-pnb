@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 29:1",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نوں",
+      "rationale": "אפקہ دی طرفی ہے — پنجابی نوں 'نوں' لوڑدا اے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "חנים",
+      "rationale": "'پڑاؤ پا کے بیٹھا' — مختصر 'کیمپ لایا' وی جائز"
+    }
+  ],
+  "translation": "تے پلشتیمیاں نے ⟨את⟩ اپنے سارے پڑاؤ اَپیک نوں کٹھے کیتے، تے یِسرائیل یزرعیل وِچ ⟨جہڑا⟩ چشمے کول پڑاؤ پا کے بیٹھا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c2bc929b6b7c2e396214a29b79bc84ec6684118f9246669442d8c70ca726f997",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/29\/1-4.1792102985680.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "تے کٹھے کیتے"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "پلشتیمیاں نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنے سارے پڑاؤ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "اپنے پڑاؤ"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "اَپیک نوں"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "تے یِسرائیل"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "پڑاؤ پا کے بیٹھا"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "چشمے کول"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جہڑا"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "یزرعیل وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T22:23:05.680689349Z",
+  "model": "glm-5.3"
+}

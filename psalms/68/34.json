@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 68:34",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בקולו קול עז",
+      "rationale": "קול دو واری — 'آواز نال آواز' دی دوہری آواز، پنجابی وِچ وی دہرایا"
+    },
+    {
+      "kind": "addition",
+      "subject": "اپنی",
+      "rationale": "בקולو وِچ suffix اے، پر پنجابی جملہ 'اپنی' منگدا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בשמי שמי",
+      "rationale": "اسماناں دے اسماناں — دویتی دوہرائی، صورت رکھی گئی"
+    }
+  ],
+  "translation": "اوہنوں جیہڑا قدیم دے اسماناں دے اسماناں اُتے سوار اے — دیکھو، اوہ اپنی آواز نال زور دی آواز دیندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "db787a3cfc0de424d527218d90fef0db47c5c089d15c0fb8004454cb3683a825",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/68\/33-36.1792112885011.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לרכב",
+      "gloss": "اوہنوں جیہڑا سوار اے"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "اسماناں دے"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "اسماناں اُتے"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "قدیم"
+    },
+    {
+      "surface": "הן",
+      "gloss": "دیکھو"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دیندا اے"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "اپنی آواز نال"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "עז",
+      "gloss": "زور دی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:08:05.012288438Z",
+  "model": "glm-5.3"
+}

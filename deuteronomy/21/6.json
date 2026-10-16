@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 21:6",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨بندے⟩",
+      "rationale": "החלל مارا ہویا — پنجابی نوں 'کِسے دے مارے ہوئے' لئی بندہ چاہیدا اے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "وادی",
+      "rationale": "נחל مطلب موسمی نِیہر\/وادی — 'نِیہر' وی جائز، پر سیاق وِچ 'وادی' بھاؤندا اے"
+    }
+  ],
+  "translation": "تے اُس شہر دے سارے بزرگ جیہڑے مارے ہوئے ⟨بندے⟩ دے نیڑے دے نیں، وادی وِچ گردن وَڈھی ہوئی گائ توں اُتے ⟨את⟩ اپنیاں ہتھ دھوؤن گے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5100172d8d3cc7c5d7dfebd1ddd1efec1ff7763e7a64d8b22bbed8da8075b778",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/21\/5-8.1792100140060.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "تے سارے"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "بزرگ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر دے"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اُس"
+    },
+    {
+      "surface": "הקרבים",
+      "gloss": "نیڑے دے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ول"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "مارے ہوئے"
+    },
+    {
+      "surface": "ירחצו",
+      "gloss": "دھوؤن گے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنیاں ہتھ"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "اوہناں دے ہتھ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "گائ"
+    },
+    {
+      "surface": "הערופה",
+      "gloss": "گردن وَڈھی ہوئی"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "وادی وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T21:35:40.061096084Z",
+  "model": "glm-5.3"
+}

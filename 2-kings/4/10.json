@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 4:10",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עלית קיר",
+      "rationale": "'دیوار اُتے کمرہ' یا 'دیواں والی کمرہ' یا 'چھت اُتے کمرہ' — ترجمے ونڈے ہوئے نیں"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨منگدا ہاں⟩",
+      "rationale": "نא درخواست دا نشان اے، پنجابی جملے وِچ وکھ لفظ منگدا اے"
+    }
+  ],
+  "translation": "آؤ اسیں دیوار اُتے اِک نکی چھت-کمرہ بنائیے، تے اوتھے اوہدے لئی پلنگھ، میز، کُرسی تے چراغ رکھیے؛ تے جدوں اوہ ساڈے کول آوے تاں اوہ اوتھے ٹر پئے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5466244a943ad9442a68a231c0fd68c1830165fd0540e6b743de938a048b0146",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/4\/9-12.1792104944131.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נעשה",
+      "gloss": "آؤ بنائیے"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨منگدا ہاں⟩"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "چھت-کمرہ"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "دیوار"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "نکی"
+    },
+    {
+      "surface": "ונשים",
+      "gloss": "تے رکھیے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدے لئی"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اوتھے"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "پلنگھ"
+    },
+    {
+      "surface": "ושלחן",
+      "gloss": "تے میز"
+    },
+    {
+      "surface": "וכסא",
+      "gloss": "تے کُرسی"
+    },
+    {
+      "surface": "ומנורה",
+      "gloss": "تے چراغ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "تے ہووےگا"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "جدوں اوہ آوے"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ساڈے کول"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "ٹر پئے"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "اوتھے"
+    }
+  ],
+  "timestamp": "2026-10-15T22:55:44.132736678Z",
+  "model": "glm-5.3"
+}

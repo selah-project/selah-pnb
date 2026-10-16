@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 13:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "یاہوہ",
+      "rationale": "اِک سِدھی پُکار — داوِد یاہوہ نوں مخاطب کردا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עד אנה",
+      "rationale": "کدوں تک دی چار واری دوہراؤ (13:2–3 دے چارے سوال) — زور دی ٹھاہر، پنجابی وِچ وی دوہرایا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "تُو",
+      "rationale": "عبرانی فعل دی جھلّ وِچ پہلو پہلے اے؛ پنجابی نوں الگ تُو چاہیدا اے"
+    }
+  ],
+  "translation": "کدوں تک یاہوہ تُو میتھوں بھُلاسیں — ہمیشاں لئی؟ کدوں تک تُو ⟨את⟩ اپنا مُہر میرے توں چُپاویں گا؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "efb8878d0b1df9c3cf30654fe996d1340f7774bfcdc4f52894d25d7b511b3322",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/13\/1-4.1792111964508.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "کدوں"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "تک"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "תשכחני",
+      "gloss": "تُو میتھوں بھُلاسیں"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "ہمیشاں لئی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "کدوں"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "تک"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "تُو چُپاویں گا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنا مُہر"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "اپنا مُہر"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "میرے توں"
+    }
+  ],
+  "timestamp": "2026-10-16T00:52:44.508756662Z",
+  "model": "glm-5.3"
+}

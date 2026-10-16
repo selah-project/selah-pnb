@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 130:6",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 130,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اُڈیکدی اے",
+      "rationale": "عبرانی وِچ فعل گواچا اے — پنجابی جملہ منگدا اے، ⟨⟩ وِچ دتا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/زندگی-قوت اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משמרים…שמרים",
+      "rationale": "שמר جڑ دا تکرار — نگہبان\/نگہبانی دی ہم آوازی رکھی"
+    }
+  ],
+  "translation": "میری جان ادونای لئی ⟨اُڈیکدی اے⟩ — نگہباناں دی سویر توں ودھ ⟨اُڈیک⟩، نگہبان سویر لئی نگہبانی کردے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3696f5af547dcfc3c015564eab1208db384e056e1d7c5f57c7aadb843fdc2e37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/130\/5-8.1792114001896.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "میری جان"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "ادونای لئی"
+    },
+    {
+      "surface": "משמרים",
+      "gloss": "نگہبان"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "سویر لئی"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "نگہبان"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "سویر لئی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:26:41.897370421Z",
+  "model": "glm-5.3"
+}

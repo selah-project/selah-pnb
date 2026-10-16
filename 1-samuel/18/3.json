@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 18:3",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "كרת ברית",
+      "rationale": "'عہد کٹنا' — عبرانی ریت، گوشت دے ٹکڑیاں وِچوں لنگھ کے؛ پنجابی وِچ 'عہد کیتا'"
+    }
+  ],
+  "translation": "تے یہوناتن تے داوِد نے عہد کیتا، کیوں جو اوہ ⟨اوہنوں⟩ اپنی جان ورگا پیار کردا سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "03d807db3496fd6db543d4926f34504fb7d78b89c59513fae8d8bca2faeebdf8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/18\/1-4.1792102722534.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "تے کیتا ⟨کٹیا⟩"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "یہوناتن"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "تے داوِد"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "عہد"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "پیار وِچ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "اوہنوں"
+    },
+    {
+      "surface": "כנפשו",
+      "gloss": "اپنی جان ورگا"
+    }
+  ],
+  "timestamp": "2026-10-15T22:18:42.535642194Z",
+  "model": "glm-5.3"
+}

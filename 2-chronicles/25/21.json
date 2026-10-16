@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 25:21",
+  "book": "2-chronicles",
+  "lang": "pnb",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ویکھیا مونہہ",
+      "rationale": "עראו פנים 'موہاں ویکھیا' — عبرانی چ اک دوجے نال ٹکراؤن دا محاورہ اے"
+    },
+    {
+      "kind": "hapax",
+      "subject": "ויתראו",
+      "rationale": "یتقیدی ℕת(ה)ראو دا نشیدار روپ صرف ایتھے — 'اک دوجے دے سامنے آئے'"
+    }
+  ],
+  "translation": "تے یوآش یِسرائیل دے بادشاہ نے چڑھائی کیتی، تے اوہ تے اَمَتصیاهو یہوداہ دے بادشاہ نے بیت شیمش وِچ، جیہڑا یہوداہ دا اے، اک دوجے دا مونہہ ویکھیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "965618fef76daf68c62015673fa782158615ccdc1d1698af532ff535e8dbba2d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/25\/21-24.1792122684536.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "چڑھیا"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "یوآش"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "ויתראו",
+      "gloss": "ویکھیا"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "مونہہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "ואמציהו",
+      "gloss": "اَمَتصیاهو"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "بیت وِچ"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "شیمش"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "یہوداہ دا"
+    }
+  ],
+  "timestamp": "2026-10-16T03:51:24.537356256Z",
+  "model": "glm-5.3"
+}

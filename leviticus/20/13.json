@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 20:13",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "توبہ",
+      "rationale": "תועבה نوں 'توبہ' دتا گیا اے — لفظی مطلب 'گھناؤنی چیز' اے"
+    },
+    {
+      "kind": "idiom",
+      "subject": "موت ہی نال ماریا جائے",
+      "rationale": "מות יומתו inflected absolute دا اکٹھا وزن اے — 'موت نال ماریا جائے' دا پکا اعلان"
+    },
+    {
+      "kind": "idiom",
+      "subject": "اوہناں دا لہو اوہناں اُتے اے",
+      "rationale": "'لہو اُتے' = ذمہ داری اوہناں اپنے اُتے اے"
+    }
+  ],
+  "translation": "تے جو بندہ کِسے ⟨את⟩ نر نال عورت دے میاں-بیوی والے سونے نال سویں، اوہناں دونوں نے توبہ کِتی اے — موت ہی نال اوہناں نوں ماریا جائے؛ اوہناں دا لہو اوہناں اُتے اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d4a0752c5de4ed5b5e3677d163b35b5122f3c2d4cc028387a4b4c3406f8bb0e4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/20\/13-14.1792123423221.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "تے جو بندہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "سویں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نر"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نر"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "میاں-بیوی والے سونے نال"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "عورت"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "توبہ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "کِتی اے"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "اوہناں دونوں نے"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "ماریا جائے"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "اوہناں دا لہو"
+    },
+    {
+      "surface": "בם",
+      "gloss": "اوہناں اُتے"
+    }
+  ],
+  "timestamp": "2026-10-16T04:03:43.222153301Z",
+  "model": "glm-5.3"
+}

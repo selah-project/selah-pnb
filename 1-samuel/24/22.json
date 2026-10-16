@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 24:22",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אם … ואם",
+      "rationale": "قسم دی عبرانی شکلا (اَگے 'کہ نئیں' منگیا جاندا اے) — پنجابی وِچ نفی ⟨نئیں⟩ نال دتی گئی"
+    },
+    {
+      "kind": "you",
+      "subject": "داوِد نوں",
+      "rationale": "شاؤُل سیدھا داوِد نال گل کردا اے — قید کیتا ہویا بندہ اپنی نسل لئی پک کردا اے"
+    }
+  ],
+  "translation": "تے ہن میں توں یاہوہ دی قسم کھوا کہ تُو ⟨نئیں⟩ ⟨את⟩ میرا بیج میرے پچھوں کٹیں گا تے ناں ⟨את⟩ میرا ناں میرے پیو دے گھروں مٹاویں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "cf9976c7c73c9492fbdd668ba968e4763a441212441a36b7da07b6d83dbf4915",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/24\/21-23.1792102769888.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "تے ہن"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "قسم کھوا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میں توں"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "یاہوہ دی قسم نال"
+    },
+    {
+      "surface": "אם",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "תכרית",
+      "gloss": "کٹیں گا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میرا بیج"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "میرا بیج"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "میرے پچھوں"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "تے ناں"
+    },
+    {
+      "surface": "תשמיד",
+      "gloss": "مٹاویں گا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میرا ناں"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "میرا ناں"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "گھروں"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "میرے پیو دے"
+    }
+  ],
+  "timestamp": "2026-10-15T22:19:29.889323906Z",
+  "model": "glm-5.3"
+}

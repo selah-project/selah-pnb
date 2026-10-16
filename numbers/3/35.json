@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 3:35",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "عبرانی وِچ کپولا نئیں، پنجانی جملے لئی لوڑیا"
+    },
+    {
+      "kind": "idiom",
+      "subject": "על ירך המשכן",
+      "rationale": "پٹھّ 'مسکن دا ران' یعنی لمبا پاسہ؛ پنجابی وِچ ران-پاسہ رکھیا گیا اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ڈیرا-تھاں",
+      "rationale": "خیمے دی سمت دسی گئی — سرزماری-سٹیک دا حصہ"
+    }
+  ],
+  "translation": "تے مراری دے ٹبراں دے گھر-پیو دا سردار تسورییل اے، اویخایل دا پُتر؛ مسکن دے ران-پاسے اوہ اُترے ول پڑاؤ کرن گے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "94ee822ea1cd080e82a9c3ae4a973c6189d57b7663fc238297908529d0a9476f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/3\/33-36.1792098284456.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "تے سردار"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "אב",
+      "gloss": "پیو"
+    },
+    {
+      "surface": "למשפחת",
+      "gloss": "ٹبراں لئی"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "مراری دے"
+    },
+    {
+      "surface": "צוריאל",
+      "gloss": "تسورییل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אביחיל",
+      "gloss": "اویخایل دا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "ران-پاسے"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مسکن دے"
+    },
+    {
+      "surface": "יחנו",
+      "gloss": "پڑاؤ کرن گے"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "اُترے ول"
+    }
+  ],
+  "timestamp": "2026-10-15T21:04:44.457324857Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 38:16",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עליהם",
+      "rationale": "'ایہناں توں' — کجھ مترجم 'اوہناں توں جیوندے نیں' (KJV) تے کجھ 'جنہاں اُتے' پڑھدے نیں؛ حزقیاہ دی منگ دا سیاق پہلا مطلب دسدا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨بندے⟩",
+      "rationale": "عبرانی فعل יחיו جمع اے پر فاعل لکھیا نئیں؛ پنجابی جمع فاعل منگدا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ایس لئی⟩",
+      "rationale": "ותחلימנی دی وائو علت دے طور تے لی گئی — جے مینوں ٹھیک کریں — عبرانی وِچ علیحدہ لفظ نئیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "רוחי",
+      "rationale": "روح — عبرانی רוּחַ ہوا\/ساہ وی اے؛ ایتھے 'جان دا ساہ' دا مطلب اے"
+    }
+  ],
+  "translation": "ادونای، ایہناں توں ⟨بندے⟩ جیوندے نیں، تے ایہناں ساریاں وِچ میری روح دی جان اے؛ ⟨ایس لئی⟩ تُوں مینوں ٹھیک کریں تے مینوں جِیون دِیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fd20703569a7d870b092ebdcbf9dac0ec2c2595c870c93be31371d70d2ec3ca1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/38\/16-16.1792123834163.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ایہناں توں"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "جیوندے نیں"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "تے ایہناں ساریاں"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "جان"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "میری روح"
+    },
+    {
+      "surface": "ותחלימני",
+      "gloss": "تے مینوں ٹھیک کریں"
+    },
+    {
+      "surface": "והחיני",
+      "gloss": "تے مینوں جِیون دِیں"
+    }
+  ],
+  "timestamp": "2026-10-16T04:10:34.164083983Z",
+  "model": "glm-5.3"
+}

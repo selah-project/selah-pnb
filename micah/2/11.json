@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "micah 2:11",
+  "book": "micah",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ہوا",
+      "rationale": "روح — 'ہوا\/ساہ' اوہدا مُڈھلا مطلب اے؛ 'روح' دی تھاں 'ہوا' رکھیا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אטף\/מטיף",
+      "rationale": "اکو جڑ נ-ט-ף — 'ٹپکنا' تے 'نبوت کرنا' — پنجابی وچ 'ٹپکاں گا\/ٹپکان والا' نال جوڑ رکھیا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "לו",
+      "rationale": "لو — 'جے' جاں خواہش دا 'کاش': 'کاش کوئی اجیہا بندہ ہوندا' — پرتیجھا 'جے' پسند کیتا"
+    }
+  ],
+  "translation": "جے کوئی بندہ ہوا تے جھوٹ وِچ پھردا ہووے تے جھوٹ بولے — 'میں تینوں شراب تے نشیلے شربت بارے ٹپکاں گا' — تاں اوہ ایس قوم دا ٹپکان والا بن جاوے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "76e3e6a7c1a772534e723fff7f3d2008a275492a767aadef8244b7d850ffad57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/micah\/2\/9-12.1792111021761.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "جے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "کوئی بندہ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "پھردا ہووے"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ہوا"
+    },
+    {
+      "surface": "ושקר",
+      "gloss": "تے جھوٹ وِچ"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "جھوٹ بولے"
+    },
+    {
+      "surface": "אטף",
+      "gloss": "ٹپکاں گا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تینوں"
+    },
+    {
+      "surface": "ליין",
+      "gloss": "شراب"
+    },
+    {
+      "surface": "ולשכר",
+      "gloss": "تے نشیلے شربت"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "تاں اوہ ہووے"
+    },
+    {
+      "surface": "מטיף",
+      "gloss": "ٹپکان والا"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم دا"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ایس"
+    }
+  ],
+  "timestamp": "2026-10-16T00:37:01.762496081Z",
+  "model": "glm-5.3"
+}

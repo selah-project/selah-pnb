@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 8:6",
+  "book": "hosea",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מישראל",
+      "rationale": "'یِسرائیل توں ای اے' — مطلب اے خود اسرائیل دا بنایا، یا 'یِسرائیل دا ای ٹُکڑا'؛ ترجمے وچ پہلی پڑھائی رکھی۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שבבים",
+      "rationale": "'ٹکڑے-ٹکڑے' — لفظ دا مطلب تُکڑے\/بربادی، جوڑے روپ وِچ۔"
+    },
+    {
+      "kind": "mystery",
+      "subject": "כי…כי",
+      "rationale": "دو واری כי — ترجمہ کرن والیاں دیاں واہراں 'کیوں جے \/ بے شک' نال وکھریاں کیتیاں۔"
+    }
+  ],
+  "translation": "کیوں جے اوہ یِسرائیل توں ای اے — اک کاریگر نے اوہنوں بنایا تے اوہ ایلوہیم نئیں؛ بے شک شومرون دا وچھڑا ٹکڑے-ٹکڑے ہووےگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4a1bc1d98521bcab45a678ecebe74c1632eb79b3c6b554d344a64194bb829b0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/hosea\/8\/5-8.1792110648474.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جے"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "یِسرائیل توں"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "تے اوہ"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "کاریگر"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "نے اوہنوں بنایا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بے شک"
+    },
+    {
+      "surface": "שבבים",
+      "gloss": "ٹکڑے-ٹکڑے"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہووےگا"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "وچھڑا"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "شومرون دا"
+    }
+  ],
+  "timestamp": "2026-10-16T00:30:48.474959556Z",
+  "model": "glm-5.3"
+}

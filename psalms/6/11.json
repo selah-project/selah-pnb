@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 6:11",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "י בשו ... יבשו",
+      "rationale": "فعل دا چکر — مُڑ جان دے بعد فیر شرمندہ — عبرانی دی جوڑ-تاں، پنجابی وِچ تان٘ رکھی"
+    },
+    {
+      "kind": "crux",
+      "subject": "רגע",
+      "rationale": "'اک جھپکی' — چند ترجمے 'اک پل'، چند 'چھیتی ای' منگدے نیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "شرمندہ",
+      "rationale": "בוש مول روپ وِچ 'پیلے پے جانا' — منہ دے رنگ دی تصویر"
+    }
+  ],
+  "translation": "سارے میرے ویری شرمندہ ہون تے بہوں گھبراہٹ وِچ آؤن؛ اوہ مُڑ جان، شرمندہ ہون ⟨اک⟩ پل وِچ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "dee5ab1a9dc3fc8250d6136160d50a78697b673dfd9d2308735ae6651f3a9507",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/6\/9-11.1792111765752.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "شرمندہ ہون"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "تے گھبراہٹ وِچ آؤن"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بہوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "میرے ویری"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "مُڑ جان"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "شرمندہ ہون"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "اک پل"
+    }
+  ],
+  "timestamp": "2026-10-16T00:49:25.753240407Z",
+  "model": "glm-5.3"
+}

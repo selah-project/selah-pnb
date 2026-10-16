@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 53:8",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 53,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דורו מי ישוחח",
+      "rationale": "'اوہدی پیڑھی بارے کُن سُچےگا' — متبادل: 'اوہدے contemporaries وِچوں کُن گل کردا' (ASV\/JPS)"
+    },
+    {
+      "kind": "crux",
+      "subject": "למו",
+      "rationale": "'اوہناں نوں' — اکثر 'میرے لوکاں' ول پرتیا جاندا اے، پر پرانے معنی 'اوہدے لئی' وی ممکن"
+    },
+    {
+      "kind": "alternative",
+      "subject": "מעצר",
+      "rationale": "'قید' بجائے 'بدنامی\/دباؤ' — عبرانی لفظ دوناں پاسے کھُلدا اے"
+    }
+  ],
+  "translation": "قید تے عدالت توں اوہ لے لیا گیا، تے اوہدی پیڑھی بارے ⟨את⟩ کُن سُچےگا؟ کیوں جو اوہ جِوندیاں دی دھرتی توں کٹ دِتا گیا — میرے لوکاں دی بغاوت توں، اوہناں نوں مار لگی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4d63df52a4df18b1a31bd66c289fd2d65278892628aab788f92367315dd1bdfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/53\/5-8.1792106995963.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מעצר",
+      "gloss": "قید توں"
+    },
+    {
+      "surface": "וממשפט",
+      "gloss": "تے عدالت توں"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "لے لیا گیا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اوہدی پیڑھی"
+    },
+    {
+      "surface": "דורו",
+      "gloss": "اوہدی پیڑھی"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کُن"
+    },
+    {
+      "surface": "ישוחח",
+      "gloss": "سُچےگا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "کٹ دِتا گیا"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "دھرتی توں"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "جِوندیاں دی"
+    },
+    {
+      "surface": "מפשע",
+      "gloss": "بغاوت توں"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "میرے لوکاں دی"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "مار"
+    },
+    {
+      "surface": "למו",
+      "gloss": "اوہناں نوں"
+    }
+  ],
+  "timestamp": "2026-10-15T23:29:55.964833330Z",
+  "model": "glm-5.3"
+}

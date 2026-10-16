@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 11:20",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מפח נפש",
+      "rationale": "'جان دا ساہ سُٹنا' — بمقابلہ KJV 'روح دے سُٹنے جِویں' تے JPS 'جان دا ڈِھلھنا'؛ عبرانی ساہ مکن دی تسبیح اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "נפש ساہ\/جان اے، صرف 'روح' نئیں؛ 'جان' نیڑے دا لفظ اے"
+    }
+  ],
+  "translation": "تے بدکاں دیاں اکھاں مک جانگیاں، تے بھجن دا راستہ اوہناں توں مک جاوےگا، تے اوہناں دی اُمید جان دا ساہ سُٹنا ہووےگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bc62d85a8cddea47d71ca00ffc477c64651bc787b67151bcd7378b1207abcd14",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/11\/17-20.1792115676864.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועיני",
+      "gloss": "تے اکھاں"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکاں دیاں"
+    },
+    {
+      "surface": "תכלינה",
+      "gloss": "مک جانگیاں"
+    },
+    {
+      "surface": "ומנוס",
+      "gloss": "تے بھجن دا راستہ"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "مک جاوےگا"
+    },
+    {
+      "surface": "מנהם",
+      "gloss": "اوہناں توں"
+    },
+    {
+      "surface": "ותקותם",
+      "gloss": "تے اوہناں دی اُمید"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "ساہ سُٹنا"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان دا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:54:36.865110303Z",
+  "model": "glm-5.3"
+}

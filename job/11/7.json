@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 11:7",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "mystery",
+      "subject": "ہחקר אלוה",
+      "rationale": "خدا نوں کھوج کے لبھنا ناممکن اے — جان بجھ کے بند دروازے دی گل"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨تُو⟩",
+      "rationale": "عبرانی فعل صیغہ ہی دسدا اے؛ پنجابی سوال وِچ ضمیر وادھو"
+    },
+    {
+      "kind": "invitation",
+      "subject": "دوہرا سوال",
+      "rationale": "سمتر تبدیل نال دو سوال پُچھے گئے نیں"
+    }
+  ],
+  "translation": "کی ایلوہ دی پرکھ کر کے ⟨تُو⟩ لبھ سکیں؟ کی شدّای دی انتہا تک ⟨تُو⟩ لبھ سکیں؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ee13c2c189a8dc22359355045e8953618a04de69ccc54542c572e284d181c291",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/11\/5-8.1792115708239.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "החקר",
+      "gloss": "پرکھ"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ایلوہ"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "لبھ سکیں"
+    },
+    {
+      "surface": "אם",
+      "gloss": "کی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "תכלית",
+      "gloss": "انتہا"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "شدّای"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "لبھ سکیں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:55:08.241128162Z",
+  "model": "glm-5.3"
+}

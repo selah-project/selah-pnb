@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 46:2",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "نفش = جی",
+      "rationale": "נפש گلاں\/سانس\/جیون اے، 'روح' نئیں — 'اُہناں دا جی' اوہدے سبھ توں نیڑے اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "מלט משא",
+      "rationale": "'بوجھ نوں نئیں بچا سکے' — بوجھ مُورتاں نیں یا اوہناں چُکن والیاں دی پوجا؛ کجھ 'بوجھ توں مُکٹ نئیں ہو سکے' پڑھدے نیں"
+    }
+  ],
+  "translation": "اِکٹھے نِڑ گئے، اِکٹھے جُھک گئے؛ بوجھ نوں بچاؤن دا اُہناں توں نئیں سکیا، تے اُہناں دا جی قید وِچ ٹُر گیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "929378757d3c63c681e5ccdedcaeaa2a743f6eac32b856611b017741e34ba79c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/46\/1-4.1792106806563.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרסו",
+      "gloss": "نِڑ گئے"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "جُھک گئے"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "اِکٹھے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "سکیا"
+    },
+    {
+      "surface": "מלט",
+      "gloss": "بچاؤن"
+    },
+    {
+      "surface": "משא",
+      "gloss": "بوجھ"
+    },
+    {
+      "surface": "ונפשם",
+      "gloss": "تے اُہناں دا جی"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "قید وِچ"
+    },
+    {
+      "surface": "הלכה",
+      "gloss": "ٹُر گیا"
+    }
+  ],
+  "timestamp": "2026-10-15T23:26:46.564803615Z",
+  "model": "glm-5.3"
+}

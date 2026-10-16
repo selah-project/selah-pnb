@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 64:2",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לא נקוה",
+      "rationale": "'اسیں اُڈیک نئیں کردے' (KJV) بمقابلہ 'اسیں اُڈیک نئیں سکدے' — عبرانی صیغہ دونواں پاسے کھلھدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נזלו",
+      "rationale": "زَלַל زلزلے\/رینڈھن لئی — ایتھے پگھلن دا窝 picture عام اے"
+    }
+  ],
+  "translation": "جدوں تُوں ڈراؤن والے کم کردا، اسیں اُڈیک نئیں سکدے ⟨سی⟩ — تُوں اُتریا، تیرے اگّوں پہاڑ پگھل گئے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fe4dfc82da3d97c8f4d128d680314a8745bc027acab1784efe46624721794721",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/64\/1-4.1792107070971.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעשותך",
+      "gloss": "جدوں تُوں کردا"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "ڈراؤن والے کم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "نקוה",
+      "gloss": "اُڈیک سکدے ⟨سی⟩"
+    },
+    {
+      "surface": "ירדת",
+      "gloss": "تُوں اُتریا"
+    },
+    {
+      "surface": "مפניך",
+      "gloss": "تیرے اگّوں"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "נזלו",
+      "gloss": "پگھل گئے"
+    }
+  ],
+  "timestamp": "2026-10-15T23:31:10.971914116Z",
+  "model": "glm-5.3"
+}

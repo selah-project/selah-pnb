@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 43:1",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "توں میرا ایں",
+      "rationale": "عبرانی وِچ صرف לי אתה ⟨میرا توں⟩ اے، پنجابی جملے لئی ایں دا وادھو"
+    },
+    {
+      "kind": "you",
+      "subject": "یعقوو تے یِسرائیل",
+      "rationale": "سِدھا مخاطب — یاہوہ آپنے لوکاں نوں آکھدا اے"
+    },
+    {
+      "kind": "invitation",
+      "subject": "نہ ڈر",
+      "rationale": "بندی نوں سدّن والی گل، خوف ناں کرن دا حکم"
+    }
+  ],
+  "translation": "تے ہُن ایہو آکھدا اے یاہوہ، جیہنے تینوں بنایا اے، اے یعقوو، تے جیہنے تینوں گھڑیا اے، اے یِسرائیل: نہ ڈر، کیونجے میں تیرا فدیہ کیتا اے، میں تیرے ناں نال سُڈ لیا اے — توں میرا ایں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "75c3a2509528dd63c405c304ddb61b0e9f530593919ccff20410724249b9bfa3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/43\/1-4.1792106745312.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "تے ہُن"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ایہو"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھدا اے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "בראך",
+      "gloss": "تیں بنایا"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    },
+    {
+      "surface": "ויצרך",
+      "gloss": "تے تینوں گھڑیا"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ڈر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "גאלתיך",
+      "gloss": "میں تیرا فدیہ کیتا اے"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "میں سُڈ لیا"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "تیرے ناں نال"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "توں"
+    }
+  ],
+  "timestamp": "2026-10-15T23:25:45.312732343Z",
+  "model": "glm-5.3"
+}

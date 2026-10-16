@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 16:12",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פרא אדם",
+      "rationale": "'جنگلی کھوتے ورگا بندہ' — جے 'جنگلی بندہ' کہیو تے کھوتے والی شکل مِٹ جاندی اے؛ ترجمے 'wild man' لکھدے نیں، عبرانی 'onager-of-a-man' اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בכל \/ בו",
+      "rationale": "ב字 لیٹرل 'وچ\/ہور' اے؛ 'خلاف' — 'ہتھ کسے وِچ ہونا' دا سیاق دشمنی دسدا اے پر اصلی لیٹرل 'ہتھ ہر اِک وِچ تے ہر اِک دا ہتھ اوہدے وِچ' اے، اوہو وجہ نال KJV نے 'against' لیا"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ידו \/ ויד",
+      "rationale": "ہتھ-نال-ہتھ دی چیآسٹک جوڑی — mirror structure، پنجابی وِچ ایہو آئینہ رکھیا گیا اے"
+    }
+  ],
+  "translation": "تے اوہ جنگلی کھوتے ورگا بندہ ہووےگا، اوہدا ہتھ ہر اِک دے خلاف، تے ہر اِک دا ہتھ اوہدے خلاف، تے اوہ اپنے ساریاں بھراواں دے مونہہ اگے وسے گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d697c83e17a8a50085f6be7eebdddbe18419fc96e1e975979a913746ab4c4ca9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/16\/9-12.1792094977440.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "تے اوہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہووےگا"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "جنگلی کھوتے ورگا"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "اوہدا ہتھ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ہر اِک وِچ"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "تے ہتھ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر اِک دا"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوہدے خلاف"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "تے اگے"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مونہہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساریاں"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "اوہدے بھراواں دے"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "وسے گا"
+    }
+  ],
+  "timestamp": "2026-10-15T20:09:37.441785437Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 45:12",
+  "book": "ezekiel",
+  "lang": "pnb",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "شیکل · گیرہ · منہ",
+      "rationale": "اوزاناں دی گنتی — 20+25+15=60 گیراں اِک منہ"
+    },
+    {
+      "kind": "crux",
+      "subject": "המנה",
+      "rationale": "'منہ' = 60 شیکل (20+25+15)؛ کجھ ترجمے 'مَناہ' لکھدے نیں — حرف-نقل اِکو رہا"
+    },
+    {
+      "kind": "alternative",
+      "subject": "دس تے پنج",
+      "rationale": "JPS 'ten and five' نوں وکھرا رکھدا اے؛ پنجابی وِچ وی 'دس تے پنج' جوڑ کے 15 دا مطلب دیندا اے"
+    }
+  ],
+  "translation": "تے شیکل ویہہ گیراں دا ہووے؛ ویہہ شیکل، پنج تے ویہہ شیکل، دس تے پنج شیکل — منہ تُہاڈے لئی ہووے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "03ac006ed8195ed750984cd3e44b61199d42dc8a1a88cc70cc8d021dc40f9dc8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/45\/9-12.1792110266562.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשקל",
+      "gloss": "تے شیکل"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ویہہ"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "گیراں دا"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ویہہ"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "شیکل"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنج"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "تے ویہہ"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "شیکل"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دس"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "تے پنج"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "شیکل"
+    },
+    {
+      "surface": "המנה",
+      "gloss": "منہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہووے"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تُہاڈے لئی"
+    }
+  ],
+  "timestamp": "2026-10-16T00:24:26.563271877Z",
+  "model": "glm-5.3"
+}

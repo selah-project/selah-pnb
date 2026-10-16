@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 7:24",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "کیتی جا سکدی اے",
+      "rationale": "יעששך שימוש لئی 'کسی وی کم وِچ ورتی جا سکدی اے' — حکم نئیں، اجازت"
+    },
+    {
+      "kind": "substitution",
+      "subject": "پھٹی ہوئی",
+      "rationale": "טרפה — شکاری دا شکار کیتی ہوئی، پھاڑی ہوئی"
+    }
+  ],
+  "translation": "تے آپے مری ہوئی دی چربی تے پھٹی ہوئی دی چربی ہر کم وِچ ورتی جا سکدی اے، پر کھانا — تسیں اوہدے نوں نئیں کھاؤ گے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6997f06ebb6ef0ec98bec4151f42879a9c7b1c0a22eae5e2b34766e261f3d47a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/7\/21-24.1792097420600.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחלב",
+      "gloss": "تے چربی"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "آپے مری ہوئی دی"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "تے چربی"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "پھٹی ہوئی دی"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کیتی جا سکدی اے"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "کم"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "تے کھانا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תאכלהו",
+      "gloss": "تسیں اوہدے نوں کھاؤ گے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:50:20.601771978Z",
+  "model": "glm-5.3"
+}

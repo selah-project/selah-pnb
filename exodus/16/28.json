@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 16:28",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Israel (through Moses)",
+      "rationale": "Rhetorical question aimed at the people's disobedience."
+    },
+    {
+      "kind": "substitution",
+      "subject": "توراتاں",
+      "rationale": "Hebrew plural תורתי 'my Torahs\/instructions' — singular 'law' would lose the plural shape."
+    }
+  ],
+  "translation": "تے یاہوہ نے موشے نوں آکھیا: کدوں تکّ تسیں میرے حکماں نوں تے میریاں توراتاں نوں مانݨ توں انکار کیتا اے؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "63e0ac22b9f58eefaf36e5d10dcb4e2de1e762c12f56a543fee0b4423ffa25b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/16\/25-28.1792096570907.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تکّ"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "کدوں"
+    },
+    {
+      "surface": "מאנתם",
+      "gloss": "انکار کیتا اے تسیں"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "مانݨ توں"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "میرے حکماں نوں"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "تے میریاں توراتاں نوں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:36:10.908706322Z",
+  "model": "glm-5.3"
+}

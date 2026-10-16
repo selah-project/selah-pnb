@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 22:12",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "اِمیلیک کول",
+      "rationale": "شاؤل سدھی گلboot اِمیلیک نال کردا اے — 'سُن، اَے اِخیطوب دے پُتر'۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אדני",
+      "rationale": "ایتھے بندے لئی אے — 'میرے سائیں'، ناں אדونای نئیں کیونجے ٹوکن بندے مالک دا اے۔"
+    }
+  ],
+  "translation": "تے شاؤل نے آکھیا: سُن، اَے اِخیطوب دے پُتر! تے اوہنے آکھیا: میں حاضر آں، میرے سائیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "db24cb0b17f4e24899bc10c1fd29cdb1c5db4bdae090cc71ba83fb18d199f401",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/22\/9-12.1792102808521.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل نے"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سُن"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اَے"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "اِخیطوب"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "میں حاضر آں"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "میرے سائیں"
+    }
+  ],
+  "timestamp": "2026-10-15T22:20:08.522881402Z",
+  "model": "glm-5.3"
+}

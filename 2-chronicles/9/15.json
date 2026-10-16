@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 9:15",
+  "book": "2-chronicles",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "چڑھدا دے نال جوڑ ⟨⟩ وِچ پایا؛ عبرانی יעלہ اے"
+    },
+    {
+      "kind": "elision",
+      "subject": "شیکل",
+      "rationale": "KJV 'شیکل' جوڑدا اے پر عبرانی صرف 'چھ سو سونا' آکھدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "צנה",
+      "gloss": "وڈا ڈھال — מגן (اگلی آیت) چھوٹا ڈھال اے، دوویں نوں 'ڈھال' رکھیا"
+    },
+    {
+      "kind": "measurement",
+      "subject": "چھ سو",
+      "rationale": "اِک ڈھال وِچ سونے دا وزن گݨیا گیا"
+    }
+  ],
+  "translation": "تے بادشاہ شلوموہ نے دو سو ڈھالاں کُٹے سونے دیاں بنایاں — اِک ڈھال اُتے چھ سو کُٹا سونا چڑھدا ⟨سی⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ed74386c79c2606b92095c6a3600b2c60dbc8c86ace6139c53df08e99eb51652",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/9\/13-16.1792121911937.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "تے بنایاں"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ نے"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلوموہ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "دو سو"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "ڈھالاں"
+    },
+    {
+      "surface": "زהב",
+      "gloss": "سونے دیاں"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "کُٹے"
+    },
+    {
+      "surface": "שש",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونا"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "کُٹا"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "چڑھدا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "הצנה",
+      "gloss": "ڈھال"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "اِک"
+    }
+  ],
+  "timestamp": "2026-10-16T03:38:31.938387649Z",
+  "model": "glm-5.3"
+}

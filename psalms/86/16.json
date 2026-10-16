@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 86:16",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 86,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "دعا",
+      "rationale": "ربّ نوں اپنے ول پھرن دا سدا — حالتِ منگدا ہویا فقر"
+    },
+    {
+      "kind": "you",
+      "subject": "یاہوہ (ادونای)",
+      "rationale": "بھکت نوں اپنے ربّ اگے دعا — 'اپنے نوکر'، 'اپنی داسی دا پُتر'"
+    }
+  ],
+  "translation": "میرے ول پھر، تے میرے اُتے مہربانی کر؛ اپنی طاقت اپنے نوکر نوں دے، تے اپنی داسی دے پُتر نوں بچا لے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "28e4508dd72a495706bf46f85e5fe8856fb730f4d487a8579c269f22b6899e6a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/86\/13-16.1792113246345.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "میرے ول پھر"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میرے ول"
+    },
+    {
+      "surface": "וחננی",
+      "gloss": "تے میرے اُتے مہربانی کر"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "دے"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "اپنی طاقت"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "اپنے نوکر نوں"
+    },
+    {
+      "surface": "והושיעה",
+      "gloss": "تے بچا لے"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "پُتر نوں"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "اپنی داسی دے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:14:06.345964033Z",
+  "model": "glm-5.3"
+}

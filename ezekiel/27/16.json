@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 27:16",
+  "book": "ezekiel",
+  "lang": "pnb",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נפך · ראמת · כדכד",
+      "rationale": "رمزاں دے ناں نیں — یاقوت\/زمرد\/مونگا؛ ترجمے اک دوجے توں وکھرے نیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "مَہین کپاہ",
+      "rationale": "בוץ مَہین سن دا کپڑا اے؛ 'کپاہ' قریب ترین پنجابی لفظ"
+    }
+  ],
+  "translation": "اَرام تیرا سودا کرن والا سی، تیرے کمّاں دی بہتاٹ نال — تیرمِن، ارغوانی، کڈھائی دا کم، مَہین کپاہ، مونگا تے یاقوت نال اوہناں تیرے سوداگراں ⟨وِچ⟩ دِتے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1602e6e1c68a13bed739779e9c9f3c4a46e7815ff65de9aedf14ecc2492dfcb5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/27\/13-16.1792109746980.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארם",
+      "gloss": "اَرام"
+    },
+    {
+      "surface": "סחרתך",
+      "gloss": "تیرا سودا کرن والا"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "بہتاٹ"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "تیرے کمّاں دی"
+    },
+    {
+      "surface": "בנפך",
+      "gloss": "تیرمِن"
+    },
+    {
+      "surface": "ארגמן",
+      "gloss": "ارغوانی"
+    },
+    {
+      "surface": "ורקמה",
+      "gloss": "تے کڈھائی دا کم"
+    },
+    {
+      "surface": "ובוץ",
+      "gloss": "تے مَہین کپاہ"
+    },
+    {
+      "surface": "וראמת",
+      "gloss": "تے مونگا"
+    },
+    {
+      "surface": "וכדכד",
+      "gloss": "تے یاقوت"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "دِتے"
+    },
+    {
+      "surface": "בעזבוניך",
+      "gloss": "تیرے سوداگراں ⟨وِچ⟩"
+    }
+  ],
+  "timestamp": "2026-10-16T00:15:46.981809418Z",
+  "model": "glm-5.3"
+}

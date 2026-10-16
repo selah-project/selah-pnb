@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 129:6",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 129,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שלף\/יבש",
+      "rationale": "קדמת–שלף–יבש دی ترتیب: پہلاں پٹیا، فیر سُکیا — گھاہ دی مُڑ جھک دی تصویر"
+    },
+    {
+      "kind": "crux",
+      "subject": "שלף",
+      "rationale": "کجھ مترجم 'پٹیا' لیندے نیں، کجھ 'فٹ پیا' — شاید کجھ نہ ہو کے کھلارے توں اگے نئیں ودھدا"
+    }
+  ],
+  "translation": "اوہ چھتاں دے گھاہ دے وانگوں ہون، جیہڑا اگے ہون توں پہلاں ای سُک جاندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1c343390f858f8d7f7a50f537fd05a66a39f0fb326c675510ec2e78f0b160f5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/129\/5-8.1792114011581.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ہون"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "گھاہ دے وانگوں"
+    },
+    {
+      "surface": "גגות",
+      "gloss": "چھتاں دے"
+    },
+    {
+      "surface": "שקדמת",
+      "gloss": "پہلاں ای"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "اگے ہون توں ⟨پٹیا جاندا⟩"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "سُک جاندا اے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:26:51.582598005Z",
+  "model": "glm-5.3"
+}

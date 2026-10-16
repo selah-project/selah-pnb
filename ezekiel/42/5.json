@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 42:5",
+  "book": "ezekiel",
+  "lang": "pnb",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יוכלו אתיקים",
+      "rationale": "برآمدے «کھا جاندے نیں» — کجھ مترجم «اوچیاں سن» (KJV) لیندے نیں، کجھ «تھاں کھا لیندے» (ASV\/JPS)؛ لفظ اصل وِچ کھان دا ای اے۔"
+    },
+    {
+      "kind": "hapax",
+      "subject": "אתיקים",
+      "rationale": "ایہہ عبرانی لفظ (برآمدہ) تنخ وِچ ایس تھاں دے دوالے ہی آندا اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "وڈیاں نئیں سن",
+      "rationale": "عبرانی وِچ کوئی کریا نئیں، صفت «چھوٹیاں» ای اے؛ پنجابی جملے لئی کریا پایا گیا۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "کمریاں",
+      "rationale": "ہیکل دے ناپ-مہاندرے دا ذکر اے — کمریاں دے طبقے تے اوہناں دا سائز۔"
+    }
+  ],
+  "translation": "تے اُتلیاں کمریاں ⟨وڈیاں نئیں سن⟩، کیونجے برآمدے اوہناں توں، تھلویاں توں تے عمارت دی وچلی توں تھاں کھا جاندے سن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fd938c5922968df263bd710e4a0007e74253d68c8f95eec7451012d2e33eec22",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/42\/5-8.1792110231554.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והלשכות",
+      "gloss": "تے کمریاں"
+    },
+    {
+      "surface": "העליונת",
+      "gloss": "اُتلیاں"
+    },
+    {
+      "surface": "קצרות",
+      "gloss": "چھوٹیاں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "کھا جاندے نیں"
+    },
+    {
+      "surface": "אתיקים",
+      "gloss": "برآمدے"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "اوہناں توں"
+    },
+    {
+      "surface": "מהתחתנות",
+      "gloss": "تھلویاں توں"
+    },
+    {
+      "surface": "ומהתכנות",
+      "gloss": "تے وچلیاں توں"
+    },
+    {
+      "surface": "בנין",
+      "gloss": "عمارت"
+    }
+  ],
+  "timestamp": "2026-10-16T00:23:51.555201905Z",
+  "model": "glm-5.3"
+}

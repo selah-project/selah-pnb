@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 55:18",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "دوپהر",
+      "rationale": "צהרים دو-روشنیاں دی_dual اے، دوپہر دا وقت؛ پنجابی وِچ dual دا نشان نئیں رہندا"
+    },
+    {
+      "kind": "crux",
+      "subject": "سوچ-گل کراں گا",
+      "rationale": "אשיחה: آپ نال سوچنا\/گل کرنا وڈی آواز نال — 'شکایت کرنا' (جے پی ایس) وڈی 'سوچنا\/دعا کرنا' (کے جے وی) توں وکھرا"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "شام، سویر، دوپہر",
+      "rationale": "دن دے تن پہر تری جگہ نال گنتی — دعا دی مسلسل تھاپ (measurement-like structure)"
+    }
+  ],
+  "translation": "شام تے سویر تے دوپہر میں سوچ-گل کراں گا تے ہمبنّاں گا، تے اوہنے میری آواز سنی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "03089fa690ceb4cc390aed7e37234b2d852d3d45d6ac9677d04381b2078298d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/55\/18-19.1792124234215.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "شام"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "تے سویر"
+    },
+    {
+      "surface": "וצהרים",
+      "gloss": "تے دوپہر"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "سوچ-گل کراں گا"
+    },
+    {
+      "surface": "ואהמה",
+      "gloss": "تے ہمبنّاں گا"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "تے اوہنے سنی"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "میری آواز"
+    }
+  ],
+  "timestamp": "2026-10-16T04:17:14.215619022Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נשך\/ישך",
+      "rationale": "جِڑ ن-ש-ک دا مُڈھ 'ڈسنا' اے (سپ دی طرحاں) — سُود دا 'ڈنگ' مارنا؛ ایہہ تصویر پنجابی وِچ گھٹ آؤندی اے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "לאחיך",
+      "rationale": "'بھرا' صرف خونی بھرا نئیں، ساتھی یِسرائیلی لئی وی — سیاق دسدا اے"
+    }
+  ],
+  "translation": "توں اپنے بھرا توں سُود نہ لے — چاندی دا سُود، خوراک دا سُود، ہر اُس شے دا سُود جِدھ اُتے سُود لایا جاندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8ac3bfe57f0b09c99368d3a7c4161c724ac812c888c238453895bacf5030b7ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/23\/17-20.1792100347201.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "سُود لے"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "اپنے بھرا توں"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "سُود"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندی دا"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "سُود"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "خوراک دا"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "سُود"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "شے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "سُود اُتے لایا جاندا اے"
+    }
+  ],
+  "timestamp": "2026-10-15T21:39:07.202665881Z",
+  "model": "glm-5.3"
+}

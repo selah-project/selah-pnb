@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 23:21",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תמר",
+      "rationale": "جڑ مرر 'کڑوا ہونا' اے؛ اتھے 'بغاوت کرنا\/اُبڑنا' — ترجمے 'provoke' توں لے کے 'rebel' تک ونڈے ہوئے نیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ישא",
+      "rationale": "لفظی 'چُکّے گا\/اٹھاوے گا'؛ 'بخشے گا' مترو دا کم اے"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "حکم سِدھا اِسرائیل نوں"
+    }
+  ],
+  "translation": "اوہدے اگے توں چوکنا رہو، تے اوہدی آواز سُنو، اوہدے نال بغاوت نہ کرو، کیونکہ اوہ تواڈی بغاوت نہیں بخشے گا، کیونکہ میرا ناں اوہدے وِچ ⟨اے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0e279b83c6bba92dabf686a74c77df624b4a62719e10b96c4cbead53d34d7d28",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/23\/21-24.1792096758229.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "چوکنا رہو"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "اوہدے اگے توں"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "تے سُنو"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "اوہدی آواز"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "بغاوت کرو"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوہدے نال"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "بخشے گا"
+    },
+    {
+      "surface": "לפשעכם",
+      "gloss": "تواڈی بغاوت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "میرا ناں"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "اوہدے وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T20:39:18.229649170Z",
+  "model": "glm-5.3"
+}

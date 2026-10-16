@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 13:1",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לאמר",
+      "rationale": "לאמר دا مطلب 'آکھدا ہویا' — پنجابی وِچ ਆکھیا نال رَل کے بھاری لگدا، ایس لئی جملے وِچ وکھرا نئیں آیا"
+    }
+  ],
+  "translation": "تے یاہوہ نے موشے نال آکھیا:",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8cfaa083276e493d83eaeef57f6f56548a84ff7ef53d067ae85b75ae855d5efc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/13\/1-4.1792096482986.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھدا ہویا"
+    }
+  ],
+  "timestamp": "2026-10-15T20:34:42.986994427Z",
+  "model": "glm-5.3"
+}

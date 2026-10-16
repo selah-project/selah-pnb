@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 1:8",
+  "book": "hosea",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ותגמל",
+      "rationale": "ਜੜ ਗמל ‘بدلہ دینا\/ نبھاؤنا’ اے، سیاق وِچ دُدھ چھڈّانا — مادی تصویر کھوہج گئی"
+    }
+  ],
+  "translation": "تے لُو-رُخامہ ⟨את⟩ دُدھ چھڈّایا، تے اوہ رچی تے پتر جنی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0815d649f9d8b549fc7f21c384dc54e6dd985d4fc56ed2d2e23f2328c3713344",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/hosea\/1\/5-8.1792110519267.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותגמל",
+      "gloss": "تے دُدھ چھڈّایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لُو-رُخامہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لُو"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "רُخامہ"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "تے اوہ رچی"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "تے جنی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پتر"
+    }
+  ],
+  "timestamp": "2026-10-16T00:28:39.268237913Z",
+  "model": "glm-5.3"
+}

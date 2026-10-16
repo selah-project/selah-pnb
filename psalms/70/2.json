@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 70:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 70,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "جلدی کر",
+      "rationale": "عبرانی فعل توں پہلاں انتظار دا مطلب صاف کرن لئی اِک واری پنجابی جملہ منگدا سی"
+    },
+    {
+      "kind": "invitation",
+      "subject": "دعا",
+      "rationale": "ایلوہیم تے یاہوہ دوویں نوں سدّیا گیا اے — چنگی ترں ہتھَ پھیلائی ہوئی بینت"
+    }
+  ],
+  "translation": "ایلوہیم، مینوں چھڑاؤن لئی ⟨جلدی کر⟩؛ یاہوہ، میری مدد لئی، جلدی کر!",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7460f835e149b447375fa1fedeeda630ef165f4394ff2d5a21b9823cfa1060d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/70\/1-4.1792112918210.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "مینوں چھڑاؤن لئی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "میری مدد لئی"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "جلدی کر"
+    }
+  ],
+  "timestamp": "2026-10-16T01:08:38.210999918Z",
+  "model": "glm-5.3"
+}

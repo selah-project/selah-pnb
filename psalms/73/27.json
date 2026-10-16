@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 73:27",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "زنا کرن والا",
+      "rationale": "זונה دی صورت مادہ اے (زنا کرن والی)، پر ایتھے عام صفت وجوں سب تے لاگو اے، جیویں ہوشع دی بولی وِچ غیر وفاداری"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רחקיך \/ ממך",
+      "rationale": "دوری تے 'توں باہر' دا الٹ و28 دی نیڑتا نال جُڑدا اے — دور\/نیڑے دی چیآسمک بنتر"
+    }
+  ],
+  "translation": "کیونکہ دیکھو، تیرے توں دور ⟨رہن والے⟩ برباد ہون گے؛ تو نے ہر اس ⟨نوں⟩ مٹا دتا جیہڑا تیرے توں زنا کر کے ⟨بھجدا⟩ اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2cc8df8a4d01344a5592ca92d78a3473980c6b99e83385ee6a12ee5b76933da1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/73\/25-28.1792112978616.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "دیکھو"
+    },
+    {
+      "surface": "רחקיך",
+      "gloss": "تیرے توں دور ⟨رہن والے⟩"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "برباد ہون گے"
+    },
+    {
+      "surface": "הצמתה",
+      "gloss": "تو نے مٹا دتا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "زنا کرن والا"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "تیرے توں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:09:38.617737318Z",
+  "model": "glm-5.3"
+}

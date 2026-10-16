@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "lamentations 3:63",
+  "book": "lamentations",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨توں⟩",
+      "rationale": "הביטہ اِمراطی حالت اے پر مخاطب دا ضمیر عبرانی وِچ وکھرا نئیں لکھیا"
+    },
+    {
+      "kind": "crux",
+      "subject": "הביטה",
+      "rationale": "'ویکھ لے (یاہوہ)' ولا 'ویکھو مینوں' — ترجمیاں وِچ پئی ونڈ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "گیت",
+      "rationale": "مנگینہ ٹھیک 'ٹھٹھا-گیت\/مذاق دا گیت' اے — 'ساتیر' دی جھلک اِتھے گیت وِچ رکھی"
+    }
+  ],
+  "translation": "اوہناں دا بیٹھݨاں تے اوہناں دا اُٹھݨاں — ویکھ لے ⟨توں⟩؛ اَناں اوہناں دا گیت ہاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "71845a8ee47625ddf7d7bc2a96f7fcbfe3a2a3ac838205cf648a7d76b0e0f83e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/lamentations\/3\/62-63.1792124303099.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבתם",
+      "gloss": "اوہناں دا بیٹھݨاں"
+    },
+    {
+      "surface": "וקימתם",
+      "gloss": "تے اوہناں دا اُٹھݨاں"
+    },
+    {
+      "surface": "הביטה",
+      "gloss": "ویکھ لے"
+    },
+    {
+      "surface": "אני",
+      "gloss": "اَناں"
+    },
+    {
+      "surface": "מנגינתם",
+      "gloss": "اوہناں دا گیت ہاں"
+    }
+  ],
+  "timestamp": "2026-10-16T04:18:23.099982905Z",
+  "model": "glm-5.3"
+}

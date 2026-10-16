@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 94:19",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "مگدھ کیتا",
+      "rationale": "ישעשעو دی جھول 'پیار نال پالنے\/خوش کرنے' دا اے، دو حرفاں دی تکرار (שׁעשׁע) نال"
+    }
+  ],
+  "translation": "میرے اندر دے کجھیواں سوچاں دے بوہتے ہون وِچ تیریاں تسکّاں نے میری جان نوں مگدھ کیتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2cc28e4c47c64080aef18a956129cbdd10e3b0989220dd5dc66fac0218a1dff5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/94\/17-20.1792113352573.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "بوہتے ہون وِچ"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "میرے اندر دے کجھیواں سوچاں دے"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "⟨میرے وِچ⟩"
+    },
+    {
+      "surface": "תנחומיך",
+      "gloss": "تیریاں تسکّاں نے"
+    },
+    {
+      "surface": "ישעשעו",
+      "gloss": "مگدھ کیتا"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میری جان نوں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:15:52.574591172Z",
+  "model": "glm-5.3"
+}

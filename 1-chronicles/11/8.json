@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 11:8",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "המלוא (میلو)",
+      "rationale": "میلو ناں\/بھری ہوئی ڈھالوان — کجھ مترجم ‘ٹیکاں والی چڑھائی’ کردے نیں، کجھ ناں رکھدے نیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ازسرنو آباد کیتا",
+      "rationale": "יחיה کریا ‘جیوِت کرنا’ — ‘مُرمت کیتی’ (kجوی) توں وکھرا، ‘جیوا دِتا’ دا پہلو"
+    }
+  ],
+  "translation": "تے اُس نے شہر نوں چاروں پاسے بنایا، میلو توں لے کے چاروں پاسے تک؛ تے یوآب نے ⟨את⟩ باقی شہر نوں ازسرنو آباد کیتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bf42fe82564cd90bb7094ae0b6525e82e59150da7fd1cb154340ca67bd9ca598",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/11\/5-8.1792120536900.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "بنایا"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر نوں"
+    },
+    {
+      "surface": "مסביב",
+      "gloss": "چاروں پاسے"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "میلو"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "لے کے"
+    },
+    {
+      "surface": "הסביב",
+      "gloss": "چاروں پاسے تک"
+    },
+    {
+      "surface": "ויואב",
+      "gloss": "یوآب نے"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "ازسرنو آباد کیتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "باقی شہر"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "باقی"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر"
+    }
+  ],
+  "timestamp": "2026-10-16T03:15:36.901319068Z",
+  "model": "glm-5.3"
+}

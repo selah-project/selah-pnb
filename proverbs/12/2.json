@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 12:2",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوہ",
+      "rationale": "عبرانی وِچ سنگین کرن والا فاعل گوپھے ہوئے اے — یاہوہ یا بندہ آپ، پنجابی جملے لئی ⟨اوہ⟩ پایا گیا"
+    },
+    {
+      "kind": "crux",
+      "subject": "יפיק",
+      "rationale": "'باہر کڈھدا اے \/ حاصل کردا اے' — وتھّ اے: نیک بندہ پسند کماوندا اے، یا اوہدے وِچوں پسند جھلدی اے"
+    }
+  ],
+  "translation": "نیک بندہ یاہوہ توں پسند حاصل کردا اے، پر شریر منصوبیاں والا بندہ ⟨اوہ⟩ سنگین کرے گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0638d996d48731068fb7026737d18735acaf4c13abd6173197b0aa539974cd24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/12\/1-4.1792114647374.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ٹוב",
+      "gloss": "نیک بندہ"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "حاصل کردا اے"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "پسند"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "یاہوہ توں"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "پر بندہ"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "منصوبیاں والا"
+    },
+    {
+      "surface": "ירשיע",
+      "gloss": "سنگین کرے گا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:37:27.375495010Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 14:22",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جان-زہر اے، صرف 'روح' نئیں — پنجابی 'جان' اوہدے نیڑے اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עליו ... עליו",
+      "rationale": "دوویں واری اوہو حرف اے — ماس تے جان دوویں 'اودے اُتے' ہی درد تے سوگ کردے نیں، چیاستک ڈھانچہ"
+    }
+  ],
+  "translation": "صرف اودا ماس اودے اُتے درد کردا اے، تے اودی جان اودے اُتے سوگ کردی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "cf682905fee3686303fa0274f3e2ee71c180ed8eb1cabeb3a66987efd156636f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/14\/21-22.1792115747182.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "صرف"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "اودا ماس"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اودے اُتے"
+    },
+    {
+      "surface": "יכאב",
+      "gloss": "درد کردا اے"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "تے اودی جان"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اودے اُتے"
+    },
+    {
+      "surface": "תאבל",
+      "gloss": "سوگ کردی اے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:55:47.182764338Z",
+  "model": "glm-5.3"
+}

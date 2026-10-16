@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 15:30",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Samuel",
+      "rationale": "شاؤل شموایل نوں مخاطب اے، بڑے گڑگڑا کے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "כבדני",
+      "rationale": "لفظی ‘مینوں بھاری کر’ — ‘مینوں تیجا دو’ عام پنجابی وچ اوہو مانگ اے۔"
+    },
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "گڑگڑاوٹ دا ذرہ، پنجابی وچ ‘من٘ا’ نال ہلکا جیآ رکھیا۔"
+    }
+  ],
+  "translation": "تے اوہنے آکھیا: میں پاپ کیتا اے؛ ہن مینوں تیجا دو، میری قوم دے بزرگیاں اگے تے یِسرائیل اگے، تے میرے نال مُڑ آ، تے میں تیرے ایلوہیم یاہوہ نوں سجدہ کراں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3f18b0421dd3e0ed1bb12f5cd1505c7683195b2685a70c11b338d4a6e86b90ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/15\/29-32.1792102550400.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے اوہنے آکھیا"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "میں پاپ کیتا اے"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ہن"
+    },
+    {
+      "surface": "כבדני",
+      "gloss": "مینوں تیجا دو"
+    },
+    {
+      "surface": "נא",
+      "gloss": "من٘ا"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "اگے"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "بزرگیاں"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "میری قوم دے"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "تے اگے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "تے مُڑ آ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "میرے نال"
+    },
+    {
+      "surface": "והשתחויתי",
+      "gloss": "تے میں سجدہ کراں"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ نوں"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تیرے ایلوہیم"
+    }
+  ],
+  "timestamp": "2026-10-15T22:15:50.401155924Z",
+  "model": "glm-5.3"
+}

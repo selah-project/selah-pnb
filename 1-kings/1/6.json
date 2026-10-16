@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 1:6",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עצבו",
+      "rationale": "مول 'تراشنا\/گھڑنا' اے، ایتھے 'دُکھ دینا\/سِرکھنا' — مترجم 'سِرکھیا نئیں' وی رکھ سکدے نیں۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨اوہدی ماں نے⟩",
+      "rationale": "یَلَدَہ ایہو جہی صاف عورت اے پر پنجابی پڑوسی منگدا اے، عبرانی وِچ 'اوہنوں جنیا' دا کارجا دسیا نئیں۔"
+    }
+  ],
+  "translation": "تے اوہدے پیو نے اوہدے سارے دِناں وِچ اوہنوں کدے دُکھ نئیں دتا، آکھدا: تُوں ایویں کیوں کیتا؟ تے اوہ شکل وِچ بہت چنگا سی، تے اوہدے نال ⟨אתו⟩ ⟨اوہدی ماں نے⟩ اَبشالوم توں بعد جنیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "125f51d37982b445ba9b65e316efa7f3b9cace9beb9bf84d25d2aa20ad1723a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/1\/5-8.1792103913184.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "עצבו",
+      "gloss": "دُکھ دتا"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "اوہدے پیو نے"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "اوہدے سارے دِناں وِچ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھدا"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "ایویں"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "کیتا اے"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "تے اوہ وی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگا"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "شکل وِچ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بہت"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "اوہنوں"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "جنیا"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "توں بعد"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "اَبشالوم"
+    }
+  ],
+  "timestamp": "2026-10-15T22:38:33.184793992Z",
+  "model": "glm-5.3"
+}

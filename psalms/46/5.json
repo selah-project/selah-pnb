@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 46:5",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "تھاں",
+      "rationale": "عبرانی اسم صفت نیں — 'مسکناں دا پوتر'؛ پنجابی نوں اسم 'تھاں' چاہیدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "مسکن",
+      "rationale": "مِشکن Tier-2 لفظ اے، حرف-نقل رکھیا گیا، 'ڈیرا' نئیں"
+    }
+  ],
+  "translation": "نهر، اوہدے دھارے ایلوہیم دے شہر نوں خوش کردے نیں — عِلیون دیاں مسکناں دا پوتر ⟨تھاں⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "cb68144b53611ae5fffcd48d5663c80d179f8bc221b6909b7282ed527f016b73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/46\/5-8.1792112564708.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נהר",
+      "gloss": "نهر"
+    },
+    {
+      "surface": "פלגיו",
+      "gloss": "اوہدے دھارے"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "خوش کردے نیں"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم دے"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پوتر"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "مسکناں"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "عِلیون دیاں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:02:44.709139156Z",
+  "model": "glm-5.3"
+}

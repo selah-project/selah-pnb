@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 21:13",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "جیہڑا",
+      "rationale": "عبرانی فعل دی سوگند والی صورت نوں پنجابی لوڑدا اے — فاعل دی صفت بݨانا پیا۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "غریب",
+      "rationale": "דל دا مول مطلب لٹکدا\/دُبلا؛ 'غریب' رواجی معنی اے۔"
+    }
+  ],
+  "translation": "جیہڑا غریب دی چیک توں اپنی کن بند کردا اے، اوہ وی پکاریگا تے اُتا نہ جواب ملیگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "595f9d1f5eb61752745a8e1002f1ca541d2571cd0cf7d31fe1fa5c4c53caa88b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/21\/13-16.1792114868987.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אטם",
+      "gloss": "بند کردا اے"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "اپنی کن"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "چیک توں"
+    },
+    {
+      "surface": "דל",
+      "gloss": "غریب دی"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "پکاریگا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "جواب ملیگا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:41:08.988228350Z",
+  "model": "glm-5.3"
+}

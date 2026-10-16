@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 69:35",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "רמש",
+      "rationale": "رمش دا مول مطلب پھسلی جانا اے — پنجابی وچ ریندا تے سارا دو لفظاں نال رکھیا گیا (سارا اوہ کجھ جیہڑا ریندا اے)۔"
+    }
+  ],
+  "translation": "اسمان تے دھرتی اوہدے جس کریں، سمندر تے جو کجھ اوہناں وِچ ریندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f4a1fcc1a26e80e6d0d6aebf86c37e871c5fc58cf0cfb0cef3a7c04632bdae8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/69\/33-36.1792112856335.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהללוהו",
+      "gloss": "اوہدے جس کریں"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "اسمان"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "تے دھرتی"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سارا"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "ریندا"
+    },
+    {
+      "surface": "בם",
+      "gloss": "اوہناں وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:07:36.336587638Z",
+  "model": "glm-5.3"
+}

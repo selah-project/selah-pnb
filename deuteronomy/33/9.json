@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 33:9",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "میں",
+      "rationale": "عبرانی وِچ فعل دا کردار لکھیا نئیں، پنجابی جملہ منگدا اے"
+    }
+  ],
+  "translation": "جیہڑا اپنے پیو تے اپنی ماں نوں آکھدا اے: میں اوہنوں نہیں ویکھیا؛ تے ⟨את⟩ اپنے بھرا نوں نہ پچھانیا، تے ⟨את⟩ اپنے پتراں نوں نہ جاندا — کیوں جو اوہناں تیری گل رکھی، تے تیرے عہد دی نگرانی کرنگے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "77d40ea29f102d9d8aff5a4584383bf911f798bf42e0cebab41778bb53c3cc1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/33\/9-12.1792100518713.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "آکھدا اے"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "اپنے پیو نوں"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "تے اپنی ماں نوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "میں اوہنوں ویکھیا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اپنے بھرا"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "اپنے بھرا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "پچھانیا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اپنے پتراں"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اپنے پتراں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "جاندا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "رکھی"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "تیری گل"
+    },
+    {
+      "surface": "ובריתך",
+      "gloss": "تے تیرے عہد"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "نگرانی کرنگے"
+    }
+  ],
+  "timestamp": "2026-10-15T21:41:58.714589175Z",
+  "model": "glm-5.3"
+}

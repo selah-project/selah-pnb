@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 4:22",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "سردار",
+      "rationale": "נשיא اُچا تھاں والا، قبیلے دا مکھیا؛ 'بادشاہ' یا 'امیر' تنگ کردا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "תעשינה",
+      "rationale": "فعل مونث جمع اے جدکہ 'سردار' مذکر — 'جیہڑیاں نئیں کیتیاں جان چاہیدیاں' دا بعد دا حصہ ایتھے لُکا اے"
+    }
+  ],
+  "translation": "جد ⟨سردار⟩ گُناہ کرے تے یاہوہ اوہدے ایلوہیم دیاں ساریاں حکماں وِچوں اِک ایسا کم کرے جیہڑا نئیں کیتا جانا چاہیدا، بھُل نال، تے اوہ مجرم ہو جاوے،",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3161e76fed3a25b4673720503f0a31efeb141e55372c3b8ecd2ef313466916d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/4\/21-24.1792097451262.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "جد ⟨کہ⟩"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "گُناہ کرے"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "تے کرے"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "اِک"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ساریاں وِچوں"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "حکماں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "اوہدے ایلوہیم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תעשינה",
+      "gloss": "کیتی جانی چاہیدی"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "بھُل نال"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "تے مجرم ہووے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:50:51.263683581Z",
+  "model": "glm-5.3"
+}

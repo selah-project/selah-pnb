@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 33:1",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "ایوب",
+      "rationale": "الیہو ایوب نوں سدّے بولدا اے۔"
+    },
+    {
+      "kind": "invitation",
+      "subject": "سُن … کَنّاں نال سُن",
+      "rationale": "دو واری سُنن دا حکم، سُننوں ول کھچدا اے۔"
+    }
+  ],
+  "translation": "تے فیر، اے ایوب، میری گل سُن، ہن، تے میرے سارے بچے کَنّاں نال سُن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c95f0e869cbb0b60370b3167500d79a829f2ac3535c5bf511a253f5553f34934",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/33\/1-4.1792116285761.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "تے فیر"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سُن"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ہن"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "اے ایوب"
+    },
+    {
+      "surface": "מלי",
+      "gloss": "میری گل"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سارے"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "میرے بچے"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "کَنّاں نال سُن"
+    }
+  ],
+  "timestamp": "2026-10-16T02:04:45.762319297Z",
+  "model": "glm-5.3"
+}

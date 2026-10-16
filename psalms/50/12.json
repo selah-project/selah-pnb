@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "תבל",
+      "rationale": "תבل «بسے ہوئے علاقے\/دھرتی» لئی اے — «دنیا» ہلکا وادھا اے پر جائز۔"
+    }
+  ],
+  "translation": "جے میں بھکھا ہواں تاں تینوں نئیں آکھواں گا، کیونکہ دنیا تے اوہدا سارا بھر میرا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d77fd03860119589c1943f3bab0ac4f0aff142a3d3b27d6235dae13d87fd5c06",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/50\/9-12.1792112530712.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "بھکھا ہواں"
+    },
+    {
+      "surface": "لא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھواں گا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تینوں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرا اے"
+    },
+    {
+      "surface": "תבل",
+      "gloss": "دنیا"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "تے اوہدا سارا بھر"
+    }
+  ],
+  "timestamp": "2026-10-16T01:02:10.713940127Z",
+  "model": "glm-5.3"
+}

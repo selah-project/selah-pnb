@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 15:3",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "گناہاں وِچ ٹُریا",
+      "rationale": "עשה\/וילך 'ٹُریا' — عبرانی وِچ جیون نوں ٹُرن آکھیا جاندا اے؛ پنجابی وِچ ایہو محاورا رکھیا۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "پورا سی",
+      "rationale": "موازنہ مکمل کرن لئی آخری کریا عبرانی نے چھڈی — پنجابی لئی پایا گیا۔"
+    }
+  ],
+  "translation": "تے اوہ اوہناں ساریاں گناہاں وِچ ٹُریا جیہڑیاں اوہدے پیو نے اوہدے اگے کیتیاں؛ تے اوہدا دل یاہوہ اوہدے ایلوہیم نال پورا نئیں سی، جِویں داوِد اوہدے پیو دا دل ⟨پورا سی⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c0f4239ded6e08c0e1169d925b23011f5dee3cf3e75656d8b60d0865aa02fa4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/15\/1-4.1792104627308.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "تے اوہ ٹُریا"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ساریاں…وِچ"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "گناہاں"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "اوہدے پیو دِیاں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑیاں"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کیتیاں"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "اوہدے اگے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "היה",
+      "gloss": "سی"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "اوہدا دل"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "پورا"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "اوہدے ایلوہیم"
+    },
+    {
+      "surface": "כלבב",
+      "gloss": "جِویں…دل"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "اوہدے پیو دا"
+    }
+  ],
+  "timestamp": "2026-10-15T22:50:27.309645078Z",
+  "model": "glm-5.3"
+}

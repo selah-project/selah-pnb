@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 11:18",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوہنوں ملدا اے",
+      "rationale": "عبرانی دوجی سطر وچ کوئی کریا نئیں رکھدا؛ پنجابی جملے لئی پایا گیا"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פעלת\/שכר",
+      "rationale": "اجرت دا جوڑا — جھوٹی اجرت بمقابلہ سچا اجر — پنجابی وِچ وی قائم رکھیا"
+    }
+  ],
+  "translation": "بدکار جھوٹی اجرت کماؤندا اے، تے جیہڑا نیائی بیجدادا اے ⟨اوہنوں⟩ سچا اجر ملدا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e7f1dabe9583a0dd9bff57175df541ac91dc0defd0875cd49ed04434823b423a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/11\/17-20.1792114644882.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کماؤندا اے"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "اجرت"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "جھوٹی"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "تے بیجن والے نوں"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "نیائی"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "اجر"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "سچا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:37:24.882766009Z",
+  "model": "glm-5.3"
+}

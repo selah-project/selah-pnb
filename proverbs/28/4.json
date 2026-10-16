@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 28:4",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עזבי\/שמרי · תורה...תורה",
+      "rationale": "اتر-جواب ڈھانچہ: چھڈن والے بمقابلہ رکھن والے، تورات دو واری دہرائی"
+    },
+    {
+      "kind": "alternative",
+      "subject": "יתגרו בם",
+      "rationale": "گرہ دی جڑ 'رگڑنا' — 'اوہناں نال ٹکر لیندے نیں' وی جائز اے"
+    }
+  ],
+  "translation": "تورات چھڈن والے رشّا دی تعریف کردے نیں، تے تورات رکھن والے اوہناں نال بھڑدے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a49d9b8dd375166ba991265ed90be0df1b9dd7933bae2fe48159e16a03f3a74a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/28\/1-4.1792115238999.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזבי",
+      "gloss": "چھڈن والے"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "تورات"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "تعریف کردے نیں"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "رشّا (دی)"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "تے رکھن والے"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "تورات"
+    },
+    {
+      "surface": "יתגרו",
+      "gloss": "بھڑدے نیں"
+    },
+    {
+      "surface": "בם",
+      "gloss": "اوہناں نال"
+    }
+  ],
+  "timestamp": "2026-10-16T01:47:19.000530275Z",
+  "model": "glm-5.3"
+}

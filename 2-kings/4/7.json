@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 4:7",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "تیل",
+      "rationale": "בנותر 'باقی توں' — باقی دا کیہ اے، عبرانی نے نئیں لکھیا؛ پنجابی لئی ⟨تیل⟩ پُرا"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ושלמי",
+      "rationale": "'اتار' (قرضہ) دے تھاں 'چُکا' وی ٹھیک — مُول 'پورا کرنا\/سلامت کرنا' اے"
+    }
+  ],
+  "translation": "تے اوہ آئی تے ایلوہیم دے بندے نوں دسیا، تے اوہنے آکھیا: جا، ⟨את⟩ تیل ویچ، تے ⟨את⟩ آپݨے قرضے اتار، تے تُو تے تیرے پتر باقی ⟨تیل⟩ توں جیو۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a9875895850787948e4fff4dee935780dbeec79ea2090b817e82492499e979d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/4\/5-8.1792105029067.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "تے اوہ آئی"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "تے دسیا"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "بندے نوں"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ایلوہیم (دا)"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے اوہنے آکھیا"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "جا"
+    },
+    {
+      "surface": "מכרי",
+      "gloss": "ویچ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تیل"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "تیل"
+    },
+    {
+      "surface": "ושלמי",
+      "gloss": "تے اتار"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آپݨے قرضے"
+    },
+    {
+      "surface": "נשיכי",
+      "gloss": "آپݨے قرضے"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے تُو"
+    },
+    {
+      "surface": "בניכי",
+      "gloss": "تیرے پتر"
+    },
+    {
+      "surface": "תחיי",
+      "gloss": "جیو"
+    },
+    {
+      "surface": "בנותר",
+      "gloss": "باقی توں"
+    }
+  ],
+  "timestamp": "2026-10-15T22:57:09.068683272Z",
+  "model": "glm-5.3"
+}

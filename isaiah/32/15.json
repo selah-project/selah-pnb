@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 32:15",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מדבר\/כרמל\/יער",
+      "rationale": "واپسی دی سلسلہ: بندر → فروٹ والی زمین، فروٹ والی زمین → جنگل — ابھیاس دے نال وٹاندرا، پنجابی وِچ لفظی کھیرو نئیں رہندا۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "רוח",
+      "rationale": "روح\/ہوا\/ساہ — اکو عبرانی لفظ، ٹھیک نئیں کیتا۔"
+    }
+  ],
+  "translation": "توڑے ساڈے اُتے اُچیاں توں روح ڈھالی جاوے، تے بندر ⟨فروٹ والی زمین⟩ بن جاوے، تے فروٹ والی زمین جنگل گِنی جاوے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "54a4ee93ff5d9edc23a90bf916d9c00ba12541e2f3e4a68dd9dc01f389597b7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/32\/13-16.1792106376335.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "توڑے"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "ڈھالی جاوے"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ساڈے اُتے"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح ⟨ہوا⟩"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "اُچیاں توں"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "تے بن جاوے"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "بندر"
+    },
+    {
+      "surface": "לכרמل",
+      "gloss": "فروٹ والی زمین"
+    },
+    {
+      "surface": "וכרמل",
+      "gloss": "تے فروٹ والی زمین"
+    },
+    {
+      "surface": "ליער",
+      "gloss": "جنگل"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "گِنی جاوے"
+    }
+  ],
+  "timestamp": "2026-10-15T23:19:36.336917124Z",
+  "model": "glm-5.3"
+}

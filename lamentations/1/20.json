@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 1:20",
+  "book": "lamentations",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to یاہوہ",
+      "rationale": "زخناماہ سِدھا یاہوہ نوں پکاریا جاندا اے: “ویکھ، یاہوہ”۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מרו מריתי",
+      "rationale": "اکو جڑ מ-ר-ہ دو واری: کڑواہٹ تے سرکشی دوویں چھپے نیں؛ پنجابی وِچ صرف سرکشی رہِ گئی۔"
+    },
+    {
+      "kind": "hapax",
+      "subject": "חמרמרו",
+      "rationale": "اُبلن دی دوہری شکل (پؤنل) تنخ وِچ صرف ایتھے آئی اے۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "חוצה\/בבית",
+      "rationale": "“باہروں تلوار، گھر وِچ موت” — ایہناں دا مطلب قیدیاں دی موت یا قحط، مترجم متفقات نیں۔"
+    }
+  ],
+  "translation": "ویکھ، یاہوہ، کیونکہ مینوں تنگ آں؛ میرے اندر دے انگ اُبل رہے نیں؛ میرا دل میرے وِچ پُٹھا ہو گیا اے، کیونکہ میں نے بڑی سرکشی کیتی اے؛ باہروں تلوار وننجاواندی اے، گھر وِچ اِوے موت وگی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "94dc03657c5d047c8eed35ef1a1d0a5ba2dbd1a3e7cd7bfc4d32738c4b672e3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/lamentations\/1\/20-20.1792124270938.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "ویکھ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "تنگ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مینوں"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "اندر دے انگ"
+    },
+    {
+      "surface": "חמרמרו",
+      "gloss": "اُبل رہے نیں"
+    },
+    {
+      "surface": "نהפך",
+      "gloss": "پُٹھا ہو گیا"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "میرا دل"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "میرے وِچ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "سرکشی"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "میں نے کیتی"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "باہروں"
+    },
+    {
+      "surface": "שכלה",
+      "gloss": "وننجاواندی اے"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "تلوار"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "گھر وِچ"
+    },
+    {
+      "surface": "כמות",
+      "gloss": "اِوے موت وگی"
+    }
+  ],
+  "timestamp": "2026-10-16T04:17:50.938718681Z",
+  "model": "glm-5.3"
+}

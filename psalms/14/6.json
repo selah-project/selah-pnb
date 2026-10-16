@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 14:6",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תבישו",
+      "rationale": "بوش دا متعدد: 'شرم وِچ پاؤنا' جاں یلت دے مطابق 'بدبودار کرنا' — ترجمے 'لوتھر' تے 'جلائل' وی لکھدے نیں"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨اے⟩",
+      "rationale": "فعل دی پیشی دا نشان، عبرانی وِچ صیغہ ای دسدا اے"
+    }
+  ],
+  "translation": "تُساں غریب دی صلاح نوں شرم وِچ پا دتا ⟨اے⟩، کیونکہ یاہوہ اوہدا پناہ اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "89dffb7fa07d7843d987d6eb0864d529d8029060358ba5764b434165b0ed1d8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/14\/5-7.1792111929522.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עֲצַת",
+      "gloss": "…دی صلاح نوں"
+    },
+    {
+      "surface": "עָנִי",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "תָבִישׁוּ",
+      "gloss": "شرم وِچ پا دتا"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "מַחְסֵהוּ",
+      "gloss": "اوہدا پناہ"
+    }
+  ],
+  "timestamp": "2026-10-16T00:52:09.523711943Z",
+  "model": "glm-5.3"
+}

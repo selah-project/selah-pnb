@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 13:18",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אלני ממרא",
+      "rationale": "بَیر\/بلوط (tree sense) بمقابلہ 'میدان' — KJV 'plain' غلط اے، درختاں داڑا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויאהל",
+      "gloss-note": "literal 'اوہنے خیمہ لایا' — 'ٹباکیا اِکھاڑیا' دا پھیلایا روپ",
+      "rationale": "האלין = خیمہ لانا؛ ترجمے وِچ حرکت دا روپ دتا گیا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויבן ... מזבח",
+      "rationale": "قربانی گاہ 'بناؤنا' — پیدائش وِچ اَورام دی یادگار قربانی گاہاں دی لڑی وِچ اِک ہور"
+    }
+  ],
+  "translation": "تے اَورام نے اپنا ٹباکیا اِکھاڑیا تے آ کے بَیراں والے ممرے وِچ، جِتھے حِبرون اے، جا کے وسّ گیا، تے اوتھے یاہوہ لئی اِک قربانی گاہ بنائی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a8fa77bc53bbf674a7418ef8198eb6bbd1e521ea7789b53b23fda592963fc0cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/13\/17-18.1792094848463.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאהל",
+      "gloss": "اپنا ٹباکیا اِکھاڑیا"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "اَورام"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "آ کے"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "جا کے وسّ گیا"
+    },
+    {
+      "surface": "באלני",
+      "gloss": "بَیراں وِچ"
+    },
+    {
+      "surface": "ממרא",
+      "gloss": "ممرے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جِتھے"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "حِبرون وِچ"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "بنائی"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اوتھے"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "قربانی گاہ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ لئی"
+    }
+  ],
+  "timestamp": "2026-10-15T20:07:28.464811913Z",
+  "model": "glm-5.3"
+}

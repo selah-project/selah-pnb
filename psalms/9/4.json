@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 9:4",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "مُکھ توں",
+      "rationale": "מפניך پُتر 'تیرے مُکھ\/حاضری توں' — صرف 'اگے' نئیں، حاضری دا چِتر اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "اوہ",
+      "rationale": "عبرانی واجب دا subject پنجابی وچ pronoun نال واضح کیتا"
+    }
+  ],
+  "translation": "جدوں میرے ویری پچھے مُڑدے نیں، اوہ تیرے مُکھ توں لڑکھڑدے تے مِٹ جاندے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6d9df4af184fd4e81cc4b0d2ec260639cbfbd651ea58300a17f895f57dda1832",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/9\/1-4.1792111998315.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשוב",
+      "gloss": "جدوں مُڑدے نیں"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "میرے ویری"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "پچھے"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "لڑکھڑدے"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "تے مِٹ جاندے"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "تیرے مُکھ توں"
+    }
+  ],
+  "timestamp": "2026-10-16T00:53:18.316261037Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 3:9",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨دی رات⟩",
+      "rationale": "پنجابی نوں مطلق ضمیر دی لوڑ اے؛ عبرانی وچ صفتاں چھوہیاں ہویاں نیں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בעפעפי שחר",
+      "rationale": "'سویر دیاں پلکاں' — پلکاں دا اڈاری چکھماں تصویر، اکھ نال سِدھی رکھی"
+    },
+    {
+      "kind": "mystery",
+      "subject": "رات",
+      "rationale": "ایوب دی لعنت بھری ہوئی اے، اُس رات نوں موئی ہوئی منگدا اے"
+    }
+  ],
+  "translation": "اُس ⟨دی رات⟩ دے پھپھریاں دے تاریاں دا اندھیرا ہووے؛ اوہ چانن دی اُڈیک کرے پر کوئی نہ ہووے؛ تے اُہنوں سویر دیاں پلکاں نہ وکھݙاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ecfed7b6939c18312c618bd114b16097bd56db81b6e3a54b1d35f8248973ecc7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/3\/9-12.1792115302909.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחשכו",
+      "gloss": "دا اندھیرا ہووے"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "دے تاریاں"
+    },
+    {
+      "surface": "נשפו",
+      "gloss": "دے پھپھریاں"
+    },
+    {
+      "surface": "יקו",
+      "gloss": "اوہ اُڈیک کرے"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "چانن دی"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "پر کوئی نہ ہووے"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "وکھݙاں"
+    },
+    {
+      "surface": "בעפעפי",
+      "gloss": "دیاں پلکاں"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "سویر"
+    }
+  ],
+  "timestamp": "2026-10-16T01:48:22.909740356Z",
+  "model": "glm-5.3"
+}

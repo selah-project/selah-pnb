@@ -1,0 +1,152 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 14:7",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "השפן",
+      "rationale": "شکالی (ہائیریکس) دسیا گیا اے؛ کجھ مترجم 'چٹان خرگوش' آکھدے نیں۔"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מעלה גרה",
+      "rationale": "لفظی 'جوڑا چڑھاندا اے'؛ پنجابی رِیت 'جوڑا چُگدا اے'۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "پر پوری طرح نئیں",
+      "rationale": "עלי גרה تے מפריסי פרסה دے ملّے ہوئے دے محاورے دی وضاحت؛ عبرانی وِچ نئیں۔"
+    },
+    {
+      "kind": "you",
+      "subject": "تُسیں",
+      "rationale": "پابندی یِسرائیل نوں سِدھی address کردی اے۔"
+    }
+  ],
+  "translation": "پر اِنہاں وِچوں جو جوڑا چُگدے نیں تے جیہناں دا کھر پھٹا ہویا اے، ⟨پر پوری طرح نئیں⟩ — ⟨את⟩ اِنہاں نوں نہ کھاؤ: ⟨את⟩ اُونٹ تے ⟨את⟩ خرگوش تے ⟨את⟩ شکالی — کیوں جو اوہ جوڑا چُگدے نیں پر کھر نئیں پھاڑدے؛ اوہ تہاڈے لئی نجس نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "97825781facfb1fcb05fbe0c2a2ebb9533495643192486c6f4346725f79557e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/14\/5-8.1792100049560.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "پر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اِنہاں نوں"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اِنہاں وِچوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "کھاوو گے"
+    },
+    {
+      "surface": "ממעלי",
+      "gloss": "چُگن والیاں وِچوں"
+    },
+    {
+      "surface": "הגרה",
+      "gloss": "جوڑے"
+    },
+    {
+      "surface": "וממפריסי",
+      "gloss": "تے کھر پھاڑن والیاں وِچوں"
+    },
+    {
+      "surface": "הפרסה",
+      "gloss": "کھر"
+    },
+    {
+      "surface": "השסועה",
+      "gloss": "پھٹے ہوئے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اُونٹ نوں"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "اُونٹ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "خرگوش نوں"
+    },
+    {
+      "surface": "הארנבת",
+      "gloss": "خرگوش"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "شکالی نوں"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "شکالی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "چُگدا اے"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "جوڑا"
+    },
+    {
+      "surface": "המה",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "تے کھر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "הפריסו",
+      "gloss": "پھاڑیا"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "نجس"
+    },
+    {
+      "surface": "הם",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تہاڈے لئی"
+    }
+  ],
+  "timestamp": "2026-10-15T21:34:09.561255814Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 8:6",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "התבה",
+      "rationale": "עברית لفظ 'بکس\/صندوق' اے، 'کشتی' نئیں — پنجابی وِچ 'کشتی' ریت دا لفظ اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "forty days",
+      "rationale": "چالیہہ دِن دا شمار — وقت دی پیمائش"
+    },
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "عبرانی وِچ ماضی، پنجابی 'سی' منگدا اے"
+    }
+  ],
+  "translation": "تے ایہہ ہویا کہ چالیہہ دِناں دے انت نوں، نُواخ نے ⟨את⟩ کشتی ⟨صندوق⟩ دی کھڑکی کھولھی جیہڑی اوہنے بنائی سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bc3c4e86185114d3c4080e2c0c492babaed1b43f2104f7f381f4de0974f4f76f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/8\/5-8.1792094799628.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے ایہہ ہویا"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "انت نوں"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چالیہہ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "دِناں"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "تے اوہنے کھولھی"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نُواخ نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کشتی دی کھڑکی"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "کھڑکی"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "کشتی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "اوہنے بنائی"
+    }
+  ],
+  "timestamp": "2026-10-15T20:06:39.628940746Z",
+  "model": "glm-5.3"
+}

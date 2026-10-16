@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 12:9",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "זולות",
+      "rationale": "hapax; KJV 'vilest men' vs ASV\/JPS 'vileness' vs literal 'shaking\/tempest'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "זולות",
+      "rationale": "word occurs only here in the Tanakh"
+    },
+    {
+      "kind": "alternative",
+      "subject": "sentence structure",
+      "rationale": "אִם understood: 'when\/though vileness is exalted' — YLT takes it as 'according as'"
+    }
+  ],
+  "translation": "ہر پاسے بدکار ٹُردے پھردے نیں، جدوں کَوڈتا مت آدمیاں دے پُتراں وِچ اُچا کیتا جاندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b2778bfa2d03ee89d0f960057d56dd703d5cd57a8b8b89b82e2c82745f85fc0b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/12\/9-9.1792111890084.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "ہر پاسے"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "יתהלכון",
+      "gloss": "ٹُردے پھردے نیں"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "اُچا کیتا جاندا اے"
+    },
+    {
+      "surface": "זלות",
+      "gloss": "کَوڈتا مت"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "پُتراں"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمیاں دے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:51:30.084921699Z",
+  "model": "glm-5.3"
+}

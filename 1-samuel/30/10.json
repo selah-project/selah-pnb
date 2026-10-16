@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 30:10",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "چار سو \/ دو سو",
+      "rationale": "گنتی — پچھا کرن والے تے رک جان والیاں دی ونڈ۔"
+    },
+    {
+      "kind": "hapax",
+      "subject": "פגרו",
+      "rationale": "فعل پגר تنخ وِچ بہت گھٹ آیا اے — سار ہتھوں جان دا مورت والا لفظ۔"
+    }
+  ],
+  "translation": "تے داوِد نے پچھا کیتا، اوہ تے چار سو بندے، تے دو سو بندے کھلو گئے جیہڑے بسر نہڑ نوں ⟨את⟩ پار کرن توں ہتھوں گئے سن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2e11ce54202fda946839caa3c84e69ce09fb055b50ca2078aea9357e52f24921",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/30\/9-12.1792102936729.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירדף",
+      "gloss": "تے پچھا کیتا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "تے چار"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "تے کھلو گئے"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "دو سو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑے"
+    },
+    {
+      "surface": "פגרו",
+      "gloss": "ہتھوں گئے"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "پار کرن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نہڑ"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "نہڑ"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "بسر"
+    }
+  ],
+  "timestamp": "2026-10-15T22:22:16.730654515Z",
+  "model": "glm-5.3"
+}

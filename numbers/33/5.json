@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 33:5",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نے",
+      "rationale": "پنجابی کارکی نے منگدا اے، عبرانی وِچ نئیں"
+    },
+    {
+      "kind": "measurement",
+      "subject": "پاندھی دا پڑاء",
+      "rationale": "ایہہ منزلاں دی لِکھت اے — گنتی دے پڑاء والی آیت"
+    }
+  ],
+  "translation": "تے یِسرائیل دے پُتراں نے رعمسِس توں پاندھی شروع کیتی تے سُکّوت وِچ ڈیرے لائے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "49da895dff103b1bd0acc3b21d913a12c1653b4a085751e167812718f31cb6f1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/33\/5-8.1792099413038.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "پاندھی شروع کیتی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پُتراں نے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "מרעמסס",
+      "gloss": "رعمسِس توں"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ڈیرے لائے"
+    },
+    {
+      "surface": "בסכת",
+      "gloss": "سُکّوت وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T21:23:33.039260349Z",
+  "model": "glm-5.3"
+}

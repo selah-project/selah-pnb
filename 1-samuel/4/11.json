@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 4:11",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "موتו",
+      "rationale": "لفظی 'مُر گئے' — 'مارے گئے' لڑائی دا سیاق دسدا اے، عبرانی صرف 'مرنا' آکھدا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "نلقح",
+      "rationale": "'چُکّیا\/قبضہ ہویا' — صندوق دا دشمن ہتھوں کھسّنا"
+    }
+  ],
+  "translation": "تے ایلوہیم دا صندوق چُکّیا گیا، تے اِلی دے دو پُتر مارے گئے — خوفنی تے پینحس۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "16d7b78cf09d5dabfc13c340a9784c7649c459da851a287886b199f3d0ab3824",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/4\/9-12.1792102236492.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וארון",
+      "gloss": "تے صندوق"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم دا"
+    },
+    {
+      "surface": "נלקח",
+      "gloss": "چُکّیا گیا"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "دو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "اِلی دے"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "مارے گئے"
+    },
+    {
+      "surface": "חפני",
+      "gloss": "خوفنی"
+    },
+    {
+      "surface": "ופינחס",
+      "gloss": "تے پینحس"
+    }
+  ],
+  "timestamp": "2026-10-15T22:10:36.493472860Z",
+  "model": "glm-5.3"
+}

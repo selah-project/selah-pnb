@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 21:21",
+  "book": "ezekiel",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to the sword",
+      "rationale": "Feminine imperatives address the sword of YHWH directly"
+    },
+    {
+      "kind": "crux",
+      "subject": "addressee",
+      "rationale": "KJV chain reads the king of Babylon's divination here; Hebrew text is direct address to the sword (JPS)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הימני\/השמילי",
+      "rationale": "Right\/left paronomasia pair, rhythm lost in Punjabi"
+    }
+  ],
+  "translation": "اِکّ ہو جا، سجّے پاسے مُڑ، کھبّے پاسے رکھ — مقرر تھاواں اُتے تیرا چہرہ کِتھے ⟨لایا گیا اے⟩؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fbb4c281db2369d00bb92d02619c34ba4f4b66af5f01ab3b05dd8cf1548728a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/21\/21-24.1792109441002.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "התאחדי",
+      "gloss": "اِکّ ہو جا"
+    },
+    {
+      "surface": "הימני",
+      "gloss": "سجّے پاسے مُڑ"
+    },
+    {
+      "surface": "השימי",
+      "gloss": "رکھ"
+    },
+    {
+      "surface": "השמילי",
+      "gloss": "کھبّے پاسے جا"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "کِتھے"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "تیرا چہرہ"
+    },
+    {
+      "surface": "מעדות",
+      "gloss": "مقرر تھاواں اُتے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:10:41.002768790Z",
+  "model": "glm-5.3"
+}

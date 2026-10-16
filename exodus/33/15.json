@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 33:15",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨موسیٰ نے⟩",
+      "rationale": "عبرانی صرف 'تے اوہنے اوہدے نال آکھیا' اے، بولن والا سیاق توں۔"
+    },
+    {
+      "kind": "you",
+      "subject": "یاہوہ توں",
+      "rationale": "موسیٰ دعا وِچ سدھیا یاہوہ نوں آکھدا اے۔"
+    }
+  ],
+  "translation": "تے ⟨موسیٰ نے⟩ اوہدے نال آکھیا: جے تیرا چہرہ نئیں تُردا، تاں سانوں ایتھوں اُتے نہ چڑھا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a50943af0ba1e4122df30205c0af43598c53a6af008cc33aa6af33a2c3f02d26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/33\/13-16.1792097145699.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اوہدے نال"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "تیرا چہرہ"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "تُردا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעלנו",
+      "gloss": "سانوں چڑھا"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ایتھوں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:45:45.700731906Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 12:22",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "لیئی",
+      "rationale": "عبرانی وچ 'یاہوہ لئی' دا لفظ לئی موجود نئیں، مکروہ نال تعلق دی نشانی منگدا اے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אמונה",
+      "rationale": "مول مطلب 'پکائی\/استقلال' اے — 'ایمانداری' اوہدے اخلاقی پہلو نوں کھچدا اے۔"
+    }
+  ],
+  "translation": "جھوٹے ہونٹھ یاہوہ لئی مکروہ نیں، پر ایمانداری کرن والے اوہدا پسندیدہ نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1a6647e4f6a0c7bd81ec8d4985205b95d09fbf9d90533ecf5d6aa8ece51a3cf6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/12\/21-24.1792114606751.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "مکروہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ہونٹھ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "جھوٹے"
+    },
+    {
+      "surface": "ועשי",
+      "gloss": "پر کرن والے"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "ایمانداری"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "اوہدا پسندیدہ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:36:46.751989660Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 52:8",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "עין בעין",
+      "rationale": "'اَکھ نال اَکھ' — عبرانی محاورہ سِدھی، بالواسطہ ویکھݨ لئی، پنجابی وِچ اِکو صورت رکھی گئی۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "בשוב יהוה ציון",
+      "rationale": "کئی ترجمے 'یاہوہ تسیون نوں واپس لیاؤندا اے' پڑھدے نیں، عبرانی دی مول شکل 'یاہوہ تسیون ول مُڑدا اے' اے۔"
+    }
+  ],
+  "translation": "تیرے نگراناں دی آواز! اوہ آواز چکیے نیں، رل کے گاؤنگے، کیوں جو اوہ اَکھ نال اَکھ ویکھسیگے، جدوں یاہوہ تسیون ول مُڑسیگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "17a0d5b5305304b5616921379a630b1480cb073a9859874504cd56cacac24513",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/52\/5-8.1792106944149.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "צפיך",
+      "gloss": "تیرے نگراناں دی"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "چکیے نیں"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "رل کے"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "گاؤنگے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "עין",
+      "gloss": "اَکھ"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "نال اَکھ"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ویکھسیگے"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "جدوں مُڑسیگا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "تسیون ول"
+    }
+  ],
+  "timestamp": "2026-10-15T23:29:04.150719055Z",
+  "model": "glm-5.3"
+}

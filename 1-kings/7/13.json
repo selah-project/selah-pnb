@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 7:13",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "تے بھیجیا تے لے آندا",
+      "rationale": "عبرانی دی دو کارروائیاں (שלח + לקח) اِک اِک ٹوکن نیں؛ 'بھیج کے بلایا' وی جائز اے"
+    }
+  ],
+  "translation": "تے بادشاہ شلوموہ نے بھیجیا تے ⟨את⟩ حیرام نوں تصر توں لے آندا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7ebbcfcafde2ec3f44535ec4d5af3406182a8e9527a34f23a26eb69a3789fad1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/7\/13-16.1792104166947.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "تے بھیجیا"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلوموہ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "تے لے آندا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حیرام"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "حیرام"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "تصر توں"
+    }
+  ],
+  "timestamp": "2026-10-15T22:42:46.948634166Z",
+  "model": "glm-5.3"
+}

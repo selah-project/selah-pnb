@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 2:8",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ידיו \/ אצבעתיו",
+      "rationale": "ہتھ تے انگلیاں دا جوڑ — مُڑدا اے وَل دیس دی بھرائی توں بتاں تک؛ اگلی آیت وِچ ہیٹھاں جھکنا اوویں ہی اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אלילים",
+      "rationale": "'کوڑی\/فضول چیزاں' دا مول — 'بت' مکمل معنی دیندا اے، مگر مول دی ترچھ 'نکماہٹ' گُم ہوئی"
+    }
+  ],
+  "translation": "تے اوہدا دیس بتاں نال بھریا اے؛ اوہ اوہناں ہتھاں دے کم اگے سِر جھکاوندے نیں، ⟨اوہناں چیزاں اگے⟩ جہڑیاں اوہناں دیاں انگلیاں نے بنایاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "85fde5a37a8d74778913c099a1e4084c38d03e287e781189f57011cdddf45c56",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/2\/5-8.1792105746171.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותמלא",
+      "gloss": "تے بھریا اے"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "اوہدا دیس"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "بتاں نال"
+    },
+    {
+      "surface": "למעשה",
+      "gloss": "کم اگے"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "اوہناں ہتھاں دے"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "سِر جھکاوندے نیں"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "⟨اوہناں چیزاں اگے⟩ جہڑیاں"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "بنایاں"
+    },
+    {
+      "surface": "אצבעתיו",
+      "gloss": "اوہناں دیاں انگلیاں نے"
+    }
+  ],
+  "timestamp": "2026-10-15T23:09:06.172739821Z",
+  "model": "glm-5.3"
+}

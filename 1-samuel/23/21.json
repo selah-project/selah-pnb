@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 23:21",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نے",
+      "rationale": "پنجابی ماضی لئی فاعلی نشان منگدی اے، عبرانی وِچ نئیں"
+    },
+    {
+      "kind": "you",
+      "subject": "زیفی دے لوکاں نوں",
+      "rationale": "شاؤل جاسوساں نوں سِدھا مخاطب اے"
+    }
+  ],
+  "translation": "تے شاؤل نے آکھیا: تسیں یاہوہ ولّوں برکت والے او، کیوں جو تسیں میرے اُتے ترس کیتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c0ed6fcac6cc2e16d43ce6e198d650ed6fd7955df1ee1f8b15fb8c3c19e47b4d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/23\/21-24.1792102844308.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "ברוכים",
+      "gloss": "برکت والے"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تسیں"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ ولّوں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "חמלתם",
+      "gloss": "تسیں ترس کیتا"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "میرے اُتے"
+    }
+  ],
+  "timestamp": "2026-10-15T22:20:44.309240087Z",
+  "model": "glm-5.3"
+}

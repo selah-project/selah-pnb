@@ -1,0 +1,177 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 7:4",
+  "book": "judges",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ואצרפנו",
+      "rationale": "دھات پگھلن والی پرکھ — ترجمے 'آزماؤناں'، 'چانن'، 'کھنگالن' — تصویر دھات دی صفائی دی اے۔"
+    },
+    {
+      "kind": "you",
+      "subject": "گِدْعون",
+      "rationale": "یاہوہ دوبارہ گِدْعون نوں سِدھا مخاطب کردا اے۔"
+    }
+  ],
+  "translation": "تے یاہوہ نے گِدْعون نوں آکھیا: لوک ہن وی بوہتا اے؛ اوہناں نوں ⟨את⟩ پانیاں تک لاہ، تے میں اوہنوں تیرے لئی اوتھے کھنگالاں۔ تے ایہہ ہووےگا کہ جیہڑے بارے میں تینوں آکھاں: ایہہ تیرے نال ⟨את⟩ جاوےگا — اوہ تیرے نال ⟨את⟩ جاوےگا؛ تے ہر اوہ جیہڑے بارے میں تینوں آکھاں: ایہہ تیرے نال نئیں جاوےگا — اوہ نئیں جاوےگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bac4f7d8a929995e390d1bb600574bcefaa15bd0778d0bc58bb3c6b14e1dab01",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/judges\/7\/1-4.1792101580836.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ نے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "گِدْعون"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ہن وی"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوک"
+    },
+    {
+      "surface": "רב",
+      "gloss": "بوہتا اے"
+    },
+    {
+      "surface": "הורד",
+      "gloss": "لاہ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "اوہناں نوں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تک"
+    },
+    {
+      "surface": "המים",
+      "gloss": "پانیاں"
+    },
+    {
+      "surface": "ואצרפנו",
+      "gloss": "تے میں اوہنوں کھنگالاں"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیرے لئی"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اوتھے"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "تے ایہہ ہووےگا کہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑے بارے"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "میں آکھاں"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تینوں"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "جاوےگا"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "تیرے نال"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "جاوےگا"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "تیرے نال"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے ہر اوہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑے بارے"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "میں آکھاں"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تینوں"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "جاوےگا"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تیرے نال"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "جاوےگا"
+    }
+  ],
+  "timestamp": "2026-10-15T21:59:40.838244245Z",
+  "model": "glm-5.3"
+}

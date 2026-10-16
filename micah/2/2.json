@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 2:2",
+  "book": "micah",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اوہناں نوں⟩",
+      "rationale": "عبرانی مفعول صرف فعل نال دسدا اے؛ پنجابی نوں نشان صیغہ چاہیدا اے۔"
+    }
+  ],
+  "translation": "تے اوہ کھیتاں دی خواہش کردے نیں تے ⟨اوہناں نوں⟩ زوریں کھوہ لیندے نیں، تے گھر، تے ⟨اوہناں نوں⟩ چُک لیندے نیں؛ تے اوہ اِک بندے نوں تے اوہدے گھر نوں لُٹدے نیں، اِک بندے نوں تے اوہدی وراثت نوں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "26cfdd4910736fa914ba2a051f8ef74326e406c0fd4bb09b82e4ac5ac8dfa2ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/micah\/2\/1-4.1792111108089.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחמדו",
+      "gloss": "تے خواہش کردے نیں"
+    },
+    {
+      "surface": "שדות",
+      "gloss": "کھیتاں دی"
+    },
+    {
+      "surface": "וגזלו",
+      "gloss": "تے زوریں کھوہ لیندے نیں"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "تے گھر"
+    },
+    {
+      "surface": "ונשאו",
+      "gloss": "تے چُک لیندے نیں"
+    },
+    {
+      "surface": "ועשקו",
+      "gloss": "تے لُٹدے نیں"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "اِک بندے نوں"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "تے اوہدے گھر نوں"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "اِک بندے نوں"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "تے اوہدی وراثت نوں"
+    }
+  ],
+  "timestamp": "2026-10-16T00:38:28.090766396Z",
+  "model": "glm-5.3"
+}

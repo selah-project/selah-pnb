@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 56:1",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יונת אלם רחקים",
+      "rationale": "'چُپ دا کبوتر، دور بیٹھے' — غالب اِک دھُن دا ناں اے؛ جے پOwnProperty دا مطلب کبوتر (داوِد) لئی لیا جاوے تاں 'چُپ چاپ دور پئے کبوتر' بندا اے۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "מכתם",
+      "rationale": "مکتُم دا مطلب مشکول اے — کوئی نقش شدہ\/قیمتی شعر قسم دا سرلیکھ۔"
+    },
+    {
+      "kind": "elision",
+      "subject": "אלם",
+      "gloss-context": "چُپ وکھرا ٹوکن دے طور اُتے رکھیا گیا اے، کیونجہ عبرانی وِچ اِکو وار آندا اے۔"
+    }
+  ],
+  "translation": "مِنگن والے لئی، چُپ دے کبوتر اُتے، جو دور نیں — داوِد دا اِک مکتُم ⟨شعر⟩، جدوں پلشتیم نے ⟨אתו⟩ اوہنوں گت وِچ پھڑیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a38d85356925c49aedc5bc6ca629f47794193efb8e83720aad23df69d223b3d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/56\/1-4.1792112702799.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "مِنگن والے لئی"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "יונת",
+      "gloss": "چُپ دے کبوتر"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "چُپ"
+    },
+    {
+      "surface": "רחקים",
+      "gloss": "جو دور نیں"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد دا"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "مکتُم ⟨شعر⟩"
+    },
+    {
+      "surface": "באחז",
+      "gloss": "جدوں پھڑیا"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "اوہنوں (داوِد)"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "پلشتیم نے"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "گت وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:05:02.800365149Z",
+  "model": "glm-5.3"
+}

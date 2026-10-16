@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 23:4",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ٹھاٹھ",
+      "rationale": "מעוז قلعہ\/حفاظت اے — ’سمندر دی مضبوطی‘، ’ٹھاٹھ‘ قریب ترین ریکھا"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חול\/ילד\/גדל\/רומם",
+      "rationale": "زچگی دی کڑی — تکلیف، جم، پالن، اُچاونا — سمندر اپنے آپ نوں بے اولاد دسدا اے"
+    }
+  ],
+  "translation": "شرمندہ ہووے صیدون، کیوں جے سمندر نے آکھیا — سمندر دی ٹھاٹھ نے — آکھ کے: میں تکلیف نئیں چکی، تے نئیں جمایا، تے نئیں جوان پالے، تے نہ کنواریاں اُچائیاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7c36cc3299104b3e8ee553ff4388b6d1cb35ba6d4fa626f754d86fb8d7857ccf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/23\/1-4.1792106307105.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בושי",
+      "gloss": "شرمندہ ہووے"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "صیدون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جے"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "ים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "ٹھاٹھ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ کے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "חלתי",
+      "gloss": "تکلیف چکی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "جمایا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "پالے"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "جوان"
+    },
+    {
+      "surface": "רוממתי",
+      "gloss": "اُچائیاں"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "کنواریاں"
+    }
+  ],
+  "timestamp": "2026-10-15T23:18:27.106709968Z",
+  "model": "glm-5.3"
+}

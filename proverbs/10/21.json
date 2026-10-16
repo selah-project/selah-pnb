@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 10:21",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ירעו",
+      "rationale": "چرواہا والی مثال اے — بھلے بندے دے ہونٹھ 'اکے نوں چراؤندے نیں'، سِدھا 'سکھاندے نیں' نئیں۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אוילים",
+      "rationale": "عبرانی 'موٹھے\/سدھے' — بھلائی دے ورتݨ وِچ 'بیوقوف' دا مطلب اے۔"
+    }
+  ],
+  "translation": "بھلے بندے دے ہونٹھ بہت ساریاں ⟨جانواراں⟩ نوں چراؤندے نیں، تے موٹھے دل دی کمی نال مَر جاندے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "35e2dedde7db6097628b2f0c28a78ac0d4091f87c8c1dcafc5b61ba04f31d46b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/10\/21-24.1792114577242.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "ہونٹھ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "بھلے بندے دے"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "چراؤندے نیں"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "بہت ساریاں"
+    },
+    {
+      "surface": "ואוילים",
+      "gloss": "تے موٹھے"
+    },
+    {
+      "surface": "בחסר",
+      "gloss": "دی کمی نال"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "مَر جاندے نیں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:36:17.243463908Z",
+  "model": "glm-5.3"
+}

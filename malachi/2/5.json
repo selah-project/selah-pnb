@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "malachi 2:5",
+  "book": "malachi",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ואתנם לו מורא",
+      "rationale": "KJV ‘I gave them to him for the fear’ ضد YLT ‘I make them to him a fear’ — ‘ایہناں’ دا حوالہ حیاتی تے امان، جاں ڈر ہی دِتا۔"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "עם دی نیڑتا والی پیشوند دا نشان ⟨את⟩ نال رکھیا گیا۔"
+    }
+  ],
+  "translation": "میرا عہد اُس ⟨את⟩ نال حیاتی تے امان دا سی، تے میں اُس نوں ڈر دِتا، تے اوہ میرے توں ڈریا، تے میرے ناں ⟨توں⟩ سامنے اوہ دبدبیا ہویا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1957617f5cc802cd5a36ff3b4d3acfc5a6b91f3bc8668bdb1274c3ace15128d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/malachi\/2\/5-8.1792111717738.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בריתי",
+      "gloss": "میرا عہد"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "سی"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ نال",
+      "marks": "اُس نال"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "حیاتی"
+    },
+    {
+      "surface": "והשלום",
+      "gloss": "تے امان"
+    },
+    {
+      "surface": "ואתנם",
+      "gloss": "تے میں دِتے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اُس نوں"
+    },
+    {
+      "surface": "מורא",
+      "gloss": "ڈر"
+    },
+    {
+      "surface": "וייראני",
+      "gloss": "تے اوہ میرے توں ڈریا"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "تے اگے توں"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "میرے ناں دے"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "دبدبیا ہویا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    }
+  ],
+  "timestamp": "2026-10-16T00:48:37.739332947Z",
+  "model": "glm-5.3"
+}

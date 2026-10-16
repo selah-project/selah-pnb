@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "2-chronicles 6:40",
+  "book": "2-chronicles",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "ایلوہیم نوں منگ",
+      "rationale": "سلیمان سدھی منگ کردا اے: اکھیاں کھلیاں رہݨ، کَن دھیان دے رہݨ۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨دی⟩",
+      "rationale": "לתפלת 'دعا لئی\/ول' اے؛ پنجابی جوڑ لئی شامل کیتا گیا۔"
+    },
+    {
+      "kind": "alternative",
+      "subject": "המקום הזה",
+      "rationale": "مطلب اوہ مَکان اے جیہڑا سلمان نے بنایا — 'اِس تھاں' سدھا اے، 'اِس گھر' وی ووچار ہو سکدا اے۔"
+    }
+  ],
+  "translation": "ہنے، میرے ایلوہیم، بھلا تیریاں اکھیاں کھلیاں رہݨ تے تیرے کَن دھیان دے رہݨ، اِس تھاں دی دعا ⟨دی⟩ ول۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "79ff30be0e9d6623cac9edfca01bcbe0c283b7b26afcbf326f8567b1765fc923",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/6\/37-40.1792121674191.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "ہنے"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "میرے ایلوہیم"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "رہݨ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "بھلا"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "تیریاں اکھیاں"
+    },
+    {
+      "surface": "פתחות",
+      "gloss": "کھلیاں"
+    },
+    {
+      "surface": "وאזניך",
+      "gloss": "تے تیرے کَن"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "دھیان دے"
+    },
+    {
+      "surface": "לתפלת",
+      "gloss": "دعا ول"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "اِس تھاں"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اِس"
+    }
+  ],
+  "timestamp": "2026-10-16T03:34:34.192716344Z",
+  "model": "glm-5.3"
+}

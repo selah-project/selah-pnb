@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "verse",
+      "rationale": "ناکاری خلاء نال سدّی ہوئی ہدایت — پاٹھک نوں سلائی جاندی اے"
+    },
+    {
+      "kind": "you",
+      "subject": "to the reader",
+      "rationale": "خودمخاطب ناکاری صیغہ — تُوں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "سنگ",
+      "rationale": "חיק سینہ\/لپ اے — 'سنگ وِچ' واہٹ دا ریکھا اے، پاسہ نئیں"
+    }
+  ],
+  "translation": "اپنے رُوح وِچ غصے لئی جلدی نہ کر، کیوں جو غصہ مورکھاں دے سنگ وِچ آرام کردا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ad77871e5be5f099165824c9a33a57bdd351680d26b38bc1ed1c0d76f964092a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ecclesiastes\/7\/9-12.1792117528005.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "جلدی کر"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "اپنے رُوح وِچ"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "غصے لئی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "غصہ"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "سنگ وِچ"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "مورکھاں دے"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "آرام کردا اے"
+    }
+  ],
+  "timestamp": "2026-10-16T02:25:28.005854799Z",
+  "model": "glm-5.3"
+}

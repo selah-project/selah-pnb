@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 88:19",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 88,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מחשך",
+      "rationale": "'My acquaintance is darkness' (apposition, YLT) vs 'my acquaintance into darkness' (KJV\/JPS) vs 'darkness is my companion' (BSB); Hebrew is a bare noun, no verb or preposition."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ہنیرا اے⟩",
+      "rationale": "Punjabi needs a copula for the apposition the Hebrew leaves bare."
+    }
+  ],
+  "translation": "پیارے تے یار نوں میتھوں دُور کر دتا اے؛ میرے جانن والے ⟨ہنیرا اے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "eda71151d2410ae7e9ab6e9c08f5e534f649778bee36cadc75d74ff1f725fda3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/88\/17-19.1792113210432.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרחקת",
+      "gloss": "دُور کر دتا اے"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "میتھوں"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "پیارے"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "تے یار"
+    },
+    {
+      "surface": "מידעי",
+      "gloss": "میرے جانن والے"
+    },
+    {
+      "surface": "מחשך",
+      "gloss": "ہنیرا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:13:30.433713123Z",
+  "model": "glm-5.3"
+}

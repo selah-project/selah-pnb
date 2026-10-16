@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 19:5",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩",
+      "rationale": "عبرانی وِچ کوئی فاعل نئیں — حالت نامعلوم اے، پنجابی نوں فاعل منگدا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ושרף … ישרף",
+      "rationale": "آیت دے دونوں سراں تے اِکو آسل — ساڑنا — اوہدا چکر عبرانی وِچ جوڑ بُندا اے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "על פרשה",
+      "rationale": "'اُس دے گوبر اُتے' — کجھ مترجم 'نال\/سمیت' پڑھدے نیں (ylt)، پر حرف עַל دا مول 'اُتے' اے"
+    }
+  ],
+  "translation": "تے ⟨اوہ⟩ ⟨את⟩ گاں نوں اُس دیاں اکھیں ساہمنے ساڑیگا — ⟨את⟩ اُس دی کھلّ، تے ⟨את⟩ اُس دا ماس، تے ⟨את⟩ اُس دا لہو، اُس دے گوبر اُتے ⟨سب⟩ ساڑیگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e70f3ed59731a28b354395c39521a65554b80d7f87bfc453e077213f9b29416e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/19\/5-8.1792098867111.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושרף",
+      "gloss": "ساڑیگا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گاں"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "گاں"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "اُس دیاں اکھیں ساہمنے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اُس دی کھلّ"
+    },
+    {
+      "surface": "ערה",
+      "gloss": "کھلّ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "اُس دا ماس"
+    },
+    {
+      "surface": "בשרה",
+      "gloss": "ماس"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "اُس دا لہو"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "لہو"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "اُس دے گوبر"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "ساڑیگا"
+    }
+  ],
+  "timestamp": "2026-10-15T21:14:27.112394897Z",
+  "model": "glm-5.3"
+}

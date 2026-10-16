@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "hosea 9:16",
+  "book": "hosea",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اے⟩",
+      "rationale": "پنجابی جوڑ-فعل، عبرانی نے نئیں لکھے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "پیٹ",
+      "rationale": "בטן لفظی 'پیٹ\/رحم' اے — رکھیا 'پیٹ دے پیاریاں نوں'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פרי בלי יעשון",
+      "rationale": "پھل نہ دینا — ایفرایم دے ناں (دوہرا پھل) نال پلدا اے، پنجابی وِچ ایہہ پھوس مُک جاندی اے"
+    }
+  ],
+  "translation": "ایفرایم ماریا گیا ⟨اے⟩، اوہناں دی جَڑ سوکھ گئی ⟨اے⟩، پھل اوہ نئیں کرسگن؛ بلکہ جے اوہ جَمّن وی، تے میں اوہناں دے پیٹ دے پیاریاں نوں مار دِینا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f6243b485cf7bec4dc7695fe6fadca4abcc53382ac49bec8bccc0ae4a6405495",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/hosea\/9\/13-16.1792110586198.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "ماریا گیا"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ایفرایم"
+    },
+    {
+      "surface": "שרשם",
+      "gloss": "اوہناں دی جَڑ"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "سوکھ گئی"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "پھل"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "کرسگن"
+    },
+    {
+      "surface": "גם",
+      "gloss": "بلکہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جے"
+    },
+    {
+      "surface": "ילדון",
+      "gloss": "اوہ جَمّن"
+    },
+    {
+      "surface": "והמתי",
+      "gloss": "تے میں مار دِینا"
+    },
+    {
+      "surface": "מחמדי",
+      "gloss": "پیاریاں نوں"
+    },
+    {
+      "surface": "בטנם",
+      "gloss": "اوہناں دے پیٹ دے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:29:46.199505946Z",
+  "model": "glm-5.3"
+}

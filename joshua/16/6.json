@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 16:6",
+  "book": "joshua",
+  "lang": "pnb",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "سرحد دا رخ",
+      "rationale": "حد دا سمندر ول نِکلنا تے چڑھدے پاسے مُڑنا — سرحد دی پیمائش جاری اے۔"
+    },
+    {
+      "kind": "idiom",
+      "subject": "הימה",
+      "rationale": "عبرانی لفظی طور تے 'سمندر ول' اے، یعنی لہندے پاسے — سمت دا عبرانی ورتارا۔"
+    }
+  ],
+  "translation": "تے حد سمندر ول نکل گیا، میکمِتتھ اُتر وِچ؛ تے حد چڑھدے پاسے مُڑیا تانّت شیلوہ ول، تے اوہنوں ⟨את⟩ چڑھدے پاسے توں لنگھیا، یانوحوہ تک۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "84ee85e2fbce130027ef2212ca2343e7771ede97bfec44043414909ef217ad43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joshua\/16\/5-8.1792101118130.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "تے نکل گیا"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "حد"
+    },
+    {
+      "surface": "הימה",
+      "gloss": "سمندر ول"
+    },
+    {
+      "surface": "המכמתת",
+      "gloss": "میکمِتتھ"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "اُتر وِچ"
+    },
+    {
+      "surface": "ונסב",
+      "gloss": "تے مُڑیا"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "حد"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "چڑھدے پاسے"
+    },
+    {
+      "surface": "תאנת",
+      "gloss": "تانّت"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "شیلوہ"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "تے لنگھیا"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "تانّت شیلوہ"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "چڑھدے پاسے توں"
+    },
+    {
+      "surface": "ינוחה",
+      "gloss": "یانوحوہ"
+    }
+  ],
+  "timestamp": "2026-10-15T21:51:58.131608811Z",
+  "model": "glm-5.3"
+}

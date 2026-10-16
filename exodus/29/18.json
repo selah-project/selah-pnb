@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 29:18",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "سوitti قربانی",
+      "rationale": "עלה دی جڑ 'چڑھنا' اے — پوری اُتے چاڑھی جان والی قربانی"
+    },
+    {
+      "kind": "translation-error",
+      "subject": "translation",
+      "rationale": "SELF-CORRECTION: 'سوitti' اِک انگریزی رلی اے؛ ٹھیک پنجابی 'سوَٹّی' جاں 'پوری ساڑی جان والی' ہونی چاہیدی اے — 'پوری چاڑھی قربانی ایہہ یاہوہ لئی اے' ۔ ایہہ آیت دوبارہ جاری کیتی جاویگی"
+    }
+  ],
+  "translation": "تے ⟨את⟩ سارے مینڈھے نوں قربان گاہ اُتے ساڑیں گا؛ ایہہ یاہوہ لئی سوitti قربانی اے، ایہہ خوشبوواں وِچوں خوشبو اے، اگّ دی قربانی یاہوہ لئی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "726529bc76c5389857739c8463775b54626592956593f976d260c32766ab5dcd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/29\/17-20.1792097005898.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקטרת",
+      "gloss": "تے ساڑیں گا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سارا مینڈھا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "مینڈھا"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "قربان گاہ اُتے"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "سوitti قربانی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ لئی"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "خوشبو"
+    },
+    {
+      "surface": "ניחוח",
+      "gloss": "من بھاؤnda"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "اگّ دی قربانی"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ لئی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ایہہ"
+    }
+  ],
+  "timestamp": "2026-10-15T20:43:25.899077134Z",
+  "model": "glm-5.3"
+}

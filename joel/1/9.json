@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joel 1:9",
+  "book": "joel",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "Hebrew perfect verb הכרת has no copula; Punjabi needs 'گئی اے' supplied"
+    },
+    {
+      "kind": "addition",
+      "subject": "di qurbani",
+      "rationale": "מנחה is one word; Punjabi needs 'اناج دی قربانی' (grain-of offering) for the bound sense"
+    }
+  ],
+  "translation": "اناج دی قربانی تے پین دی چڑھاوا یاہوہ دے گھر توں کٹ دتی گئی اے؛ کاہن، یاہوہ دی سیوا کرن والے، سوگ کردے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d6805fefa645284de3b62507b0dfdff2192c84a50a2be0a3dbb687edf093f52c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joel\/1\/9-12.1792110698487.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכרת",
+      "gloss": "کٹ دتی گئی اے"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "اناج دی قربانی"
+    },
+    {
+      "surface": "ונסך",
+      "gloss": "تے پین دی چڑھاوا"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "گھر توں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دے"
+    },
+    {
+      "surface": "אבלו",
+      "gloss": "سوگ کردے نیں"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "משרתי",
+      "gloss": "دی سیوا کرن والے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-10-16T00:31:38.487963584Z",
+  "model": "glm-5.3"
+}

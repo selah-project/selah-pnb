@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 4:5",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "بھانڈے",
+      "rationale": "عبرانی وِچ مگیشیم دا مفعول لکھیا نئیں، پنجابی جملہ منگدا اے — صیغت 4:4 دے برتناں توں اے"
+    },
+    {
+      "kind": "elision",
+      "subject": "מאתו",
+      "rationale": "H854 ہے، مفعول دا نشان نئیں — 'اوہدے کولوں' بھاوَ اے، ⟨את⟩ نشان دے ٹبر وِچ رکھیا"
+    }
+  ],
+  "translation": "تے اوہ اوہدے کولوں ⟨את⟩ ٹُر گئی، تے دروازہ آپݨے تے آپݨے پتراں لئی بند کیتا؛ اوہ اوہدے کول ⟨بھانڈے⟩ لیا کے دیندے رہے، تے اوہ پاؤندی رہی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a9875895850787948e4fff4dee935780dbeec79ea2090b817e82492499e979d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/4\/5-8.1792105029067.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "تے ٹُر گئی"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ اوہدے کولوں",
+      "marks": "اوہدے کولوں (اِلیشع توں)"
+    },
+    {
+      "surface": "ותסגר",
+      "gloss": "تے بند کیتا"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "دروازہ"
+    },
+    {
+      "surface": "בעדה",
+      "gloss": "آپݨے (اتے)"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "تے لئی"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "آپݨے پتراں"
+    },
+    {
+      "surface": "הם",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "מגשים",
+      "gloss": "لیا کے دیندے رہے"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "اوہدے کول"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "تے اوہ"
+    },
+    {
+      "surface": "מיצקת",
+      "gloss": "پاؤندی رہی"
+    }
+  ],
+  "timestamp": "2026-10-15T22:57:09.068291499Z",
+  "model": "glm-5.3"
+}

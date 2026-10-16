@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 8:1",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨آکھ کے⟩",
+      "rationale": "לאמר دا پنجابی وِچ وکھ فعل چاہیدا اے"
+    }
+  ],
+  "translation": "تے یاہوہ نے موشے نال گل کیتی، ⟨آکھ کے⟩:",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "687e4db0efdf83a8a7adb99b32376839c939246be2300f097864b69b520e3b87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/8\/1-4.1792098551463.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "تے … گل کیتی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨آکھ کے⟩"
+    }
+  ],
+  "timestamp": "2026-10-15T21:09:11.464007506Z",
+  "model": "glm-5.3"
+}

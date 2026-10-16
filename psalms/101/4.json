@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 101,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רע לא אדע",
+      "rationale": "'I will not know evil' (thing\/person) vs KJV 'a wicked person' — Hebrew leaves the noun open."
+    }
+  ],
+  "translation": "ٹیڑھا دل میرے توں پھٹےگا، برائی نوں میں نئیں جاناں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b37b7a31c7fe5bf7e64765e12cc69d9d01b60ee2f2abe042d573610044072146",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/101\/1-4.1792113497102.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "ٹیڑھا"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "پھٹےگا"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "میرے توں"
+    },
+    {
+      "surface": "רע",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "میں جاناں گا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:18:17.103410024Z",
+  "model": "glm-5.3"
+}

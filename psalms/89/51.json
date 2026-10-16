@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 89:51",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "ادونای",
+      "rationale": "حکم والا خطاب — یاد رکھ، اے ادونای"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨جو⟩ ⟨دی⟩",
+      "rationale": "عبرانی اسمی جملہ جوڑدا اے، پنجابی جوڑ منگدا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "שאתי",
+      "rationale": "'چکی اے' بمقابلہ 'ساری عمر چکی' — نَשׂא לחיק بولی دا مطلب 'چھاتی نال چُکنا'"
+    }
+  ],
+  "translation": "یاد رکھ، اے ادونای، اپنے بندیاں دی بے-عزتی ⟨جو⟩ میں اپنی چھاتی وِچ بہت ساریاں قوماں ⟨دی⟩ چکی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e3f51ecf2da9f0eb77773a7dae2e3cc21d1992659dc20733ce0fddece9ea6211",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/89\/49-52.1792113348402.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "یاد رکھ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اے ادونای"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "بے-عزتی"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "اپنے بندیاں دی"
+    },
+    {
+      "surface": "שאתי",
+      "gloss": "چکی اے"
+    },
+    {
+      "surface": "בחיקי",
+      "gloss": "اپنی چھاتی وِچ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساریاں"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "بہت"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "قوماں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:15:48.402961738Z",
+  "model": "glm-5.3"
+}

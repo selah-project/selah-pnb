@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 13:1",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سُندا اے",
+      "rationale": "عبرانی وِچ کوئی فعل نئیں، پہلا حصہ اسمی جملہ اے — 'سیانا پُتر = پیو دی تادیب'"
+    },
+    {
+      "kind": "crux",
+      "subject": "مוסר",
+      "rationale": "تادیب\/دکھڑا\/ہدایت — عبرانی لفظ تِنوں وی معنی رکھدا اے"
+    }
+  ],
+  "translation": "اِک سیانا پُتر پیو دی تادیب سُندا اے، پر مذاق کرن والا جھڑک نوں نئیں سُندا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "259a96b14145fe009f7903fcfe0970fec25774a3d828f3318011ba1428967c73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/13\/1-4.1792114677257.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "سیانا"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "تادیب"
+    },
+    {
+      "surface": "אב",
+      "gloss": "پیو"
+    },
+    {
+      "surface": "ולץ",
+      "gloss": "پر مذاق کرن والا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سُندا"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "جھڑک"
+    }
+  ],
+  "timestamp": "2026-10-16T01:37:57.258107154Z",
+  "model": "glm-5.3"
+}

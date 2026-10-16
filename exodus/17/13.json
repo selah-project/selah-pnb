@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 17:13",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לפי חרב",
+      "rationale": "لفظی 'تلوار دے مونہ نال' — پنجابی وچ 'دہانے نال' محاورے دا مطابق اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויחלש",
+      "gloss_missing": false,
+      "rationale": "نینواہ دے نال نال سنسکرت شبد 'هلک' دا مطلب ہلا کرنا اے — یعنی 'ہرا دتا'"
+    }
+  ],
+  "translation": "تے یہوشوع نے ⟨את⟩ عمالق نوں تے ⟨את⟩ اوہدے قوم نوں تلوار دے دہانے نال ہرا دتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1954886aa6b4636e41f652343acf47fdb9f1cf61858f53f02a5207633bfe44c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/17\/13-16.1792096573949.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחלש",
+      "gloss": "ہرا دتا"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یہوشوع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عمالق"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "عمالق"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اوہدے قوم"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "اوہدے قوم"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "دے دہانے نال"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "تلوار"
+    }
+  ],
+  "timestamp": "2026-10-15T20:36:13.949793774Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 36:13",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نیں",
+      "rationale": "عبرانی وِچ کوپولا نئیں، پنجابی جمہے لئی فعل لازم"
+    },
+    {
+      "kind": "substitution",
+      "subject": "اَوَن",
+      "rationale": "אָוֶן دی مولی حالت 'کجھ ناں \/ فولا \/ برائی' اے — نشان لگ کے عبرانی آواز رکھیا"
+    }
+  ],
+  "translation": "اوتھے اَوَن دے کم کرن والے ڈگّے نیں، اوہ دھکّے گئے نیں تے اُٹھن توں ااہل نئیں رہے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a813f6839967e704ba2e07cac14b6c6cda6d1a1ca8ff0b6f6792c1351b255ef8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/36\/13-13.1792112234179.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שָׁם",
+      "gloss": "اوتھے"
+    },
+    {
+      "surface": "נָפְלוּ",
+      "gloss": "ڈگّے نیں"
+    },
+    {
+      "surface": "פֹּעֲלֵי",
+      "gloss": "کم کرن والے"
+    },
+    {
+      "surface": "אָוֶן",
+      "gloss": "اَوَن"
+    },
+    {
+      "surface": "דֹּחוּ",
+      "gloss": "دھکّے گئے نیں"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "יָכְלוּ",
+      "gloss": "ااہل نیں"
+    },
+    {
+      "surface": "קוּם",
+      "gloss": "اُٹھن"
+    }
+  ],
+  "timestamp": "2026-10-16T00:57:14.179515051Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 17:3",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "آخری جملے وِچ عبرانی نے کوپولا نئیں دتی — 'وادی وِچکار' — پنجابی لئی 'سی' پایا گیا"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עמדים … עמדים \/ ההר מזה … ההר מזה",
+      "rationale": "دوہرا ٹاکرا والی بنا — دو پہاڑ، دو فوجاں، اِکو لفظ دو واری — پنجابی وِچ وی دوہرا رکھیا گیا"
+    }
+  ],
+  "translation": "تے پلتِستِی اِس پہاڑ اُتے کھلوندے سن تے یِسرائیل اُس پہاڑ اُتے کھلوندے سن، تے وادی اوہناں دے وِچکار سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5f279194e07111354121701d7c1527f9b5ebe2d96a6fba597c53b430f4617099",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/17\/2-3.1792123671288.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "تے پلتِستِی"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "کھلوندے سن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "اِس"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "تے یِسرائیل"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "کھلوندے سن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "اُس"
+    },
+    {
+      "surface": "והגיא",
+      "gloss": "تے وادی"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "اوہناں دے وِچکار"
+    }
+  ],
+  "timestamp": "2026-10-16T04:07:51.288675196Z",
+  "model": "glm-5.3"
+}

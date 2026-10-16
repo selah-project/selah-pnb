@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 11:26",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "عساہ + یل",
+      "rationale": "عبرانی متن وِچ اِک ناں עשהאל دو ٹوکناں وِچ ونڈیا اے؛ اِکو ناں 'عساہیل' رکھیا اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "ایہ سن",
+      "rationale": "عبرانی وِچ کوئی کریا نئیں، صرف ناواں دی لسٹ اے؛ پنجابی جملے لئی کریا ⟨⟩ وِچ پائی۔"
+    }
+  ],
+  "translation": "تے فوجاں دے بہادر جوان ⟨ایہ⟩ سن: عساہیل، یوآب دا بھرا، ایلحنان، دودو دا پتر، بیت لحم دا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "36ab2fa21c491604a086b1aa31cf077a625b894eddad66586599f0ebb1f72a05",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/11\/25-28.1792120564647.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגבורי",
+      "gloss": "تے بہادر"
+    },
+    {
+      "surface": "החילים",
+      "gloss": "فوجاں دے جوان"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "عساہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "یل"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "دا بھرا"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآب"
+    },
+    {
+      "surface": "אלחנן",
+      "gloss": "ایلحنان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پتر"
+    },
+    {
+      "surface": "דודו",
+      "gloss": "دودو"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لحم"
+    }
+  ],
+  "timestamp": "2026-10-16T03:16:04.648133121Z",
+  "model": "glm-5.3"
+}

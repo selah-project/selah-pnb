@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "بھروسہ نئیں کردا",
+      "rationale": "موجودہ واقفیت (کجھ پرانے ترجمے): 'کدی بھروسہ نئیں کراں گا' — مستقبل دا پڑھائیا"
+    }
+  ],
+  "translation": "کیوں جو میں اپنے کمان تے بھروسہ نئیں کردا، تے میڈی تلوار میں نوں بچا نئیں سکدی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e52cd2837ffbe59a8196daa5239e07cb97b990c377c88d197418130afd947f55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/44\/5-8.1792112499233.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "اپنے کمان تے"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "بھروسہ کردا"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "تے میڈی تلوار"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "میں نوں بچا سکدی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:01:39.233879204Z",
+  "model": "glm-5.3"
+}

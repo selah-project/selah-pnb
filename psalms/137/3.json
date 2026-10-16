@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 137:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 137,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سانوں",
+      "rationale": "שאלונו وچ 'سانوں' شامل اے، پنجابی وچ وکھ لفظ منگدا"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨منگی⟩",
+      "rationale": "دوجی وار فعل دہرایا گیا جو عبرانی نے چھڈیا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תוללינו",
+      "rationale": "'لُٹن والے' — عبرانی مطلب 'رلان والے\/ظالم'"
+    }
+  ],
+  "translation": "کیونکہ اوتھے ساڈے قید کرن والیاں نے سانوں گیت دے بچن منگے، اَتے ساڈے لُٹن والیاں نے خوشی ⟨منگی⟩، آکھدے: سانوں صیہون دا گیت گاؤ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4c65906e1db54a229031e86eb14c64855ad561b837bad5ce4adc111a08134a57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/137\/1-4.1792114113530.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اوتھے"
+    },
+    {
+      "surface": "שאלונו",
+      "gloss": "منگے"
+    },
+    {
+      "surface": "שובינו",
+      "gloss": "ساڈے قید کرن والیاں"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "دے بچن"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "گیت"
+    },
+    {
+      "surface": "ותוללינו",
+      "gloss": "اَتے ساڈے لُٹن والیاں"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "خوشی"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "گاؤ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "سانوں"
+    },
+    {
+      "surface": "משיר",
+      "gloss": "گیت"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صیہون دا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:28:33.531881322Z",
+  "model": "glm-5.3"
+}

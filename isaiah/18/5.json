@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 18:5",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩",
+      "rationale": "عبرانی وِچ فعل دا کرتا لکھیا نئیں؛ پنجابی نوں کوئی کرتا چاہیدا اے"
+    },
+    {
+      "kind": "hapax",
+      "subject": "התז",
+      "rationale": "لفظ 'تَزَز' (ترٹورنا) تنخ وِچ صرف اِتھے آیا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נצה",
+      "rationale": "נצה تے פרח دو وکھرے عبرانی لفظ نیں پر پنجابی وِچ دوویں 'پھُل' بندے نیں"
+    }
+  ],
+  "translation": "کیوں جے فصل توں پہلاں، جدوں پھُل مکمل ہووے تے پھُل وِچ کچا انگور پکّدا پیا ہووے، ⟨اوہ⟩ کمّل ٹاہنیاں چھانٹݨ دے چاقوواں نال کٹیگا، تے ⟨ואת⟩ تاندیاں نوں ہٹا کے ترٹوائیگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "845e90fd0fe0e4ca67aaf26c4b5f4ee3c0f2494cc19f87e6d6ed1e5703721f47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/18\/5-7.1792106164593.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جے"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "توں پہلاں"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "فصل"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "مکمل ہووے"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "پھُل"
+    },
+    {
+      "surface": "ובסר",
+      "gloss": "تے کچا انگور"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "پکّدا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہووے"
+    },
+    {
+      "surface": "נצה",
+      "gloss": "پھُل ⟨کھِلدا⟩"
+    },
+    {
+      "surface": "וכרת",
+      "gloss": "تے کٹیگا"
+    },
+    {
+      "surface": "הזלזלים",
+      "gloss": "کمّل ٹاہنیاں"
+    },
+    {
+      "surface": "במזמרות",
+      "gloss": "چھانٹݨ دے چاقوواں نال"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "تاندیاں نوں"
+    },
+    {
+      "surface": "הנטישות",
+      "gloss": "تاندیاں"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "ہٹائیگا"
+    },
+    {
+      "surface": "התז",
+      "gloss": "ترٹوائیگا"
+    }
+  ],
+  "timestamp": "2026-10-15T23:16:04.594697653Z",
+  "model": "glm-5.3"
+}

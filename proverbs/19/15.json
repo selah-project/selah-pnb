@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 19:15",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جان-طاقت اے، صرف “روح” نئیں۔"
+    }
+  ],
+  "translation": "سُستی گہری نیند پا دیندی اے، تے کاہل جان بھُکھی رہوندی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4db57d3e7984a0cd60fd6edf2d7f04c1d323a7bd066f653ba32aac9a5bab8464",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/19\/13-16.1792114903349.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עצלה",
+      "gloss": "سُستی"
+    },
+    {
+      "surface": "תפיל",
+      "gloss": "پا دیندی اے"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "گہری نیند"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "تے جان"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "کاہل"
+    },
+    {
+      "surface": "תרעב",
+      "gloss": "بھُکھی رہوندی اے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:41:43.350649528Z",
+  "model": "glm-5.3"
+}

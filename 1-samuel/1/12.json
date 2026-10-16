@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 1:12",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ویکھدا رہا",
+      "rationale": "ש׮ר پہرہ دینا\/نگاہ رکھنا اے — محض اک نہہ نئیں، تاکید نال گھورنا"
+    }
+  ],
+  "translation": "تے ایہہ ہویا کیونکہ اُس یاہوہ اگے بہت دعا منگی، تے عالی ⟨את⟩ اُسدے مونہہ نوں ویکھدا رہا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3ce2494292e34820f4e727421f29ea59850c5f61fd5106972c371238012bbdcc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/1\/9-12.1792102127448.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "تے ایہہ ہویا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "הרבתה",
+      "gloss": "بہت"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "دعا منگن"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اگے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "تے عالی"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ویکھدا رہا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اُسدے مونہہ نوں"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "اُسدا مونہہ"
+    }
+  ],
+  "timestamp": "2026-10-15T22:08:47.450123896Z",
+  "model": "glm-5.3"
+}

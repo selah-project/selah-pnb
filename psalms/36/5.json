@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 36:5",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "اون",
+      "rationale": "אוון دی جڑ 'کوئی چیز نہ ہونا' اے — 'برائی' توں علاوہ 'ویر\/'فقط' وی پڑھیا گیا اے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "گھڑدا اے",
+      "rationale": "חשב دا مول مطلب 'گانڈھݨا\/وُنݨا' اے، یعنی دغاباز دا مکر گیانٹ دے طور تے۔"
+    }
+  ],
+  "translation": "اوہ اپنے پعھتے اُتے اون گھڑدا اے، اوہ اک اجہی راہ اُتے کھڑا ہندا اے جیہڑی چنگی نئیں، برائی نوں اوہ رد نئیں کردا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3974f2fe32fd51618047ae2396e57696fcce2851acb852e3956037b9ac203b8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/36\/5-8.1792112306227.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "اون"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "گھڑدا اے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "اپنے پعھتے"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "کھڑا ہندا اے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "راہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگی"
+    },
+    {
+      "surface": "רע",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "رد کردا"
+    }
+  ],
+  "timestamp": "2026-10-16T00:58:26.228128996Z",
+  "model": "glm-5.3"
+}

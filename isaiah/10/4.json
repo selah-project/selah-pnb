@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 10:4",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בלתי",
+      "rationale": "KJV 'میرے توں بِنا' (בלתי نوں 'مینوں' پڑھدا)، ASV 'کجھ نئیں سواۓ' — پنجابی 'بَجھائی بِنا' مول دی حالت رکھدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "غصہ",
+      "rationale": "אף مول روپ وِچ 'نَک\/شوں' اے — عبرانی غصے نوں نَک دے پھُلݨ وِچ دیکھدا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תחת…ותחת",
+      "rationale": "'ہیٹھاں…تے ہیٹھاں' — قیدیاں ہیٹھاں تے ماریاں ہویاں ہیٹھاں، اِکو تال دہرائی"
+    }
+  ],
+  "translation": "بَجھائی بِنا قیدی ہیٹھاں جھُکنا، تے ماریاں ہویاں ہیٹھاں ڈِگنا۔ ایس سارے تے وی اوہدا غصہ نئیں مُڑیا، تے اوہدا ہتھ ہُن وی اِکیا ہویا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b7a0533bc715a8c1189f8babbc53ca1fb55913a3a12afc6efb9f0952c080c199",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/10\/1-4.1792106058213.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בלתי",
+      "gloss": "بَجھائی بِنا"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "جھُکنا"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ہیٹھاں"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "قیدی"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "تے ہیٹھاں"
+    },
+    {
+      "surface": "הרוגים",
+      "gloss": "ماریاں ہویاں"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ڈِگنا"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ایس سارے وِچ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ایس"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "שב",
+      "gloss": "مُڑیا"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "اوہدا غصہ"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "تے ہُن وی"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "اوہدا ہتھ"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "اِکیا ہویا"
+    }
+  ],
+  "timestamp": "2026-10-15T23:14:18.214401703Z",
+  "model": "glm-5.3"
+}

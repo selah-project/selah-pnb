@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 13:7",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מצות\/חמץ",
+      "rationale": "بےخمیری تے خمیری دا ٹاکرا — اِکو آیت وِچ دو واری 'نہ دِکھے' دا وار وار آؤنا"
+    },
+    {
+      "kind": "measurement",
+      "subject": "seven days",
+      "rationale": "دناں دی مقرر گنتی"
+    }
+  ],
+  "translation": "ستّ دناں تیک بےخمیری روٹیاں ⟨את⟩ کھائیا جانگے، تے تیرے کول خمیری روٹی نہ دِکھے، تے تیرے کول خمیر نہ دِکھے، تیرے سارے حدبندی وِچ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "63921b0ac43f34ab98dcd840ddc4c781e370aff641b069dfb8cf5230f9dd2ae0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/13\/5-8.1792096449833.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מצות",
+      "gloss": "بےخمیری روٹیاں"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کھائیا جانگے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ستّ دناں نوں"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ستّ"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "دناں"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "دِکھے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیرے کول"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "خمیری روٹی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "دِکھے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیرے کول"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "خمیر"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "تیری حدبندی وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T20:34:09.834319333Z",
+  "model": "glm-5.3"
+}

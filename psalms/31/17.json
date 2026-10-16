@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 31:17",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "خیسِد",
+      "rationale": "חסד نوں خیسِد رکھیا گیا اے، ⟨رحمت⟩ صرف وضاحت لئی؛ ایہو لفظ اگلے مزامیر وِچ دہرایا جاوے گا"
+    }
+  ],
+  "translation": "اپنا چہرہ اپنے بندے اُتے چمکا، مینوں اپنے خیسِد ⟨رحمت⟩ وِچ بچا لے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9b59587d797f302d4a591541f55483600804e5612d4c188375668f3d7f0833de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/31\/17-20.1792112168702.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האירה",
+      "gloss": "چمکا"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "اپنا چہرہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "اپنے بندے"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "مینوں بچا لے"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "اپنے خیسِد وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T00:56:08.702923017Z",
+  "model": "glm-5.3"
+}

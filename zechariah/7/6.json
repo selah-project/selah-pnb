@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 7:6",
+  "book": "zechariah",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תאכלו\/האכלים · תשתו\/השתים",
+      "rationale": "عمل تے کردار اکو جڑھ توں دہرائے گئے نیں — کھانا\/کھان والا، پینا\/پین والا — پنجابی وِچ جوڑ ٹھیک رکھیا گیا اے۔"
+    },
+    {
+      "kind": "you",
+      "subject": "روزے رکھن والے لوک",
+      "rationale": "سدھا سوال مخاطب قوم نوں۔"
+    }
+  ],
+  "translation": "تے جدوں تسیں کھاندے او تے جدوں تسیں پیوندے او، کی تسیں ہی نئیں جیہڑے کھان والے، تے تسیں ہی جیہڑے پین والے؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "cd9eac0da49561c5e02cc5d3e781fed677bace510fb409453cf1344b91dc08d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/zechariah\/7\/5-8.1792111508968.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "تے جدوں"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "تسیں کھاندے او"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "تے جدوں"
+    },
+    {
+      "surface": "תשתו",
+      "gloss": "تسیں پیوندے او"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "کی … نئیں"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تسیں ہی"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "کھان والے"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "تے تسیں ہی"
+    },
+    {
+      "surface": "השתים",
+      "gloss": "پین والے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:45:08.969260564Z",
+  "model": "glm-5.3"
+}

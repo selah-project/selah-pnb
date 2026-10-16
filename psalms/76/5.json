@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 76,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "مہرری ترپھ",
+      "rationale": "‘شکار والے پہاڑ’ — پہاڑاں توں موازنہ یا پہاڑاں توں اترنا، دوویں پڑھائیاں نیں۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נאור",
+      "rationale": "ב passive roshem ‘اوہ چمکیا’ — ‘تُو چانن والا ایں’ کیہا، سورج چڑھن دی تھاں۔"
+    }
+  ],
+  "translation": "تُو چانن والا ایں، شکار والے پہاڑاں توں ودھ شاندار ایں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2a74c3ec15b03c54751aa2fb13eeaf047c52e9e4390a0d393c579c4d9caf67e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/76\/5-8.1792113010276.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "چانن والا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُو"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "شاندار"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "پہاڑاں توں ودھ"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "شکار والے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:10:10.277015270Z",
+  "model": "glm-5.3"
+}

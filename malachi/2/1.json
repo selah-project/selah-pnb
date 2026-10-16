@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 2:1",
+  "book": "malachi",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اے⟩",
+      "rationale": "پنجابی پکار لئی چِنجڑی منگدی اے، عبرانی وِچ نئیں"
+    },
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "عبرانی وِچ کاپولا نئیں، پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "you",
+      "subject": "کاہناں نوں",
+      "rationale": "سدھی خطاب — کاہناں والی ٹولی نوں"
+    }
+  ],
+  "translation": "تے ہُن تُہاڈے لئی ⟨اے⟩ ایہہ حکم اے، اے کاہنو،",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "dd82bcdabdf8b43f73f4a7e460cc05ae7a0ccce12245284aef255edbfdcdd1c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/malachi\/2\/1-4.1792111741567.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "تے ہُن"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "تُہاڈے لئی"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "ایہہ حکم"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "اے کاہنو"
+    }
+  ],
+  "timestamp": "2026-10-16T00:49:01.567821557Z",
+  "model": "glm-5.3"
+}

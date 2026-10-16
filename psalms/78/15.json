@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 78:15",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوہناں نوں",
+      "rationale": "عبرانی وِچ مفعول صریح نئیں، پنجابی وضاحت منگدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תהומות",
+      "rationale": "تھہاں — گہرے پانیاں دا مطلب، 'سمندر' بہت تھوڑا اے"
+    }
+  ],
+  "translation": "اوہنے بیابان وِچ چٹاناں نوں پاڑیا، تے اوہناں نوں وڈیاں تھہاں وانگو پلا پانیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "72c6c5410ab05fc6c4f97fac561837ad9097507f1b394ff4793951fcaa5d00eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/78\/13-16.1792113049899.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבקע",
+      "gloss": "پاڑیا"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "چٹاناں نوں"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "بیابان وِچ"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "تے پلا پانیا"
+    },
+    {
+      "surface": "כתהמות",
+      "gloss": "تھہاں وانگو"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "وڈیاں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:10:49.900554989Z",
+  "model": "glm-5.3"
+}

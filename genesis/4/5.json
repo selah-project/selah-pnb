@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 4:5",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "دھیان نئیں دتا",
+      "rationale": "שעה על دی عبارت وچ 'اوہدے ول نئیں ویکھیا' دا فعل پنجابی توں پایا گیا اے، عبرانی وچ صرف 'نئیں ویکھیا' اے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "غصہ بھڑکیا",
+      "rationale": "ויחר دا پہلا مطلب 'گرم ہووݨا \/ بھڑکݨا' اے — عبرانی غصے نوں اگّ دی تپش وانگوں دسدا اے۔"
+    }
+  ],
+  "translation": "پر قاین ولّی تے اودے НА唷۔ پَر قاین نوں تے اودے نذر نوں اوہدے ول نئیں ویکھیا، تے قاین نوں بہت غصہ بھڑکیا تے اودھا مونہہ ڈِگ پیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "845bf8e1b65f7b4778feae68e057396bb8546e6b8d5ea994c34b51979077c292",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/4\/5-8.1792094657112.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "پر … نوں"
+    },
+    {
+      "surface": "קין",
+      "gloss": "قاین"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے … نوں"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "اودھے نذر نوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "שעה",
+      "gloss": "ویکھیا"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "تے بھڑکیا"
+    },
+    {
+      "surface": "לקין",
+      "gloss": "قاین نوں"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بہت"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "تے ڈِگے"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "اودھے مونہہ"
+    }
+  ],
+  "timestamp": "2026-10-15T20:04:17.113052757Z",
+  "model": "glm-5.3"
+}

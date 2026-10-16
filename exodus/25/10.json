@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 25:10",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ناپ",
+      "rationale": "لمبائی چوڑائی اُچائی ہتھاں وِچ ناپی گئیاں نیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "صندوق",
+      "rationale": "ארון «صندوق» اے، «ہارون» ناں توں وکھرا ٹبر"
+    }
+  ],
+  "translation": "تے تسیں بناؤ صندوق کیکر لکڑی دا: دو ہتھ تے ادھ اوہدا لمبائی، تے اِک ہتھ تے ادھ اوہدی چوڑائی، تے اِک ہتھ تے ادھ اوہدی اُچائی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ee373294631b19d6f72f876a528b328eb08cf3d35438145d3cf68c8988146930",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/25\/9-12.1792096841741.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "تے تسیں بناؤ"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "لکڑی"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "کیکر"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "دو ہتھ"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "تے ادھ"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "اوہدا لمبائی"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "تے اِک ہتھ"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "تے ادھ"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "اوہدی چوڑائی"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "تے اِک ہتھ"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "تے ادھ"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "اوہدی اُچائی"
+    }
+  ],
+  "timestamp": "2026-10-15T20:40:41.742935369Z",
+  "model": "glm-5.3"
+}

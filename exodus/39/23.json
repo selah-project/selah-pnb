@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 39:23",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "عبرانی وِچ 'سی' دی کوئی جُڑ نئیں — پنجابی دی لوڑ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תַּחְרָא",
+      "rationale": "'زِرہ دا کُڑتا' — شاید چِٹی سُتی زِرہ، کجھ پرانے ترجمے 'سرہی' آکھدے نیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "פִּי",
+      "rationale": "'منہ' — عبرانی پی وشواری توں علاوہ سوراخ لئی وی، پنجابی وِچ 'منہ' رکھیا"
+    }
+  ],
+  "translation": "تے جُبّے دا منہ اودے وِچکار ⟨سی⟩، جیویں زِرہ دے کُڑتے دا منہ — اودے منہ دے دوالے کنارا چار پاسے، تاں جو اوہ پھٹے نہ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b3f98826d88843aecb50152138af33c27e1c3f201549df9f04888ed1ed70d531",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/39\/21-24.1792097328560.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופי",
+      "gloss": "تے منہ"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "جُبّے دا"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "اودے وِچکار"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "جیویں منہ"
+    },
+    {
+      "surface": "תחרא",
+      "gloss": "زِرہ دے کُڑتے دا"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "کنارا"
+    },
+    {
+      "surface": "לפיו",
+      "gloss": "اودے منہ دے دوالے"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چار پاسے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יקרע",
+      "gloss": "پھٹے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:48:48.561809362Z",
+  "model": "glm-5.3"
+}

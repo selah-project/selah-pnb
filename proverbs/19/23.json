@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 19:23",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "יפקד רע",
+      "rationale": "'be visited with evil' — Hebrew פקד as divine visitation; Punjabi 'آوے گی' (will come to him) loses the visitation image"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ושבע ילין",
+      "rationale": "'he who is sated with it (the fear) will lodge' — subject may be the fear itself rather than the person"
+    }
+  ],
+  "translation": "یاہوہ دا ڈر جیون ول لے جاندا اے، تے اوہ رجّ کے ٹھہریگا، برائی اوہدے پاسے نئیں آوے گی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f3c37f1b94bb87d26d2143964b5ddc38aba25361142ea20519786dd7e9fd4257",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/19\/21-24.1792114838955.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "ڈر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دا"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "جیون ول"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "تے رجّ کے"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "ٹھہریگا"
+    },
+    {
+      "surface": "בל",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "آوے گی"
+    },
+    {
+      "surface": "רע",
+      "gloss": "برائی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:40:38.955863217Z",
+  "model": "glm-5.3"
+}

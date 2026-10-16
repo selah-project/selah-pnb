@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 44:24",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ויהי כי",
+      "rationale": "عبرانی دا مکرر 'تے ہویا کہ' جوڑ — پنجابی وِچ 'تے ایہہ ہویا کہ جدوں' نال رکھیا، بھارا نئیں کیتا"
+    }
+  ],
+  "translation": "تے ایہہ ہویا کہ جدوں اسیں تیرے غلام، اپنے پیو دے کول چڑھ گئے، تاں اسیں اوہنوں ⟨את⟩ اپنے سائیں دے بچن دسّے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5c3d7b915734945335198bfb967da9e29d2b152041fa9243dd5f30456f19980c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/44\/21-24.1792095861978.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے ایہہ ہویا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ جدوں"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "اسیں چڑھ گئے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دے کول"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "تیرے غلام"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "اپنے پیو"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "تاں اسیں دسّے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہنوں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنے سائیں دے بچن"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "دے بچن"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اپنے سائیں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:24:21.980562622Z",
+  "model": "glm-5.3"
+}

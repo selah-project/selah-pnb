@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 17:4",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "באפי",
+      "rationale": "لفظی 'میری نَک وِچ' — عبرانی غصے دی مورت؛ 'میرے غصے وِچ' دتا"
+    },
+    {
+      "kind": "crux",
+      "subject": "ובך",
+      "rationale": "'تے تُوں آپ' یا 'تیرے آپ دی کر کے' (ASV 'even of thyself') — وراثت چھڈݨ دا ذمے دار کون"
+    },
+    {
+      "kind": "you",
+      "subject": "مخاطب",
+      "rationale": "یِہوداہ نوں سِدھا خطاب — سزا دی اعلان"
+    }
+  ],
+  "translation": "تے تُوں آپ اُوڑ جاویں گا اپنی وراثت توں جیہڑی میں تینوں دِتی، تے میں تینوں تیرے ویریاں نوں ⟨את⟩ اِس دیش وِچ غلام بناواں گا جیہڑا تُوں نئیں جاندا، کیونکہ تُساں میرے غصے وِچ اگّ بال دِتی اے — اوہ ہمیشہ تک بلدی رہوگی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c91a8fd4a3225649c2c2c64e033a6e488a52e30a749143f611eac9e072d89bc9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/17\/1-4.1792107752883.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמטתה",
+      "gloss": "تے تُوں اُوڑ جاویں گا"
+    },
+    {
+      "surface": "ובך",
+      "gloss": "تے تُوں آپ"
+    },
+    {
+      "surface": "מנחלתך",
+      "gloss": "اپنی وراثت توں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "میں دِتی"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تینوں"
+    },
+    {
+      "surface": "והעבדתיך",
+      "gloss": "تے میں تینوں غلام بناواں گا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تیرے ویریاں نوں"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "تیرے ویریاں"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "دیش وِچ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "تُوں جاندا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "اگّ"
+    },
+    {
+      "surface": "קדחתם",
+      "gloss": "تُساں بال دِتی"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "میرے غصے وِچ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "بلدی رہوگی"
+    }
+  ],
+  "timestamp": "2026-10-15T23:42:32.884616410Z",
+  "model": "glm-5.3"
+}

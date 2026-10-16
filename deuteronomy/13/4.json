@@ -1,0 +1,145 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 13:4",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جیون-زور اے، روح دی مُکھ ونگی نئیں — ‘جان’ سبھ توں نیڑے اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "او",
+      "rationale": "پنجابی فیصل والا فارم ‘کی… او’ منگدا اے؛ عبرانی ה + participle اے"
+    },
+    {
+      "kind": "you",
+      "subject": "یِسرائیل",
+      "rationale": "سِدھا مخاطب: ‘تسیں نہ سُنو’ — پورا باب بنی اِسرائیل نوں سدّا اے"
+    }
+  ],
+  "translation": "تسیں اُس نبی دیاں گلاں نہ سُنو، جاں اُس سپنیاں ویکھن والے دِیاں، کیونکہ تُہاڈا یاہوہ ایلوہیم ⟨את⟩ تُہانوں پرکھدا اے، ایہ جانن لئی کہ کی تسیں یاہوہ اپنے ایلوہیم نوں سارے دل تے ساری جان نال پیار کردے او۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "542fd8d0522e6009e64564577275be6afd7271017da2e841f66b82c3b01a45e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/13\/1-4.1792100026041.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "سُنو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اُدے"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "گلاں"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "اُس نبی"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اُس"
+    },
+    {
+      "surface": "או",
+      "gloss": "جاں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اُدے"
+    },
+    {
+      "surface": "חולם",
+      "gloss": "سپنیاں ویکھن والے"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "سپنے"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اُس"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "מנסה",
+      "gloss": "پرکھدا اے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "تُہاڈا ایلوہیم"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "تُہانوں"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "جانن لئی"
+    },
+    {
+      "surface": "הישכם",
+      "gloss": "کی"
+    },
+    {
+      "surface": "אהבים",
+      "gloss": "پیار کردے او"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ اپنے ایلوہیم نوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "اپنے ایلوہیم"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "لבבכם",
+      "gloss": "دل"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "تے ساری"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "جان"
+    }
+  ],
+  "timestamp": "2026-10-15T21:33:46.042548682Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 8:7",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ראשיתך\/אחריתך",
+      "rationale": "'مُڈھ\/آخری انتہا' — عبرانی دا 'پہلا\/آخری' جوڑا، وقت تے حالت دوویں دسدا اے۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מצער\/ישגה מאד",
+      "rationale": "نِکی vs بہوں ودھ — צער 'چھوٹا' تے שגה 'وڈا ہونا' دا ٹاکرا، آیت دی سٹرکچر اے۔"
+    }
+  ],
+  "translation": "تاں تیرا مُڈھ بہوں نِکی ہووے تے تیری آخری انتہا بہوں وڈی ہووے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "dfe413fbc92753263dd6c5c295bde0023545c9410cf4c5314581b826b1a975d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/8\/5-8.1792115467700.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "تاں ہووے"
+    },
+    {
+      "surface": "ראשיתך",
+      "gloss": "تیرا مُڈھ"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "بہوں نِکی"
+    },
+    {
+      "surface": "ואחריתך",
+      "gloss": "تے تیری آخری انتہا"
+    },
+    {
+      "surface": "ישגה",
+      "gloss": "بہوں وڈی ہووے"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بہوں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:51:07.701206511Z",
+  "model": "glm-5.3"
+}

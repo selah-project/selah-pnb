@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 13:11",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "دُہرا قبیلہ",
+      "rationale": "یوسف دو قبیلےآں وِچ گنیا جاندا اے، ایتھے صرف مِناشہ اوہدے حصے دا نمائندہ اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨توں⟩",
+      "rationale": "پنجابی اعداد لئی 'توں' منگدا اے"
+    }
+  ],
+  "translation": "یوسف دے قبیلے ⟨توں⟩، مِناشہ دے قبیلے ⟨توں⟩، گدّی، سُسی دا پُتر۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d4f4e41b28025210266f7ab59e24d28b44e5452414612de979bf1d86cd9a9cd5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/13\/9-12.1792098564635.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "قبیلے"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "قبیلے"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "مِناشہ"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "گدّی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "סוסי",
+      "gloss": "سُسی"
+    }
+  ],
+  "timestamp": "2026-10-15T21:09:24.635781764Z",
+  "model": "glm-5.3"
+}

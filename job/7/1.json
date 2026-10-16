@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 7:1",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צבא",
+      "rationale": "KJV 'appointed time\/service' بمقابلہ ASV\/YLT 'warfare' — شہ جنگ دی خدمت اے یا محض تعینService؛ میں 'فوجی خدمت' رکھیا اے۔"
+    },
+    {
+      "kind": "elision",
+      "subject": "וכימי שכיר ימיו",
+      "rationale": "عبرانی دی مختصر تشبیہ دے وِچکار دی کپیula پنجابی نے نئیں منگی، تے بریک لگایا گیا اے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לאנוש",
+      "gloss-note": "",
+      "rationale": "אנוש 'مردہ ہوون والا' ہے — 'بندہ' اوہدی بھاونڈی (mortal) ہئیت نئیں چکدا۔"
+    }
+  ],
+  "translation": "کی بندے لئی دھرتی اُتے فوجی خدمت نئیں، تے جیوں مزدور دے دِن — اوہدے دِن؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "41b6471a0cb73396cea584d43085c4b73243f686816d781d4463aee8ec29aad7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/7\/1-4.1792115564723.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "کی…نئیں"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "فوجی خدمت"
+    },
+    {
+      "surface": "לאנוש",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "دھرتی"
+    },
+    {
+      "surface": "וכימי",
+      "gloss": "تے جیوں دِن"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "مزدور دے"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "اوہدے دِن"
+    }
+  ],
+  "timestamp": "2026-10-16T01:52:44.723919450Z",
+  "model": "glm-5.3"
+}

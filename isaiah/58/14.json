@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 58:14",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ענג",
+      "rationale": "תתענג اوہو جڑ اے جیہڑی آیت 13 دے ענג وِچ اے — شبّات دا عیش یاہوہ دے عیش وچ بدلدا اے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "باموتی ارض",
+      "rationale": "'دھرتی دیاں اُچیاں تھاواں' — باموت کسے ویلے اُچیاں تھاواں نئیں سگوں پوجا دیاں تھاواں وی ہندیاں نیں"
+    }
+  ],
+  "translation": "تدائیں تُوں یاہوہ وِچ عیش کریں، تے میں تینوں دھرتی دیاں اُچیاں تھاواں اُتے چڑھاواں، تے تینوں اپنے پیو یعقوو دی وراثت کھواواں، کیونکہ یاہوہ دے مونہہ نے بولیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "25ac35dfc8d68c7cd3c03c04176c6051f0c3dcefab9e322937eeeb3f3735fe5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/58\/13-14.1792107030661.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "تدائیں"
+    },
+    {
+      "surface": "תתענג",
+      "gloss": "تُوں عیش کریں"
+    },
+    {
+      "surface": "על",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "והרכבתיך",
+      "gloss": "تے میں تینوں چڑھاواں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "במותי",
+      "gloss": "اُچیاں تھاواں"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "دھرتی دیاں"
+    },
+    {
+      "surface": "והאכלתיך",
+      "gloss": "تے میں تینوں کھواواں"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "وراثت"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوو"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "تیرے پیو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "مونہہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "بولیا"
+    }
+  ],
+  "timestamp": "2026-10-15T23:30:30.662345245Z",
+  "model": "glm-5.3"
+}

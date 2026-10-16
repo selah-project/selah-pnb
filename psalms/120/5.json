@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 120,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עם אהלי קדר",
+      "rationale": "KJV 'among the tents' vs JPS 'beside the tents' — עם نال دا مطلب 'نال\/کولھ' اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גרתי \/ שכנתי",
+      "rationale": "دو قریبی مترادف فعل — غیرملکی ہوندے ہوئے رہنا — پنجابی وِچ ٹکا رہیا\/وسیا"
+    }
+  ],
+  "translation": "مینوں افسوس اے کہ میں مِشیک وِچ ٹکا رہیا، میں قیدار دے ٹبّاں نال وسیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d43459e9860c7aab20df4312462f58b3e28a6f029a059b37119b1f207290744d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/120\/5-7.1792113936690.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "افسوس"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مینوں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "ٹکا رہیا"
+    },
+    {
+      "surface": "משך",
+      "gloss": "مِشیک"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "وسیا"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "ٹبّاں"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "قیدار"
+    }
+  ],
+  "timestamp": "2026-10-16T01:25:36.691127158Z",
+  "model": "glm-5.3"
+}

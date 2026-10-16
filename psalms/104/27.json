@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 104:27",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ישברון",
+      "rationale": "שבר اِتھے 'تڑپ کے اُڈیکنا' اے، چِٹّا ویکھنا نئیں"
+    }
+  ],
+  "translation": "ایہہ سارے تیری اُڈیک کردے نیں، کہ تُوں ⟨اُوہناں نوں⟩ اُوہناں دے ویلے اُتے کھانا دیویں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a10f68254273223205028554c75dfe0516cce489273eb2984a69399cb2f79be9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/104\/25-28.1792113524438.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "ایہہ سارے"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تیری ول"
+    },
+    {
+      "surface": "ישברון",
+      "gloss": "اُڈیک کردے نیں"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "کہ تُوں دیویں"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "اُوہناں دا کھانا"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "اُوہناں دے ویلے اُتے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:18:44.438887839Z",
+  "model": "glm-5.3"
+}

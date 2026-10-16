@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 5:27",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨چٹا⟩",
+      "rationale": "عبرانی صرف 'برف وانگ' آکھدا اے؛ پنجابی وِچ چٹا ہونا پورا کرنا پیندا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צרעת…מצרע",
+      "rationale": "کوڑھ تے کوڑھی — اِکو جڑ دا دوہرا روپ، سزا تے سزا یافتہ اِکو آیت وِچ"
+    }
+  ],
+  "translation": "تے نعمان دی کوڑھ تیرے نال تے تیرے نسل نال ہمیشا لئی چمبڑ جاوے گی۔ تے اوہ اُس دے ساہمنے توں نِکلیا، کوڑھی ہو کے، برف وانگ ⟨چٹا⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8edaa30a94dbf14b93d11841a4f61ec84cbf897279df5d741f932797871a9825",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/5\/25-27.1792104981340.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצרעת",
+      "gloss": "تے کوڑھ"
+    },
+    {
+      "surface": "נעמן",
+      "gloss": "نعمان"
+    },
+    {
+      "surface": "תדבק",
+      "gloss": "چمبڑ جاوے گی"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تیرے نال"
+    },
+    {
+      "surface": "ובזרעך",
+      "gloss": "تے تیرے نسل نال"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشا لئی"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "تے نِکلیا"
+    },
+    {
+      "surface": "מלפניו",
+      "gloss": "اُس دے ساہمنے توں"
+    },
+    {
+      "surface": "מצרע",
+      "gloss": "کوڑھی ہو کے"
+    },
+    {
+      "surface": "כשלג",
+      "gloss": "برف وانگ"
+    }
+  ],
+  "timestamp": "2026-10-15T22:56:21.341545532Z",
+  "model": "glm-5.3"
+}

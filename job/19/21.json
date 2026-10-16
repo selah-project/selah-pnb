@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 19:21",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חנני חנני",
+      "rationale": "دُہراؤ — درد دی پُکار، پنجابی وِچ وی دُہرایا گیا"
+    },
+    {
+      "kind": "you",
+      "subject": "تُساں میرے یارو",
+      "rationale": "ایوب اپنیاں یارتاں نوں سدھا مخاطب اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "رحم کرو",
+      "rationale": "חנר مولوں جھُک کے نیویں اُتے مہربانی کرنا اے"
+    }
+  ],
+  "translation": "میرے اُتے رحم کرو، میرے اُتے رحم کرو، تُساں میرے یارو، کیونجے ایلوہ دے ہتھ نے مینوں چھوہیا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "241a3e22f7ceaddca00379f095cffab6f6c80b77b351301c1ba443c9f17ac325",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/19\/21-24.1792115889489.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "میرے اُتے رحم کرو"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "میرے اُتے رحم کرو"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تُساں"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "میرے یارو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ایلوہ"
+    },
+    {
+      "surface": "נגעה",
+      "gloss": "چھوہیا اے"
+    },
+    {
+      "surface": "בי",
+      "gloss": "مینوں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:58:09.490003254Z",
+  "model": "glm-5.3"
+}

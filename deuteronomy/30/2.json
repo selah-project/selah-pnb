@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 30:2",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש is breath\/life-force, not immaterial soul"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Direct second-person address continues"
+    }
+  ],
+  "translation": "تے توں یاہوہ اپنے ایلوہیم ول واپس آویں گا تے اوہدی آواز نوں سنیں گا، اُوہو سارا کجھ جیہڑا میں تینوں اَج حکم کردا آں — توں تے تیرے پُتر — سارے دِل نال تے ساری جان نال،",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f4fa5485448be3f6c4a23bee0c8bdaf45de84f7449d91d37ab125883014f80a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/30\/1-4.1792100499418.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושבת",
+      "gloss": "تے توں واپس آویں گا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ول"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "اپنے ایلوہیم"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "تے سنیں گا"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "اوہدی آواز نوں"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "اُوہو سارا کجھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "تینوں حکم کردا آں"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اَج"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "توں"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "تے تیرے پُتر"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "دِل"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "تے ساری"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "جان"
+    }
+  ],
+  "timestamp": "2026-10-15T21:41:39.418888656Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اِک نسل اے⟩",
+      "rationale": "عبرانی وِچ کوئی کریا نئیں، صرف 'نسل' کھلوندی اے؛ آیت 13 دے 'اِک نسلی نسل' والے وزن دا پہلا ٹکڑا"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קלל\/ברך",
+      "rationale": "ہلکا کرنا بمقابلہ برکت دینا — ضدمت اسلوب، دوہرا عکس دے نال"
+    }
+  ],
+  "translation": "⟨اِک⟩ نسل اے جیہڑی اپنے پیو نوں ہلکا جاندی اے تے ⟨את⟩ اپنی ماں نوں برکت نئیں دیندی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d343f7d21d47d0dcc93b15c7d598a54b798a382d73f2a82b16355da7cfbe58d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/30\/9-12.1792115234945.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "نسل ⟨اِک⟩"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "اپنے پیو"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "ہلکا جاندی اے"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اپنی ماں"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "اپنی ماں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "برکت دیندی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:47:14.946129151Z",
+  "model": "glm-5.3"
+}

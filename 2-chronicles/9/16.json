@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 9:16",
+  "book": "2-chronicles",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "چڑھدا دے نال جوڑ ⟨⟩ وِچ پایا"
+    },
+    {
+      "kind": "elision",
+      "subject": "شیکل",
+      "rationale": "عبرانی 'تن سو سونا' — 'شیکل' مترجم جوڑدے نیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מגן",
+      "rationale": "چھوٹا ڈھال (بکلر) — צנה وڈے ڈھال توں وکھرا لفظ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "تن سو",
+      "rationale": "ڈھالاں دی گنتی تے ہر اِک دا وزن دتا گیا"
+    }
+  ],
+  "translation": "تے تن سو چھوٹے ڈھال کُٹے سونے دے — اِک ڈھال اُتے تن سو سونا چڑھدا ⟨سی⟩ — تے بادشاہ نے اوہناں نوں لبنان دے جنگل دے گھر وِچ رکھیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ed74386c79c2606b92095c6a3600b2c60dbc8c86ace6139c53df08e99eb51652",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/9\/13-16.1792121911937.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושלש",
+      "gloss": "تے تن"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "מגנים",
+      "gloss": "چھوٹے ڈھال"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونے دے"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "کُٹے"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "تن"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونا"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "چڑھدا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "המגן",
+      "gloss": "ڈھال"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "اِک"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "تے رکھیا اوہناں نوں"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ نے"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "گھر وِچ"
+    },
+    {
+      "surface": "יער",
+      "gloss": "جنگل دے"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "لبنان دے"
+    }
+  ],
+  "timestamp": "2026-10-16T03:38:31.938565830Z",
+  "model": "glm-5.3"
+}

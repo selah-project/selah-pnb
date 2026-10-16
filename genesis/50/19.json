@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 50:19",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ہاں⟩",
+      "rationale": "عبرانی سوال وچ کوپولا نئیں لکھدا؛ 'کی میں … دی تھاں ہاں؟' لئی لوڑ"
+    },
+    {
+      "kind": "crux",
+      "subject": "התחת אלהים",
+      "rationale": "'ایلوہیم دے ہیٹھاں' بمقابلہ 'ایلوہیم دی تھاں' — بہت سارے ترجمے 'تھاں' چُندے نیں، لفظی 'تھلے' اے"
+    },
+    {
+      "kind": "you",
+      "subject": "بھراواں نوں",
+      "rationale": "یوسیف دا سِدھا جواب — 'ڈرؤ نہیں'"
+    }
+  ],
+  "translation": "تے یوسیف نے اوہناں نوں آکھیا: ڈرؤ نہیں، کیوں جو کی میں ایلوہیم دی تھاں ⟨ہاں⟩؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "08234d931fdabe92398d69dd06243c33c2752fd01a5554c59c8f2c52857005be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/50\/17-20.1792096145486.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "اوہناں نوں"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسیف نے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ڈرؤ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "התחת",
+      "gloss": "دی تھاں"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:29:05.487301624Z",
+  "model": "glm-5.3"
+}

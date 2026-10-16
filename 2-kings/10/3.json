@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 10:3",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اوہنوں⟩",
+      "rationale": "عبرانی صفتاں چنگا\/سِدھا چُݨدا اے؛ پنجابی نوں ضمیر چاہیدی اے۔"
+    },
+    {
+      "kind": "idiom",
+      "subject": "וראיתם",
+      "rationale": "لفظی 'ویکھو' — چُݨن دی فارمولے والی عبرانی ہدایت؛ پنجابی 'چُݨو' دسدا اے۔"
+    },
+    {
+      "kind": "invitation",
+      "subject": "سردار تے بزرگ",
+      "rationale": "چِٹھی دا مضمون حکم بھرے سوال دے روپ وِچ — تُساں فیصلہ کرو۔"
+    }
+  ],
+  "translation": "تے تُساں تُہاڈے سائیاں دے پُتراں وِچوں ⟨اوہنوں⟩ چُݨو جیہڑا چنگا تے سِدھا ہووے، تے اوہنوں اوہدے پیو دی گدی تے بِٹھاؤ، تے تُساں تُہاڈے سائی دے گھر لئی لڑو۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d4e50aa8915e2e755faa7ba87899cdc7e2c1afe79244906a9173676e6150e0bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/10\/1-4.1792105136081.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראיתם",
+      "gloss": "تے تُساں ویکھو"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "چنگا"
+    },
+    {
+      "surface": "והישר",
+      "gloss": "تے سِدھا"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "پُتراں وِچوں"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "تُہاڈے سائیاں دے"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "تے بِٹھاؤ"
+    },
+    {
+      "surface": "על",
+      "gloss": "تے"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "گدی"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "اوہدے پیو دی"
+    },
+    {
+      "surface": "והלחמו",
+      "gloss": "تے لڑو"
+    },
+    {
+      "surface": "על",
+      "gloss": "لئی"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "تُہاڈے سائی دے"
+    }
+  ],
+  "timestamp": "2026-10-15T22:58:56.082811302Z",
+  "model": "glm-5.3"
+}

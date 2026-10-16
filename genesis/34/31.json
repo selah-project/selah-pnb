@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 34:31",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ہ — کون کرے؟",
+      "rationale": "עושה دا فاعل متن وِچ نئیں: شکم نال، 'کوئی' عمومی، یا سوال دھمکی دا"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩",
+      "rationale": "پنجابی فاعل منگدا اے، عبرانی ਕোਈ فاعل نئیں دیندا"
+    }
+  ],
+  "translation": "تے اوہناں آکھیا: کی زناہ کرنی وانگوں ⟨اوہ⟩ ⟨את⟩ ساڈی بھین نال کرے؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b2e697fb8ef16cabca571f7c0369e1e527c97fd1f747445ff4c3d0d023727a0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/34\/29-31.1792095621681.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "تے اوہناں آکھیا"
+    },
+    {
+      "surface": "הכזונה",
+      "gloss": "زناہ کرنی وانگوں"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کرے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ساڈی بھین"
+    },
+    {
+      "surface": "אחותנו",
+      "gloss": "ساڈی بھین"
+    }
+  ],
+  "timestamp": "2026-10-15T20:20:21.682346526Z",
+  "model": "glm-5.3"
+}

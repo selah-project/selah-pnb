@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 9:3",
+  "book": "zechariah",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "חרוץ",
+      "rationale": "ایتھے 'کھرا سونا' معنی وچ، ⊃רاں تھانواں 'سونارا'؛ کجھ 'لوہار\/تکڑا' پڑھدے نیں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צר\/מצור",
+      "rationale": "صُور دا ناں تے מצור (گھیرا\/قلعہ) اکو جذر توں، آواز دی کھیڈ پنجابی وِچ ہار گئی"
+    },
+    {
+      "kind": "addition",
+      "subject": "چوک مٹی ورگا · چوک",
+      "rationale": "מצור מצור 'مٹی' نوں 'چوک مٹی' کیتا تے ⊃ر چوک"
+    }
+  ],
+  "translation": "تے صُور نے آپ لئی قلعہ بنایا، تے چاندی دھوڑ ورگا کٹھی کیتی، تے سونا چوک مٹی ورگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "82e04f6d4340b01cc923910d2da33ce2c02af35fc3e94a7de9612cacd178f272",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/zechariah\/9\/2-3.1792124115486.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבן",
+      "gloss": "تے بنایا"
+    },
+    {
+      "surface": "צר",
+      "gloss": "صُور"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "قلعہ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "آپ لئی"
+    },
+    {
+      "surface": "ותצבר",
+      "gloss": "تے کٹھی کیتی"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندی"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "دھوڑ ورگا"
+    },
+    {
+      "surface": "וחרוץ",
+      "gloss": "تے سونا"
+    },
+    {
+      "surface": "כטיט",
+      "gloss": "چوک مٹی ورگا"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "چوک"
+    }
+  ],
+  "timestamp": "2026-10-16T04:15:15.487837968Z",
+  "model": "glm-5.3"
+}

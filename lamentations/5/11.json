@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 5:11",
+  "book": "lamentations",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نوں",
+      "rationale": "مفعول دا نشان — عبرانی وِچ ਕੋਈ ਮفعولی نشان نئیں، پنجابی 'نوں' منگدا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "ענו",
+      "rationale": "'دبایا\/نیواں کیتا' — کجھ ترجمے 'دراندر کیتا' مانگدے نیں؛ شبد دا مطلب نرم 'دبانا' اے، پر سیاق زبردستی دسدا اے"
+    }
+  ],
+  "translation": "بیبیاں نوں صیّون وِچ دبایا، کنیاریاں نوں یہوداہ دے شہراں وِچ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "dad04d08ae50ed2f6dbdeef38a54c9b836a41977d4ed733eeddbd9d3e4a90712",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/lamentations\/5\/9-12.1792117340402.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשים",
+      "gloss": "بیبیاں نوں"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "صیّون وِچ"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "دبایا"
+    },
+    {
+      "surface": "בתלת",
+      "gloss": "کنیاریاں نوں"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "شہراں وِچ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    }
+  ],
+  "timestamp": "2026-10-16T02:22:20.403589523Z",
+  "model": "glm-5.3"
+}

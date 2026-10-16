@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 26:24",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "وی",
+      "rationale": "אף\/גם دا زور پنجابی وِچ 'وی' نال لیاندا — عبرانی دا اِی لفظ اے، حاشیہ نئیں۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עמי קרי \/ עמכם בקרי",
+      "rationale": "23–24 دی مُکالیا — تُسیں میرے نال مُخالف، میں وی تُہاڈے نال مُخالف؛ آئینہ والا جوڑ۔"
+    }
+  ],
+  "translation": "تے میں وی تُہاڈے نال مُخالف ٹُرساں، تے میں وی ⟨את⟩ تُہانوں ست واری ماراں گا، تُہاڈے پاپاں اُتے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b027e0697860b710cfa37db8341b51a67e67796a6967c9f08e1b22ec3bb25349",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/26\/21-24.1792098162556.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "تے میں ٹُرساں"
+    },
+    {
+      "surface": "אף",
+      "gloss": "وی ⟨ز retaliate⟩"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "تُہاڈے نال"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "مُخالف"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "تے میں ماراں گا"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ تُہانوں",
+      "marks": "تُہانوں"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ست واری"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "تُہاڈے پاپاں"
+    }
+  ],
+  "timestamp": "2026-10-15T21:02:42.557146890Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 2:3",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اے⟩",
+      "rationale": "عبرانی وِچ الربط کریا نئیں، پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "יאשמו",
+      "rationale": "‘مجرم نِکلن گے’ بمقابلہ ‘سزا پاون گے \/ ہلاک ہون گے’ — אשם دوناں ول کھلھدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "مصیبت",
+      "rationale": "רעה مڈھلا ‘برائی’ اے — پنجابی وِچ ‘برائی آوے’ بھاری لگدا اے، مصیبت نیڑے دا لفظ اے"
+    }
+  ],
+  "translation": "یِسرائیل یاہوہ لئی مقدس ⟨اے⟩، اُوہدی فصل دا پہلا پھل؛ اُوہنوں کھان والے سارے مجرم نِکلن گے، اُوہناں تے مصیبت آؤ، یاہوہ دا آکھنا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6af2e5c5a4b11c549c8a82a011af0178168ec588d3cbbfce4139e838fb465c96",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/2\/1-4.1792107289274.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہوہ لئی"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "پہلا پھل"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "اُوہدی فصل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "אכליו",
+      "gloss": "کھان والے"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "مجرم نِکلن گے"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "مصیبت"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "آؤ"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "اُوہناں تے"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "دا آکھنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-10-15T23:34:49.275634943Z",
+  "model": "glm-5.3"
+}

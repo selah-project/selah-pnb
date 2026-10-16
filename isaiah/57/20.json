@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 57:20",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נגרש",
+      "rationale": "'دھکھیا جاندا اے' (nisgal, nifal — driven-out sea, YLT) بمقابلہ 'گڑبڑایا ہویا' (troubled, KJV\/JPS) — بݨاوٹی صورت (passive) اے، جیہڑی 'دھکھے جان' زور دیندی اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויגרשו",
+      "rationale": "literally 'and its waters drive out \/ cast out' — پنجابی وچ 'اُگل دیندے نیں' (اُپر سُٹ دیندے نیں) قدرتی سمندری تصویر دیند اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "نیں",
+      "rationale": "عبرانی وِچ copula نئیں، پنجابی وچ 'ورگے نیں' لئی لوڑیا"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נגרש\/ויגרשו",
+      "rationale": "اِوں ہی جڑ ג-ר-ش دو واری — سمندر دھکھیا جاندا اے تے اوہدے پانی دھکھے دیندے نیں؛ پنجابی وچ گونج ہلکی رہندی اے"
+    }
+  ],
+  "translation": "تے بدکار سمندر ورگے نیں، جیہڑا دھکھیا جاندا اے، کیوں جو اوہ چین نئیں پا سکدا، تے اوہدے پانی مٹی تے کیچڑ اُگل دیندے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "db27e34608aebdb87875676c3369b97eda5a5fae4e21fd5dd6b80b6a149d6f25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/57\/20-20.1792123833463.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והרשעים",
+      "gloss": "تے بدکار"
+    },
+    {
+      "surface": "כים",
+      "gloss": "سمندر ورگے نیں"
+    },
+    {
+      "surface": "נגרש",
+      "gloss": "دھکھیا جاندا اے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "השקט",
+      "gloss": "چین"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "پا سکدا"
+    },
+    {
+      "surface": "ויגרשו",
+      "gloss": "تے اوہ اُگل دیندے نیں"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "اوہدے پانی"
+    },
+    {
+      "surface": "רפש",
+      "gloss": "مٹی"
+    },
+    {
+      "surface": "וטיט",
+      "gloss": "تے کیچڑ"
+    }
+  ],
+  "timestamp": "2026-10-16T04:10:33.463469254Z",
+  "model": "glm-5.3"
+}

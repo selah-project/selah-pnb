@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 35:24",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "یاہوہ",
+      "rationale": "دعا جاری، فیصلے دی منگ یاہوہ توں"
+    },
+    {
+      "kind": "alternative",
+      "subject": "میرا فیصلہ کر",
+      "rationale": "שפטני دا دوجا پڑھائی 'میرا انصاف کر' — مظلوم لئی حق نامہ کروانا"
+    }
+  ],
+  "translation": "میرا فیصلہ کر، اے یاہوہ میرے ایلوہیم، اپنی صداقت دے مطابق، تے اوہ میرے اُتے خوش نہ ہون۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "62a9386b2fa9834f237bbb5a747f8a9d777c61801934371a508b20b182a65367",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/35\/21-24.1792112260865.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "میرا فیصلہ کر"
+    },
+    {
+      "surface": "כצדקך",
+      "gloss": "اپنی صداقت دے مطابق"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "میرے ایلوہیم"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "خوش نہ ہون"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرے اُتے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:57:40.865909513Z",
+  "model": "glm-5.3"
+}

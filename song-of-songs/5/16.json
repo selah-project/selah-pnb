@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 5:16",
+  "book": "song-of-songs",
+  "lang": "pnb",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "تالو",
+      "rationale": "חֵךְ اصل وِچ تالو\/منہ دا اندرونی حصہ اے — سارا منہ نئیں"
+    },
+    {
+      "kind": "you",
+      "subject": "یروشلایم دیاں دھیّاں",
+      "rationale": "سِدھی مخاطبت — دُلہن اُنہاں نوں جواب دِتّی"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זֶה…וְזֶה",
+      "rationale": "'ایہہ… تے ایہہ' دی وارو واری — عبرانی دا سَواد پنجابی وِچ رکھیا"
+    }
+  ],
+  "translation": "اُسدا تالو مِٹھائیاں اے تے اوہ سارا دا سارا چاہن والی شے اے؛ ایہہ اے میرا محبوب تے ایہہ اے میرا یار، اَے یروشلایم دیاں دھیّاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1efefcdf6a883c2c097881099c4b572768f305ab049f4ecebff6618b5b3c62a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/song-of-songs\/5\/13-16.1792116722146.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חכו",
+      "gloss": "اُسدا تالو"
+    },
+    {
+      "surface": "مמתקים",
+      "gloss": "مِٹھائیاں"
+    },
+    {
+      "surface": "וכלו",
+      "gloss": "تے اوہ سارا"
+    },
+    {
+      "surface": "מחמדים",
+      "gloss": "چاہن والی شے"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "میرا محبوب"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "تے ایہہ"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "میرا یار"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "دھیّاں"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم"
+    }
+  ],
+  "timestamp": "2026-10-16T02:12:02.147615891Z",
+  "model": "glm-5.3"
+}

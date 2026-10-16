@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 25:17",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Abigail",
+      "rationale": "نوجوان اَبیگایل نوں سدھیاں مخاطب اے — فاعلی تے مونث امر صیغے (דעי، וראי، תעשי)۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨نئیں جا سکدا⟩",
+      "rationale": "عبرانی وچ منفی فعل نئیں اے، صرف מדבר אליו؛ فہم لئی جوگ نا ہونا پنجابی وچ پورا کرنا پیا۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "בן בליעל",
+      "rationale": "بلیعل دا پُتر — کجھ مترجم اینوں ناں سمجھدے نیں، کجھ 'بے کار بندہ'؛ حالت دا بندہ اے۔"
+    }
+  ],
+  "translation": "تے ہن جاݨ تے ویکھ کیہ کریگی، کیوں جو ساڈے سائیں ول تے اوہدے سارے گھر اُتے بلاء طے ہو گئی اے، تے اوہ بلیعل دا پُتر اے ⟨جو⟩ اوہدے نال گل کرن جوگا نئیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "91a2d0170448b6a8b35ec63f4b99a64eb74bd7a08557b9be362560fc19e39f09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/25\/17-20.1792102895437.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "تے ہن"
+    },
+    {
+      "surface": "דעי",
+      "gloss": "جاݨ"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "تے ویکھ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "תעשי",
+      "gloss": "کریگی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "طے ہو گئی اے"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "بلاء"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ول"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "ساڈے سائیں"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "اوہدے گھر"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "تے اوہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "بلیعل"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "گل کرن"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اوہدے نال"
+    }
+  ],
+  "timestamp": "2026-10-15T22:21:35.438415322Z",
+  "model": "glm-5.3"
+}

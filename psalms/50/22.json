@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 50:22",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "سمجھو ہُن",
+      "rationale": "פסוק پڑھنوالی\/سݨن والے نوں سدّا ماردا اے — سمجھݨ دا حکم"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שכחי אלוה",
+      "rationale": "ایلوہ نوں بھُلن والے لئی ناں-وصف؛ مزمور دا مُڈھ 'ایلوہیم نے آکھیا' توں الٹ"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩",
+      "rationale": "عبرانی وِچ مفعول دا ضمیر صاف نئیں؛ پنجابی نوں لوڑ پئی"
+    }
+  ],
+  "translation": "سمجھو ہُن ⟨ایہہ⟩، اے ایلوہ نوں بھُل جان والے، کہ کِتے میں تُہانوں پاڑ نہ سٹّاں تے ⟨اوہ⟩ بچاوَ والا کوئی نہ ہووے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "36f95caf4e7529b958f44dff04393a274d778a2b4135969277f422c071f1cb07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/50\/21-23.1792112610726.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "سمجھو"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ہُن"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "بھُل جان والے"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ایلوہ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "کہ کِتے … نہ"
+    },
+    {
+      "surface": "אטרף",
+      "gloss": "میں پاڑ سٹّاں"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "تے کوئی نئیں"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "بچاوَ والا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:03:30.727740315Z",
+  "model": "glm-5.3"
+}

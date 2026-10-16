@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 18:3",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בבוא … בא",
+      "rationale": "'آؤندا اے … آؤندی اے' — عبرانی وچ اکو فعل دو واری، آمد اُتے آمد، پنجابی وچ ہلہ بھر کے رکھیا اے"
+    }
+  ],
+  "translation": "جد بدی دا بندہ آؤندا اے تاں بے ادبی وی آؤندی اے، تے بے عزتی دے نال شرم دا طعنہ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "50aaf93b6d741bd5d77493cd145cc6db9def980cd4127926ff6786f05573804a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/18\/1-4.1792114849642.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "جد آؤندا اے"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدی دا بندہ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آؤندی اے"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "بے ادبی"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "تے دے نال"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "بے عزتی"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "شرم دا طعنہ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:40:49.642796231Z",
+  "model": "glm-5.3"
+}

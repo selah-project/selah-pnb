@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 10:24",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "یاہوہ",
+      "rationale": "یریمیاہ دی یاہوہ اگے بھیک — سدھی مخاطبت"
+    },
+    {
+      "kind": "crux",
+      "subject": "במשפט",
+      "rationale": "'انصاف\/عدالت نال' بمقابلہ JPS دے 'اَندازے نال' (in measure)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אף",
+      "rationale": "'نَکّ\/تُھوتھی' دا بول چال وچ 'غصہ' — عبرانی وچ اپنی مول شکل نال"
+    }
+  ],
+  "translation": "یاہوہ، مینوں تھوڑا جیہا سِکھا، پر انصاف نال، اپنے غصے نال نئیں، ناں توں مینوں مِٹا دِتیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "93273d961e0ece9667e215f449193c52e7cd634457e66cadb78ef9de3b0cf20c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/10\/21-24.1792107488073.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יסרני",
+      "gloss": "مینوں تھوڑا جیہا سِکھا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "پر صرف"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "انصاف نال"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ناں"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "تیرے غصے نال"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ناں کے"
+    },
+    {
+      "surface": "תמעטנی",
+      "gloss": "مینوں مِٹا دِتیں"
+    }
+  ],
+  "timestamp": "2026-10-15T23:38:08.074490552Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 68:7",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בכושרות",
+      "rationale": "'خوشحالی وِچ' جاں 'زنجیراں نال کھلھ کے' — پرانا پڑھاں وکھرتا رکھدے نیں"
+    },
+    {
+      "kind": "hapax",
+      "subject": "צחיחה",
+      "rationale": "ایہہ لفظ تنخ وِچ صرف ایتھے آندا اے — سُکّا تپدا تھاں"
+    },
+    {
+      "kind": "crux",
+      "subject": "ביתה",
+      "rationale": "'گھر وِچ' جاں 'تسیں گھراں وِچ' — اکلے دے گھر جاں ٹبر دا سوال"
+    }
+  ],
+  "translation": "ایلوہیم اکیاں نوں گھر وِچ وساؤندا اے، قیدیاں نوں خوشحالی وِچ کڈھدا اے؛ سِرّکش سُکّے اِلانے وِچ ای وسدے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d0d34de8574f5ca09af12f3c917fe14629431bc70132e977351d89f717c99169",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/68\/5-8.1792112860161.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "מושיב",
+      "gloss": "وساؤندا اے"
+    },
+    {
+      "surface": "יחידים",
+      "gloss": "اکیاں نوں"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "گھر وِچ"
+    },
+    {
+      "surface": "מוציא",
+      "gloss": "کڈھدا اے"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "قیدیاں نوں"
+    },
+    {
+      "surface": "בכושרות",
+      "gloss": "خوشحالی وِچ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "سِرّ"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "سرکش"
+    },
+    {
+      "surface": "שכנו",
+      "gloss": "وسدے نیں"
+    },
+    {
+      "surface": "צחיחה",
+      "gloss": "سُکّے اِلانے وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:07:40.162601141Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "exodus 29:43",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "خیمہ",
+      "rationale": "عبرانی ונקדש دا فاعل لکھیا نئیں — سیاق توں خیمہ، ⟨⟩ وِچ دتا"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ונקדש",
+      "rationale": "کجھ ترجمے 'اوتھے\/اوہ تھاں' نوں فاعل بندے نیں، کجھ 'خیمہ' — عبرانی اکلا کریا چھڈ دیندا اے"
+    }
+  ],
+  "translation": "تے میں اوتھے یِسرائیل دے پُتراں نال ملناں گا، تے ⟨خیمہ⟩ میرے جلال نال پاک ہو جاوےگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "581974f03a5bb322fca2c14ab7e3b25378a06caab1a08b04c9f087207db45f43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/29\/41-44.1792096968959.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונעדתי",
+      "gloss": "تے میں ملناں گا"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "اوتھے"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "پُتراں نال"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "ונקדש",
+      "gloss": "تے پاک ہو جاوےگا"
+    },
+    {
+      "surface": "בכבדי",
+      "gloss": "میرے جلال نال"
+    }
+  ],
+  "timestamp": "2026-10-15T20:42:48.960240271Z",
+  "model": "glm-5.3"
+}

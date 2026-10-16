@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 34:7",
+  "book": "2-chronicles",
+  "lang": "pnb",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "اشریم",
+      "rationale": "האשרים اشرا دیوت‏ی دیاں مورتیاں\/کھمبے نیں؛ KJV 'groves' غلط تاثر دیندا اے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "قربانی دے میز",
+      "rationale": "מזבחות = قربان گاہ\/مذبح؛ 'میز' کھلریا روپ اے پر ڈھانچا اوہو رکھیا اے۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כתת להدק",
+      "rationale": "دو کریاواں دا دہراؤ — 'توڑیا تے ریزہ کر دِتّا' — پنجابی وِچ دو واری کریا رکھی اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "آکھیا",
+      "rationale": "Hebrew merely 'returned to Jerusalem'; no speech verb — ازخود شامل کیتا گیا۔"
+    }
+  ],
+  "translation": "تے اُس نے قربانی دے میزاں نوں ⟨את⟩ تے اشریم نوں ⟨את⟩ ڈھاہیا، تے مورتیاں نوں ریزہ ریزہ کر کے مِلا دِتّا، تے سورج-تھمباں نوں سارے یِسرائیل دی زمین وِچ کَٹ دِتّا، تے اُنے مُڑ کے یروشلایم نوں وَن٘ڄ کے آکھیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b80a024fbe69620cd3dd056493cfb054b8fe45772d64a60f3d1176a138ac5e98",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/34\/6-7.1792124465248.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וינתץ",
+      "gloss": "تے ڈھاہیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قربانی دے میزاں نوں"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "قربانی دے میز"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اشریم نوں"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "اشریم"
+    },
+    {
+      "surface": "והפסלים",
+      "gloss": "تے مورتیاں"
+    },
+    {
+      "surface": "כתת",
+      "gloss": "ریزہ ریزہ کیتا"
+    },
+    {
+      "surface": "להדק",
+      "gloss": "مِلا دِتّا"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "تے سارے"
+    },
+    {
+      "surface": "החמנים",
+      "gloss": "سورج-تھمبے"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "کَٹ دِتّا"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سارے وِچ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل دی"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "تے مُڑیا"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "یروشلایم نوں"
+    }
+  ],
+  "timestamp": "2026-10-16T04:21:05.248994757Z",
+  "model": "glm-5.3"
+}

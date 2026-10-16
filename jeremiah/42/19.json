@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 42:19",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "یہوداہ دی باقی نوں",
+      "rationale": "براہ راست مخاطبہ تے منع — 'نا آؤ'۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ידע תדעו",
+      "rationale": "فعل 'جاننا' دا جڑ دُہراو (اِنفعال مکمل) زور پیدا کردا اے — 'یقین نال جاݨو'۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "עליכם",
+      "rationale": "'تہاڈے خلاف' (یلٹ) بمقابلہ 'تہاڈے بارے' — مترجم وَنّ سَوَنّ پڑھدے نیں۔"
+    }
+  ],
+  "translation": "یاہوہ نے تہاڈے بارے گل کیتی اے، اے یہوداہ دی باقی؛ مِتصرایم وِچ نا آؤ؛ یقین نال جاݨو کیونکہ میں اَج تہاڈے خلاف گواہی دِتی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "38e2df4ed6d618a01eb482a9ba3f362d0ca0bfdba24f44c863bc47f512dad826",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/42\/17-20.1792108609071.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "گل کیتی اے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ نے"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "تہاڈے بارے"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "باقی"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ دی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "آؤ"
+    },
+    {
+      "surface": "مצרים",
+      "gloss": "مِتصرایم"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "یقین نال"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "جاݨو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "העידתי",
+      "gloss": "گواہی دِتی اے"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "تہاڈے خلاف"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اَج"
+    }
+  ],
+  "timestamp": "2026-10-15T23:56:49.072978737Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 4:3",
+  "book": "joel",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "پوریاں",
+      "rationale": "پوریاں پا کے لوکاں دی ونڈ — گنتی تے حصیاں دا کم۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "بدلے",
+      "rationale": "عبرانی وِچ پیشگراں 'لئی\/بدلے' نئیں، پنجابی جملے نے منگیا۔"
+    }
+  ],
+  "translation": "تے میرے لوکاں بارے پوریاں پائیاں، تے لڑکے نوں زناکاری عورت بدلے دِتا تے دھی نوں شراب بدلے ویچیا — تے پی لیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b6cf6963f1864771f3262726935207976b11e55b038b4f936c806bdb5674f15e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joel\/4\/1-4.1792110799040.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "تے … بارے"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "میرے لوکاں"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "پائیاں"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "پوری"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "دِتا"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "لڑکے نوں"
+    },
+    {
+      "surface": "בזונה",
+      "gloss": "زناکاری عورت بدلے"
+    },
+    {
+      "surface": "והילדה",
+      "gloss": "تے دھی نوں"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "ویچیا"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "شراب بدلے"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "تے پی لیا"
+    }
+  ],
+  "timestamp": "2026-10-16T00:33:19.041982872Z",
+  "model": "glm-5.3"
+}

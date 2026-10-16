@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 71:10",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جان-زور دا لفظ اے، روح نئیں — ایتھے 'میری جان' یعنی میری جان-زور دے ویری۔"
+    }
+  ],
+  "translation": "کیوں جے میرے ویریاں نے میرے بارے آکھیا، تے میری جان اُتے پہردے نیں رَل کے صلاح کیتی اے،",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0a567c5678e44f387d883d9244ab60c27e0aa82207404392feee9e08fb9363d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/71\/9-12.1792112879606.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جے"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "میرے ویریاں نے"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرے بارے"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "تے پہردے نیں"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میری جان اُتے"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "صلاح کیتی اے"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "رَل کے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:07:59.607305133Z",
+  "model": "glm-5.3"
+}

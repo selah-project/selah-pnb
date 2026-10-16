@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 37:1",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ساڑا کھا",
+      "rationale": "חרה دا مول ارتھ 'بھڑکنا\/گرم ہونا' اے — غصے دا بھڑکنا"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨دا⟩",
+      "rationale": "לדוד سرلیکھ دی ضمیمہ — پنجابی نوں تعلق دی لوڑ"
+    },
+    {
+      "kind": "invitation",
+      "subject": "ناہی دے دو حکم",
+      "rationale": "آیت پڑھن والے نوں سدھی نہی اے — برائی کرن والیاں بارے ساڑے تے حسد توں گھٹ آ"
+    }
+  ],
+  "translation": "داوِد ⟨دا⟩۔ برائی کرن والیاں ⟨توں⟩ ساڑا نہ کھا، ظلم کرن والیاں توں حسد نہ کر۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2fb92fe0b5b9a22c03a7f2fe40733beeaa14e477302e81f9dfacd73e3f5316ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/37\/1-4.1792112333105.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد ⟨دا⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "ساڑا کھا"
+    },
+    {
+      "surface": "במרעים",
+      "gloss": "برائی کرن والیاں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "حسد کر"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "کرن والیاں"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ظلم"
+    }
+  ],
+  "timestamp": "2026-10-16T00:58:53.106030671Z",
+  "model": "glm-5.3"
+}

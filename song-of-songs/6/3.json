@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 6:3",
+  "book": "song-of-songs",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "آں",
+      "rationale": "عبرانی وِچ کوئی کِریا نئیں — ל دا تعلق ہی 'د‏ی آں' کہندا اے، پنجابی کِریا منگدی اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לדודי…לי",
+      "rationale": "لام دا آپس وِچ ٹکراؤ — 'اپنے پیارے دی، پیارا میرا' — کراس-ساخت پنجابی وِچ وی کھلوندی اے"
+    },
+    {
+      "kind": "you",
+      "subject": "گیت دا اِکھاڑا",
+      "rationale": "زنانی دا بچن اپنے آپ بارے، درشت دا سُدھا جواب 6:1 تے"
+    }
+  ],
+  "translation": "میں اپنے پیارے دی آں تے میرا پیارا میرا اے — اوہ ⟨اوہی⟩ سُوسَناں وِچ چرواہا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "86deea1028d5d6cf7d803e3b0354d532e5706514d306058ad9f26c30b015fbb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/song-of-songs\/6\/1-4.1792116689613.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "اپنے پیارے دی"
+    },
+    {
+      "surface": "ודודי",
+      "gloss": "تے میرا پیارا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرا اے"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "چرواہا"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "سُوسَناں وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T02:11:29.614284755Z",
+  "model": "glm-5.3"
+}

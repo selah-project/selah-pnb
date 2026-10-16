@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "lamentations 3:27",
+  "book": "lamentations",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جُوار",
+      "rationale": "על جُوا‌ر (-%gal) دا پکا مورت اے — زیادہ تر ترجمے 'بھار' کر دیندے نیں، مگر عبرانی جُوار دا علامتی لفظ اے"
+    }
+  ],
+  "translation": "چنگا اے بندے لئی کہ ⟨اوہ⟩ جُوانی وِچ جُوار چُکے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b248cd7e741a04abc857fea2bf6b8b493e579edf1a0a2ed5d559d397e54e71b6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/lamentations\/3\/25-28.1792117143829.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چنگا اے"
+    },
+    {
+      "surface": "لגבר",
+      "gloss": "بندے لئی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "چُکے"
+    },
+    {
+      "surface": "על",
+      "gloss": "جُوار"
+    },
+    {
+      "surface": "בנעוריו",
+      "gloss": "اوہدِی جُوانی وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T02:19:03.830259639Z",
+  "model": "glm-5.3"
+}

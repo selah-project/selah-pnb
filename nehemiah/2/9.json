@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 2:9",
+  "book": "nehemiah",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עבר הנהר",
+      "rationale": "عبرانی 'دریا دے پار' — اُس ویلے دا فارسی صوبہ؛ 'فرات' لفظ عبرانی وِچ نئیں۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "دیاں",
+      "rationale": "پنجابی وِچ چِٹھی دی اِکو صورت توں جمع دا نشان۔"
+    }
+  ],
+  "translation": "تے میں اُتّرݨ والے دریا دے اُس پار دے پٹھاناں کول آیا، تے اوہناں نوں بادشاہ دیاں ⟨את⟩ چِٹھیاں دِتیاں؛ تے بادشاہ نے میرے نال فوج دے سردار تے سوار بھیجے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8fb1175cdcf77f80a1d2a58fdff3a95b5f578ff8beda53f93a27a2ac5156fa84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/nehemiah\/2\/9-12.1792119481989.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "פחוות",
+      "gloss": "پٹھاناں"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "پار"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "دریا دے"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "تے…دِتیاں"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اوہناں نوں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چِٹھیاں"
+    },
+    {
+      "surface": "אגרות",
+      "gloss": "چِٹھیاں"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ دیاں"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "تے…بھیجے"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "میرے نال"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ نے"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "فوج دے"
+    },
+    {
+      "surface": "ופרשים",
+      "gloss": "تے سوار"
+    }
+  ],
+  "timestamp": "2026-10-16T02:58:01.989852016Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 26:13",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اِک … اِک",
+      "rationale": "عبرانی وِچ اِک وی اے نئیں، پنجابی جملے لئی شمار دا لفظ پایا۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "שחל",
+      "rationale": "شیلاخ — ریت دا شیر (گجّن والا)؛ کجھ مترجم 'شیرنی' آکھدے نیں (ولکلف)۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שחל \/ ארי",
+      "rationale": "اکو شعر وِچ شیر دے دو وکھرے عبرانی لفظ، پنجابی وِچ فرق مِٹ گیا۔"
+    }
+  ],
+  "translation": "سُست آکھدا اے: اِک شیر راہے وِچ اے، اِک شیر چوکاں وِچ اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9303938cdea077702843c108027c0b092f80a992ef27443ebd0a0086bfd5a494",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/26\/13-16.1792115120201.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "آکھدا اے"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "سُست"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "شیر"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "راہے وِچ"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "شیر"
+    },
+    {
+      "surface": "בין",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "הרחבות",
+      "gloss": "چوکاں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:45:20.201917968Z",
+  "model": "glm-5.3"
+}

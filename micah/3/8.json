@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 3:8",
+  "book": "micah",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨تاں⟩ ⟨اُوہ آں جہڑا⟩",
+      "rationale": "عبرانی صرف اَناخی مَلَیتی اکھاندا اے؛ پنجابی جُملہ بݨاؤن لئی دسیا"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פשע \/ חטאת",
+      "rationale": "بغاوت (رشتہ توڑنا) تے پاپ (ہدف توں چُکّنا) — دو وکھرے عبرانی لفظ، پنجابی وِچ دوویں رکھے"
+    }
+  ],
+  "translation": "پر میں ⟨تاں⟩ اُوہ آں جہڑا یاہوہ دے ⟨את⟩ روح، عدالت تے بہادُرتی نال بھریا اے، تاں جو یعقوو نوں اوہدا بغاوت تے یِسرائیل نوں اوہدا پاپ دسّاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2680b664c7e946c26f44baf00f8b880f5be4781886087ef0e7fff611f0a6c890",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/micah\/3\/5-8.1792111069994.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "پر"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "بھریا اے"
+    },
+    {
+      "surface": "כח",
+      "gloss": "طاقت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ دے روح"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "تے عدالت"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "تے بہادُرتی"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "تاں جو دسّاں"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "یعقوو نوں"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "اوہدا بغاوت"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "تے یِسرائیل نوں"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "اوہدا پاپ"
+    }
+  ],
+  "timestamp": "2026-10-16T00:37:49.996126126Z",
+  "model": "glm-5.3"
+}

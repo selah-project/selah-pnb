@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 6:13",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "בצע",
+      "rationale": "اسم 'بَصَع' (ناجائز فائدہ) کریا 'بوسِع' دے نال جُڑیا اے؛ پنجابی وچ وکھرا نئیں ٹردا، بریکٹ وچ دتا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בוצע בצע",
+      "rationale": "اکو جڑ دا کریا-اسم جوڑا — 'بھرَدا' تے 'بھتّ' — پنجابی وچ اوہو تال نئیں ملیا"
+    }
+  ],
+  "translation": "کیونکہ اوہناں دے نکیاں توں اوہناں دے وڈیاں تک سبھ ہیرا-پھیری کردا اے، تے نبی توں تک کاہن تک سبھ جھوٹھ کردا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c3cd0603c714e7103dc1f4c6d8d4157dea16fbe37e83a626a7a1b94b90ea575f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/6\/13-16.1792107401204.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "מקטנם",
+      "gloss": "اوہناں دے نکیاں توں"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "גדולם",
+      "gloss": "اوہناں دے وڈیاں"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "سبھ"
+    },
+    {
+      "surface": "בוצע",
+      "gloss": "ہیرا-پھیری کردا اے"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "⟨ناجائز فائدہ⟩"
+    },
+    {
+      "surface": "ומנביא",
+      "gloss": "تے نبی توں"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "سبھ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کردا اے"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "جھوٹھ"
+    }
+  ],
+  "timestamp": "2026-10-15T23:36:41.204708177Z",
+  "model": "glm-5.3"
+}

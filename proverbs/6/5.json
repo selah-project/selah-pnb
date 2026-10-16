@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 6:5",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨شکاری دے⟩",
+      "rationale": "پہلا מיד اِکلّا اے — 'ہتھوں' — پنجابی واسطے شکاری دا ناں دینا پیا"
+    },
+    {
+      "kind": "crux",
+      "subject": "יקוש",
+      "rationale": "فوالباز (بندہ) بمقابلہ پھند (ساز): دونوں پڑھائیاں موجود نیں"
+    }
+  ],
+  "translation": "اپنے آپ نوں چھڈوا لے، جیویں دِھچھی ⟨شکاری دے⟩ ہتھوں، تے جیویں چڑی فوالباز دے ہتھوں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2ee86f209c556177fd85475cddea1c7a302ae2d04cc8c7e77bdac462d12a3480",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/6\/5-8.1792114466714.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנצל",
+      "gloss": "اپنے آپ نوں چھڈوا لے"
+    },
+    {
+      "surface": "כצבי",
+      "gloss": "جیویں دِھچھی"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ہتھوں"
+    },
+    {
+      "surface": "וכצפור",
+      "gloss": "تے جیویں چڑی"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ہتھوں"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "فوالباز"
+    }
+  ],
+  "timestamp": "2026-10-16T01:34:26.715405228Z",
+  "model": "glm-5.3"
+}

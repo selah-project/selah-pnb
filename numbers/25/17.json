@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 25:17",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Moses\/Israel",
+      "rationale": "یاہوہ دا حکم موشے راہیں، میدانیاں دے خلاف۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צרור\/צררים",
+      "rationale": "25:17 دا צרור تے 25:18 دا צררים اکو جڑ — دباؤ\/دشمنی — پنجابی وِچ رشتہ دسن لئی اکو لفظ 'ستاؤ\/دشمن' رکھیا۔"
+    }
+  ],
+  "translation": "میدانیاں نوں ستاؤ، ⟨את⟩ میدانیاں نوں، تے اوہناں نوں مرو۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bf221455d66b9dce6da70ce403462cd79ad05cbad6ed660f531ef2a14e5baa1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/25\/17-19.1792098995410.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "ستاؤ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میدانیاں نوں"
+    },
+    {
+      "surface": "המדינים",
+      "gloss": "میدانیاں نوں"
+    },
+    {
+      "surface": "והכיתם",
+      "gloss": "تے مرو"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "اوہناں نوں"
+    }
+  ],
+  "timestamp": "2026-10-15T21:16:35.410978835Z",
+  "model": "glm-5.3"
+}

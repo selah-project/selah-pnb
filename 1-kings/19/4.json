@@ -1,0 +1,140 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 19:4",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "یاہوہ",
+      "rationale": "ایلیاہو سِدھا یاہوہ نال گل کردا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "بس",
+      "rationale": "רב 'بہت\/وادھو' — 'بس ہن' یعنی میرا حساب پورا ہو گیا"
+    },
+    {
+      "kind": "hapax-adjacent",
+      "subject": "רתם",
+      "rationale": "رُتُم (سپینش جُھاڑی) — عبرانی لفظ رکھیا، وضاحت ⟨⟩ وِچ"
+    }
+  ],
+  "translation": "تے اوہ آپ بینکاری وِچ اِک دن دا پینڈا ٹُریا، تے آ کے اِک رُتُم ⟨جُھاڑی⟩ ہیٹھ بیٹھا، تے اوہنے ⟨את⟩ اپنی جان توں مرن منگی، تے آکھیا: بس ہن، اے یاہوہ، میری جان لے لے، کیونجے میں اپنے پیؤاں توں چنگا نئیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ff60ce540c7eec4ff51cfc1258ed4c277a45583ce185b8a96852ffcc5426aac5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/19\/1-4.1792104764237.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "تے اوہ آپ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ٹُریا"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "بینکاری وِچ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "پینڈا"
+    },
+    {
+      "surface": "יום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "بیٹھا"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ہیٹھ"
+    },
+    {
+      "surface": "רתם",
+      "gloss": "رُتُم ⟨جُھاڑی⟩"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "اِک"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "منگی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنی جان"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "اپنی جان"
+    },
+    {
+      "surface": "למות",
+      "gloss": "مرن لئی"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "רב",
+      "gloss": "بس"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ہن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "קח",
+      "gloss": "لے لے"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میری جان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگا"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "מאבתי",
+      "gloss": "اپنے پیؤاں توں"
+    }
+  ],
+  "timestamp": "2026-10-15T22:52:44.238992218Z",
+  "model": "glm-5.3"
+}

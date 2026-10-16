@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 52:11",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ایہہ⟩",
+      "rationale": "عبرانی עשית وِچ مفعول نئیں، 'تُوں نے کیتا' — پنجابی جملے لئی مفعول پایا گیا۔"
+    },
+    {
+      "kind": "you",
+      "subject": "یاہوہ (تینوں\/تیرے)",
+      "rationale": "ایہہ آیت پregoار دے روپ وِچ خدا نوں سدھا مخاطب اے۔"
+    }
+  ],
+  "translation": "میں تینوں ہمیشہ دھنواد آکھواں گا کیونکہ تُوں نے ⟨ایہہ⟩ کیتا اے؛ تے میں تیرے ناں دی اُڈیک کراں گا، کیونکہ اوہ تیرے خیسِداں دے ساہمنے چنگا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c09ec736921c238f40da3b1cd0c46de03be1f944cbc0f1d5433f946cefca0fae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/52\/9-11.1792112634913.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "میں تینوں دھنواد آکھواں گا"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "تُوں نے کیتا"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "تے میں اُڈیک کراں گا"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "تیرے ناں دی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگا"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ساہمنے"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "تیرے خیسِداں دے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:03:54.915037822Z",
+  "model": "glm-5.3"
+}

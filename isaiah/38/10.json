@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 38:10",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בדמי",
+      "rationale": "جڑ د-ו-م 'چُپ\/سکوت' توں اے — 'دِناں دا سکوت'، پر ترجمے 'زوال' تے 'دُوپہر' وی آکھدے نیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "پקדתי",
+      "rationale": "پکد 'میں نے گِنی\/پہنچ کیتی' — ایس تھاں 'محروم کیتا گیا' دا مطلب سیاق دسدا اے"
+    }
+  ],
+  "translation": "میں آکھیا: میری دِہائیاں دے سکوت وِچ میں شیول دے بوہیاں ول ٹُر پھراں گا؛ میری باقی ورھیاں دا میں توں لِیا گیا ہاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "393e3593fef042dabaa66e7aee36224055d85f1a4cf129efeac267d2a01dd5cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/38\/9-12.1792106537140.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "سکوت وِچ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "میری دِہائیاں دے"
+    },
+    {
+      "surface": "אלכה",
+      "gloss": "میں ٹُر پھراں گا"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "بوہیاں ول"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شیول"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "میں توں لِیا گیا ہاں"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "باقی"
+    },
+    {
+      "surface": "שנותי",
+      "gloss": "میری ورھیاں دا"
+    }
+  ],
+  "timestamp": "2026-10-15T23:22:17.141495877Z",
+  "model": "glm-5.3"
+}

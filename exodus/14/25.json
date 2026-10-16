@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 14:25",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اوہنے⟩",
+      "rationale": "عبرانی وِچ فعل دا کرتا پچھلی آیت دا یاہوہ اے، پنجابی نوں صاف کرن لئی ⟨اوہنے⟩ دتا"
+    },
+    {
+      "kind": "crux",
+      "subject": "אפן",
+      "rationale": "کجھ مترجم 'پہیے ہٹا دتے'، کجھ 'ڈانواں ڈول کیتے' (bsb) — لفظ دا مُڈھ ہٹاؤنا اے"
+    }
+  ],
+  "translation": "تے ⟨اوہنے⟩ ⟨את⟩ اوہناں دے رتھاں دے پہیے ہٹا دتے تے اوہناں نوں اوکھے نال چلایا، تے مِتصرایم نے آکھیا: اسیں یِسرائیل دے ساہمنوں نسّ جائیے، کیونکہ یاہوہ اوہناں لئی مِتصرایم نال لڑ رہا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2ac2b3fe7f019dbddc1aaaf7ee6be50b4ab62a4104c7e1167c559faaa6a0dca4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/14\/25-28.1792096486019.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "ہٹا دتے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پہیے"
+    },
+    {
+      "surface": "אפן",
+      "gloss": "پہیے"
+    },
+    {
+      "surface": "מרכבתיו",
+      "gloss": "اوہناں دے رتھاں دے"
+    },
+    {
+      "surface": "וינהגהו",
+      "gloss": "چلایا"
+    },
+    {
+      "surface": "בכבדת",
+      "gloss": "اوکھے نال"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "آکھیا"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم"
+    },
+    {
+      "surface": "אנוסה",
+      "gloss": "نسّ جائیے"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "دے ساہمنوں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "لڑ رہا اے"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اوہناں لئی"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "مِتصرایم نال"
+    }
+  ],
+  "timestamp": "2026-10-15T20:34:46.020524354Z",
+  "model": "glm-5.3"
+}

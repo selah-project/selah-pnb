@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 122:7",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 122,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חיל",
+      "rationale": "חיל فوج یا مورچہ اے — 'کندھاں' سیاق دا مطلب اے، سدھا مطلب 'تُہدیاں فوجاں' وی ہو سکدا اے"
+    },
+    {
+      "kind": "you",
+      "subject": "یروشلایم",
+      "rationale": "پیوری دا بول شہر نوں مخاطب اے"
+    }
+  ],
+  "translation": "تُہدیاں کندھاں وِچ شالوم ⟨ہووے⟩، تُہدے قلعیاں وِچ آرام۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "14184fee368cd1ac8bb7e05239d149d4f3e46268a5915a20954dda9a634b60d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/122\/5-8.1792114037372.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ہووے"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالوم ⟨امن⟩"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "تُہدیاں کندھاں وِچ"
+    },
+    {
+      "surface": "שלוה",
+      "gloss": "آرام"
+    },
+    {
+      "surface": "בארמנותיך",
+      "gloss": "تُہدے قلعیاں وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:27:17.373422052Z",
+  "model": "glm-5.3"
+}

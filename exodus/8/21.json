@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 8:21",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اس⟩",
+      "rationale": "عبرانی وِچ پہلا ضمیر نئیں، پنجابی اسم اشارہ منگدا اے"
+    },
+    {
+      "kind": "you",
+      "subject": "to Moses and Aaron",
+      "rationale": "فارعوہ موشے تے اہرون نوں سد کے سِدھا مخاطب اے"
+    }
+  ],
+  "translation": "تے فارعوہ نے موشے تے اہرون نوں سدیا، تے آکھیا: جاؤ، اپنے ایلوہیم نوں ⟨اس⟩ دیش وِچ قربانی کرو۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "eb70608fdca283c9f342c3b827ba5a6978de7a20ec89bbd06d6f35ad9efd7b83",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/8\/21-24.1792096357493.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "سدیا"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فارعوہ نے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ول"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "ו לאהרן",
+      "gloss": "تے اہرون نوں"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "جاؤ"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "قربانی کرو"
+    },
+    {
+      "surface": "לאלהיכם",
+      "gloss": "اپنے ایلوہیم نوں"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "دیش وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T20:32:37.494515539Z",
+  "model": "glm-5.3"
+}

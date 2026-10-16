@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 10:16",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "دلاں دی چمّڑی لاؤ",
+      "rationale": "לבבכם ערלת — دل دی ختنہ، عبرانی مورت ای رکھی اے"
+    },
+    {
+      "kind": "idiom",
+      "subject": "گردن سخت",
+      "rationale": "ערפכם תקשו — گردن سخت کرنا یعنی نافرمانی، عبرانی دیوَ ورتے"
+    }
+  ],
+  "translation": "تے ⟨את⟩ اپنے دلاں دی چمّڑی لاؤ، تے اپنی گردن نوں ہور نہ سخت کرو۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "32f896c69cffcd09c14dbd825904cfcf2c6fbe5963b6e54df807c7bb4e7242c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/10\/13-16.1792099756458.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומלתם",
+      "gloss": "تے چمّڑی لاؤ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنے دلاں دی چمّڑی"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "چمّڑی"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "تہاڈے دلاں دی"
+    },
+    {
+      "surface": "וערפכם",
+      "gloss": "تے تہاڈی گردن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "سخت کرو"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ہور"
+    }
+  ],
+  "timestamp": "2026-10-15T21:29:16.459653654Z",
+  "model": "glm-5.3"
+}

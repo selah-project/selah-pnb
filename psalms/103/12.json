@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 103:12",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوہنے",
+      "rationale": "کرتا عبرانی وِچ لکھیا نئیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "بغاوتاں",
+      "rationale": "פשע 'بغاوت\/گردن کشی' اے — 'پاپ' توں وکھرا، بادشاہ دے خلاف بغاوت دا رنگ"
+    }
+  ],
+  "translation": "جِدّاں دور چڑھدا لہندے توں اے، اودوں اساڈیاں بغاوتاں نوں ⟨اوہنے⟩ ساڈے توں دور کر دتیاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5eace37ea168adbb12bf2cd218734c76da5492dcc98c24c42bbb589000dc3e43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/103\/9-12.1792113475463.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כרחק",
+      "gloss": "جِدّاں دور"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "چڑھدا"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "لہندے توں"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "دور کر دتا"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ساڈے توں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ساڈیاں بغاوتاں نوں"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "ساڈیاں بغاوتاں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:17:55.464997509Z",
+  "model": "glm-5.3"
+}

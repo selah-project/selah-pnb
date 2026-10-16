@@ -1,0 +1,137 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 13:55",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "اپنی اکھ نئیں پھیری",
+      "rationale": "עינו הפך — 'اکھ نہ پھیرنا' یعنی رنگ نہ بدلنا؛ پنجابی وِچ سوہجا کیتا"
+    },
+    {
+      "kind": "crux",
+      "subject": "בקרחתו\/בגבחתו",
+      "rationale": "سِر دے گنجے تھاں دے لفظ کپڑے لئی — 'پچھلا\/اگلا بسملدار تھاں' بمقابلہ 'اندر\/باہر' (KJV)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "نجس",
+      "rationale": "טמא 'پاک نئیں\/نجس' — صرف گندا نئیں"
+    }
+  ],
+  "translation": "تے کاہن ویکھیگا دھوݨ توں بعد ⟨את⟩ النض، تے ویکھو، نض نے ⟨את⟩ اپنی اکھ نئیں پھیری، تے نض پھلیا نئیں — اوہ نجس اے؛ اگّ وِچ اوہنوں ساڑیں، اوہ بسملدار اے، پچھلے تھاں وِچ جاں اگلے وِچ —",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "883507b5a91641848ebc7269dd3e8779f2a02f9c557d936a871d3211b19cd6e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/13\/53-56.1792097751431.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "تے ویکھیگا"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "הכבס",
+      "gloss": "دھوݨ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "النض"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "نض"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "تے ویکھو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "پھیری"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "نض"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنی اکھ"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "اپنی اکھ"
+    },
+    {
+      "surface": "והנגע",
+      "gloss": "تے نض"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "پھلیا"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "نجس"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "اگّ وِچ"
+    },
+    {
+      "surface": "תשרפנו",
+      "gloss": "اوہنوں ساڑیں"
+    },
+    {
+      "surface": "פחתת",
+      "gloss": "بسملدار"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "בקרחתו",
+      "gloss": "پچھلے تھاں وِچ"
+    },
+    {
+      "surface": "או",
+      "gloss": "جاں"
+    },
+    {
+      "surface": "בגבחתו",
+      "gloss": "اگلے وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T20:55:51.432878970Z",
+  "model": "glm-5.3"
+}

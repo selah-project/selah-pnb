@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 6:7",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "نفس",
+      "rationale": "נפש تھوٹ\/جان\/جیون-ساہ اے، صرف 'روح' نئیں — 'میری جان' رکھیا"
+    },
+    {
+      "kind": "alternative",
+      "subject": "המה",
+      "rationale": "'اوہ' خوراک نوں دوہندا اے (KJV\/ASV)؛ دوجا پڑھائی: روگ-ورگیاں چیزاں، JPS پاسے"
+    }
+  ],
+  "translation": "میری جان چھوݨ توں منع کردی اے؛ اوہ میرے روگ ورگیاں نیں ⟨میری⟩ خوراک ⟨دے طور تے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bc15c18360dae2cf19fcd8580154c190ebe68ae9cf2a15c4e2c0f0a8f6275a7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/6\/5-8.1792115510921.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מאנה",
+      "gloss": "منع کردی اے"
+    },
+    {
+      "surface": "לנגוע",
+      "gloss": "چھوݨ توں"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میری جان"
+    },
+    {
+      "surface": "המה",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "כדוי",
+      "gloss": "میرے روگ ورگیاں"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "میری خوراک"
+    }
+  ],
+  "timestamp": "2026-10-16T01:51:50.922158555Z",
+  "model": "glm-5.3"
+}

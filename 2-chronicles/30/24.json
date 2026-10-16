@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-chronicles 30:24",
+  "book": "2-chronicles",
+  "lang": "pnb",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨قربانیاں لئی⟩",
+      "rationale": "عبرانی وِچ صرف 'اکھوٹے لئی اُچا کیتا' اے؛ قربانی دا مطلب سیاق توں لیا گیا اے (ASV\/JPS 'for offerings' وانگوں)۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הרים\/הרימו",
+      "rationale": "'اُچا کیتا' — قربانی دین دا عبرانی ورتارا؛ پنجابی وِچ 'دتیاں\/دتے'۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "گنتیاں",
+      "rationale": "قربانیاں دی پوری گنتی — ہزار، ست ہزار، ہزار، دس ہزار۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויתקדשו",
+      "rationale": "کجھ ترجمے 'کاہن بہت گنتی نال مقدس ہوئے' (KJV)، کجھ 'کاہن بہت رَب مقدس ہوئے' (YLT) — عبرانی לרِב دوناں پاسے جا سکدا اے۔"
+    }
+  ],
+  "translation": "کیونکہ حِزقیاہو، یہوداہ دا بادشاہ، اکھوٹے لئی ہزار بھینساں تے ست ہزاریں دے چوپایاں ⟨قربانیاں لئی⟩ دتیاں، تے امیراں اکھوٹے لئی ہزار بھینساں تے دس ہزاریں دے چوپایے دتے، تے کاہن بہت رَب کے مقدس ہوئے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a61206da6ebdef2bf9835c784a30886048306afde2db97385b522d4349ff8e2d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/30\/23-24.1792124461208.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "حِزقیاہو"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "دتیاں"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "اکھوٹے لئی"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "بھینساں"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "تے ست"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ہزاریں"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "دے چوپایاں"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "تے امیراں"
+    },
+    {
+      "surface": "הרימו",
+      "gloss": "دتے"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "اکھوٹے لئی"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "بھینساں"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "تے چوپایے"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "دس"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ہزاریں"
+    },
+    {
+      "surface": "ויתקדשו",
+      "gloss": "تے مقدس ہوئے"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "بہت رَب"
+    }
+  ],
+  "timestamp": "2026-10-16T04:21:01.208887781Z",
+  "model": "glm-5.3"
+}

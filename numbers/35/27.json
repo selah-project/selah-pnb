@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 35:27",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אֵין לוֹ דָּם",
+      "rationale": "literal 'اوہدے لئی لہو نئیں' — مطلب قصوارا مُک اے؛ 'not guilty' وِلی ترجمہ عبرانی دی شکل نوں چھڈ دیندا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וְרָצַח … הָרֹצֵחַ",
+      "rationale": "اوہو جڑ ر-צ-ח فعل تے اسم وِچ — قاتل نوں قتل کرنا؛ اکو جڑ دا گونج"
+    }
+  ],
+  "translation": "تے لہو دا وصولی اوہنوں ⟨אתו⟩ لبھ لَوے، اوہدیاں پناہ دیاں شہر دی ہد توں باہر، تے لہو دا وصولی ⟨את⟩ قاتل نوں قتل کر دیوے — اوہدے اُتے لہو نئیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "28d5752f8a604d947087b4aeb51b92eef169a7b258a488831c2fd0949ecc9854",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/35\/25-28.1792099435681.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "تے لبھ لَوے"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "قاتل نوں"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "وصولی"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "لہو دے"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "باہر"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "ہد توں"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "מקלטו",
+      "gloss": "اوہدیاں پناہ دیاں"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "تے قتل کر دیوے"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "وصولی"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "لہو دے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قاتل"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "قاتل"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدے اُتے"
+    },
+    {
+      "surface": "דם",
+      "gloss": "لہو"
+    }
+  ],
+  "timestamp": "2026-10-15T21:23:55.682655938Z",
+  "model": "glm-5.3"
+}

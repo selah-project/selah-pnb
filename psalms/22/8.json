@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 22:8",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "יפטירו בשפה",
+      "rationale": "سچ مطلب 'ہوٹھ پھاڑدے نیں \/ ہوٹھ اِکھیڑدے نیں' — شرارت دا اشارہ؛ ترجمے وِچ تصویری مطلب رکھیا گیا اے۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ראי \/ ראש",
+      "rationale": "רֹאַי (مینوں ویکھن والے) تे רֹאשׁ (سر) دی آوازی جوڑ — ویکھن والے سر ہلاؤندے نیں؛ پنجابی وِچ گُم۔"
+    },
+    {
+      "kind": "you",
+      "subject": "مینوں",
+      "rationale": "مزماور خود تیجے بندے دا بول بن گیا اے — تُسّ دے ورتاے نال مخاطب ہور یاہوہ اے۔"
+    }
+  ],
+  "translation": "مینوں ویکھن والے سب میرا مذاق اُڈاؤندے نیں، ہوٹھ ⟨اِکھیڑدے⟩ نیں، سر ہلاوندے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3f948c59fae8fd5fb4f30ea23560a94f6d43b6d3b23a7e67140e1a5e4a3ea819",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/22\/5-8.1792112038146.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "ویکھن والے"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "مذاق اُڈاؤندے نیں"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مینوں"
+    },
+    {
+      "surface": "יפטירו",
+      "gloss": "⟨اِکھیڑدے⟩ نیں"
+    },
+    {
+      "surface": "בשפה",
+      "gloss": "ہوٹھ"
+    },
+    {
+      "surface": "יניעו",
+      "gloss": "ہلاوندے نیں"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سر"
+    }
+  ],
+  "timestamp": "2026-10-16T00:53:58.148031676Z",
+  "model": "glm-5.3"
+}

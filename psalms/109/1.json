@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "چُپ نہ رہ",
+      "rationale": "عبرانی חרש دا مُڈھلا مطلب 'کھودنا\/چُپ ہونا' اے — 'چُپ نہ رہ' قدرتی پنجابی نفی"
+    }
+  ],
+  "translation": "مُ质量管理 دے حق وِچ، داوِد دا مزمور۔اِلوہیم، میری تعریف ⟨دے⟩ ایلوہیم، چُپ نہ رہ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4e93a87331292423e31d0b6e0900e868c52634e2c0ed0f8b730ebf095603344d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/109\/1-4.1792113739689.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "مُNonQuery نوں"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد دے حق وِچ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "میری تعریف ⟨دے⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "چُپ رہ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:22:19.689773578Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 6:8",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "کینوں گھلوں؟",
+      "rationale": "ربّ دا سوال یسعیاہ نوں بلدا اے — یسعیاہ دا 'اِتھے میں آں' سدا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨جو⟩",
+      "rationale": "عبرانی وِچ relat‌ive اتے فعل ہی آواز نال جُڑے نیں، پنجابی 'جو' منگدا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלחנی",
+      "rationale": "یسعیاہ دا جواب اوہو جڑ الٹدا اے — 'میں نوں گھل' خود سوال دا سِدھا سراپا اے"
+    }
+  ],
+  "translation": "تے میں نے ⟨את⟩ ادونای دی آواز سنائی، ⟨جو⟩ آکھدا سی: ⟨את⟩ کینوں گھلوں؟ تے کون ساڈے لئی جائے؟ تے میں آکھیا: اِتھے میں آں، میں نوں گھل۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fef9c6b9dcfca1860b3b168469ab5af68c9ef8deefbc89fb561c9ae51d48d98e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/6\/5-8.1792105921549.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "تے میں نے سنیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ادونای دی آواز"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھدا سی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کینوں"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کینوں"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "گھلوں"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "تے کون"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "جائے"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ساڈے لئی"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "تے میں آکھیا"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "اِتھے میں آں"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "میں نوں گھل"
+    }
+  ],
+  "timestamp": "2026-10-15T23:12:01.550253768Z",
+  "model": "glm-5.3"
+}

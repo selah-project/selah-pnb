@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 19:11",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ביד",
+      "rationale": "'ہتھ دے حوالے' — عبرانی 'ہتھ وِچ'، پنجابی 'دے ہتھ دِتا' قدرتی ریت"
+    }
+  ],
+  "translation": "تے ⟨את⟩ باقی لوکاں نوں اوہدے بھرا اَبِشّی دے ہتھ دِتا، تے اوہناں عَمّون دے پتراں دے سامھنے ترتیب دِتی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "eded78e1d1a311cf035e5f7131a4f7287114508f5256583973690b07c926ecab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/19\/9-12.1792120969120.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "باقی لوکاں نوں"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "باقی"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوک"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دِتا"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ہتھ وِچ"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "اَبِشّی"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "اوہدے بھرا"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "تے ترتیب دِتی"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "سامھنے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دے پتر"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عَمّون"
+    }
+  ],
+  "timestamp": "2026-10-16T03:22:49.121558332Z",
+  "model": "glm-5.3"
+}

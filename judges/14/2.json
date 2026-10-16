@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 14:2",
+  "book": "judges",
+  "lang": "pnb",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "پیو تے ماں",
+      "rationale": "شِمشون دا حکم سدھا اوہناں دوواں ول: 'لے آؤ'"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשה",
+      "rationale": "عبرانی ناں نئیں دیندا، صرف 'اِک عورت' — پچھلی آیت دی پہیلی بنی رہندی اے"
+    }
+  ],
+  "translation": "تے اوہ اُتے آیا تے آپنے پیو تے آپنی ماں نوں دسیا، تے آکھیا: اِک عورت میں ویکھی اے تِمناہ وِچ، پلشتیم دیاں دھیّاں وِچوں؛ تے ہن ⟨את⟩ اوہنوں میرے لئی زنانی لے آؤ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "88cc8afca2cab2eade86b4e8e75e4bd80cedecccfc9b2fa05512b72ea86660b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/judges\/14\/1-4.1792101853991.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "تے اوہ اُتے آیا"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "تے دسیا"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "آپنے پیو نوں"
+    },
+    {
+      "surface": "ולאمו",
+      "gloss": "تے آپنی ماں نوں"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "اِک عورت"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "میں ویکھی اے"
+    },
+    {
+      "surface": "בתמנתה",
+      "gloss": "تِمناہ وِچ"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "دھیّاں وِچوں"
+    },
+    {
+      "surface": "پلشتیم",
+      "gloss": ""
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "تے ہن"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "لے آؤ"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "اوہنوں"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرے لئی"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "زنانی"
+    }
+  ],
+  "timestamp": "2026-10-15T22:04:13.992273860Z",
+  "model": "glm-5.3"
+}

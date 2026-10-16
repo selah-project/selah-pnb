@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 66:5",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "عبرانی وِچ copula نئیں؛ پنجابی جملے لئی ⟨اوہدی کارکردگی وِچ⟩ دتا"
+    },
+    {
+      "kind": "crux",
+      "subject": "עלילה",
+      "rationale": "کجھ ترجمے نے 'ڈراؤنا' نوں کارکردگی نال جوڑ دے نیں، کجھ وکھرا؛ 'exploit\/deed' دے بدلے بدلے نیں"
+    },
+    {
+      "kind": "invitation",
+      "subject": "آؤ تے ویکھو",
+      "rationale": "آیت پاٹھک نوں سدیاں ماردی اے — imperative بلن"
+    }
+  ],
+  "translation": "آؤ تے ویکھو ایلوہیم دے کم، اوہ بندیاں دے پُتراں اُتے ڈراؤنا ہے ⟨اوہدی کارکردگی وِچ⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a053864c231e7b93af25ede034cb9125ad962863e7cde04a752eba69391ddb84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/66\/5-8.1792112795277.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "آؤ"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "تے ویکھو"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "کم"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم دے"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ڈراؤنا"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "⟨اوہدی کارکردگی⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "بنداں دے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:06:35.277508306Z",
+  "model": "glm-5.3"
+}

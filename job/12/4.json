@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 12:4",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "اوہ ایلوہ نُوں پکاریںدا اے تے اوہ اوہنوں جواب دیندا اے",
+      "rationale": "קרא…ויענהו — کوݨ پکاردا تے کوݨ جواب دیندا: ایوب آپ، یار، چاہے ایلوہ؛ مترجم ونڈے ہوئے نیں۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שחק…שחוק",
+      "rationale": "آیت دے دوویں سروں 'ہسّی' نال بَجھدی اے — تشنجم، پنجابی وِچ دوویں واری اِکو لفظ رکھیا۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨واں⟩",
+      "rationale": "אהיה 'میں ہوندا واں' — پنجابی جملے لئی لفظ ہلکا کر کے بریکٹ وِچ رکھیا۔"
+    }
+  ],
+  "translation": "اپنے یار لئی ہسّی ⟨واں⟩ — اوہ ایلوہ نُوں پکاریںدا اے تے اوہ اوہنوں جواب دیندا اے — سِدھے کمال انسان لئی ہسّی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8e855829b1bb2db29faa567f04008eeb388d7577fd6a1e29143d5a18a231bdce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/12\/1-4.1792115714153.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שחק",
+      "gloss": "ہسّی"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "اپنے یار لئی"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "واں"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "پکاریںدا اے"
+    },
+    {
+      "surface": "לאלוה",
+      "gloss": "ایلوہ نوں"
+    },
+    {
+      "surface": "ויענהו",
+      "gloss": "تے اوہ اوہنوں جواب دیندا اے"
+    },
+    {
+      "surface": "שחוק",
+      "gloss": "ہسّی"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "سِدھے"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "کمال"
+    }
+  ],
+  "timestamp": "2026-10-16T01:55:14.154879018Z",
+  "model": "glm-5.3"
+}

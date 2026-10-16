@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 1:18",
+  "book": "joshua",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "تیرے مُونہ٘ دی نافرمانی",
+      "rationale": "עברית ימרה את פיך — سچی مورت 'تیرے مُونہ٘ نوں کڑواوے'؛ ماراہ دا مُڈھ کڑواہٹ اے"
+    },
+    {
+      "kind": "invitation",
+      "subject": "یَہُوشَع نوں",
+      "rationale": "آیت دے انت وچ سدھا حکم: پکا رہ تے دلیر رہ — قوم آپوں اپنے آگو نوں حکم دیندی اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חזק ואמץ",
+      "rationale": "اوہو جوڑا جو یوشع 1:6–7، 9 وچ یاہوہ دے مُونہ٘ توں نِکلیا — ہن قوم دے مُونہ٘ توں واپس آؤندا اے"
+    }
+  ],
+  "translation": "ہر اوہ بندہ جیہڑا ⟨את⟩ تیرے مُونہ٘ دی نافرمانی کرے تے ⟨את⟩ تیرے بچے ناں سُنے — جو کجھ تُوں اوہنوں حکم کریں — اوہ ماریا جائے؛ صرف تُوں پکا رہ تے دلیر رہ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1424ec9bbd0116028b3a87ac960ed74f61349e11ba6a129914832263980a22c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joshua\/1\/17-18.1792100679371.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "ימרה",
+      "gloss": "نافرمانی کرے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تیرا مُونہ٘"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "تیرا مُونہ٘"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے ناں"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "سُنے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تیرے بچے"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "تیرے بچے"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ہر اوہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "תצונו",
+      "gloss": "تُوں اوہنوں حکم کریں"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ماریا جائے"
+    },
+    {
+      "surface": "רק",
+      "gloss": "صرف"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "پکا رہ"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "تے دلیر رہ"
+    }
+  ],
+  "timestamp": "2026-10-15T21:44:39.372552219Z",
+  "model": "glm-5.3"
+}

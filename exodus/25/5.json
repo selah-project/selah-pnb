@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 25:5",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "תחשים",
+      "rationale": "تاحش اک ان پچھانی جانور اے، صرف عبرانی وِچ ای ملدا اے — کئی ترجمے سیلاں یا بیجر دیاں کھلاں آکھدے نیں۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "מאדמים",
+      "rationale": "گرد توں 'لال رنگیاں' یا قدرتی رنگ دیاں — دونواں پڑھائیاں نیں۔"
+    }
+  ],
+  "translation": "تے مینڈھیاں دیاں کھلاں ⟨لال⟩ رنگیاں ہوئیاں، تے تاحشاں دیاں کھلاں، تے شِتیم دے تبدے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c3f6db33fae3c722f736eff3c20e172212ed54d1359727fece0f7ea953ff71d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/25\/5-8.1792096815187.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "تے کھلاں"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "مینڈھیاں دیاں"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "لال رنگیاں ہوئیاں"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "تے کھلاں"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "تاحشاں دیاں"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "تے تبدے"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "شِتیم دے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:40:15.188391234Z",
+  "model": "glm-5.3"
+}

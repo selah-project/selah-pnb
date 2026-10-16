@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 132:14",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "איוותיה \/ איווה",
+      "rationale": "آیت 13 دے אוה نال اکو جڑ — چاہنا — دوواں آیتاں وِچ واپسی، عبرانی دا جوڑ اے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "بیٹھاں",
+      "rationale": "ישב بیٹھنا تے وسنا دوویں اے؛ ‘ایتھے میں بیٹھاں’ اوہو وسن دی گل اے۔"
+    }
+  ],
+  "translation": "“ایہہ میری وسائی سداں تک اے؛ ایتھے میں بیٹھاں، کیوں جے میں ایہنوں چاہیا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8ba0cb56b177f792ef48186339bc9d52c3093d2b1e6c9f137d4f5caf7375f33e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/132\/13-16.1792114022491.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "میری وسائی"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "سداں"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ایتھے"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "میں بیٹھاں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جے"
+    },
+    {
+      "surface": "אותיה",
+      "gloss": "ایہنوں چاہیا اے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:27:02.491711976Z",
+  "model": "glm-5.3"
+}

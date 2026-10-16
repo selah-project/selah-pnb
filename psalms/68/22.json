@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 68:22",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "قصور",
+      "rationale": "אשמה گناہ\/قسمت دا قصار اے، قربانی دے معنے وی"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קדקד",
+      "rationale": "دوہرا-کُ، کُھوپڑی دا ودھوا ناں، سر دے ولوں سر"
+    }
+  ],
+  "translation": "بھلا ایلوہیم ہی کُچلے گا اپنے ویریاں دا سر، اوہدے والاں دے چوٹی والے حصے نوں، جِہڑا اپنے قصوراں وِچ پھردا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7d1ce227a1f20f3019b18c287bbf851593961d95f40d6f997cd7aca082101515",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/68\/21-24.1792112850679.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "بھلا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "ימחץ",
+      "gloss": "کُچلے گا"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "اپنے ویریاں دا"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "چوٹی والا حصہ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "والاں دے"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "پھردا اے"
+    },
+    {
+      "surface": "באשמיו",
+      "gloss": "اپنے قصوراں وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:07:30.680381797Z",
+  "model": "glm-5.3"
+}

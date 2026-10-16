@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 123:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 123,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ہتھ ول اَکھّاں",
+      "rationale": "عبرانی ریت — نظر ہتھ اُتے رکھنا یعنی منتظر رہنا؛ پنجابی وِچ 'ول' نال رکھیا۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עבדים\/שפחה · אדוניהם\/גברתה",
+      "rationale": "مرد-عورت جوڑے دی سموئت بالکل اکو پرکار اے — ترجمے وِچ جوڑا رکھیا گیا۔"
+    }
+  ],
+  "translation": "دیکھو، جویں غلاماں دیاں اَکھّاں اوہناں دے آقاواں دے ہتھ ول، تے جویں بردی دیاں اَکھّاں اوہدی مالکن دے ہتھ ول، ایویں ساڈیاں اَکھّاں یاہوہ ساڈے ایلوہیم ول نیں، تیکے جو اوہ ساڈے اُتے مہربان ہووے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "dc17681d7942feadc3e890e9ffe72e07bb398e28650735db0cccbc12a1873510",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/123\/1-4.1792114067159.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "دیکھو"
+    },
+    {
+      "surface": "כעיני",
+      "gloss": "جویں اَکھّاں"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "غلاماں دیاں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ول"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "אדוניהם",
+      "gloss": "اوہناں دے آقاواں دے"
+    },
+    {
+      "surface": "כעיני",
+      "gloss": "جویں اَکھّاں"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "بردی دیاں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ول"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "اوہدی مالکن دے"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ایویں"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "ساڈیاں اَکھّاں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ول"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ساڈے ایلوہیم"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تیکے"
+    },
+    {
+      "surface": "שיחננו",
+      "gloss": "اوہ مہربان ہووے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:27:47.160617819Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ایلوہیم",
+      "rationale": "ایلوہیم ایتھے یکتا خدا وی ہو سکدا اے تے عدالت دے ججاں لئی استعمال وی — بہت سارے مترجم 'ججاں' لکھدے نیں، اینویں رکھیا گیا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "بددعا \/ لعنت",
+      "rationale": "תקלל دا مطلب ہلکا کرنا\/ذلیل کرنا، תאר رسوا کر کے پھیرنا — دوویں لعنت دے نیڑے نیں پر اصل تصویر وکھری"
+    },
+    {
+      "kind": "you",
+      "subject": "سنن والے نوں",
+      "rationale": "حکم سدھا بنے اسرائیل نوں، دومجہ صیغہ"
+    }
+  ],
+  "translation": "ایلوہیم نوں بددعا نہ دِیو، تے اپنے قوم دے سردار نوں لعنت نہ دیو۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d6ff33d84dfca1c6c80611b928faea7ef21c6f4e742c679b83db6cd8c5d8ba77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/22\/26-27.1792123354626.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תקלل",
+      "gloss": "بددعا دیو"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "تے سردار"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "اپنے قوم دے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "لعنت دیو"
+    }
+  ],
+  "timestamp": "2026-10-16T04:02:34.627090886Z",
+  "model": "glm-5.3"
+}

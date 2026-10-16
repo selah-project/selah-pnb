@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 2:6",
+  "book": "zechariah",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "پرچھے والے جملیاں وِچ پنجابی copula منگدا اے، عبرانی نئیں"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ناپݨ لئی، چوڑائی، لمبائی",
+      "rationale": "شہر دے ماپ دا بیان"
+    }
+  ],
+  "translation": "تے میں نے آکھیا: تُوں کتھے جا رہا ایں؟ تے اوہنے مینوں آکھیا: یروشلایم نوں ⟨את⟩ ناپݨ لئی، ویکھݨ لئی کہ اوہدی کِنی چوڑائی اے تے کِنی لمبائی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1d756fff573194abb35f4ed6296a535f8fe0e6ef2448e6dbcf8f5389a840bd0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/zechariah\/2\/5-8.1792111550161.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "تے میں نے آکھیا"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "کتھے"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُوں"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "جا رہا ایں"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے اوہنے آکھیا"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مینوں"
+    },
+    {
+      "surface": "למד",
+      "gloss": "ناپݨ لئی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یروشلایم"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ویکھݨ لئی"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "کِنی"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "چوڑائی"
+    },
+    {
+      "surface": "וכמה",
+      "gloss": "تے کِنی"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "لمبائی"
+    }
+  ],
+  "timestamp": "2026-10-16T00:45:50.161839563Z",
+  "model": "glm-5.3"
+}

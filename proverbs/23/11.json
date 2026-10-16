@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 23:11",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "بچان والا",
+      "rationale": "גואל رشتے دا مُکتار اے — نیڑلے رشتے دار جیہڑا حق وستھاپت کردا اے"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתך",
+      "rationale": "ایہہ 'تیرے نال' دا مطلب اے، مگر علامت ⟨את⟩ والی نئیں؛ مظہر دستاویز منگدا اے کہ گلاس ⟨את⟩ چکیگا"
+    }
+  ],
+  "translation": "کیونکہ اوہناں دا بچان والا زوراور اے، اوہ ⟨את⟩ اوہناں دا دعویٰ ⟨את⟩ تیرے نال لڑیگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "163f80a11410ec688886cc1d187c62b1cc5b53f47fd0af5a1f0e9c49520cf34f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/23\/9-12.1792115005375.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "اوہناں دا بچان والا"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "زوراور"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "دعویٰ لڑیگا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہناں دا دعویٰ"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "اوہناں دا دعویٰ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ تیرے نال"
+    }
+  ],
+  "timestamp": "2026-10-16T01:43:25.376138360Z",
+  "model": "glm-5.3"
+}

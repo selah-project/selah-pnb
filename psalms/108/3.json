@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 108,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שחר",
+      "rationale": "'میں سویرے نوں جگاواںگا' (سویر توں پہلاں جاگنا) بمقابلہ 'میں سویر دے ویلے جاواںگا' — دوناں پڑھائیاں نیں"
+    },
+    {
+      "kind": "invitation",
+      "subject": "نیول تے کنور نوں",
+      "rationale": "آلےآں نوں سدّا — بول دے راہیں سدیا گیا"
+    }
+  ],
+  "translation": "جاگ، ہار تاں، تے وایول دا ہار تاں؛ میں سویرے نوں جگاواںگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "42ad265799632db511bca983ab277661ef5a1b1280eb3e5b9c3c3bd7be8ed171",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/108\/1-4.1792113695141.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "جاگ"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "وایول دا ہار تاں"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "تے ہار"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "میں جگاواںگا"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "سویرے نوں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:21:35.141692816Z",
+  "model": "glm-5.3"
+}

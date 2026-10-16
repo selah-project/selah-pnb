@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 1:2",
+  "book": "esther",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "قلعے",
+      "rationale": "הבירה دا مطلب قلعہ\/محل اے؛ 'شوشَن قلعہ' روايتی ناں بن گیا اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "جدوں",
+      "rationale": "عبرانی כשבת (بیٹھنے دے ویلے) نوں پنجابی وِچ 'جدوں' نال جوڑیا گیا۔"
+    }
+  ],
+  "translation": "اُنہاں دِناں وِچ، جدوں بادشاہ اَکشویروش اپنی بادشاہی دے تخت اُتے بیٹھیا، جیہڑا شوشَن ⟨قلعے⟩ وِچ اے،",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8d74a11ea25af1db6bcf72b20acef22d1170627026705392d9fbad140ced0df0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/esther\/1\/1-4.1792117890183.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "اُنہاں دِناں وِچ"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "כשבת",
+      "gloss": "بیٹھیا جدوں"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "اَکشویروش"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "تخت"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "اپنی بادشاہی دے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "شوشَن وِچ"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "قلعے"
+    }
+  ],
+  "timestamp": "2026-10-16T02:31:30.184581967Z",
+  "model": "glm-5.3"
+}

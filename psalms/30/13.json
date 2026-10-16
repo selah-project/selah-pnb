@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 30:13",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "واجھا پاؤنا",
+      "rationale": "זמر دا مُڈھ ر وجہ نال واجھن اے — ساز وجا کے گاؤنا؛ پنجابی وچ ساز وجا پاؤنا دتا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "جلال",
+      "rationale": "כבוד دا مُڈھ بھار\/بار اے؛ ایناں بولے 'tongue' تے 'glory' نیں، پنجابی نے بھار دا مفہوم رکھیا"
+    },
+    {
+      "kind": "addition",
+      "subject": "ناں اُتے",
+      "rationale": "پنجابی ساخت لئی جوڑیا گیا؛ عبرانی وِچ صرف 'تیرے' اے"
+    },
+    {
+      "kind": "you",
+      "subject": "یاہوہ نوں",
+      "rationale": "سارا شعر سدھیا یاہوہ نوں مخاطب اے"
+    }
+  ],
+  "translation": "ایس لئی کہ جلال تیرے ناں اُتے واجھا پاوے تے چُپ نہ رہے، اے یاہوہ میرے ایلوہیم، میں ہمیشہ تیرا شکر کراں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1bb6b56875b296c3d88d4175d51e3bd256d0f31ba32a2b66edfbf9127f426eb1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/30\/13-13.1792112116461.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ایس لئی کہ"
+    },
+    {
+      "surface": "יזמרך",
+      "gloss": "تیرے ناں اُتے واجھا پاوے"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "چُپ رہے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "میرے ایلوہیم"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "تیرا شکر کراں گا"
+    }
+  ],
+  "timestamp": "2026-10-16T00:55:16.462052097Z",
+  "model": "glm-5.3"
+}

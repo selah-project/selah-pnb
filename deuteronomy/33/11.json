@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 33:11",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨تاں جو اوہ نہ⟩",
+      "rationale": "مِن یکومون لفظی 'اُٹھن توں' — پنج جملہ پورا کرن لئی منگیا"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קמיו\/יקומון",
+      "rationale": "اوہی جڑ ق-و-م دو واری — 'اُٹھن والے' تے 'اُٹھن' — پنجابی وِچ کجھ نہیں بچدا"
+    }
+  ],
+  "translation": "برکت دے، یاہوہ، اوہدے بال نوں، تے اوہدے ہتھاں دا کم منہ؛ اوہدے اُٹھن والیاں دیاں کمراں کُچلو، تے اوہدے ویراں نوں ⟨تاں جو⟩ اوہ نہ اُٹھھن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "77d40ea29f102d9d8aff5a4584383bf911f798bf42e0cebab41778bb53c3cc1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/33\/9-12.1792100518713.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברך",
+      "gloss": "برکت دے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "اوہدے بال"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "تے کم"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "اوہدے ہتھاں دا"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "منہ"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "کُچلو"
+    },
+    {
+      "surface": "מתנים",
+      "gloss": "کمراں"
+    },
+    {
+      "surface": "קמיו",
+      "gloss": "اوہدے اُٹھن والیاں دے"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "تے اوہدے ویراں نوں"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "יקומון",
+      "gloss": "اُٹھن"
+    }
+  ],
+  "timestamp": "2026-10-15T21:41:58.714983881Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 3:22",
+  "book": "lamentations",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨نیں⟩",
+      "rationale": "عبرانی وِچ کوئی فعل نئیں — اسمی جملہ اے، پنجابی کپولا منگدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ترساں",
+      "rationale": "רחמים مُڑ دھماں نال جُڑیا اے — 'ترس' دے نال رکھیا، پیٹ\/مُڑ دی تصیر ہلدی اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "תמנו",
+      "rationale": "کجھ مترجم 'تسیں مُکے نئیں' (دوجا شخص جمع) پڑھدے نیں؛ عام پڑھائی 'اسیں مُکے نئیں' اے"
+    }
+  ],
+  "translation": "یاہوہ دے خیسِد ⟨نیں⟩ — کیونجے اسیں مُکے نئیں، کیونجے اُہدیاں ترساں مکیاں نئیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2b5e6174d5369d9628a85f3be7c005619ce31153deeb8d931acedb1772ab6576",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/lamentations\/3\/21-24.1792117118836.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "خیسِد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "اسیں مُکے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "مکے"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "اُہدیاں ترساں"
+    }
+  ],
+  "timestamp": "2026-10-16T02:18:38.837146623Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 1:18",
+  "book": "ruth",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوہنے",
+      "rationale": "عبرانی فعل وِچ لکھیا اے پر پنجابی جملے لئی کرم وکھ کیتا گیا"
+    },
+    {
+      "kind": "alternative",
+      "subject": "מתאמצת",
+      "rationale": "'اپنے آپ نوں مضبوط کردی' — 'پکی\/پکا ارادہ کردی' دوناں جائز؛ ٹکسالی ریت 'پکی' رکھی"
+    }
+  ],
+  "translation": "تے ⟨اوہنے⟩ ویکھیا کہ اوہ ⟨את⟩ اوہدے نال ٹرن لئی پکی اے، تے اوہدے نال بولن توں رک گئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a500b53b5273b6b6688b40b5ac70a6d5cffcc3c7ecd4b11bffc04e16985e652d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ruth\/1\/17-20.1792117047718.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "تے ویکھیا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "מתאמצת",
+      "gloss": "پکی"
+    },
+    {
+      "surface": "היא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ٹرن لئی"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "اوہدے نال"
+    },
+    {
+      "surface": "ותחדל",
+      "gloss": "تے رک گئی"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "بولن توں"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "اوہدے نال"
+    }
+  ],
+  "timestamp": "2026-10-16T02:17:27.719636283Z",
+  "model": "glm-5.3"
+}

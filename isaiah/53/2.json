@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 53:2",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 53,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اُس دے⟩",
+      "rationale": "לפניו دی نسبت پنجابی وِچ ظاہر کرنی پئی — ‘اوہدے ساہمنے’ وِچ اوہ لکھیا نئیں، ‘ساہمنے’ دے نال منگدا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "ہوئیا copula",
+      "rationale": "عبرانی وِچ فعل ‘اُگیا’ دا گل bath نئیں؛ پنجابی واک بھردا اے"
+    }
+  ],
+  "translation": "تے اوہ ⟨اُس دے⟩ ساہمنے بوٹے وانگوں اُگیا، تے سُکّی دھرتی توں جڑھ وانگوں؛ اوہدا کوئی تُور نئیں تے نہ کوئی شان، تے اسیں اوہنوں ویکھیا تے کوئی سوہنی شکل نئیں کہ اوہنوں چاہونیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e54ea07485cbe6ac9611f3cd9cc7c2c89ac395d34bdcb26e35cecf8170b478ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/53\/1-4.1792106978777.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "اُگیا"
+    },
+    {
+      "surface": "כיונק",
+      "gloss": "بوٹے وانگوں"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ساہمنے"
+    },
+    {
+      "surface": "וכשרש",
+      "gloss": "تے جڑھ وانگوں"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "دھرتی توں"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "سُکّی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "تُور"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "شان"
+    },
+    {
+      "surface": "ונראהו",
+      "gloss": "تے اسیں اوہنوں ویکھیا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "شکل"
+    },
+    {
+      "surface": "ונחמדהו",
+      "gloss": "کہ اوہنوں چاہونیں"
+    }
+  ],
+  "timestamp": "2026-10-15T23:29:38.777978423Z",
+  "model": "glm-5.3"
+}

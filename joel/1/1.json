@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 1:1",
+  "book": "joel",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "copula",
+      "rationale": "پنجابی نوں ایہہ\/اے چاہیدا اے، عبرانی وِچ کوئی ربط نئیں"
+    },
+    {
+      "kind": "elision",
+      "subject": "دَبَر یَہوَہ",
+      "rationale": "על היה אל دی وضاحت لئی 'اوہ' پایا گیا — عبرانی سِدھا بناند اے"
+    }
+  ],
+  "translation": "ایہہ اوہ بَعشُت اے جیہڑی یُوایل، پَتُوایل دے پُتر، نوں آئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "45ec4144656b393b5be42ca51f70630482d559c7d6c577947af9d11450d8110e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joel\/1\/1-4.1792110652294.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "بَعشُت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ہوئی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "یُوایل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "פתואל",
+      "gloss": "پَتُوائل"
+    }
+  ],
+  "timestamp": "2026-10-16T00:30:52.294714856Z",
+  "model": "glm-5.3"
+}

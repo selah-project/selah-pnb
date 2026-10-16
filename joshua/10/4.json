@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 10:4",
+  "book": "joshua",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "بادشاہاں دا سنیہا",
+      "rationale": "علیٰ-الفاظ نال سدّا — 'میرے کول چڑھو تے میری مدد کرو' — چارے بادشاہاں ول"
+    },
+    {
+      "kind": "you",
+      "subject": "چار اموری بادشاہ",
+      "rationale": "سدھا خطاب — اَدونی-تصدیک دا ہوہام، پیرام، یاپیا تے دَبیر والے سنیہا"
+    }
+  ],
+  "translation": "میرے کول چڑھو تے میری مدد کرو، تاں اسیں ⟨את⟩ گِبعون نوں مار سکے، کیونجے اوہنے ⟨את⟩ یہوشُواع نال تے ⟨את⟩ یِسرائیل دے پُتراں نال صلح کر لئی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9bb88ad1ab432ae26ee1059731d17768e220b30bdae39f969c2b4aac48386cb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joshua\/10\/1-4.1792100922875.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עלו",
+      "gloss": "چڑھو"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میرے کول"
+    },
+    {
+      "surface": "ועזרני",
+      "gloss": "تے میری مدد کرو"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "تاں اسیں مار سکے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گِبعون"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "گِبعون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "השלימה",
+      "gloss": "صلح کر لئی اے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یہوشُواع"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یہوشُواع"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "یِسرائیل دے پُتر"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پُتراں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل دے"
+    }
+  ],
+  "timestamp": "2026-10-15T21:48:42.876993138Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 36:12",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בשלח",
+      "rationale": "'نیزے نال لنگھنا' بمقابلہ KJV 'تلوار نال مرنا' — شِلح راست مطلب بھالا\/نیزا اے"
+    },
+    {
+      "kind": "idiom",
+      "subject": "بھالے نال لنگھ جانا",
+      "rationale": "مُحاورہ — موت دے نال لنگھن دا عبرانی چِتر"
+    }
+  ],
+  "translation": "تے جے اوہ نہ سُنن، اوہ بھالے نال لنگھ جان تے بِناں جانکاری ⟨دے⟩ ساہ مُک جان۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "49a09f21a4b4d4c6e5f24796a2c21b82c7bbada85bd18360ae376fb3088aeafe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/36\/9-12.1792116326944.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "سُنن"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "بھالے نال"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "لنگھ جان"
+    },
+    {
+      "surface": "ויגועו",
+      "gloss": "تے ساہ مُک جان"
+    },
+    {
+      "surface": "כבלי",
+      "gloss": "بِناں"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "جانکاری"
+    }
+  ],
+  "timestamp": "2026-10-16T02:05:26.945553091Z",
+  "model": "glm-5.3"
+}

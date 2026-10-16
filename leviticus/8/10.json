@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 8:10",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "משכן",
+      "rationale": "Tier-2 لفظ 'مسکن' رکھیا، 'ڈیرا' اکلا ردّ اے۔"
+    }
+  ],
+  "translation": "تے موشے نے مسح دا تیل چُکیا، تے اوس مسکن نوں ⟨את⟩ مسح کیتا تے جو کجھ اوس وِچ سی ⟨وאת⟩ اوہنوں، تے اوہناں نوں پوتر کیتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "d225b7f9d93d930b325d629cb983ee9a4039735740fcce60835895c47e971b01",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/8\/9-12.1792097545992.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "تے چُکیا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مسح دا تیل"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "تیل"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "مسح دا"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "تے مسح کیتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مسکن"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مسکن نوں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨وאת⟩",
+      "marks": "جو کجھ اوس وِچ سی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوس وِچ"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "تے پوتر کیتا"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "اوہناں نوں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:52:25.993362037Z",
+  "model": "glm-5.3"
+}

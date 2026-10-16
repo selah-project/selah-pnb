@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 24:12",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש 'ساہ\/جیون-زور' اے، صرف 'روح' نئیں۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "תפלה",
+      "rationale": "'بے-عقلمی\/اپج نال منگدا اے' — کجھ 'دعا نوں جواب نئیں دیندا' پڑھدے نیں (תפלה\/תפילہ دی سندھ)، KJV 'بے-عقلمی رَکھدا' اے۔"
+    },
+    {
+      "kind": "mystery",
+      "subject": "ایلوہ نئیں لَمدا",
+      "rationale": "ظلم دے چیخاں دے باوجود خدا دا چُپ رہنا — ایوب دی اوہ گُتھی جیہڑی ایس سارے باب دا سوال اے۔"
+    }
+  ],
+  "translation": "شہر توں بندیاں کرایدے نیں، تے زخمیاں دی جان چیخدی اے، پر ایلوہ بے-عقلمی نئیں لَمدا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "162591c073d69330d3c9b4a8b6f31d674c9395e593d4f8faab5139bd4a991159",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/24\/9-12.1792116115384.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מעיר",
+      "gloss": "شہر توں"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "بندیاں"
+    },
+    {
+      "surface": "ינאקו",
+      "gloss": "کرایدے نیں"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "تے جان"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "زخمیاں دی"
+    },
+    {
+      "surface": "תשוע",
+      "gloss": "چیخدی اے"
+    },
+    {
+      "surface": "ואלוה",
+      "gloss": "پر ایلوہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "لَمدا"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "بے-عقلمی"
+    }
+  ],
+  "timestamp": "2026-10-16T02:01:55.385269946Z",
+  "model": "glm-5.3"
+}

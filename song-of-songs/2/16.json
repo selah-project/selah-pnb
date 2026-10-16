@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 2:16",
+  "book": "song-of-songs",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שושנים",
+      "rationale": "مُڈھلا مطلب 'سوسن\/کنول' — چِٹے پھُل؛ 'کنول' سبھ توں نیڑے دی تصویر اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "اے\/آں",
+      "rationale": "عبرانی وِچ صرف ضمیر دے نال تعلق اے ('میرے لئی\/اوہدے لئی')، پنجابی نے جملے لئی کپول ودھایا۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "הרועה",
+      "rationale": "کُجھ ترجمے 'اوہ چاردا اے' (روواں بھیڈاں)، کُجھ 'اوہ رجھیا ہویا اے\/بہُ رَس کردا اے' — بتی سراہی۔"
+    }
+  ],
+  "translation": "میرا مُحبَٹ میرا اے تے میں اوہدا آں، اوہ کنولّاں وِچ چاردا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bd3493168025ecb6e5d4595580375f36c28be81abe3c704484593b3a3243cf76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/song-of-songs\/2\/13-16.1792116690821.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "میرا مُحبَٹ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرا اے"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "تے میں"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدا آں"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "چاردا اے"
+    },
+    {
+      "surface": "بשושנים",
+      "gloss": "کنولّاں وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T02:11:30.822322304Z",
+  "model": "glm-5.3"
+}

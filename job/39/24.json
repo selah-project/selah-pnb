@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 39:24",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "دھرتی نوں نگل لیندا اے",
+      "rationale": "יגמא ארץ — گھوڑا دوڑ وچ زمین 'پی لیندا' اے؛ پنجابی وچ وی 'رستہ نگل لینا' جیا ہی اے۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "یقین نئیں آؤندا",
+      "rationale": "ולא יאמין — KJV 'یقین نئیں کردا'، یَلٹ 'ٹک نئیں کھلوتا' (امن = ٹکنا)؛ دوویں قوبل کیتے گئے نیں۔"
+    }
+  ],
+  "translation": "شور تے غصے نال اوہ دھرتی نوں نگل لیندا اے، تے اوہدے یقین نئیں آؤندا کیونکہ شاخ ناگ دی آواز ⟨اے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1e795df4c01c40cf2040d147a68b6b5249969709ced8fa9a1cc0923d82e08344",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/39\/21-24.1792116501819.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברעש",
+      "gloss": "شور نال"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "تے غصے"
+    },
+    {
+      "surface": "יגמא",
+      "gloss": "نگل لیندا اے"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "دھرتی نوں"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "יאמין",
+      "gloss": "یقین آؤندا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "شاخ ناگ دی"
+    }
+  ],
+  "timestamp": "2026-10-16T02:08:21.820214597Z",
+  "model": "glm-5.3"
+}

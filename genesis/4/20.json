@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אבי",
+      "rationale": "'پیو' ایتھے نسلی نئیں، پیشے دا مطلب اے — خیمہ وسنیاں تے مال رکھن والیاں دا مُڈھ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יבל",
+      "rationale": "یابل دا ناں عبرانی جذر יבל 'لے جانا\/وہانا' نال جُڑدا اے — مویشی ونڈائی دا پیشہ، پنجابی وِچ ناں دا رس گواچدا اے"
+    }
+  ],
+  "translation": "تے عادہ نے ⟨את⟩ یابل نوں جنّیا؛ اوہ اوہی ہویا جیہڑا خیمے وِچ وسن تے مال رکھن والیاں دا پیو ⟨سی⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "782a7716f27a0c395aa746f8f7a02bb0107a78dd8bdaa4b578bedf95b0b1635a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/4\/17-20.1792094726931.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "تے جنّیا"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "عادہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یابل"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "یابل"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ہویا"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پیو"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "وسن والا"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمے"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "تے مال"
+    }
+  ],
+  "timestamp": "2026-10-15T20:05:26.932660072Z",
+  "model": "glm-5.3"
+}

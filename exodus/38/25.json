@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 38:25",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "census silver",
+      "rationale": "چاندی دا حساب — سو کنٹر تے 1775 شیکل۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "کنٹر",
+      "rationale": "ככר وزن دا ناں اے، حرف-نقل رکھیا گیا۔"
+    }
+  ],
+  "translation": "تے گِنے ہوئیاں دی جماعت دی چاندی سو کنٹر سی، تے ہزار تے ست سو تے پنج تے ستّر شیکل، مقدس دے شیکل نال۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "72142e2c512027b19cb84e1c8f31c09de88e3e9e3d206baab9789faea5f974e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/38\/25-28.1792097280477.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכסף",
+      "gloss": "تے چاندی"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "گِنے ہوئیاں دی"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "جماعت"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "سو"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "کنٹر"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "تے ہزار"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "تے ست"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "تے پنج"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "تے ستّر"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "شیکل"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "شیکل نال"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "مقدس دے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:48:00.478083121Z",
+  "model": "glm-5.3"
+}

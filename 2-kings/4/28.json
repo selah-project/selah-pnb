@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 4:28",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اِک",
+      "rationale": "عبرانی وِچ پُتر نال کوئی گنتی\/uncertainty نئیں، پنجابی اِک دا محتاج اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "دھوکھا دینا",
+      "rationale": "שלה دا مطلب 'بھُلائے وچ پا کے دھوکھا دینا' اے — 'مینوں گلاں نہ لاؤ' وی ممکن اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "הלא",
+      "rationale": "'کی میں نئیں آکھیا سی' — سوال شکل وِچ زور دین دا عبرانی ول، کجھ ترجمے 'میں آکھیا سی' کردے نیں"
+    },
+    {
+      "kind": "you",
+      "subject": "الیشع نوں",
+      "rationale": "زنانی سِدھا الیشع (الاوشا) نال گل کردی اے، 'میرے سائیں' بندے لئی אے"
+    }
+  ],
+  "translation": "تے اوہنے آکھیا: کی میں اپنے سائیں توں ⟨את⟩ اِک پُتر منگیا سی؟ کی میں نئیں آکھیا سی: مینوں ⟨את⟩ دھوکھا نہ دینا؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "80c5a8a1bea41f01edad69ee52c3dcc61513d6531193f651ee57004a57fcb6bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/4\/28-28.1792123719054.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "تے اوہنے آکھیا"
+    },
+    {
+      "surface": "השאלתי",
+      "gloss": "کی میں منگیا سی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "اِک پُتر"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ توں",
+      "marks": "اپنے سائیں"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اپنے سائیں"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "کی میں نئیں"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "آکھیا سی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשלה",
+      "gloss": "دھوکھا دینا"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "مینوں"
+    }
+  ],
+  "timestamp": "2026-10-16T04:08:39.054783833Z",
+  "model": "glm-5.3"
+}

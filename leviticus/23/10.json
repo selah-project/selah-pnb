@@ -1,0 +1,137 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 23:10",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "عمر",
+      "rationale": "عبرانی دا کوئی واک فعل نئیں — پنجابی حکم والا جملہ فعل منگدا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨گَنّھا⟩",
+      "rationale": "عمر دی پہلی واری وضاحت — اِک گَنّھا تے ناپ دوویں"
+    },
+    {
+      "kind": "invitation",
+      "subject": "حکم",
+      "rationale": "موشے نوں یِسرائیل دے پتراں ول آکھن دا حکم — اِلان٘ے ول سدّا"
+    }
+  ],
+  "translation": "یِسرائیل دے پتراں نال گل کرو تے اوہناں نوں آکھو: جدوں تسیں اُس دھرتی وِچ آؤ جیہڑی میں تہاڈے نوں دِتّی، تے تسیں ⟨את⟩ اوہدی فصل لُوݨا، تاں تسیں اوہدے گَنّھے ⟨اومر⟩ — تہاڈی فصل دی پہلی — کاہن کول لے آؤ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "98e274f8b302a2af8663a4b294c6326a67d21bde5b8b724ebb90ea9a35962d0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/23\/9-12.1792098007068.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "گل کرو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نال"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پتراں دے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "تے آکھو"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "اوہناں نوں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جدوں کہ"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "تسیں آؤ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "وِچ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "دھرتی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دِتّی"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تہاڈے نوں"
+    },
+    {
+      "surface": "וקצרתם",
+      "gloss": "تے تسیں لُوݨا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہدی فصل"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "اوہدی فصل"
+    },
+    {
+      "surface": "והבאתם",
+      "gloss": "تے لے آؤ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اومر"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "اومر ⟨گَنّھا⟩"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "پہلی"
+    },
+    {
+      "surface": "קצירכם",
+      "gloss": "تہاڈی فصل دی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    }
+  ],
+  "timestamp": "2026-10-15T21:00:07.069131149Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "کھا گئی",
+      "rationale": "וַתֹּאכַל буквально ’کھادی‘ — اگّ بھکھے وانگ کھاندی اے؛ پنجابی ’کھا گئی‘ ایہو تصویر رکھدی اے۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לפני יהוה دا دہراؤ",
+      "rationale": "آیت وِچ دو واری ’یاہوہ دے ساہمنے‘ — جتھے اوہناں پیش کیتا اوتھے اوہ مَرے۔"
+    }
+  ],
+  "translation": "تے یاہوہ دے ساہمنے توں اگّ نِکلی تے ⟨את⟩ اوہناں نوں کھا گئی، تے اوہ یاہوہ دے ساہمنے مَر گئے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "582195237295acbea347a68e31c12f9e9633e618ef3b72694fd01e2dbc77d9b0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/10\/1-4.1792097640790.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "نِکلی"
+    },
+    {
+      "surface": "אש",
+      "gloss": "اگّ"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "دے ساہمنے توں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "کھا گئی"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "اوہناں نوں"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "مَر گئے"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "دے ساہمنے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-10-15T20:54:00.791379552Z",
+  "model": "glm-5.3"
+}

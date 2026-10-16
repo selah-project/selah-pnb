@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 27:13",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اے⟩",
+      "rationale": "عبرانی وِچ کوئی کریا نئیں، پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "پنجاہ ہتھ",
+      "rationale": "حویلی دی چوکڑی دا ناپ دسیا گیا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ہتھ",
+      "rationale": "אמה اوہ ناپ اے جیہڑا کُہنی توں اُتے بازو دے برابر اے؛ 'ہتھ' سبھ توں نیڑے دی پنجابی اکائی اے"
+    }
+  ],
+  "translation": "تے حویلی دی چوکڑی چڑھدے پاسے، سورج چڑھن والے پاسے، پنجاہ ہتھ ⟨اے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "dc8668085df65353908d473a91944ef7c45c8f0d766a4233bf3f3956c442abb2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/27\/13-16.1792096850124.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "تے چوکڑی"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "حویلی دی"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "پاسے"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "چڑھدے"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "سورج چڑھن والے پاسے"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنجاہ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ہتھ"
+    }
+  ],
+  "timestamp": "2026-10-15T20:40:50.124660489Z",
+  "model": "glm-5.3"
+}

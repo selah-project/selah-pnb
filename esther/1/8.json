@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 1:8",
+  "book": "esther",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "عبرانی وِچ کاپولا نئیں؛ پنجابی نوں ⟨سی⟩ چاہیدا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "איש ואיש",
+      "rationale": "دوہرا 'بندے تے بندے' — ہر اک وکھرا، پنجابی وِچ 'ہر بندے تے ہر بندے' نال رکھیا"
+    }
+  ],
+  "translation": "تے پین دَت دے موجب ⟨سی⟩، کوئی زبردستی نئیں، کیوں جو بادشاہ نے اپنے گھر دے سارے سرداراں اُتے ایوں فرمان رکھیا سی کہ ہر بندے تے ہر بندے دی رضامندی موجب کرن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fbf970fbc3d83fa2a6f5c8dfdb5d968c810673aef82bfbc0402c2649508e8555",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/esther\/1\/5-8.1792117780872.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשתיה",
+      "gloss": "تے پین"
+    },
+    {
+      "surface": "כדת",
+      "gloss": "دَت دے موجب"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کوئی … نئیں"
+    },
+    {
+      "surface": "אנס",
+      "gloss": "زبردستی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ایوں"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "فرمان رکھیا"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ نے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "רב",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "اپنے گھر دے"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "کرن لئی"
+    },
+    {
+      "surface": "כרצון",
+      "gloss": "رضامندی موجب"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ہر بندے"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "تے ہر بندے"
+    }
+  ],
+  "timestamp": "2026-10-16T02:29:40.873836426Z",
+  "model": "glm-5.3"
+}

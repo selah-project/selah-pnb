@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 49:17",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "لنگھسی",
+      "rationale": "עבר لئی مستقبل دا Suff عاطفہ پنجابی فعل وِچ رلیا، وکھرا ٹوکن نئیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ماردیاں\/ماراں",
+      "rationale": "מכות مار وی اے تے زخم وی — پنجابی وِچ 'ماراں' دوویں پاسے رکھدا اے"
+    }
+  ],
+  "translation": "تے ایدوم ویرانی بن جائے گی؛ ہر کوئی جو اودے اُتے لنگھسی حیران ہووےگا تے اودے ساریاں ماراں اُتے سیٹی مارےگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3885590ec1d8a8111ba989628f7ee19d68a2eb5739eaef0d16a7b8d2c30c7bf3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/49\/17-20.1792108769181.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "تے بن جائے گی"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ایدوم"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "ویرانی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر کوئی"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "لنگھن والا"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "اودے اُتے"
+    },
+    {
+      "surface": "ישם",
+      "gloss": "حیران ہووےگا"
+    },
+    {
+      "surface": "וישרק",
+      "gloss": "تے سیٹی مارےگا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساریاں"
+    },
+    {
+      "surface": "מכותה",
+      "gloss": "اودے ماراں"
+    }
+  ],
+  "timestamp": "2026-10-15T23:59:29.182421617Z",
+  "model": "glm-5.3"
+}

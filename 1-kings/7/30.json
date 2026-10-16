@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 7:30",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "چار پہیے",
+      "rationale": "ڳنتری دا بیان — چار پہیے، چار پیر، ہر چبوترے لئی۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "וסרני",
+      "rationale": "שרנים: 'دھرے\/اکسل' یا کجھ پڑھدے نیں 'پتریاں\/تھمبیاں' — پرانے ترجمے ونڈے ہوئے نیں۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "سن",
+      "rationale": "⟨سن⟩ پنجابی اے جو عبرانی نے نئیں لکھیا — فعل دی گرفت۔"
+    }
+  ],
+  "translation": "تے ہر اک چبوترے لئی چار پہیے، تانبے دے، تے دھرے تانبے دے؛ تے اودے چار پیر — موڈھے اوہناں لئی — ٹوبھے ہیٹھاں؛ اوہ موڈھے ڈھلے ہوئے سن، پاسے پاسے، ہر اک دے نال مالا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7aa9eb00715aff3dd39edf6a0ecc6048e80fab1c215b20abe1a1f8d33ffec6a7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/7\/29-32.1792104155617.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וארבעה",
+      "gloss": "چار"
+    },
+    {
+      "surface": "אופני",
+      "gloss": "پہیے"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "تانبے دے"
+    },
+    {
+      "surface": "למכונה",
+      "gloss": "چبوترے لئی"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "اک"
+    },
+    {
+      "surface": "וסרני",
+      "gloss": "تے دھرے"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "تانبے دے"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "تے چار"
+    },
+    {
+      "surface": "פעמתיו",
+      "gloss": "اودے پیر"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "موڈھے"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اوہناں کول"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ہیٹھاں"
+    },
+    {
+      "surface": "לכיר",
+      "gloss": "ٹوبھے لئی"
+    },
+    {
+      "surface": "הכתפת",
+      "gloss": "اوہ موڈھے"
+    },
+    {
+      "surface": "יצקות",
+      "gloss": "ڈھلے ہوئے"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "پاسے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ہر اک"
+    },
+    {
+      "surface": "ליות",
+      "gloss": "نال مالا"
+    }
+  ],
+  "timestamp": "2026-10-15T22:42:35.618159986Z",
+  "model": "glm-5.3"
+}

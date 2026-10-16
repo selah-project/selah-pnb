@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 6:25",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "פניו אליך",
+      "rationale": "‘اوہدا چہرہ تیرے اُتے’ — عبرانی मुहاvra خوشی تے منظولی دی اے، سِدھی رو شنی نئیں۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "چہرہ دے نال چمکا",
+      "rationale": "‘چمکائے’ باعثی صیغہ اے — اوہ خود چہرے نوں چمکواؤندا اے۔"
+    }
+  ],
+  "translation": "یاہوہ اپنا چہرہ تیری طرف چمکائے تے اوہ تے اُتے مہربان ہووے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "140606acc1b83ea4995b62466ca3d84525f3ea2f7566fb338082a22a594fa586",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/6\/25-27.1792098333286.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יאר",
+      "gloss": "چمکائے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "اپنا چہرہ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تیری طرف"
+    },
+    {
+      "surface": "ויחנך",
+      "gloss": "تے اُتے مہربان ہووے"
+    }
+  ],
+  "timestamp": "2026-10-15T21:05:33.286547693Z",
+  "model": "glm-5.3"
+}

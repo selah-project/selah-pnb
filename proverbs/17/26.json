@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 17:26",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ענוש",
+      "rationale": "'جرمانا' vs 'سزا دینا' — جڑ دا مطلب جرمانا\/دنڈ دینا اے"
+    },
+    {
+      "kind": "elision",
+      "subject": "גם",
+      "rationale": "مکمل مطلب 'وی ایہہ گل' اے — دوجی سطر لئی وی اِکو גם کم کردا اے"
+    }
+  ],
+  "translation": "وی، سجّے نوں سزا دینا چنگا نئیں، تے نیک سرداراں نوں سِدھیائی تے مارنا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e22aa601b1fefa5c17f3535ffec6fe43fde073223b4525ae9352dd658b0fba5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/17\/25-28.1792114840312.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "وی"
+    },
+    {
+      "surface": "ענוש",
+      "gloss": "سزا دینا"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "سجّے نوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگا"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "مارنا"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "نیک سردار"
+    },
+    {
+      "surface": "על",
+      "gloss": "تے"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "سِدھیائی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:40:40.313037556Z",
+  "model": "glm-5.3"
+}

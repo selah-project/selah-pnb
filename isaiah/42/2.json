@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨آواز⟩",
+      "rationale": "ישא دے نال عبرانی وِچ 'آواز' دا لفظ نئیں، پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "ישא",
+      "rationale": "'اُچّا کرنا' دا مطلب آواز اے — کجھ پرانے ترجمے 'کِسے دی پکڑ کرنا' پڑھدے نیں"
+    }
+  ],
+  "translation": "اوہ چیکے گا نئیں، تے ⟨آواز⟩ اُچّی نئیں کریگا، تے باہر اپنی آواز نئیں سُناویگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "cd2ca8d61bfceae2fe30530508ee3017504949d0dda979b6861b7814d17f8126",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/42\/1-4.1792106758225.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "چیکے گا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "اُچّی کریگا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "سُناویگا"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "باہر"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "اپنی آواز"
+    }
+  ],
+  "timestamp": "2026-10-15T23:25:58.226621595Z",
+  "model": "glm-5.3"
+}

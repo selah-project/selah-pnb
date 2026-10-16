@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوہنوں",
+      "rationale": "object pronoun added — Hebrew leaves the 'them' implied in the verb"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מחוז",
+      "rationale": "'harbor' — rare word, appears only here in the Tanakh"
+    }
+  ],
+  "translation": "تے جِدوں اوہ ٹھہر جان، اوہ خوش ہوندے نیں، تے اوہنوں اوہناں دی منگی ہوئی بندرگاہ ول لے جاندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7541928a1e8f365b6ddaf9709c58f90261d45ee5693f33bf7174bacfb10d3808",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/107\/29-32.1792113652583.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "اوہ خوش ہوندے نیں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جِدوں"
+    },
+    {
+      "surface": "ישתקו",
+      "gloss": "اوہ ٹھہر جان"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "لے جاندا اے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ول"
+    },
+    {
+      "surface": "מחוז",
+      "gloss": "بندرگاہ"
+    },
+    {
+      "surface": "חפצם",
+      "gloss": "اوہناں دی منگی ہوئی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:20:52.583777732Z",
+  "model": "glm-5.3"
+}

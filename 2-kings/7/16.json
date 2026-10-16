@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 7:16",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "'وِچچیا گیا'",
+      "rationale": "KJV 'sold' پیدا کردا اے؛ عبرانی صرف 'ہویا: اِک سعہ … اِک شکل وِچ' آکھدا اے۔"
+    },
+    {
+      "kind": "hapax",
+      "subject": "سعہ دی قیمت",
+      "rationale": "ایہہ اِی قیمتیں 2-راجے 6:24–7:1 دے الیشع دے بچن دی پوری تبدیلی نیں — آیت اُس پیشنگوئی دی پٹی اے۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "سعہ \/ شکل",
+      "rationale": "اَناج دے ناپ تے وزن دا حساب — قیمتیں دا اعلان۔"
+    }
+  ],
+  "translation": "تے قوم نِکلی تے اَرام دے پڑاؤ نوں ⟨את⟩ لُٹّیا، تے اِک سعہ باریک پیسی دا اِک شکل وِچ ہووے، تے دو سعہ جَؤں دے اِک شکل وِچ، یاہوہ دے بچن مطابق۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0650925f038af21d69307956d1da21e9ca7bb89c309b72b226877c6f7de52592",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/7\/13-16.1792105173718.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "تے نِکلی"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "تے لُٹّیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَرام دا پڑاؤ"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "پڑاؤ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "اَرام دا"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "تے ہویا"
+    },
+    {
+      "surface": "סאה",
+      "gloss": "اِک سعہ"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "باریک پیسی"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "اِک شکل وِچ"
+    },
+    {
+      "surface": "וסאתים",
+      "gloss": "تے دو سعہ"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "جَؤں"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "اِک شکل وِچ"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "دے بچن مطابق"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-10-15T22:59:33.720180447Z",
+  "model": "glm-5.3"
+}

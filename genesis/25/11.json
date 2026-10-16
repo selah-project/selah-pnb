@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 25:11",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "نے",
+      "rationale": "پنجابی فعل لئی نے چاہیدی، عبرانی وِچ نئیں۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "באר לחי ראי",
+      "rationale": "ناں دا مطلب ‘جیوندے ⟨⟩ دی اکھ جیہڑی مینوں ویکھدی اے’ — پہلی واری ⟨⟩ وِچ وضاحت۔"
+    }
+  ],
+  "translation": "تے اَوراہام دی موت توں بعد ایلوہیم نے ⟨את⟩ یِتصخاق اوہدے پُتر نوں برکت دِتی؛ تے یِتصخاق بئیر-لَحَی-روای ⟨جیوندے دی جیہڑا مینوں ویکھدا اے⟩ دے کول رہندا رہیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "de05087e2ce424be23747e2d43c6088eb990d1b5c91fc9e32be64c963da95786",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/25\/9-12.1792095237632.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے ہویا ⟨اوہ⟩"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "توں بعد"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراہام"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "برکت دِتی"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یِتصخاق"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "یِتصخاق"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اوہدے پُتر"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "رہندا رہیا"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "یِتصخاق"
+    },
+    {
+      "surface": "עם",
+      "gloss": "دے کول"
+    },
+    {
+      "surface": "באר",
+      "gloss": "بئیر"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "لَحَی"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "روای"
+    }
+  ],
+  "timestamp": "2026-10-15T20:13:57.633954179Z",
+  "model": "glm-5.3"
+}

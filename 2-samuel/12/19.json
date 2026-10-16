@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 12:19",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "המת \/ מת",
+      "rationale": "The question with interrogative ה and the one-word answer reuse the same verb מות three times — the bare repetition is the verse's force."
+    },
+    {
+      "kind": "addition",
+      "subject": "کیتا … اے؟",
+      "rationale": "Interrogative ה- prefix has no Punjabi equivalent; the question particle کیتا is supplied."
+    }
+  ],
+  "translation": "تے داوِد ویکھیا کہ اوہدے نوجوان دھیمی آواز وِچ گل کر رہے نیں، تے داوِد سمجھ گیا کہ بال مر گیا اے۔ تے داوِد نے اوہدے نوجواناں نوں آکھیا: کیتا بال مر گیا اے؟ تے اوہناں آکھیا: مر گیا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6488a9977d9ddc31808a52ca8f99f0039bef88f34387419ae354ede390dc0158",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/12\/18-19.1792123648838.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "تے ویکھیا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "اوہدے نوجوان"
+    },
+    {
+      "surface": "מתלחשים",
+      "gloss": "دھیمی آواز وِچ گل کر رہے نیں"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "تے سمجھ گیا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مر گیا"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "بال"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نوں"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "اوہدے نوجواناں"
+    },
+    {
+      "surface": "המת",
+      "gloss": "کیتا مر گیا"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "بال"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "تے اوہناں آکھیا"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مر گیا"
+    }
+  ],
+  "timestamp": "2026-10-16T04:07:28.839975035Z",
+  "model": "glm-5.3"
+}

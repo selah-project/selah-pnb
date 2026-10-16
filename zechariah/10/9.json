@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 10:9",
+  "book": "zechariah",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اَ میں",
+      "rationale": "عبرانی وِچ کرمela صیغہ فعل دے prefix نال اے، ضمیر وکھ نئیں"
+    },
+    {
+      "kind": "substitution",
+      "subject": "اولاداں",
+      "rationale": "בניהם موڈے تے 'پُتر' نیں، پنجابی جملہ 'اولاداں' ودھ قدرتی اے"
+    }
+  ],
+  "translation": "تے اَ میں اوہناں نوں قومیاں وِچ بویاں گا، تے دور دیاں تھاواں وِچ اوہ مینوں یاد کرنگے، تے اوہ ⟨את⟩ اپنیاں اولاداں نال جیونگے تے مُڑ آونگے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0c72e884c6151fcf4478a0c4be256f1d359d0cf03acef6ee95a1265cd650e7cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/zechariah\/10\/9-12.1792111612216.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואזרעם",
+      "gloss": "تے اَ میں اوہناں نوں بویاں گا"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "قومیاں وِچ"
+    },
+    {
+      "surface": "ובמרחקים",
+      "gloss": "تے دور دیاں تھاواں وِچ"
+    },
+    {
+      "surface": "יזכרוני",
+      "gloss": "اوہ مینوں یاد کرنگے"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "تے اوہ جیونگے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنیاں اولاداں"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "اپنیاں اولاداں نال"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "تے مُڑ آونگے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:46:52.217596696Z",
+  "model": "glm-5.3"
+}

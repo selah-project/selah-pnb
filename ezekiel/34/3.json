@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 34:3",
+  "book": "ezekiel",
+  "lang": "pnb",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "موٹی ⟨گلّاں⟩",
+      "rationale": "הבריאہ اِکو صفت اے — ‘موٹی’؛ گلّاں دا شبد پنجابی وچ صفت نال جوڑن لئی وادھا اے۔"
+    }
+  ],
+  "translation": "⟨את⟩ چربی نوں تُسیں کھاندے او تے ⟨את⟩ اُون نوں پاؤندے او، موٹی ⟨گلّاں⟩ نوں ذبح کردے او — گلّاں نوں نئیں چاردے!",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bf690e89f003df85ce4769192af2962884b9bcb35a26ec5151f19959a53b1c63",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/34\/1-4.1792109961263.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چربی نوں"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "چربی نوں"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "تُسیں کھاندے او"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "اُون نوں"
+    },
+    {
+      "surface": "הצמר",
+      "gloss": "اُون نوں"
+    },
+    {
+      "surface": "תלבשו",
+      "gloss": "تُسیں پاؤندے او"
+    },
+    {
+      "surface": "הבריאہ",
+      "gloss": "موٹی نوں"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "تُسیں ذبح کردے او"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "گلّاں نوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "تُسیں چاردے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:19:21.264584325Z",
+  "model": "glm-5.3"
+}

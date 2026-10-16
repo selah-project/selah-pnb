@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "ਪਾਠਕ",
+      "rationale": "ਚਾਰ ਹੁਕਮ — ਸਿੱਧਾ ਸੰਬੋਧਨ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רע \/ טוב",
+      "rationale": "ਬੁਰਾਈ-ਚੰਗਾ ਵਿਰੋਧ ਜੋੜਾ, ਪਿਛਲੀ ਆਇਤ ਨਾਲ ਜੁੜਦਾ ਹੈ"
+    }
+  ],
+  "translation": "ਬੁਰਾਈ ਤੋਂ ਮੁੜ ਜਾ, ਤੇ ਚੰਗਾ ਕਰ; ਸ਼ਾਂਤੀ ਨੂੰ ਲੱਭ, ਤੇ ਉਸਦੇ ਪਿੱਛੇ ਦੌੜ।",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9340de93813714082aaab1a58bdd9d43402dc62fe41600dabae2cb99405cc1f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/34\/13-16.1792112285727.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "ਮੁੜ ਜਾ"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "ਬੁਰਾਈ ਤੋਂ"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ਤੇ ਕਰ"
+    },
+    {
+      "surface": "ਘੋਬ",
+      "gloss": "ਚੰਗਾ"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "ਲੱਭ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ਸ਼ਾਂਤੀ ਨੂੰ"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "ਤੇ ਉਸਦੇ ਪਿੱਛੇ ਦੌੜ"
+    }
+  ],
+  "timestamp": "2026-10-16T00:58:05.728289921Z",
+  "model": "glm-5.3"
+}

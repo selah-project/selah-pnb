@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 25:37",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوہ",
+      "rationale": "عبرانی وِچ کرتا دا ضمیر صریح نئیں، پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "crux",
+      "subject": "והעלה",
+      "rationale": "ہِوہیل تے ہُعالہ: KJV تاں دا صحیح مستقبل تے یلت دی کڑوی جھلک"
+    }
+  ],
+  "translation": "تے تُوں اوس دے چراغ بنائیں گا، سَتّ، تے ⟨اوہ⟩ اوس دے چراغ چاڑھن گا، تے ⟨اوہ⟩ چمکے گا اوس دے مُکھڑے دے اگے پاسے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5e7cf29174a2fe2633c726b898eee82da6e2c35aacfcc3cf688cce3bf866cfc5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/25\/37-40.1792096839913.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "تے تُوں بنائیں گا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوس دے چراغ"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "اوس دے چراغ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "سَتّ"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "تے چاڑھن گا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوس دے چراغ"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "اوس دے چراغ"
+    },
+    {
+      "surface": "והאיר",
+      "gloss": "تے چمکے گا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "اگے پاسے"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "اوس دے مُکھڑے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:40:39.914141675Z",
+  "model": "glm-5.3"
+}

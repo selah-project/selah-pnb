@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 81:16",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יכחשו",
+      "rationale": "'جھوٹھ بولن \/ منکر ہون \/ دکھاوا کرن \/ اگھڑن' — JPS 'مُکّ جان'، KJV 'جھک جان' (قلب-ال Apostle"
+    },
+    {
+      "kind": "crux",
+      "subject": "עתם",
+      "rationale": "'اوہناں دا ویلہ' — کس دا؟ عذاب دا (JPS) یا اوہناں (دشمناں) دے ٹِکن دا (KJV 'ہمیشہ رہندا')"
+    },
+    {
+      "kind": "substitution",
+      "subject": "دشمن",
+      "rationale": "משנאی پہلاں 'نفرت کرن والے' اے — 'دشمن' کردار اے، 'نفرت' تصویر"
+    }
+  ],
+  "translation": "یاہوہ دے ویری اوہدے اگے دکھاوا کرن، تے اوہناں دا ویلہ ہمیشہ لئی رہے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6e4ffb89c27f0364e77dd523f405ebb673eff777b41e2601450633ca81424851",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/81\/13-16.1792113148356.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משנאי",
+      "gloss": "دشمن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "دکھاوا کرن"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہدے اگے"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "تے ہووے"
+    },
+    {
+      "surface": "עתם",
+      "gloss": "اوہناں دا ویلہ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشہ لئی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:12:28.357296605Z",
+  "model": "glm-5.3"
+}

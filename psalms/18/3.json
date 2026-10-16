@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 18:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "عبرانی وِچ کوئی copula نئیں، پنجابی وجواب منگدا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סלעי\/צורי",
+      "rationale": "دو وکھرے عبرانی لفظ 'چٹان' لئی (سِلع تے صُور) — پنجابی وِچ وکھری سُرت گوا چکی"
+    }
+  ],
+  "translation": "یاہوہ ⟨اے⟩ میری چٹان، تے میرا قلعہ، تے میرا چھُٹکار دین والا؛ میرا ایل، میری چٹان — میں اُوہدے وِچ پناہ لَواںگا — میرا ڈھال تے میری مُکتی دا سنگ، میری اُچی ٹِکاوَں تھاں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "e28fc1822d7d84c5e1db7c55d6117fb6d3de7064cbc4450b793b609df53c8ce2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/18\/1-4.1792112008092.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "میری چٹان"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "تے میرا قلعہ"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "تے میرا چھُٹکار دین والا"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میرا ایل"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "میری چٹان"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "میں پناہ لَواںگا"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اُوہدے وِچ"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "میرا ڈھال"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "تے سنگ"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "میری مُکتی دا"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "میری اُچی ٹِکاوَں تھاں"
+    }
+  ],
+  "timestamp": "2026-10-16T00:53:28.093611858Z",
+  "model": "glm-5.3"
+}

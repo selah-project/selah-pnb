@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 75:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 75,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "پنجابی پکار لئی 'اے' منگدی اے، عبرانی وِچ نئیں۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הודינו … הודינו",
+      "rationale": "דہراؤ — عبرانی وِچ ٹھیک ٹکر تے، پنجابی وِچ وی دہرایا گیا اے۔"
+    }
+  ],
+  "translation": "اسیں تینوں شکر ادا کیتا اے، اے ایلوہیم، اسیں شکر ادا کیتا اے، تے تیرا ناں نیڑے اے؛ اوہناں تیریاں عجیب گلاں بیان کیتیاں نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b03b27197604dfb3d511b421df87fa378d82451e20f94e732280864af02e7751",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/75\/1-4.1792113028354.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הודינו",
+      "gloss": "اسیں شکر ادا کیتا اے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تینوں"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "اے ایلوہیم"
+    },
+    {
+      "surface": "הודינו",
+      "gloss": "اسیں شکر ادا کیتا اے"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "تے نیڑے"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "تیرا ناں"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "بیان کیتا"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "تیریاں عجیب گلاں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:10:28.354765997Z",
+  "model": "glm-5.3"
+}

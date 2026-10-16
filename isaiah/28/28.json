@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 28:28",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "پہلا جملہ",
+      "rationale": "'روٹی دا بیج پیسا جاندا اے' — سوال اے جاں اعلان؟ کجھ مترجم (JPS) نفی منگدے نیں: 'کیہ کُچھیا جاندا؟ نئیں'۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "پیسا جاندا اے",
+      "rationale": "יודק پاسوں فعل اے پر پنجابی جملے لئی واضح کیتا گیا۔"
+    }
+  ],
+  "translation": "روٹی دا بیج ⟨پیسا جاندا اے⟩، کیونجہ اوہ سدا تک اوہنوں نئیں کُچھدا، تے نہ ہلا کے اوہدی گڈی دا پہیہ تے اوہدے گھوڑے اوہنوں پیسدے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0dfdd48f8191fde9c3859097ce5a41d54b6def0087e7181467aefdae55ab4311",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/28\/25-28.1792106380859.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "روٹی دا بیج"
+    },
+    {
+      "surface": "יודק",
+      "gloss": "⟨پیسا جاندا اے⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "سدا تک"
+    },
+    {
+      "surface": "אדוש",
+      "gloss": "دروڑدا ہویا"
+    },
+    {
+      "surface": "ידושנו",
+      "gloss": "اوہنوں کُچھدا"
+    },
+    {
+      "surface": "והמם",
+      "gloss": "تے ہلا کے"
+    },
+    {
+      "surface": "גלגל",
+      "gloss": "پہیہ"
+    },
+    {
+      "surface": "עגלתו",
+      "gloss": "اوہدی گڈی دا"
+    },
+    {
+      "surface": "ופרשיו",
+      "gloss": "تے اوہدے گھوڑے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "ידקנו",
+      "gloss": "اوہنوں پیسدے"
+    }
+  ],
+  "timestamp": "2026-10-15T23:19:40.860933910Z",
+  "model": "glm-5.3"
+}

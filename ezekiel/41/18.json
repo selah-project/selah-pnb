@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 41:18",
+  "book": "ezekiel",
+  "lang": "pnb",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨سن⟩",
+      "rationale": "عبرانی وِچ کوپلا نئیں؛ پنجابی جملے لئی ‘سن’ پایا گیا اے۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תמורה\/תמורת",
+      "rationale": "זेط־لفظ کھجور دی اِمارتی مورت اے — ‘کھجور’ رکھیا، ‘تَمر’ نئیں۔"
+    }
+  ],
+  "translation": "تے بنایا گیا کروبیم تے کھجوراں نال، تے اِک کھجور اِک کروب تے اِک کروب دے وچکار، تے ہر اِک کروب دے دو مُونہہ ⟨سن⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b46d1cad832cb8843abb6190c14c50741b55081d6a116bf99ea449e72aa33820",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/41\/17-20.1792110215631.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשוי",
+      "gloss": "تے بنایا گیا"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "کروبیم"
+    },
+    {
+      "surface": "ותמרים",
+      "gloss": "تے کھجوراں"
+    },
+    {
+      "surface": "ותמרה",
+      "gloss": "تے اِک کھجور"
+    },
+    {
+      "surface": "בין",
+      "gloss": "وچکار"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "اِک کروب"
+    },
+    {
+      "surface": "לכרוב",
+      "gloss": "تے اِک کروب"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "تے دو"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "مُونہہ"
+    },
+    {
+      "surface": "לכרוב",
+      "gloss": "ہر اِک کروب دے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:23:35.632346453Z",
+  "model": "glm-5.3"
+}

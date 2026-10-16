@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 108:4",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 108,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "בל",
+      "rationale": "בַל לְאֻמִּים دی کٹی حالت — اے خود 'وِچ' لوڑدی اے پر وکھ لفظ نئیں"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עמים\/אמים",
+      "rationale": "اکو جڑ פئر دو واری — قوماں تے لوک، پنجابی وِچ وکھ لفظاں نال جُڑیا"
+    }
+  ],
+  "translation": "میں تیرا شکر کراںگا قوماں وِچ، اے یاہوہ، تے میں تیرا ساز وجاواںگا [[لوکاں]] وِچ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "42ad265799632db511bca983ab277661ef5a1b1280eb3e5b9c3c3bd7be8ed171",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/108\/1-4.1792113695141.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "میں تیرا شکر کراںگا"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "قوماں وِچ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہوہ"
+    },
+    {
+      "surface": "ואזמרך",
+      "gloss": "تے میں تیرا ساز وجاواںگا"
+    },
+    {
+      "surface": "בל",
+      "gloss": "⟨وِچ⟩"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "لوکاں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:21:35.141820846Z",
+  "model": "glm-5.3"
+}

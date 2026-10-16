@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 13:3",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חכם",
+      "rationale": "KJV 'subtil' بمقابلہ YLT 'wise' — اوہی عیاری اے جو سوجھواں، سیاق فیصلہ کردا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "عبرانی وِچ شکال نئیں، پنجابی جملہ منگدا اے"
+    }
+  ],
+  "translation": "تے اَمنون دا اِک یار ⟨سی⟩، اوہدا ناں یونادَو سی، شِمعا دا پتر، داوِد دا بھرا، تے یونادَو بڑا سیانا بندہ سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c7cfb28fc23da02c8c2ef9357ed0794ee0526f07f6ba8ad99899e3dde8994a3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/13\/1-4.1792103465494.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולאמנון",
+      "gloss": "اَمنون لئی"
+    },
+    {
+      "surface": "רע",
+      "gloss": "یار"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "تے اوہدا ناں"
+    },
+    {
+      "surface": "יונדב",
+      "gloss": "یونادَو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پتر"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "شِمعا"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "بھرا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "ויונדב",
+      "gloss": "تے یونادَو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "سیانا"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بڑا"
+    }
+  ],
+  "timestamp": "2026-10-15T22:31:05.495130878Z",
+  "model": "glm-5.3"
+}

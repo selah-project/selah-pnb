@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 11:20",
+  "book": "nehemiah",
+  "lang": "pnb",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "رہݨ دا فعل",
+      "rationale": "عبرانی اپنے آپ کوئی رہائش دا فعل نئیں دندا؛ سیاق توں پتہ چلدا اے، پنجابی ⟨رہندا سی⟩ منگدا اے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "وِراثت",
+      "rationale": "נחלה دا مطلب 'وارث وِچوں ملی ہوئی جائیداد' اے — 'ونڈ' وی ہو سکدا اے، پر 'وِراثت' نوں بھار رکھیا گیا"
+    }
+  ],
+  "translation": "تے یِسرائیل دے باقی، کاہن، لوییم — یہوداہ دے ساریاں شہراں وِچ، ہر اِک اپنی وِراثت وِچ ⟨رہندا سی⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "024d408f424a83ea204575762aa2027220a60f1d2ca8213739f8240108ab2765",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/nehemiah\/11\/17-20.1792119994729.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושאר",
+      "gloss": "تے باقی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل دے"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "ہלوییم",
+      "gloss": "لوییم"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ساریاں وِچ"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "شہراں"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ دے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ہر اِک"
+    },
+    {
+      "surface": "בנחלתו",
+      "gloss": "اپنی وِراثت وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T03:06:34.730664788Z",
+  "model": "glm-5.3"
+}

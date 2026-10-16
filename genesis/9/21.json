@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 9:21",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "آپ نوں",
+      "rationale": "عبرانی وِچ صرف ‘اوہ ننگا ہویا’ اے؛ پنجابی جملے لئی ضمیر ودھائی گئی"
+    },
+    {
+      "kind": "substitution",
+      "subject": "کھولھ دِتا",
+      "rationale": "ויתגל دا مطلب اے ‘ننگا ہویا \/ اوہدے اُتے کپڑا نئیں رہا’ — پنجابی وِچ ‘آپ نوں کھولھنا’ دتا گیا"
+    }
+  ],
+  "translation": "تے اُس نے شراب توں پیتی تے نشے وِچ ہو گیا، تے اُس نے آپ نوں اپنے خیمے دے وِچکار کھولھ دِتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b8f6c63e2d032f4adeee804f4d6e61814b2a88dc75d9bc4d41ab05de4036a2a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/9\/21-24.1792094772930.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישת",
+      "gloss": "تے اُس نے پیتی"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "היין",
+      "gloss": "شراب"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "تے نشے وِچ ہو گیا"
+    },
+    {
+      "surface": "ויתגל",
+      "gloss": "تے اُس نے آپ نوں کھولھ دِتا"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "دے وِچکار"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "اپنے خیمے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:06:12.931067935Z",
+  "model": "glm-5.3"
+}

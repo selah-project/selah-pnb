@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 21:2",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "عبرانی جوڑ 'کیونکہ جے' اے، مطلب 'سگوں\/سوائے' — پنجابی وچ اِک لفظ نال دتا"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ماس ساک",
+      "rationale": "שאר لفظی 'ماس\/گُشت' اے — لہو دا رشتہ"
+    }
+  ],
+  "translation": "سگوں اپنے نیڑے دے ساک بھتیجے ⟨لئی⟩ — اپنی ماں لئی تے اپنے پیو لئی، تے اپنے پتر لئی تے اپنی دھی لئی، تے اپنے بھرا لئی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a6508db9da17225b0f10434f35683c180c6502314d0992536520fa4b7174f560",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/21\/1-4.1792097972922.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "سگوں"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اِک"
+    },
+    {
+      "surface": "לשארו",
+      "gloss": "اپنے ماس ساک لئی"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "نیڑے دا"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اوہدے"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "اپنی ماں لئی"
+    },
+    {
+      "surface": "ולאביו",
+      "gloss": "تے اپنے پیو لئی"
+    },
+    {
+      "surface": "ולבנו",
+      "gloss": "تے اپنے پتر لئی"
+    },
+    {
+      "surface": "ולבתו",
+      "gloss": "تے اپنی دھی لئی"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "تے اپنے بھرا لئی"
+    }
+  ],
+  "timestamp": "2026-10-15T20:59:32.922987458Z",
+  "model": "glm-5.3"
+}

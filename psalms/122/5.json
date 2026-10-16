@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 122:5",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 122,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כסאות…כסאות",
+      "rationale": "تخت دا دہراؤ — عدالت دے تخت، داوِد دے گھر دے تخت — پنجابی وِچ ترتیب رکھی گئی اے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ישבו",
+      "rationale": "'بیٹھے نیں' — کجھ مترجم 'رکھے گئے نیں' آکھدے نیں؛ بیٹھنا عبرانی دا سدھا مطلب اے"
+    }
+  ],
+  "translation": "کیوں جو اوتھے عدالت دے تخت بجھے نیں، داوِد دے گھر دے تخت۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "14184fee368cd1ac8bb7e05239d149d4f3e46268a5915a20954dda9a634b60d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/122\/5-8.1792114037372.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "اوتھے"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "بیٹھے نیں"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "تخت"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "عدالت دے"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "تخت"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "گھر دے"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    }
+  ],
+  "timestamp": "2026-10-16T01:27:17.373100476Z",
+  "model": "glm-5.3"
+}

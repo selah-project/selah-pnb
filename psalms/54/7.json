@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 54:7",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ישוב הרע",
+      "rationale": "'برائی مُڑ جاوے' (اوہناں اُتے واپس) بمقابلہ 'اوہ برائی دا بدلہ دیوے گا' — کوئی مکمل ضمیر عبرانی وِچ نئیں"
+    },
+    {
+      "kind": "hapax",
+      "subject": "שרר",
+      "rationale": "לשררי دا لیما تنخ وِچ بہت گھٹ ملدا اے — 'میرے طاقت دے مخالف\/ویری'"
+    }
+  ],
+  "translation": "برائی میرے ویریاں اُتے مُڑ جاوے؛ اپنی سچائی وِچ اوہناں نوں مُکا دیو۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c9916c3c9d03ce48d8b67c3e61a67a4962c82a16f37458eb3315ee12d2574cf2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/54\/5-8.1792112667899.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "مُڑ جاوے"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "לשררי",
+      "gloss": "میرے ویریاں اُتے"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "اپنی سچائی وِچ"
+    },
+    {
+      "surface": "הצמיתم",
+      "gloss": "اوہناں نوں مُکا دیو"
+    }
+  ],
+  "timestamp": "2026-10-16T01:04:27.899863658Z",
+  "model": "glm-5.3"
+}

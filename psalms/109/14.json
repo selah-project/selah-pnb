@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 109:14",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "قصور",
+      "rationale": "עון ودھ-کھیتی\/تیڑھ والا شر اے، اِک لفظ پنجابی وِچ پورا نئیں اُتردا"
+    },
+    {
+      "kind": "crux",
+      "subject": "אל תמח",
+      "rationale": "'نہ مٹے' — دعاواں دی حالت اے (کٹھن منگدا اے)، پورا حصہ نئیں؛ کجھ پڑھیے وچ مٹا دتا جاوے دا پکھ وی لیندے نیں"
+    }
+  ],
+  "translation": "اوہدے پیوآں دا قصور یاہوہ اگے یاد ہووے، تے اوہدی ماں دا پاپ نہ مٹے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9fdbedf1d7409a924ee678caadab9e12bec84aa3882d467a930d7fd4bad5bd1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/109\/13-16.1792113744713.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "یاد ہووے"
+    },
+    {
+      "surface": "עון",
+      "gloss": "قصور"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "اوہدے پیوآں دا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اگے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "تے پاپ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "اوہدی ماں دا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "مٹے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:22:24.714407010Z",
+  "model": "glm-5.3"
+}

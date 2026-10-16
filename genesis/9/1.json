@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 9:1",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פרו",
+      "rationale": "پیدائش 1:28 والا اوہو حکم دُہرایا گیا اے — پھل دِوو تے ودھو — طوفان توں بعد نویں سرے دا اعلان"
+    }
+  ],
+  "translation": "تے ایلوہیم نے ⟨את⟩ نُوح نوں تے ⟨את⟩ اُودیاں پُتراں نوں برکت دِتی، تے اوہناں نوں آکھیا: پھل دِوو تے ودھو تے ⟨את⟩ دھرتی نوں بھرو۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "47fad036896cddc179b998e31d3fc70a28b26b35f101949440c727cbb289724d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/9\/1-4.1792094796507.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "تے برکت دِتی"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نُوح"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نُوح نوں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اُودیاں پُتراں"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "اُودیاں پُتراں نوں"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اوہناں نوں"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "پھل دِوو"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "تے ودھو"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "تے بھرو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دھرتی"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "دھرتی نوں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:06:36.507936650Z",
+  "model": "glm-5.3"
+}

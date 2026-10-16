@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 28:1",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ایہ⟩",
+      "rationale": "عبرانی وِچ کوئی جوڑ نئیں؛ پنجابی دو واکاں نوں جوڑن لئی"
+    },
+    {
+      "kind": "crux",
+      "subject": "ככפיר",
+      "rationale": "جوان شیر (کפיר) بمقابلہ شیر — ترجمے کجھ 'شیر' لکھدے نیں، شبع 'جوان شیر'"
+    }
+  ],
+  "translation": "بھج گئے، تے کوئی پِچھا کرن والا نئیں — ⟨ایہ⟩ رشّا؛ تے راستباز جوان شیر وانگ بھروسہ رکھدے نیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a49d9b8dd375166ba991265ed90be0df1b9dd7933bae2fe48159e16a03f3a74a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/28\/1-4.1792115238999.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נסו",
+      "gloss": "بھج گئے"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "تے کوئی نئیں"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "پِچھا کرن والا"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "رشّا"
+    },
+    {
+      "surface": "וצדיקים",
+      "gloss": "تے راستباز"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "جوان شیر وانگ"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "بھروسہ رکھدے نیں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:47:19.000072148Z",
+  "model": "glm-5.3"
+}

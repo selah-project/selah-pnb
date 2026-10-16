@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נחתו\/ותנחת",
+      "rationale": "same root נחת twice — arrows sink in, hand presses down; repetition lost in Punjabi"
+    }
+  ],
+  "translation": "کیونکہ تیرے تیر مینوں ⟨وڑ گئے⟩، تے تیری ہتھ میرے اُتے دبی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "767248106c5f8a526ac050d409d1b966e81905a1157fe78e9c7a797217642993",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/38\/1-4.1792112415787.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "تیرے تیر"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "وڑ گئے"
+    },
+    {
+      "surface": "בי",
+      "gloss": "مینوں"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "تے دبی"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "میرے اُتے"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "تیری ہتھ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:00:15.787850250Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 8:1",
+  "book": "song-of-songs",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מי יתנך",
+      "rationale": "عبرانی قسم\/تمنا دی پھرتی 'کون دیندا' — پنجابی وِچ ایہو رمز رکھی اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨کوئی⟩",
+      "rationale": "عبرانی 'ناں حقیر جان' وِچ فاعل کوئی نئیں، پنجابی نوں ⟨کوئی⟩ چاہیدا"
+    },
+    {
+      "kind": "you",
+      "subject": "پیارے نوں",
+      "rationale": "خطاب پیار کرن والے پاسوں اے، جو بھرا والی خُلوصی منگدا اے"
+    }
+  ],
+  "translation": "کون دیندا، جو تُوں میرے بھرا وانگر ہوندا، جیہڑا میری ماں دے تتے چُوسدا! باہر تینوں لبھدا، تینوں چُمدا، تے ⟨کوئی⟩ مینوں حقیر ناں جاندا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4681abec20a1bb380eb99c89cdb81178bbedde8ecf8f3c17fcac4d09fb6b634a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/song-of-songs\/8\/1-4.1792116905548.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "יתנך",
+      "gloss": "دیندا تینوں"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "بھرا وانگر"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرا"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "چُوسدا"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "تتے"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "میری ماں دے"
+    },
+    {
+      "surface": "אמצאך",
+      "gloss": "لبھدا تینوں"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "باہر"
+    },
+    {
+      "surface": "אשקך",
+      "gloss": "چُمدا تینوں"
+    },
+    {
+      "surface": "גם",
+      "gloss": "تے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ناں"
+    },
+    {
+      "surface": "יבוזו",
+      "gloss": "حقیر جان"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مینوں"
+    }
+  ],
+  "timestamp": "2026-10-16T02:15:05.549503061Z",
+  "model": "glm-5.3"
+}

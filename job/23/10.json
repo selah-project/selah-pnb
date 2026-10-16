@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 23:10",
+  "book": "job",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "prókhiyā",
+      "rationale": "בחננی دا مول مطلب دھات نوں بھٹی وِچ پرکھنا اے — ایہہ تصویر سونے نال جُڑی اے۔"
+    },
+    {
+      "kind": "alternative",
+      "subject": "āgē āvāṁ gā",
+      "rationale": "עצא نِکاسی دا فعلاے — 'باہر نکلساں' — بھٹی توں سونا باہر آؤن دی پوری تصویر۔"
+    }
+  ],
+  "translation": "کیونجے اوہ میرے نال رکھے ہوئے راہ نوں جاندا اے؛ اوہنے مینوں پرکھیا تے میں سونے وانگوں اگے آواں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1894cbef8c907fbc36d2784b3699e49f7f89e9937576da47c77de7713b79aeb8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/job\/23\/9-12.1792115997258.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "جاندا اے"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "راستے نوں"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "میرے نال"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "مینوں پرکھیا"
+    },
+    {
+      "surface": "כזהב",
+      "gloss": "سونے وانگوں"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "اگے آواں گا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:59:57.259094622Z",
+  "model": "glm-5.3"
+}

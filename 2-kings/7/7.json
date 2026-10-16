@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 7:7",
+  "book": "2-kings",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפשם ساہ\/جیون-بال اے، پنجابی وِچ 'جان' دا سواد لایا گیا"
+    },
+    {
+      "kind": "elision",
+      "subject": "וינוסו دوبارہ",
+      "rationale": "ויקומו וינוסו…וינוסו — بھجّن دا دُہراؤ اے، پنجانی وِچ دُہرایا گیا"
+    }
+  ],
+  "translation": "تے اوہ اُٹھے تے پچھلے پہر وِچ بھجّ گئے، تے اپنے ٹپیاں نوں، تے اپنیاں گھوڑیاں نوں، تے اپنے کھوتڑیاں نوں چھڈّ دِتا — پڑاؤ جیویں سی ⟨وی⟩ — تے اپنی جان لئی بھجّ گئے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "66bb0eb6efa151f93d665b6e9dccb94fd85aeac346f71261276feee1aeab7444",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/7\/5-8.1792105093584.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "تے اوہ اُٹھے"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "بھجّ گئے"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "پچھلے پہر وِچ"
+    },
+    {
+      "surface": "ויעזבו",
+      "gloss": "چھڈّ دِتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنے ٹپیاں نوں"
+    },
+    {
+      "surface": "אהליהם",
+      "gloss": "اپنے ٹپیاں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "اپنیاں گھوڑیاں نوں"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "اپنیاں گھوڑیاں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "اپنے کھوتڑیاں نوں"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "اپنے کھوتڑے"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "پڑاؤ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "היא",
+      "gloss": "سی"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "بھجّ گئے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لئی"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "اپنی جان"
+    }
+  ],
+  "timestamp": "2026-10-15T22:58:13.585837483Z",
+  "model": "glm-5.3"
+}

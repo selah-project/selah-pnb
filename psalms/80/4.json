@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 80:4",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "השיבנו",
+      "rationale": "“سانوں مُڑواڑس” (بندیاں نوں پرتاؤ) جاں “مُڑ آ” (خود واپس آ) — فعل دی ہدایت بھلی نئیں۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "مُڑ",
+      "rationale": "שוב دا مُڑن-والا پہلو پنجابی وِچ وکھ دساؤن لئی۔"
+    },
+    {
+      "kind": "invitation",
+      "subject": "دعا دی پُکار",
+      "rationale": "زبور 80 دا بندی-آہر (v.4, 8, 15) — مُڑ واڑس دا ہُکار۔"
+    }
+  ],
+  "translation": "اے ایلوہیم، سانوں ⟨مُڑ⟩ واڑس، تے اپنا چہرہ چمکا، تے اسیں بچ جائی آں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8e910a471fd8d26e668a5dc44d3ba682eddc44a533ef86a6ca147406d912f26d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/80\/1-4.1792113176186.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "اے ایلوہیم"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "سانوں ⟨مُڑ⟩ واڑس"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "تے چمکا"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "اپنا چہرہ"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "تے اسیں بچ جائی آں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:12:56.187939792Z",
+  "model": "glm-5.3"
+}

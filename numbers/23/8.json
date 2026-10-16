@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מה",
+      "rationale": "سوال اے ('کیہ مَیں لعنتاں؟') جاں ویلکار ('مَیں کِویں لعنتاں') — پرے دے عبرانی ماہ نوں دوویں پاسے کھڑا کردا اے۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אקב\/קבה · אזעם\/זעם",
+      "rationale": "ہر پر، اپنے فعل دے نال واپس آندا اے — لعنت والے فعل دوناں جُٹیاں وِچ دہرائے جاندے نیں۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "جد",
+      "rationale": "عبرانی پُچھے جواب دا ڈھانچہ بِنا جوڑ دے اے؛ پنجابی 'جد' نال جوڑ دینا پیندا اے۔"
+    }
+  ],
+  "translation": "مَیں کیہ لعنتاں، جد ایل نے لعنت نئیں کیتی؟ تے مَیں کیہ لعنتاں، جد یاہوہ نے لعنت نئیں دتی؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "827d8d384cf6703db65926099897bda5585567b16d0d56a8621c3b17fc313b51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/23\/5-8.1792099064281.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "لعنتاں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "لعنت کیتی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "تے کیہ"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "لعنتاں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "لعنت دتی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    }
+  ],
+  "timestamp": "2026-10-15T21:17:44.282647475Z",
+  "model": "glm-5.3"
+}

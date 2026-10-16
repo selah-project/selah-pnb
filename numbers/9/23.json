@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 9:23",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על פי יהוה",
+      "rationale": "لفظی 'یاہوہ دے مُنہ اُتے' — مطلب 'یاہوہ دے حکم نال'؛ لفظی شکل رکھی اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משמרת … שמרו",
+      "rationale": "اِکو جڑ ש-מ-ر دُو واری — 'پہرہداری پہرہ رکھدے نیں' — نبض پنجابی وِچ وی دُہرائی اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "نال",
+      "rationale": "'موشے دے ہتھ نال' — پنجابی نوں 'نال' چاہیدی اے، عبرانی وِچ صرف 'ہتھ وِچ' اے"
+    }
+  ],
+  "translation": "یاہوہ دے مُنہ اُتے اوہ ڈیرے لاؤندے، تے یاہوہ دے مُنہ اُتے اوہ کوچ کردے؛ ⟨את⟩ یاہوہ دی پہرہداری اوہ پہرہ رکھدے نیں، یاہوہ دے مُنہ اُتے، موشے دے ہتھ ⟨نال⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "38c39f8b9a4fd10b9a325922c4113513bcda7254630d243d9fca0cfc0328f59a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/9\/21-23.1792098500061.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "פי",
+      "gloss": "مُنہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "יחנו",
+      "gloss": "اوہ ڈیرے لاؤندے نیں"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "تے اُتے"
+    },
+    {
+      "surface": "פי",
+      "gloss": "مُنہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "اوہ کوچ کردے نیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ دی پہرہداری"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "پہرہداری"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "اوہ پہرہ رکھدے نیں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "פי",
+      "gloss": "مُنہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ہتھ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    }
+  ],
+  "timestamp": "2026-10-15T21:08:20.062721363Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 139:19",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "جے توں مار دِوےں",
+      "rationale": "אִם תִּקְטֹל نوں خواہش ('کاش توں مار دِوےں')، یقین ('توں یقین مار دِوےں') یا سوال ('کیوں توں مار دِوےں؟') پڑھیا جاندا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "واقعہ دا بدل",
+      "rationale": "לہو دی جمع (דָּמִים) حرفی رہی — 'لہو' دا شکل اِکو رکھیا"
+    },
+    {
+      "kind": "you",
+      "subject": "لہو دے بندیو",
+      "rationale": "ہدائی آوی ہیٹھ براہ راست مخاطبہ"
+    }
+  ],
+  "translation": "جے توں بدکار نوں مار دِوےں، اے ایلوہ — تے لہو دے بندیو، میرے توں ہٹ جاؤ!",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5f1308854f1c29eb210d34e9b38332f8fcb9733b46c0dfa608ccb6c3073ebdf5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/139\/17-20.1792114151283.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "جے"
+    },
+    {
+      "surface": "תקטל",
+      "gloss": "توں مار دِوےں"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "اے ایلوہ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدکار نوں"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "تے لہو دے بندیو"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "لہو دے"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "ہٹ جاؤ"
+    },
+    {
+      "surface": "مני",
+      "gloss": "میرے توں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:29:11.284180792Z",
+  "model": "glm-5.3"
+}

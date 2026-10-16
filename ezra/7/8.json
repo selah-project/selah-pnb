@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 7:8",
+  "book": "ezra",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوہ",
+      "rationale": "عبرانی وِچ کُrippa کوئی نئیں — پنجابی جملہ اوہنوں منگدا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "היא שנת — 'ایہہ سال'؛ پنجابی copula چاہیدی اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "پنجواں مہینہ، ستواں سال",
+      "rationale": "سفر دا وقت گِنیا گیا اے"
+    }
+  ],
+  "translation": "تے اوہ پنجویں مہینے وِچ یروشلایم اَپڑیا — ایہہ بادشاہ دے ستویں سال سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "bdae3b3f200ca3f23da91a5718519244ba6e8b3b31964457885a3354297c318b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezra\/7\/5-8.1792119099865.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "تے اَپڑیا"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "مہینے وِچ"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "پنجویں"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "سال"
+    },
+    {
+      "surface": "השביעית",
+      "gloss": "ستویں"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "بادشاہ دے"
+    }
+  ],
+  "timestamp": "2026-10-16T02:51:39.867389460Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 19:19",
+  "book": "leviticus",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "שעטנז",
+      "rationale": "'شعطنز' تنخ وچ صرف ایتھے تے دوری时可 22:11 وچ آندا اے — مطلب ہی دسیا نئیں جاندا، اس لئی حرف-نقل"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כלאים",
+      "rationale": "دو مورت والا جمع، تن واری دہرایا گیا — بھیڑ، بیج تے کپاہ وچ اکو قاعدہ"
+    },
+    {
+      "kind": "you",
+      "subject": "اِسرائیل نوں",
+      "rationale": "بہووچہ 'نگہ رکھو' توں اگلا سب خودکاری ہے — گل بات عوام نال"
+    }
+  ],
+  "translation": "⟨את⟩ میری قاعدیاں نوں نگہ رکھو — تیری بھیڑ نوں دو قسماں دا میل نہ کروا، تیرے کھیت وچ دو قسماں دا بیج نہ بو، تے دو قسماں دا کپاہ، شعطنز، تیرے اُتے نہ چڑھے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "f40e66e93ecd85379b171e515af41dfa8a2a29243215aa2b465011ef262974c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/19\/18-19.1792123427239.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میری قاعدیاں نوں"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "میری قاعدیاں"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "نگہ رکھو"
+    },
+    {
+      "surface": "בהמתך",
+      "gloss": "تیری بھیڑ نوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תרביע",
+      "gloss": "دو قسماں دا میل کروا"
+    },
+    {
+      "surface": "כלאים",
+      "gloss": "دو قسماں"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "تیرے کھیت وچ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "بو"
+    },
+    {
+      "surface": "כלאים",
+      "gloss": "دو قسماں دا بیج"
+    },
+    {
+      "surface": "ובגד",
+      "gloss": "تے کپاہ"
+    },
+    {
+      "surface": "כלאים",
+      "gloss": "دو قسماں دا"
+    },
+    {
+      "surface": "שעטנז",
+      "gloss": "شعطنز"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "چڑھے"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تیرے اُتے"
+    }
+  ],
+  "timestamp": "2026-10-16T04:03:47.240009523Z",
+  "model": "glm-5.3"
+}

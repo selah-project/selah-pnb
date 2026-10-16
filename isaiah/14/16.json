@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 14:16",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "تے آکھن گے",
+      "rationale": "عبرانی وِچ آکھن دا فعل نئیں، صرف سوال اے — پنجابی جملے لئی ⟨⟩ وِچ پایا"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מרגיז\/מרעיש",
+      "rationale": "ہلان والا\/کمبان والا — عبرانی وِچ دو بھاون دے لفظ نال جوڑ اے"
+    }
+  ],
+  "translation": "تیرے ویکھن والے تیرے ول تکھی نظر کرن گے، تیرے ول ای غور کرن گے ⟨تے آکھن گے⟩: کیہ ایہہ اوہ بندہ اے، جیہنے دھرتی نوں ہلایا، مملکتاں نوں کمبایا؟",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6ba8f6c00872ae1d5ffd7b9906623de2aad0d21d350d0abbc2d653cc5c6bac6d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/14\/13-16.1792106018468.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראיך",
+      "gloss": "تیرے ویکھن والے"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تیرے ول"
+    },
+    {
+      "surface": "ישגיחו",
+      "gloss": "تکھی نظر کرن گے"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تیرے ول"
+    },
+    {
+      "surface": "יתבוננו",
+      "gloss": "غور کرن گے"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "کیہ ایہہ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "اوہ بندہ"
+    },
+    {
+      "surface": "מרגיז",
+      "gloss": "ہلان والا"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "دھرتی نوں"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "کمبان والا"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "مملکتاں نوں"
+    }
+  ],
+  "timestamp": "2026-10-15T23:13:38.469549846Z",
+  "model": "glm-5.3"
+}

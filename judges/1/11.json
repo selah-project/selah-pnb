@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 1:11",
+  "book": "judges",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوہ",
+      "rationale": "فاعل دی وضاحت لئی ضمیر — عبرانی وِچ کالےو\/یہوداہ دا حوالہ صرف سیاق توں۔"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קרית ספר",
+      "rationale": "نام دا مطلب 'کتاب دی شہر' اے — عبرانی صِفر (لکھت) نال بجھیا۔"
+    }
+  ],
+  "translation": "تے اوتھوں اوہ گیا دیبیر دے وسنیکاں کول — تے دیبیر دا ناں پہلاں قریات سیفِر سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "736ac4d67e767c7d1e33ea1fa4642e4c995e12a11f0029d4c91643b5ad935348",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/judges\/1\/9-12.1792101320401.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "تے گیا"
+    },
+    {
+      "surface": "משם",
+      "gloss": "اوتھوں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "وسنیکاں"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "دیبیر دے"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "تے ناں"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "دیبیر دا"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "پہلاں"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "قریات"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "سیفِر"
+    }
+  ],
+  "timestamp": "2026-10-15T21:55:20.402012949Z",
+  "model": "glm-5.3"
+}

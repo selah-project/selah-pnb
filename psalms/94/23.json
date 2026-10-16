@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 94:23",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اوہ⟩",
+      "rationale": "کاردار וישב دا فاعل عبرانی نے نئیں لکھیا، پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יצמיתם יצמיתם",
+      "rationale": "تکرار — اوہی فعل دو واری، عدالت دا جھنڈا ورگا سُر"
+    }
+  ],
+  "translation": "تے مُڑ ⟨اوہ⟩ اوہناں اُتے ⟨את⟩ اوہناں دا فساد لِے آؤندا اے، تے اوہناں دی برائی وِچ اوہناں نوں جڑ توں مُکا دیوے گا — جڑ توں مُکا دیوے گا یاہوہ، ساڈا ایلوہ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0f15ef12c275c81bdcb9a43b9ac6e3af98f1cdd262cee3fd259d75ed0ba68830",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/94\/21-23.1792113356120.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "تے مُڑ لِے آؤندا اے"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "اوہناں اُتے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوہناں دا فساد"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "اوہناں دا فساد"
+    },
+    {
+      "surface": "וברעתם",
+      "gloss": "تے اوہناں دی برائی وِچ"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "جڑ توں مُکا دیوے گا"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "جڑ توں مُکا دیوے گا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ساڈا ایلوہ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:15:56.120942952Z",
+  "model": "glm-5.3"
+}

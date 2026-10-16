@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 48:15",
+  "book": "isaiah",
+  "lang": "pnb",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אני אני",
+      "rationale": "'میں میں' دی دہرائی — عبرانی دی زور دار آواز، پنجابی وِچ 'میں، میں آپ' نال رکھی۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "הצליח",
+      "rationale": "عبرانی دی کریا دا مُڈھ 'اپنے آپ نوں توڑ کے اگّوں ودھنا' اے — کامیاب ہونا، بھانویں اِکو بندہ کوئی کریا کردا اے یا خدا اوہدے راہ نوں کامیاب کردا اے۔"
+    }
+  ],
+  "translation": "میں، میں آپ بولیا؛ ہاں، میں اُسنوں سدّیا، میں اُسنوں لیاندا، تے اُسدا راہ کامیاب ہووےگا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "fb6b37790ddbdd36f90e076088f9c277694119a0ab4ff6ffbd4ea24fd9b2828c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/48\/13-16.1792106796919.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں آپ"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "بولیا"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ہاں"
+    },
+    {
+      "surface": "קראתיו",
+      "gloss": "میکوں سدّیا"
+    },
+    {
+      "surface": "הביאתיו",
+      "gloss": "میکوں لیاندا"
+    },
+    {
+      "surface": "והצליח",
+      "gloss": "تے کامیاب ہووےگا"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "اُسدا راہ"
+    }
+  ],
+  "timestamp": "2026-10-15T23:26:36.920121054Z",
+  "model": "glm-5.3"
+}

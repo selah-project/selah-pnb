@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 20:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوہ",
+      "rationale": "عبرانی وِچ فعل دے نال ضمیر لکھی نئیں، پنجابی جملہ منگدا اے"
+    }
+  ],
+  "translation": "اوہ تیری مدد مقدس تھاں توں گھلے، تے تصیون توں تینوں سہارا دےوے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5153850697641f8e48b56e9f75a49ab15fc1715ffec9bae78abfebf663d00e12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/20\/1-4.1792112094032.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "اوہ گھلے"
+    },
+    {
+      "surface": "עזרך",
+      "gloss": "تیری مدد"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "مقدس تھاں توں"
+    },
+    {
+      "surface": "ומציון",
+      "gloss": "تے تصیون توں"
+    },
+    {
+      "surface": "יסעדך",
+      "gloss": "تینوں سہارا دےوے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:54:54.033374181Z",
+  "model": "glm-5.3"
+}

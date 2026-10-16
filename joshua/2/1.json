@@ -1,0 +1,145 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 2:1",
+  "book": "joshua",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "عبرانی وِچ کوئی ضمیر نئیں، صفت ⟨اے⟩ پنجابی جملے لئی پایا"
+    },
+    {
+      "kind": "crux",
+      "subject": "זונה",
+      "rationale": "'زنا کرن والی' بدکارہ دا کم دسدا اے؛ کجھ مفسر 'سارائے خانے والی' پڑھدے نیں پر متن بدکاری ای آکھدا اے"
+    },
+    {
+      "kind": "secret",
+      "subject": "جاسوس",
+      "rationale": "חרש — چُپ چاپ، لُکا کے بھیجیا گیا کم"
+    }
+  ],
+  "translation": "تے یہوشُع بن نون نے ہشتّیم توں دو بندے جاسوس چُپ چاپ گھلے، آکھ کے: جاؤ، ⟨את⟩ دیس نوں تے ⟨את⟩ یریکھو نوں ویکھو۔ تے اوہ گئے تے اِک زنا کرن والی زنانہ دے گھر آ ئے، تے اوہدا ناں راخب ⟨اے⟩، تے اوہ اوتھے لیٹے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0b0f666e3f034b920a791ad8224672373cb196a26dcc4d442d7247d5dd77e35a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joshua\/2\/1-4.1792100757523.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "گھلیا"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یہوشُع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "پُتر"
+    },
+    {
+      "surface": "נון",
+      "gloss": "نون"
+    },
+    {
+      "surface": "מן",
+      "gloss": "توں"
+    },
+    {
+      "surface": "השטים",
+      "gloss": "ہشتّیم"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "مרגלים",
+      "gloss": "جاسوس"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "چُپ چاپ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آکھ کے"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "جاؤ"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ویکھو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دیس"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "دیس"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "یریکھو"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "یریکھو"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "تے گئے"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "تے آئے"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "زنانہ"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "زنا کرن والی"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "تے اوہدا ناں"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "راخب"
+    },
+    {
+      "surface": "וישכבו",
+      "gloss": "تے لیٹے"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "اوتھے"
+    }
+  ],
+  "timestamp": "2026-10-15T21:45:57.524031107Z",
+  "model": "glm-5.3"
+}

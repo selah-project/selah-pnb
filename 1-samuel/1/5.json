@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 1:5",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מנה אחת אפים",
+      "rationale": "دو حصہ (asv\/jps) بمقابلہ چنگا حصہ (kjv) بمقابلہ لفظی 'اِک حصہ دو ناساں دا' — اپّیم دا دوہرا روپ لفظی رکھیا گیا۔"
+    },
+    {
+      "kind": "idiom",
+      "subject": "אפים",
+      "rationale": "لفظی 'ناساں\/منہ'، اِدوم وِچ غصے یا چہرے دا نشان؛ لفظی دوہرا روپ بریکٹاں وِچ دسیا گیا۔"
+    }
+  ],
+  "translation": "تے حنّاہ نوں اوہ اِک حصہ دیندا — اپّیم والا ⟨یعنی دو ناساں والا⟩ — کیونکہ اوہ ⟨את⟩ حنّاہ نال پیار کردا سی، تے یاہوہ نے اوہدی بچہ دانی بند کر دتی سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "8d53538950ae5ec51f8cf8c5467dfaae6f3e3dd5c38dbc6a6408594dca7ba8de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/1\/5-8.1792102151513.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולחנה",
+      "gloss": "تے حنّاہ نوں"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دیندا سی"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "حصہ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "اِک"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "اپّیم ⟨دو ناساں⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حنّاہ"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "حنّاہ"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "پیار کردا سی"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "تے یاہوہ"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "بند کر دتا سی"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "اوہدی بچہ دانی"
+    }
+  ],
+  "timestamp": "2026-10-15T22:09:11.513757440Z",
+  "model": "glm-5.3"
+}

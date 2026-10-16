@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 6:5",
+  "book": "deuteronomy",
+  "lang": "pnb",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "نَفَش ساہ\/جان\/جی اے، دوجی کوئی وکھری چیز نئیں"
+    },
+    {
+      "kind": "crux",
+      "subject": "طاقت",
+      "rationale": "ماؤد: 'شدة\/بہادری' دوجا پڑھاؤ، 'دولت' تیجا"
+    }
+  ],
+  "translation": "تے تُوں یاہوہ اپنے ایلوہیم نال پیار کریں ⟨את⟩، اپنے سارے دِل نال، تے اپنی ساری جان نال، تے اپنی ساری طاقت نال۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2cc6d3aec31d90024fe908c7815c1c5ab018ff8f1ed18f7a952c182e11d3de23",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/6\/5-8.1792099617940.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "تے تُوں پیار کریں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہوہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "اپنے ایلوہیم"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "اپنے سارے … نال"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "دِل"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "تے اپنی ساری … نال"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "جان"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "تے اپنی ساری … نال"
+    },
+    {
+      "surface": "מאדך",
+      "gloss": "طاقت"
+    }
+  ],
+  "timestamp": "2026-10-15T21:26:57.941267478Z",
+  "model": "glm-5.3"
+}

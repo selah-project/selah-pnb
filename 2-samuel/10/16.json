@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 10:16",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "بیڑھا",
+      "rationale": "עברית صرف 'بھیجیا' اے؛ 'بیڑھا' پنجابی نے پایا کیونکہ کُڈ کے کون بھیجیا اوہ لکھیا نئیں"
+    },
+    {
+      "kind": "alternative",
+      "subject": "הנהר",
+      "rationale": "'دریا' توں مراد دریائے فرات اے؛ پر عبرانی صرف 'دریا' آکھدا اے، ناں نئیں"
+    }
+  ],
+  "translation": "تے ہدادعزر نے بیڑھا پایا تے ⟨את⟩ اَرام نوں، جیہڑا دریا دے پار دا سی، باہر کڈھیا؛ تے اوہ حیلام آئے، تے شوواخ، ہدادعزر دی فوج دا سردار، اوہناں دے اگے سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0f2b8ccd64ff7a9f0e6f9a7e86df384251dd2ca390999e4ff7740b27a78ea942",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/10\/13-16.1792103346762.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "نے بیڑھا پایا"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "ہدادعزر"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "تے باہر کڈھیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَرام"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "اَرام"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "دے پار"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "دریا"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "تے آئے"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "حیلام"
+    },
+    {
+      "surface": "ושובך",
+      "gloss": "تے شوواخ"
+    },
+    {
+      "surface": "שר",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "فوج"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "ہدادعزر"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "اوہناں دے اگے"
+    }
+  ],
+  "timestamp": "2026-10-15T22:29:06.763713103Z",
+  "model": "glm-5.3"
+}

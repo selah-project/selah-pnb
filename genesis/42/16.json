@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 42:16",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חי פרעה",
+      "rationale": "قسم دی فارمولا دا دہراؤ — آیت 15 والا ای جوڑ۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "کہ",
+      "rationale": "پنجابی وِچ 'پرکھیاں جاݨ' توں بعد 'کہ' جوڑ چاہیدا اے، عبرانی وِچ نئیں۔"
+    },
+    {
+      "kind": "you",
+      "subject": "یوسف بھراواں نوں",
+      "rationale": "حکم تے قسم دوناں نال سدھی خطاب۔"
+    }
+  ],
+  "translation": "تسیں وِچوں اِک گھلّو تے اوہ ⟨את⟩ تہاڈے بھرا نوں لیاوے، تے تسیں قید رہو، تے تہاڈیاں گلاں پرکھیاں جاݨ، کہ سچ ⟨את⟩ تہاڈے ⟨نال⟩ اے یا نئیں؛ تے جے نئیں — پرَوہ ⟨دا⟩ جیوندا ⟨اے⟩ — کیونکہ تسیں جاسوس او۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b080eeb48fdfeee6f4db1fd92b048b4d20d01703f83e984a7c8a00888f47d908",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/42\/13-16.1792095879410.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "گھلّو"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "تسیں وِچوں"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "اِک"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "تے اوہ لیاوے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تہاڈا بھرا"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "تہاڈا بھرا"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "تے تسیں"
+    },
+    {
+      "surface": "האסרו",
+      "gloss": "قید رہو"
+    },
+    {
+      "surface": "ויבחנו",
+      "gloss": "تے پرکھیا جاوے"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "تہاڈیاں گلاں"
+    },
+    {
+      "surface": "האמת",
+      "gloss": "سچ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ تہاڈے ⟨نال⟩"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "تے جے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "חי",
+      "gloss": "جیوندا"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پرَوہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "جاسوس"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تسیں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:24:39.415580589Z",
+  "model": "glm-5.3"
+}

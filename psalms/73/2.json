@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "שפכה אשרי",
+      "rationale": "عبرانی دی ٹھیک مورت ‘میرے قدم ڈھل پئے’؛ پنجابی وِچ ‘ڈھلک گئے’ اِکو سواد دیندا اے۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨تاں⟩",
+      "rationale": "عبرانی دا و- عننی ٹوکن اپنے آپ وِچ حرف عطف توں ودھ کجھ نئیں منگدا؛ پنجابی جملے لئی ‘تاں’ پایا گیا۔"
+    }
+  ],
+  "translation": "تے میں ⟨تاں⟩ — تقریباً میرے پیر جھک گئے، جِویں کجھ نہیں میرے قدم ڈھلک گئے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "32f836a9178951769eba19d6e1f91a3afb7992f5dc65d6f6d50084340a98bfef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/73\/1-4.1792112957334.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "تے میں"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "تقریباً"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "جھک گئے"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "میرے پیر"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "جِویں کجھ نہیں"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "ڈھلک گئے"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "میرے قدم"
+    }
+  ],
+  "timestamp": "2026-10-16T01:09:17.335154114Z",
+  "model": "glm-5.3"
+}

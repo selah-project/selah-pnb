@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 41:13",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כן\/כני",
+      "rationale": "اِکو جڑ — 'اِویں ای ہویا' تے 'میرا عہدہ\/تھاں' — پنجابی وِچ ایہہ مِلان مِٹ جاندا اے۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "תלה",
+      "rationale": "لفظ دی شکل 'لٹکایا' اے — سولی اُتے چاڑھنا، کیہڑی چیز نال وضاحت عبرانی نئیں کردا۔"
+    }
+  ],
+  "translation": "تے جیویں اوہنے سانوُں حل کیتا، اِویں ای ہویا: ⟨את⟩ مینوُں اوہنے میرے عہدے اُتے واپس کیتا، تے ⟨אתו⟩ اُسنوں لٹکا دتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9053f9764630c32d17babaf36914eccfdedd994a7139da6bf68003f61bb55622",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/41\/13-14.1792123257406.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تے-ہویا"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "حل-کیتا"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "سانوُں"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اِویں"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ہویا"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "مینوُں"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "واپس-کیتا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "כני",
+      "gloss": "میرے-عہدے"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "اُسنوں"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "لٹکایا"
+    }
+  ],
+  "timestamp": "2026-10-16T04:00:57.407018975Z",
+  "model": "glm-5.3"
+}

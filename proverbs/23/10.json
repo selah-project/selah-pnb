@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 23:10",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "پرانے",
+      "rationale": "עולם دراصل 'پچھلے زمانے توں' — ہمیشہ توں قایم حد"
+    },
+    {
+      "kind": "you",
+      "subject": "پاٹھک نوں",
+      "rationale": "دوویں حکم سدھے مخاطب نوں"
+    }
+  ],
+  "translation": "پرانے حد دا نشان نہ ہٹا، تے یتیمیاں دے کھیتاں وِچ نہ وڑ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "163f80a11410ec688886cc1d187c62b1cc5b53f47fd0af5a1f0e9c49520cf34f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/23\/9-12.1792115005375.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "ہٹا"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "حد دا نشان"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "پرانے"
+    },
+    {
+      "surface": "ובשדי",
+      "gloss": "تے کھیتاں وِچ"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "یتیمیاں دے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "وڑ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:43:25.375926933Z",
+  "model": "glm-5.3"
+}

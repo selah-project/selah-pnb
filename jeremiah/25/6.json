@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 25:6",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Judah",
+      "rationale": "سِدھا خطاب — منع کرن والے احکام۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ایلوہیماں",
+      "rationale": "אלהים אחרים — قوماں دے معبود، ایس لئی عام لفظ، ناں نئیں۔"
+    }
+  ],
+  "translation": "تے ہور ایلوہیماں پچھے نہ ٹرو کہ اُہناں دی عبادت کرو تے اُہناں اگے سِر جھکاؤ، تے ⟨את⟩ مینوں اپنیاں ہتھاں دے کمّاں نال غصہ نہ دیوو، تے مَیں تُہاڈے نال برائی نہ کراں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "18b14d631da41c438d4f0e8c27960140fe44b7e049e13d3788affe44bf04ec6c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/25\/5-8.1792107932891.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "ٹرو"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پچھے"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیماں"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ہور"
+    },
+    {
+      "surface": "לעבדם",
+      "gloss": "کہ اُہناں دی عبادت کرو"
+    },
+    {
+      "surface": "ולהשתחות",
+      "gloss": "تے اُہناں اگے سِر جھکاؤ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اُہناں"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "תכעיסו",
+      "gloss": "غصہ دیوو"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ مینوں",
+      "marks": "مینوں"
+    },
+    {
+      "surface": "במעשה",
+      "gloss": "کمّاں نال"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "اپنیاں ہتھاں دے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "ארע",
+      "gloss": "برائی کراں گا"
+    },
+    {
+      "surface": "لכם",
+      "gloss": "تُہاڈے نال"
+    }
+  ],
+  "timestamp": "2026-10-15T23:45:32.892584530Z",
+  "model": "glm-5.3"
+}

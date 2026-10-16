@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 78:35",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨اے⟩",
+      "rationale": "عبرانی وِچ کارج نئیں، پنجابی واک بِناں نئیں رہدا۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "آزاد کرن والا",
+      "rationale": "גואל رشتے داری دے حق نال ولوڑ کڈھن والا اے — صرف آزاد کرن والا پورا نئیں۔"
+    }
+  ],
+  "translation": "تے اوہ چیتے کیتا جے ایلوہیم اوہناں دی چٹان ⟨اے⟩ تے ایل عِلیون اوہناں دا آزاد کرن والا ⟨اے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "2b971d857eeacbd88287acb27b1a30f59104f8a47b10e9f68508965e551653f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/78\/33-36.1792113095494.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויזכרו",
+      "gloss": "تے اوہ چیتے کیتا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جے"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "צורם",
+      "gloss": "اوہناں دی چٹان"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے ایل"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "عِلیون"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "اوہناں دا آزاد کرن والا"
+    }
+  ],
+  "timestamp": "2026-10-16T01:11:35.495333163Z",
+  "model": "glm-5.3"
+}

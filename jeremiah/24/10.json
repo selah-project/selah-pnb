@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 24:10",
+  "book": "jeremiah",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "مہمار",
+      "rationale": "הדבר is pestilence, Punjabi 'مہمار' (plague) matches the picture"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חרב רעב דבר",
+      "rationale": "classic sword-famine-pestilence triad, kept in the same order"
+    }
+  ],
+  "translation": "تے میں اوہناں اُتے ⟨את⟩ تلوار، ⟨את⟩ کال تے ⟨את⟩ مہمار بھیجاں گا، جدوں تک اوہ اُس زمین توں مُک نئیں جاندے جیہڑی میں اوہناں نوں تے اوہناں دے پیو دادیاں نوں دِتی سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "39423e72be1bc6f30bf27c6a17fc37b0b660ba63dd70a1676c144f31a6753b18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/24\/9-10.1792107924116.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "تے میں بھیجاں گا"
+    },
+    {
+      "surface": "בם",
+      "gloss": "اوہناں اُتے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تلوار"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "تلوار"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کال"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "کال"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "مہمار"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "مہمار"
+    },
+    {
+      "surface": "עד",
+      "gloss": "جدوں تک"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "مُک نئیں جاندے"
+    },
+    {
+      "surface": "مעל",
+      "gloss": "توں"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "אשر",
+      "gloss": "جیہڑی"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "میں دِتی سی"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اوہناں نوں"
+    },
+    {
+      "surface": "ולאבותיהם",
+      "gloss": "تے اوہناں دے پیو دادیاں نوں"
+    }
+  ],
+  "timestamp": "2026-10-15T23:45:24.117265785Z",
+  "model": "glm-5.3"
+}

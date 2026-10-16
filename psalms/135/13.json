@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 135:13",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اے",
+      "rationale": "عبرانی وِچ کوئی فعل نئیں؛ پنجابی نوں جوڑن والا فعل چاہیدا اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לעולם \/ לדר ודר",
+      "rationale": "دو وار یاہوہ نال جوڑیا ہویا سموں دا ودھاء — ہمیشہ تے نسل در نسل — اِکو ترانہ دو واری"
+    }
+  ],
+  "translation": "یاہوہ، تیرا ناں ہمیشہ لئی ⟨اے⟩؛ یاہوہ، تیری یاد نسل توں نسل تک ⟨اے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "21e4c846f6fcfbb12fe1c6634aaff1c736b87d3fa02af7da7038206331789f57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/135\/13-16.1792114053279.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "تیرا ناں"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشہ لئی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "تیری یاد"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "نسل توں نسل"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "تک"
+    }
+  ],
+  "timestamp": "2026-10-16T01:27:33.279985882Z",
+  "model": "glm-5.3"
+}

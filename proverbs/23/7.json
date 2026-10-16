@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 23:7",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שער",
+      "rationale": "دروازہ دار\/اندازا لاؤندا\/گنتی کردا — KJV 'سوچدا اے' مقابل JPS 'گنتی کردا'؛ جزر שׁ-ע-ר دروازے نال جُڑیا، کنجوسی دی گنتی دسدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש گردن\/ساہ\/جیون-زور اے، روحانی 'جان' نئیں"
+    },
+    {
+      "kind": "you",
+      "subject": "پاٹھی نوں",
+      "rationale": "سیخماں سدھی پاٹھی نوں مخاطب نیں"
+    }
+  ],
+  "translation": "کیونکہ جیویں اوہ اپنی جان وِچ گنتی کردا اے، اوویں اوہ اے؛ اوہ تینوں آکھےگا: کھا تے پی — پر اوہدا دل تیرے نال بالکل نئیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3a19efeb16716e587f5348d891244f4e882322d6bd267df8a6fe000130f503c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/23\/5-8.1792115049715.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "جیویں"
+    },
+    {
+      "surface": "שער",
+      "gloss": "گنتی کردا اے"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "اپنی جان وِچ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اوویں"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اوہ اے"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "کھا"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "تے پی"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "آکھےگا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تینوں"
+    },
+    {
+      "surface": "ולבו",
+      "gloss": "پر اوہدا دل"
+    },
+    {
+      "surface": "בל",
+      "gloss": "بالکل نئیں"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تیرے نال"
+    }
+  ],
+  "timestamp": "2026-10-16T01:44:09.716691171Z",
+  "model": "glm-5.3"
+}

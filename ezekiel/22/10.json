@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 22:10",
+  "book": "ezekiel",
+  "lang": "pnb",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨کِسے نے⟩",
+      "rationale": "عبرانی وِچ فاعل دا کوئی لفظ نئیں، پنجابی جملہ منگدا اے۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "ערות אב",
+      "rationale": "لفظی 'پیو دی برہنائی' — احبار 20:11 دے حوالے نال پیو دی زنانی (سوتن ماں) مراد اے، کجھ ترجمے لفظی رکھدے نیں۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "دبائی",
+      "rationale": "ענה 'دبانا\/تڑسانا' اے — بدکاری دے سیاق وِچ 'ہتھیں کیتی' نالوں 'دبائی' لفظی شک رکھدا اے۔"
+    }
+  ],
+  "translation": "تیرے وِچ ⟨کِسے نے⟩ پیو دی برہنائی کھولھی، تیرے وِچ حیض دی ناپاکی والی نوں دبائی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "79f9d99b002c91211468242fab69a423619d8b9711a4e1a1971b42177f35253f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/22\/9-12.1792109597125.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "برہنائی"
+    },
+    {
+      "surface": "אב",
+      "gloss": "پیو دی"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "کھولھی"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تیرے وِچ"
+    },
+    {
+      "surface": "טמאת",
+      "gloss": "ناپاکی"
+    },
+    {
+      "surface": "הנדה",
+      "gloss": "حیض دی"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "دبائی"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تیرے وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T00:13:17.126476306Z",
+  "model": "glm-5.3"
+}

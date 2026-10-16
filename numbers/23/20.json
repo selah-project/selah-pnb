@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 23:20",
+  "book": "numbers",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨حکم⟩",
+      "rationale": "לקחתی دا مفعول عبرانی وِچ لُکا ہویا اے — 'میں لِیا' دا کی؟ — پنجابی جملہ منگدا اے"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשיבנה دی جنسی مکر",
+      "rationale": "-נה برکت (نسوانی لفظ) ول اشارہ اے؛ پنجابی وِچ ⟨اوہنوں⟩ نال دسیا گیا"
+    }
+  ],
+  "translation": "ویکھو، برکت دین دا ⟨حکم⟩ میں لِیا اے، تے اوہ برکت دیندا اے، تے میں ⟨اوہنوں⟩ مُڑ نئیں سکدا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "ea3788f67f9d0171360c4368d4d698cafff47776f74eac58fb090edb2e091f00",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/23\/17-20.1792099091201.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ویکھو"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "برکت دین"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "دا میں لِیا اے"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "تے اوہ برکت دیندا اے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "تے نئیں"
+    },
+    {
+      "surface": "אשיבנה",
+      "gloss": "مُڑ سکدا"
+    }
+  ],
+  "timestamp": "2026-10-15T21:18:11.202388451Z",
+  "model": "glm-5.3"
+}

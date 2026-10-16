@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 147:14",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "چرب",
+      "rationale": "חלב شبدیہ چرب\/چکنائی اے — 'کنک دا چرب' یعنی کنک دا سروں ودھیا انگ؛ 'finest wheat' پربھاوی ترجمہ اے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "حداں نوں امن",
+      "rationale": "'تیریاں حداں نوں امن بناوندا اے' — גבולךשלום نوں اک اعلان دے طور تے پڑھنا"
+    }
+  ],
+  "translation": "اوہ تیریاں حداں وِچ امن لاندا اے، کنک دے چرب نال تینوں رجّاؤندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "1edf17bc9fa89fa912dc1c8315eaf2ac550f41f1659666d7bb85176085d7d10f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/147\/14-15.1792124218469.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "اوہ لاندا اے"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "تیریاں حداں وِچ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "امن"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "چرب"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "کنک دے"
+    },
+    {
+      "surface": "ישביעך",
+      "gloss": "تینوں رجّاؤندا اے"
+    }
+  ],
+  "timestamp": "2026-10-16T04:16:58.470351230Z",
+  "model": "glm-5.3"
+}

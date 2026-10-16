@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 13:16",
+  "book": "1-samuel",
+  "lang": "pnb",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גבעת\/בגבע",
+      "rationale": "آیت 15 وِچ گِبعہ (Gibeah) تے آیت 16 وِچ گِبعہ (Geba) وکھرے تھاں نیں پر اِوے اِوے املا؛ کجھ مترجم اِکو پڑھدے نیں۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חנו",
+      "rationale": "أصل 'خَیمے جُھکائے\/ڈیرے لائے'؛ 'ڈیرے لا کے بیٹھے' پنجابی دی ریت اے۔"
+    }
+  ],
+  "translation": "تے شاؤل تے یُوناتان اوہدا پُتر تے اوہناں نال جیہڑے لوک موجود سن، سارے بنیامین دے گِبعہ وِچ ٹِکے ہوئے سن، تے فلسطی مِکماش وِچ ڈیرے لا کے بیٹھے سن۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "7f41e70fa1fcee670f56647ebedd8fc5293f14d40b7a36177e24643f0d40ec42",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/13\/13-16.1792102419096.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "تے شاؤل"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "تے یُوناتان"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اوہدا پُتر"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "تے لوک"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "جیہڑا موجود"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "اوہناں نال"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "ٹِکے ہوئے سن"
+    },
+    {
+      "surface": "בגבע",
+      "gloss": "گِبعہ وِچ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بنیامین دے"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "تے فلسطی"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "ڈیرے لا کے بیٹھے سن"
+    },
+    {
+      "surface": "במכמש",
+      "gloss": "مِکماش وِچ"
+    }
+  ],
+  "timestamp": "2026-10-15T22:13:39.097420622Z",
+  "model": "glm-5.3"
+}

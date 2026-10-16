@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 19:5",
+  "book": "1-kings",
+  "lang": "pnb",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨رُکھ⟩",
+      "rationale": "عبرانی وِچ رُوٹم اِک بوٹا اے؛ پنجابی وِچ وننجاؤن لئی رُکھ دا لفظ چاہیدا سی"
+    },
+    {
+      "kind": "substitution",
+      "subject": "فرشتہ",
+      "rationale": "מלאך دا مول مطلب نیں\/ایلچی اے؛ فرشتہ پکا پنجابی روایت اے"
+    },
+    {
+      "kind": "you",
+      "subject": "الیاہ نوں",
+      "rationale": "فرشتے دا سدیا ہویا حکم: اُٹھ، کھا"
+    }
+  ],
+  "translation": "تے اوہ لیٹا تے ایک رُوٹم رُکھ تھلے سُتیا، تے ویکھو، ایہہ اِک فرشتہ اوہنوں چھوہیا تے اوہنوں آکھیا: اُٹھ، کھا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b8fba91d676990940bbc099e07c58177af79a363ad9e903c2589e58c68108b44",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/19\/5-8.1792104662631.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "تے لیٹا"
+    },
+    {
+      "surface": "ויישן",
+      "gloss": "تے سُتیا"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تھلے"
+    },
+    {
+      "surface": "רתם",
+      "gloss": "روٹم ⟨رُکھ⟩"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "اِک"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "تے ویکھو"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ایہہ"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "فرشتہ"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "چھوہیا"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اوہنوں"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تے آکھیا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اوہنوں"
+    },
+    {
+      "surface": "קום",
+      "gloss": "اُٹھ"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "کھا"
+    }
+  ],
+  "timestamp": "2026-10-15T22:51:02.632286866Z",
+  "model": "glm-5.3"
+}

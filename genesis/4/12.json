@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נע ונד",
+      "rationale": "نُع و ناد — دو ملدے-جلدے جڑاں، ہلدا-بھوندا؛ پنجابی وِچ جوڑ-صفت نال اوہ لے دتا۔"
+    },
+    {
+      "kind": "crux",
+      "subject": "מן האדמה \/ לא תסף",
+      "rationale": "یوسف: ہور نئیں دِتا کریگی — ہور دینا بند کر دیگی؛ کجھ مترجم 'ہور نئیں' نوں مُک مطلب مندے نیں۔"
+    }
+  ],
+  "translation": "جدوں تُوں ⟨את⟩ زمین نوں کاردا ایں، اوہ ہور نئیں دِتا کریگی اپنی طاقت تیرے لئی؛ بھجدا-بھوندا تُوں زمین اُتے رہویں گا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "36506de47dcff9e45ababa2df96a4f965bde221c54e7f72affcb28c667ebeb99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/4\/9-12.1792094647729.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "جدوں"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "کاردا ایں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زمین نوں"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "زمین نوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "ہور"
+    },
+    {
+      "surface": "תת",
+      "gloss": "دِتا کریگی"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "اپنی طاقت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیرے لئی"
+    },
+    {
+      "surface": "נע",
+      "gloss": "بھجدا"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "بھوندا"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "رہویں گا"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین اُتے"
+    }
+  ],
+  "timestamp": "2026-10-15T20:04:07.730593305Z",
+  "model": "glm-5.3"
+}

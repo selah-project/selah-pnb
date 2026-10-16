@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 35:3",
+  "book": "genesis",
+  "lang": "pnb",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "تنگی",
+      "rationale": "צרה دا مورت تنگی\/دکھھ اے، 'مصیبت' توں سخت"
+    },
+    {
+      "kind": "invitation",
+      "subject": "چلیئے",
+      "rationale": "یعقوو اپنی ٹولی نوں رل کے اُٹھن دا سدّاں دندا اے"
+    }
+  ],
+  "translation": "تے اسیں اُٹھیئے تے بیت ایل چڑھیئے، تے اوتھے میں اوہ ایل لئی مذبح بناءواں جیہڑا میری تنگی دے دن ⟨את⟩ مینوں سنیاں، تے اُوہ رستے وِچ میرے نال رہیا جیہدے وِچ میں ٹُریا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "0d720eeb72df5e2c260021b2b216009b992f9b660701d4dd36f475fa2a70a6f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/35\/1-4.1792095643985.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונקומה",
+      "gloss": "تے اسیں اُٹھیئے"
+    },
+    {
+      "surface": "ונעלה",
+      "gloss": "تے چڑھیئے"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "تے میں بناءواں"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اوتھے"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "مذبح"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "اوہ ایل لئی"
+    },
+    {
+      "surface": "הענה",
+      "gloss": "جیہڑا سنیاں"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "مینوں"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "دن وِچ"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "میری تنگی"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "تے اوہ رہیا"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "میرے نال"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "رستے وِچ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہدے وِچ"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "میں ٹُریا"
+    }
+  ],
+  "timestamp": "2026-10-15T20:20:43.986438831Z",
+  "model": "glm-5.3"
+}

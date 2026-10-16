@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 29:3",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "کوئی فعل نئیں",
+      "rationale": "آیت دا انت جُملہ ادھورا اے — عبرانی وِچ 'ואת הפר ואת שני האילם' بعد دی آیت نال جُڑدا اے؛ پنجابی وِچ وی اویں ادھورا رکھیا گیا اے۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "סל אחד",
+      "rationale": "اِک ٹوکرا — بریڈ تے قربانیاں دی گنتی دا حصہ۔"
+    }
+  ],
+  "translation": "تے تُوں ⟨את⟩ اوہناں نوں اِک ٹوکرے اُتے پاویں، تے ٹوکرے وِچ ⟨את⟩ اوہناں نوں نیڑے لیاویں، تے ⟨את⟩ وچھے نوں تے ⟨את⟩ دوواں مینڈھیاں نوں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "b72086f378f6bfea2d439e8ace40f32038603e4eb8e802f284d4e26b42a706af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/29\/1-4.1792097019540.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "تے پاویں"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "اوہناں نوں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "סל",
+      "gloss": "ٹوکرا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "اِک"
+    },
+    {
+      "surface": "והקרבת",
+      "gloss": "تے نیڑے لیاویں"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "اوہناں نوں"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "ٹوکرے وِچ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "وچھے نوں"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "وچھا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "دوواں مینڈھیاں نوں"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دوواں"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "مینڈھیاں"
+    }
+  ],
+  "timestamp": "2026-10-15T20:43:39.541796256Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 122,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "یروشلایم",
+      "rationale": "بھراواں دے ناں تے شہر نوں امن دی دعا دتی جاندی اے"
+    },
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "'ہن' نازک قسمت والا عرضی ذرہ اے، پنجابی وِچ پورا وزن نئیں چُک سکدا"
+    }
+  ],
+  "translation": "میرے بھراواں تے میرے یاراں لئی ہن اَلاواں: تُہدے وِچ شالوم ہووے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "14184fee368cd1ac8bb7e05239d149d4f3e46268a5915a20954dda9a634b60d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/122\/5-8.1792114037372.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "لئی"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "میرے بھراواں"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "تے میرے یاراں"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "اَلاواں"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ہن"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالوم ⟨امن⟩"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تُہدے وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:27:17.373537649Z",
+  "model": "glm-5.3"
+}

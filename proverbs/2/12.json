@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 2:12",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "תהפךות",
+      "rationale": "جاں 'پلٹیاں ہوئیاں گلّاں' — جڑ ת-ה-פ-ך 'پلٹنا'؛ 'الٹیاں گلّاں' اوہدی مورت رکھدا اے"
+    },
+    {
+      "kind": "addition",
+      "subject": "اُس",
+      "rationale": "عبرانی وِچ پکی نشاندہی نئیں، 'اِک بندے توں' وی ٹھیک اے"
+    }
+  ],
+  "translation": "تینوں بچاون لئی بُرے رستے توں، اُس بندے توں جیہڑا الٹیاں گلّاں کردا اے،",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "c1ad0c5531a682a64dee5fa30ca5d40a87b36ecfd10576bbd17c8f81ae25b3be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/2\/9-12.1792114337543.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להצילך",
+      "gloss": "تینوں بچاون لئی"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "رستے توں"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بُرے"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "اُس بندے توں"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "جیہڑا … کردا اے"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "الٹیاں گلّاں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:32:17.544393573Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 28:14",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اپنا",
+      "rationale": "לבו وِچ چسبیدہ ضمیر 'اوہدا دل' اے؛ 'اپنا' پنجابی جملے لئی پایا — ⟨⟩ وِچ۔"
+    },
+    {
+      "kind": "invitation",
+      "subject": "اشرے",
+      "rationale": "'خوش اے' والی ترنگ پاٹھی نوں سدّدی اے — اشرے-فقرے میلے دے سدے نیں۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מפחד",
+      "rationale": "'ڈردا اے' — عبرانی وِچ ویکھݨ ہی صفت اے؛ کجھ مترجم 'بتقا' (خشیت) لکھدے نیں، ایتھے سادہ ڈر رکھیا اے۔"
+    }
+  ],
+  "translation": "خوش اے اوہ بندہ جیہڑا ہمیشہ ڈردا اے، پر جیہڑا ⟨اپنا⟩ دل سخت کردا اے، اوہ برائی وِچ ڈِگدا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "3002978ecd6e910ccfe75da8f0c6fd1b46b9c502ad660470b28e43e3f2733d77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/28\/13-16.1792115225788.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "خوش"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "ڈردا اے"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "ומקשה",
+      "gloss": "پر سخت کردا اے"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "دل"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ڈِگدا اے"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "برائی وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:47:05.789260214Z",
+  "model": "glm-5.3"
+}

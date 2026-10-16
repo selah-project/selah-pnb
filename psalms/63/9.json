@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 63:9",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جان دے نیڑے اے، پنجابی وِچ جان ای بولی اے۔"
+    }
+  ],
+  "translation": "میری جان تَیں نال چمبڑی اے، تیرا سجّا ہتھ مینوں تھمّے ہویا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a6bd11b0433fd2e8ac46bc2ccb62e89be14c7c212bf14565ba135586b13f9937",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/63\/9-12.1792112756258.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "چمبڑی اے"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میری جان"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "تَیں نال"
+    },
+    {
+      "surface": "בי",
+      "gloss": "مینوں"
+    },
+    {
+      "surface": "תמכה",
+      "gloss": "تھمّے ہویا اے"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "تیرا سجّا ہتھ"
+    }
+  ],
+  "timestamp": "2026-10-16T01:05:56.259097928Z",
+  "model": "glm-5.3"
+}

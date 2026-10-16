@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "zechariah 8:20",
+  "book": "zechariah",
+  "lang": "pnb",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "עוד אשר دی ٹیڑھی بُنت ('ہور وی، جدوں…') پنجابی وِچ مکمل فقرہ منگدی اے — لفظ نشان دے کے چھڈیا گیا۔"
+    },
+    {
+      "kind": "mystery",
+      "subject": "ہور وی",
+      "rationale": "خبر دا مکمل کھلا MC فقرہ 8:21–23 وِچ ای وِسریگ — ایتھے ادھورا، ادھ کھلیا رکھیا گیا اے۔"
+    }
+  ],
+  "translation": "ایہو آکھدا اے یاہوہ تصواوت: ہور وی ⟨اوہ ویلہ اے، جدوں⟩ قوماں آؤن گیاں، تے وڈیاں شہراں دے وسنیک۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6008d542dbb234553308463f5ce6c412b014a422f93681c93fed88a8135da93c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/zechariah\/8\/17-20.1792111582804.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ایہو"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "آکھدا اے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "تصواوت"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ہور وی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨اوہ ویلہ اے، جدوں⟩"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "آؤن گیاں"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "قوماں"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "تے وسنیک"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شہراں دے"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "وڈیاں"
+    }
+  ],
+  "timestamp": "2026-10-16T00:46:22.805255503Z",
+  "model": "glm-5.3"
+}

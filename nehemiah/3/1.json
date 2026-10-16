@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 3:1",
+  "book": "nehemiah",
+  "lang": "pnb",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ہائی",
+      "rationale": "پنجابی وِچ הגדול نال 'ہائی' لگاؤنا ضروری اے"
+    },
+    {
+      "kind": "measurement",
+      "subject": "سَو برج",
+      "rationale": "مִגדל המֵאה — سو (اِکائی دی گنتی) ناں دا حصہ اے"
+    },
+    {
+      "kind": "alternative",
+      "subject": "پاک کیتا",
+      "rationale": "קדשוהו — 'پاک کیتا' جاں 'مخصوص کیتا'، وقفانوالی کاروائی دا مول"
+    }
+  ],
+  "translation": "تے ایلیاشیو ہائی کاہن، اوہدا وڈا، اُٹھیا تے اوہدے بھرا کاہناں نے مִںדھریاں دے دروازے ⟨את⟩ بنایا؛ اوہناں اوہدے نوں پاک کیتا تے اوہدے بوآ کھلوائے؛ تے سَو برج تک اوہناں ⟨את⟩ اوہدے نوں پاک کیتا، حَنانایل دے برج تک۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "58d85b9bbec9fa0effb6bf849852b28ee4c2088ad02f600908eeecbb369d97a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/nehemiah\/3\/1-4.1792119563751.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "اُٹھیا"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "ایلیاشیو"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "وڈا"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "تے اوہدے بھرا"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "ויבנו",
+      "gloss": "بنایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مִںدھریاں دا دروازہ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دروازہ"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "مִںدھریاں دا"
+    },
+    {
+      "surface": "המה",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "קדשוהו",
+      "gloss": "پاک کیتا"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "کھلوائے"
+    },
+    {
+      "surface": "דלתתיו",
+      "gloss": "اوہدے بوآ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تے … تک"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "برج"
+    },
+    {
+      "surface": "המאה",
+      "gloss": "سَو"
+    },
+    {
+      "surface": "קדשוהו",
+      "gloss": "پاک کیتا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "برج"
+    },
+    {
+      "surface": "חננאל",
+      "gloss": "حَنانایل"
+    }
+  ],
+  "timestamp": "2026-10-16T02:59:23.752556809Z",
+  "model": "glm-5.3"
+}

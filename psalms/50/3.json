@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 50:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "נשערה",
+      "rationale": "שׂער 'طوفان چلنا' دا ایہہ صیغہ صرف ایتھے اے — طوفان دا ساہ جھلبّنا۔"
+    },
+    {
+      "kind": "mystery",
+      "subject": "theophany",
+      "rationale": "ظہور دا منظر — اگّ تے طوفان نال ربّ دا آنے دا اعلان، پَر اوہ کِویں آوےگا ہنے نئیں دسیا۔"
+    }
+  ],
+  "translation": "ساڈا ایلوہیم آوےگا تے چُپ نہ رہےگا؛ اوہدے اگّے اگّ کھاوےگی، تے اوہدے دوآلے طوفان بُری طرح بھڑکےگی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "5b333b4986641e72bb7a769ca2765e7ff3ef82c51e3d22486fb9a306a4389c0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/50\/1-4.1792112593926.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבא",
+      "gloss": "آوےگا"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ساڈا ایلوہیم"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے نہ"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "چُپ رہےگا"
+    },
+    {
+      "surface": "אש",
+      "gloss": "اگّ"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "اوہدے اگّے"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "کھاوےگی"
+    },
+    {
+      "surface": "וסביביו",
+      "gloss": "تے اوہدے دوآلے"
+    },
+    {
+      "surface": "נשערה",
+      "gloss": "بھڑکےگی"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بُری طرح"
+    }
+  ],
+  "timestamp": "2026-10-16T01:03:13.927654099Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 79:11",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 79,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הותר",
+      "rationale": "הותר (ہوفعل ’رہن دتا جاوے’) اُتے مترجم ونڈے ہوئے نیں: ’رہن دے’ (وائیکلیٹ\/کے‌جے‌وی ’preserve’) یا ’چھٹی دے’ (جے‌پی‌ایس ’set free’)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "موت دے پتر",
+      "rationale": "בני תמותה موت نوں اک ماں وانگ دسدا اے — ’موت دے جُٹھے‘ دا مورت، بندے دا کردار نئیں"
+    }
+  ],
+  "translation": "قیدی دا کرلاہا تیرے سامھنے آوے؛ تیری باہاں دے وڈپن دے مطابق موت دے پتراں نوں ⟨بچا کے⟩ رہن دے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "edf39761c57cdfb835e9bdffc14709e5c682091683f7a2016cd8716bf8408884",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/79\/9-12.1792113157571.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "آوے"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "تیرے سامھنے"
+    },
+    {
+      "surface": "אנקת",
+      "gloss": "کرلاہا"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "قیدی دا"
+    },
+    {
+      "surface": "כגדל",
+      "gloss": "دے مطابق وڈپن"
+    },
+    {
+      "surface": "זרועך",
+      "gloss": "تیری باہاں"
+    },
+    {
+      "surface": "הותר",
+      "gloss": "رہن دے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "پتر"
+    },
+    {
+      "surface": "תמותה",
+      "gloss": "موت دے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:12:37.572474907Z",
+  "model": "glm-5.3"
+}

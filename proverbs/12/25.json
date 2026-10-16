@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 12:25",
+  "book": "proverbs",
+  "lang": "pnb",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "پر",
+      "rationale": "عبرانی وِچ واو نوں مخالفت دا پر لئی لیایا گیا"
+    },
+    {
+      "kind": "addition",
+      "subject": "اُسنوں",
+      "rationale": "پیشم swiftly ضمیر جو عبرانی فعل دی جڑ وِچ اے، پنجابی نوں وکھرا چاہیدی اے"
+    }
+  ],
+  "translation": "دل وِچ فکر بندے نوں دبا دیندا اے، پر اک چنگا بول اُسنوں خوش کر دیندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9136c9714744cef947660639869b61fd6356ef824be8fe041eb9c9a3cf58a2fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/12\/25-28.1792114636439.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דאגה",
+      "gloss": "فکر"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "دل وِچ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "ישחנה",
+      "gloss": "اُسنوں دبا دیندا اے"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "پر بول"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چنگا"
+    },
+    {
+      "surface": "ישמחנה",
+      "gloss": "اُسنوں خوش کر دیندا اے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:37:16.439821682Z",
+  "model": "glm-5.3"
+}

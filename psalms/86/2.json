@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 86:2",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 86,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "جان",
+      "rationale": "נפש ساہ\/جان-زور اے، دوا کوئی نہیں"
+    },
+    {
+      "kind": "crux",
+      "subject": "חסיד",
+      "rationale": "'خیسِد' — پرہیزگار (KJV) بمقابلہ تیرے تے مہربان (دوجا پڑھائی) — عبرانی وچ دونوں ممکن"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ایں⟩",
+      "rationale": "ענני copula نئیں، پنجابی ورنڈا منگدا اے"
+    },
+    {
+      "kind": "you",
+      "subject": "to یاہوہ",
+      "rationale": "سدھی اپیل، بندہ خود نوں نوکر آکھدا اے"
+    }
+  ],
+  "translation": "میری جان نوں رکھ، کیوں جو خیسِد ⟨بندہ⟩ اِی میں؛ اپݨے نوکر نوں بچا، تو ⟨ایں⟩ میںدا ایلوہیم، جو تیرے اُتے بھروسہ رکھدا ⟨اے⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9bf46ba0d669e77375ecc6311d1ed76a626361b83e9a0d9085bd67760988709b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/86\/1-4.1792113303895.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "رکھ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میری جان نوں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "خیسِد"
+    },
+    {
+      "surface": "אני",
+      "gloss": "اِی میں"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "بچا"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "اپݨے نوکر نوں"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "میںدا ایلوہیم"
+    },
+    {
+      "surface": "הבוטח",
+      "gloss": "بھروسہ رکھݨ والا"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تیرے اُتے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:15:03.896224487Z",
+  "model": "glm-5.3"
+}

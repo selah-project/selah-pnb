@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 7:3",
+  "book": "song-of-songs",
+  "lang": "pnb",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שררך",
+      "rationale": "שרר نابھ دی ڈوری\/چولی — 'نابھی' (KJV) بمقابلہ 'کمر\/دھڑ دا گھیرا' (کجھ مُڈھلے ترجمے)۔"
+    },
+    {
+      "kind": "substitution",
+      "subject": "کٹورہ",
+      "rationale": "אגן پیالہ اے، 'کٹورہ' اوہو شکل رکھدا اے — چانن پوݨ والا کٹورا۔"
+    }
+  ],
+  "translation": "تیری نابھی گول کٹورہ اے، جیہدے وِچ رَلی ہوئی شراب دی کیمی نہ ہووے؛ تیرا پیٹ کنک دی ڈھیر اے، کنول دیاں پھلاں نال گھریا ہویا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "64ce6cd2d6a1f5e11738c4c9da89684b1d7739574dcc86367b122a1426b72231",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/song-of-songs\/7\/1-4.1792116882313.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שררך",
+      "gloss": "تیری نابھی"
+    },
+    {
+      "surface": "אגן",
+      "gloss": "کٹورہ"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "گول"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "ہووے ⟨کمی⟩"
+    },
+    {
+      "surface": "המזג",
+      "gloss": "رَلی ہوئی شراب"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "تیرا پیٹ"
+    },
+    {
+      "surface": "ערمת",
+      "gloss": "ڈھیر"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "کنک دی"
+    },
+    {
+      "surface": "סוגה",
+      "gloss": "گھریا ہویا"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "کنول دیاں پھلاں نال"
+    }
+  ],
+  "timestamp": "2026-10-16T02:14:42.314140528Z",
+  "model": "glm-5.3"
+}

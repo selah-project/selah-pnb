@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 45:22",
+  "book": "ezekiel",
+  "lang": "pnb",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "سردار",
+      "rationale": "הנשיא 'اُچا ہویا' — بندے دا عہدہ، ترجمہ کیتا"
+    },
+    {
+      "kind": "addition",
+      "subject": "قربانی",
+      "rationale": "חטאת نال 'دی قربانی' — اِک عبرانی لفظ لئی پنجابی دو لفظ"
+    }
+  ],
+  "translation": "تے اُس دن سردار اپنے واسطے تے سارے دیس دی قوم دے واسطے اِک گناہ دی قربانی دا بیل کرے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "71fef6124124922a471a36a195be2d461eb7ba14c115d53cfe54d33f52cb6058",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/45\/21-24.1792110266885.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "تے کرے"
+    },
+    {
+      "surface": "הנשיא",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اُس"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "اپنے واسطے"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "تے واسطے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "دیس دی"
+    },
+    {
+      "surface": "פר",
+      "gloss": "بیل"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "گناہ دی قربانی"
+    }
+  ],
+  "timestamp": "2026-10-16T00:24:26.886289922Z",
+  "model": "glm-5.3"
+}

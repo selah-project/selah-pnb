@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 89:9",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اَے",
+      "rationale": "پنجابی پکار لئی اے چاہندی اے، عبرانی وِچ نئیں"
+    },
+    {
+      "kind": "crux",
+      "subject": "חסין יה",
+      "rationale": "کجھ ترجمے 'طاقتور یاہ' نوں یاہوہ نال جوڑدے نیں، کجھ وکھرا سخط منگدے نیں"
+    }
+  ],
+  "translation": "اَے یاہوہ تصواوت دے ایلوہیم، کون اے جو تیرے ورگا اے، اَے طاقتور یاہ؟ تیری امانت تیرے دوآلے اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "946c26a8e3e0ef41ad038276dce8d054dd3cefb110f3bc993fdc296222af6faa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/89\/9-12.1792113241406.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "دے ایلوہیم"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "تصواوت"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "تیرے ورگا"
+    },
+    {
+      "surface": "חסין",
+      "gloss": "طاقتور"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاہ"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "تے تیری امانت"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "تیرے دوآلے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:14:01.406865615Z",
+  "model": "glm-5.3"
+}

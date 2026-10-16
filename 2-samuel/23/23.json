@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 23:23",
+  "book": "2-samuel",
+  "lang": "pnb",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משמעתו",
+      "rationale": "'نگران\/محافظ دستہ' بمقابلہ 'مشورتی Council' — KJV 'guard'، جنیوا 'counsell'۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨سی⟩",
+      "rationale": "عبرانی وِچ copula نئیں۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "تیہاں \/ تِن",
+      "rationale": "گنتری — درجے دا فرق دسن والے عدد۔"
+    }
+  ],
+  "translation": "تیہاں وِچوں اوہ مان والا ⟨سی⟩، پر تِنّاں تک نئیں اپڑیا؛ تے داوِد نے اوہنوں اپنے نگراناں اُتے لا دتا۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "4221e281ecb62debe506b35d6e2f30235947221f30f6474d240e10bcd137e941",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-samuel\/23\/21-24.1792103843413.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "وِچوں"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "تیہاں"
+    },
+    {
+      "surface": "נכבד",
+      "gloss": "مان والا"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "تے تک"
+    },
+    {
+      "surface": "השלשה",
+      "gloss": "تِنّاں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "בא",
+      "gloss": "اپڑیا"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "تے لا دتا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد نے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "משמעתו",
+      "gloss": "اپنے نگراناں"
+    }
+  ],
+  "timestamp": "2026-10-15T22:37:23.414393008Z",
+  "model": "glm-5.3"
+}

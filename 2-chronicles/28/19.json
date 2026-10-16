@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 28:19",
+  "book": "2-chronicles",
+  "lang": "pnb",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מלך ישראל",
+      "rationale": "عبرانی لفظی 'یِسرائیل دا بادشاہ' پڑھدا اے حالانکہ ااخاز یہوداہ دا بادشاہ سی — کجھ مترجم 'یہوداہ' پڑھدے نیں، متن رہن دِتا"
+    },
+    {
+      "kind": "crux",
+      "subject": "הפריע",
+      "rationale": "'بنھ کھولھی\/لاگ بندی ہٹائی' — 'عریاں کیتا' (KJV) یا 'بےلگام ہوگیا' (JPS) وچ مشہور اختلاف"
+    },
+    {
+      "kind": "elision",
+      "subject": "מעל",
+      "rationale": "اطلاعی مفعول — 'وڈا بےوفائی' وِچ 'وڈا' ہور کامل لئی جوڑیا گیا"
+    }
+  ],
+  "translation": "کیونجے یاہوہ نے ⟨את⟩ یہوداہ نوں جھکا دِتا سی، ااخاز یِسرائیل دے بادشاہ کارن، کیونجے اوہنے یہوداہ وِچ آزاد بنھ کھولھی سی تے یاہوہ دے خلاف وڈا بےوفائی کیتی سی۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "73d22c05fe5e9f0669888074dafbc64fc05d5c2f9558be243587cbc8fb7d1e2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/28\/17-20.1792122552209.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "הכניע",
+      "gloss": "جھکا دِتا سی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یہوداہ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ نوں"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "کارن"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "ااخاز"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونجے"
+    },
+    {
+      "surface": "הפריע",
+      "gloss": "بنھ کھولھی سی"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "یہوداہ وِچ"
+    },
+    {
+      "surface": "ומעול",
+      "gloss": "تے بےوفائی کیتی سی"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "بےوفائی"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "یاہوہ دے خلاف"
+    }
+  ],
+  "timestamp": "2026-10-16T03:49:12.210872445Z",
+  "model": "glm-5.3"
+}

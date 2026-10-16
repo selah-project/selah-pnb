@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 40:5",
+  "book": "exodus",
+  "lang": "pnb",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "صندوق",
+      "rationale": "ארון اِک سَندُوق اے، 'عہد دا صندوق' ریت دا جوڑ اے؛ ایتھے 'گواہی دا صندوق'۔"
+    },
+    {
+      "kind": "addition",
+      "subject": "توں اگے",
+      "rationale": "לפני دا ڈھانچہ پنجابی وِچ 'توں اگے' نال پورا ہوندا اے۔"
+    },
+    {
+      "kind": "you",
+      "subject": "موسیٰ نوں",
+      "rationale": "حکم سِدھا موسیٰ نوں اے — ہور آیتاں دے نال۔"
+    },
+    {
+      "kind": "measurement",
+      "subject": "مِزبح",
+      "rationale": "مقدس سامان دی ترتیب دا حکم — تھاں تھاں دَسیا گیا۔"
+    }
+  ],
+  "translation": "تے تُوں ⟨את⟩ خوشبو دا سوہنے مِزبح نوں گواہی دے صندوق توں اگے رکھیں، تے تُوں مسکن دے دَروازے دا پَردہ لائیں۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6972e9038cb8b99c6e11b2fc1818f1877ae0f15374896d6007bc4b7b2ae62065",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/40\/5-8.1792097325306.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "تے تُوں رکھیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خوشبو دا سوہنے مِزبح"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "مِزبح"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "سوہنے"
+    },
+    {
+      "surface": "לקטרת",
+      "gloss": "خوشبو دا"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "توں اگے"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "گواہی دے"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "تے تُوں لائیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پَردہ"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "پَردہ"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "دَروازے دا"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "مسکن"
+    }
+  ],
+  "timestamp": "2026-10-15T20:48:45.307139794Z",
+  "model": "glm-5.3"
+}

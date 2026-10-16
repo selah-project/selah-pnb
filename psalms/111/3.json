@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 111:3",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 111,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "copula",
+      "rationale": "عبرانی وِچ کوئی جوڑ نئیں — 'جلال تے شوکت اے' دا 'اے' پنجابی نے پایا"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הוד והדר",
+      "rationale": "ہ-ו-د \/ ה-ד-ر — اکو جیہے اکھراں دی گونج، پنجابی وِچ وسر گئی"
+    }
+  ],
+  "translation": "جلال تے شوکت اے ⟨اوہدا⟩ کم، تے اوہدی صداقت ہمیشہ لئی کھلوندی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "214c851a847b085d4938cf9420e56880088b55bcd38b91a349e9806e26cac0fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/111\/1-4.1792113746894.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "تے شوکت"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "اوہدا کم"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "تے اوہدی صداقت"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "کھلوندی اے"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ہمیشہ لئی"
+    }
+  ],
+  "timestamp": "2026-10-16T01:22:26.895124869Z",
+  "model": "glm-5.3"
+}

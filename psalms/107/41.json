@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 107:41",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "اوہ",
+      "rationale": "عبرانی وِچ کرن والا دا ناں اگلیاں آیتاں توں آندا اے، پنجابی نوں اوہ منگدا اے"
+    },
+    {
+      "kind": "substitution",
+      "subject": "مصیبت\/دُکھ",
+      "rationale": "מעוני دا مُڈھلا مطلب جُکائو\/دباؤ اے"
+    }
+  ],
+  "translation": "تے اوہ غریب نوں اوہدے دُکھاں توں اُچا کر دیندا اے تے ٹبراں نوں اِژڈی وانگوں بنا دیندا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "a21e665bc73bc95b50f307edc276b79471371200406a43bb2a3e2c7db17a02f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/107\/41-43.1792113654036.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישגב",
+      "gloss": "اُچا کر دیندا اے"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "اوہدے دُکھاں توں"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "بنا دیندا اے"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "اِژڈی وانگوں"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "ٹبراں نوں"
+    }
+  ],
+  "timestamp": "2026-10-16T01:20:54.037315182Z",
+  "model": "glm-5.3"
+}

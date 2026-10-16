@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 24:7",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "دروازےآں نوں",
+      "rationale": "پرچے دروازیاں نوں سدیا جاندیاں نیں — سدا دی جھولی وِچ بادشاہ دے آؤن دی تیاری۔"
+    },
+    {
+      "kind": "invitation",
+      "subject": "اُچے کرو",
+      "rationale": "حکم نال دروازے کھولن نوں آکھیا گیا اے۔"
+    }
+  ],
+  "translation": "اُچے کرو اپنے سر، اے دروازےو، تے اُچے کیتے جاؤ، اے سدا دے بوہےو؛ تے آوے گا جلال دا بادشاہ۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6f551de92922aac10d996a88c62ddc366ac90a7bf740575a5aa3540fdeac51f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/24\/5-8.1792112201598.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "اُچے کرو"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "اے دروازےو"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "اپنے سر"
+    },
+    {
+      "surface": "והנשאו",
+      "gloss": "تے اُچے کیتے جاؤ"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "بوہےو"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "سدا دے"
+    },
+    {
+      "surface": "והנשאו",
+      "gloss": "—"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "—"
+    },
+    {
+      "surface": "ועולם",
+      "gloss": "—"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "تے آوے گا"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "جلال دا"
+    }
+  ],
+  "timestamp": "2026-10-16T00:56:41.599669135Z",
+  "model": "glm-5.3"
+}

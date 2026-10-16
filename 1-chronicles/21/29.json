@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 21:29",
+  "book": "1-chronicles",
+  "lang": "pnb",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "سی",
+      "rationale": "عبرانی وِچ کوئی فعل نئیں؛ محمولی جملے لئی پنجابی ⟨سی⟩ منگدا اے"
+    },
+    {
+      "kind": "elision",
+      "subject": "עשה سی",
+      "rationale": "ماضی مکمل دا معاون فعل پنجابی وِچ شامل کیتا گیا"
+    }
+  ],
+  "translation": "تے یاہوہ دا مسکن، جیہڑا موشے نے بیابان وِچ بنایا سی، تے سُڑھاؤنی قربانی دی قربانگاہ اُس ویلے اُچی تھاں تے، گِبعون وِچ ⟨سی⟩۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "6f0077f9b1066bd85709a0b803cc34f21569a4eb57baef8bc5629e1685b6726c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/21\/29-30.1792120926011.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומשכן",
+      "gloss": "تے مسکن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ دا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جیہڑا"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بنایا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے نے"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "بیابان وِچ"
+    },
+    {
+      "surface": "ומזבח",
+      "gloss": "تے قربانگاہ"
+    },
+    {
+      "surface": "העולה",
+      "gloss": "سُڑھاؤنی قربانی دی"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "اُس ویلے"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "בבמה",
+      "gloss": "اُچی تھاں تے"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "گِبعون وِچ"
+    }
+  ],
+  "timestamp": "2026-10-16T03:22:06.012238774Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 4:2",
+  "book": "hosea",
+  "lang": "pnb",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דמים בדמים",
+      "rationale": "لفظاں دی دوہرائی — لہو لہو نال چُھویا، خون دا سِلسلہ"
+    },
+    {
+      "kind": "crux",
+      "subject": "פרצו",
+      "rationale": "'پھوٹ چُکے نیں' (باہر ودھ گئے) بمقابلہ 'ودھ گئے' — کم کیتے پھیلدے جاندے نیں"
+    }
+  ],
+  "translation": "قسم کھاونا تے جھوٹھ بولنا، تے قتل کرنا، تے چوری کرنا، تے زنا کرنا — اوہ پھوٹ چُکے نیں، تے لہو نال لہو رلیا اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "34aac181ae38907c2b891af286b1ec679d93f45652b14bc2fd76eaef144fb98a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/hosea\/4\/1-4.1792110480502.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "قسم کھاونا"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "تے جھوٹھ بولنا"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "تے قتل کرنا"
+    },
+    {
+      "surface": "וגנב",
+      "gloss": "تے چوری کرنا"
+    },
+    {
+      "surface": "ונאף",
+      "gloss": "تے زنا کرنا"
+    },
+    {
+      "surface": "פרצו",
+      "gloss": "اوہ پھوٹ چُکے نیں"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "تے لہو"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "نال لہو"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "رلیا اے"
+    }
+  ],
+  "timestamp": "2026-10-16T00:28:00.503084815Z",
+  "model": "glm-5.3"
+}

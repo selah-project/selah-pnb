@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 64:10",
+  "book": "psalms",
+  "lang": "pnb",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "هשכילו",
+      "rationale": "'سمجھ لینا' — اصل تصویر 'ہوشیار\/عقل مند بننا' اے"
+    }
+  ],
+  "translation": "تے سارے بندے ڈر جان گے، تے ایلوہیم دا کم اگاڑن گے، تے اوہدا کیتا سمجھ لے جان گے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "97fdc78de7ab084598fe1800a3f8ab85cc106f2305a810c8115912a8f0935e30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/64\/9-11.1792112740347.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "ڈر جان گے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "بندے"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "اگاڑن گے"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "کم"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "ומעשהו",
+      "gloss": "تے اوہدا کیتا"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "سمجھ لے جان گے"
+    }
+  ],
+  "timestamp": "2026-10-16T01:05:40.347971153Z",
+  "model": "glm-5.3"
+}

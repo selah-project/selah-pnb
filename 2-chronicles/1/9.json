@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 1:9",
+  "book": "2-chronicles",
+  "lang": "pnb",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ہووے",
+      "rationale": "یאמן دی صیغہ-امر بھاوَ لئی پنجابی فعل چاہیدا، عبرانی وچ صرف فعل اے"
+    },
+    {
+      "kind": "you",
+      "subject": "سُلیمان دا یاہوہ نوں.address",
+      "rationale": "ایہہ دعا سدھی یاہوہ ایلوہیم ولّ اے"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עפר\/הארץ",
+      "rationale": "مِٹی تے دھرتی دی متراک گنتی-تصویر، پیدائش 13:16 دی گونج"
+    }
+  ],
+  "translation": "ہنے یاہوہ ایلوہیم، تیرا بچن داوِد میرے پیو نال پکا ہووے، کیوں جو تُوں مینوں اک قوم اتے بادشاہ بنایا اے جیہڑی دھرتی دی مِٹی وانگ وڈی اے۔",
+  "provenance": {
+    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
+    "user-sha256": "9f2ee98428f53a399ea6517003e525ca424e37bc6cd70d65cd54d3196f258497",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/1\/9-12.1792121480876.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "ہنے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہوہ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ایلوہیم"
+    },
+    {
+      "surface": "יאמן",
+      "gloss": "پکا ہووے"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "تیرا بچن"
+    },
+    {
+      "surface": "עם",
+      "gloss": "نال"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "میرے پیو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیوں جو"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُوں"
+    },
+    {
+      "surface": "המלכתני",
+      "gloss": "مینوں بادشاہ بنایا"
+    },
+    {
+      "surface": "על",
+      "gloss": "اتے"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "רב",
+      "gloss": "وڈی"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "مِٹی وانگ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "دھرتی دی"
+    }
+  ],
+  "timestamp": "2026-10-16T03:31:20.877505109Z",
+  "model": "glm-5.3"
+}
