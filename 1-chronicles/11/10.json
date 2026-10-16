@@ -26,7 +26,7 @@
   "provenance": {
     "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
     "user-sha256": "1354ac7c1c1430906e4b2bc7ab8401232cc4fa9143bf634df1cad654c1633e12",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/11\/9-12.1792120578005.json",
+    "prompt-file": ".selah/sources/translations/prompts/pnb/1-chronicles/11/9-12.1792120578005.json",
     "code": "9525a035d-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -87,7 +87,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "یہوہ"
+      "gloss": "یاہوہ"
     },
     {
       "surface": "על",
@@ -99,5 +99,11 @@
     }
   ],
   "timestamp": "2026-10-16T03:16:18.008163658Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "pnb_fold": {
+    "date": "2026-10-15",
+    "folds": {
+      "name": 1
+    }
+  }
 }

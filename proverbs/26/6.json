@@ -9,7 +9,7 @@
     {
       "kind": "crux",
       "subject": "חמס",
-      "rationale": "ਜ਼ੁਲਮ\/ਹਿੰਸਾ\/ਨੁਕਸਾਨ — 'ਨੁਕਸਾਨ ਪੀਂਦਾ ਹੈ' ਬਨਾਮ 'ਹਿੰਸਾ ਪੀਂਦਾ ਹੈ' ਦਾ ਮਤਭੇਦ।"
+      "rationale": "ਜ਼ੁਲਮ/ਹਿੰਸਾ/ਨੁਕਸਾਨ — 'ਨੁਕਸਾਨ ਪੀਂਦਾ ਹੈ' ਬਨਾਮ 'ਹਿੰਸਾ ਪੀਂਦਾ ਹੈ' ਦਾ ਮਤਭੇਦ।"
     },
     {
       "kind": "idiom",
@@ -17,11 +17,11 @@
       "rationale": "ਮੇਲ ਦਾ ਕੰਮ ਨਹੀਂ ਕਰਦਾ — ਲੜੀ ਬਿੰਬ, ਸਿੱਧਾ ਅਨੁਵਾਦ ਰੱਖਿਆ।"
     }
   ],
-  "translation": "ਪੈਰ ਕੱਟਣ ਵਾਲਾ ਤੇ ਜ਼ੁਲਮ ਪੀਣ ਵਾਲਾ — ਉਹ ਜੋ ਮੂਰਖ ਦੇ ਹੱਥ ਗੱਲਾਂ ਭੇਜਦਾ ਹੈ।",
+  "translation": "ਪੈਰ ਕੱਟਣ ਵਾਲਾ ਤੇ ਜ਼ੁਲਮ ਪੀਣ ਵਾਲਾ — ਉਹ ਜੋ ਮੂਰਖ ਦੇ ਹੱਥ ਗੱਲਾਂ ਭੇਜਦਾ ਹੈ۔",
   "provenance": {
     "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
     "user-sha256": "75d48ab1bd013f5bd106e5b070039e47079f81c2deef9c24b655f1c01f12447b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/26\/5-8.1792115131569.json",
+    "prompt-file": ".selah/sources/translations/prompts/pnb/proverbs/26/5-8.1792115131569.json",
     "code": "9525a035d-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -62,5 +62,11 @@
     }
   ],
   "timestamp": "2026-10-16T01:45:31.570334690Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "pnb_fold": {
+    "date": "2026-10-15",
+    "folds": {
+      "।→۔": 1
+    }
+  }
 }

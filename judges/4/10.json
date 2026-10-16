@@ -17,11 +17,11 @@
       "rationale": "فوج دی گنتی"
     }
   ],
-  "translation": "تے بیرق نے زبولون نوں ⟨את⟩ تے نفتالی نوں ⟨ואת⟩ قادِشہ وِچ سَݙیا، تے اوہ اوہدے پیراں نال دس ہزار بندیاں سمیت چڑھیا، تے دبورہ اوہدے نال چڑھی۔",
+  "translation": "تے بیرق نے زبولون نوں ⟨את⟩ تے نفتالی نوں ⟨ואת⟩ قادِشہ وِچ سَڈیا، تے اوہ اوہدے پیراں نال دس ہزار بندیاں سمیت چڑھیا، تے دبورہ اوہدے نال چڑھی۔",
   "provenance": {
     "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
     "user-sha256": "39128d9f5cd1ea89fc00d6ea3be1ac112c3edf8892b3a7efddd80eec11265859",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/judges\/4\/9-12.1792101475898.json",
+    "prompt-file": ".selah/sources/translations/prompts/pnb/judges/4/9-12.1792101475898.json",
     "code": "9525a035d-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -30,7 +30,7 @@
   "tokens": [
     {
       "surface": "ויזעק",
-      "gloss": "تے سَݙیا"
+      "gloss": "تے سَڈیا"
     },
     {
       "surface": "ברק",
@@ -92,5 +92,11 @@
     }
   ],
   "timestamp": "2026-10-15T21:57:55.899077719Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "pnb_fold": {
+    "date": "2026-10-15",
+    "folds": {
+      "ݙ→ڈ": 2
+    }
+  }
 }

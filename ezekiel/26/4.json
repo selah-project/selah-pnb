@@ -17,11 +17,11 @@
       "rationale": "'دھپ وِچ ننگا پتھر' — دھوڑ دھک کے چمکدا چٹان، ذرا (26:14) دیاں جالاں دی تیاری"
     }
   ],
-  "translation": "تے اوہ صور دیاں کندھاں بگاڑݙݙن تے اودے برج ڈھاݙݙن؛ تے مَیں اودی دھوڑ اودے توں بُراہواں گا، تے ⟨את⟩ اُسے ننگے چمکدے پتھر بناواں گا۔",
+  "translation": "تے اوہ صور دیاں کندھاں بگاڑڈڈن تے اودے برج ڈھاڈڈن؛ تے مَیں اودی دھوڑ اودے توں بُراہواں گا، تے ⟨את⟩ اُسے ننگے چمکدے پتھر بناواں گا۔",
   "provenance": {
     "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
     "user-sha256": "2ed03c3d1372b6b90791a95442a7e5b1a28d06af44da40ab788f32ec74b84394",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/26\/1-4.1792109701469.json",
+    "prompt-file": ".selah/sources/translations/prompts/pnb/ezekiel/26/1-4.1792109701469.json",
     "code": "9525a035d-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -30,7 +30,7 @@
   "tokens": [
     {
       "surface": "ושחתו",
-      "gloss": "تے اوہ بگاڑݙݙن"
+      "gloss": "تے اوہ بگاڑڈڈن"
     },
     {
       "surface": "חומות",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "והרסו",
-      "gloss": "تے ڈھاݙݙن"
+      "gloss": "تے ڈھاڈڈن"
     },
     {
       "surface": "מגדליה",
@@ -79,5 +79,11 @@
     }
   ],
   "timestamp": "2026-10-16T00:15:01.471739352Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "pnb_fold": {
+    "date": "2026-10-15",
+    "folds": {
+      "ݙ→ڈ": 8
+    }
+  }
 }

@@ -9,7 +9,7 @@
     {
       "kind": "addition",
       "subject": "is",
-      "rationale": "ਹੈ — ਇਬਰਾਨੀ ਦਾ ਕੋਈ copula ਨਹੀਂ, ਪੰਜਾਬੀ ਵਿੱਚ 'ਹੈ\/ਨੇ' ਚਾਹੀਦੇ ਹਨ"
+      "rationale": "ਹੈ — ਇਬਰਾਨੀ ਦਾ ਕੋਈ copula ਨਹੀਂ, ਪੰਜਾਬੀ ਵਿੱਚ 'ਹੈ/ਨੇ' ਚਾਹੀਦੇ ਹਨ"
     },
     {
       "kind": "wordplay",
@@ -17,11 +17,11 @@
       "rationale": "ਪੁੱਤਰ-ਦੇ-ਪੁੱਤਰ ਦੀ ਦੁਹਰਾਉਣੀ — ਸ਼ਬਦ ਦੀ ਇਕਾਈ ਹੀ ਪੋਤੇ ਦਾ ਚਿੱਤਰ ਹੈ, ਪੰਜਾਬੀ 'ਪੁੱਤਰਾਂ ਦੇ ਪੁੱਤਰ' ਵਿੱਚ ਸਾਂਭ ਲਈ"
     }
   ],
-  "translation": "پُتراں دے پُتر بوڑھیاں دا تاج نیں، تے پُتراں دا ماہ اوہناں دے پیو نیں।",
+  "translation": "پُتراں دے پُتر بوڑھیاں دا تاج نیں، تے پُتراں دا ماہ اوہناں دے پیو نیں۔",
   "provenance": {
     "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
     "user-sha256": "7a87d983accc2290c15828830f664af899b684e8e6921402010114f4e44a659f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/17\/5-8.1792114770570.json",
+    "prompt-file": ".selah/sources/translations/prompts/pnb/proverbs/17/5-8.1792114770570.json",
     "code": "9525a035d-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -58,5 +58,11 @@
     }
   ],
   "timestamp": "2026-10-16T01:39:30.571309087Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "pnb_fold": {
+    "date": "2026-10-15",
+    "folds": {
+      "।→۔": 1
+    }
+  }
 }

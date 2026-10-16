@@ -17,11 +17,11 @@
       "rationale": "پنجابی وِچ 'ݙرݨ والا' دا مفعول چاہیدا سی، عبرانی وِچ صفت جُڑی اے"
     }
   ],
-  "translation": "چنگا اے جو تُو ایہنوں پھڑ رکھیں، تے اودے توں وی اپنا ہتھ نہ چھڈیں — کیونکہ ایلوہیم نوں ݙرݨ والا سبھناں وِچوں نِکلیگا۔",
+  "translation": "چنگا اے جو تُو ایہنوں پھڑ رکھیں، تے اودے توں وی اپنا ہتھ نہ چھڈیں — کیونکہ ایلوہیم نوں ڈرݨ والا سبھناں وِچوں نِکلیگا۔",
   "provenance": {
     "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
     "user-sha256": "2557af873b79a113d2c0b5b4a800dd0c24aaa3eba285baa3b813dd49599827d7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ecclesiastes\/7\/17-20.1792117597145.json",
+    "prompt-file": ".selah/sources/translations/prompts/pnb/ecclesiastes/7/17-20.1792117597145.json",
     "code": "9525a035d-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -75,7 +75,7 @@
     },
     {
       "surface": "ירא",
-      "gloss": "ݙرݨ والا"
+      "gloss": "ڈرݨ والا"
     },
     {
       "surface": "אלהים",
@@ -96,5 +96,11 @@
     }
   ],
   "timestamp": "2026-10-16T02:26:37.146443782Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "pnb_fold": {
+    "date": "2026-10-15",
+    "folds": {
+      "ݙ→ڈ": 2
+    }
+  }
 }

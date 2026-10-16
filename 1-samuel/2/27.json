@@ -9,7 +9,7 @@
     {
       "kind": "crux",
       "subject": "לבית פרעה",
-      "rationale": "literal 'to the house of Pharaoh'; JPS\/ASV render 'in bondage to Pharaoh's house', a supplied interpretation."
+      "rationale": "literal 'to the house of Pharaoh'; JPS/ASV render 'in bondage to Pharaoh's house', a supplied interpretation."
     },
     {
       "kind": "addition",
@@ -26,7 +26,7 @@
   "provenance": {
     "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
     "user-sha256": "4715785d3e8b4e896664cbf2250500a2dc7aff8f309b11bc1824431f7d31d106",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/2\/25-28.1792102202440.json",
+    "prompt-file": ".selah/sources/translations/prompts/pnb/1-samuel/2/25-28.1792102202440.json",
     "code": "9525a035d-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -71,7 +71,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "یاہוה"
+      "gloss": "یاہوہ"
     },
     {
       "surface": "הנגלה",
@@ -111,5 +111,11 @@
     }
   ],
   "timestamp": "2026-10-15T22:10:02.441124104Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "pnb_fold": {
+    "date": "2026-10-15",
+    "folds": {
+      "name": 1
+    }
+  }
 }

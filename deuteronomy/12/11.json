@@ -8,7 +8,7 @@
   "notes": [
     {
       "kind": "wordplay",
-      "subject": "שם\/שמה",
+      "subject": "שם/שמה",
       "rationale": "اوتھے…اوتھے دی دوہرائی، عبرانی وچ 'اوتھے' دو واری وکھرا جمع اے۔"
     }
   ],
@@ -16,7 +16,7 @@
   "provenance": {
     "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
     "user-sha256": "2ec8a58b1ab553fa978a28b513715f6ad7cd33f8563c1a1b8ad4f81354d696b1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/12\/9-12.1792099997887.json",
+    "prompt-file": ".selah/sources/translations/prompts/pnb/deuteronomy/12/9-12.1792099997887.json",
     "code": "9525a035d-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "یاہוה"
+      "gloss": "یاہوہ"
     },
     {
       "surface": "אלהיכם",
@@ -143,5 +143,11 @@
     }
   ],
   "timestamp": "2026-10-15T21:33:17.888261983Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "pnb_fold": {
+    "date": "2026-10-15",
+    "folds": {
+      "name": 1
+    }
+  }
 }

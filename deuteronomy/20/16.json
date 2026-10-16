@@ -9,7 +9,7 @@
     {
       "kind": "substitution",
       "subject": "نשמה",
-      "rationale": "נשמה ساہ\/پھُوک اے — 'ہر ساہ لیندا' سِدھا عبرانی件的 چِتر اے"
+      "rationale": "נשמה ساہ/پھُوک اے — 'ہر ساہ لیندا' سِدھا عبرانی件的 چِتر اے"
     },
     {
       "kind": "you",
@@ -21,7 +21,7 @@
   "provenance": {
     "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
     "user-sha256": "c2e1e8305639ea2c69b7e74fe3040e870c42d0f6b44b0307f94c3061bfff6c8c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/20\/13-16.1792100133533.json",
+    "prompt-file": ".selah/sources/translations/prompts/pnb/deuteronomy/20/13-16.1792100133533.json",
     "code": "9525a035d-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "یاهوه"
+      "gloss": "یاہوہ"
     },
     {
       "surface": "אלהיך",
@@ -86,5 +86,11 @@
     }
   ],
   "timestamp": "2026-10-15T21:35:33.534326782Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "pnb_fold": {
+    "date": "2026-10-15",
+    "folds": {
+      "name": 1
+    }
+  }
 }
