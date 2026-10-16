@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "pnb",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨اے⟩ \/ ⟨سن⟩",
-      "rationale": "پنجابی نوں جملے لئی copula چاہیدی اے، عبرانی وِچ نئیں"
-    },
-    {
-      "kind": "elision",
-      "subject": "בבאר שבע",
-      "rationale": "دو ٹوکن اِک تھاں دے ناں 'بیر-شیبّا' بندے نیں، شیبّا وکھرا ترجمہ نئیں ہوندا"
-    }
-  ],
-  "translation": "تے اوہدے پہلوں پتر دا ناں یوایل ⟨اے⟩، تے اوہدے دوجے دا ناں ابیاہ ⟨اے⟩؛ اوہ بیر-شیبّا وِچ ججّ ⟨سن⟩۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "d1ec159518378571bd01164a52afac388618af46ba725b2458b1ed4b7bc9b6dc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/8\/1-4.1792102251234.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "تے اُس دے پہلے جمے پُتر دا ناں یوایل سی، تے دوجے دا ناں اویاہ سی، اوہ بیر شَبع وِچ منصف سن ۔",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "تے ⟨سن⟩"
+      "gloss": "تے ہویا"
     },
     {
       "surface": "שם",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "בנו",
-      "gloss": "اوہدے پتر دا"
+      "gloss": "اُس دے پُتر"
     },
     {
       "surface": "הבכור",
-      "gloss": "پہلوں"
+      "gloss": "پہلا جمے"
     },
     {
       "surface": "יואל",
@@ -54,25 +33,25 @@
     },
     {
       "surface": "משנהו",
-      "gloss": "اوہدے دوجے"
+      "gloss": "اُس دا دوجا"
     },
     {
       "surface": "אביה",
-      "gloss": "ابیاہ"
+      "gloss": "اویاہ"
     },
     {
       "surface": "שפטים",
-      "gloss": "ججّ"
+      "gloss": "منصف"
     },
     {
       "surface": "בבאר",
-      "gloss": "بیر-شیبّا وِچ"
+      "gloss": "بیر"
     },
     {
       "surface": "שבע",
-      "gloss": ""
+      "gloss": "شَبع"
     }
   ],
-  "timestamp": "2026-10-15T22:10:51.235061989Z",
+  "timestamp": "2026-10-16T20:57:02.251422849Z",
   "model": "glm-5.3"
 }

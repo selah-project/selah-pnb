@@ -5,36 +5,15 @@
   "book": "leviticus",
   "lang": "pnb",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "سن",
-      "rationale": "پنجابی ماضی لئی سہایوگ، عبرانی وِچ صرف فعل اے"
-    },
-    {
-      "kind": "substitution",
-      "subject": "جائداد دے مالک وجوں",
-      "rationale": "עבד ایتھے یاہوہ دے بندے وجوں — ”غلام” شکل رکھی، مالک دا سلسلہ سیاق توں"
-    }
-  ],
-  "translation": "کیونکہ اوہ میرے غلام نیں، جہڑے میں ⟨את⟩ اوہناں نوں مِتصرایم دے دیس توں کڈھے سن؛ اوہ غلام دی ویچ نال نئیں ویچے جاڻ گے۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "0cbf453f429bb9c268be295e009ff9c12a8f20e278a7b5816376636f9b04e5c2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/25\/41-44.1792098084590.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "کیوں جو اوہ میرے غلام نیں، جنہاں میں ⟨את⟩ اِنہاں نوں مِتصرایم دی زمین توں کڈھیا؛ اوہ غلاماں دی طراں ویچے نئیں جانے، غلام دی ویروی نال۔",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "کیونکہ"
+      "gloss": "کیوں جو"
     },
     {
       "surface": "עבדי",
-      "gloss": "میرے غلام"
+      "gloss": "میرے غلام نیں"
     },
     {
       "surface": "הם",
@@ -42,20 +21,20 @@
     },
     {
       "surface": "אשר",
-      "gloss": "جہڑے"
+      "gloss": "جنہاں"
     },
     {
       "surface": "הוצאתי",
-      "gloss": "میں کڈھے سن"
+      "gloss": "میں کڈھیا"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "اوہناں نوں"
+      "marks": "اِنہاں نوں"
     },
     {
       "surface": "מארץ",
-      "gloss": "دیس توں"
+      "gloss": "زمین توں"
     },
     {
       "surface": "מצרים",
@@ -67,17 +46,17 @@
     },
     {
       "surface": "ימכרו",
-      "gloss": "ویچے جاڻ گے"
+      "gloss": "ویچے جانے"
     },
     {
       "surface": "ממכרת",
-      "gloss": "دی ویچ نال"
+      "gloss": "ویروی نال"
     },
     {
       "surface": "עבד",
-      "gloss": "غلام"
+      "gloss": "غلام دی"
     }
   ],
-  "timestamp": "2026-10-15T21:01:24.591481852Z",
+  "timestamp": "2026-10-16T21:26:45.844687481Z",
   "model": "glm-5.3"
 }

@@ -5,17 +5,65 @@
   "book": "ecclesiastes",
   "lang": "pnb",
   "chapter": 3,
-  "translation": "کون جاندا اے کہ آدمیاں دی روح ⟨کیہ⟩ کھلوندی اے تےڈھندی اے اوہ اُتے نوں، تے ڈنگری دی روح اوہ تھلے نوں، دھرتی اُتے؟",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "806e747af1c504056d8ef70d1de1f634c46268e2beb4b72cae911afe29ab3a04",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ecclesiastes\/3\/21-22.1792117374595.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
-  "tokens": [],
-  "timestamp": "2026-10-16T02:22:54.595602348Z",
+  "translation": "کوݨ جاندا اے کہ آدمیاں دی روح ⟨کِتے⟩ اُتے جاندی اے، تے بھیڑ چوںڈیاں دی روح تھلے دھرتی ولّ اُتردی اے؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کوݨ"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "جاندا اے"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دی"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "آدمیاں"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "اُتے جاندی اے"
+    },
+    {
+      "surface": "היא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "اُتے"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "تے روح"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "بھیڑ چوںڈیاں دی"
+    },
+    {
+      "surface": "הירדת",
+      "gloss": "اُتردی اے"
+    },
+    {
+      "surface": "היא",
+      "gloss": "اوہ"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "تھلے"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "دھرتی ولّ"
+    }
+  ],
+  "timestamp": "2026-10-16T21:05:38.209709497Z",
   "model": "glm-5.3"
 }

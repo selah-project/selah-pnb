@@ -5,38 +5,7 @@
   "book": "micah",
   "lang": "pnb",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "בגת \/ תגידו",
-      "rationale": "شہر دا ناں 'گتھ' تے 'دسیو' (ہگّیدو) وِچ آوازی مِل — 'گتھ وِچ نہ دسیو' دی چوکھی۔"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "לעפרה \/ עפר",
-      "rationale": "'عفرا' (مطلب: دھوڑ-والا) تے 'دھوڑ' دا مِل — ناں وِچوں ای سوگ دی ہدایت نکلدی اے۔"
-    },
-    {
-      "kind": "crux",
-      "subject": "התפלשתי",
-      "rationale": "صیغہ پہلا-واحد ('میں لَتھڑیا آں') پر اکثر حکم ('لَتھڑو') پڑھیا جاندا؛ حکم رکھیا۔"
-    },
-    {
-      "kind": "invitation",
-      "subject": "لوک",
-      "rationale": "نفی والے حکم — 'نہ دسیو، نہ رووو' — سُننہارے نوں سدھے مخاطب کردے نیں۔"
-    }
-  ],
-  "translation": "گتھ ⟨وِچ⟩ نہ دسیو، نہ رووو؛ بیت-لعفرا وِچ دھوڑ وِچ لَتھڑو۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "9ce02155f0e33ba268fedde2089f8bf098254b91ec642424832b75a8400d1fb7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/micah\/1\/9-12.1792111034656.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "گتھ وِچ نہ دسیو، رووو نہ؛ بیت-لِعفرا وِچ دھوڑ وِچ ⟨مَیں⟩ لت پڑدا آں۔",
   "tokens": [
     {
       "surface": "בגת",
@@ -56,7 +25,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "נہ"
+      "gloss": "نہ"
     },
     {
       "surface": "תבכו",
@@ -64,11 +33,11 @@
     },
     {
       "surface": "בבית",
-      "gloss": "بیت-لعفرا وِچ"
+      "gloss": "بیت-لِعفرا وِچ"
     },
     {
       "surface": "לעפרה",
-      "gloss": "لعفرا"
+      "gloss": "بیت-لِعفرا"
     },
     {
       "surface": "עפר",
@@ -76,9 +45,9 @@
     },
     {
       "surface": "התפלשתי",
-      "gloss": "لَتھڑو"
+      "gloss": "لت پڑدا آں"
     }
   ],
-  "timestamp": "2026-10-16T00:37:14.657146457Z",
+  "timestamp": "2026-10-16T21:28:14.971940204Z",
   "model": "glm-5.3"
 }

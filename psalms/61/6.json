@@ -5,72 +5,45 @@
   "book": "psalms",
   "lang": "pnb",
   "chapter": 61,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "inheritance",
-      "rationale": "KJV 'ਮੈਨੂੰ... ਵਿਰਾਸਤ ਦਿੱਤੀ' ਬਨਾਮ ਇਬਰਾਨੀ 'ਡਰਨ ਵਾਲਿਆਂ ਦੀ ਵਿਰਾਸਤ' — ਪ੍ਰਾਪਤ ਕਰਤਾ ਦਾ ਪੜ੍ਹਨਾ ਸਪਸ਼ਟ ਨਹੀਂ।"
-    },
-    {
-      "kind": "addition",
-      "subject": "are",
-      "rationale": "ਪੰਜਾਬੀ ਨੂੰ ਸਹਾਇਕ ਕਿਰਿਆ 'ਹਨ/ਹੈ' ਚਾਹੀਦੀ ਹੈ ਜੋ ਇਬਰਾਨੀ ਵਿੱਚ ਨਹੀਂ ਹੈ।"
-    }
-  ],
-  "translation": "ਕਿਉਂਕਿ ਤੂੰ ਨੇ, ਹੇ ਪਰਮੇਸ਼ੁਰ, ਮੇਰੀਆਂ ਸੁੱਖਣਾਵਾਂ ਸੁਣ ਲਈਆਂ ਹਨ; ਤੂੰ ਨੇ ਤੇਰੇ ਨਾਮ ਤੋਂ ਡਰਨ ਵਾਲਿਆਂ ਦੀ ਵਿਰਾਸਤ ਦਿੱਤੀ ਹੈ۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "e514c71f90a4fc1c9677f6e8e9538a38e3818fd64769b312040f215d9a183196",
-    "prompt-file": ".selah/sources/translations/prompts/pnb/psalms/61/5-8.1792112821472.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "کیوں جو تُوں، اے ایلوہیم، میڈیاں نذراں سنیاں نیں؛ تُوں نے تیرے ناں توں ڈرن والیاں دی وراثت دتی اے۔",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "ਕਿਉਂਕਿ"
+      "gloss": "کیوں جو"
     },
     {
       "surface": "אתה",
-      "gloss": "ਤੂੰ"
+      "gloss": "تُوں"
     },
     {
       "surface": "אלהים",
-      "gloss": "ਹੇ ਪਰਮੇਸ਼ੁਰ"
+      "gloss": "ایلوہیم"
     },
     {
       "surface": "שמעת",
-      "gloss": "ਸੁਣ ਲਈਆਂ ਹਨ"
+      "gloss": "سنیاں نیں"
     },
     {
       "surface": "לנדרי",
-      "gloss": "ਮੇਰੀਆਂ ਸੁੱਖਣਾਵਾਂ"
+      "gloss": "میڈیاں نذراں نوں"
     },
     {
       "surface": "נתת",
-      "gloss": "ਦਿੱਤੀ ਹੈ"
+      "gloss": "دتی اے"
     },
     {
       "surface": "ירשת",
-      "gloss": "ਵਿਰਾਸਤ"
+      "gloss": "وراثت"
     },
     {
       "surface": "יראי",
-      "gloss": "ਡਰਨ ਵਾਲਿਆਂ"
+      "gloss": "ڈرن والیاں"
     },
     {
       "surface": "שמך",
-      "gloss": "ਤੇਰੇ ਨਾਮ ਤੋਂ"
+      "gloss": "تیرے ناں"
     }
   ],
-  "timestamp": "2026-10-16T01:07:01.472914144Z",
-  "model": "glm-5.3",
-  "pnb_fold": {
-    "date": "2026-10-15",
-    "folds": {
-      "।→۔": 1
-    }
-  }
+  "timestamp": "2026-10-16T21:36:07.381473823Z",
+  "model": "glm-5.3"
 }

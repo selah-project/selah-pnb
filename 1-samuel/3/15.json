@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "pnb",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨اس⟩",
-      "rationale": "پنجابی تعریف اسم موصول لئی اشارہ منگدا اے، عبرانی وِچ نئیں"
-    },
-    {
-      "kind": "mystery",
-      "subject": "המראה",
-      "rationale": "دیدار — کھلھیاں اکھیں نال ویکھیا ہویا راز دا درشٹانت، تے شموایل اوہدے دسّن توں ڈردا اے"
-    }
-  ],
-  "translation": "تے شموایل سویرے تیکے سُتا، تے اس نے ⟨את⟩ یاہوہ دے گھر دے بوہے کھولھے، تے شموایل ⟨اس⟩ دیدار نوں عیلی نوں دسّن توں ڈردا سی۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "cef5407b470d2e5681ecaa2b58fec26369326a75204fd0e70138abf3b36508a2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/3\/14-15.1792123659238.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "تے شموایل سویرے تک سُتا رہا، تے یاہوہ دے گھر دے ⟨את⟩ دروازے کھولھے، تے شموایل اہلی ⟨את⟩ درش دسن توں ڈر گیا۔",
   "tokens": [
     {
       "surface": "וישכב",
-      "gloss": "تے سُتا"
+      "gloss": "سُتا رہا"
     },
     {
       "surface": "שמואל",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "עד",
-      "gloss": "تیکے"
+      "gloss": "تک"
     },
     {
       "surface": "הבקר",
@@ -51,15 +30,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "بوہے"
+      "marks": "دروازے"
     },
     {
       "surface": "דלתות",
-      "gloss": "بوہے"
+      "gloss": "دروازے"
     },
     {
       "surface": "בית",
-      "gloss": "گھر دے"
+      "gloss": "گھر"
     },
     {
       "surface": "יהוה",
@@ -71,20 +50,20 @@
     },
     {
       "surface": "ירא",
-      "gloss": "ڈردا سی"
+      "gloss": "ڈر گیا"
     },
     {
       "surface": "מהגיד",
-      "gloss": "دسّن توں"
+      "gloss": "دسن توں"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "دیدار"
+      "marks": "درش"
     },
     {
       "surface": "המראה",
-      "gloss": "دیدار"
+      "gloss": "درش"
     },
     {
       "surface": "אל",
@@ -92,9 +71,9 @@
     },
     {
       "surface": "עלי",
-      "gloss": "عیلی"
+      "gloss": "اہلی"
     }
   ],
-  "timestamp": "2026-10-16T04:07:39.239674331Z",
+  "timestamp": "2026-10-16T20:56:53.926745118Z",
   "model": "glm-5.3"
 }

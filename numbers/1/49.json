@@ -5,29 +5,63 @@
   "book": "numbers",
   "lang": "pnb",
   "chapter": 1,
-  "notes": [
+  "translation": "صرف لاوی قبیلے نوں گِننا نئیں، تے اُنہاں دے سراں دا گنتی ⟨گنتی⟩ ⟨את⟩ وِچار نئیں کرنا یِسرائیل دیاں اولاداں دے وِچکار۔",
+  "tokens": [
     {
-      "kind": "elision",
-      "subject": "מטה לוי",
-      "rationale": "לוי دی گلاس پہلے ٹوکن نال جُڑ گئی — 'متی دا قبیلا' وِچ 'متی' ناں بندا اے، قبیلا اِکو وار آندا اے"
+      "surface": "אך",
+      "gloss": "صرف"
     },
     {
-      "kind": "wordplay",
-      "subject": "אך",
-      "rationale": "'سِرِفّ' — 'اِکو' اَواز نئیں دِندی، اوہ پہلا لفظ اے جیہڑا پابندی نوں دسدا اے"
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قبیلے نوں"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "قبیلے"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لاوی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "گِننا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اُنہاں دے سراں نوں"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "اُنہاں دے سر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نئیں"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "چُکنا"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "وِچکار"
+    },
+    {
+      "surface": "בני",
+      "gloss": "اولاداں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
     }
   ],
-  "translation": "سِرِفّ متی دا قبیلا تے ⟨את⟩ متی دے قبیلیاں نوں نئیں، تے ⟨את⟩ اوہناں دے سرداراں نوں نئیں گِنیاں دے، یِسرائیل دیاں اولاداں وِچ۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "de41dd5ef1701e78ec869b8b37f35a77881937ad9342110bf75f400dd7f02bd0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/1\/49-52.1792098207769.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
-  "tokens": [],
-  "timestamp": "2026-10-15T21:03:27.769984152Z",
+  "timestamp": "2026-10-16T21:54:13.376122179Z",
   "model": "glm-5.3"
 }

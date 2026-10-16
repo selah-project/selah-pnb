@@ -5,17 +5,37 @@
   "book": "proverbs",
   "lang": "pnb",
   "chapter": 7,
-  "translation": "تے ویکھو، اِک عورت اوہدے RuntimeException مقابلے نوں آئی — بدکاری والی دا چولا پاتا ہویا تے دل تھام کے ہوشیار۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "74cfb0f92dc2cc55b96b2d37798d57ca2572772620338943b43b382c932b871a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/proverbs\/7\/10-11.1792124192280.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
-  "tokens": [],
-  "timestamp": "2026-10-16T04:16:32.280674233Z",
+  "translation": "تے ویکھو، ⟨اِک⟩ عورت اوہدے ملن ⟨نوں⟩ آئی — بدکار عورت دا پُشاک پائے ہوئے، تے دل تونں ہوشیار —",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "تے ویکھو"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "عورت"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "اوہدے ملن"
+    },
+    {
+      "surface": "שית",
+      "gloss": "پُشاک"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "بدکار عورت"
+    },
+    {
+      "surface": "ונצרת",
+      "gloss": "تے ہوشیار"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    }
+  ],
+  "timestamp": "2026-10-16T21:34:30.020503369Z",
   "model": "glm-5.3"
 }

@@ -5,23 +5,7 @@
   "book": "psalms",
   "lang": "pnb",
   "chapter": 92,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "چٹان",
-      "rationale": "צור دا مطلب 'ٹیکی چٹان'، بس 'پتھر' نئیں"
-    }
-  ],
-  "translation": "ایہہ دسّن لئی کہ یاہوہ سیدھا اے، मेरा سِنگھار-چٹان، تے اوہدے وِچ کوئی کجی نئیں۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "e412f0d7e0e31b96a367318f0332ee2c9e539cbdac9c9c401c93314e702759b4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/92\/13-16.1792113363152.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "ایہہ دسّن لئی ⟨کہ⟩ یاہوہ سِدھا اے، اوہ میرا چٹان اے، تے اوہدے وِچ کوئی بے انصافی نئیں۔",
   "tokens": [
     {
       "surface": "להגיד",
@@ -29,11 +13,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "کہ"
+      "gloss": "⟨کہ⟩"
     },
     {
       "surface": "ישר",
-      "gloss": "سیدھا"
+      "gloss": "سِدھا اے"
     },
     {
       "surface": "יהוה",
@@ -49,13 +33,13 @@
     },
     {
       "surface": "עלתה",
-      "gloss": "کجی"
+      "gloss": "بے انصافی"
     },
     {
       "surface": "בו",
       "gloss": "اوہدے وِچ"
     }
   ],
-  "timestamp": "2026-10-16T01:16:03.153805914Z",
+  "timestamp": "2026-10-16T21:36:07.360668629Z",
   "model": "glm-5.3"
 }

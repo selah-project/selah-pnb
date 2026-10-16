@@ -5,31 +5,15 @@
   "book": "1-kings",
   "lang": "pnb",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "حاضربندیاں نوں",
-      "rationale": "تُسیں وَجاؤ، تے آکھو — حکم سِدھا سامنے کھلوتیاں نوں"
-    }
-  ],
-  "translation": "تے صادوق کاہن تے ناتان نبی اوہنوں اوتھے یِسرائیل اُتے بادشاہ مسح کرن، تے تُسیں شاخور وِچ پاؤ تے آکھو: بادشاہ شلومو جِیوے۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "2789c05c5fb2b46ab7d9e7a84c3b8ed7459663cbdfcbaf1e5e81624f59fcb3af",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/1\/33-36.1792103940027.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "تے اوتھے صادوق کاہن تے ناتان نبی ⟨את⟩ اوہنوں مسح کرن یِسرائیل تے بادشاہ ⟨بن کے⟩، تے تسیں شوفار وِچ تے آکھو: شلوموہ بادشاہ جیوے۔",
   "tokens": [
     {
-      "surface": "ומשח",
+      "surface": "ו משח",
       "gloss": "تے مسح کرن"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩",
       "marks": "اوہنوں"
     },
     {
@@ -54,11 +38,11 @@
     },
     {
       "surface": "למלך",
-      "gloss": "بادشاہ ⟨بن کے⟩"
+      "gloss": "بادشاہ"
     },
     {
       "surface": "על",
-      "gloss": "اُتے"
+      "gloss": "تے"
     },
     {
       "surface": "ישראל",
@@ -66,11 +50,11 @@
     },
     {
       "surface": "ותקעתם",
-      "gloss": "تے تُسیں وَجاؤ"
+      "gloss": "تے تسیں وچاؤ"
     },
     {
       "surface": "בשופר",
-      "gloss": "شاخور وِچ"
+      "gloss": "شوفار وِچ"
     },
     {
       "surface": "ואמרתם",
@@ -78,7 +62,7 @@
     },
     {
       "surface": "יחי",
-      "gloss": "جِیوے"
+      "gloss": "جیوے"
     },
     {
       "surface": "המלך",
@@ -86,9 +70,9 @@
     },
     {
       "surface": "שלמה",
-      "gloss": "شلومو"
+      "gloss": "شلوموہ"
     }
   ],
-  "timestamp": "2026-10-15T22:39:00.028396167Z",
+  "timestamp": "2026-10-16T20:53:00.352476478Z",
   "model": "glm-5.3"
 }

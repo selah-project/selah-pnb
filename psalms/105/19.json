@@ -5,48 +5,27 @@
   "book": "psalms",
   "lang": "pnb",
   "chapter": 105,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "کس کے خالص کیتا",
-      "rationale": "צרפ دھات پگھلاؤن دی گھرائی اے — آزمائش نال صفا کرنا"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "דברו\/אמרת",
-      "rationale": "دوواں 'کلام' نیں — تقویت لئی مترادف جوڑا"
-    }
-  ],
-  "translation": "اوہدے word دے آن تک — یاہوہ دا کلام اوہنوں کس کے خالص کیتا۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "f8327d44b013834f214f5d4c59b87ad829552042b07997840c8b507bc8c87c53",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/105\/17-20.1792113605101.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "جداں تک اُہدے بچن دا ویلہ نئیں آیا، یاہوہ دی گل نے ⟨اُہنوں⟩ پگھلاؤ کے کھرا کیتا۔",
   "tokens": [
     {
       "surface": "עד",
-      "gloss": "تک"
+      "gloss": "جداں تک"
     },
     {
       "surface": "עת",
-      "gloss": "ویلے"
+      "gloss": "ویلہ"
     },
     {
       "surface": "בא",
-      "gloss": "آن"
+      "gloss": "آیا"
     },
     {
       "surface": "דברו",
-      "gloss": "اوہدا کلام"
+      "gloss": "اُہدے بچن"
     },
     {
       "surface": "אמרת",
-      "gloss": "بچن"
+      "gloss": "گل"
     },
     {
       "surface": "יהוה",
@@ -54,9 +33,9 @@
     },
     {
       "surface": "צרפתהו",
-      "gloss": "اوہنوں کس کے خالص کیتا"
+      "gloss": "پگھلاؤ کے کھرا کیتا ⟨اُہنوں⟩"
     }
   ],
-  "timestamp": "2026-10-16T01:20:05.102244142Z",
+  "timestamp": "2026-10-16T21:34:38.203558217Z",
   "model": "glm-5.3"
 }

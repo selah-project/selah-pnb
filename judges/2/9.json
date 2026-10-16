@@ -5,28 +5,7 @@
   "book": "judges",
   "lang": "pnb",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "توں",
-      "rationale": "پنجابی 'مצפון להר געש' وِچ 'توں' منگدا اے، عبرانی وِچ صرف حرفِ جار اے"
-    },
-    {
-      "kind": "crux",
-      "subject": "חרס",
-      "rationale": "تِمنت-חרס ایتھے تے یشوع 24:30 وِچ תמנת סרח — عبرانی مکتوباں وِچ اکھراں دا فرق"
-    }
-  ],
-  "translation": "تے اوہنوں اوہدی وراثت دے حد وِچ، تِمنت-حیریس وِچ، اِفرایم دے پہاڑ وِچ، گاعش پہاڑ توں اُترلے پاسے دفنایا۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "75e02dcdbb430d8c4d2e9f22d8d535ab897b6bf23b6bd1ccc9c282f3864efbf7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/judges\/2\/9-12.1792101346035.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "تے ⟨את⟩ اوہنوں اوہدیاں وِراثتاں دے سرحد وِچ، تِمنات-خیرِس وِچ، اِفرایم دے پہاڑ اُتے، گاعش پہاڑ توں اُترلے پاسے دفنایا۔",
   "tokens": [
     {
       "surface": "ויקברו",
@@ -34,28 +13,28 @@
     },
     {
       "surface": "אותו",
-      "gloss": "⟨את⟩",
-      "marks": "اوہنوں"
+      "gloss": "⟨את⟩ اوہنوں",
+      "marks": "سرحد"
     },
     {
       "surface": "בגבול",
-      "gloss": "حد وِچ"
+      "gloss": "سرحد وِچ"
     },
     {
       "surface": "נחלתו",
-      "gloss": "اوہدی وراثت"
+      "gloss": "اوہدیاں وِراثتاں"
     },
     {
       "surface": "בתמנת",
-      "gloss": "تِمنت"
+      "gloss": "تِمنات-خیرِس وِچ"
     },
     {
       "surface": "חרס",
-      "gloss": "حیریس"
+      "gloss": "تِمنات-خیرِس وِچ"
     },
     {
       "surface": "בהר",
-      "gloss": "پہاڑ وِچ"
+      "gloss": "پہاڑ اُتے"
     },
     {
       "surface": "אפרים",
@@ -74,6 +53,6 @@
       "gloss": "گاعش"
     }
   ],
-  "timestamp": "2026-10-15T21:55:46.036546208Z",
+  "timestamp": "2026-10-16T21:25:17.278951337Z",
   "model": "glm-5.3"
 }

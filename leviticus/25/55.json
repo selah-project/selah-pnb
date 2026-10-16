@@ -5,35 +5,19 @@
   "book": "leviticus",
   "lang": "pnb",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "עבדים עבדי",
-      "rationale": "'غلام غلام' — عبرانی دی دوہری گونج، اختیاری مالک دے خلاف دلیل۔"
-    }
-  ],
-  "translation": "کیونکہ یِسرائیل دے پُتر میرے غلام نیں؛ اوہ میرے غلام نیں، جنہاں میں ⟨את⟩ مِتصرایم دے دیس توں کڈھیا؛ میں یاہوہ تہاڈا ایلوہیم آں۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "5bfd8a8d98d15571d8e506a5d8b336657a9c301ac9a570aed0a90f39be06d51f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/25\/53-55.1792098089941.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "کیوں جے یِسرائیل دے پُتر میرے نیں — غلام، میرے غلام نیں، جِہڑے میں ⟨את⟩ اوہناں نوں مِتصرایم دے دیس توں کڈھیا؛ میں یاہوہ تہاڈا ایلوہیم آں۔",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "کیونکہ"
+      "gloss": "کیوں جے"
     },
     {
       "surface": "לי",
-      "gloss": "میرے"
+      "gloss": "میرے نیں"
     },
     {
       "surface": "בני",
-      "gloss": "دے پُتر"
+      "gloss": "پُتر"
     },
     {
       "surface": "ישראל",
@@ -42,10 +26,6 @@
     {
       "surface": "עבדים",
       "gloss": "غلام"
-    },
-    {
-      "surface": "נ",
-      "gloss": "نیں"
     },
     {
       "surface": "עבדי",
@@ -57,16 +37,16 @@
     },
     {
       "surface": "אשר",
-      "gloss": "جنہاں"
+      "gloss": "جِہڑے"
     },
     {
       "surface": "הוצאתי",
-      "gloss": "⟨את⟩ میں کڈھیا"
+      "gloss": "میں کڈھیا"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "اوہناں"
+      "marks": "اوہناں نوں"
     },
     {
       "surface": "מארץ",
@@ -89,6 +69,6 @@
       "gloss": "تہاڈا ایلوہیم"
     }
   ],
-  "timestamp": "2026-10-15T21:01:29.941951234Z",
+  "timestamp": "2026-10-16T21:26:53.255317460Z",
   "model": "glm-5.3"
 }

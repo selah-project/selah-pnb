@@ -5,32 +5,11 @@
   "book": "leviticus",
   "lang": "pnb",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "پراہنے",
-      "rationale": "גֵר مہمان\/اجنبی اے — پنجابی 'پراہنے' اوہدے نیڑے ترین تصور اے"
-    },
-    {
-      "kind": "you",
-      "subject": "اسرائیل",
-      "rationale": "حکم براہِ راست تُہاڈے (اسرائیل) نال اے"
-    }
-  ],
-  "translation": "تے جے تُہاڈی زمین وِچ کوئی پراہنے ⟨את⟩ تُہاڈے نال وسے، اوس نوں ستاؤ نہ۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "c1e30096f888f3c498b18cc43848958914de0e4fa12873ffd47901f172fba920",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/19\/33-36.1792097944134.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "تے جدوں کوئی پراؤنا تُہاڈے نال تُہاڈی زمین وِچ وسے، تاں تُساں اوہدے اُتے ظلم نہ کرو ⟨את⟩ ⟨اوہ⟩۔",
   "tokens": [
     {
       "surface": "וכי",
-      "gloss": "تے جے"
+      "gloss": "تے جدوں"
     },
     {
       "surface": "יגור",
@@ -38,12 +17,11 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ تُہاڈے نال",
-      "marks": "تُہاڈے نال"
+      "gloss": "⟨את⟩ تُہاڈے نال"
     },
     {
       "surface": "גר",
-      "gloss": "پراہنے"
+      "gloss": "پراؤنا"
     },
     {
       "surface": "בארצכם",
@@ -55,14 +33,14 @@
     },
     {
       "surface": "תונו",
-      "gloss": "ستاؤ"
+      "gloss": "ظلم کرو"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "اوس نوں"
+      "marks": "اوہدے اُتے ظلم — یعنی اوہ پراؤنا"
     }
   ],
-  "timestamp": "2026-10-15T20:59:04.135214783Z",
+  "timestamp": "2026-10-16T21:25:57.187706973Z",
   "model": "glm-5.3"
 }

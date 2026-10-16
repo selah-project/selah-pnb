@@ -5,36 +5,15 @@
   "book": "psalms",
   "lang": "pnb",
   "chapter": 95,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "گھڑی",
-      "rationale": "יצר کُمہار دا گوندھنا اے — 'بنیاد رکھی' نئیں، مِٹی وِچ شکل دینا"
-    },
-    {
-      "kind": "addition",
-      "subject": "اے",
-      "rationale": "عبرانی وِچ کریا نئیں، پنجابی جملہ منگدا اے"
-    }
-  ],
-  "translation": "جیہڑا سمندر ⟨اے⟩ اوہدا، تے اوہنے ⟨את⟩ اوہنوں بنایا، تے خُشکی اوہدے ہتھاں نے گھڑی۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "7e4e8c696a23aa8bfda026475d7bda369010b4169091b2759a77fb307b10f30f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/95\/5-8.1792113438829.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "جیہدا اے سمندر، تے اوہنے ایہہ بنایا، تے سوکھی بھوم نوں اوہدے ہتھاں نے گھڑی۔",
   "tokens": [
     {
       "surface": "אשר",
-      "gloss": "جیہڑا"
+      "gloss": "جیہدا"
     },
     {
       "surface": "לו",
-      "gloss": "اوہدا"
+      "gloss": "اوہدا اے"
     },
     {
       "surface": "הים",
@@ -42,15 +21,15 @@
     },
     {
       "surface": "והוא",
-      "gloss": "تے اوہ"
+      "gloss": "تے اوہنے"
     },
     {
       "surface": "עשהו",
-      "gloss": "اوہنے ⟨את⟩ اوہنوں بنایا"
+      "gloss": "ایہہ بنایا"
     },
     {
       "surface": "ויבשת",
-      "gloss": "تے خُشکی"
+      "gloss": "تے سوکھی بھوم نوں"
     },
     {
       "surface": "ידיו",
@@ -61,6 +40,6 @@
       "gloss": "گھڑی"
     }
   ],
-  "timestamp": "2026-10-16T01:17:18.829849457Z",
+  "timestamp": "2026-10-16T21:36:17.346982228Z",
   "model": "glm-5.3"
 }

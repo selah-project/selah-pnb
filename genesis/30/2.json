@@ -5,45 +5,19 @@
   "book": "genesis",
   "lang": "pnb",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "غصہ بھڑکیا",
-      "rationale": "'ਗੁੱਸਾ' ਪنجابی وِچ غصہ دا سُچجا لفظ ہے"
-    },
-    {
-      "kind": "you",
-      "subject": "یعقوو دی گل راحیل نال",
-      "rationale": "پرچے والا سوال سِدھی سدھ راحیل نوں"
-    },
-    {
-      "kind": "addition",
-      "subject": "؟",
-      "rationale": "عبرانی سوال دا نشان نئیں رکھدا؛ جملے دی بنا سوال دسدی ہے"
-    }
-  ],
-  "translation": "تے یعقوو دا راحیل اُتے غصہ بھڑکیا، تے اوہنے آکھیا: کی میں ایلوہیم دی تھاں آں، جیہنے تیری جُھلی دا پھل روکیا ہے؟",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "32b0a027d17b102c62d2f62e9dad1eee5c5c1caac83548fa17699b668aff9240",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/30\/1-4.1792095422379.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "تے یعقوو دا غصہ راحیل اُتے بھڑکیا، تے اوہنے آکھیا: کیتھے میں ایلوہیم دی تھاں آں، جیہڑا تیرے توں پیٹ دا پھل روک چُکا اے؟",
   "tokens": [
     {
       "surface": "ויחר",
-      "gloss": "غصہ بھڑکیا"
+      "gloss": "بھڑکیا"
     },
     {
       "surface": "אף",
-      "gloss": "ਗੁੱਸਾ"
+      "gloss": "غصہ"
     },
     {
       "surface": "יעקב",
-      "gloss": "یعقوو دا"
+      "gloss": "یعقوو"
     },
     {
       "surface": "ברחל",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "התחת",
-      "gloss": "دی تھاں"
+      "gloss": "تھاں وِچ"
     },
     {
       "surface": "אלהים",
@@ -67,15 +41,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "جیہنے"
+      "gloss": "جو"
     },
     {
       "surface": "מנע",
-      "gloss": "روکیا ہے"
+      "gloss": "روکیا"
     },
     {
       "surface": "ממך",
-      "gloss": "تیری"
+      "gloss": "تیرے توں"
     },
     {
       "surface": "פרי",
@@ -83,9 +57,9 @@
     },
     {
       "surface": "בטן",
-      "gloss": "جُھلی دا"
+      "gloss": "پیٹ ⟨دا⟩"
     }
   ],
-  "timestamp": "2026-10-15T20:17:02.379982636Z",
+  "timestamp": "2026-10-16T21:13:34.839288463Z",
   "model": "glm-5.3"
 }

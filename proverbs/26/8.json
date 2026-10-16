@@ -5,69 +5,37 @@
   "book": "proverbs",
   "lang": "pnb",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "במרחמה",
-      "rationale": "ਕੇਜੇਵੀ 'ਗੁਲਾਈ ਵਿੱਚ ਪੱਥਰ ਬੰਨ੍ਹਣਾ' ਬਨਾਮ ਜੇਪੀਐਸ 'ਪੱਥਰਾਂ ਦੇ ਢੇਰ ਵਿੱਚ ਛੋਟਾ ਪੱਥਰ' — ਸ਼ਬਦ 'ਪੱਥਰ-ਢੇਰ' ਲਈ ਹੈ।"
-    },
-    {
-      "kind": "hapax",
-      "subject": "מרגמה",
-      "rationale": "ਇਹ ਸ਼ਬਦ ਤਨਖ ਵਿੱਚ ਸਿਰਫ਼ ਇੱਥੇ ਆਉਂਦਾ ਹੈ।"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "כבוד",
-      "rationale": "ਸ਼ਬਦ ਦਾ ਭਾਰ 'ਭਾਰ' ਹੈ — ਪੱਥਰ ਦਾ ਭਾਰ ਤੇ ਇੱਜ਼ਤ ਦਾ 'ਭਾਰ' ਚਿੱਤਰ ਵਿੱਚ ਜੁੜਦੇ ਹਨ।"
-    }
-  ],
-  "translation": "ਜਿਵੇਂ ਗੁਲਾਈ ਵਿੱਚ ਪੱਥਰ ਬੰਨ੍ਹਣਾ, ਓਵੇਂ ਹੀ ਮੂਰਖ ਨੂੰ ਇੱਜ਼ਤ ਦੇਣਾ ਹੈ۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "75d48ab1bd013f5bd106e5b070039e47079f81c2deef9c24b655f1c01f12447b",
-    "prompt-file": ".selah/sources/translations/prompts/pnb/proverbs/26/5-8.1792115131569.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "جیویں ⟨کوئی⟩ پتھر نوں گوڈے وِچ بنّھدا اے، اویں ای اوہ بے عقل نوں عزت دیندا اے۔",
   "tokens": [
     {
       "surface": "כצרור",
-      "gloss": "ਜਿਵੇਂ ਬੰਨ੍ਹਣਾ"
+      "gloss": "جیویں بنّھدا اے"
     },
     {
       "surface": "אבן",
-      "gloss": "ਪੱਥਰ"
+      "gloss": "پتھر نوں"
     },
     {
       "surface": "במרגמה",
-      "gloss": "ਗੁਲਾਈ ਵਿੱਚ"
+      "gloss": "گوڈے وِچ"
     },
     {
       "surface": "כן",
-      "gloss": "ਓਵੇਂ ਹੀ"
+      "gloss": "اویں ای"
     },
     {
       "surface": "נותן",
-      "gloss": "ਦੇਣਾ ਹੈ"
+      "gloss": "دیندا اے"
     },
     {
       "surface": "לכסיל",
-      "gloss": "ਮੂਰਖ ਨੂੰ"
+      "gloss": "بے عقل نوں"
     },
     {
       "surface": "כבוד",
-      "gloss": "ਇੱਜ਼ਤ"
+      "gloss": "عزت"
     }
   ],
-  "timestamp": "2026-10-16T01:45:31.570602973Z",
-  "model": "glm-5.3",
-  "pnb_fold": {
-    "date": "2026-10-15",
-    "folds": {
-      "।→۔": 1
-    }
-  }
+  "timestamp": "2026-10-16T21:33:48.411975628Z",
+  "model": "glm-5.3"
 }

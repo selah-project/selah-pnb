@@ -5,32 +5,11 @@
   "book": "deuteronomy",
   "lang": "pnb",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "لِبب — دل",
-      "rationale": "عبرانی لِبب اندرلا انگ اے، سوچ تے سمجھ دی تھاں — صرف 'دل' (سُرت) نئیں۔"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שגעון–עורון–תמהון",
-      "rationale": "تِنھاں شبداں دی اِکو اوت (–וֹן) — سرزمین دی تال پنجابی وِچ نئیں ٹِک سکی۔"
-    }
-  ],
-  "translation": "یاہوہ تینوں پاڳل پن، اَنھیرے پن تے دل دی حیرانی نال ماریگا۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "bbe3bbc5c6b538b1869f331d03ae3bcc2d74d7f3e909b32e113ec1a0756f2ac3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/deuteronomy\/28\/25-28.1792100441501.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "یاہوہ تینوں پاگل پن تے اَندھے پن تے دِل دی حیرانی نال مارے گا۔",
   "tokens": [
     {
       "surface": "יככה",
-      "gloss": "ماریگا"
+      "gloss": "مارے گا"
     },
     {
       "surface": "יהוה",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "בשגעון",
-      "gloss": "پاڳل پن نال"
+      "gloss": "پاگل پن نال"
     },
     {
       "surface": "ובעורון",
-      "gloss": "تے اَنھیرے پن نال"
+      "gloss": "تے اَندھے پن نال"
     },
     {
       "surface": "ובתמהון",
@@ -50,9 +29,9 @@
     },
     {
       "surface": "לבב",
-      "gloss": "دل"
+      "gloss": "دِل"
     }
   ],
-  "timestamp": "2026-10-15T21:40:41.502368318Z",
+  "timestamp": "2026-10-16T21:04:47.024594337Z",
   "model": "glm-5.3"
 }

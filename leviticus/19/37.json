@@ -5,45 +5,29 @@
   "book": "leviticus",
   "lang": "pnb",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ہر اِک نوں",
-      "rationale": "پنجابی جملے لئی شامل کیتا، عبرانی وِچ نئیں"
-    }
-  ],
-  "translation": "تے تُساں ساریاں میریاں حکومتاں تے سارے میرے فیصلے ⟨את⟩ ہر اِک نوں مَنگو، تے اوہناں نوں کرنا؛ اَناں یاہوہ آں۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "ed6964fd55e44e017035c51f156cfc71771ef0dbecbe573b5c2ae28c256f8268",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/19\/37-37.1792097912082.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "تے تُسیں ⟨את⟩ میرے سارے حکم رکھو گے تے ⟨את⟩ میرے سارے فیصلے، تے ⟨את⟩ اوہناں نوں کر بھرو گے؛ میں یاہوہ آں۔",
   "tokens": [
     {
       "surface": "ושמרתם",
-      "gloss": "تے تُساں مَنگو"
+      "gloss": "تے تُسیں رکھو گے"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ساریاں میریاں حکومتاں"
+      "marks": "میرے سارے حکم"
     },
     {
       "surface": "כל",
-      "gloss": "ساریاں"
+      "gloss": "سارے"
     },
     {
       "surface": "חקתי",
-      "gloss": "میریاں حکومتاں"
+      "gloss": "میرے حکم"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨ואת⟩",
-      "marks": "سارے میرے فیصلے"
+      "gloss": "تے ⟨את⟩",
+      "marks": "میرے سارے فیصلے"
     },
     {
       "surface": "כל",
@@ -55,22 +39,22 @@
     },
     {
       "surface": "ועשיתם",
-      "gloss": "تے کرنا"
+      "gloss": "تے کرو گے"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩",
       "marks": "اوہناں نوں"
     },
     {
       "surface": "אני",
-      "gloss": "اَناں"
+      "gloss": "میں"
     },
     {
       "surface": "יהוה",
       "gloss": "یاہوہ"
     }
   ],
-  "timestamp": "2026-10-15T20:58:32.082575997Z",
+  "timestamp": "2026-10-16T21:26:10.455093649Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "ezekiel",
   "lang": "pnb",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "אילי הארץ",
-      "rationale": "עלמ litt. 'طاقتاں\/تکڑے' — ایتھے سیاسی سردار، اس لئی 'سردار'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "אלה",
-      "rationale": "کسامت دا لفظ آیت 16 وِچ فیر آؤندا اے — ایہدا کوئی شاہ مکھی جوڑ نئیں دسدا"
-    }
-  ],
-  "translation": "تے اوہنے مُلک دے بیج وِچوں اِک لیا، تے اوہدے نال عہد کیتا، تے اوہنوں ⟨את⟩ کسامت وِچ لیایا، تے ⟨את⟩ دھرتی دے سرداراں نوں لے گئے۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "98c3f92e4a1c2f0d6b2e28990b4282db1eaefde61a9c225cf59cd559b382f964",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/17\/13-16.1792109379639.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "تے اوہنے بادشاہی دے بیج وِچوں اِک نوں لے کے ⟨את⟩ اوہدے نال عہد کیتا، تے ⟨את⟩ اوہنوں قسم وِچ لیایا، تے دھرتی دے ⟨את⟩ سرداراں نوں لے گیا،",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "تے لیا"
+      "gloss": "لے کے"
     },
     {
       "surface": "מזרע",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "המלוכה",
-      "gloss": "مُلک دے"
+      "gloss": "بادشاہی دے"
     },
     {
       "surface": "ויכרת",
-      "gloss": "تے کیتا"
+      "gloss": "کیتا"
     },
     {
       "surface": "אתו",
@@ -55,25 +34,25 @@
     },
     {
       "surface": "ויבא",
-      "gloss": "تے لیایا"
+      "gloss": "لیایا"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "کسامت وِچ"
+      "gloss": "⟨את⟩ اوہنوں",
+      "marks": "قسم وِچ"
     },
     {
       "surface": "באלה",
-      "gloss": "کسامت وِچ"
+      "gloss": "قسم وِچ"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "تے ⟨את⟩",
       "marks": "دھرتی دے سرداراں نوں"
     },
     {
       "surface": "אילי",
-      "gloss": "سردار"
+      "gloss": "سرداراں نوں"
     },
     {
       "surface": "הארץ",
@@ -81,9 +60,9 @@
     },
     {
       "surface": "לקח",
-      "gloss": "لے گئے"
+      "gloss": "لے گیا"
     }
   ],
-  "timestamp": "2026-10-16T00:09:39.640446502Z",
+  "timestamp": "2026-10-16T21:10:06.331911554Z",
   "model": "glm-5.3"
 }

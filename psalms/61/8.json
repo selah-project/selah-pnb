@@ -5,63 +5,41 @@
   "book": "psalms",
   "lang": "pnb",
   "chapter": 61,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "חסד ואמת מן ינצרהו",
-      "rationale": "ਕੌਣ ਰਾਖੀ ਕਰੇ — ਦਿਆਲਤਾ ਅਤੇ ਸੱਚਾਈ ਖ਼ੁਦ (ਯੂੰਗ ਲਿਟਰਲ) ਜਾਂ ਪਰਮੇਸ਼ੁਰ ਉਨ੍ਹਾਂ ਰਾਹੀਂ; 'ਮਨ' ਦਾ ਅਰਥ 'ਤਿਆਰ ਕਰ' (KJV) ਬਨਾਮ 'ਨਿਯੁਕਤ ਕਰ' ਵੀ ਝਗੜਾ ਹੈ।"
-    }
-  ],
-  "translation": "ਉਹ ਪਰਮੇਸ਼ੁਰ ਦੇ ਅੱਗੇ ਹਮੇਸ਼ਾਂ ਲਈ ਵੱਸਦਾ ਰਹੇ; ਦਿਆਲਤਾ ਅਤੇ ਸੱਚਾਈ ਨੂੰ ਤੋਲ ਕੇ ਰੱਖ ਕਿ ਉਹ ਉਸ ਦੀ ਰਾਖੀ ਕਰਨ۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "e514c71f90a4fc1c9677f6e8e9538a38e3818fd64769b312040f215d9a183196",
-    "prompt-file": ".selah/sources/translations/prompts/pnb/psalms/61/5-8.1792112821472.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "اوہ ایلوہیم اگے اگے ابد تک بیٹھے؛ خیسِد ⟨رحمت⟩ تے سچائی ⟨اوہناں نوں⟩ مقرر کر کے رکھن گے اوہنوں۔",
   "tokens": [
     {
       "surface": "ישב",
-      "gloss": "ਵੱਸਦਾ ਰਹੇ"
+      "gloss": "بیٹھے"
     },
     {
       "surface": "עולם",
-      "gloss": "ਹਮੇਸ਼ਾਂ ਲਈ"
+      "gloss": "ابد تک"
     },
     {
       "surface": "לפני",
-      "gloss": "ਦੇ ਅੱਗੇ"
+      "gloss": "اگے اگے"
     },
     {
       "surface": "אלהים",
-      "gloss": "ਪਰਮੇਸ਼ੁਰ"
+      "gloss": "ایلوہیم"
     },
     {
       "surface": "חסד",
-      "gloss": "ਦਿਆਲਤਾ"
+      "gloss": "خیسِد ⟨رحمت⟩"
     },
     {
       "surface": "ואמת",
-      "gloss": "ਅਤੇ ਸੱਚਾਈ"
+      "gloss": "تے سچائی"
     },
     {
       "surface": "מן",
-      "gloss": "ਤੋਲ ਕੇ ਰੱਖ"
+      "gloss": "مقرر کر کے"
     },
     {
       "surface": "ינצרהו",
-      "gloss": "ਉਸ ਦੀ ਰਾਖੀ ਕਰਨ"
+      "gloss": "رکھن گے اوہنوں"
     }
   ],
-  "timestamp": "2026-10-16T01:07:01.473241797Z",
-  "model": "glm-5.3",
-  "pnb_fold": {
-    "date": "2026-10-15",
-    "folds": {
-      "।→۔": 1
-    }
-  }
+  "timestamp": "2026-10-16T21:36:19.757362982Z",
+  "model": "glm-5.3"
 }

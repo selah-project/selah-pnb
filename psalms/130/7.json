@@ -5,45 +5,19 @@
   "book": "psalms",
   "lang": "pnb",
   "chapter": 130,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "اے",
-      "rationale": "پنجانی مخاطب لئی، عبرانی وِچ صرف ناں"
-    },
-    {
-      "kind": "invitation",
-      "subject": "یِسرائیل نوں",
-      "rationale": "اِلان اے — قوم نوں اُڈیک دا سدا"
-    },
-    {
-      "kind": "elision",
-      "subject": "خیسِد ⟨رحمت⟩",
-      "rationale": "חסد دا حرف-نقل رکھیا، ⟨⟩ وِچ وضاحت پہلی واری جائز"
-    }
-  ],
-  "translation": "اے یِسرائیل، یاہوہ تے اُڈیک رکھ، کیوں جے یاہوہ ਕੋਲ خیسِد ⟨رحمت⟩ اے، تے اوہدے ਕੋਲ بہت فدیہ اے۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "3696f5af547dcfc3c015564eab1208db384e056e1d7c5f57c7aadb843fdc2e37",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/130\/5-8.1792114001896.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "اے یِسرائیل، یاہوہ دی اُڈیک کر، کیوں جے یاہوہ دے نال خیسِد ⟨اے⟩ تے اوہدے نال بہت فدیہ ⟨اے⟩۔",
   "tokens": [
     {
       "surface": "יחל",
-      "gloss": "اُڈیک رکھ"
+      "gloss": "اُڈیک کر"
     },
     {
       "surface": "ישראל",
-      "gloss": "یِسرائیل"
+      "gloss": "اے یِسرائیل"
     },
     {
       "surface": "אל",
-      "gloss": "تے"
+      "gloss": "دی"
     },
     {
       "surface": "יהוה",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "עם",
-      "gloss": "کول"
+      "gloss": "دے نال"
     },
     {
       "surface": "יהוה",
@@ -67,17 +41,17 @@
     },
     {
       "surface": "והרבה",
-      "gloss": "تے بہت"
+      "gloss": "بہت"
     },
     {
       "surface": "עמו",
-      "gloss": "اوہدے کول"
+      "gloss": "اوہدے نال"
     },
     {
       "surface": "פדות",
       "gloss": "فدیہ"
     }
   ],
-  "timestamp": "2026-10-16T01:26:41.897524713Z",
+  "timestamp": "2026-10-16T21:35:04.915034099Z",
   "model": "glm-5.3"
 }

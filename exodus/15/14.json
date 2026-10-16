@@ -5,32 +5,11 @@
   "book": "exodus",
   "lang": "pnb",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "زچگی دی پِیڑا",
-      "rationale": "חיל خاص کر زچگی دی پِیڑا اے، عام 'دُکھ' نئیں — شوہ 15:5 دے موازنے"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "אחז",
-      "rationale": "'پکڑنا' فعل 15:15 (יאחזמו) وِچ مُڑ آؤندا اے — زنجیر"
-    }
-  ],
-  "translation": "قوماں نے سُنیا تے کانب گئِیاں؛ زچگی دی پِیڑا نے فلستِی دے وسنیکاں نوں پکڑ لیا۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "5d5880446f42d199b77501d752a853253a71a0302e165e3d0d32c31637ba0d42",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/15\/13-16.1792096493565.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "قوماں نے سنیا، اوہ کانب گئیاں؛ پِڑ دی پِیڑ نے پلشت دے وسنیکاں نوں پھڑ لیا۔",
   "tokens": [
     {
       "surface": "שמעו",
-      "gloss": "سُنیا"
+      "gloss": "سنیا"
     },
     {
       "surface": "עמים",
@@ -38,21 +17,25 @@
     },
     {
       "surface": "ירגזון",
-      "gloss": "کانب گئِیاں"
+      "gloss": "کانب گئیاں"
     },
     {
       "surface": "חיל",
-      "gloss": "زچگی دی پِیڑا"
+      "gloss": "پِڑ دی پِیڑ"
     },
     {
       "surface": "אחז",
-      "gloss": "پکڑ لیا"
+      "gloss": "پھڑ لیا"
     },
     {
-      "surface": "יושבי פלשת",
-      "gloss": "فلستِی دے وسنیکاں نوں"
+      "surface": "ישבי",
+      "gloss": "وسنیکاں نوں"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "پلشت"
     }
   ],
-  "timestamp": "2026-10-15T20:34:53.566564506Z",
+  "timestamp": "2026-10-16T21:07:13.106894215Z",
   "model": "glm-5.3"
 }

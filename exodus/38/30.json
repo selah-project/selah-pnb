@@ -5,49 +5,28 @@
   "book": "exodus",
   "lang": "pnb",
   "chapter": 38,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "اُس نے",
-      "rationale": "فاعل عبرانی وچ فعل وچ کہیا گیا اے، پنجابی لئی وکھ لکھیا"
-    },
-    {
-      "kind": "substitution",
-      "subject": "بیس",
-      "rationale": "אדני ستون\/دیوار د‏‏ی نیہہ اے، بیس (basis) د‏‏ی طرح"
-    }
-  ],
-  "translation": "تے اُس نال اُس نے ⟨את⟩ میٹنگ دے خیمے دے دہانے دے بیس بنائے، تے ⟨את⟩ تانبے د‏‏ی قربانگاہ، تے ⟨את⟩ تانبے دا جال جیہڑا اُس دا سی، تے ⟨את⟩ قربanگاہ دے سارے برتن۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "d2c16a773016f9048fd6ad5eaf8efca658c334f27a0b8763d36eeecb7ffbfb00",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/38\/29-31.1792097258152.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "تے اوہدے نال اوہنے ⟦⟧ ⟨את⟩ مِیلاناں دے بنائیاں جو میل-خانے دے دروازے ⟨تیں⟩، تے ⟨את⟩ تانبے دا قربانی-مذبح، تے ⟨את⟩ تانبے دی جالی جیہڑی اوہدی ⟨سی⟩، تے ⟨את⟩ مذبح دے سارے برتن۔",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "تے بنائے"
+      "gloss": "بنائیاں"
     },
     {
       "surface": "בה",
-      "gloss": "اُس نال"
+      "gloss": "اوہدے نال"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "بیس"
+      "marks": "مِیلاناں"
     },
     {
       "surface": "אדני",
-      "gloss": "بیس"
+      "gloss": "مِیلاناں"
     },
     {
       "surface": "פתח",
-      "gloss": "دہانے دے"
+      "gloss": "دروازے"
     },
     {
       "surface": "אהל",
@@ -55,45 +34,45 @@
     },
     {
       "surface": "מועד",
-      "gloss": "میٹنگ دے"
+      "gloss": "میل"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "قربانگاہ"
+      "gloss": "تے ⟨את⟩",
+      "marks": "قربانی-مذبح"
     },
     {
       "surface": "מזבח",
-      "gloss": "قربانگاہ"
-    },
-    {
-      "surface": "הנחשת",
-      "gloss": "تانبے د‏‏ی"
-    },
-    {
-      "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "جال"
-    },
-    {
-      "surface": "מכבר",
-      "gloss": "جال"
+      "gloss": "قربانی-مذبح"
     },
     {
       "surface": "הנחשת",
       "gloss": "تانبے دا"
     },
     {
+      "surface": "ואת",
+      "gloss": "تے ⟨את⟩",
+      "marks": "جالی"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "جالی"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "تانبے دی"
+    },
+    {
       "surface": "אשר",
-      "gloss": "جیہڑا"
+      "gloss": "جیہڑی"
     },
     {
       "surface": "לו",
-      "gloss": "اُس دا سی"
+      "gloss": "اوہدی ⟨سی⟩"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "تے ⟨את⟩",
       "marks": "سارے برتن"
     },
     {
@@ -106,9 +85,9 @@
     },
     {
       "surface": "המזבח",
-      "gloss": "قربانگاہ دے"
+      "gloss": "مذبح دے"
     }
   ],
-  "timestamp": "2026-10-15T20:47:38.153677506Z",
+  "timestamp": "2026-10-16T21:09:01.704411367Z",
   "model": "glm-5.3"
 }

@@ -5,65 +5,44 @@
   "book": "jeremiah",
   "lang": "pnb",
   "chapter": 52,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אתו (پہلا)",
-      "rationale": "ایتھے אִתּוֹ نالدار اُپسرگݨ اے 'نال'، مفعول دا نشان ⟨את⟩ نئیں — ایس لئی بریکٹ نئیں"
-    },
-    {
-      "kind": "addition",
-      "subject": "سن",
-      "rationale": "عبرانی وِچ کریا نئیں؛ پنجابی جملے لئی 'سن' جوڑیا"
-    }
-  ],
-  "translation": "تے اوہدے نال چنگیاں گلاں آکھیاں، تے اوہدے ⟨את⟩ تخت نوں اوہناں بادشاہواں دے تختاں توں اُچے کیتا جیہڑے اوہدے نال بابل وِچ سن۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "f8cb9a5b4dd041780de374819e937fe7fe45f88ff2970885a3110905602fe8d1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/52\/29-32.1792108947841.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "تے ⟨את⟩ اُس نال چنگیاں گلاں کیتیاں، تے ⟨את⟩ اُس دا تخت اوہناں بادشاہاں دے تختاں توں اُتے رکھیا جیہڑے ⟨את⟩ اُس دے نال بابل وِچ سن۔",
   "tokens": [
     {
       "surface": "וידבר",
-      "gloss": "تے آکھیا"
+      "gloss": "کیتاں گلاں"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ اوہدے نال"
+      "gloss": "⟨את⟩ اُس نال"
     },
     {
-      "surface": "טבות",
-      "gloss": "چنگیاں گلاں"
+      "surface": "טובות",
+      "gloss": "چنگیاں"
     },
     {
       "surface": "ויתן",
-      "gloss": "تے دِتیاں"
+      "gloss": "تے رکھیا"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "اوہدے تخت نوں"
+      "marks": "اُس دا تخت"
     },
     {
       "surface": "כסאו",
-      "gloss": "اوہدے تخت"
+      "gloss": "اُس دا تخت"
     },
     {
       "surface": "ממעל",
-      "gloss": "توں اُچے"
+      "gloss": "توں اُتے"
     },
     {
       "surface": "לכסא",
-      "gloss": "دے تختاں"
+      "gloss": "تختاں دے"
     },
     {
       "surface": "מלכים",
-      "gloss": "بادشاہواں"
+      "gloss": "بادشاہاں دے"
     },
     {
       "surface": "אשר",
@@ -71,13 +50,13 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ اوہدے نال"
+      "gloss": "⟨את⟩ اُس دے نال"
     },
     {
       "surface": "בבבל",
       "gloss": "بابل وِچ"
     }
   ],
-  "timestamp": "2026-10-16T00:02:27.843065942Z",
+  "timestamp": "2026-10-16T21:21:25.842440770Z",
   "model": "glm-5.3"
 }

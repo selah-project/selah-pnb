@@ -5,27 +5,11 @@
   "book": "genesis",
   "lang": "pnb",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "اوہناں نوں",
-      "rationale": "عبرانی وِچ آخری جملے وِچ صرف ⟨את⟩ تے نشان اے، مفعول پنجابی وِچ چاہیدا سی"
-    }
-  ],
-  "translation": "تے ایلوہیم نے ⟨את⟩ آدمی نوں اوہدی صورت وِچ پیدا کیتا؛ ایلوہیم دی صورت وِچ اوہنوں پیدا کیتا، ⟨את⟩ نر تے مادہ نوں اوہناں نوں پیدا کیتا۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "fa5a5940706a609b9662839ef89eeb035bffa88f31852fdad820e65bdf6b3ef9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/1\/25-28.1792094693444.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "تے ایلوہیم نے ⟨את⟩ آدم نوں اپنی صورت وِچ بنایا؛ ایلوہیم دی صورت وِچ ⟨את⟩ اوہدے نوں بنایا، نر تے مادہ ⟨את⟩ اوہناں نوں بنایا۔",
   "tokens": [
     {
       "surface": "ויברא",
-      "gloss": "پیدا کیتا"
+      "gloss": "بنایا"
     },
     {
       "surface": "אלהים",
@@ -34,15 +18,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "آدمی نوں"
+      "marks": "آدم"
     },
     {
       "surface": "האדם",
-      "gloss": "آدمی نوں"
+      "gloss": "آدم"
     },
     {
       "surface": "בצלמו",
-      "gloss": "اوہدی صورت وِچ"
+      "gloss": "اپنی صورت وِچ"
     },
     {
       "surface": "בצלם",
@@ -50,28 +34,28 @@
     },
     {
       "surface": "אלהים",
-      "gloss": "ایلوہیم دی"
+      "gloss": "ایلوہیم"
     },
     {
       "surface": "ברא",
-      "gloss": "پیدا کیتا"
+      "gloss": "بنایا"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "اوہنوں"
+      "marks": "اوہدے نوں"
     },
     {
       "surface": "זכר",
-      "gloss": "نر تے"
+      "gloss": "نر"
     },
     {
       "surface": "ונקבה",
-      "gloss": "مادہ نوں"
+      "gloss": "تے مادہ"
     },
     {
       "surface": "ברא",
-      "gloss": "پیدا کیتا"
+      "gloss": "بنایا"
     },
     {
       "surface": "אתם",
@@ -79,6 +63,6 @@
       "marks": "اوہناں نوں"
     }
   ],
-  "timestamp": "2026-10-15T20:04:53.445206111Z",
+  "timestamp": "2026-10-16T21:13:18.223407342Z",
   "model": "glm-5.3"
 }

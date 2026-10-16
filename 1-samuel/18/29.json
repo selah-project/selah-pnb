@@ -5,37 +5,11 @@
   "book": "1-samuel",
   "lang": "pnb",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "ויאסף",
-      "rationale": "字hebrew 'to add' as adverbial 'continued\/more so' — پنجابی وِچ 'ہور وی'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "מפני",
-      "rationale": "lit. 'from the face of' — 'داوِد توں' rendering"
-    },
-    {
-      "kind": "addition",
-      "subject": "رہا",
-      "rationale": "پیئل וِچ 'ויהי' 'تے' رہا، پنجابی فعل 'رہا' پایا"
-    }
-  ],
-  "translation": "تے شاؤل ہور وی داوِد توں ڈرن لگا، تے شاؤل داوِد دا ویری ساری عمر رہا۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "b730fc5cc880ad3008028311b1af05296bbae4e930523479319bceb199ecd97b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/18\/29-30.1792102633088.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "تے شاؤل ⟨ہور⟩ داوِد دے ساہمنے توں داڑدے رہن لگا، تے شاؤل داوِد دا ویری سارے دن رہیا۔",
   "tokens": [
     {
       "surface": "ויאסף",
-      "gloss": "ہور وی"
+      "gloss": "داڑدے رہن لگا"
     },
     {
       "surface": "שאול",
@@ -43,11 +17,11 @@
     },
     {
       "surface": "לרא",
-      "gloss": "ڈرن لگا"
+      "gloss": "داڑدے"
     },
     {
       "surface": "מפני",
-      "gloss": "توں"
+      "gloss": "دے ساہمنے توں"
     },
     {
       "surface": "דוד",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "ויהי",
-      "gloss": "تے"
+      "gloss": "تے رہیا"
     },
     {
       "surface": "שאול",
@@ -80,13 +54,13 @@
     },
     {
       "surface": "כל",
-      "gloss": "ساری"
+      "gloss": "سارے"
     },
     {
       "surface": "הימים",
-      "gloss": "عمر"
+      "gloss": "دن"
     }
   ],
-  "timestamp": "2026-10-15T22:17:13.089493743Z",
+  "timestamp": "2026-10-16T20:55:53.558008096Z",
   "model": "glm-5.3"
 }

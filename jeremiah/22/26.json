@@ -5,36 +5,21 @@
   "book": "jeremiah",
   "lang": "pnb",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אתך",
-      "rationale": "پہلا אתך مفعولی نشان اے پر اوہدی گلاس 'تینوں' ای اے؛ واؤ لگی את D1 ٹبر وچوں ⟨את⟩ رکھیا"
-    }
-  ],
-  "translation": "تے میں تینوں سُٹ دیاں گا تے ⟨את⟩ تیری ماں نوں جیہڑی اوہنے تینوں جنیا، اک اجیہی دھرتی اُتے جتھے تسیں جِمے نئیں، تے اوتھے تسیں مر جاؤ گے۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "7dce5e5e6a31edbf5377f2a598f7a8ebe8c61129553c3b68cda6dbecd4dac821",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/22\/25-28.1792107817033.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "تے میں تینوں ⟨את⟩ تے تیری ماں نوں ⟨את⟩، جیہڑی اوہنے تینوں جنیا، اِک ہور دھرتی اُتے سُٹ دیناں، جتھے تسیں نئیں جمے، تے اوتھے ای تسیں مر جاؤ گے۔",
   "tokens": [
     {
       "surface": "והטלתי",
-      "gloss": "تے میں سُٹ دیاں گا"
+      "gloss": "تے میں سُٹ دیناں"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ تینوں"
+      "gloss": "⟨את⟩",
+      "marks": "تینوں"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "تیری ماں"
+      "gloss": "تے ⟨את⟩",
+      "marks": "تیری ماں نوں"
     },
     {
       "surface": "אמך",
@@ -58,7 +43,7 @@
     },
     {
       "surface": "אחרת",
-      "gloss": "اجیہی ہور"
+      "gloss": "اِک ہور"
     },
     {
       "surface": "אשר",
@@ -70,7 +55,7 @@
     },
     {
       "surface": "ילדתם",
-      "gloss": "تسیں جِمے"
+      "gloss": "تسیں جمے"
     },
     {
       "surface": "שם",
@@ -78,13 +63,13 @@
     },
     {
       "surface": "ושם",
-      "gloss": "تے اوتھے"
+      "gloss": "تے اوتھے ای"
     },
     {
       "surface": "תמותו",
-      "gloss": "تسیں مرو گے"
+      "gloss": "تسیں مر جاؤ گے"
     }
   ],
-  "timestamp": "2026-10-15T23:43:37.033826659Z",
+  "timestamp": "2026-10-16T21:18:27.108517550Z",
   "model": "glm-5.3"
 }

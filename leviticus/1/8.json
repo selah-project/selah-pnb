@@ -5,31 +5,15 @@
   "book": "leviticus",
   "lang": "pnb",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "نیں \/ اے",
-      "rationale": "אשר دیاں دو کڑیاں پنجابی لئی فعل منگدیاں نیں"
-    }
-  ],
-  "translation": "تے اہرون دے پتر، کاہن، ٹکڑیاں نوں، ⟨את⟩ سر نوں تے ⟨את⟩ چربی نوں، لکڑیاں اُتے ترتیب نال رکھنگے، جیہڑیاں اگّ اُتے نیں، جیہڑی قربان گاہ اُتے اے۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "7ab9af0c71b0302942b0f6a2cfe83901fe36afeeb8c96ce7d95b609a9e04c55f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/1\/5-8.1792097383366.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "تے اہرون دے پُتر کاہن ⟨את⟩ ٹُکرے، ⟨את⟩ سِر تے ⟨את⟩ چربی لکڑاں اُتے، جیہڑیاں اگّ اُتے نیں، جیہڑی قربانی دی تھاں اُتے اے، ٹکسن نال لا دین گے۔",
   "tokens": [
     {
       "surface": "וערכו",
-      "gloss": "ترتیب نال رکھنگے"
+      "gloss": "تے ٹکسن نال لا دین گے"
     },
     {
       "surface": "בני",
-      "gloss": "پتر"
+      "gloss": "دے پُتر"
     },
     {
       "surface": "אהרן",
@@ -42,24 +26,24 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ٹکڑے"
+      "marks": "ٹُکرے"
     },
     {
       "surface": "הנתחים",
-      "gloss": "ٹکڑے"
+      "gloss": "ٹُکرے"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "سر"
+      "marks": "سِر"
     },
     {
       "surface": "הראש",
-      "gloss": "سر"
+      "gloss": "سِر"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "تے ⟨את⟩",
       "marks": "چربی"
     },
     {
@@ -72,7 +56,7 @@
     },
     {
       "surface": "העצים",
-      "gloss": "لکڑیاں"
+      "gloss": "لکڑاں"
     },
     {
       "surface": "אשר",
@@ -96,9 +80,9 @@
     },
     {
       "surface": "המזבח",
-      "gloss": "قربان گاہ"
+      "gloss": "قربانی دی تھاں"
     }
   ],
-  "timestamp": "2026-10-15T20:49:43.367445569Z",
+  "timestamp": "2026-10-16T21:25:05.366834905Z",
   "model": "glm-5.3"
 }

@@ -5,105 +5,79 @@
   "book": "1-kings",
   "lang": "pnb",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "سن",
-      "rationale": "عبرانی وِچ کوپلا نئیں"
-    },
-    {
-      "kind": "crux",
-      "subject": "עשר באמה",
-      "rationale": "'اِک ہتھ وِچ دس' (KJV) بمقابلہ 'دس ہتھ گھیرا' (ASV 'for ten cubits')"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "סביב סבבים מקפים סביב",
-      "rationale": "گھیراؤ والے تن وکھرے قافئے، پنجابی وِچ اِکو گھیر-ٹبر"
-    }
-  ],
-  "translation": "تے گنڈے اوہدی لب ہیٹھوں چاروں پاسے اوہنوں گھیرے ہوئے ⟨سن⟩ — اِک ہتھ وِچ دس، سمندر نوں چاروں پاسے گھیردے ہوئے — گنڈے دو قطاراں وِچ ⟨سن⟩، اوہدے ڈھیاؤ وِچ ڈھیلے گئے۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "33701fd0d0bb83b4005a731db5de1f6eea5b4b1460460621e95a6469368eb57b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/7\/21-24.1792104171413.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "تے اُس دی لبھی ہیٹھاں گول ابھار ⟨את⟩roundabout چکر کٹدے سن، اِک ہتھ وِچ دس، سمندر نوں ⟨את⟩roundabout گھیر کے؛ دو قطاراں وِچ اوہ ابھار اُس دے ڈھلن ویلے ڈھالے گئے۔",
   "tokens": [
     {
-      "surface": "ופקעים",
-      "gloss": "تے گنڈے"
+      "surface": "וּפְקָעִים",
+      "gloss": "تے گول ابھار"
     },
     {
-      "surface": "מתחת",
-      "gloss": "ہیٹھوں"
+      "surface": "מִתַּחַת",
+      "gloss": "ہیٹھاں"
     },
     {
-      "surface": "לשפתו",
-      "gloss": "اوہدی لب"
+      "surface": "לִשְׂפָתוֹ",
+      "gloss": "اُس دی لبھی"
     },
     {
-      "surface": "סביב",
-      "gloss": "چاروں پاسے"
+      "surface": "סָבִיב",
+      "gloss": "roundabout چاروں پاسے"
     },
     {
-      "surface": "סבבים",
-      "gloss": "گھیرے ہوئے"
+      "surface": "סֹבְבִים",
+      "gloss": "چکر کٹدے سن"
     },
     {
-      "surface": "אתו",
+      "surface": "אֹתוֹ",
       "gloss": "⟨את⟩",
-      "marks": "اوہنوں"
+      "marks": "اوہ ابھار (عبرانی متن: دس ہتھ تک)"
     },
     {
-      "surface": "עשר",
+      "surface": "עֶשֶׂר",
       "gloss": "دس"
     },
     {
-      "surface": "באמה",
+      "surface": "בָּאַמָּה",
       "gloss": "اِک ہتھ وِچ"
     },
     {
-      "surface": "מקפים",
-      "gloss": "گھیردے ہوئے"
+      "surface": "מַקִּיפִים",
+      "gloss": "گھیر کے"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
-      "marks": "سمندر نوں"
+      "marks": "سمندر"
     },
     {
-      "surface": "הים",
+      "surface": "הַיָּם",
       "gloss": "سمندر"
     },
     {
-      "surface": "סביב",
+      "surface": "סָבִיב",
       "gloss": "چاروں پاسے"
     },
     {
-      "surface": "שני",
+      "surface": "שְׁנַיִם",
       "gloss": "دو"
     },
     {
-      "surface": "טורים",
-      "gloss": "قطاراں وِچ"
+      "surface": "טוּרִים",
+      "gloss": "قطاراں"
     },
     {
-      "surface": "הפקעים",
-      "gloss": "گنڈے"
+      "surface": "הַפְּקָעִים",
+      "gloss": "اوہ ابھار"
     },
     {
-      "surface": "יצקים",
-      "gloss": "ڈھیلے گئے"
+      "surface": "יְצֻקִים",
+      "gloss": "ڈھالے گئے"
     },
     {
-      "surface": "ביצקתו",
-      "gloss": "اوہدے ڈھیاؤ وِچ"
+      "surface": "בְּיֻצַּקְתּוֹ",
+      "gloss": "اُس دے ڈھلن ویلے"
     }
   ],
-  "timestamp": "2026-10-15T22:42:51.414878638Z",
+  "timestamp": "2026-10-16T20:54:29.191736680Z",
   "model": "glm-5.3"
 }

@@ -5,23 +5,7 @@
   "book": "1-samuel",
   "lang": "pnb",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "اوہنوں",
-      "rationale": "אתו دا مفعول پنجابی لئی Pronoun منگدا اے"
-    }
-  ],
-  "translation": "تے اوہناں نے قریت-یعارِم دے وسنیکاں کول پیغام بھیجے کہ آکھو: فلستیاں نے یاہوہ دا ⟨את⟩ صندوق واپس کیتا اے؛ اُترو، اوہنوں چُک کے اپنے کول لے جاؤ۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "08dba26a50f67057be7dcaadc19933c8ae9ecda71018204eae345de4b0f1186b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/6\/21-21.1792102193122.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "تے اوہناں نے قریت یعارم دے وسنیکاں کول پیغام بھیجے، آکھدے ہوئے: پلشتِی نے یاہوہ دے صندوق ⟨את⟩ واپس کر دتا اے، اُترو تے ⟨את⟩ اوہنوں اپنے نال چُک جاؤ۔",
   "tokens": [
     {
       "surface": "וישלחו",
@@ -45,19 +29,19 @@
     },
     {
       "surface": "יערים",
-      "gloss": "یعارِم"
+      "gloss": "یعارم"
     },
     {
       "surface": "לאמר",
-      "gloss": "کہ آکھو"
+      "gloss": "آکھدے ہوئے"
     },
     {
       "surface": "השבו",
-      "gloss": "واپس کیتا اے"
+      "gloss": "واپس کر دتا اے"
     },
     {
       "surface": "פלשתים",
-      "gloss": "فلستیاں نے"
+      "gloss": "پلشتِی نے"
     },
     {
       "surface": "את",
@@ -70,7 +54,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "یاہوہ دا"
+      "gloss": "یاہوہ دے"
     },
     {
       "surface": "רדו",
@@ -78,18 +62,18 @@
     },
     {
       "surface": "העלו",
-      "gloss": "چُک کے لے جاؤ"
+      "gloss": "چُک جاؤ"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "اوہنوں"
+      "gloss": "⟨את⟩ اوہنوں",
+      "marks": "اپنے نال"
     },
     {
       "surface": "אליכם",
-      "gloss": "اپنے کول"
+      "gloss": "اپنے نال"
     }
   ],
-  "timestamp": "2026-10-15T22:09:53.122727771Z",
+  "timestamp": "2026-10-16T20:56:55.972731034Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "numbers",
   "lang": "pnb",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "پکار",
-      "rationale": "ترجمے دی شروع وچ پکار دا گروں ہٹا دتا — ترجمہ صرف آیت دا اے"
-    },
-    {
-      "kind": "you",
-      "subject": "موشے",
-      "rationale": "امر موشے نوں — عبرانی فعل مخاطب اے، اوہدے ناں دی وضاحت سیاق توں"
-    }
-  ],
-  "translation": "اَوراہام نئیں — موشے، تُو اہرون نوں تے ⟨את⟩ اہرون نوں تے ⟨ואת⟩ اُس دے پُتر ایلعزر نوں چُک، تے اوہناں نوں ہور پہاڑ اُتے چڑھا۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "b99c015fde4d1b5715d0a75f6bdfc8b04a79f9870f86010f4adbb3465cd867b3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/20\/25-28.1792098809966.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "⟨את⟩ اہرون نوں تے ⟨את⟩ اِلعازر نوں، اوہدے پُتر نوں، چُک کے ⟨את⟩ اوہناں نوں ہور پہاڑ اُتے چڑھا،",
   "tokens": [
     {
       "surface": "קח",
-      "gloss": "چُک"
+      "gloss": "چُک کے"
     },
     {
       "surface": "את",
@@ -43,25 +22,25 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨ואת⟩",
-      "marks": "ایلعزر"
+      "gloss": "تے ⟨את⟩",
+      "marks": "اِلعازر"
     },
     {
       "surface": "אלעזר",
-      "gloss": "ایلعزر"
+      "gloss": "اِلعازر"
     },
     {
       "surface": "בנו",
-      "gloss": "اُس دا پُتر"
+      "gloss": "اوہدے پُتر"
     },
     {
       "surface": "והעל",
-      "gloss": "تے چڑھا"
+      "gloss": "چڑھا"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "اوہ"
+      "gloss": "⟨את⟩ اوہناں نوں",
+      "marks": "ہور پہاڑ"
     },
     {
       "surface": "הר",
@@ -72,6 +51,6 @@
       "gloss": "پہاڑ"
     }
   ],
-  "timestamp": "2026-10-15T21:13:29.967147800Z",
+  "timestamp": "2026-10-16T21:31:31.768625012Z",
   "model": "glm-5.3"
 }

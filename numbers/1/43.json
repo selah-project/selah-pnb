@@ -5,32 +5,11 @@
   "book": "numbers",
   "lang": "pnb",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "سی",
-      "rationale": "عبرانی وِچ کوئی فعل نئیں، پنجابی جملے لئی پایا گیا"
-    },
-    {
-      "kind": "measurement",
-      "subject": "گنتی",
-      "rationale": "نفتالی دا حساب — 53,400"
-    }
-  ],
-  "translation": "اوہناں دی گنتی، نفتالی دے قبیلے لئی، تن تے پنجاہ ہزار تے چار سے ⟨سی⟩۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "e5c56e667f78c107f8b770b795cabde573b9456d229d8e8cb176f85a4b20166a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/1\/41-44.1792098181251.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "اُنہاں دی گِنتی، نفتالی دے قبیلے لئی، تن تے پنجاہ ہزار تے چار سو ⟨اے⟩۔",
   "tokens": [
     {
       "surface": "פקדיהם",
-      "gloss": "اوہناں دی گنتی"
+      "gloss": "اُنہاں دی گِنتی"
     },
     {
       "surface": "למטה",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "נפתלי",
-      "gloss": "نفتالی دے"
+      "gloss": "نفتالی"
     },
     {
       "surface": "שלשה",
@@ -58,9 +37,9 @@
     },
     {
       "surface": "מאות",
-      "gloss": "سے"
+      "gloss": "سو"
     }
   ],
-  "timestamp": "2026-10-15T21:03:01.252489590Z",
+  "timestamp": "2026-10-16T21:29:08.039527224Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "psalms",
   "lang": "pnb",
   "chapter": 44,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ਸੱਟਾਂ ماردے آں",
-      "rationale": "ਨנח literally 'سنگاں نال وَڈھنا' — پنجابی وِچ وَڈھ ماریا گیا"
-    },
-    {
-      "kind": "crux",
-      "subject": "ਸੱਟਾਂ ماردے آں",
-      "rationale": "وشیشن: 'وَڈھے گے' (مستقبل) بمقابلہ 'وَڈھدے آں' — دونویں پڑھائیاں ہن"
-    }
-  ],
-  "translation": "تیرے نال اسیں اپنے دشمناں نوں ਸੱਟਾਂ ماردے آں؛ تیرے ناں نال اسیں اپنے اُٹھن والیاں نوں روتے پا آں۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "e52cd2837ffbe59a8196daa5239e07cb97b990c377c88d197418130afd947f55",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/44\/5-8.1792112499233.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "تیرے نال اسیں ⟨את⟩ اپنے دشمناں نوں سِرّاں نال بھُکساندے آں، تے تیرے ناں نال اسیں ⟨את⟩ اپنے اُٹھن والیاں نوں رَوندے آں۔",
   "tokens": [
     {
       "surface": "בך",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "ננגח",
-      "gloss": "ਸੱਟਾਂ ماردے آں"
+      "gloss": "سِرّاں نال بھُکساندے آں"
     },
     {
       "surface": "בשמך",
@@ -46,13 +25,14 @@
     },
     {
       "surface": "נבוס",
-      "gloss": "روتے پا آں"
+      "gloss": "رَوندے آں",
+      "marks": "اپنے اُٹھن والیاں نوں"
     },
     {
       "surface": "קמינו",
       "gloss": "اپنے اُٹھن والیاں نوں"
     }
   ],
-  "timestamp": "2026-10-16T01:01:39.233742444Z",
+  "timestamp": "2026-10-16T21:35:46.889459923Z",
   "model": "glm-5.3"
 }

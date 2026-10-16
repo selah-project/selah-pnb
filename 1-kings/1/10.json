@@ -5,32 +5,16 @@
   "book": "1-kings",
   "lang": "pnb",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "اوس دے",
-      "rationale": "عبرانی وِچ صرف אחיו اے؛ لِنگ واضح کرن لئی پنجانی جملے نے 'اوس' پایا۔"
-    }
-  ],
-  "translation": "پر ناتن نبی نوں، تے بنیاہو نوں، تے ⟨את⟩ سورمےآں نوں، تے ⟨את⟩ اوس دے بھرا شِلوموہ نوں، اوہنے نئیں سدّیا۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "04176cf383202b003caf3b80cf1f7e173680039930a9c58fbd4e79f7b2c94485",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/1\/9-12.1792103899251.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "پر ⟨את⟩ ناتان نبی نوں، تے بنیاهو نوں، تے ⟨את⟩ بہادر جواناں نوں، تے ⟨את⟩ شلوموہ اپنے بھرا نوں، اوہنے بلایا نئیں۔",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "ناتن نبی نوں"
+      "marks": "ناتان نبی"
     },
     {
       "surface": "נתן",
-      "gloss": "ناتن"
+      "gloss": "ناتان"
     },
     {
       "surface": "הנביא",
@@ -38,29 +22,29 @@
     },
     {
       "surface": "ובניהו",
-      "gloss": "تے بنیاہو"
+      "gloss": "تے بنیاهو"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "سورمےآں نوں"
+      "marks": "بہادر جوان"
     },
     {
       "surface": "הגבורים",
-      "gloss": "سورمے"
+      "gloss": "بہادر جوان"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "اوس دے بھرا شِلوموہ نوں"
+      "marks": "شلوموہ"
     },
     {
       "surface": "שלמה",
-      "gloss": "شِلوموہ"
+      "gloss": "شلوموہ"
     },
     {
       "surface": "אחיו",
-      "gloss": "اوس دا بھرا"
+      "gloss": "اپنے بھرا"
     },
     {
       "surface": "לא",
@@ -68,9 +52,9 @@
     },
     {
       "surface": "קרא",
-      "gloss": "سدّیا"
+      "gloss": "بلایا"
     }
   ],
-  "timestamp": "2026-10-15T22:38:19.252947086Z",
+  "timestamp": "2026-10-16T20:52:34.341617478Z",
   "model": "glm-5.3"
 }

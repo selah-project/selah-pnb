@@ -5,28 +5,7 @@
   "book": "numbers",
   "lang": "pnb",
   "chapter": 31,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "נשא את ראש",
-      "rationale": "عبرانی ’سر چُکنا‘ = گنتی کرنا؛ پنجابی وِچ ’گنتی چُکیا‘"
-    },
-    {
-      "kind": "measurement",
-      "subject": "is",
-      "rationale": "آیت فوج دی گنتی تے اِک وی بندہ گھٹ نہ ہونے دی گنتی کردی اے"
-    }
-  ],
-  "translation": "تے اوہناں موشے نوں آکھیا: تیرے غلاماں نے جنگ دے مرداں دی گنتی چُکی اے، جیہڑے ساڈے ہتھ وِچ نیں، تے اِس وِچوں کوئی بندہ گھٹیا نئیں۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "f120b510b8b93621728eedec0fa6e379e813f4966449b92a71f336fa330bf3d7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/31\/49-52.1792099242806.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "تے اوہناں موشے نوں آکھیا: تیرے غلاماں نے جنگ دے مرداں دا گنتی ⟨את⟩ سر چکیا اے جیہڑے ساڈے ہتھ وِچ نیں، تے اوہدے توں اِک بندہ وی گِنیا نئیں گھٹ ۔",
   "tokens": [
     {
       "surface": "ויאמרו",
@@ -46,12 +25,12 @@
     },
     {
       "surface": "נשאו",
-      "gloss": "چُکیا"
+      "gloss": "چکیا اے"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "سر (گنتی)"
+      "marks": "سر"
     },
     {
       "surface": "ראש",
@@ -59,11 +38,11 @@
     },
     {
       "surface": "אנשי",
-      "gloss": "مرداں دی"
+      "gloss": "مرداں دا"
     },
     {
       "surface": "המלחמה",
-      "gloss": "جنگ دے"
+      "gloss": "جنگ"
     },
     {
       "surface": "אשר",
@@ -71,7 +50,7 @@
     },
     {
       "surface": "בידנו",
-      "gloss": "ساڈے ہتھ وِچ"
+      "gloss": "ساڈے ہتھ وِچ نیں"
     },
     {
       "surface": "ולא",
@@ -79,17 +58,17 @@
     },
     {
       "surface": "נפקד",
-      "gloss": "گھٹیا"
+      "gloss": "گِنیا گھٹ"
     },
     {
       "surface": "ממנו",
-      "gloss": "اِس وِچوں"
+      "gloss": "اوہدے توں"
     },
     {
       "surface": "איש",
-      "gloss": "کوئی بندہ"
+      "gloss": "اِک بندہ"
     }
   ],
-  "timestamp": "2026-10-15T21:20:42.807144325Z",
+  "timestamp": "2026-10-16T21:32:35.105930310Z",
   "model": "glm-5.3"
 }

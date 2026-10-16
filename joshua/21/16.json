@@ -5,37 +5,16 @@
   "book": "joshua",
   "lang": "pnb",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "نَؤں شہر",
-      "rationale": "کاہناں دے حصے دی شہراں دی گِنتی دا سَمپن — نَؤں شہر دو قبیلےآں توں"
-    },
-    {
-      "kind": "elision",
-      "subject": "مِاِت",
-      "rationale": "מאת ایتھے اِتو عربی دا مطلب اے — ⟨את⟩ توں رکھیا گیا، 'توں' جُڑیا"
-    }
-  ],
-  "translation": "تے ⟨את⟩ عَیِّن نوں تے ⟨את⟩ اوہدے میدان نوں، تے ⟨את⟩ یُتّا نوں تے ⟨את⟩ اوہدے میدان نوں، ⟨את⟩ بَیت شِمِش نوں تے ⟨את⟩ اوہدے میدان نوں — نَؤں شہر ایہناں ⟨את⟩ دوویں שבטים ⟨قبیلے⟩ توں۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "18b05d91fa11c26c6731cf8ec5bbcf4653e72e1daa32b94e64cc8d6e2508058c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joshua\/21\/13-16.1792101199853.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "تے ⟨את⟩ عین ⟨את⟩ اوہدے میداناں سمیت، تے ⟨את⟩ یُتّہ ⟨את⟩ اوہدے میداناں سمیت، ⟨את⟩ بیت شمش ⟨את⟩ اوہدے میداناں سمیت — نَوں شہر، ایہناں دو قبیلیاں توں ⟨את⟩۔",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "عَیِّن"
+      "marks": "عین"
     },
     {
       "surface": "עין",
-      "gloss": "عَیِّن"
+      "gloss": "عین"
     },
     {
       "surface": "ואת",
@@ -49,11 +28,11 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "یُتّا"
+      "marks": "یُتّہ"
     },
     {
       "surface": "יטה",
-      "gloss": "یُتّا"
+      "gloss": "یُتّہ"
     },
     {
       "surface": "ואת",
@@ -67,15 +46,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "بَیت شِمِش"
+      "marks": "بیت شمش"
     },
     {
       "surface": "בית",
-      "gloss": "بَیت"
+      "gloss": "بیت"
     },
     {
       "surface": "שמש",
-      "gloss": "شِمِش"
+      "gloss": "شمش"
     },
     {
       "surface": "ואת",
@@ -92,25 +71,25 @@
     },
     {
       "surface": "תשע",
-      "gloss": "نَؤں"
+      "gloss": "نَوں"
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩ توں"
+      "gloss": "⟨את⟩"
     },
     {
       "surface": "שני",
-      "gloss": "دوویں"
+      "gloss": "دو"
     },
     {
       "surface": "השבטים",
-      "gloss": "قبیلےآں"
+      "gloss": "قبیلیاں"
     },
     {
       "surface": "האלה",
       "gloss": "ایہناں"
     }
   ],
-  "timestamp": "2026-10-15T21:53:19.854175079Z",
+  "timestamp": "2026-10-16T21:22:55.864959204Z",
   "model": "glm-5.3"
 }

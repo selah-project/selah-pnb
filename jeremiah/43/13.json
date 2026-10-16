@@ -5,58 +5,32 @@
   "book": "jeremiah",
   "lang": "pnb",
   "chapter": 43,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "بیت-شیمش",
-      "rationale": "בית שמש ایتھے مِتصرایم دا شہر اون\/ہیلیوپولس اے، فلسطین دا بیت-شیمش نئیں — شمش یعنی سورج دی تھاں"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ستون",
-      "rationale": "מצבות توں مُراد کھڑے کیتے ستون یا مُورتیاں نیں، کجھ ترجمے صرف مورتیاں آکھدے نیں"
-    },
-    {
-      "kind": "elision",
-      "subject": "بیت-شیمش",
-      "rationale": "عبرانی دو ٹوکن (בית + שמש) اک جُڑے ناں نیں، پنجابی وِچ اِک واری لکھیا"
-    }
-  ],
-  "translation": "تے اوہ بیت-شیمش دے ستوناں نوں، جیہڑے مِتصرایم دی دھرتی وِچ نیں، توڑیگا، تے مِتصرایم دے ایلوہیم دیاں کوٹھیاں نوں اگّ وِچ ساڑیگا۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "f7bfefa2d4fcd9474f48cfeb5c333334ff515a4eef972d0ae15cd39c700da75c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/43\/13-13.1792108526214.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "تے اُوہ بیت-شیمش دے ⟨את⟩ کھمبے توڑ دیوے گا، جیہڑا مِتصرایم دی دھرتی وِچ اے، تے مِتصرایم دے دیویاں دے ⟨את⟩ مکاناں نوں اگّ نال ساڑے گا۔",
   "tokens": [
     {
       "surface": "ושבר",
-      "gloss": "تے توڑیگا"
+      "gloss": "توڑ دیوے گا"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ستوناں نوں"
+      "marks": "کھمبے"
     },
     {
       "surface": "מצבות",
-      "gloss": "ستون"
+      "gloss": "کھمبے"
     },
     {
       "surface": "בית",
-      "gloss": "بیت-شیمش دے"
-    },
-    {
-      "surface": "שמש",
       "gloss": "بیت-شیمش"
     },
     {
+      "surface": "שמש",
+      "gloss": "سورج"
+    },
+    {
       "surface": "אשר",
-      "gloss": "جیہڑے"
+      "gloss": "جیہڑا"
     },
     {
       "surface": "בארץ",
@@ -64,20 +38,20 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "مِتصرایم دی"
+      "gloss": "مِتصرایم"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "کوٹھیاں نوں"
+      "marks": "مکاناں نوں"
     },
     {
       "surface": "בתי",
-      "gloss": "کوٹھیاں"
+      "gloss": "مکاناں نوں"
     },
     {
       "surface": "אלהי",
-      "gloss": "ایلوہیم دے"
+      "gloss": "دیویاں دے"
     },
     {
       "surface": "מצרים",
@@ -85,13 +59,13 @@
     },
     {
       "surface": "ישרף",
-      "gloss": "ساڑیگا"
+      "gloss": "ساڑے گا"
     },
     {
       "surface": "באש",
-      "gloss": "اگّ وِچ"
+      "gloss": "اگّ نال"
     }
   ],
-  "timestamp": "2026-10-15T23:55:26.215150200Z",
+  "timestamp": "2026-10-16T21:20:41.704356256Z",
   "model": "glm-5.3"
 }

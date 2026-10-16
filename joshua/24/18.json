@@ -5,31 +5,15 @@
   "book": "joshua",
   "lang": "pnb",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ہویا اے",
-      "rationale": "عبرانی وِچ کdhaka دینا ماضی وِچ اے — پنجابی دا کریٰ"
-    }
-  ],
-  "translation": "تے یاہوہ نے ساریاں قوماں نوں، تے اُس دیس وِچ وسدے ہوئے اموری نوں ⟨את⟩، ساڈے اگّوں کdhaka دتا؛ اسیں وی یاہوہ دی عبادت کرنگے، کیونجے اوہ ساڈا ایلوہیم اے۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "ddfa6e961e9ee9ac254b2062ec70179d9df427332086c57aceced4a5edc15e70",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joshua\/24\/17-20.1792101327438.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "تے یاہوہ نے ⟨את⟩ ساریاں قوماں نوں تے ⟨את⟩ ایموریاں نوں، جیہڑے دیس وِچ وسدے سن، ساڈے اگّوں کڈھ دتا؛ اسیں وی یاہوہ دی عبادت کرانیے، کیونجے اوہ ساڈا ایلوہیم اے۔",
   "tokens": [
     {
       "surface": "ויגרש",
-      "gloss": "تے کdhaka دتا"
+      "gloss": "کڈھ دتا"
     },
     {
       "surface": "יהוה",
-      "gloss": "یاہوہ نے"
+      "gloss": "یاہوہ"
     },
     {
       "surface": "את",
@@ -46,16 +30,16 @@
     },
     {
       "surface": "ואת",
-      "gloss": "تے ⟨את⟩",
-      "marks": "اموری"
+      "gloss": "⟨את⟩",
+      "marks": "ایموریاں"
     },
     {
       "surface": "האמרי",
-      "gloss": "اموری"
+      "gloss": "ایموریاں"
     },
     {
       "surface": "ישב",
-      "gloss": "وسدے ہوئے"
+      "gloss": "وسدے سن"
     },
     {
       "surface": "הארץ",
@@ -75,7 +59,7 @@
     },
     {
       "surface": "נעבד",
-      "gloss": "عبادت کرنگے"
+      "gloss": "عبادت کرانیے"
     },
     {
       "surface": "את",
@@ -84,7 +68,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "یاہوہ دی"
+      "gloss": "یاہوہ"
     },
     {
       "surface": "כי",
@@ -99,6 +83,6 @@
       "gloss": "ساڈا ایلوہیم"
     }
   ],
-  "timestamp": "2026-10-15T21:55:27.439117856Z",
+  "timestamp": "2026-10-16T21:23:42.283456033Z",
   "model": "glm-5.3"
 }

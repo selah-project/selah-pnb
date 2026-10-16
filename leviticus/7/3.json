@@ -5,28 +5,12 @@
   "book": "leviticus",
   "lang": "pnb",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "האליה",
-      "rationale": "'چوڑی پوچھ' — مشرقی بھیڑ دی موٹی پوچھ، عبرانی دا اک خاص انگ"
-    }
-  ],
-  "translation": "تے ⟨את⟩ اوہدا سارا چربی اوہ اوہدے وِچوں پیش کرےگا: ⟨את⟩ چوڑی پوچھ تے ⟨את⟩ اوہ چربی جیہڑا اندریاں نوں ڈھانکدی اے،",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "000c27701f6384e678ace380bcde0df4f5c26af47cf542d345bf65d8bb2cc244",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/7\/1-4.1792097473562.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "تے ⟨את⟩ سارا اوہدا چربی اوہ توں ہی کرے قربانی: ⟨את⟩ مُٹھی چوڑی تے ⟨את⟩ اوہ چربی جیہڑا ڈھکدا اے ⟨את⟩ اَندراں نوں۔",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "تے ⟨את⟩",
-      "marks": "اوہدا سارا چربی"
+      "gloss": "⟨את⟩",
+      "marks": "سارا"
     },
     {
       "surface": "כל",
@@ -37,25 +21,25 @@
       "gloss": "اوہدا چربی"
     },
     {
-      "surface": "יקריב",
-      "gloss": "پیش کرےگا"
+      "surface": "יקרריב",
+      "gloss": "کرے قربانی"
     },
     {
       "surface": "ממנו",
-      "gloss": "اوہدے وِچوں"
+      "gloss": "توں ہی"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "چوڑی پوچھ"
+      "marks": "مُٹھی چوڑی"
     },
     {
       "surface": "האליה",
-      "gloss": "چوڑی پوچھ"
+      "gloss": "مُٹھی چوڑی"
     },
     {
       "surface": "ואת",
-      "gloss": "تے ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "اوہ چربی"
     },
     {
@@ -64,18 +48,18 @@
     },
     {
       "surface": "המכסה",
-      "gloss": "ڈھانکدی اے"
+      "gloss": "ڈھکدا اے"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "اندریاں"
+      "marks": "اَندراں نوں"
     },
     {
       "surface": "הקרב",
-      "gloss": "اندریاں"
+      "gloss": "اَندراں"
     }
   ],
-  "timestamp": "2026-10-15T20:51:13.563552103Z",
+  "timestamp": "2026-10-16T21:27:26.301843114Z",
   "model": "glm-5.3"
 }

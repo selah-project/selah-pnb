@@ -5,32 +5,11 @@
   "book": "2-chronicles",
   "lang": "pnb",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "صندوق",
-      "rationale": "ארון دی سِدھی شکل 'ڈبہ\/صندوق' اے؛ 'تابوت' ریتاں دا لفظ اے"
-    },
-    {
-      "kind": "addition",
-      "subject": "سن",
-      "rationale": "عبرانی وِچ فعل دوجی واری نئیں، 'جو خیمے وِچ سن' توں بعد کریا پوری کرن لئی"
-    }
-  ],
-  "translation": "تے اوہناں صندوق نوں چُکیا، تے ⟨את⟩ خیمے نوں جتھے مِلوائی دا اے، تے ⟨את⟩ سارے پوتر ساز سن جو خیمے وِچ سن — اوہناں نوں کاہن لاویاں نے چُکیا۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "3f938b32a4b31e42c83a9334b9c84d6b1548fa0639962a2da62cc8ec3c58611d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/5\/5-8.1792121682519.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "تے اوہ ⟨את⟩ صندوق نوں تے ⟨את⟩ مِلن دے اِکھاڑے نوں تے ⟨את⟩ سارے پوتر سنگتراں نوں جیہڑے اِکھاڑے وِچ سن، چُک لے گے — کاہن لیویاں نے اوہناں نوں اُتے لے گئے۔",
   "tokens": [
     {
       "surface": "ויעלו",
-      "gloss": "چُکیا"
+      "gloss": "اُتے لے گے"
     },
     {
       "surface": "את",
@@ -44,20 +23,20 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "خیمہ"
+      "marks": "مِلن دا اِکھاڑا"
     },
     {
       "surface": "אהל",
-      "gloss": "خیمہ"
+      "gloss": "اِکھاڑا"
     },
     {
       "surface": "מועד",
-      "gloss": "مِلوائی"
+      "gloss": "مِلن"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "سارے پوتر ساز"
+      "marks": "سارے پوتر سنگتر"
     },
     {
       "surface": "כל",
@@ -65,7 +44,7 @@
     },
     {
       "surface": "כלי",
-      "gloss": "ساز"
+      "gloss": "سنگتر"
     },
     {
       "surface": "הקדש",
@@ -73,30 +52,30 @@
     },
     {
       "surface": "אשר",
-      "gloss": "جو"
+      "gloss": "جیہڑے"
     },
     {
       "surface": "באהל",
-      "gloss": "خیمے وِچ"
+      "gloss": "اِکھاڑے وِچ"
     },
     {
       "surface": "העלו",
-      "gloss": "چُکیا"
+      "gloss": "اُتے لے گئے"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "اوہناں نوں"
+      "marks": "کاہن لیوی"
     },
     {
       "surface": "הכהנים",
-      "gloss": "کاہناں"
+      "gloss": "کاہن"
     },
     {
       "surface": "הלוים",
-      "gloss": "لاویاں"
+      "gloss": "لیوی"
     }
   ],
-  "timestamp": "2026-10-16T03:34:42.520538964Z",
+  "timestamp": "2026-10-16T20:58:41.821239095Z",
   "model": "glm-5.3"
 }

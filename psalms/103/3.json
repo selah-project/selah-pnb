@@ -5,32 +5,11 @@
   "book": "psalms",
   "lang": "pnb",
   "chapter": 103,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨اوہ⟩",
-      "rationale": "عبرانی فعل دا کردار پچھلی آیت دے اوہو جاری کردار توں — پنجابی لئی ⟨اوہ⟩ دا چاہیدا۔"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "לכל…לכל",
-      "rationale": "سامان جوڑا — سب بخشدا\/سب چنگا کردا — پنجابی وِچ ساریاں\/ساریاں دا دہراؤ رکھیا۔"
-    }
-  ],
-  "translation": "⟨اوہ⟩ جیہڑا تیریاں ساریاں糕 جُرماں بخشدا اے، جیہڑا تیریاں ساریاں بیماریاں چنگیاں کردا اے۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "5d7842f1cc76a792b5698e3ac41f741f2510068c2c0a3b2077e97ee9b4e2d2b4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/103\/1-4.1792113502779.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "جیہڑا تیریاں ساریاں گناہاں معاف کردا اے، جیہڑا تیریاں ساریاں بیماریاں نوں شفا دیندا اے،",
   "tokens": [
     {
       "surface": "הסלח",
-      "gloss": "بخشدا اے"
+      "gloss": "معاف کردا اے"
     },
     {
       "surface": "לכל",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "עונכי",
-      "gloss": "تیریاں جُرماں"
+      "gloss": "تیریاں گناہاں"
     },
     {
       "surface": "הרפא",
-      "gloss": "چنگیاں کردا اے"
+      "gloss": "شفا دیندا اے"
     },
     {
       "surface": "לכל",
@@ -53,6 +32,6 @@
       "gloss": "تیریاں بیماریاں"
     }
   ],
-  "timestamp": "2026-10-16T01:18:22.780609801Z",
+  "timestamp": "2026-10-16T21:34:22.633253082Z",
   "model": "glm-5.3"
 }

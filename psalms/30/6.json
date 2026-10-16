@@ -5,32 +5,11 @@
   "book": "psalms",
   "lang": "pnb",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ਗੁੱਸਾ",
-      "rationale": "ਅੱਪ literally ਨੱਕ\/ਥੁੱਣੇ ਹੈ — ਗੁੱਸੇ ਦੀ ਮੂਰਤ"
-    },
-    {
-      "kind": "alternative",
-      "subject": "ਰੋਵੇਂਦਾ",
-      "rationale": "ילין 'ਰਾਤ ਬੀਤਾਉਂਦਾ ਹੈ' — 'ਰੋਣਾ ਸ਼ਾਮ ਨਾਲ ਰਾਤ ਬੀਤਾਉਂਦਾ ਹੈ' ਹੋਰ ਸਿੱਧਾ ਸੀ"
-    }
-  ],
-  "translation": "کیونکہ اوہدے ਗُسّے وِچ اِک پل اے، اوہدی رضا وِچ جِیون؛ سویر ہون توں پہلاں شام رَوَیندا اے تے سویرے خوشی دی ہلارا۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "be439b2a2394964e15424f73588b6afeeaa0184dc5e37e18041eb4262de767e9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/30\/5-8.1792112194108.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "کِیوں جو اُوہدے غصے وِچ اِک پل اے، اُوہدی رضا وِچ زندگی اے؛ شام نوں روندے رہنا، پر سویرے خوشی دی ہلڑ۔",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "کیونکہ"
+      "gloss": "کِیوں جو"
     },
     {
       "surface": "רגע",
@@ -38,37 +17,37 @@
     },
     {
       "surface": "באפו",
-      "gloss": "اوہدے ਗُسّے وِچ"
+      "gloss": "اُوہدے غصے وِچ"
     },
     {
       "surface": "חיים",
-      "gloss": "جِیون اے"
+      "gloss": "زندگی"
     },
     {
       "surface": "ברצונו",
-      "gloss": "اوہدی رضا وِچ"
+      "gloss": "اُوہدی رضا وِچ"
     },
     {
       "surface": "בערב",
-      "gloss": "شام"
+      "gloss": "شام نوں"
     },
     {
       "surface": "ילין",
-      "gloss": "رَوَیندا اے"
+      "gloss": "رہنا"
     },
     {
       "surface": "בכי",
-      "gloss": "رونا"
+      "gloss": "روندے"
     },
     {
       "surface": "ולבקר",
-      "gloss": "تے سویرے"
+      "gloss": "پر سویرے"
     },
     {
       "surface": "רנה",
-      "gloss": "خوشی دی ہلارا"
+      "gloss": "خوشی دی ہلڑ"
     }
   ],
-  "timestamp": "2026-10-16T00:56:34.109750195Z",
+  "timestamp": "2026-10-16T21:35:31.570907551Z",
   "model": "glm-5.3"
 }

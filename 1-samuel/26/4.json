@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "pnb",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "‘آ چکيا’ وِچ سما گیا، وکھرا لفظ نئیں چاہیدا"
-    },
-    {
-      "kind": "crux",
-      "subject": "נכון",
-      "rationale": "کجھ ترجمے اینوں تھاں دا ناں ‘ناخون’ منگدے نیں (ylt)، باقی ‘یقین نال’ خیال دے نیں"
-    }
-  ],
-  "translation": "تے داوِد نے جاسوس بھیجے تے جان لیا کہ شاؤل یقین نال آ چکيا اے۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "82e5e74b0536333054c652363fbbf2e62bc35524e739e4c18f504836c58271c0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/26\/1-4.1792102946451.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "تے داوِد نے جاسوس گھلّے تے اوہنوں پتہ لگّیا کہ شاؤل سچ مُچّ آ گیا اے۔",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "بھیجے"
+      "gloss": "گھلّے"
     },
     {
       "surface": "דוד",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "וידע",
-      "gloss": "جان لیا"
+      "gloss": "تے اوہنوں پتہ لگّیا"
     },
     {
       "surface": "כי",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "בא",
-      "gloss": "آ چکيا"
+      "gloss": "آ گیا"
     },
     {
       "surface": "שאול",
@@ -58,13 +37,13 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "⟨تاں⟩"
     },
     {
       "surface": "נכון",
-      "gloss": "یقین نال"
+      "gloss": "سچ مُچّ"
     }
   ],
-  "timestamp": "2026-10-15T22:22:26.452676024Z",
+  "timestamp": "2026-10-16T20:55:41.635584186Z",
   "model": "glm-5.3"
 }

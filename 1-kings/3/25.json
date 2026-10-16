@@ -5,28 +5,7 @@
   "book": "1-kings",
   "lang": "pnb",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "دوجی نوں",
-      "rationale": "دوجی לאחת لئی واضح کیتا، عبرانی وِچ صرف 'اِک' دوبارہ اے"
-    },
-    {
-      "kind": "you",
-      "subject": "بادشاہ دا حکم",
-      "rationale": "حاضر صیغہ نال تے درباریاں نوں مخاطب"
-    }
-  ],
-  "translation": "تے بادشاہ نے آکھیا: جیوندے بال نوں دو ٹوٹیاں وِچ واؤ، تے ادھی ٹوٹی اِک نوں دیو تے ⟨את⟩ ادھی ٹوٹی دوجی نوں۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "ecdd2f0eb860736a6866a395935254e30403f39ef7e60882d270ade41a63d6de",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-kings\/3\/25-28.1792104025469.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "تے بادشاہ نے آکھیا: ⟨את⟩ جیوندے بال نوں دو ٹکڑیاں وِچ واؤ، تے ادھا حصہ اِکے نوں دیو تے ⟨את⟩ ادھا حصہ دوجے نوں دیو۔",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -47,7 +26,7 @@
     },
     {
       "surface": "הילד",
-      "gloss": "بال"
+      "gloss": "جیوندے بال نوں"
     },
     {
       "surface": "החי",
@@ -55,7 +34,7 @@
     },
     {
       "surface": "לשנים",
-      "gloss": "دو ٹوٹیاں وِچ"
+      "gloss": "دو ٹکڑیاں وِچ"
     },
     {
       "surface": "ותנו",
@@ -64,30 +43,30 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ادھی ٹوٹی نوں"
+      "marks": "ادھا حصہ"
     },
     {
       "surface": "החצי",
-      "gloss": "ادھی ٹوٹی"
+      "gloss": "ادھا حصہ"
     },
     {
       "surface": "לאחת",
-      "gloss": "اِک نوں"
+      "gloss": "اِکے نوں"
     },
     {
       "surface": "ואת",
       "gloss": "تے ⟨את⟩",
-      "marks": "ادھی ٹوٹی نوں"
+      "marks": "ادھا حصہ"
     },
     {
       "surface": "החצי",
-      "gloss": "ادھی ٹوٹی"
+      "gloss": "ادھا حصہ"
     },
     {
       "surface": "לאחת",
-      "gloss": "دوجی نوں"
+      "gloss": "دوجے نوں"
     }
   ],
-  "timestamp": "2026-10-15T22:40:25.470541315Z",
+  "timestamp": "2026-10-16T20:54:11.587750141Z",
   "model": "glm-5.3"
 }

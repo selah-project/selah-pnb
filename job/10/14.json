@@ -5,55 +5,33 @@
   "book": "job",
   "lang": "pnb",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "ਅੱਲ੍ਹਾ ਨੂੰ",
-      "rationale": "ਜੌਬ ਦੀ ਸਿੱਧੀ ਪ੍ਰਭੂ ਨੂੰ ਸੰਬੋਧਨ, ਵਿਵਾਦ ਦਾ ਭਾਗ।"
-    }
-  ],
-  "translation": "ਜੇ ਮੈਂ ਪਾਪ ਕੀਤਾ ਤਾਂ ਤੂੰ ਮੈਨੂੰ ਨਿਗਰਾਨੀ ਹੇਠ ਰੱਖਦਾ ਹੈਂ, ਤੇ ਮੇਰੇ ਅਪਰਾਧ ਤੋਂ ਮੈਨੂੰ ਬਰੀ ਨਹੀਂ ਕਰਦਾ۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "a0de202703275a85fe4037e236b54e7d84b81d6a985ed72b551acf657feda211",
-    "prompt-file": ".selah/sources/translations/prompts/pnb/job/10/13-16.1792115681193.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "جے میں گناہ کیتا، تے تاں نے میݨوں نگاہ رکھی، تے میݨے قصور توں میݨوں پاک نئیں کیتا۔",
   "tokens": [
     {
       "surface": "אם",
-      "gloss": "ਜੇ"
+      "gloss": "جے"
     },
     {
       "surface": "חטאתי",
-      "gloss": "ਮੈਂ ਪਾਪ ਕੀਤਾ"
+      "gloss": "میں گناہ کیتا"
     },
     {
       "surface": "ושמרתני",
-      "gloss": "ਤਾਂ ਤੂੰ ਮੈਨੂੰ ਨਿਗਰਾਨੀ ਹੇਠ ਰੱਖਦਾ ਹੈਂ"
+      "gloss": "تاں نے میݨوں نگاہ رکھی"
     },
     {
       "surface": "ומעוני",
-      "gloss": "ਤੇ ਮੇਰੇ ਅਪਰਾਧ ਤੋਂ"
+      "gloss": "میݨے قصور توں"
     },
     {
       "surface": "לא",
-      "gloss": "ਨਹੀਂ"
+      "gloss": "نئیں"
     },
     {
       "surface": "תנקני",
-      "gloss": "ਬਰੀ ਕਰਦਾ"
+      "gloss": "میݨوں پاک کیتا"
     }
   ],
-  "timestamp": "2026-10-16T01:54:41.194516486Z",
-  "model": "glm-5.3",
-  "pnb_fold": {
-    "date": "2026-10-15",
-    "folds": {
-      "।→۔": 1
-    }
-  }
+  "timestamp": "2026-10-16T21:21:07.517870046Z",
+  "model": "glm-5.3"
 }

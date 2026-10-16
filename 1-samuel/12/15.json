@@ -5,61 +5,40 @@
   "book": "1-samuel",
   "lang": "pnb",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "تُہاڈے اُتے",
-      "rationale": "בכם 'تُہاڈے وِچ\/خلاف' — کیوین 'against' دھار لیندا اے؛ شاہ مُکھی 'اُتے' رکھیا"
-    },
-    {
-      "kind": "elision",
-      "subject": "جیویں تُہاڈے پیوآں دے خلاف سی",
-      "rationale": "کیوین 'as it was against your fathers' دا عبرانی وِچ انت نئیں؛ پنجابی وِچ وی نئیں پایا"
-    }
-  ],
-  "translation": "پر جے تُساں یاہوہ دی آواز نوں نہ سُنو گے تے یاہوہ دے ⟨את⟩ مُوہھے دی نافرمانی کرو گے، تاں یاہوہ دا ہتھ تُہاڈے Against تے تُہاڈے پیوآں دے Against ہووے گا۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "b9b57bec0d3214cc0a1bc968d8a9af358b67897e21f8313d1d1cd11c742df334",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/12\/13-16.1792102437666.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "تے جے تُساں یاہوہ دی آواز نئیں سُندے تے یاہوہ ⟨את⟩ دے مُونہہ دے خلاف بغاوت کردے او، تاں یاہوہ دا ہتھ تُہاڈے اتے تے تُہاڈے پیؤاں اتے ہووےگا۔",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "پر جے"
+      "gloss": "تے جے"
     },
     {
       "surface": "לא",
-      "gloss": "نہ"
+      "gloss": "نئیں"
     },
     {
       "surface": "תשמעו",
-      "gloss": "تُساں سُنو گے"
+      "gloss": "سُندے او"
     },
     {
       "surface": "בקול",
-      "gloss": "آواز نوں"
+      "gloss": "دی آواز"
     },
     {
       "surface": "יהוה",
-      "gloss": "یاہوہ دی"
+      "gloss": "یاہوہ"
     },
     {
       "surface": "ומריתם",
-      "gloss": "تے نافرمانی کرو گے"
+      "gloss": "تے بغاوت کردے او"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "مُوہھا"
+      "marks": "یاہوہ دے مُونہہ نوں"
     },
     {
       "surface": "פי",
-      "gloss": "مُوہھے دی"
+      "gloss": "دے مُونہہ"
     },
     {
       "surface": "יהוה",
@@ -67,25 +46,25 @@
     },
     {
       "surface": "והיתה",
-      "gloss": "تاں ہووے گا"
+      "gloss": "تاں ہووےگا"
     },
     {
       "surface": "יד",
-      "gloss": "ہتھ"
+      "gloss": "دا ہتھ"
     },
     {
       "surface": "יהוה",
-      "gloss": "یاہوہ دا"
+      "gloss": "یاہوہ"
     },
     {
       "surface": "בכם",
-      "gloss": "تُہاڈے اُتے"
+      "gloss": "تُہاڈے اتے"
     },
     {
       "surface": "ובאבתיכם",
-      "gloss": "تے تُہاڈے پیوآں اُتے"
+      "gloss": "تے تُہاڈے پیؤاں اتے"
     }
   ],
-  "timestamp": "2026-10-15T22:13:57.667932673Z",
+  "timestamp": "2026-10-16T20:55:01.462831455Z",
   "model": "glm-5.3"
 }

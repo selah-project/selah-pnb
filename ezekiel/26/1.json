@@ -5,54 +5,23 @@
   "book": "ezekiel",
   "lang": "pnb",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "עשרה",
-      "rationale": "בעשתי پہلاں ای '-دس' سمیٹدا اے، اِس لئی وکھ گلاس ضروری نئیں"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨دن⟩",
-      "rationale": "عبرانی 'אחד' (اِک\/پہلا) اے، پنجابی 'مہینے دے پہلے' نال 'دن' منگدا اے"
-    },
-    {
-      "kind": "addition",
-      "subject": "آیا",
-      "rationale": "היה 'ہویا' اے؛ 'بول…میرے کول' نال پنجابی 'آیا' منگدا اے"
-    },
-    {
-      "kind": "measurement",
-      "subject": "date",
-      "rationale": "نبی دی تریخ — گیارھویں ورھا، مہینے دا پہلا دن"
-    }
-  ],
-  "translation": "تے گیارھویں ورھے وِچ، مہینے دے پہلے ⟨دن⟩، یاہوہ دا بول میرے کول آیا، آکھدا ہویا:",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "2ed03c3d1372b6b90791a95442a7e5b1a28d06af44da40ab788f32ec74b84394",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/26\/1-4.1792109701469.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "تے گیاراویں ورے، مہینے دے پہلے ⟨دن⟩، یاہوہ دا بچن میرے کول آیا ⟨جِہڑا آکھدا⟩:",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "تے ہویا"
+      "gloss": "تے ⟨سوئیا⟩"
     },
     {
       "surface": "בעשתי",
-      "gloss": "گیارھویں وِچ"
+      "gloss": "گیاراویں"
     },
     {
       "surface": "עשרה",
-      "gloss": ""
+      "gloss": "⟨گِنتی⟩"
     },
     {
       "surface": "שנה",
-      "gloss": "ورھے"
+      "gloss": "ورے"
     },
     {
       "surface": "באחד",
@@ -64,11 +33,11 @@
     },
     {
       "surface": "היה",
-      "gloss": "آیا ⟨ہویا⟩"
+      "gloss": "آیا"
     },
     {
       "surface": "דבר",
-      "gloss": "بول"
+      "gloss": "بچن"
     },
     {
       "surface": "יהוה",
@@ -80,9 +49,9 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "آکھدا ہویا"
+      "gloss": "⟨جِہڑا آکھدا⟩"
     }
   ],
-  "timestamp": "2026-10-16T00:15:01.470792160Z",
+  "timestamp": "2026-10-16T21:11:01.028873964Z",
   "model": "glm-5.3"
 }

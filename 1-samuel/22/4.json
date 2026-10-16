@@ -5,41 +5,20 @@
   "book": "1-samuel",
   "lang": "pnb",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "את פני",
-      "rationale": "ר字面 'کِسے دا مُکھ' — حاضری\/اگے لیاؤݨ دی عبرانی ریت"
-    },
-    {
-      "kind": "crux",
-      "subject": "מצודה",
-      "rationale": "'جال\/قلعہ\/مضبوط تھاں' — عبرانی لفظ دوناں مطلب رکھدا اے"
-    }
-  ],
-  "translation": "تے اوہناں نوں اوہ مُوآب دے بادشاہ دے اگے لِایا، تے اوہ اوہدے نال رہے اوہناں ساریاں دِناں جِے داوِد قلعے وِچ سی۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "9e6949e1d187902aa7707ff1db513f0301ecab4843dfe83992db6838e23bb091",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/22\/1-4.1792102851862.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "تے اوہ ⟨את⟩ مُوآب دے بادشاہ دے اگے اوہناں نوں لیایا، تے اوہ اوہدے نال رہے سارے اوہ دن جدوں تک داوِد مزار وِچ سی۔",
   "tokens": [
     {
       "surface": "וינחם",
-      "gloss": "تے لِایا"
+      "gloss": "اوہ لیایا"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "مُوآب دے بادشاہ دا مُکھ"
+      "marks": "مُوآب دے بادشاہ دے اگے"
     },
     {
       "surface": "פני",
-      "gloss": "مُکھ"
+      "gloss": "اگے"
     },
     {
       "surface": "מלך",
@@ -51,7 +30,7 @@
     },
     {
       "surface": "וישבו",
-      "gloss": "تے رہے"
+      "gloss": "تے اوہ رہے"
     },
     {
       "surface": "עמו",
@@ -59,15 +38,15 @@
     },
     {
       "surface": "כל",
-      "gloss": "ساریاں"
+      "gloss": "سارے"
     },
     {
       "surface": "ימי",
-      "gloss": "دِناں"
+      "gloss": "دن"
     },
     {
       "surface": "היות",
-      "gloss": "ہووݨ"
+      "gloss": "جدوں تک … سی"
     },
     {
       "surface": "דוד",
@@ -75,9 +54,9 @@
     },
     {
       "surface": "במצודה",
-      "gloss": "قلعے وِچ"
+      "gloss": "مزار وِچ"
     }
   ],
-  "timestamp": "2026-10-15T22:20:51.863618685Z",
+  "timestamp": "2026-10-16T20:55:51.311517108Z",
   "model": "glm-5.3"
 }

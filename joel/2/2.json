@@ -5,28 +5,7 @@
   "book": "joel",
   "lang": "pnb",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "כשחר",
-      "rationale": "'like dawn' (KJV\/ASV\/BSB) vs 'like blackness\/darkness' (JPS, reading שחר as שחור) — picture reverses entirely"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "חשך\/אפלה · ענן\/ערפל",
-      "rationale": "paired near-synonyms of darkness heaped in parallel, doubled intensity"
-    }
-  ],
-  "translation": "اندھیرے تے گھُپ اندھیرے دا دن، بَدلاں تے مُندر بَدلاں دا دن؛ پہاڑاں اُتے پھیلی سویر ⟨وارگوں⟩، اِک وڈی قوم تے زبردست قوم؛ اوہدے ورگا ہن تک کدی نہیں ہویا، تے اوہدے مگروں دوبارہ نہ ہووے گا، نسلاں تے نسلاں دے ورھیاں تک۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "5df513279c7cf6c3f98b6ef6db00330b8f3ca0f12508f62eb7935d58d68b0288",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/joel\/2\/1-4.1792110797211.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "ہنیرے تے گھُپ ہنیرے دا دن، بدلاں تے گھنی ہنیرے دا دن، سویرے وانگ پہاڑاں اُتے کھِلریا ہویا — اِک وڈی تے طاقتور قوم؛ اوہدے ورگا پہلے زمانے توں نئیں ہویا، تے اوہدے بعد نئیں ہووےگا، نسلاں تے نسلاں دے سالاں تک۔",
   "tokens": [
     {
       "surface": "יום",
@@ -34,11 +13,11 @@
     },
     {
       "surface": "חשך",
-      "gloss": "اندھیرے"
+      "gloss": "ہنیرے"
     },
     {
       "surface": "ואפלה",
-      "gloss": "تے گھُپ اندھרیرے"
+      "gloss": "تے گھُپ ہنیرے"
     },
     {
       "surface": "יום",
@@ -46,19 +25,19 @@
     },
     {
       "surface": "ענן",
-      "gloss": "بَدلاں"
+      "gloss": "بدلاں"
     },
     {
       "surface": "וערפל",
-      "gloss": "تے مُندر بَدلاں"
+      "gloss": "تے گھنی ہنیرے"
     },
     {
       "surface": "כשחר",
-      "gloss": "سویر ورگا"
+      "gloss": "سویرے وانگ"
     },
     {
       "surface": "פרש",
-      "gloss": "پھیلیا ہویا"
+      "gloss": "کھِلریا ہویا"
     },
     {
       "surface": "על",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "ועצום",
-      "gloss": "تے زبردست"
+      "gloss": "تے طاقتور"
     },
     {
       "surface": "כמהו",
@@ -86,7 +65,7 @@
     },
     {
       "surface": "לא",
-      "gloss": "نہیں"
+      "gloss": "نئیں"
     },
     {
       "surface": "נהיה",
@@ -98,19 +77,19 @@
     },
     {
       "surface": "העולם",
-      "gloss": "ازل"
+      "gloss": "پہلے زمانے"
     },
     {
       "surface": "ואחריו",
-      "gloss": "تے اوہدے مگروں"
+      "gloss": "تے اوہدے بعد"
     },
     {
       "surface": "לא",
-      "gloss": "نہ"
+      "gloss": "نئیں"
     },
     {
       "surface": "יוסף",
-      "gloss": "دوبارہ ہووے گا"
+      "gloss": "ہووےگا"
     },
     {
       "surface": "עד",
@@ -118,17 +97,17 @@
     },
     {
       "surface": "שני",
-      "gloss": "ورھیاں"
+      "gloss": "دے سالاں"
     },
     {
       "surface": "דור",
-      "gloss": "نسل"
+      "gloss": "نسلاں"
     },
     {
       "surface": "ודור",
-      "gloss": "تے نسل"
+      "gloss": "تے نسلاں"
     }
   ],
-  "timestamp": "2026-10-16T00:33:17.212420346Z",
+  "timestamp": "2026-10-16T21:22:37.643644159Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "jeremiah",
   "lang": "pnb",
   "chapter": 35,
-  "notes": [
-    {
-      "kind": "invitation",
-      "subject": "جا…گل کریں…لیا…پلا",
-      "rationale": "خوداکے یِرمیاہو نوں حکم، چار امر فارم وِچ"
-    },
-    {
-      "kind": "you",
-      "subject": "یِرمیاہو",
-      "rationale": "خطاب یاہوہ ولوں یِرمیاہو ول"
-    }
-  ],
-  "translation": "جا بَیּت ہارِخابیاں دے کول تے اوہناں نال گل کریں، تے اوہناں نوں یاہوہ دے گھر اِک لشکت وِچ لیا، تے اوہناں نوں شراب پلا۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "c5a63b4c1703e1bfb7b0639a655569b502daf91bd1b9fb4ba04ba8e69dd183bf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/35\/1-4.1792108252093.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "جا، ریکابیاں دے گھر نوں، تے اوہناں نال گَل کَر، تے اوہناں نوں یاہوہ دے گھر وِچ اِک لَشکاڑے وِچ ⟨את⟩ لیاؤ، تے اوہناں نوں ⟨את⟩ شراب پلوائیں۔",
   "tokens": [
     {
       "surface": "הלוך",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "دے کول"
+      "gloss": "نوں"
     },
     {
       "surface": "בית",
@@ -42,20 +21,20 @@
     },
     {
       "surface": "הרכבים",
-      "gloss": "ہارِخابیاں دا"
+      "gloss": "ریکابیاں دا"
     },
     {
       "surface": "ודברת",
-      "gloss": "تے گل کریں"
+      "gloss": "تے گَل کَر"
     },
     {
       "surface": "אותם",
-      "gloss": "اوہناں نال ⟨את⟩",
-      "marks": "ہارِخابیاں"
+      "gloss": "⟨את⟩",
+      "marks": "اوہناں نوں"
     },
     {
       "surface": "והבאותם",
-      "gloss": "تے لیا"
+      "gloss": "تے اوہناں نوں لیاؤ"
     },
     {
       "surface": "בית",
@@ -75,15 +54,15 @@
     },
     {
       "surface": "הלשכות",
-      "gloss": "لشکتاں وِچوں"
+      "gloss": "لَشکاڑے"
     },
     {
       "surface": "והשקית",
-      "gloss": "تے پلا"
+      "gloss": "تے پلوائیں"
     },
     {
       "surface": "אותם",
-      "gloss": "اوہناں نوں ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "شراب"
     },
     {
@@ -91,6 +70,6 @@
       "gloss": "شراب"
     }
   ],
-  "timestamp": "2026-10-15T23:50:52.094116552Z",
+  "timestamp": "2026-10-16T21:37:49.159863491Z",
   "model": "glm-5.3"
 }

@@ -5,53 +5,27 @@
   "book": "1-samuel",
   "lang": "pnb",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "alternative",
-      "subject": "הרף",
-      "rationale": "lit. 'let go\/slacken (your hand)'; 'رُکّ' (stop) chosen, 'تھوڑا جہا رُکّ' also possible"
-    },
-    {
-      "kind": "predicate-you",
-      "subject": "شموایل شاؤل نوں مخاطب اے",
-      "rationale": "imperative 'Stop!' — direct summons before rebuke"
-    },
-    {
-      "kind": "predicate-invitation",
-      "subject": "دبّر — 'آکھ'",
-      "rationale": "Saul's 'Speak' opens the floor; verse is a summons-and-response exchange"
-    }
-  ],
-  "translation": "تے شموایل نے شاؤل نوں آکھیا: رُکّ، تے میں تینوں دساں گا ⟨את⟩ ↔اوہ ساریاں گلاں↔ جیہڑیاں یاہوہ نے اَج رات مینوں آکھیاں نيں۔ تے اوہنے اوہدے نوں آکھیا: آکھ۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "64f6b23e9e4bda68d58523a183acf2dba524eb37cf629dbcd8bf09d9d85e35ac",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/15\/13-16.1792102569340.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "تے شموایل نے شاؤل نوں آکھیا: رُک، تے میں تینوں دساں گا ⟨את⟩ اوہناں گلاں جیہڑیاں یاہوہ نے میں نوں اَج رات آکھیاں۔ تے اوہ نے اوہدے نوں آکھیا: آکھ۔",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "تے آکھیا"
+      "gloss": "آکھیا"
     },
     {
       "surface": "שמואל",
-      "gloss": "شموایل نے"
+      "gloss": "شموایل"
     },
     {
       "surface": "אל",
-      "gloss": "کول"
+      "gloss": "نوں"
     },
     {
       "surface": "שאול",
-      "gloss": "شاؤل نوں"
+      "gloss": "شاؤل"
     },
     {
       "surface": "הרף",
-      "gloss": "رُکّ"
+      "gloss": "رُک"
     },
     {
       "surface": "ואגידה",
@@ -64,7 +38,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "اوہ ساریاں گلاں"
+      "marks": "اوہناں گلاں جیہڑیاں"
     },
     {
       "surface": "אשר",
@@ -72,15 +46,15 @@
     },
     {
       "surface": "דבר",
-      "gloss": "آکھیاں نيں"
+      "gloss": "آکھیاں"
     },
     {
       "surface": "יהוה",
-      "gloss": "یاہوہ نے"
+      "gloss": "یاہوہ"
     },
     {
       "surface": "אלי",
-      "gloss": "مینوں"
+      "gloss": "میں نوں"
     },
     {
       "surface": "הלילה",
@@ -88,7 +62,7 @@
     },
     {
       "surface": "ויאמרו",
-      "gloss": "تے آکھیا"
+      "gloss": "تے اوہ نے آکھیا"
     },
     {
       "surface": "לו",
@@ -99,6 +73,6 @@
       "gloss": "آکھ"
     }
   ],
-  "timestamp": "2026-10-15T22:16:09.341611888Z",
+  "timestamp": "2026-10-16T20:55:07.275183590Z",
   "model": "glm-5.3"
 }

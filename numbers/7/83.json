@@ -5,28 +5,7 @@
   "book": "numbers",
   "lang": "pnb",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "سی",
-      "rationale": "عبرانی وِچ کوئی فعل نئیں، پنجابی جملہ لئی bracket نالوں قدرتی جوڑ دِتا گیا — 'ایہہ ... قربانی سی'"
-    },
-    {
-      "kind": "measurement",
-      "subject": "گنتی",
-      "rationale": "دو، پنج، پنج، پنج — قربانیاں دی لگاتار گنتی"
-    }
-  ],
-  "translation": "تے شلومیم دی قربانی لئی: دو وَڳّ، پنج مینڈھے، پنج چھترے، پنج لیلے، اِک ورھے دے پُتر — ایہہ اَخیرع بن عینان دی قربانی سی۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "6d14fdc16a5dee2df0b4a43c9715d077bfbced8322bcc9ba8c687a688def0d81",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/7\/81-84.1792098461201.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "تے سلامتی دی قربانی لئی دو_OID واڑھ، پنج مینڈھے، پنج واسیاں بکرےآں وِچوں نر، پنج لیلیاں اِک ورھے دے — ایہہ اِحیرع بن عینان ⟨دی⟩ قربانی سی۔",
   "tokens": [
     {
       "surface": "ולזבח",
@@ -34,15 +13,15 @@
     },
     {
       "surface": "השלמים",
-      "gloss": "شلومیم"
+      "gloss": "سلامتی دی"
     },
     {
       "surface": "בקר",
-      "gloss": "وَڳّ"
+      "gloss": "واڑھ"
     },
     {
       "surface": "שנים",
-      "gloss": "دو"
+      "gloss": "دو_OID"
     },
     {
       "surface": "אילם",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "עתדים",
-      "gloss": "چھترے"
+      "gloss": "نر بکرے"
     },
     {
       "surface": "חמשה",
@@ -62,15 +41,15 @@
     },
     {
       "surface": "כבשים",
-      "gloss": "لیلے"
+      "gloss": "لیلیاں"
     },
     {
       "surface": "בני",
-      "gloss": "پُتر"
+      "gloss": "اِک ورھے دے"
     },
     {
       "surface": "שנה",
-      "gloss": "ورھے دے"
+      "gloss": ""
     },
     {
       "surface": "חמשה",
@@ -86,7 +65,7 @@
     },
     {
       "surface": "אחירע",
-      "gloss": "اَخیرع"
+      "gloss": "اِحیرع"
     },
     {
       "surface": "בן",
@@ -97,6 +76,6 @@
       "gloss": "عینان"
     }
   ],
-  "timestamp": "2026-10-15T21:07:41.202153839Z",
+  "timestamp": "2026-10-16T21:33:13.106262022Z",
   "model": "glm-5.3"
 }

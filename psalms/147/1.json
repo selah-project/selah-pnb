@@ -5,32 +5,11 @@
   "book": "psalms",
   "lang": "pnb",
   "chapter": 147,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "זמרה\/תהלה",
-      "rationale": "دو نویں شبانہ لفظ — وَجاون تے تعریف — اک دوجے دے نال جُڑے نیں، پنجابی وِچ ایہہ جوڑ کُھل جاندا اے"
-    },
-    {
-      "kind": "invitation",
-      "subject": "ہللو یہ",
-      "rationale": "حکری بانگ — سُنن والے نوں تعریف وِچ جوڑن دا سدا"
-    }
-  ],
-  "translation": "یاہ دی ستائش کرو، کیونکہ چنگی گل اے ساڈے ایلوہیم دی م dhaga؛ کیونکہ مٹھا اے، سوہنی گل اے تعریف۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "cb78caf90e42f8052cac8ae819476a99a726aed4815ae9bd9e92bb6a0c62b24c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/147\/1-4.1792114283275.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "یاہ دی مڈھاؤ، کیوں جو اسیں ⟨את⟩ ساڈے ایلوہیم دی تعریف گاؤنا چنگا اے؛ کیوں جو نیہرا اے، تعریف سوہنی اے۔",
   "tokens": [
     {
       "surface": "הללו",
-      "gloss": "ستائش کرو"
+      "gloss": "مڈھاؤ"
     },
     {
       "surface": "יה",
@@ -38,15 +17,15 @@
     },
     {
       "surface": "כי",
-      "gloss": "کیونکہ"
+      "gloss": "کیوں جو"
     },
     {
       "surface": "טוב",
-      "gloss": "چنگی گل اے"
+      "gloss": "چنگا"
     },
     {
       "surface": "זמרה",
-      "gloss": "ساڈے ایلوہیم دی dhaga (ڈھول تے گانا)"
+      "gloss": "گاؤنا"
     },
     {
       "surface": "אלהינו",
@@ -54,21 +33,21 @@
     },
     {
       "surface": "כי",
-      "gloss": "کیونکہ"
+      "gloss": "کیوں جو"
     },
     {
       "surface": "נעים",
-      "gloss": "مٹھا اے"
+      "gloss": "نیہرا"
     },
     {
       "surface": "נאוה",
-      "gloss": "سوہنی گل اے"
+      "gloss": "سوہنی"
     },
     {
       "surface": "תהלה",
       "gloss": "تعریف"
     }
   ],
-  "timestamp": "2026-10-16T01:31:23.276021031Z",
+  "timestamp": "2026-10-16T21:35:13.047439056Z",
   "model": "glm-5.3"
 }

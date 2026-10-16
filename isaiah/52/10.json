@@ -5,92 +5,71 @@
   "book": "isaiah",
   "lang": "pnb",
   "chapter": 52,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ننگی باہوں",
-      "rationale": "חשף זרוע is idiom of rolling up the sleeve baring the arm for action; literal 'made bare' kept"
-    },
-    {
-      "kind": "addition",
-      "subject": "نوں",
-      "rationale": "Punjabi needs the object particle with both marked objects"
-    }
-  ],
-  "translation": "یاہوہ نے ⟨את⟩ اپنی مقدس باہوں نوں سبھ قوماں دیاں اکھیں اگے ننگی کیتی اے، تے دھرتی دے سارے کنڈیاں نوں ساڈے ایلوہیم دی مُکتی ویکھنی اے۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "00dad7920c64788357726b96b0ebb8546103fc0f627a78c91c0892c15402a706",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/52\/9-12.1792106902694.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "یاہوہ نے ⟨את⟩ اپنی پوتر بازو ننگا کیتا اے سارے قومیں دیاں اکھیں دے ساہمنے، تے دھرتی دے سارے کنڈیاں ویکھنگے ⟨את⟩ ساڈے ایلوہیم دی مُکتی نوں۔",
   "tokens": [
     {
-      "surface": "חשף",
-      "gloss": "ننگی کیتی اے"
+      "surface": "חָשַׂף",
+      "gloss": "ننگا کیتا اے"
     },
     {
-      "surface": "יהוה",
-      "gloss": "یاہوہ نے"
+      "surface": "יְהוָה",
+      "gloss": "یاہوہ"
     },
     {
-      "surface": "את",
+      "surface": "אֵת",
       "gloss": "⟨את⟩",
-      "marks": "اپنی مقدس باہوں نوں"
+      "marks": "اپنی پوتر بازو"
     },
     {
-      "surface": "זרוע",
-      "gloss": "باہوں"
+      "surface": "זְרֹועַ",
+      "gloss": "بازو"
     },
     {
-      "surface": "קדשו",
-      "gloss": "اپنی مقدس"
+      "surface": "קָדְשֹׁו",
+      "gloss": "پوتر"
     },
     {
-      "surface": "לעיני",
-      "gloss": "اکھیں اگے"
+      "surface": "לְעֵינֵי",
+      "gloss": "اکھیں دے ساہمنے"
     },
     {
-      "surface": "כל",
-      "gloss": "سبھ"
-    },
-    {
-      "surface": "הגוים",
-      "gloss": "قوماں دیاں"
-    },
-    {
-      "surface": "וראו",
-      "gloss": "ویکھنی اے"
-    },
-    {
-      "surface": "כל",
+      "surface": "כָּל",
       "gloss": "سارے"
     },
     {
-      "surface": "אפסי",
-      "gloss": "کنڈیاں نوں"
+      "surface": "הַגֹּויִם",
+      "gloss": "قومیں"
     },
     {
-      "surface": "ארץ",
-      "gloss": "دھرتی دے"
+      "surface": "וְרָאוּ",
+      "gloss": "تے ویکھنگے"
     },
     {
-      "surface": "את",
+      "surface": "כָּל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "אַפְסֵי",
+      "gloss": "کنڈیاں"
+    },
+    {
+      "surface": "אָרֶץ",
+      "gloss": "دھرتی"
+    },
+    {
+      "surface": "אֵת",
       "gloss": "⟨את⟩",
-      "marks": "ساڈے ایلوہیم دی مُکتی نوں"
+      "marks": "ساڈے ایلوہیم دی مُکتی"
     },
     {
-      "surface": "ישועת",
+      "surface": "יְשׁוּעַת",
       "gloss": "مُکتی"
     },
     {
-      "surface": "אלהינו",
-      "gloss": "ساڈے ایلوہیم دی"
+      "surface": "אֱלֹהֵינוּ",
+      "gloss": "ساڈے ایلوہیم"
     }
   ],
-  "timestamp": "2026-10-15T23:28:22.694997185Z",
+  "timestamp": "2026-10-16T21:17:51.226255851Z",
   "model": "glm-5.3"
 }

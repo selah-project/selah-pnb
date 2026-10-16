@@ -5,32 +5,11 @@
   "book": "esther",
   "lang": "pnb",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "سی",
-      "rationale": "پنجابی ماضی لئی مدد وچار، عبرانی وِچ نئیں"
-    },
-    {
-      "kind": "you",
-      "subject": "ہامان نوں جلدی کرو",
-      "rationale": "بادشاہ دے نوکراں نوں حکم، اِستیر دی گل کرن لئی"
-    }
-  ],
-  "translation": "تے بادشاہ نے آکھیا: ہامان نوں جلدی کرو کہ اِستیر دی گل کرنیں، تے بادشاہ تے ہامان اُس مِہمانی ول آئے جیہڑی اِستیر نے بنائی سی۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "3c605cda140b6bbc6f14507df3805437f8b392bb7a953cfd738f2d5f67c4cc35",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/esther\/5\/5-8.1792117840738.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "تے بادشاہ نے آکھیا: جلدی ⟨את⟩ ہامن نوں کرو، تاں جو ایستر دی ⟨את⟩ گل کرن؛ تے بادشاہ تے ہامن اوہ ضیافت وَل آئے جیہڑی ایستر نے تیار کیتی۔",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "تے آکھیا"
+      "gloss": "تے … آکھیا"
     },
     {
       "surface": "המלך",
@@ -43,11 +22,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ہامان"
+      "marks": "ہامن نوں"
     },
     {
       "surface": "המן",
-      "gloss": "ہامان"
+      "gloss": "ہامن"
     },
     {
       "surface": "לעשות",
@@ -56,7 +35,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "اِستیر دی گل"
+      "marks": "ایستر دی گل"
     },
     {
       "surface": "דבר",
@@ -64,11 +43,11 @@
     },
     {
       "surface": "אסתר",
-      "gloss": "اِستیر دی"
+      "gloss": "ایستر"
     },
     {
       "surface": "ויבא",
-      "gloss": "تے آیا"
+      "gloss": "تے … آیا"
     },
     {
       "surface": "המלך",
@@ -76,15 +55,15 @@
     },
     {
       "surface": "והמן",
-      "gloss": "تے ہامان"
+      "gloss": "تے ہامن"
     },
     {
       "surface": "אל",
-      "gloss": "ول"
+      "gloss": "وَل"
     },
     {
       "surface": "המשתה",
-      "gloss": "مِہمانی"
+      "gloss": "ضیافت"
     },
     {
       "surface": "אשר",
@@ -92,13 +71,13 @@
     },
     {
       "surface": "עשתה",
-      "gloss": "بنائی سی"
+      "gloss": "تیار کیتی"
     },
     {
       "surface": "אסתר",
-      "gloss": "اِستیر نے"
+      "gloss": "ایستر"
     }
   ],
-  "timestamp": "2026-10-16T02:30:40.739464948Z",
+  "timestamp": "2026-10-16T21:37:26.159752479Z",
   "model": "glm-5.3"
 }

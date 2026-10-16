@@ -5,32 +5,11 @@
   "book": "psalms",
   "lang": "pnb",
   "chapter": 63,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ز磨ور",
-      "rationale": "מזמור ساز نال بجھی بولی اے — گیت\/زمور، صرف شاعری نئیں"
-    },
-    {
-      "kind": "elision",
-      "subject": "בהיותו",
-      "rationale": "عبرانی دا 'ہوندے ہوئے' پنجابی وِچ 'جدوں سی' بنیا — شکل وگڑی"
-    }
-  ],
-  "translation": "داوِد دا zmour، جدوں اوہ یہودا دے بیابان وِچ سی۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "dc79e24376d86015fac8a97b52f20ca2365d9ec20f1fd7deb0321802bda5c305",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/63\/1-4.1792112831410.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "داوِد دا مزمور، جدوں اوہ یہوداہ دے اجاڑ وِچ سی۔",
   "tokens": [
     {
       "surface": "מזמור",
-      "gloss": "ز磨ور"
+      "gloss": "مزمور"
     },
     {
       "surface": "לדוד",
@@ -42,13 +21,13 @@
     },
     {
       "surface": "במדבר",
-      "gloss": "بیابان وِچ"
+      "gloss": "اجاڑ وِچ"
     },
     {
       "surface": "יהודה",
-      "gloss": "یہودا"
+      "gloss": "یہوداہ"
     }
   ],
-  "timestamp": "2026-10-16T01:07:11.410663301Z",
+  "timestamp": "2026-10-16T21:36:11.570134841Z",
   "model": "glm-5.3"
 }

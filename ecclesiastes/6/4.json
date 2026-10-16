@@ -5,63 +5,41 @@
   "book": "ecclesiastes",
   "lang": "pnb",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "ובחשך … ובחשך",
-      "rationale": "'ਹਨੇਰੇ ਵਿੱਚ' ਦੀ ਦੁਹਰਾਈ — ਜਾਣਾ ਤੇ ਨਾਮ ਦੋਵੇਨ ਹਨੇਰੇ ਵਿੱਚ — ਆਇਤ ਦੀ ਜੁੜਵੀਂ ਬਣਤਰ ਆ।"
-    }
-  ],
-  "translation": "ਕਿਉਂਕਿ ਉਹ ਹੇਬਲ ਵਿੱਚ ਆਇਆ ਤੇ ਹਨੇਰੇ ਵਿੱਚ ਜਾਂਦਾ ਆ, ਤੇ ਹਨੇਰੇ ਵਿੱਚ ਉਹਦਾ ਨਾਮ ਢਕਿਆ ਜਾਂਦਾ ਆ۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "e7d615df2aede3ce82de5c4d7bae7ef0fde2a970b29d382b558e6dc71bf68ce0",
-    "prompt-file": ".selah/sources/translations/prompts/pnb/ecclesiastes/6/1-4.1792117672544.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "کیوں جو اوہ ہبل ⟨وچ⟩ آیا تے ہنیرے وچ جائُوگا، تے ہنیرے وچ اوہدا ناں ڈھکیا جائُوگا۔",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "ਕਿਉਂਕਿ"
+      "gloss": "کیوں جو"
     },
     {
       "surface": "בהבל",
-      "gloss": "ਹੇਬਲ ਵਿੱਚ"
+      "gloss": "ہبل ⟨وچ⟩"
     },
     {
       "surface": "בא",
-      "gloss": "ਆਇਆ"
+      "gloss": "آیا"
     },
     {
       "surface": "ובחשך",
-      "gloss": "ਤੇ ਹਨੇਰੇ ਵਿੱਚ"
+      "gloss": "تے ہنیرے وچ"
     },
     {
       "surface": "ילך",
-      "gloss": "ਜਾਂਦਾ ਆ"
+      "gloss": "جائُوگا"
     },
     {
       "surface": "ובחשך",
-      "gloss": "ਤੇ ਹਨੇਰੇ ਵਿੱਚ"
+      "gloss": "تے ہنیرے وچ"
     },
     {
       "surface": "שמו",
-      "gloss": "ਉਹਦਾ ਨਾਮ"
+      "gloss": "اوہدا ناں"
     },
     {
       "surface": "יכסה",
-      "gloss": "ਢਕਿਆ ਜਾਂਦਾ ਆ"
+      "gloss": "ڈھکیا جائُوگا"
     }
   ],
-  "timestamp": "2026-10-16T02:27:52.546235901Z",
-  "model": "glm-5.3",
-  "pnb_fold": {
-    "date": "2026-10-15",
-    "folds": {
-      "।→۔": 1
-    }
-  }
+  "timestamp": "2026-10-16T21:06:28.336512066Z",
+  "model": "glm-5.3"
 }

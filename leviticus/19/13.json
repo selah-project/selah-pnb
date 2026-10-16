@@ -5,40 +5,24 @@
   "book": "leviticus",
   "lang": "pnb",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "رات بھر",
-      "rationale": "عبرانی وِچ صرف «تלין» اے، پنجابی وِچ ویلے دی وضاحت چاہیدی سی"
-    }
-  ],
-  "translation": "اپنے سنگی نوں ⟨את⟩ دبائیں نئیں، تے نہ لُٹے؛ مزدور دی اُجرت تیرے کول رات بھر رُکے نئیں، سویرے تک۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "0a7e723a21e15a976512eebd512f16781d6869e8b95bf9fd8821088a8d87f9c9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/19\/13-16.1792097932114.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "نہ اپنے ہمدم نوں ⟨את⟩ دباؤ، تے نہ اُس توں کھوہ لاؤ۔ مزدور دی مزدوری تیرے کول رات نوں نہ رُکے، ⟨את⟩ ⟨جد تک⟩ سویر نہ ہووے۔",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "نئیں"
+      "gloss": "نہ"
     },
     {
       "surface": "תעשק",
-      "gloss": "دبائیں"
+      "gloss": "دباؤ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "اپنے سنگی نوں"
+      "marks": "اپنے ہمدم نوں"
     },
     {
       "surface": "רעך",
-      "gloss": "اپنے سنگی"
+      "gloss": "اپنے ہمدم"
     },
     {
       "surface": "ולא",
@@ -46,19 +30,19 @@
     },
     {
       "surface": "תגזל",
-      "gloss": "لُٹے"
+      "gloss": "کھوہ لاؤ"
     },
     {
       "surface": "לא",
-      "gloss": "نئیں"
+      "gloss": "نہ"
     },
     {
       "surface": "תלין",
-      "gloss": "رُکے"
+      "gloss": "رات نوں رُکے"
     },
     {
       "surface": "פעלת",
-      "gloss": "اُجرت"
+      "gloss": "مزدوری"
     },
     {
       "surface": "שכיר",
@@ -66,17 +50,17 @@
     },
     {
       "surface": "אתך",
-      "gloss": "تیرے کول ⟨את⟩"
+      "gloss": "⟨את⟩ تیرے کول"
     },
     {
       "surface": "עד",
-      "gloss": "تک"
+      "gloss": "⟨جد تک⟩"
     },
     {
       "surface": "בקר",
-      "gloss": "سویرے"
+      "gloss": "سویر"
     }
   ],
-  "timestamp": "2026-10-15T20:58:52.115454794Z",
+  "timestamp": "2026-10-16T21:26:07.671445316Z",
   "model": "glm-5.3"
 }

@@ -5,40 +5,19 @@
   "book": "1-samuel",
   "lang": "pnb",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ומי אביהם",
-      "rationale": "«اوہناں دا پیو کون؟» — کجھ مترجم ایہنوں نبیاں دے پیو بارے پُچھدا منگدے نیں، کجھ سبائی بارے۔"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "למשל",
-      "rationale": "مول «پہاکی\/مسال» — لفظی پدھر اُتے رکھیا؛ «اسیں کر کے» عباری اے جو عبرانی وِچ نئیں۔"
-    }
-  ],
-  "translation": "تے اوتھوں دے اِک بندے نے جواب دِتا تے آکھیا: تے اوہناں دا پیو کون اے؟ اسیں کر کے ایہہ پہاکی بن گئی: «کی شاؤل وی نبیاں وِچ اے؟»",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "a004ae1c86ab7e71dd760a3915358d6eaee7b31d1e41006ebb8fd68290b4adc2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/10\/9-12.1792102411879.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "تے اوتھوں دے اِک بندے نے جواب دتا تے آکھیا: تے اوہناں دا پیو کون ⟨اے⟩؟ اِس لئی ایہہ گل مثال بن گئی: کیہ شاول وی نبیاں وِچ ⟨اے⟩؟",
   "tokens": [
     {
       "surface": "ויען",
-      "gloss": "تے جواب دِتا"
+      "gloss": "جواب دتا"
     },
     {
       "surface": "איש",
-      "gloss": "اِک بندے نے"
+      "gloss": "بندے"
     },
     {
       "surface": "משם",
-      "gloss": "اوتھوں دے"
+      "gloss": "اوتھوں"
     },
     {
       "surface": "ויאמר",
@@ -54,33 +33,33 @@
     },
     {
       "surface": "על",
-      "gloss": "اسیں"
+      "gloss": "اِس لئی"
     },
     {
       "surface": "כן",
-      "gloss": "کر کے"
+      "gloss": "اِس لئی ⟨کیوں⟩"
     },
     {
       "surface": "היתה",
-      "gloss": "بن گئی"
+      "gloss": "ہوئی"
     },
     {
       "surface": "למשל",
-      "gloss": "پہاکی"
+      "gloss": "مثال بن گئی"
     },
     {
       "surface": "הגם",
-      "gloss": "کی … وی"
+      "gloss": "کیہ تے وی"
     },
     {
       "surface": "שאול",
-      "gloss": "شاؤל"
+      "gloss": "شاول"
     },
     {
-      "surface": "בנביאים",
+      "surface": "בנבאים",
       "gloss": "نبیاں وِچ"
     }
   ],
-  "timestamp": "2026-10-15T22:13:31.880353721Z",
+  "timestamp": "2026-10-16T20:55:10.622783420Z",
   "model": "glm-5.3"
 }

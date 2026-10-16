@@ -5,36 +5,15 @@
   "book": "2-chronicles",
   "lang": "pnb",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "سی",
-      "rationale": "عبرانی وِچ ماضی دا مددگار فعل نئیں، پنجابی جملہ منگدا اے"
-    },
-    {
-      "kind": "elision",
-      "subject": "להמליך",
-      "rationale": "ہائیفِنِٹِو واو دے نال کوئی وکھرا لفظ نئیں، لفظی ‘اوہنوں راج کرن لاؤن’ دے نال ‘بادشاہ بناؤن’ رکھیا"
-    }
-  ],
-  "translation": "تے رِحبعام شکم نوں گیا، کیوں جے شکم آ گیا سی کہ سارا یِسرائیل اوہنوں بادشاہ بناؤن۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "fd9e5648a40a5506a1d86ad29f3a01d1533b18ced9cb6d487483583c9110ad3a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-chronicles\/10\/1-4.1792122016596.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "تے رُحبعام شکم نوں گیا، کیوں جے شکم وِچ سارا یِسرائیل آیا سی تاں جو اوہنوں بادشاہ بناؤے۔",
   "tokens": [
     {
       "surface": "וילך",
-      "gloss": "گیا"
+      "gloss": "تے گیا"
     },
     {
       "surface": "רחבעם",
-      "gloss": "رِحبعام"
+      "gloss": "رُحبعام"
     },
     {
       "surface": "שכמה",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "באו",
-      "gloss": "آ گیا سی"
+      "gloss": "آیا سی"
     },
     {
       "surface": "כל",
@@ -62,14 +41,14 @@
     },
     {
       "surface": "להמליך",
-      "gloss": "بادشاہ بناؤن"
+      "gloss": "بادشاہ بناؤن لئی"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "اوہنوں"
+      "marks": "اوہنوں — یعنی رُحبعام نوں"
     }
   ],
-  "timestamp": "2026-10-16T03:40:16.597312384Z",
+  "timestamp": "2026-10-16T20:56:34.103474316Z",
   "model": "glm-5.3"
 }

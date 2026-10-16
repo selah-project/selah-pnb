@@ -5,41 +5,15 @@
   "book": "1-samuel",
   "lang": "pnb",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "משמעתך",
-      "rationale": "'thy hearing\/audience' — royal court (BSB 'bodyguard') vs obedience\/service; rendered 'thy service'."
-    },
-    {
-      "kind": "you",
-      "subject": "to the king",
-      "rationale": "Ahimelek defends David directly before Saul."
-    },
-    {
-      "kind": "substitution",
-      "subject": "ונכבד",
-      "gloss-rationale": "'heavy' = honoured; shape kept via 'مان والا'."
-    }
-  ],
-  "translation": "تے اہیمَلِکھ نے ⟨את⟩ بادشاہ دا جواب دِتا تے آکھیا: تے تیرے سارے نوجواناں وِچوں کون اے جیوے داوِد — وفادار، تے بادشاہ دا دماد، تے تیری 서Circularہ خدمت ول پھر کے تے تیرے گھر وِچ مان والا؟",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "fd62a7b52c9047b14fe1ac45fa93f9b807c18850d3097395a99c3952491bd8a1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/22\/13-16.1792102830713.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "تے اَخِیملِکھ نے ⟨את⟩ بادشاہ دا جواب دِتّا تے آکھیا: تے تیرے سارے نائچاں وِچوں کون اے جیویں داوِد — وفادار، تے بادشاہ دا دمااد، تے تیری مسمعت ول مُڑیا ہویا، تے تیرے گھر وِچ مان والا؟",
   "tokens": [
     {
       "surface": "ויען",
-      "gloss": "تے جواب دِتا"
+      "gloss": "جواب دِتّا"
     },
     {
       "surface": "אחימלך",
-      "gloss": "اہیمَلِکھ"
+      "gloss": "اَخِیملِکھ نے"
     },
     {
       "surface": "את",
@@ -48,7 +22,7 @@
     },
     {
       "surface": "המלך",
-      "gloss": "بادشاہ"
+      "gloss": "بادشاہ دا"
     },
     {
       "surface": "ויאמר",
@@ -60,15 +34,15 @@
     },
     {
       "surface": "בכל",
-      "gloss": "سارے وِچوں"
+      "gloss": "سارے … وِچوں"
     },
     {
       "surface": "עבדיך",
-      "gloss": "تیرے نوجوان"
+      "gloss": "تیرے نائچ"
     },
     {
       "surface": "כדוד",
-      "gloss": "جیوے داوِد"
+      "gloss": "جیویں داوِد"
     },
     {
       "surface": "נאמן",
@@ -76,7 +50,7 @@
     },
     {
       "surface": "וחתן",
-      "gloss": "تے دماد"
+      "gloss": "تے دمااد"
     },
     {
       "surface": "המלך",
@@ -84,7 +58,7 @@
     },
     {
       "surface": "וסר",
-      "gloss": "تے پھریا"
+      "gloss": "تے مُڑیا"
     },
     {
       "surface": "אל",
@@ -92,7 +66,7 @@
     },
     {
       "surface": "משמעתך",
-      "gloss": "تیری خدمت"
+      "gloss": "تیری مسمعت"
     },
     {
       "surface": "ונכבד",
@@ -103,6 +77,6 @@
       "gloss": "تیرے گھر وِچ"
     }
   ],
-  "timestamp": "2026-10-15T22:20:30.713976225Z",
+  "timestamp": "2026-10-16T20:56:02.298168407Z",
   "model": "glm-5.3"
 }

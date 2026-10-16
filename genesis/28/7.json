@@ -5,32 +5,11 @@
   "book": "genesis",
   "lang": "pnb",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "ואל אמו",
-      "rationale": "عبرانی دے دو ٹوکن (ואל + אמו) پنجابی وِچ اِک واک 'تے اپنی ماں دی' بندے نیں — אמו دا گلاس واک وِچ رَل گیا"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨کہ⟩",
-      "rationale": "ایہہ آیت پچھلی آیت 6 دی 'کہ' دی پونبی اے — عبرانی وِچ جاری واک، پنجابی نوں جوڑ مل گیا"
-    }
-  ],
-  "translation": "تے ⟨کہ⟩ یعقوو نے اپنے پیو دی تے اپنی ماں دی گل منی، تے پدان اَرام نوں ٹُریا۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "7ca369c9dbee31948ee48fbc0bf297dac8775f5999c67d7758fb1d66874e5d74",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/28\/5-8.1792095360564.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "تے یعقوو نے اپنے پیو دی تے اپنی ماں دی گل منی، تے اوہ پدان-ارام نوں ٹُر پیا۔",
   "tokens": [
     {
       "surface": "וישמע",
-      "gloss": "گل منی"
+      "gloss": "منی"
     },
     {
       "surface": "יעקב",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "دی"
+      "gloss": "دی گل ⟨کول⟩"
     },
     {
       "surface": "אביו",
@@ -46,15 +25,15 @@
     },
     {
       "surface": "ואל",
-      "gloss": "تے اپنی ماں دی"
+      "gloss": "تے ⟨کول⟩"
     },
     {
       "surface": "אמו",
-      "gloss": ""
+      "gloss": "اپنی ماں دی"
     },
     {
       "surface": "וילך",
-      "gloss": "تے ٹُریا"
+      "gloss": "تے ٹُر پیا"
     },
     {
       "surface": "פדנה",
@@ -62,9 +41,9 @@
     },
     {
       "surface": "ארם",
-      "gloss": "اَرام"
+      "gloss": "-ارام"
     }
   ],
-  "timestamp": "2026-10-15T20:16:00.565796714Z",
+  "timestamp": "2026-10-16T21:13:33.784655795Z",
   "model": "glm-5.3"
 }

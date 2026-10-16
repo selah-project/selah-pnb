@@ -5,33 +5,7 @@
   "book": "psalms",
   "lang": "pnb",
   "chapter": 44,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "یعقوو لئی",
-      "rationale": "عبرانی وِچ 'لئی' نئیں، صیغہ تعلق ہی کوئی لئی ظاہر کردا اے"
-    },
-    {
-      "kind": "substitution",
-      "subject": "حکم کر",
-      "rationale": "צוה دا مطلب 'حکم دینا\/نپھرناں' اے؛ میں 'یاہوہ' فاعل دے طور تے جوڑیا جے پنجابی جملہ فاعل منگدا اے"
-    },
-    {
-      "kind": "you",
-      "subject": "ایلوہیم",
-      "rationale": "سلوٹ وِچ خدا نوں سدھا مخاطب کیتا گیا اے"
-    }
-  ],
-  "translation": "توں ہی او، میڈا بادشاہ ایلوہیم؛ یاہوہ צوِیں یعقوو لئی مُکتیاں۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "e52cd2837ffbe59a8196daa5239e07cb97b990c377c88d197418130afd947f55",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/psalms\/44\/5-8.1792112499233.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "توں ای اوہ ایں، میڈا بادشاہ ایلوہیم، یعقوو لئی مُکتیاں حکم کے بھیج۔",
   "tokens": [
     {
       "surface": "אתה",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "ہی او"
+      "gloss": "⟨اوہ ایں⟩"
     },
     {
       "surface": "מלכי",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "حکم کر"
+      "gloss": "حکم کے بھیج"
     },
     {
       "surface": "ישועות",
@@ -62,6 +36,6 @@
       "gloss": "یعقوو"
     }
   ],
-  "timestamp": "2026-10-16T01:01:39.233587243Z",
+  "timestamp": "2026-10-16T21:35:35.850533064Z",
   "model": "glm-5.3"
 }

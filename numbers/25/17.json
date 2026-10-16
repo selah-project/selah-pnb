@@ -5,52 +5,31 @@
   "book": "numbers",
   "lang": "pnb",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to Moses\/Israel",
-      "rationale": "یاہوہ دا حکم موشے راہیں، میدانیاں دے خلاف۔"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "צרור\/צררים",
-      "rationale": "25:17 دا צרור تے 25:18 دا צררים اکو جڑ — دباؤ\/دشمنی — پنجابی وِچ رشتہ دسن لئی اکو لفظ 'ستاؤ\/دشمن' رکھیا۔"
-    }
-  ],
-  "translation": "میدانیاں نوں ستاؤ، ⟨את⟩ میدانیاں نوں، تے اوہناں نوں مرو۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "bf221455d66b9dce6da70ce403462cd79ad05cbad6ed660f531ef2a14e5baa1f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/25\/17-19.1792098995410.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "مِدیانیاں نوں دشمنی کرو تے ⟨את⟩ اوہناں نوں مارو،",
   "tokens": [
     {
-      "surface": "צרור",
-      "gloss": "ستاؤ"
+      "surface": "צָרֹר",
+      "gloss": "دشمنی کرو"
     },
     {
-      "surface": "את",
+      "surface": "אֵת",
       "gloss": "⟨את⟩",
-      "marks": "میدانیاں نوں"
+      "marks": "مِدیانی"
     },
     {
-      "surface": "המדינים",
-      "gloss": "میدانیاں نوں"
+      "surface": "הַמִּדְיָנִים",
+      "gloss": "مِدیانی"
     },
     {
-      "surface": "והכיתם",
-      "gloss": "تے مرو"
+      "surface": "וְהִכִּיתֶם",
+      "gloss": "تے مارو"
     },
     {
-      "surface": "אותם",
-      "gloss": "⟨את⟩",
-      "marks": "اوہناں نوں"
+      "surface": "אוֹתָם",
+      "gloss": "⟨את⟩ اوہناں نوں",
+      "marks": "مِدیانی"
     }
   ],
-  "timestamp": "2026-10-15T21:16:35.410978835Z",
+  "timestamp": "2026-10-16T21:32:11.948937521Z",
   "model": "glm-5.3"
 }

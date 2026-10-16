@@ -5,27 +5,47 @@
   "book": "genesis",
   "lang": "pnb",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "tokenization-error",
-      "subject": "v19",
-      "rationale": "اجیہا نئیں — ایہ دھیان اے: اُتے tokens دی گنتی ٹُٹ گئی، پوری 15 ٹوکن دی لڑی واپس نئیں دتی جا سکی۔"
-    }
-  ],
-  "translation": "تے کنعانی دا ہندا باٹن صیدون توں گِرار ولّ آؤن تے عزّہ تک، سدوم، تے عمورہ، تے ادماہ، تے تصبویim ولّ آؤن تے لَشع تک۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "bc613200da5eb1e09cbc1b28970cb6bfa0959dc458ac71ee07ab0c6f4f0b80ff",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/10\/17-20.1792094872248.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "تے کنعانی دا ہُندا سی سرحداں دا کوٹ صیدون توں، جدوں تسیں جَرا ول جاؤ، عَزّہ تک؛ جدوں تسیں سدوم ول جاؤ، تے عمورہ، تے ادمہ، تے صبویم تک، لَشعے تک۔",
   "tokens": [
     {
-      "surface": "ובאכה סדמה",
-      "gloss": "ولّ آؤن تے سدوم"
+      "surface": "ויהי",
+      "gloss": "تے ہُندا سی"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحداں دا کوٹ"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "کنعانی دا"
+    },
+    {
+      "surface": "מצידן",
+      "gloss": "صیدون توں"
+    },
+    {
+      "surface": "באכה",
+      "gloss": "جدوں تسیں جَاؤ"
+    },
+    {
+      "surface": "גררה",
+      "gloss": "جَرا ول"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "عَزّہ"
+    },
+    {
+      "surface": "באכה",
+      "gloss": "جدوں تسیں جَاؤ"
+    },
+    {
+      "surface": "סדמה",
+      "gloss": "سدوم ول"
     },
     {
       "surface": "ועמרה",
@@ -33,11 +53,11 @@
     },
     {
       "surface": "ואדמה",
-      "gloss": "تے ادماہ"
+      "gloss": "تے ادمہ"
     },
     {
       "surface": "וצבים",
-      "gloss": "تے تصبویim"
+      "gloss": "تے صبویم"
     },
     {
       "surface": "עד",
@@ -45,9 +65,9 @@
     },
     {
       "surface": "לשע",
-      "gloss": "لَشع"
+      "gloss": "لَشعے"
     }
   ],
-  "timestamp": "2026-10-15T20:07:52.249286542Z",
+  "timestamp": "2026-10-16T21:12:59.789591065Z",
   "model": "glm-5.3"
 }

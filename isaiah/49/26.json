@@ -5,38 +5,7 @@
   "book": "isaiah",
   "lang": "pnb",
   "chapter": 49,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "فدیہ دین والا",
-      "rationale": "גואל is the kinsman-redeemer of Israelite kinship law, not a generic 'redeemer'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "מוניך\/יָנָה",
-      "rationale": "rare participle 'your oppressors' from ינה, violence — one of few occurrences in the Tanakh"
-    },
-    {
-      "kind": "addition",
-      "subject": "ہاں",
-      "rationale": "Hebrew has no verb 'to be' in the declaration; Punjabi requires the copula"
-    },
-    {
-      "kind": "you",
-      "subject": "to Zion",
-      "rationale": "feminine suffixes continue the address to Zion"
-    }
-  ],
-  "translation": "تے میں تیرے دبان والیاں نوں ⟨את⟩ اوہناں دا ای ماس کھواواں گا، تے انگوری شراب وانگ اوہناں دا لہو پی کے نشے وِچ ہون گے؛ تے سارا ماس جان لوے گا کیوں جے میں یاہوہ، تیرا بچاؤن والا تے تیرا فدیہ دین والا، یعقوو دا طاقتور ⟨ہاں⟩۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "747d9ef241c758a264311e4074e0c8a7727def901b7c49484489a5d3659608b8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/isaiah\/49\/25-26.1792106904189.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "تے میں ⟨את⟩ تیرے ستاؤن والیاں نوں ⟨את⟩ اوہناں دا ماس کھواواں گا، تے جیویں مس ⟨شراب⟩ اوہ اوہناں دا لہو پی کے مست ہون گے، تے سارا ماس جانو گا جو میں یاہوہ تیرا نجات دین والا تے تیرا چُڈاؤن والا آں، یعقوو دا سُورما۔",
   "tokens": [
     {
       "surface": "והאכלתי",
@@ -45,11 +14,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "تیرے دبان والیاں"
+      "marks": "تیرے ستاؤن والیاں نوں"
     },
     {
       "surface": "מוניך",
-      "gloss": "تیرے دبان والیاں"
+      "gloss": "تیرے ستاؤن والیاں نوں"
     },
     {
       "surface": "את",
@@ -62,7 +31,7 @@
     },
     {
       "surface": "וכעסיס",
-      "gloss": "تے انگوری شراب وانگ"
+      "gloss": "تے جیویں مس"
     },
     {
       "surface": "דמם",
@@ -70,11 +39,11 @@
     },
     {
       "surface": "ישכרון",
-      "gloss": "نشے وِچ ہون گے"
+      "gloss": "مست ہون گے"
     },
     {
       "surface": "וידעו",
-      "gloss": "تے جان لین گے"
+      "gloss": "تے جانو گے"
     },
     {
       "surface": "כל",
@@ -86,7 +55,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "کیوں جے"
+      "gloss": "جو"
     },
     {
       "surface": "אני",
@@ -98,21 +67,21 @@
     },
     {
       "surface": "מושיעך",
-      "gloss": "تیرا بچاؤن والا"
+      "gloss": "تیرا نجات دین والا"
     },
     {
       "surface": "וגאלך",
-      "gloss": "تے تیرا فدیہ دین والا"
+      "gloss": "تے تیرا چُڈاؤن والا"
     },
     {
       "surface": "אביר",
-      "gloss": "طاقتور"
+      "gloss": "سُورما"
     },
     {
       "surface": "יעקב",
       "gloss": "یعقوو"
     }
   ],
-  "timestamp": "2026-10-15T23:28:24.191149538Z",
+  "timestamp": "2026-10-16T21:17:07.087756174Z",
   "model": "glm-5.3"
 }

@@ -5,44 +5,23 @@
   "book": "1-chronicles",
   "lang": "pnb",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "وِچوں",
-      "rationale": "عبرانی ל\/ל… מן دی تعلق نوں پنجابی جملے لئی وضاحت چاہیدی سی"
-    },
-    {
-      "kind": "measurement",
-      "subject": "گروہاں",
-      "rationale": "لاوی درباناں دی ونڈ تے لکھائی — گنتی تے ترتیب دی لسٹ دا مُڈھ"
-    }
-  ],
-  "translation": "درباناں دے گروہاں لئی — کرحیاں وِچوں: مشلمیاہو، کو رے دا پُتر، آساف دے پُتراں وِچوں۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "2c1179243e6cd9e9ef75dca40a83e25cec0f0012f0c771aad78f642a1cfa1318",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/26\/1-4.1792121264050.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "درباناں دے وانداں لئی گروہاں وِچ: قورحیاں وِچوں مِشیلیمیاہو، قورے دا پُتر، آساف دے پُتراں وِچوں۔",
   "tokens": [
     {
       "surface": "למחלקות",
-      "gloss": "گروہاں لئی"
+      "gloss": "گروہاں وِچ"
     },
     {
-      "surface": "לשערים",
+      "surface": "לשעערים",
       "gloss": "درباناں دے"
     },
     {
       "surface": "לקרחים",
-      "gloss": "کرحیاں وِچوں"
+      "gloss": "قورحیاں وِچوں"
     },
     {
       "surface": "משלמיהו",
-      "gloss": "مشلمیاہو"
+      "gloss": "مِشیلیمیاہو"
     },
     {
       "surface": "בן",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "קרא",
-      "gloss": "کورے"
+      "gloss": "قورے دا"
     },
     {
       "surface": "מן",
@@ -62,9 +41,9 @@
     },
     {
       "surface": "אסף",
-      "gloss": "آساف"
+      "gloss": "آساف دے"
     }
   ],
-  "timestamp": "2026-10-16T03:27:44.051095893Z",
+  "timestamp": "2026-10-16T20:52:02.659534209Z",
   "model": "glm-5.3"
 }

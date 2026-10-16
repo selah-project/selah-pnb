@@ -5,36 +5,15 @@
   "book": "1-samuel",
   "lang": "pnb",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "שאלה\/שאל",
-      "rationale": "shelatekha (منگ) تے sha'alt (منگی) اکو جڑ توں — ایلی دا جواب حنّاہ دے بول دا گونج اے، پنجابی وِچ ایہہ جوڑ رکھیا گیا اے۔"
-    },
-    {
-      "kind": "addition",
-      "subject": "تینوں",
-      "rationale": "عبرانی وِچ یתن دے نال ضمیر وی مفعول اے، پنجابی جملے لئی وکھرا لفظ چاہیدا سی۔"
-    }
-  ],
-  "translation": "تے ایلی نے جواب دِتّا تے آکھیا: سلامتی نال جا، تے یِسرائیل دا ایلوہیم اوہ منگ تینوں دے جیہڑی تُوں اوہدے توں منگی اے۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "98f8a4ad51bf32b36f257cf442f46f7d6c1377bf8de5278c8360a8957cc8a78b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/1\/17-20.1792102147392.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "تے اہرون نہ، عِلی نے جواب دِتا تے آکھیا: سلامتی نال جا، تے یِسرائیل دے ایلوہیم ⟨את⟩ اوہِ بدخواست دین جیہڑی تُوں اوہدے توں منگی اے۔",
   "tokens": [
     {
       "surface": "ויען",
-      "gloss": "تے جواب دِتّا"
+      "gloss": "جواب دِتا"
     },
     {
       "surface": "עלי",
-      "gloss": "ایلی"
+      "gloss": "عِلی"
     },
     {
       "surface": "ויאמר",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "ואלהי",
-      "gloss": "تے … دا ایلوہیم"
+      "gloss": "تے ایلوہیم"
     },
     {
       "surface": "ישראל",
@@ -58,16 +37,16 @@
     },
     {
       "surface": "יתן",
-      "gloss": "دےوے"
+      "gloss": "دین"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "منگ"
+      "marks": "بدخواست"
     },
     {
       "surface": "שלתך",
-      "gloss": "تیری منگ"
+      "gloss": "اوہِ بدخواست"
     },
     {
       "surface": "אשר",
@@ -75,13 +54,13 @@
     },
     {
       "surface": "שאלת",
-      "gloss": "تُوں منگی اے"
+      "gloss": "منگی"
     },
     {
       "surface": "מעמו",
       "gloss": "اوہدے توں"
     }
   ],
-  "timestamp": "2026-10-15T22:09:07.393544128Z",
+  "timestamp": "2026-10-16T20:54:13.142131045Z",
   "model": "glm-5.3"
 }

@@ -5,128 +5,101 @@
   "book": "esther",
   "lang": "pnb",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "ਪੂਰੀਮ/ਪੂਰ",
-      "rationale": "ਨਾਂ ਦੀ ਜੋੜ-ਬਣਤ: ਪੂਰੀਮ ਪੂਰ ਦੀ ਬਹੁ-ਵਚਨ ਤੋਂ — ਗਿਣਤੀ ਦੇ ਨਾਂ ਦਾ ਬੰਦ ਹੈ।"
-    },
-    {
-      "kind": "hapax",
-      "subject": "ਪੂਰੀਮ",
-      "rationale": "ਪੂਰੀਮ ਸਿਰਫ ਏਸਤੋਰ ਦੀ ਕਿਤਾਬ ਵਿੱਚ ਹੀ ਆਉਂਦਾ ਹੈ।"
-    }
-  ],
-  "translation": "ਏਸੇ ਲਈ ਓਹਨਾਂ ਓਹਨਾਂ ਦਿਨਾਂ ਨੂੰ ਪੂਰੀਮ ਆਖਿਆ, ਪੂਰ ਦੇ ਨਾਂ ਉੱਤੇ; ਏਸੇ ਲਈ — ਇਸ ਖ਼ਤ ਦੀਆਂ ਸਾਰੀਆਂ ਗੱਲਾਂ ਉੱਤੇ, ਅਤੇ ਜੋ ਕੁਝ ਓਹਨਾਂ ਏਸੇ ਵੇਖਿਆ, ਅਤੇ ਜੋ ਕੁਝ ਓਹਨਾਂ ਕੋਲ ਪੁੱਜਿਆ۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "0152af1cbd7db126e387eea1b89d43164019033e09588030010baf5048fb67c0",
-    "prompt-file": ".selah/sources/translations/prompts/pnb/esther/9/25-28.1792118155379.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "اِس لئی اوہناں ایہناں دناں نوں پورِیم آکھیا، پور دے ناں اُتے۔ اِس لئی، ایس چِٹھی دیاں ساریاں گلاں اُتے، تے جو اوہناں اِس بارے ویکھیا، تے جو اوہناں تک آیا،",
   "tokens": [
     {
       "surface": "על",
-      "gloss": "ਏਸੇ"
+      "gloss": "اُتے"
     },
     {
       "surface": "כן",
-      "gloss": "ਲਈ"
+      "gloss": "اِس لئی"
     },
     {
       "surface": "קראו",
-      "gloss": "ਆਖਿਆ"
+      "gloss": "آکھیا"
     },
     {
       "surface": "לימים",
-      "gloss": "ਦਿਨਾਂ ਨੂੰ"
+      "gloss": "دناں نوں"
     },
     {
       "surface": "האלה",
-      "gloss": "ਓਹਨਾਂ"
+      "gloss": "ایہناں"
     },
     {
       "surface": "פורים",
-      "gloss": "ਪੂਰੀਮ"
+      "gloss": "پورِیم"
     },
     {
       "surface": "על",
-      "gloss": "ਉੱਤੇ"
+      "gloss": "اُتے"
     },
     {
       "surface": "שם",
-      "gloss": "ਨਾਂ"
+      "gloss": "ناں"
     },
     {
       "surface": "הפור",
-      "gloss": "ਪੂਰ"
+      "gloss": "پور دا"
     },
     {
       "surface": "על",
-      "gloss": "ਉੱਤੇ"
+      "gloss": "اُتے"
     },
     {
       "surface": "כן",
-      "gloss": "ਲਈ"
+      "gloss": "اِس لئی"
     },
     {
       "surface": "על",
-      "gloss": "ਉੱਤੇ"
+      "gloss": "اُتے"
     },
     {
       "surface": "כל",
-      "gloss": "ਸਾਰੀਆਂ"
+      "gloss": "ساریاں"
     },
     {
       "surface": "דברי",
-      "gloss": "ਗੱਲਾਂ"
+      "gloss": "گلاں"
     },
     {
       "surface": "האגרת",
-      "gloss": "ਖ਼ਤ"
+      "gloss": "ایس چِٹھی دیاں"
     },
     {
       "surface": "הזאת",
-      "gloss": "ਇਸ"
+      "gloss": "ایس"
     },
     {
       "surface": "ומה",
-      "gloss": "ਅਤੇ ਜੋ ਕੁਝ"
+      "gloss": "تے جو"
     },
     {
       "surface": "ראו",
-      "gloss": "ਵੇਖਿਆ"
+      "gloss": "ویکھیا"
     },
     {
       "surface": "על",
-      "gloss": "ਉੱਤੇ"
+      "gloss": "بارے"
     },
     {
       "surface": "ככה",
-      "gloss": "ਏਸੇ"
+      "gloss": "اِس"
     },
     {
       "surface": "ומה",
-      "gloss": "ਅਤੇ ਜੋ ਕੁਝ"
+      "gloss": "تے جو"
     },
     {
       "surface": "הגיע",
-      "gloss": "ਪੁੱਜਿਆ"
+      "gloss": "آیا"
     },
     {
       "surface": "אליהם",
-      "gloss": "ਓਹਨਾਂ ਕੋਲ"
+      "gloss": "اوہناں تک"
     }
   ],
-  "timestamp": "2026-10-16T02:35:55.380630174Z",
-  "model": "glm-5.3",
-  "pnb_fold": {
-    "date": "2026-10-15",
-    "folds": {
-      "।→۔": 1
-    }
-  }
+  "timestamp": "2026-10-16T21:06:53.562179095Z",
+  "model": "glm-5.3"
 }

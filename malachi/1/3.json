@@ -5,32 +5,11 @@
   "book": "malachi",
   "lang": "pnb",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "گِدڑاں",
-      "rationale": "לתנות مادہ گِدڑ (female jackals) اے؛ KJV دا 'dragons' غلط روایت اے"
-    },
-    {
-      "kind": "addition",
-      "subject": "نوں",
-      "rationale": "פنجابی مفعول دا نشان منگدا اے، عبرانی لاحقے نال ای کم کردا اے"
-    }
-  ],
-  "translation": "تے ⟨את⟩ عیسو نال نفرت کیتی، تے اوہدے پہاڑاں نوں ویرانی بنایا، تے ⟨את⟩ اوہدی وراثت نوں بیابان دیاں گِدڑاں لئی۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "aa8fdf77aec3110d1ef8f5fe827d84ef20afdabbc248b7ad9a52816638d2eeca",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/malachi\/1\/1-4.1792111716071.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "تے ⟨את⟩ عیسو نوں میں نفرت کیتی، تے میں اوہدے پہاڑاں نوں اجاڑ دِتا تے ⟨את⟩ اوہدی وراثت نوں بیابان دیاں گیدڑاں لئی۔",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "تے ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "عیسو"
     },
     {
@@ -43,12 +22,12 @@
     },
     {
       "surface": "ואשים",
-      "gloss": "تے بنایا"
+      "gloss": "اجاڑ دِتا"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "اوہدے پہاڑاں نوں"
+      "marks": "اوہدے پہاڑ"
     },
     {
       "surface": "הריו",
@@ -56,12 +35,12 @@
     },
     {
       "surface": "שממה",
-      "gloss": "ویرانی"
+      "gloss": "اجاڑ"
     },
     {
       "surface": "ואת",
-      "gloss": "تے ⟨את⟩",
-      "marks": "اوہدی وراثت نوں"
+      "gloss": "⟨את⟩",
+      "marks": "اوہدی وراثت"
     },
     {
       "surface": "נחלתו",
@@ -69,13 +48,13 @@
     },
     {
       "surface": "לתנות",
-      "gloss": "گِدڑاں لئی"
+      "gloss": "گیدڑاں لئی"
     },
     {
       "surface": "מדבר",
       "gloss": "بیابان"
     }
   ],
-  "timestamp": "2026-10-16T00:48:36.072689414Z",
+  "timestamp": "2026-10-16T21:28:27.873462085Z",
   "model": "glm-5.3"
 }

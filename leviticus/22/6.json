@@ -5,27 +5,11 @@
   "book": "leviticus",
   "lang": "pnb",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "جان",
-      "rationale": "נפש ساہ\/جیوندی ہستی اے، 'soul' وانگر روح نئیں"
-    }
-  ],
-  "translation": "اوہ جان جیہڑی اوہنوں چھوہ لiovے، میلی ہو جائے گی شام تک، تے مقدس شیواں وِچوں نہ کھاوے جدوں تک اوہ اپنا ماس پانی نال نہ دھووے۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "8afa8e7a38b7d6ffdf1ec2f6d8d55753b2210cab5166a741214e3ea697c78057",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/22\/5-8.1792097933328.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "جیہڑی جان اُس نوں چُھووے، اوہ شام تک نجس ہو جاوے، تے مقدس شیواں وِچوں نہ کھاوے، سِوائے اِس دے کہ اوہ اپنا ماس پانی وِچ دھووے۔",
   "tokens": [
     {
       "surface": "נפש",
-      "gloss": "اوہ جان"
+      "gloss": "جان"
     },
     {
       "surface": "אשר",
@@ -33,15 +17,15 @@
     },
     {
       "surface": "תגע",
-      "gloss": "چھوہ لiovے"
+      "gloss": "چُھووے"
     },
     {
       "surface": "בו",
-      "gloss": "اوہنوں"
+      "gloss": "اُس نوں"
     },
     {
       "surface": "וטמאה",
-      "gloss": "تے میلی ہو جائے گی"
+      "gloss": "تے نجس ہو جاوے"
     },
     {
       "surface": "עד",
@@ -69,11 +53,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "جدوں"
+      "gloss": "کہ"
     },
     {
       "surface": "אם",
-      "gloss": "تک"
+      "gloss": "سِوائے اِس دے ⟨اِس دے⟩"
     },
     {
       "surface": "רחץ",
@@ -85,9 +69,9 @@
     },
     {
       "surface": "במים",
-      "gloss": "پانی نال"
+      "gloss": "پانی وِچ"
     }
   ],
-  "timestamp": "2026-10-15T20:58:53.328918238Z",
+  "timestamp": "2026-10-16T21:26:40.607205697Z",
   "model": "glm-5.3"
 }

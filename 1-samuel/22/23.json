@@ -5,41 +5,15 @@
   "book": "1-samuel",
   "lang": "pnb",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אתי",
-      "rationale": "H854 'نال' اے، مفعول دا نشان نئیں؛ پنجابی دا 'نال' ای اوہدا کم کردا اے۔"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "יבקש...יבקש",
-      "rationale": "فعل-متوازیہ: 'منگدا... منگوے گا' — کلیمی چیاسم تے دہراؤ۔"
-    },
-    {
-      "kind": "invitation",
-      "subject": "to Abiathar",
-      "rationale": "داوِد دے دو حکم — 'ٹکے رہ، نہ ڈر' — سِدھی مخاطبت۔"
-    }
-  ],
-  "translation": "میرے نال ⟨את⟩ ٹکے رہ، نہ ڈر، کیوں جو اوہ جیہڑا میری جان منگدا، اوہ تیری جان وی منگوے گا، کیوں جو تسیں میرے نال نگہبانی وِچ ہو۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "319c1bcccfac058cbb6f70e417e24a79300a215fe8a23dbb5fc628fdf7108782",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-samuel\/22\/21-23.1792102779705.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "میڈے نال رہو، نہ ڈرو، کیوں جو جیہڑا ⟨את⟩ میری جان نوں لبھدا اے اوہ ⟨את⟩ تیری جان نوں لبھدا اے، کیوں جو توں میڈے نال رکھوالی وِچ ایں۔",
   "tokens": [
     {
       "surface": "שבה",
-      "gloss": "ٹکے رہ"
+      "gloss": "رہو"
     },
     {
       "surface": "אתי",
-      "gloss": "میرے نال ⟨את⟩"
+      "gloss": "⟨את⟩ میڈے نال"
     },
     {
       "surface": "אל",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "תירא",
-      "gloss": "ڈر"
+      "gloss": "ڈرو"
     },
     {
       "surface": "כי",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "יבקש",
-      "gloss": "منگدا"
+      "gloss": "لبھدا اے"
     },
     {
       "surface": "את",
@@ -72,7 +46,7 @@
     },
     {
       "surface": "יבקש",
-      "gloss": "منگوے گا"
+      "gloss": "لبھدا اے"
     },
     {
       "surface": "את",
@@ -89,17 +63,17 @@
     },
     {
       "surface": "משמרת",
-      "gloss": "نگہبانی وِچ"
+      "gloss": "رکھوالی وِچ"
     },
     {
       "surface": "אתה",
-      "gloss": "تسیں"
+      "gloss": "توں"
     },
     {
       "surface": "עמדי",
-      "gloss": "میرے نال"
+      "gloss": "میڈے نال"
     }
   ],
-  "timestamp": "2026-10-15T22:19:39.706142748Z",
+  "timestamp": "2026-10-16T20:56:35.420702577Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "judges",
   "lang": "pnb",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "אדני בזק בבזק",
-      "rationale": "بادشاہ دے ناں تے تھاں دا ناں وَنجھدا اے — 'بِزِق وِچ بِزِق دا آقا'"
-    },
-    {
-      "kind": "you",
-      "subject": "اقبال نئیں",
-      "rationale": "کوئی سدھا مخاطب نئیں"
-    }
-  ],
-  "translation": "تے اوہناں اڈونی-بِزِق نوں بِزِق وِچ لبھیا، تے اوہدے نال لڑائی کیتی، تے کنعانی نوں تے پرزی نوں ماریا۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "ffe47007b9a925708348fd3e8d52e9a4269d343800f88cf0886fce1b62eced73",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/judges\/1\/5-8.1792101328198.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "تے اوہناں ⟨את⟩ اڈونی-بِزِق نوں بِزِق وِچ لبھیا، تے اوہدے نال لڑائی کیتی، تے ⟨את⟩ کنعانی تے ⟨את⟩ پِریزی نوں ماریا۔",
   "tokens": [
     {
       "surface": "וימצאו",
-      "gloss": "لبھیا"
+      "gloss": "تے اوہناں لبھیا"
     },
     {
       "surface": "את",
@@ -39,11 +18,11 @@
     },
     {
       "surface": "אדני",
-      "gloss": "اڈونی-بِزِق دا"
+      "gloss": "اڈونی"
     },
     {
       "surface": "בזק",
-      "gloss": "اڈونی-بِزِق"
+      "gloss": "-بِزِق"
     },
     {
       "surface": "בבזק",
@@ -51,7 +30,7 @@
     },
     {
       "surface": "וילחמו",
-      "gloss": "لڑائی کیتی"
+      "gloss": "تے اوہناں لڑائی کیتی"
     },
     {
       "surface": "בו",
@@ -59,7 +38,7 @@
     },
     {
       "surface": "ויכו",
-      "gloss": "ماریا"
+      "gloss": "تے اوہناں ماریا"
     },
     {
       "surface": "את",
@@ -72,14 +51,14 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ تے",
-      "marks": "پرزی"
+      "gloss": "تے ⟨את⟩",
+      "marks": "پِریزی"
     },
     {
       "surface": "הפרזי",
-      "gloss": "پرزی"
+      "gloss": "پِریزی"
     }
   ],
-  "timestamp": "2026-10-15T21:55:28.199568724Z",
+  "timestamp": "2026-10-16T21:24:36.755936159Z",
   "model": "glm-5.3"
 }

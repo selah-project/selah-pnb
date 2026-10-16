@@ -5,36 +5,15 @@
   "book": "1-chronicles",
   "lang": "pnb",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "اَسُّپیم",
-      "rationale": "אספים: ”جمع کیتے ہوئے“ — کجھ ”امدان دا کوٹھا“، کجھ ”محلے دا ناں“ منگدے نیں؛ حرف-نقل رکھیا۔"
-    },
-    {
-      "kind": "measurement",
-      "subject": "چوکیاں دی گنتی",
-      "rationale": "دروازےآں دے پہریداراں دی گنتی — چھ، چار، چار، دو دو۔"
-    }
-  ],
-  "translation": "مشرق وَلّ لاوی اُتے چھ سن، اُتر وَلّ روزانہ چار، دکھن وَلّ روزانہ چار، تے اَسُّپیم وَلّ دو دو۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "e879bdd42e87a64f017a316ddc64c77ab2169f9b77a446994d38acd84e1d4d19",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/1-chronicles\/26\/17-20.1792121367410.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "چڑھدے پاسے لویی اُتے سو نے نیں؛ اُتر ول دن نوں چار، دکھن ول دن نوں چار، تے اَسُّپِم ول دو دو نیں۔",
   "tokens": [
     {
       "surface": "למזרח",
-      "gloss": "مشرق وَلّ"
+      "gloss": "چڑھدے پاسے"
     },
     {
       "surface": "הלוים",
-      "gloss": "لاوی"
+      "gloss": "لویی اُتے سو نے نیں"
     },
     {
       "surface": "ששה",
@@ -42,11 +21,11 @@
     },
     {
       "surface": "לצפונה",
-      "gloss": "اُتر وَلّ"
+      "gloss": "اُتر ول"
     },
     {
       "surface": "ליום",
-      "gloss": "روزانہ"
+      "gloss": "دن نوں"
     },
     {
       "surface": "ארבעה",
@@ -54,25 +33,29 @@
     },
     {
       "surface": "לנגבה",
-      "gloss": "دکھن وَلّ"
+      "gloss": "دکھن ول"
     },
     {
       "surface": "ליום",
-      "gloss": "روزانہ"
+      "gloss": "دن نوں"
     },
     {
       "surface": "ארבעה",
       "gloss": "چار"
     },
     {
-      "surface": "ולאספים",
-      "gloss": "اَسُّپیم وَلّ"
+      "surface": "וָאַסֻפִּים",
+      "gloss": "تے اَسُّپِم ول"
     },
     {
       "surface": "שנים",
-      "gloss": "دو دو"
+      "gloss": "دو دو نیں"
+    },
+    {
+      "surface": "שנים",
+      "gloss": ""
     }
   ],
-  "timestamp": "2026-10-16T03:29:27.411339707Z",
+  "timestamp": "2026-10-16T20:52:26.618833930Z",
   "model": "glm-5.3"
 }

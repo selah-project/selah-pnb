@@ -5,36 +5,20 @@
   "book": "leviticus",
   "lang": "pnb",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "משכן",
-      "rationale": "Tier-2 لفظ 'مسکن' رکھیا، 'ڈیرا' اکلا ردّ اے۔"
-    }
-  ],
-  "translation": "تے موشے نے مسح دا تیل چُکیا، تے اوس مسکن نوں ⟨את⟩ مسح کیتا تے جو کجھ اوس وِچ سی ⟨وאת⟩ اوہنوں، تے اوہناں نوں پوتر کیتا۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "d225b7f9d93d930b325d629cb983ee9a4039735740fcce60835895c47e971b01",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/8\/9-12.1792097545992.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "تے موشے نے مسح کرن والا تیل لِیا تے ⟨את⟩ مسکن نوں مسح کیتا تے ⟨ואת⟩ ہر اُوہ چیز جیہڑی اوہدے وِچ سی، تے ⟨אתם⟩ اوہناں نوں پاک کیتا۔",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "تے چُکیا"
+      "gloss": "تے لِیا"
     },
     {
       "surface": "משה",
-      "gloss": "موشے نے"
+      "gloss": "موشے"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "مسح دا تیل"
+      "marks": "مسح کرن والا تیل"
     },
     {
       "surface": "שמן",
@@ -42,7 +26,7 @@
     },
     {
       "surface": "המשחה",
-      "gloss": "مسح دا"
+      "gloss": "مسح کرن والا"
     },
     {
       "surface": "וימשח",
@@ -55,28 +39,28 @@
     },
     {
       "surface": "המשכן",
-      "gloss": "مسکن نوں"
+      "gloss": "مسکن"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨وאת⟩",
-      "marks": "جو کجھ اوس وِچ سی"
+      "gloss": "⟨ואת⟩",
+      "marks": "ہر اُوہ چیز جیہڑی اوہدے وِچ سی"
     },
     {
       "surface": "כל",
-      "gloss": "سب"
+      "gloss": "ہر"
     },
     {
       "surface": "אשר",
-      "gloss": "جو"
+      "gloss": "جیہڑی"
     },
     {
       "surface": "בו",
-      "gloss": "اوس وِچ"
+      "gloss": "اوہدے وِچ"
     },
     {
       "surface": "ויקדש",
-      "gloss": "تے پوتر کیتا"
+      "gloss": "تے پاک کیتا"
     },
     {
       "surface": "אתם",
@@ -84,6 +68,6 @@
       "marks": "اوہناں نوں"
     }
   ],
-  "timestamp": "2026-10-15T20:52:25.993362037Z",
+  "timestamp": "2026-10-16T21:27:26.900746598Z",
   "model": "glm-5.3"
 }

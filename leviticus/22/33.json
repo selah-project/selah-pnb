@@ -5,28 +5,7 @@
   "book": "leviticus",
   "lang": "pnb",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "آں",
-      "rationale": "عبرانی وِچ 'میں یاہوہ' وچ کوئی فعل نئیں؛ پنجابی جملے لئی ⟨آں⟩ چاہیدا سی پر شامل کیتا گیا بریکٹ توں باہر — سطر وِچ شامل اے۔"
-    },
-    {
-      "kind": "elision",
-      "subject": "המוציא دی حالت",
-      "rationale": "فعلی صفت 'کڈھن والا' پنجابی وِچ 'جیہڑا کڈھدا اے' بنی — عبرانی دیbanدھی حالت پچھلی آیت نال جُڑی اے۔"
-    }
-  ],
-  "translation": "جیہڑا تہاڈونوں مِتصرایم دے دیس توں کڈھدا اے، تاں جو تہاڈے لئی ایلوہیم بنے — میں یاہوہ آں۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "a61ecc0ef134683dbc68551a4b08fec134a12d24fa4a0ed82445bed2a0e6712f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/22\/33-33.1792097912500.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "جیہڑا تہاڈے نوں مِتصرایم دے دیس توں کڈھدا اے تاں جو تہاڈے لئی ایلوہیم بنے، میں یاہوہ آں۔",
   "tokens": [
     {
       "surface": "המוציא",
@@ -35,7 +14,7 @@
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "تہاڈونوں"
+      "marks": "تہاڈے نوں"
     },
     {
       "surface": "מארץ",
@@ -47,7 +26,7 @@
     },
     {
       "surface": "להיות",
-      "gloss": "تاں جو ہووے"
+      "gloss": "تاں جو بنے"
     },
     {
       "surface": "לכם",
@@ -66,6 +45,6 @@
       "gloss": "یاہوہ"
     }
   ],
-  "timestamp": "2026-10-15T20:58:32.500678718Z",
+  "timestamp": "2026-10-16T21:26:40.704415820Z",
   "model": "glm-5.3"
 }

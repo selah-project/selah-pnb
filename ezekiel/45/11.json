@@ -5,36 +5,15 @@
   "book": "ezekiel",
   "lang": "pnb",
   "chapter": 45,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "ہومر",
-      "rationale": "ناپاں دا حساب — ایفہ تے بَت دونوں ہومر دا دسواں حصہ"
-    },
-    {
-      "kind": "crux",
-      "subject": "לשאת",
-      "rationale": "'چُکن\/سہن' بمقابلہ 'رکھن' — KJV 'contain'، یَلْت 'bear'؛ شبدی 'چکیے' رکھیا"
-    }
-  ],
-  "translation": "ایفہ تے بَت اِکو ناپ ہوون، دسواں حصہ ہومر دا — بَت نے چکیے، تے ہومر دا دسواں حصہ ایفہ نے چکیے؛ ہومر دے मुتाबق اوہدا ناپ ہووے۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "03ac006ed8195ed750984cd3e44b61199d42dc8a1a88cc70cc8d021dc40f9dc8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/ezekiel\/45\/9-12.1792110266562.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "ایپھا تے بَتّ دا ناپ اِکو ہووے — بَتّ لئی ہومر دا دسواں حصہ سموݨ، تے ایپھا ہومر دا دسواں حصہ؛ ہومر دے مطابق اوہدا ناپ ہووے۔",
   "tokens": [
     {
       "surface": "האיפה",
-      "gloss": "ایفہ"
+      "gloss": "ایپھا"
     },
     {
       "surface": "והבת",
-      "gloss": "تے بَت"
+      "gloss": "تے بَتّ"
     },
     {
       "surface": "תכן",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "לשאת",
-      "gloss": "نے چکیے"
+      "gloss": "سموݨ"
     },
     {
       "surface": "מעשר",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "הבת",
-      "gloss": "بَت"
+      "gloss": "بَتّ"
     },
     {
       "surface": "ועשירת",
@@ -74,7 +53,7 @@
     },
     {
       "surface": "האיפה",
-      "gloss": "ایفہ"
+      "gloss": "ایپھا"
     },
     {
       "surface": "אל",
@@ -93,6 +72,6 @@
       "gloss": "اوہدا ناپ"
     }
   ],
-  "timestamp": "2026-10-16T00:24:26.563094466Z",
+  "timestamp": "2026-10-16T21:11:48.291218089Z",
   "model": "glm-5.3"
 }

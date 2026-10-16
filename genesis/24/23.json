@@ -5,32 +5,11 @@
   "book": "genesis",
   "lang": "pnb",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to Rebecca",
-      "rationale": "بندہ ربیکا نوں سِدھا مخاطب کردا اے: تُو کس دی دھی ایں؟"
-    },
-    {
-      "kind": "addition",
-      "subject": "کی",
-      "rationale": "ہیایش سوال دا نشان پنجابی وِچ ’کی‘ نال بندی اے"
-    }
-  ],
-  "translation": "تے اوہنے آکھیا: تُو کس دی دھی ایں؟ میری اُتے مہربانی کر کے دسّ۔ تیرے پیو دے گھر وِچ ساڈے رکھن لئی تھاں اے؟",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "929efbe90f8e3e4962f02e9091b861a681496f80a429afb3f9334022efb959b5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/genesis\/24\/21-24.1792095221309.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "تے اوہنے آکھیا: کس دی دھی ⟨את⟩ ایں؟ میری جان، مینوں دسّ سکیں — کیہ تیرے پیو دے گھر ساڈے رات لنگھان لئی تھاں اے؟",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "تے اوہنے آکھیا"
+      "gloss": "تے آکھیا"
     },
     {
       "surface": "בת",
@@ -42,32 +21,32 @@
     },
     {
       "surface": "את",
-      "gloss": "تُو ایں ⟨את⟩",
-      "marks": "تُو ایں"
+      "gloss": "⟨את⟩",
+      "marks": "توں ایں"
     },
     {
       "surface": "הגידי",
-      "gloss": "دسّ"
+      "gloss": "دسّ سکیں"
     },
     {
       "surface": "נא",
-      "gloss": "مہربانی کر کے"
+      "gloss": "میری جان"
     },
     {
       "surface": "לי",
-      "gloss": "میری اُتے"
+      "gloss": "مینوں"
     },
     {
       "surface": "היש",
-      "gloss": "کی اے"
+      "gloss": "کیہ … اے"
     },
     {
       "surface": "בית",
-      "gloss": "گھر وِچ"
+      "gloss": "گھر"
     },
     {
       "surface": "אביך",
-      "gloss": "تیرے پیو دے"
+      "gloss": "تیرے پیو"
     },
     {
       "surface": "מקום",
@@ -75,13 +54,13 @@
     },
     {
       "surface": "לנו",
-      "gloss": "ساڈے"
+      "gloss": "ساڈے لئی"
     },
     {
       "surface": "ללין",
-      "gloss": "رکھن لئی"
+      "gloss": "رات لنگھان"
     }
   ],
-  "timestamp": "2026-10-15T20:13:41.310777186Z",
+  "timestamp": "2026-10-16T21:13:41.877310607Z",
   "model": "glm-5.3"
 }

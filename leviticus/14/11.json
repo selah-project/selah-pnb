@@ -5,32 +5,11 @@
   "book": "leviticus",
   "lang": "pnb",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "اوہناں شیواں نوں",
-      "rationale": "„اوہناں“ عبرانی وِچ کوئی اسم نئیں — صرف אותם اے، پنجjabi وچ مرجح کیتا گیا"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "המטהר \/ המטהר",
-      "rationale": "اِکو جز פہلی واری „پاک کردا اے“ (کاہن) تے دوجی واری „پاک ہووےگا“ (بندہ) — دونوں את-ہ_participle، صورت اِکو"
-    }
-  ],
-  "translation": "اتے کاہن جیہڑا پاک کردا اے، پاک ہون والے بندے نوں اتے ⟨את⟩ اوہناں شیواں نوں یاہوہ دے ساہمنے، مِلن دے خیمے دے دروازے تے، کھلووےگا۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "0b6c410f78695d1a3ab5f62248d0fc3afdcda1cfe357b03686afc6f09f72a96a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/leviticus\/14\/9-12.1792097679138.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "تے کاہن جیہڑا پاک کردا اے، اوہ پاک ہون والے بندے نوں تے ⟨את⟩ اوہناں چیزاں نوں یاہوہ اگے، میل خیمے دے پھاٹک اُتے کھلوائےگا۔",
   "tokens": [
     {
       "surface": "והעמיד",
-      "gloss": "اتے کھلووےگا"
+      "gloss": "تے کھلوائےگا"
     },
     {
       "surface": "הכהן",
@@ -43,24 +22,24 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "بندہ جیہڑا پاک ہووےگا"
+      "marks": "بندے نوں"
     },
     {
       "surface": "האיש",
-      "gloss": "بندہ"
+      "gloss": "بندے نوں"
     },
     {
       "surface": "המטהר",
-      "gloss": "جیہڑا پاک ہووےگا"
+      "gloss": "پاک ہون والے"
     },
     {
       "surface": "ואתם",
-      "gloss": "⟨את⟩",
-      "marks": "اوہناں شیواں نوں"
+      "gloss": "تے ⟨את⟩",
+      "marks": "اوہناں چیزاں نوں"
     },
     {
       "surface": "לפני",
-      "gloss": "دے ساہمنے"
+      "gloss": "اگے"
     },
     {
       "surface": "יהוה",
@@ -68,17 +47,17 @@
     },
     {
       "surface": "פתח",
-      "gloss": "دے دروازے"
+      "gloss": "پھاٹک اُتے"
     },
     {
       "surface": "אהל",
-      "gloss": "خیمے"
+      "gloss": "خیمے دے"
     },
     {
       "surface": "מועד",
-      "gloss": "مِلن دے"
+      "gloss": "میل"
     }
   ],
-  "timestamp": "2026-10-15T20:54:39.139286388Z",
+  "timestamp": "2026-10-16T21:26:18.124709711Z",
   "model": "glm-5.3"
 }

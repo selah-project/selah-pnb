@@ -5,56 +5,29 @@
   "book": "jeremiah",
   "lang": "pnb",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ਅ਼ਵਬਰ",
-      "rationale": "'ਲੰਘਦੀ ਹੋਈ' ਤੂੜੀ ਜਾਂ 'ਉੱਡ ਜਾਣ ਵਾਲੀ' — ਮਤਲਬ ਇੱਕ: ਹਵਾ ਨਾਲ ਮਿਲ ਜਾਂਦੀ ਏ।"
-    },
-    {
-      "kind": "elision",
-      "subject": "ਮੰਤਵ",
-      "rationale": "ਕਿਸ ਨੇ ਖਲੋਰ ਕਰਨਾ — ਯਾਹੋਹ; ਪਿਛਲੀ ਆਇਤ ਦਾ ਬਿਆਨ ਲੈ ਕੇ, ਕਿਰਿਆ ਦਾ ਕਰਤਾ ਲੁਕਿਆ ਹੈ।"
-    }
-  ],
-  "translation": "ਤੇ ਮੈਂ ਉਹਨਾਂ ਨੂੰ ਖਲੋਰ ਕਰਾਂਗਾ, ਜਿਵੇਂ ਪਰਾਹੁਣਾ ਤੂੜੀ, ਮਾਰੂ-ਥਲ ਦੀ ਹਵਾ ⟨ਨਾਲ⟩۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "4cdf6e28a5b63e5b5a7b2c77d1f569e6a6f5f878b1bdf09799c1812e5a1e3433",
-    "prompt-file": ".selah/sources/translations/prompts/pnb/jeremiah/13/21-24.1792107642038.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "تے میں اوہناں نوں ہالہِ کر دیواں گا، جیویں بھوں دا ہویا جاندا اے، بدلاں دی ہوا نال، جنگلBlank دی تھاں اُڈدا اے۔",
   "tokens": [
     {
-      "surface": "ואפיצם",
-      "gloss": "ਤੇ ਮੈਂ ਉਹਨਾਂ ਨੂੰ ਖਲੋਰ ਕਰਾਂਗਾ"
+      "surface": "וַאֲפִיצֵם",
+      "gloss": "تے میں اوہناں نوں ہالہِ کر دیواں گا"
     },
     {
-      "surface": "כקש",
-      "gloss": "ਜਿਵੇਂ ਤੂੜੀ"
+      "surface": "כְּקַשׁ",
+      "gloss": "جیویں بھوں"
     },
     {
-      "surface": "עובר",
-      "gloss": "ਪਰਾਹੁਣਾ"
+      "surface": "עוֹבֵר",
+      "gloss": "جا رہا \/ ہویا جاندا"
     },
     {
-      "surface": "לרוח",
-      "gloss": "ਹਵਾ ⟨ਨਾਲ⟩"
+      "surface": "לְרוּחַ",
+      "gloss": "ہوا نال \/ ہوا لئی"
     },
     {
-      "surface": "מדבר",
-      "gloss": "ਮਾਰੂ-ਥਲ ਦੀ"
+      "surface": "מִדְבָּר",
+      "gloss": "جنگلBlank"
     }
   ],
-  "timestamp": "2026-10-15T23:40:42.039454793Z",
-  "model": "glm-5.3",
-  "pnb_fold": {
-    "date": "2026-10-15",
-    "folds": {
-      "।→۔": 1
-    }
-  }
+  "timestamp": "2026-10-16T21:17:29.598411293Z",
+  "model": "glm-5.3"
 }

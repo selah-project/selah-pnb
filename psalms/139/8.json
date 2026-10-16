@@ -5,28 +5,7 @@
   "book": "psalms",
   "lang": "pnb",
   "chapter": 139,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "אתה / הנך",
-      "rationale": "دونوں ادھیاں وِچ 'توں ایں' واپس آؤندا اے — اسمان تے شیول دی سمت بدلدی اے، حاضری اوہی رہندی اے"
-    },
-    {
-      "kind": "addition",
-      "subject": "بِسترا",
-      "rationale": "ואציעہ دا مول 'بِچھاؤنا/وِچھاننا' اے، 'بِسترا' کوجھے لوکاں دے کلیشے وِچوں — پر ایتھے مناسب تصویر اے"
-    }
-  ],
-  "translation": "جے میں اسماناں ਨੂੰ ਚੜ੍ਹਾਂ — اوتھے ਤੂੰ ਏਂ; ਤੇ ਜੇ ਮੈਂ ਸ਼ਿਓਲ ਵਿੱਚ ਬਿਸਤਰਾ ਵਿਛਾਵਾਂ — ویکھو، ਤੂੰ ਉੱਥੇ ਏਂ۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "23f34992f0abf9b1e73c5c3835e92c0678749504d7c9181fb223e4ca452c589f",
-    "prompt-file": ".selah/sources/translations/prompts/pnb/psalms/139/5-8.1792114121397.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "جے اسیں اسماناں نوں چڑھاں، تُو اوتھے ایں؛ تے جے شیول وِچ اپنا بِستر وچھاواں، تُو ⟨اوتھے⟩ ایں!",
   "tokens": [
     {
       "surface": "אם",
@@ -46,27 +25,21 @@
     },
     {
       "surface": "אתה",
-      "gloss": "توں ایں"
+      "gloss": "تُو ایں"
     },
     {
       "surface": "ואציעה",
-      "gloss": "بِسترا وچھاواں"
+      "gloss": "تے بِستر وچھاواں"
     },
     {
       "surface": "שאול",
-      "gloss": "شیول وِچ"
+      "gloss": "شیول"
     },
     {
       "surface": "הנך",
-      "gloss": "ویکھو، توں ایں"
+      "gloss": "تُو ⟨اوتھے⟩ ایں"
     }
   ],
-  "timestamp": "2026-10-16T01:28:41.398197853Z",
-  "model": "glm-5.3",
-  "pnb_fold": {
-    "date": "2026-10-15",
-    "folds": {
-      "।→۔": 1
-    }
-  }
+  "timestamp": "2026-10-16T21:35:08.425879812Z",
+  "model": "glm-5.3"
 }

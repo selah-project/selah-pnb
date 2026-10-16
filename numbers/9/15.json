@@ -5,32 +5,11 @@
   "book": "numbers",
   "lang": "pnb",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "نوں",
-      "rationale": "پنجابی مفعولی پچھیتر، عبرانی وِچ את ای سی"
-    },
-    {
-      "kind": "substitution",
-      "subject": "دِسن",
-      "rationale": "מראה دس\/شکل اے، 'سروَرت' نئیں"
-    }
-  ],
-  "translation": "تے جس دن مسکن کھڑا کیتا گیا، بادل نے ⟨את⟩ مسکن نوں گواہی دے خیمے تے ڈھک دتا؛ تے شام نوں مسکن اُتے اگّ دے دِسن واگون رہندا، سویرے تک۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "107642ca5dee90ccb1b9725a0fa3826d2c7ad0883183103c79151034008da2c4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/9\/13-16.1792098530503.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "تے اُس دِن جدوں مسکن کھڑا کیتا گیا، بادل نے ⟨את⟩ مسکن نوں ڈھانپ لیا، ⟨یعنی⟩ گواہی دے خیمے نوں، تے شام نوں مسکن اُتے اگ دے دِکھن وانگ ہندا سی، سویر تک۔",
   "tokens": [
     {
       "surface": "וביום",
-      "gloss": "تے جس دن"
+      "gloss": "تے اُس دِن"
     },
     {
       "surface": "הקים",
@@ -39,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "مسکن نوں"
+      "marks": "مسکن"
     },
     {
       "surface": "המשכן",
@@ -47,24 +26,24 @@
     },
     {
       "surface": "כסה",
-      "gloss": "ڈھک دتا"
+      "gloss": "ڈھانپ لیا"
     },
     {
       "surface": "הענן",
-      "gloss": "بادل نے"
+      "gloss": "بادل"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "مسکن نوں"
+      "marks": "مسکن"
     },
     {
       "surface": "המשכן",
-      "gloss": "مسکن نوں"
+      "gloss": "مسکن"
     },
     {
       "surface": "לאהל",
-      "gloss": "خیمے تے"
+      "gloss": "خیمے لئی"
     },
     {
       "surface": "העדת",
@@ -76,7 +55,7 @@
     },
     {
       "surface": "יהיה",
-      "gloss": "رہندا"
+      "gloss": "ہندا سی"
     },
     {
       "surface": "על",
@@ -88,11 +67,11 @@
     },
     {
       "surface": "כמראה",
-      "gloss": "دے دِسن واگون"
+      "gloss": "دِکھن وانگ"
     },
     {
       "surface": "אש",
-      "gloss": "اگّ"
+      "gloss": "اگ"
     },
     {
       "surface": "עד",
@@ -100,9 +79,9 @@
     },
     {
       "surface": "בקר",
-      "gloss": "سویرے"
+      "gloss": "سویر"
     }
   ],
-  "timestamp": "2026-10-15T21:08:50.505179831Z",
+  "timestamp": "2026-10-16T21:34:09.323467764Z",
   "model": "glm-5.3"
 }

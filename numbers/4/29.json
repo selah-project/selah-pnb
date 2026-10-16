@@ -5,28 +5,7 @@
   "book": "numbers",
   "lang": "pnb",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "گِنتی",
-      "rationale": "פקד عہد نامے دی گِنتی\/مشتمل کرن دا فرمان اے"
-    },
-    {
-      "kind": "elision",
-      "subject": "אתם",
-      "rationale": "مفعول دا نشان ⟨את⟩ دے روپ وِچ رکھیا گیا، پنجابی وِچ وکھ لفظ نئیں"
-    }
-  ],
-  "translation": "مِراری دے پُتراں نوں، اوہناں دے ٹبراں مطابق، اوہناں دے پیؤواں دے گھراں مطابق، تُوں گِنیں۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "d89c13fa2238e052428a20574275f21ddb0c2e8d99b0dcba88ac039baadcf687",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/numbers\/4\/29-32.1792098313433.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "مِراری دے پُتراں نوں اُہناں دے خانداناں مطابق، اُہناں دے پیوآں دے گھراں مطابق تُوں گِنیں گا ⟨את⟩ اوہناں نوں۔",
   "tokens": [
     {
       "surface": "בני",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "למשפחתם",
-      "gloss": "اوہناں دے ٹبراں مطابق"
+      "gloss": "اُہناں دے خانداناں مطابق"
     },
     {
       "surface": "לבית",
@@ -46,18 +25,18 @@
     },
     {
       "surface": "אבתם",
-      "gloss": "اوہناں دے پیؤواں دے"
+      "gloss": "اُہناں دے پیوآں دے"
     },
     {
       "surface": "תפקד",
-      "gloss": "تُوں گِنیں"
+      "gloss": "تُوں گِنیں گا"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "مِراری دے پُتراں"
+      "marks": "اوہناں نوں — مِراری دے پُتر"
     }
   ],
-  "timestamp": "2026-10-15T21:05:13.434419601Z",
+  "timestamp": "2026-10-16T21:32:48.586002333Z",
   "model": "glm-5.3"
 }

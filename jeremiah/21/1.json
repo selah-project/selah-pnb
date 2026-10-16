@@ -5,35 +5,19 @@
   "book": "jeremiah",
   "lang": "pnb",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "پُتر … دا",
-      "rationale": "پنجابی safer ساخت وِچ reproduced اسم دے مگروں آؤندی اے، عبرانی construct دا الٹ"
-    }
-  ],
-  "translation": "ایہو اوہ بچن اے جیہڑا یِرمیاہو نوں یاہوہ ⟨את⟩ دے کولوں آیا، جد بادشاہ صِدقیاہو نے اوس کول پشحور پُتر ملکیاہ دا تے کاہن صفنیاہ پُتر معسیاہ دا، آکھن لئی گھلیا۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "f86ecbe3c5b463204cf0420bcb179a9253d05f9738cdd09327278da4b8317342",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/jeremiah\/21\/1-4.1792107895801.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "اوہ گلاہ جیہڑی یِرمییاہو نوں ⟨את⟩ یاہوہ ⟨توں⟩ پہنچی، جد بادشاہ صِدقییاہو نے اوہدے کول ⟨את⟩ پشخور، مَلکییاہ دے پُتر، تے ⟨את⟩ صِفنییاہ، مَعاسییاہ کاہن دے پُتر، نوں گھلیا، آکھن لئی ⟨:⟩",
   "tokens": [
     {
       "surface": "הדבר",
-      "gloss": "بچن"
+      "gloss": "اوہ گلاہ"
     },
     {
       "surface": "אשר",
-      "gloss": "جیہڑا"
+      "gloss": "جیہڑی"
     },
     {
       "surface": "היה",
-      "gloss": "آیا"
+      "gloss": "پہنچی"
     },
     {
       "surface": "אל",
@@ -41,12 +25,11 @@
     },
     {
       "surface": "ירמיהו",
-      "gloss": "یِرمیاہو"
+      "gloss": "یِرمییاہو"
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩",
-      "marks": "دے کولوں"
+      "gloss": "⟨את⟩ توں"
     },
     {
       "surface": "יהוה",
@@ -54,11 +37,11 @@
     },
     {
       "surface": "בשלח",
-      "gloss": "گھلن اُتے"
+      "gloss": "جد گھلیا"
     },
     {
       "surface": "אליו",
-      "gloss": "اوس کول"
+      "gloss": "اوہدے کول"
     },
     {
       "surface": "המלך",
@@ -66,16 +49,16 @@
     },
     {
       "surface": "צדקיהו",
-      "gloss": "صِدقیاہو"
+      "gloss": "صِدقییاہو"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "پشحور"
+      "marks": "پشخور"
     },
     {
       "surface": "פשחור",
-      "gloss": "پشحور"
+      "gloss": "پشخور"
     },
     {
       "surface": "בן",
@@ -83,16 +66,16 @@
     },
     {
       "surface": "מלכיה",
-      "gloss": "ملکیاہ"
+      "gloss": "مَلکییاہ"
     },
     {
       "surface": "ואת",
       "gloss": "تے ⟨את⟩",
-      "marks": "صفنیاہ"
+      "marks": "صِفنییاہ"
     },
     {
       "surface": "צפניה",
-      "gloss": "صفنیاہ"
+      "gloss": "صِفنییاہ"
     },
     {
       "surface": "בן",
@@ -100,7 +83,7 @@
     },
     {
       "surface": "מעשיה",
-      "gloss": "معسیاہ"
+      "gloss": "مَعاسییاہ"
     },
     {
       "surface": "הכהן",
@@ -111,6 +94,6 @@
       "gloss": "آکھن لئی"
     }
   ],
-  "timestamp": "2026-10-15T23:44:55.801753970Z",
+  "timestamp": "2026-10-16T21:18:28.696180238Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "2-kings",
   "lang": "pnb",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "הצל יצילנו",
-      "rationale": "infinitive-absolute + finite verb intensifier 'بچا کے بچا لویگا' rendered 'یقیناً بچا لویگا'."
-    },
-    {
-      "kind": "you",
-      "subject": "to the people of Jerusalem",
-      "rationale": "Direct second-person address throughout."
-    }
-  ],
-  "translation": "تے حِزقیاہُو تُہانوں یاہوہ اُتے بھروسہ نہ کرن دے، آکھ کے: یاہوہ سانوں یقیناً بچا لویگا، تے اِس شہر نوں اَشُّور دے بادشاہ دے ہتھ نئیں دِتا جاوےگا۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "e3f72b240fee665069e4269f7976eb17c5fa803f6d67fcdd3bb1d7ce8b3cb762",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/2-kings\/18\/29-32.1792105515745.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "تے حِزقیاہو تُہانوں یاہوہ اُتے بھروسہ نہ کروائے، ایہہ آکھ کے: یاہوہ لبھّو لبھّ سانوں چھڈائےگا، تے ⟨את⟩ ایہہ شہر آشور دے بادشاہ دے ہتھ نہیں دتا جائوےگا۔",
   "tokens": [
     {
       "surface": "ואל",
@@ -34,16 +13,16 @@
     },
     {
       "surface": "יבטח",
-      "gloss": "بھروسہ کرن دے"
+      "gloss": "بھروسہ کروائے"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "تُہانوں"
+      "gloss": "⟨את⟩ تُہانوں",
+      "marks": "حِزقیاہو دا بھروسہ (تُساں)"
     },
     {
       "surface": "חזקיהו",
-      "gloss": "حِزقیاہُو"
+      "gloss": "حِزقیاہو"
     },
     {
       "surface": "אל",
@@ -55,15 +34,15 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "آکھ کے"
+      "gloss": "ایہہ آکھ کے"
     },
     {
       "surface": "הצל",
-      "gloss": "یقیناً بچا"
+      "gloss": "لبھّو لبھّ (اِکو کِراء دو واری)"
     },
     {
       "surface": "יצילנו",
-      "gloss": "بچا لویگا"
+      "gloss": "سانوں چھڈائےگا"
     },
     {
       "surface": "יהוה",
@@ -71,16 +50,16 @@
     },
     {
       "surface": "ולא",
-      "gloss": "تے نئیں"
+      "gloss": "تے نہیں"
     },
     {
       "surface": "תנתן",
-      "gloss": "دِتا جاوےگا"
+      "gloss": "دتا جائوےگا"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "اِس شہر نوں"
+      "marks": "ایہہ شہر"
     },
     {
       "surface": "העיר",
@@ -88,11 +67,11 @@
     },
     {
       "surface": "הזאת",
-      "gloss": "اِس"
+      "gloss": "ایہہ"
     },
     {
       "surface": "ביד",
-      "gloss": "ہتھ وِچ"
+      "gloss": "دے ہتھ"
     },
     {
       "surface": "מלך",
@@ -100,9 +79,9 @@
     },
     {
       "surface": "אשור",
-      "gloss": "اَشُّور"
+      "gloss": "آشور"
     }
   ],
-  "timestamp": "2026-10-15T23:05:15.746435324Z",
+  "timestamp": "2026-10-16T21:00:44.212334909Z",
   "model": "glm-5.3"
 }

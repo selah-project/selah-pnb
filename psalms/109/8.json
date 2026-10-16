@@ -5,60 +5,33 @@
   "book": "psalms",
   "lang": "pnb",
   "chapter": 109,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "ਉਸਦੇ ਦਿਨ ਘੱਟ ਹੋਣ",
-      "rationale": "ਉਮਰ ਦੀ ਗਿਣਤੀ ਦੀ ਬੇਨਤੀ — ਦਿਨਾਂ ਦੀ ਗਿਣਤੀ ਘਟਾਉਣ ਦਾ ਸੱਦਾ।"
-    },
-    {
-      "kind": "crux",
-      "subject": "פקודתו",
-      "rationale": "'ਉਸਦੀ ਨਿਗਰਾਨੀ/ਅਹੁਦਾ' — KJV 'office', JPS 'charge'; ਜਾਂ 'ਉਸਦੀ ਜ਼ਿੰਦਗੀ ਦੀ ਗਿਣਤੀ' ਵੀ ਪੜ੍ਹੀ ਜਾਂਦੀ ਹੈ (ਅਗਲੀ ਆਇਤ ਨਾਲ ਜੁੜ ਕੇ)।"
-    }
-  ],
-  "translation": "ਉਸਦੇ ਦਿਨ ਘੱਟ ਹੋਣ, ਉਸਦੀ ਅਫ਼ਸਰੀ ਦੂਜਾ ਲੈ ਲਵੇ۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "6f19dae491a01475922e5575bbc1bde79c2b2eed86026de955e8e7f91e9ab34a",
-    "prompt-file": ".selah/sources/translations/prompts/pnb/psalms/109/5-8.1792113712327.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "اُس دے دن تھوڑے ہون، تے اُس دی اِک دوجا ⟨اُس دا⟩ عہدہ لاوے۔",
   "tokens": [
     {
       "surface": "יהיו",
-      "gloss": "ਹੋਣ"
+      "gloss": "ہون"
     },
     {
       "surface": "ימיו",
-      "gloss": "ਉਸਦੇ ਦਿਨ"
+      "gloss": "اُس دے دن"
     },
     {
       "surface": "מעטים",
-      "gloss": "ਘੱਟ"
+      "gloss": "تھوڑے"
     },
     {
       "surface": "פקדתו",
-      "gloss": "ਉਸਦੀ ਅਫ਼ਸਰੀ"
+      "gloss": "اُس دا عہدہ"
     },
     {
       "surface": "יקח",
-      "gloss": "ਲੈ ਲਵੇ"
+      "gloss": "لاوے"
     },
     {
       "surface": "אחר",
-      "gloss": "ਦੂਜਾ"
+      "gloss": "اِک دوجا"
     }
   ],
-  "timestamp": "2026-10-16T01:21:52.328546670Z",
-  "model": "glm-5.3",
-  "pnb_fold": {
-    "date": "2026-10-15",
-    "folds": {
-      "।→۔": 1
-    }
-  }
+  "timestamp": "2026-10-16T21:35:05.210602312Z",
+  "model": "glm-5.3"
 }
