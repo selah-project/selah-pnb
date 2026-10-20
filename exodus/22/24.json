@@ -5,28 +5,7 @@
   "book": "exodus",
   "lang": "pnb",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "جو",
-      "rationale": "عبرانی وِچ جوڑ والا لفظ نئیں؛ پنجابی جملے لئی \"جو تہاڈے نال اے\" وِچ شامل کیتا"
-    },
-    {
-      "kind": "you",
-      "subject": "اسرائیل نوں",
-      "rationale": "قرض دا حکم سِدھا قوم ول"
-    }
-  ],
-  "translation": "جے چاندی ادھار دیوو ⟨את⟩ میرے قوم نوں، ⟨את⟩ ⟨⟩ غریب نوں جو تہاڈے نال اے، تسیں اوہدے اتے قرض خور نہ بنو، نہ پاؤ اوہدے اتے سود۔",
-  "provenance": {
-    "system-sha256": "fbeac1761fcc5cf0770c1a30aa13101e440583fbe6c4a1888ef3dd35dced814f",
-    "user-sha256": "9d0cc3bbf40d6230cab9c525993394b79a1b331df03b195daefc77b66308228a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/pnb\/exodus\/22\/21-24.1792096716579.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "جے تُو چاندی اُدھار دیویں، ⟨את⟩ میرے لوکاں نوں، ⟨את⟩ ⟨اوہ⟩ غریب نوں جیہڑا تیرے نال اے، تُو اوہدے لئی قرض دین والا ناں بنے، اوہدے اُتے سود ناں رکھیں۔",
   "tokens": [
     {
       "surface": "אם",
@@ -38,16 +17,16 @@
     },
     {
       "surface": "תלוה",
-      "gloss": "ادھار دیوو"
+      "gloss": "اُدھار دیویں"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "میرے قوم نوں"
+      "marks": "میرے لوکاں نوں"
     },
     {
       "surface": "עמי",
-      "gloss": "میرے قوم نوں"
+      "gloss": "میرے لوکاں نوں"
     },
     {
       "surface": "את",
@@ -60,41 +39,41 @@
     },
     {
       "surface": "עמך",
-      "gloss": "تہاڈے نال"
+      "gloss": "تیرے نال"
     },
     {
       "surface": "לא",
-      "gloss": "نہ"
+      "gloss": "ناں"
     },
     {
       "surface": "תהיה",
-      "gloss": "بنو"
+      "gloss": "بنے"
     },
     {
       "surface": "לו",
-      "gloss": "اوہدے اتے"
+      "gloss": "اوہدے لئی"
     },
     {
       "surface": "כנשה",
-      "gloss": "قرض خور"
+      "gloss": "قرض دین والا"
     },
     {
       "surface": "לא",
-      "gloss": "نہ"
+      "gloss": "ناں"
     },
     {
       "surface": "תשימון",
-      "gloss": "پاؤ"
+      "gloss": "رکھیں"
     },
     {
       "surface": "עליו",
-      "gloss": "اوہدے اتے"
+      "gloss": "اوہدے اُتے"
     },
     {
       "surface": "נשך",
       "gloss": "سود"
     }
   ],
-  "timestamp": "2026-10-15T20:38:36.580943542Z",
+  "timestamp": "2026-10-20T00:32:26.284993851Z",
   "model": "glm-5.3"
 }
